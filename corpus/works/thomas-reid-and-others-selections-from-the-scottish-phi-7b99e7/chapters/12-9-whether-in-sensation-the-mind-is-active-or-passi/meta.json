@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 12,
+  "chapter_title": "§ 9.: Whether in Sensation the Mind is Active or Passive?",
+  "chapter_slug": "12-9-whether-in-sensation-the-mind-is-active-or-passi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dccddd41-66eb-5403-83f6-c484e49df7c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 611,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "wilhelm-von-humboldt-the-sphere-and-duties-of-governm-76de6e",
+  "work_title": "The Sphere and Duties of Government",
+  "chapter_number": 4,
+  "chapter_title": "CHAPTER II.: of the individual man, and the highest ends of his existence.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1479e632-cabc-5a99-89be-d6531ff68d92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2308,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/coulthard-the-sphere-and-duties-of-government-1792-1854"
+    }
+  ]
+}

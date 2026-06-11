@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 57,
+  "chapter_title": "II.: Protection of London from arbitrary Exactions.",
+  "chapter_slug": "57-ii-protection-of-london-from-arbitrary-exactions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e972c44f-e573-54f4-bdfc-fb8774d20d71",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 136,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-law-of-intellectual-property-cbbb74",
+  "work_title": "The Law of Intellectual Property",
+  "chapter_number": 28,
+  "chapter_title": "CHAPTER IV.: THE SALE OF IDEAS.",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "85d1030e-7fa7-5075-8e0c-143a6be3a6a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8143,
+      "paragraph_count": 99,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-law-of-intellectual-property-1855"
+    }
+  ]
+}

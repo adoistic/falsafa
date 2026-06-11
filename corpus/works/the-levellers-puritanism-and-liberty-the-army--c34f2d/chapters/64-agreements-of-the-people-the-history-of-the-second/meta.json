@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 64,
+  "chapter_title": "Agreements of the People the history of the second agreement From John Lilburne, Legal Fundamental Liberties (1649)",
+  "chapter_slug": "64-agreements-of-the-people-the-history-of-the-second",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd52c127-ccab-5a9a-ba5f-f40ec5336d40",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6320,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

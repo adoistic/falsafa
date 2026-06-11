@@ -1,0 +1,27 @@
+---
+work_id: "09683f4f-833e-576f-99e6-7b556e9bd423"
+work_slug: "gaius-institutes-of-roman-law-09683f"
+work_title: Institutes of Roman Law
+author_name: Gaius
+chapter_number: 1
+chapter_title: PREFACE
+chapter_slug: "01-preface"
+variant_id: "dbf95f4f-f70a-556a-b6ac-91a317d13d14"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 606
+source_url: "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+translator: Online Library of Liberty edition
+---
+
+The death of the author of this Commentary and Translation has taken from us one who in the intervals allowed him by his official duties gave himself with single-minded devotion to the acquisition and furtherance of knowledge. ‘Omnium, quos cognovi, doctissimus’ were the words in which Mr. Poste’s great erudition was commemorated by the Vice-Chancellor of the University, the distinguished head of the distinguished College of which Mr. Poste was almost the senior Fellow; and certainly no one can read this Commentary without being impressed by the writer’s philosophic spirit and extensive learning. It is especially remarkable that a scholar, who was never engaged in the teaching or practice of law, should have produced a legal textbook, which perhaps more than any other makes intelligible to English students the teaching of the great German masters of Roman jurisprudence and at the same time never fails to be interesting by reason of its own force and individuality.
+
+In re-editing this well-known work, at the request of Mr. Poste’s executors and of the Delegates of the Clarendon Press, my endeavour has been to preserve as far as possible the character which Mr. Poste himself gave it, while making such alterations as seemed to be required at the present time. As Mr. Poste never revised his Translation and Commentary with any completeness since they were first published, their revision for this edition has been a more considerable undertaking than would otherwise have been the case. It should be noticed that the part of the Commentary relating to analytic jurisprudence has been much curtailed in the present edition. This has been done by the advice of persons engaged in the teaching of Roman law at Oxford, who are of opinion that the insertion of so much matter bearing on the general theory of law has rendered the Commentary unnecessarily difficult to students and that the subject is one better left to independent treatises. The omission of the Preliminary Definitions on this account has made it possible to introduce into the book an Historical Introduction to Gaius, which has been written by Dr. Greenidge, who is well Edition: current; Page: [ii] known for his writings on Roman constitutional history, and for his special Treatises on ‘Infamia’ and on ‘The Legal Procedure of Cicero’s Time.’
+
+The text of Gaius adopted is that of the last edition of Krueger and Studemund, which its German proprietors have again most kindly allowed us to use. In this text the numerous lacunae are only filled up, where from passages in the Institutes or other sources the missing words may be inferred, at least with a very high degree of probability. Some other conjectural readings, more or less followed in the Translation, will be found in the Appendix. It is to be hoped that in some future edition of this book a Critical Apparatus may be supplied by a competent hand. In the meantime the student should more especially refer to the notes on the text appended to Krueger’s and Studemund’s Gaius. He may also consult with advantage the notes to the late Professor Muirhead’s edition of Gaius, though the valuable textual criticism to be found there requires revision in the light of more recent research.
+
+In conclusion, I have to express my obligations to my old friend and pupil Mr. Ledlie, the translator of Sohm’s Institutes, for many helpful suggestions. Another old friend and pupil, Dr. Potts, has also rendered me valuable aid, especially in the preparation of the Index and of the Chronological Table. My friends Dr. Schuster and Dr. Greenidge have given me useful information on several points about which I have consulted them.

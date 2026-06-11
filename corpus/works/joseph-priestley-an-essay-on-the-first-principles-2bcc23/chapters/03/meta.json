@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-an-essay-on-the-first-principles-2bcc23",
+  "work_title": "An Essay on the First Principles of Government",
+  "chapter_number": 3,
+  "chapter_title": "SECTION II.: OF POLITICAL LIBERTY.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9642fbc-cd5a-54eb-bc5b-6ce9a4a37126",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6433,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-an-essay-on-the-first-principles-of-government"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-a-letter-to-grover-cleveland-13d19d",
+  "work_title": "A Letter to Grover Cleveland",
+  "chapter_number": 12,
+  "chapter_title": "Section XII.",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3f8a98da-0830-507e-8c0c-9ba09ee5f053",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2955,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
+    }
+  ]
+}

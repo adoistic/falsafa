@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-a-protest-against-law-taxes-fd8979",
+  "work_title": "A Protest Against Law-Taxes",
+  "chapter_number": 1,
+  "chapter_title": "A PROTEST against LAW - TAXES.",
+  "chapter_slug": "01-a-protest-against-law-taxes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ff8d4342-1713-5dd3-84b7-78eca63abd5b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8093,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-a-protest-against-law-taxes"
+    }
+  ]
+}

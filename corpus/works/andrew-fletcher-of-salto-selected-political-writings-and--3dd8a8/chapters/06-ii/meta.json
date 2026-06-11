@@ -1,0 +1,26 @@
+{
+  "work_slug": "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8",
+  "work_title": "Selected Political Writings and Speeches",
+  "chapter_number": 6,
+  "chapter_title": "II",
+  "chapter_slug": "06-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6142806c-3037-50df-b70f-2caaf7a5b5e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 977,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fletcher-selected-discourses-and-speeches"
+    }
+  ]
+}

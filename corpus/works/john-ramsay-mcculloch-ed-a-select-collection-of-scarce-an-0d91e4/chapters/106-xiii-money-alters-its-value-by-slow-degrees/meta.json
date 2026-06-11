@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 106,
+  "chapter_title": "XIII.: Money alters its value by slow degrees.",
+  "chapter_slug": "106-xiii-money-alters-its-value-by-slow-degrees",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de45da4d-01ea-53ec-bf4d-a40ffed5b610",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 247,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

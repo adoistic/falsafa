@@ -1,0 +1,27 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 22
+chapter_title: LEMMA II.
+chapter_slug: "22-lemma-ii"
+variant_id: "490cb8e1-1c1a-545d-bc90-ac86bc9b8e38"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 711
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+And yet, unable as the imperfect man may be to fulfil the perfect law, there is no other law for him. One right course only is open; and he must either follow that or take the consequences. The conditions of existence will not bend before his perversity; nor relax in consideration of his weakness. Neither, when they are broken, may any exception from penalties be hoped for. “Obey or suffer” are the ever-repeated alternatives. Disobedience is sure to be convicted. And there are no reprieves.
+
+It is indeed the favourite maxim of a certain popular philosophy, that “there is no rule without an exception,”—a Edition: current; Page: [39] maxim about as respectable as the proverbs along with which it commonly passes current. Applied to conventional usages—to the tenets of state policy—to social regulations—to the precepts of pocket prudence—to the laws of grammar, of art, of etiquette—or to those common aphorisms which roughly classify the experiences of every-day life, it may be true enough; but if affirmed of the essential principles of things, of society, of man, it is utterly false.
+
+Nature’s rules, on the contrary, have no exceptions. The apparent ones are only apparent; not real. They are indications either that we have not found the true law, or that we have got an imperfect expression of it. Thus, if terrestrial gravitation be defined as “a tendency possessed by all free bodies to descend towards the centre of the earth,” you may triumphantly add—“all free bodies except the balloon.” But your balloon is no exception. Its ascent is just as much a result of gravitation as the falling of a stone. You have merely proved that the definition does not adequately express the law. Again, to the assertion that exercise increases strength—you may answer, that although generally true, it is not true of invalids, to whom exercise is often detrimental; and that it is only true of the healthy within certain limits. Just so. But such qualifications would have been needless, if the law had been completely stated. Had it been said that—so long as the power of assimilation is sufficient to make good the waste consequent upon exercise, exercise increases strength—no limitations could have been discovered. The so-called exceptions are in ourselves, not in nature. They show either that the law eludes our perception, or baffles our power of expression.
+
+Rightly understood, the progress from deepest ignorance to highest enlightenment, is a progress from entire unconsciousness of law, to the conviction that law is universal and inevitable. Accumulating knowledge and continual induction are ever restricting the old ideas of special causation within narrower limits. Each new discovery in science—every anomaly solved—strengthens men in the belief that phenomena Edition: current; Page: [40] result from general uniform forces. And at length, by dint of constantly-repeated evidence, they begin to perceive that there are no suspensions of these forces even for the avoidance of the most terrific catastrophes. They see that although fleets be sent to the bottom by the resulting storm, yet must atmospheric equilibrium be restored. They see that the earth does not cease its attraction, even to save a village from the impending avalanche. They see that, regardless of the consequent destruction of a church, or blowing up of a vessel, the electric fluid will still follow “the line of least resistance.” They see that chemical affinity must act, notwithstanding it ends in the burning of a city to ashes—in the submergence of half a country by volcanic disturbance—or in the loss of a hundred thousand lives by an epidemic. Every increment of knowledge goes to show that constancy is an essential attribute of the Divine rule: an unvaryingness which renders the eclipse of a hundred years hence predicable to a moment! And for the end of these unbending ordinances of nature—we find it to be the universal good. To render the world habitable; that is the great object. The minor evils due to this persistency of action are as nothing compared with the infinite benefits secured. Whether those evils might or might not have been avoided, we need not now consider. It is enough for us to know that constancy is the law, and we have no alternative but to assume that law to be the best possible one.

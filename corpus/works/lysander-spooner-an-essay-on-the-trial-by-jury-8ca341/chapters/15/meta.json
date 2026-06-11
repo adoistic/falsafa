@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341",
+  "work_title": "An Essay on the Trial by Jury",
+  "chapter_number": 15,
+  "chapter_title": "SECTION V.: The Oaths of Judges.↩",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ef98f1e-d0b1-5fdb-8983-7f979e72bf91",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1254,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-an-essay-on-the-trial-by-jury-1852"
+    }
+  ]
+}

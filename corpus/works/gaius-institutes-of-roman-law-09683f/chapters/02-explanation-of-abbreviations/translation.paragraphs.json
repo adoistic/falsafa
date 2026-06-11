@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p-1a821a",
+    "offset": 0,
+    "text": "Inst. Institutes of Justinian."
+  },
+  {
+    "id": "p-de98f1",
+    "offset": 32,
+    "text": "Dig. Digest or Pandects of Justinian."
+  },
+  {
+    "id": "p-c15642",
+    "offset": 71,
+    "text": "Cod. Code of Justinian."
+  },
+  {
+    "id": "p-bffbd4",
+    "offset": 96,
+    "text": "Nov. Novellae Constitutiones or Novels of Justinian."
+  },
+  {
+    "id": "p-f3e1b9",
+    "offset": 150,
+    "text": "The meaning of the numbers that follow these abbreviations will be obvious to any one who opens a volume of the Corpus Juris."
+  },
+  {
+    "id": "p-20fbe1",
+    "offset": 277,
+    "text": "Pr. stands for principio, meaning, in the first paragraph of a title of the Institutes, or of a fragment of a title of the Digest, or of a ‘lex’ of a title of the Code."
+  },
+  {
+    "id": "p-ff7a44",
+    "offset": 447,
+    "text": "The Commentaries of Gaius are referred to by numbers indicating the book and the paragraph: e.g. 2 § 5, indicates the 5th paragraph of Book 2. When the reference is to another paragraph in the same book, the book is omitted."
+  },
+  {
+    "id": "p-b12c96",
+    "offset": 673,
+    "text": "When Ulpian or Paulus are quoted, the works referred to are the Ulpiani Fragmenta or Excerpta ex Ulpiani Libro singulari Regularum, and the Sententiae Receptae of Paulus."
+  },
+  {
+    "id": "p-9a1425",
+    "offset": 845,
+    "text": "Fragm. Vat. Fragmenta Juris Romani Vaticana."
+  },
+  {
+    "id": "p-2f0e2f",
+    "offset": 891,
+    "text": "(For the Jus antejustinianum see Huschke’s or Krueger’s Collections of ante-Justinian legal writings.)"
+  },
+  {
+    "id": "p-cfaac2",
+    "offset": 995,
+    "text": "When Savigny, Vangerow, Keller, Bethmann-Hollweg, Ihering, Kuntze, Windscheid, Dernburg, Lenel, Sohm, Muirhead, and Roby are simply cited, the references are to Savigny, System des heutigen römischen Rechts; Vangerow, Lehrbuch der Pandekten; Keller, Der römische Civilprocess und die Actionen; Bethmann-Hollweg, Der römische Civilprozess; Ihering, Geist des römischen Rechts auf den verschiedenen Stufen seiner Entwicklung; Kuntze, Institutionen und Geschichte des römischen Rechts; Windscheid, Lehrbuch des Pandekten-Rechts; Dernburg, Pandekten; Lenel, Das Edictum Perpetuum, ein Versuch zu dessen Wiederherstellung; Sohm, The Institutes—A Text-book of the History and System of Roman Private Law (translated by J. C. Ledlie), 2nd ed.; Muirhead, Historical Introduction to the Private Law of Rome, 2nd ed.; Roby, Roman Private Law in the times of Cicero and of the Antonines."
+  }
+]

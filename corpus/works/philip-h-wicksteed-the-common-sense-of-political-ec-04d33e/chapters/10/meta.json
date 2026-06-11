@@ -1,0 +1,26 @@
+{
+  "work_slug": "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e",
+  "work_title": "The Common Sense of Political Economy",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER VII: MARKETS (Continued). INTEREST. TOOLS. LAND",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1855b920-0e2e-5129-9bf5-626942bd1f9e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 20069,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
+    }
+  ]
+}

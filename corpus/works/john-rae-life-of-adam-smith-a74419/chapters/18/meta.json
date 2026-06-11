@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-rae-life-of-adam-smith-a74419",
+  "work_title": "Life of Adam Smith",
+  "chapter_number": 18,
+  "chapter_title": "CHAPTER XVII: LONDON 1773-1776. Aet. 50-53",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0359b528-0d66-5b10-9483-d343d23bca03",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8063,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
+    }
+  ]
+}

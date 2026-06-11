@@ -1,0 +1,33 @@
+---
+work_id: "aac5d21b-8c32-59cd-881b-a2a516325284"
+work_slug: "adam-smith-lectures-on-justice-police-reven-aac5d2"
+work_title: Lectures on Justice, Police, Revenue, and Arms
+author_name: Adam Smith
+chapter_number: 15
+chapter_title: "[§ 8. Of the Feudal System.]"
+chapter_slug: "15-8-of-the-feudal-system"
+variant_id: "31ebeff7-d03b-5c57-a0e2-2c8207cc732e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1064
+source_url: "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+translator: Online Library of Liberty edition
+---
+
+We are next to show how the allodial government was overturned and the feudal system introduced.
+
+As these great lords were continually making war upon Edition: current; Page: [37] one another, in order to secure the attendance of their tenants, they gave them leases of the lands which they possessed from year to year, which afterwards, for the same reasons, came to be held for life.
+
+When they were about to engage in any very hazardous enterprise, that, in case of the worst consequences, the families of their vassals who went along with them might not be left destitute, and that they might still be more encouraged to follow them, they extended this right to the life of the son and grandson: as it was thought cruel to turn out an old possessor, the right became at last hereditary, and was called feuda. The feudal tenant was bound to certain offices, but service in war was the chief thing required, and if the heir was not able to perform it, he was obliged to appoint one in his place. It was in this manner that wardships were introduced. When the heir female succeeded, the feudal baron had a right to marry her to whomever he pleased, because it was thought reasonable that he should have a vassal of his own choosing. The prima seizin was another emolument of the master. When the father died the son had no right to the estate till he publicly declared his willingness to accept of it; and on this account the lord sometimes had the estate in his own Edition: current; Page: [38] hand, and enjoyed the profits of it for some time. The heir paid a sum to get it back, which was called relief. There was still another emolument belonging to the lord, called escheat; that is, after the estate became hereditary, if there was no heir of the family to succeed, it returned to the lord. The same thing happened if the heir failed of performing the services for which he had the tenure. There were besides these some small sums due to the superior on redeeming his son when taken prisoner, or on knighting him, and on the marriage of his daughter, and some such occasions.
+
+The same causes that made allodial lords give away their lands to their vassals on leases which afterwards became hereditary, made the king give away the greater part of his lands to be held feudally: and what a tenant possessed in feu was much the same with real property. They were indeed subject to the above-mentioned emoluments, but they possessed their lands for themselves and posterity. Feudal property may in some respects be inferior to allodial, but the difference is so inconsiderable that allodial lordships soon become to be held feudally. About the tenth century all estates came to be held feudally, and the allodial lords, that they might enjoy the king’s protection, exchanged their rights for a feudal tenure.
+
+It is to be observed that those historians who give an account of the origin of feudal laws from the usurpation of the nobility are quite mistaken. They say that the nobility wanted to have those lands which they held at pleasure of the king to be hereditary, that it might not be in his power to turn them out, and that the feudal law was introduced Edition: current; Page: [39] on account of the diminution of the king’s power. But it was actually the contrary; it was on account of the increase of his power, and it required great influence in the king to make the lords hold their lands feudally. The best proof of this is that William the Conqueror changed all the allodial lordships in England into feudal tenures and Malcolm Kenmure did the same in Scotland.
+
+The introduction of the feudal system into all Europe took away everything like popular government. The popular courts were all removed. Neither decennary, hundred, nor county courts were allowed. All public affairs were managed by the king and the great feudal lords. No commoners, none but hereditary lords had a right to sit in parliament. Those great lords who held immediately of the king were considered as his companions, pares convivii comites. They advised concerning public affairs, and nothing of importance could be done without them. The consent of the majority was to be obtained before any law could be passed, and it was necessary to have them called together. The barons or inferior lords observed the same method in their jurisdictions, and they who held of them were called pares curiae baronis. It was likewise necessary that they should be consulted, as they too were in arms. The baron could neither go to war, nor make a law, without the consent of the majority. Nothing could be done in the kingdom without almost universal consent, and thus they fell into a kind of aristocracy with the king at the head of it.
+
+Besides these orders of men of which we have taken notice, there were two others which in that period were held in the utmost contempt. The first was that of the villains (villani) who ploughed the ground and were Edition: current; Page: [40] adscripti glebae. The second order was the inhabitants of boroughs, who were much in the same state of villainage with the former, or but a little beyond it. As the boroughs were much under the influence of the lord who gave them protection, it was the king’s interest to weaken as much as possible this interest and to favour their liberty. Henry II carried this so far that if a slave escaped to a borough and lived there peaceably a year and day, he became free. He gave them many other privileges, but what secured them most was the power of forming themselves into corporations upon paying a certain sum to the king. They held of him in capite, and at first every man paid his proportion to the king; but afterwards the borough paid the sum and levied it as it seemed proper to itself. By this means, as the number of inhabitants increased, the burden became lighter, and the boroughs became opulent and very considerable. In the reign of King John a law was made that if a lord married his ward to a burgher he only forfeited his wardship.

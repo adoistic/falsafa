@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 9,
+  "chapter_title": "VII: INTRODUCTION TO L. A. BURD’S EDITION OF IL PRINCIPE BY MACHIAVELLI",
+  "chapter_slug": "09-vii-introduction-to-l-a-burd-s-edition-of-il-princ",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c704a064-bada-580e-98fe-b2a83108db24",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6771,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

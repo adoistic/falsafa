@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-popular-political-economy-048fd0",
+  "work_title": "Popular Political Economy",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER V: CAUSES WHICH GIVE RISE TO, AND LIMIT, DIVISION OF LABOUR.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a81fd6b-cb52-5964-8d53-a3ff880ac3dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4434,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution"
+    }
+  ]
+}

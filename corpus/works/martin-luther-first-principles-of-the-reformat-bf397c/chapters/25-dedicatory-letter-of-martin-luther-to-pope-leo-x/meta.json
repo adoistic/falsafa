@@ -1,0 +1,26 @@
+{
+  "work_slug": "martin-luther-first-principles-of-the-reformat-bf397c",
+  "work_title": "First Principles of the Reformation",
+  "chapter_number": 25,
+  "chapter_title": "DEDICATORY LETTER OF MARTIN LUTHER TO POPE LEO X.",
+  "chapter_slug": "25-dedicatory-letter-of-martin-luther-to-pope-leo-x",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36c1bce6-45f0-51cd-ae12-f90f9a61b8d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3835,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/luther-first-principles-of-the-reformation-1883"
+    }
+  ]
+}

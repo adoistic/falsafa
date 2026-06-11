@@ -1,0 +1,21 @@
+---
+work_id: "5167c1c2-6a56-5480-a9be-3f27fc507a97"
+work_slug: "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1"
+work_title: Reflections on the Formation and Distribution of Riches
+author_name: Anne Robert Jacques Turgot
+chapter_number: 59
+chapter_title: 62. Another employment of capitals, in advances towards undertakings of agriculture. Observations on the use, and indisp
+chapter_slug: "59-62-another-employment-of-capitals-in-advances-towa"
+variant_id: "f251a253-f37b-59f6-bd15-c52915bcb063"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 391
+source_url: "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+translator: Online Library of Liberty edition
+---
+
+In speaking first of the placing of capitals in manufacturing enterprizes, I had in view to adduce a more striking example, of the necessity and effect of large advances, and of the course of their circulation. But I have reversed the natural order, which seemed to require that I should rather begin to speak of enterprizes of agriculture, which also can neither be performed, nor extended, nor afford any profit, but by means of considerable advances. It is the proprietors of great capitals, who, in order to make them productive in undertakings of agriculture, take leases of lands, and pay to the owners large rents, taking on themselves the whole burthen of advances. Their case must necessarily be the same as that of the undertakers of manufactures. Like them, they are obliged to make the first advances towards the undertaking, to provide themselves with cattle, horses, utensils of husbandry, to purchase the first seeds; like them they must maintain and nourish their carters, reapers, threshers, servants, and labourers, of every denomination, who subsist only by their hands, who advance only their labour, and reap only their salaries. Like them, they ought to have not only their capital, I mean, all their prior and annual advances returned, but, 1st, a profit equal to the revenue they could have acquired with their capital, exclusive of any fatigue; 2ndly. The salary, and the price of their own trouble, of their risk, and their industry; 3rdly. An emolument to enable them to replace the effects employed in their enterprise, and the loss by waste, cattle dying, and utensils wearing out, &c., all which ought to be first charged on the products of the earth. The over-plus will serve the cultivator to pay to the proprietor, for the permission he has given him to make use of his field in the accomplishing of his enterprize; that is, the price of the leasehold, the rent of the proprietor and the clear product: for all that the land produces, until reimbursement of the advances, and profits of every kind to him that has made these advances, cannot be looked upon as a revenue, but only as a reimbursement of the expences of the cultivation, since if the cultivator could not obtain them, he would be loath to risk his wealth and trouble in cultivating the field of another.

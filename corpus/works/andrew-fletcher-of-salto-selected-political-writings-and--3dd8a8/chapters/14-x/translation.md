@@ -1,0 +1,21 @@
+---
+work_id: "3dd8a8b9-9a83-5d13-a498-8ce72fbe3fa7"
+work_slug: "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8"
+work_title: Selected Political Writings and Speeches
+author_name: Andrew Fletcher of Saltoun
+chapter_number: 14
+chapter_title: X
+chapter_slug: "14-x"
+variant_id: "4bed7e2c-ffc9-57d9-97a4-49461c811eec"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 397
+source_url: "https://oll.libertyfund.org/titles/fletcher-selected-discourses-and-speeches"
+translator: Online Library of Liberty edition
+---
+
+On the day that the act for the security of the kingdom passed in this house, I did not presume to move for the royal assent. The next day of our meeting I mentioned it with all imaginable respect and deference for his grace the high Commissioner, and divers honourable persons seconded me. If now, after the noble lord who spoke last, I insist upon it, I think I am no way to be blamed. I shall not endeavour to show the necessity of this act, in which the whole security of the nation now lies, having spoken to that point the other day: but shall take occasion to say something concerning the delay of giving the royal assent to acts passed in this house; for which I could never hear a good reason, except that a Commissioner was not sufficiently instructed. But that cannot be the true reason at this time, because several acts have lain long for the royal assent: in particular, that to ratify a former act, for turning the convention into a parliament, and fencing the claim of right, which no man doubts his grace is sufficiently instructed to pass. We must therefore look elsewhere for the reason of this delay, and ought to be excused in doing this; since so little regard is had, and so little satisfaction given to the representatives of this nation, who have for more than three months employed themselves with the greatest assiduity in the service of their country, and yet have not seen the least fruit of their labours crowned with the royal assent. Only one act has been touched, for recognizing her Majesty’s just right, which is a thing of course. This gives but too good reason to those who speak freely, to say that the royal assent is industriously suspended, in order to oblige some men to vote, as shall be most expedient to a certain interest; and that this session of parliament is continued so long, chiefly to make men uneasy, who have neither places nor pensions to bear their charges; that by this means acts for money, importation of French wine, and the like, may pass in a thin house, which will not fail immediately to receive the royal assent, whilst the acts that con Edition: current; Page: [87] cern the welfare, and perhaps the very being of the nation, remain untouched.

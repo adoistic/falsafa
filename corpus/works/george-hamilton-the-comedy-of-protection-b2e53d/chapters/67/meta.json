@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 67,
+  "chapter_title": "CHAPTER II: NUTRITION AND EVOLUTION",
+  "chapter_slug": "67",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4f97e68-782c-5dce-a0fa-2b5418e9bfd5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 391,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

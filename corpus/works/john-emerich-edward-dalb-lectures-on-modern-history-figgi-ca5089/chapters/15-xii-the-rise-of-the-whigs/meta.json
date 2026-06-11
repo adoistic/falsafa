@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 15,
+  "chapter_title": "XII: THE RISE OF THE WHIGS",
+  "chapter_slug": "15-xii-the-rise-of-the-whigs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f914aabc-1986-50c3-a874-db0eac052fa4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4384,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
+  "work_title": "Lectures on Justice, Police, Revenue, and Arms",
+  "chapter_number": 34,
+  "chapter_title": "[§ 6. Of Servitudes.]",
+  "chapter_slug": "34-6-of-servitudes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f165c19-7e56-59a5-b9cf-ded4f8077da6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 383,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+    }
+  ]
+}

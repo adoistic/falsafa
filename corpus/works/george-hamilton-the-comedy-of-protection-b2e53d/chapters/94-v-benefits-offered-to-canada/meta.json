@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 94,
+  "chapter_title": "V.—: Benefits offered to Canada.",
+  "chapter_slug": "94-v-benefits-offered-to-canada",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7e32ecb2-7e7b-5258-b8e4-35a04c44a5f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 281,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

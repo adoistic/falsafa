@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
+  "work_title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+  "chapter_number": 22,
+  "chapter_title": "IV.—: THE FRENCH TREATY AND ARMAMENTS.",
+  "chapter_slug": "22-iv-the-french-treaty-and-armaments",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17b3e62d-84a8-5b36-8479-5f7edd111d57",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6441,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+    }
+  ]
+}

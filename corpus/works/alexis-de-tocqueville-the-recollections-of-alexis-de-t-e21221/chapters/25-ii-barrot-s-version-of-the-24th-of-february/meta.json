@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 25,
+  "chapter_title": "II: BARROT’S VERSION OF THE 24TH OF FEBRUARY.",
+  "chapter_slug": "25-ii-barrot-s-version-of-the-24th-of-february",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9f37450-2372-5862-adf0-2d3a73b9bee9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1067,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

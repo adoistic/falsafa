@@ -1,0 +1,27 @@
+---
+work_id: "e5a00c1d-3723-5a10-b355-88f1a03bcaa6"
+work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
+work_title: The Positive Theory of Capital
+author_name: "Eugen von Böhm-Bawerk"
+chapter_number: 3
+chapter_title: Introduction
+chapter_slug: "03-introduction"
+variant_id: "e40db49a-e13d-52ab-b938-cd0a31739039"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 767
+source_url: "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+translator: Online Library of Liberty edition
+---
+
+In systems of Political Economy the word Capital and the theory of Capital are regularly met with in two distinct spheres; first, under Production, and, second, under Distribution. In the former case capital is represented as a factor or tool of production: as an instrument which men use to extort from nature the various forms of wealth unattainable by simple labour. In the latter case capital appears as a source of income or a rent fund; and we are shown how, in the division among the various members of society of that wealth which has been produced in common, capital acts like a magnet, drawing a portion of the national product to itself, and delivering it over to its owner: it appears, in a word, as the source of Interest.
+
+When we are told that capital assists in the production of wealth, and then again that it assists in the obtaining of wealth for its owner, we are apt to jump to the conclusion that the two phenomena are intimately and essentially connected, and that the one is the immediate result of the other—that capital can bring wealth to its owner because capital assists in the production of wealth. As a fact, Political Economy has taken up this idea only too readily and too completely. Captivated by the deceptive symmetry that exists between the three great factors of production—Nature, Labour, Capital—and the three great blanches of income—Rent, Wage, and Interest—the science, from Say's day till the present, has taught that these three branches of income are nothing else than the payment for the three factors of production, and that Interest in particular is nothing else than the compensation which capital receives for its productive services when the product is divided out among society. Propounded by various interest theories in various forms this idea has found its most concise and, at the same time, its most naïve expression, in the well-known "Productivity theories"—those theories which explain interest directly as the natural fruit of a productive power peculiar to and resident in capital.
+
+In beginning the study of the theory of Capital, it cannot be too emphatically stated that this idea, simple and natural as it may appear, contains a prejudgment calculated to preclude unbiassed consideration of the problems of capital. If there were no other objection, the fact that the word capital is never used exactly in the same sense in the two spheres of phenomena must give us pause. True, all capital which serves as a tool of production is also capable of bearing interest, but the converse is not the case. A dwelling-house, a hired horse, a circulating library bear interest to their respective owners without having anything to do with the production of new wealth. If, in the sphere of distribution, the conception of capital thus embraces objects which are not capital in the sphere of production, this alone is sufficient to show that the bearing of interest cannot by itself be an indication of the productive power of capital. We have not to deal with one motive power transmitting itself to two different spheres; not even with two groups of phenomena which have grown up so intimately connected that the explanation of the one is got fully and entirely through the explanation of the other; but with two distinct classes of phenomena. Thus we have two distinct subjects, which give us material for two distinct scientific problems; and finally, we have to seek for the solution of these problems by two distinct and separate roads. It so happens, however, that these really distinct problems are accidentally linked together by one name; they are problems of Capital. It may be that, besides identity of name, we shall find many inner relations between the two series of phenomena and the two problems;—our investigation shall decide that later. But such relations are yet to be discovered; they must not be assumed; and unless we would give up all idea of being unprejudiced in our quest and in our conclusions, we must begin the inquiry free from any preconceived opinion of a necessary identity, or even of an exact parallelism, between the productive efficiency of capital and its power of bearing interest.
+
+Our division of the subject will correspond to this real independence of the two problems. In one part of the present work we shall take up the theory of Capital as a Tool of Production, and in another the theory of Interest. But we shall first devote a separate book to the attempt to obtain some insight into what Capital itself is, in conception and nature.

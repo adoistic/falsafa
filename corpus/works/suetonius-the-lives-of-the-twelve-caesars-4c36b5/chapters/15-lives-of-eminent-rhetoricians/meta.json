@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 15,
+  "chapter_title": "LIVES OF EMINENT RHETORICIANS.",
+  "chapter_slug": "15-lives-of-eminent-rhetoricians",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2709dac-9a3d-537f-a94f-d97c3f8652ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2103,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 10,
+  "chapter_title": "VIII.: OF THE LOGICAL REPRESENTATION OF THE PURPOSIVENESS OF NATURE",
+  "chapter_slug": "10-viii-of-the-logical-representation-of-the-purposiv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "043f09ad-75fe-5ec1-95f7-abb36d761a7f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1062,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

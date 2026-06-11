@@ -1,0 +1,27 @@
+---
+work_id: "a58c66b4-7eaf-5b11-bc82-746fb1fc7cc2"
+work_slug: "dante-alighieri-de-monarchia-a58c66"
+work_title: De Monarchia
+author_name: Dante Alighieri
+chapter_number: 47
+chapter_title: "CHAPTER XV: The prerogative of conferring authority upon the Empire is contrary to the nature of the Church."
+chapter_slug: 47
+variant_id: "1a84c880-44fd-5fb3-b639-854dc8e88892"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 540
+source_url: "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+translator: Online Library of Liberty edition
+---
+
+1. Again, that which is contrary to the nature of anything is not numbered among its peculiar powers, since the powers of anything correspond to its nature for the attainment of its end. But the power to confer authority over the kingdom of our mortal life is contrary to the nature of the Church, and is therefore not numbered among her prerogatives.
+
+2. To prove the minor premise, it must be known that the nature of the Church is the informing principle of the Church. For though the word “nature” may be used of material and Edition: current; Page: [194] form, yet it is used more properly of form, as is shown in the book on Natural Learning. But the form of the Church is naught else than the life of Christ as it is comprised in His teachings and in His deeds. Truly, His life was the ideal and exemplar of the Church militant, particularly of its pastors, and more than all of its Head Shepherd, whose duty it is to feed His sheep and lambs. Hence, when in the Gospel of John He bequeathed to men the informing principle of His life, He said, “I have given you an example, that ye should do as I have done to you.” And especially, as we learn from the same Gospel, when He said to Peter, after He had conferred upon Him the function of shepherd, “Peter, follow me.” But before Pilate, Christ disclaimed any ruling power of a temporal kind, saying, “My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be Edition: current; Page: [195] delivered to the Jews; but now is my kingdom not from hence.”
+
+3. This must not be understood to imply that Christ, who is God, is not Lord of the temporal kingdom, seeing that the Psalmist says, “The sea is his, and he made it: and his hands formed the dry land;” but rather to mean that, as exemplar of the Church, He had not charge of this kingdom. Similarly, if a golden seal were to say, “I am not the standard for any class of objects,” it would not speak truly, in so far as it is gold, the standard of all metals. It would speak truly only in so far as it is a particular stamp, capable of being received by impression.
+
+4. Therefore it is the formal principle of the Church to declare and to believe Christ’s saying. To declare and to believe the opposite is manifestly contrary to the formal principle, or, what is the same thing, to the nature of the Church. We may gather from this that the prerogative to grant authority to the temporal domain is contrary to the nature of the Church, for contrariety in thought or in saying follows from contrariety in the thing spoken or thought. Just so truth or falsity in speech originates from the existence or non-existence of a thing, as the Edition: current; Page: [196] teaching of the Categories shows us. Through the above arguments, leading to an absurdity, has it been sufficiently demonstrated that the authority of Empire is not at all dependent upon the Church.

@@ -1,0 +1,23 @@
+---
+work_id: "09683f4f-833e-576f-99e6-7b556e9bd423"
+work_slug: "gaius-institutes-of-roman-law-09683f"
+work_title: Institutes of Roman Law
+author_name: Gaius
+chapter_number: 3
+chapter_title: HISTORICAL INTRODUCTION
+chapter_slug: "03-historical-introduction"
+variant_id: "1b645e6d-dd3f-5307-bf1e-b13c55ed1f6b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 389
+source_url: "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+translator: Online Library of Liberty edition
+---
+
+In order to justify the character of this introductory essay it is necessary to say a few words about the intention with which it is written. The reader must regard it mainly in the light of an introduction to the Institutes of Gaius, not in the light of a disinterested sketch of the history of Roman Law. Had it been intended to have the latter character, both some of its omissions and some of its inclusions would be wholly unjustifiable. The most signal of the omissions is the neglect to give an adequate treatment to the stage of Roman Law which yields to no other in importance—the stage at which it passes from the religious to the secular sphere, from Fas to Jus. One of the chief questions which is, or should be, agitating students of Roman Law at the present day, is that of the period at which this transition was effected. For, if it is true that Roman Law retained its priestly character and its religious sanctions to a late period of the Republic, then the traditional history of the Twelve Tables is an improbability, and the account given by Cicero and other writers of the legislation and procedure of the Monarchy and early Republic is an anachronism. The student of Gaius, however, is not very intimately concerned with this far-reaching historical question; and I have been content to state my general adherence to the traditional view without attempting to justify it by evidence.
+
+Amongst subjects included in this sketch, which have little direct bearing on the history of Roman Law, I may mention the descriptions of the structure of the different Comitia at Rome and the account of the manner in which the powers of the Princeps were conferred. From the point of view of the general history of the civil and criminal law in a State it is not of much importance to determine the particular mode in which a legislative assembly is constituted, or the precise manner in which a sovereign (whether nominal or real) is invested with his authority. But these historical questions do to some extent underlie subjects which are treated by Gaius; and, as it was not found convenient to deal with them at any great length in the commentary, a place had to be found for them in this introduction.

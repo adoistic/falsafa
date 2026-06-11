@@ -1,0 +1,33 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 12
+chapter_title: "CHAPTER IX: the valuation of goods in stocks. the law of marginal utility the general law of value"
+chapter_slug: 12
+variant_id: "c5653417-9528-58df-a16f-9893549a3d58"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1093
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+Suppose a poor man receives every day two pieces of bread, while one is enough to allay the pangs of positive hunger, what value will one of the two pieces of bread have for him? If for instance a still poorer man, who has nothing whatever, begged of him one piece, what sacrifice would the first make in complying with the request? Or—what comes to the same thing—what use or utility would he retain if he refused to comply with it? The answer is easy enough. If he gives away the piece of bread he will lose, and if he keeps it he will secure, provision for that degree of want which makes itself felt whenever positive hunger is allayed. We may call this the 2nd degree.
+
+One of two entirely similar goods is, therefore, equal in value to the 2nd degree in the scale of utility of that particular class of goods. One of three goods, under the same conditions, will have the value of the 3rd degree; one of four, of the 4th; in short, any one good, in a stock of goods of the same kind, will have in general the value of the final or marginal utility. The larger the supply—the need remaining unaltered—the smaller will be the marginal utility and the value, and vice versd; while, on the other hand, the greater the need the higher will be both marginal utility and value, and vice versd.
+
+This, however, is not enough. Not only has one of two goods the value of the second degree of utility, but either of them has it, whichever one may choose. In our example, neither of the two pieces of bread—so long as the possessor has both—will have that value which belongs to the allaying Edition: current; Page: [25] of positive hunger, because, so long as they are both in his possession, he will never be exposed to this extremity. He may give away one of them—whichever he likes, so long as he keeps the other—without losing his provision against starvation But, if either of the two pieces is equal in value to the second degree of utility, both together have twice this value. And three pieces have together three times the value of the third degree of utility, and four pieces have four times the value of the fourth degree. In a word, the value of a supply of similar goods is equal to the sum of the items multiplied by the marginal utility.
+
+Say that a harvest, consisting of 1,000,000 quarters, is short, and that the community has to be so sparing in its use of it that grain dare not be consumed unless the act of consumption yield a satisfaction equal to the figure 10: the value of the harvest will be calculated as 1,000,000 × 10. The value of a harvest of 2,000,000 quarters, where the act of consumption need only yield, say, 4, is equal to 2,000,000 × 4. The value of 1,000,000 tons of iron, where the marginal utility is 1, is 1,000,000, and the value of 100,000 oz. of gold, with a marginal utility of 50, is 5,000,000.
+
+As the use obtained from free goods represents no value whatever, so is the use obtained from supplies of economic goods not fully represented in their value, and for the same reason. In the case of free goods we need not concern ourselves at all about their use, that being always assured so long as the goods remain in superfluity; and in the case of economic goods, our only concern is with the marginal utility, all the higher utilities being assured so long as the amount of the supply remains unaltered. In the former case we need have no anxiety as regards the provision for our wants generally; in the latter we need have no anxiety as regards the provision for the principal part of our wants—and the larger the supply the less the anxiety—and need only concern ourselves to see that the proper margin of employment is maintained.
+
+The law of value just described owes its existence, on the one side, to the peculiar formation of the scales of want, but, on the other, to the peculiar conditions under which goods are posessed. If goods did not come forward in stocks or supplies consisting of similar items, but only individually and each with Edition: current; Page: [26] a separate form, the law would not hold. Where such stocks do appear, however, it must hold. How could things entirely similar be differently valued,—supposing, of course, that they belong to the same person, and are used to satisfy the same demand? Even if any one in an anxious mood were to set apart certain items, as a reserve for extreme exigency, and, as such, might think of putting a special value on them, he would surely find, on reflection, that the reserved goods were in no way different from all the rest, and that there would be no danger of this extreme case arising, even if some accident destroyed the reserve, so long as the other stock held out.
+
+This law of value unites the conceptions of value and of utility in a way that is fully confirmed by facts. When experience shows that iron is worth less than gold, and that an abundant harvest may be of less value than a poor one, our law can give the explanation. In the main, it clears up all the contradictions which appear to separate the conceptions of value and utility from each other; and it only remains for us now to combine the fact of costs with the law of marginal utility,—a task we shall undertake later. Meanwhile we have not yet completely exhausted the elementary theory of value. In the first place we have only externally resolved the contradictions between value and utility. Under certain conditions iron must be of less value than gold, and the rich harvest of less value than the poor one—but what hidden import is contained in this? However unconditionally one adopts our law and is convinced by our logic, he will nevertheless scarcely be able to deny that its inmost content is veiled in darkness. In one connection it appears paradoxical; in another it even seems to comprehend within itself a complete antinomy. The final task of the elementary theory of value will be to clear up this paradox and explain away this antinomy. Only when this is done, shall we obtain a clear idea of the essential nature of the phenomenon of value.

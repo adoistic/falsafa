@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-earth-hunger-and-other-essays-78e0ba",
+  "work_title": "Earth-Hunger and Other Essays",
+  "chapter_number": 41,
+  "chapter_title": "DEFINITIONS OF DEMOCRACY AND PLUTOCRACY",
+  "chapter_slug": "41-definitions-of-democracy-and-plutocracy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e453d61-00e4-5f03-99af-23a751042f0c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1739,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
+    }
+  ]
+}

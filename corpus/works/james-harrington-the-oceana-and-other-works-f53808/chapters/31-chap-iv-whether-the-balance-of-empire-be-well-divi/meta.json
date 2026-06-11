@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 31,
+  "chapter_title": "CHAP. IV.: Whether the Balance of Empire be well divided into National and Provincial; and whether these two, or any Nat",
+  "chapter_slug": "31-chap-iv-whether-the-balance-of-empire-be-well-divi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "38c39a50-e12b-5219-b638-2bf585c61de1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 532,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

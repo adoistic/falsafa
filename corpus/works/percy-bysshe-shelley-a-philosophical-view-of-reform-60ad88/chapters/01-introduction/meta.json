@@ -1,0 +1,26 @@
+{
+  "work_slug": "percy-bysshe-shelley-a-philosophical-view-of-reform-60ad88",
+  "work_title": "A Philosophical View of Reform",
+  "chapter_number": 1,
+  "chapter_title": "INTRODUCTION",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4138e789-0601-5e9b-ad4d-7c019617e1ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1940,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rolleston-philosophical-view-of-reform-1820"
+    }
+  ]
+}

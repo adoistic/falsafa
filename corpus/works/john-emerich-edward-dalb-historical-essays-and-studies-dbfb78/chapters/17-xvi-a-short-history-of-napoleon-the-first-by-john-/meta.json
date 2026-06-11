@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
+  "work_title": "Historical Essays and Studies",
+  "chapter_number": 17,
+  "chapter_title": "XVI: A SHORT HISTORY OF NAPOLEON THE FIRST. By John Robert Seeley THE FIRST NAPOLEON: A SKETCH, POLITICAL AND MILITARY. ",
+  "chapter_slug": "17-xvi-a-short-history-of-napoleon-the-first-by-john-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d243a69-1526-508f-9f0e-72c75bc1ab3d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5852,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laurence-historical-essays-and-studies"
+    }
+  ]
+}

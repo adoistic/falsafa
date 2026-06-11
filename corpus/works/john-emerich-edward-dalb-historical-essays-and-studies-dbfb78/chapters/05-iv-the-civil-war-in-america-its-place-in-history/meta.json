@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
+  "work_title": "Historical Essays and Studies",
+  "chapter_number": 5,
+  "chapter_title": "IV: THE CIVIL WAR IN AMERICA ITS PLACE IN HISTORY",
+  "chapter_slug": "05-iv-the-civil-war-in-america-its-place-in-history",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a7da937-8798-5bea-82c4-ac540dd9714b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7102,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laurence-historical-essays-and-studies"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-art-of-war-d88d73",
+  "work_title": "The Art of War",
+  "chapter_number": 3,
+  "chapter_title": "SECOND BOOK",
+  "chapter_slug": "03-second-book",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "484baf9c-f3a0-51e9-899f-be66c21bef82",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13715,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/machiavelli-the-art-of-war-neville-trans"
+    }
+  ]
+}

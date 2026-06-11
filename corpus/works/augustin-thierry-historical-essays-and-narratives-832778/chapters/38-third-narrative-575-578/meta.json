@@ -1,0 +1,26 @@
+{
+  "work_slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "work_title": "Historical Essays and Narratives of the Merovingian Era",
+  "chapter_number": 38,
+  "chapter_title": "THIRD NARRATIVE. 575—578.",
+  "chapter_slug": "38-third-narrative-575-578",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "40bd129b-22c3-504c-96a2-b9fa0e5d0100",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13789,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+    }
+  ]
+}

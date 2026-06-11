@@ -1,0 +1,27 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 182
+chapter_title: CHAPTER XXXVI
+chapter_slug: 182
+variant_id: "f2d4659b-fe85-5a8d-86a4-4fd6a31c6c0f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 616
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how some of the brethren, for disobedience to him, were detained by a storm at sea
+
+When Cuthbert had passed two years in the episcopal office, knowing in spirit that his last day was at hand, he divested himself of his episcopal duties and returned to his much-loved solitude, that he might there occupy his time in extracting the thorns of the flesh, and kindle up to greater brightness the flame of his former humility. At this time he was accustomed to go out frequently from his cell, and converse with the brethren, who came to visit him. I will here mention a miracle which he then wrought, in order that it may be more evident to all men what obedience should be rendered to his saints, even in the case of commands which they seem to have given with carelessness or indifference. He had one day left his cell, to give advice to some visitors; and when he had finished, he said to them, “I must now go in again; but do you, as you are inclined to depart, first take food; and when you have cooked and eaten that goose, which is hanging on the wall, go on board your vessel in God’s name, and return home.” He then uttered a prayer, and, having blessed them, went in. But they, as he had bidden them, took some food; but having enough provisions of their own, which they had brought with them, they did not touch the goose.
+
+Now when they had refreshed themselves, they tried to go on board their vessel, but a sudden storm utterly prevented them from putting to sea. They were thus detained seven days in the island by the roughness of the waves, and yet they could not call to mind what fault they had committed. They therefore returned to have an interview with the holy father, and to lament to him their detention. He exhorted them to be patient, and on the seventh day came out to console their sorrow, and give them pious exhortations. When, however, he had entered the house in which they were stopping, and saw that the goose was Edition: current; Page: [334] not eaten, he reproved their disobedience with mild countenance and in gentle language. “Have you not left the goose still hanging in its place? What wonder is it that the storm has prevented your departure? Put it immediately into the caldron, and boil and eat it, that the sea may become tranquil, and you may return home.”
+
+They immediately did as he had commanded; and it happened most wonderfully that the moment the kettle began to boil, the wind began to cease, and the waves to be still. Having finished their repast, and seeing that the sea was calm, they went on board, and, to their great delight, though with shame for their neglect, reached home with a fair wind. Their shame arose from their disobedience and dulness of comprehension, whereby, amid the chastening of their Maker, they were unable to perceive and to correct their error. They rejoiced, because they now saw what care God had for his faithful servant, so as to vindicate him from neglect, even by means of the elements. They rejoiced, too, that the Lord should have had so much regard to themselves, as to correct their offences even by an open miracle. Now this, which I have related, I did not pick up from any chance authority, but I had it from one of those who were present,—a most reverend monk and priest of the same monastery, Cynemund, who still lives, known to many in the neighbourhood for his years and the purity of his life.

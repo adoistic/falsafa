@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 12,
+  "chapter_title": "XI.: Development of Cartesianism in the Line of Spinoza—Omnis Determinatio Est Negatio.",
+  "chapter_slug": "12-xi-development-of-cartesianism-in-the-line-of-spin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d168668c-a23c-5a94-b3df-02b0dbba6f6e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7581,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+---
+work_id: "13d19d09-86e3-5dbf-974b-5e5faf8f0116"
+work_slug: "lysander-spooner-a-letter-to-grover-cleveland-13d19d"
+work_title: A Letter to Grover Cleveland
+author_name: Lysander Spooner
+chapter_number: 17
+chapter_title: Section XVII.
+chapter_slug: 17
+variant_id: "3c496905-bd3c-5ab3-8ac3-13ccdeb5c71d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3030
+source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
+translator: Online Library of Liberty edition
+---
+
+Although, as has already been said, the constitution is a paper that nobody ever signed, that few persons have ever read, and that the great body of the people never saw; and that has, consequently, no more claim to be the supreme law of the land, or to have any authority whatever, than has any other paper, that nobody ever signed, that few persons ever read, and that the great body of the people never saw; and although it purports to authorize a government, in which the lawmakers, judges, and executive officers are all to be secured against any responsibility whatever to the people, whose liberty and rights are at stake; and although Edition: current; Page: [53] this government is kept in operation only by votes given in secret (by secret ballot), and in a way to save the voters from all personal responsibility for the acts of their agents,—the lawmakers, judges, etc.; and although the whole affair is so audacious a fraud and usurpation, that no people could be expected to agree to it, or ought to submit to it, for a moment; yet, inasmuch as the constitution declares itself to have been ordained and established by the people of the United States, for the maintenance of liberty and justice for themselves and their posterity; and inasmuch as all its supporters—that is, the voters, lawmakers, judges, etc.—profess to derive all their authority from it; and inasmuch as all lawmakers, and all judicial and executive officers, both national and State, swear to support it; and inasmuch as they claim the right to kill, and are evidently determined to kill, and esteem it the highest glory to kill, all who do not submit to its authority; we might reasonably expect that, from motives of common decency, if from no other, those who profess to administer it, would pay some deference to its commands, at least in those particular cases where it explicitly forbids any violation of the natural rights of the people.
+
+Especially might we expect that the judiciary—whose courts claim to be courts of justice—and who profess to be authorized and sworn to expose and condemn all such violations of individual rights as the constitution itself expressly forbids—would, in spite of all their official dependence on, and responsibility to, the lawmakers, have sufficient respect for their personal characters, and the opinions of the world, to induce them to pay some regard to all those parts of the constitution that expressly require any rights of the people to be held inviolable.
+
+If the judicial tribunals cannot be expected to do justice, even in those cases where the constitution expressly commands them to do it, and where they have solemnly sworn to do it, it is plain that they have sunk to the lowest depths of servility and corruption, and can be expected to do nothing but serve the purposes of robbers and tyrants.
+
+But how futile have been all expectations of justice from the judiciary, may be seen in the conduct of the courts—and especially in that of the so-called Supreme Court of the United States—in regard to men’s natural right to make their own contracts.
+
+Although the State lawmakers have, more frequently than the national lawmakers, made laws in violation of men’s natural right to make their own contracts, yet all laws, State and national, having for their object the destruction of that right, have always, without a single exception, I think, received the sanction of the Supreme Court of the United States. And having been sanctioned by that court, they have been, as a matter of course, sanctioned by all the other courts, State and national. And this work has gone on, until, if these courts are to be believed, nothing at all is left of men’s natural right to make their own contracts.
+
+That such is the truth, I now propose to prove.
+
+And, first, as to the State governments.
+
+The constitution of the United States (Art. 1, Sec. 10) declares that:
+
+No State shall pass any law impairing the obligation of contracts.
+
+This provision does not designate what contracts have, and what have not, an “obligation.” But it clearly presupposes, implies, assumes, and asserts that there are contracts that have an “obligation.” Any State law, therefore, which declares that such contracts shall have no obligation, is plainly in conflict with this provision of the constitution of the United States.
+
+This provision, also, by implying that there are contracts, that have an “obligation,” necessarily implies that men have a right to enter into them; for if men had no right to enter into the contracts, the contracts themselves could have no “obligation.”
+
+This provision, then, of the constitution of the United States, not only implies that there are contracts that have an obligation, but it also implies that the people have the right to enter into all such contracts, and have the benefit of them. And “any” State “law,” conflicting with either of these implications, is necessarily unconstitutional and void.
+
+Furthermore, the language of this provision of the constitution, to wit, “the obligation [singular] of contracts” [plural], implies that there is one and the same “obligation” to all “contracts” whatsoever, that have any legal obligation at all. And there obviously must be some one principle, that gives validity to all contracts alike, that have any validity.
+
+The law, then, of this whole country, as established by the constitution of the United States, is, that all contracts whatsoever, in which this one principle of validity, or “obligation,” is found, shall be held valid; and that the States shall impose no restraint whatever upon the people’s entering into all such contracts.
+
+All, therefore, that courts have to do, in order to determine whether any particular contract, or class of contracts, are valid, and whether the people have a right to enter into them, is simply to determine whether the contracts themselves have, or have not, this one principle of validity, or “obligation,” which the constitution of the United States declares shall not be impaired.
+
+State legislation can obviously have nothing to do with the solution of this question. It can neither create, nor destroy, that “obligation of contracts,” which the constitution forbids it to impair. It can neither give, nor take away, the right to enter into any contract whatever, that has that “obligation.”
+
+On the supposition, then, that the constitution of the United States is, what it declares itself to be, viz., “the supreme law of the land, . . . . anything in the constitutions or laws of the States to the contrary notwithstanding,” this provision against “any” State “law impairing the obligation of contracts,” is so explicit, and so authoritative, that the legislatures and courts of the States have no color of authority Edition: current; Page: [55] for violating it. And the Supreme Court of the United States has had no color of authority or justification for suffering it to be violated.
+
+This provision is certainly one of the most important—perhaps the most important—of all the provisions of the constitution of the United States, as protective of the natural rights of the people to make their own contracts, or provide for their own welfare.
+
+Yet it has been constantly trampled under foot, by the State legislatures, by all manner of laws, declaring who may, and who may not, make certain contracts; and what shall, and what shall not, be “the obligation” of particular contracts; thus setting at defiance all ideas of justice, of natural rights, and equal rights; conferring monopolies and privileges upon particular individuals, and imposing the most arbitrary and destructive restraints and penalties upon others; all with a view of putting, as far as possible, all wealth into the hands of the few, and imposing poverty and servitude upon the great body of the people.
+
+And yet all these enormities have gone on for nearly a hundred years, and have been sanctioned, not only by all the State courts, but also by the Supreme Court of the United States.
+
+And what color of excuse have any of these courts offered for thus upholding all these violations of justice, of men’s natural rights, and even of that constitution which they had all sworn to support?
+
+They have offered only this: They have all said they did not know what “the obligation of contracts” was!
+
+Well, suppose, for the sake of the argument, that they have not known what “the obligation of contracts” was, what, then, was their duty? Plainly this, to neither enforce, nor annul, any contract whatever, until they should have discovered what “the obligation of contracts” was.
+
+Clearly they could have no right to either enforce, or annul, any contract whatever, until they should have ascertained whether it had any “obligation,” and, if any, what that “obligation” was.
+
+If these courts really do not know—as perhaps they do not—what “the obligation of contracts” is, they deserve nothing but contempt for their ignorance. If they do know what “the obligation of contracts” is, and yet sanction the almost literally innumerable laws that violate it, they deserve nothing but detestation for their villainy.
+
+And until they shall suspend all their judgments for either enforcing, or annulling, contracts, or, on the other hand, shall ascertain what “the obligation of contracts” is, and sweep away all State laws that impair it, they will deserve both contempt for their ignorance, and detestation for their crimes.
+
+Individual Justices of the Supreme Court of the United States have, at least in one instance, in 1827 (Ogden vs. Saunders, 12 Wheaton 213), attempted to give a definition of “the obligation of contracts.” But there was great disagreement Edition: current; Page: [56] among them; and no one definition secured the assent of the whole court, or even of a majority. Since then, so far as I know, that court has never attempted to give a definition. And, so far as the opinion of that court is concerned, the question is as unsettled now, as it was sixty years ago. And the opinions of the Supreme Courts of the States are equally unsettled with those of the Supreme Court of the United States. The consequence is, that “the obligation of contracts”—the principle on which the real validity, or invalidity, of all contracts whatsoever depends—is practically unknown, or at least unrecognized, by a single court, either of the States, or of the United States. And, as a result, every species of absurd, corrupt, and robber legislation goes on unrestrained, as it always has done.
+
+What, now, is the reason why not one of these courts has ever so far given its attention to the subject as to have discovered what “the obligation of contracts” is? What that principle is, I repeat, which they have all sworn to sustain, and on which the real validity, or invalidity, of every contract on which they ever adjudicate, depends? Why is it that they have all gone on sanctioning and enforcing all the nakedly iniquitous laws, by which men’s natural right to make their own contracts has been trampled under foot?
+
+Surely it is not because they do not know that all men have a natural right to make their own contracts; for they know that, as well as they know that all men have a natural right to live, to breathe, to move, to speak, to hear, to see, or to do anything whatever for the support of their lives, or the promotion of their happiness.
+
+Why, then, is it, that they strike down this right, without ceremony, and without compunction, whenever they are commanded to do so by the lawmakers? It is because, and solely because, they are so servile, slavish, degraded, and corrupt, as to act habitually on the principle, that justice and men’s natural rights are matters of no importance, in comparison with the commands of the impudent and tyrannical lawmakers, on whom they are dependent for their offices and their salaries. It is because, and solely because, they, like the judges under all other irresponsible and tyrannical governments, are part and parcel of a conspiracy for robbing and enslaving the great body of the people, to gratify the luxury and pride of a few. It is because, and solely because, they do not recognize our governments, State or national, as institutions designed simply to maintain justice, or to protect all men in the enjoyment of all their natural rights; but only as institutions designed to accomplish such objects as irresponsible cabals of lawmakers may agree upon.
+
+In proof of all this, I give the following.
+
+Previous to 1824, two cases had come up from the State courts, to the Supreme Court of the United States, involving the question whether a State law, invalidating some particular contract, came within the constitutional prohibition of “any law impairing the obligation of contracts.”
+
+One of these cases was that of Fletcher vs. Peck, (6 Cranch 87), in the year 1810. In this case the court held simply that a grant of land, once made by the legislature of Georgia, could not be rescinded by a subsequent legislature.
+
+But no general definition of “the obligation of contracts” was given.
+
+Again, in the year 1819, in the case of Dartmouth College vs. Woodward (4 Wheaton 518), the court held that a charter, granted to Dartmouth College, by the king of England, before the Revolution, was a contract; and that a law of New Hampshire, annulling, or materially altering, the charter, without the consent of the trustees, was a “law impairing the obligation” of that contract.
+
+But, in this case, as in that of Fletcher vs. Peck, the court gave no general definition of “the obligation of contracts.”
+
+But in the year 1824, and again in 1827, in the case of Ogden vs. Saunders (12 Wheaton 213) the question was, whether an insolvent law of the State of New York, which discharged a debtor from a debt, contracted after the passage of the law, or, as the courts would say, “contracted under the law”—on his giving up his property to be distributed among his creditors—was a “law impairing the obligation of contracts?”
+
+To the correct decision of this case, it seemed indispensable that the court should give a comprehensive, precise, and universal definition of “the obligation of contracts”; one by which it might forever after be known what was, and what was not, that “obligation of contracts,” which the State governments were forbidden to “impair” by “any law” whatever.
+
+The cause was heard at two terms, that of 1824, and that of 1827.
+
+It was argued by Webster, Wheaton, Wirt, Clay, Livingston, Ogden, Jones, Sampson, and Haines; nine in all. Their arguments were so voluminous that they could not be reported at length. Only summaries of them are given. But these summaries occupy thirty-eight pages in the reports.
+
+The judges, at that time, were seven, viz., Marshall, Washington, Johnson, Duvall, Story, Thompson, and Trimble.
+
+The judges gave five different opinions; occupying one hundred pages of the reports.
+
+But no one definition of “the obligation of contracts” could be agreed on; not even by a majority.
+
+Here, then, sixteen lawyers and judges—many of them among the most eminent the country has ever had—were called upon to give their opinions upon a question of the highest importance to all men’s natural rights, to all the interests of civilized society, and to the very existence of civilization itself; a question, upon the answer to which depended the real validity, or invalidity, of every contract that ever was made, or ever will be made, between man and man. And yet, by their disagreements, they all virtually acknowledged that they did not know what “the obligation of contracts” was!
+
+But this was not all. Although they could not agree as to what “the obligation of contracts” was, they did all agree that it could be nothing which the State lawmakers could not prohibit and abolish, by laws passed before the contracts were made. That is to say, they all agreed that the State lawmakers had absolute power to prohibit all contracts whatsoever, for buying and selling, borrowing and lending, giving and receiving, property; and that, whenever they did prohibit any particular contract, or class of contracts, all such contracts, thereafter made, could have no “obligation”!
+
+They said this, be it noted, not of contracts that were naturally and intrinsically criminal and void, but of contracts that were naturally and intrinsically as just, and lawful, and useful, and necessary, as any that men ever enter into; and that had as perfect a natural, intrinsic, inherent “obligation,” as any of those contracts, by which the traffic of society is carried on, or by which men ever buy and sell, borrow and lend, give and receive, property, of and to each other.
+
+Not one of these sixteen lawyers and judges took the ground that the constitution, in forbidding any State to “pass any law impairing the obligation of contracts,” intended to protect, against the arbitrary legislation of the States, the only true, real, and natural “obligation of contracts,” or the right of the people to enter into all really just, and naturally obligatory contracts.
+
+Is it possible to conceive of a more shameful exhibition, or confession, of the servility, the baseness, or the utter degradation, of both bar and bench, than their refusal to say one word in favor of justice, liberty, men’s natural rights, or the natural, and only real, “obligation” of their contracts?
+
+And yet, from that day to this—a period of sixty years, save one—neither bar nor bench, so far as I know, have ever uttered one syllable in vindication of men’s natural right to make their own contracts, or to have the only true, real, natural, inherent, intrinsic “obligation” of their contracts respected by lawmakers or courts.
+
+Can any further proof be needed that all ideas of justice and men’s natural rights are absolutely banished from the minds of lawmakers, and from so-called courts of justice? or that absolute and irresponsible lawmaking has usurped their place?
+
+Or can any further proof be needed, of the utter worthlessness of all the constitutions, which these lawmakers and judges swear to support, and profess to be governed by?

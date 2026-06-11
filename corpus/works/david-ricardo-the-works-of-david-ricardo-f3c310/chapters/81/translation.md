@@ -1,0 +1,29 @@
+---
+work_id: "f3c3108a-fa4a-5c8b-8013-ac6868798c52"
+work_slug: "david-ricardo-the-works-of-david-ricardo-f3c310"
+work_title: The Works of David Ricardo
+author_name: David Ricardo
+chapter_number: 81
+chapter_title: "section VIII.: On the Project of advancing Money on Loan, to Speculators in Corn, at a low Interest."
+chapter_slug: 81
+variant_id: "35df67b7-af4d-50a4-8d11-650903615d1e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 758
+source_url: "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+translator: Online Library of Liberty edition
+---
+
+It is allowed by the Report, that “the universal rule of allowing all articles, as much as possible, to find their own natural level, by leaving the supply to adjust itself to the demand,” discouraged the Committee from recommending that Government should employ money, in making purchases of corn, with a view to sell it when the price rose; but the Committee do not appear to have seen that the same universal rule, of which they speak with approbation, ought to have discouraged them also from recommending that Government should advance money, at a low rate of interest, to persons who should purchase wheat, to deposit it in the King's warehouses, while it was under 60s. per quarter.
+
+Will not such an advance of money at a low rate of interest, and for twelve months certain, if the parties desire it, prevent the article from “finding its own level,” and “will the supply be left to adjust itself to the demand?”
+
+If the cause of the low price of corn be owing to an abundant quantity in the country, and not to an abundant quantity hurried prematurely to market by the distress of the farmers, the proposed remedy will be really mischievous, as in that case we must go through the ordeal of low prices, and increased consumption, which is always in a degree consequent on low price, before the supply will adjust itself to the demand, and prices become again remunerative. By the encouragement thus given to storing corn for a twelvemonth, the period of glut may be retarded, but it must come at last. On the other supposition, that from alarm or distress more than a due portion of corn is prematurely sent to market, and that before the next harvest the whole supply will, in consequence, prove deficient, and the price will rise; I must observe, that sharp-sighted individuals, prompted by a regard to their interest, can discover this, if it be so, with more certainty than Government. Money is not wanted to purchase the wheat thus unduly brought to market; nothing is required but a conviction of the probability of a diminished supply, or an increased demand, and a probable rise of price, to awaken the spirit of speculation. If there were any well-founded opinion of such a rise, we should soon witness a more than usual activity among the corn-dealers. When there was a prospect of continued wet weather, just before the harvest of last year, did we not see an immediate spring in the price of corn? On what was Edition: current; Page: [487] such rise founded, but on an anticipation of probable scarcity, and an increased price? If, then, there be any good foundation for a probable deficiency before the wheat of the next harvest comes into use, individuals will be found to speculate without any encouragement from Government; the difference between a rate of interest of 3 per cent. and of 5 per cent. must be of little importance in such a transaction, and as far as the public is concerned may be wholly neglected, when we are considering the advantages of such a measure.
+
+It has been said that similar advances have been made to the commercial interest on more than one occasion, why then should the agricultural interest be excluded from a similar benefit? In the first place, I doubt whether the measure be justifiable in any case whatever; but it cannot be disputed that the commercial class made their application for this indulgence under very different circumstances from the agricultural class.
+
+The commercial class are liable to stagnation of business; a market for which they have prepared their goods may, during war (and it is only during war that such advances have been made) be shut against them. On the probability of selling their goods, they have given bills which are becoming due, and their character and fortune depend on fulfilling their engagements. All they want is time; by forbearing to produce more of the commodity for which there is a diminished demand, they are sure, though probably with great loss, to dispose of their articles. Is the situation of the farmer any thing like this? Has he any bills becoming due? Do all his future transactions depend on his momentarily sustaining his credit? Are markets ever wholly shut against him? Is it a mere supply of money to meet his bills that he requires? The cases are most widely different, and the analogy which is attempted to be set up between them fails in every particular.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "walter-bagehot-lombard-street-a-description-of--8cb363",
+  "work_title": "Lombard Street: A Description of the Money Market",
+  "chapter_number": 9,
+  "chapter_title": "Chapter I: Introductory",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8774849a-27fa-5776-b361-87deed989771",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4420,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market"
+    }
+  ]
+}

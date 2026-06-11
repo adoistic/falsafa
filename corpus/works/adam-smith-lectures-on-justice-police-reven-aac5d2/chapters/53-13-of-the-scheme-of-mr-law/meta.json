@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
+  "work_title": "Lectures on Justice, Police, Revenue, and Arms",
+  "chapter_number": 53,
+  "chapter_title": "[§ 13. Of the Scheme of Mr. Law.]",
+  "chapter_slug": "53-13-of-the-scheme-of-mr-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de4fe943-7a4d-58c3-af99-00909f2dc834",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2346,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+    }
+  ]
+}

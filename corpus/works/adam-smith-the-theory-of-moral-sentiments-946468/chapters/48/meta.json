@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-the-theory-of-moral-sentiments-946468",
+  "work_title": "The Theory of Moral Sentiments",
+  "chapter_number": 48,
+  "chapter_title": "SECTION III.: OF SELF-COMMAND.",
+  "chapter_slug": "48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bd43f40-6ad0-5599-99e5-5bec9705a46a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11806,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"
+    }
+  ]
+}

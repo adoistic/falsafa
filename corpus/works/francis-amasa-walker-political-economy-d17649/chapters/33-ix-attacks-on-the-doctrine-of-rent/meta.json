@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 33,
+  "chapter_title": "IX.: attacks on the doctrine of rent.",
+  "chapter_slug": "33-ix-attacks-on-the-doctrine-of-rent",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "966b09b6-a390-5151-961a-532e1971c9b2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4787,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+---
+work_id: "43c12c17-b6e4-511f-accf-6238146e1803"
+work_slug: "epictetus-the-works-of-epictetus-43c12c"
+work_title: The Works of Epictetus
+author_name: Epictetus
+chapter_number: 16
+chapter_title: "CHAPTER XII.: OF CONTENTMENT."
+chapter_slug: 16
+variant_id: "5df0cad2-ac18-5776-9a8b-eca88133b1ec"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1213
+source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+translator: Online Library of Liberty edition
+---
+
+CONCERNING the gods, some affirm, that there is no deity; others, that he indeed exists, but is slothful, negligent, and without providential care; a third class admits both his being and his providence, but only in respect to great and heavenly objects, not earthly; a fourth recognizes him both in heaven and earth, but only in general, not individual matters; a fifth, like Ulysses and Socrates, says, “I cannot be hid from thee in any of my motions.”
+
+It is, before all things, necessary to examine each of these opinions; which is, and which is not rightly spoken. Now, if there are no gods, wherefore serve them? If there are, but they take no care of anything, how is the case bettered? Or, if they both are, and take care; yet, if there is nothing communicated from them to men, and therefore certainly nothing to me, how much better is it? A wise and good man, after examining these things, submits his mind to Him who administers the whole, as good citizens do to the laws of the commonwealth.
+
+He, then, who comes to be instructed, ought to come with this aim: “How may I in everything follow the gods? How may I acquiesce in the divine administration? And how may I be free?” For he is free, to whom all happens agreeably to his desire, and whom no one can unduly restrain.
+
+“What then, is freedom mere license?”
+
+By no means; for madness and freedom are incompatible.
+
+“But I would have that happen which appears to me desirable; however it comes to appear so.”
+
+You are mad: you have lost your senses. Do not you know, that freedom is a very beautiful and valuable thing? But for me to choose at random, and for things to happen agreeably to such a choice, may be so far from a beautiful thing, as to be, of all others, the most undesirable. For how do we proceed in writing? Do I choose to write the name of Dion (for instance) as I will? No; but I am taught to be willing to write it as it ought to be written. And what is the case in music? The same. And what in every other art or science? Otherwise, it would be of no purpose to learn anything, if it were to be adapted to each one’s particular humor. Is it then only in the greatest and principal matter, that of freedom, permitted me to desire at random? By no means; but true instruction is this, — learning to desire that things should happen as they do. And how do they happen? As the appointer of them hath appointed. He hath appointed, that there should be summer and winter, plenty and dearth, virtue and vice, and all such contrarieties, for the harmony of the whole. To each of us he has given a body and its parts, and our several possessions and companions. Edition: current; Page: [42] Mindful of this appointment, we should enter upon a course of education and instruction, not in order to change the constitution of things; — a gift neither practicable nor desirable; — but that things being as they are with regard to us, we may have our mind accommodated to the facts. Can we, for instance, flee from mankind? How is that possible? Can we, by conversing with them, transform them? Who has given us such a power? What then remains, or what method is there to be found, for such a commerce with them, that, while they act according to the appearances in their own minds, we may nevertheless be affected conformably to nature?
+
+But you are wretched and discontented. If you are alone, you term it a desert; and if with men, you call them cheats and robbers. You find fault too with your parents, and children, and brothers, and neighbors. Whereas you ought, if you live alone, to call that repose and freedom, and to esteem yourself as resembling the gods; and when you are in company, not to call it a crowd, and a tumult, and a trouble, but an assembly, and a festival; and thus to take all things contentedly. What then, is the punishment of those who do not so accept them? To be — as they are. Is any one discontented with being alone? Let him remain in his desert. Discontented with his parents? Let him be a bad son; and let him mourn. Discontented with his children? Let him be a bad father. Shall we throw him into prison? What prison? Where he already is, for he is in a situation against his will, and wherever any one is against his will, that is to him a prison; just as Socrates was not truly in prison, for he was willingly there.
+
+“What, then, must my leg be lame?”
+
+And is it for one paltry leg, wretch, that you accuse the universe? Can you not forego that, in consideration of the whole? Can you not give up something? Can you not gladly yield it to him who gave it? And will you be angry and discontented with the decrees of Zeus; which he, with the Fates, who spun in his presence the thread of your birth, ordained and appointed? Do not you know how very small a part you are of the whole? That is, as to body; for, as to reason, you are neither worse, nor less, than divine. For reason is not measured by size or height, but by principles. Will you not therefore place your good there, where you share with the gods?
+
+“But how wretched am I, in such a father and mother!”
+
+What, then, was it granted you to come beforehand, and make your own terms, and say, “Let such and such persons, at this hour, be the authors of my birth”? It was not granted; for it was necessary that your parents should exist before you, and so you be born afterwards. — Of whom? — Of just such as they were. What, then, since they are such, is there no remedy afforded you? Surely, you would be wretched and miserable, if you knew not the use of sight, and shut your eyes in presence of colors; and are not you more wretched and miserable, in being ignorant, that you have within you the needful nobleness and manhood wherewith to meet these accidents? Events proportioned to your reason are brought before you; but you turn it away, at the very time when you ought to have it the most open and discerning. Why do not you rather thank the Edition: current; Page: [44] gods, that they have made you superior to those events which they have not placed within your own control; and have rendered you accountable for that only, which is within your own control? Of your parents they acquit you, as not accountable: of your brothers they acquit you; of body, possessions, death, life, they acquit you. For what, then, have they made you accountable? For that which is alone in your own power; a right use of things as they appear. Why, then, should you draw those cares upon yourself, for which you are not accountable? This is giving one’s self vexation, without need.

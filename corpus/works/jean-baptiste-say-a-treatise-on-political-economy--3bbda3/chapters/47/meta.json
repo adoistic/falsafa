@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 47,
+  "chapter_title": "BOOK II, CHAPTER III: OF REAL AND RELATIVE VARIATION OF PRICE.",
+  "chapter_slug": "47",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d275c68d-1cf4-519d-abb0-fd7cf0316625",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3486,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

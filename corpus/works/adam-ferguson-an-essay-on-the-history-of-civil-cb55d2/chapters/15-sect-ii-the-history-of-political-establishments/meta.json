@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 15,
+  "chapter_title": "SECT. II.: The History of political Establishments.",
+  "chapter_slug": "15-sect-ii-the-history-of-political-establishments",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8481a112-4ffb-5e05-a1e4-81ee6539d68a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5229,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 14,
+  "chapter_title": "Restoration of Fugitive Slaves. (Const., Art. 4, sec. 2.)",
+  "chapter_slug": "14-restoration-of-fugitive-slaves-const-art-4-sec-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88b2a250-e99f-5575-b8ef-d659b0a16488",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 229,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

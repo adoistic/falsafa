@@ -1,0 +1,26 @@
+{
+  "work_slug": "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8",
+  "work_title": "Selected Political Writings and Speeches",
+  "chapter_number": 4,
+  "chapter_title": "the second DISCOURSE concerning the AFFAIRS OF SCOTLAND; written in the year 1698",
+  "chapter_slug": "04-the-second-discourse-concerning-the-affairs-of-sco",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c3a5c2a-d17e-58ff-a5ac-2abbab286370",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9748,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fletcher-selected-discourses-and-speeches"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 25
+chapter_title: §. 23.
+chapter_slug: "25-23"
+variant_id: "0bf39b7e-4ddf-52e0-a5e2-8b290d2c2164"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 285
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+But let us see the argument. The words of the text are these; and God blessed them, and God said unto them, be fruitful and multiply, and replenish the earth and subdue it, and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth, i. Gen. 28. from whence our author concludes, that Adam, having here dominion given him over all creatures, was thereby the monarch of the Edition: current; Page: [26] whole world: whereby must be meant, that either this grant of God gave Adam property, or as our author calls it, private dominion over the earth, and all inferior or irrational creatures, and so consequently that he was thereby monarch; or 2dly, that it gave him rule and dominion over all earthly creatures whatsoever, and thereby over his children; and so he was monarch: for, as Mr. Selden has properly worded it, Adam was made general lord of all things, one may very clearly understand him, that he means nothing to be granted to Adam here but property, and therefore he says not one word of Adam’s monarchy. But our author says, Adam was hereby monarch of the world, which, properly speaking, signifies sovereign ruler of all the men in the world; and so Adam, by this grant, must be constituted such a ruler. If our author means otherwise, he might with much clearness have said, that Adam was hereby proprietor of the whole world. But he begs your pardon in that point: clear distinct speaking not serving every where to his purpose, you must not expect it in him, as in Mr. Selden, or other such writers.

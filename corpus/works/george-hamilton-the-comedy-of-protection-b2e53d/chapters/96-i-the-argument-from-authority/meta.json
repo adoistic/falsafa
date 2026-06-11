@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 96,
+  "chapter_title": "I.—: The Argument from Authority.",
+  "chapter_slug": "96-i-the-argument-from-authority",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbddd054-6054-5912-ae7c-9040cc84a032",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 350,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 36,
+  "chapter_title": "V.: From Governmental Direction and Interference",
+  "chapter_slug": "36-v-from-governmental-direction-and-interference",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "362a6325-bea5-5159-97a6-902c3e3a884a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 551,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

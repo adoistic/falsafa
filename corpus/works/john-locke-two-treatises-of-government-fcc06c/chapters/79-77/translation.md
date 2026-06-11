@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 79
+chapter_title: §. 77.
+chapter_slug: "79-77"
+variant_id: "c94c2a63-4035-56ee-a96e-a62f52c448d5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 550
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+The same inconvenience he runs into about the three sons of Noah, who, as he says, p. 13. had the whole world divided amongst them by their father. I ask then, in which of the three shall we find the establishment of regal power after Noah’s death? If in all three, as our author there seems to say; then it will follow, that regal power is founded in property of land, and follows private dominion, and not in paternal power, or natural dominion; and so there is an end of paternal power as the fountain of regal authority, and the so-much-magnified fatherhood quite vanishes. If the regal power descended to Shem as eldest, and heir to his father, then Noah’s division of the world by lot to his sons, or his ten years sailing about the Mediterranean to appoint each son his part, which our author tells of, p. 15. was labour lost; his division of the world to them, was to ill, or to no purpose: for his grant to Cham and Japhet was little worth, if Shem, notwithstanding this grant, as soon as Noah was dead, was to be lord over them. Or, if this grant of private dominion to them, over their assigned territories, were good, here were set up two distinct sorts of power, not subordinate Edition: current; Page: [92] one to the other, with all those inconveniences which he musters up against the power of the people, Observations, 158. which I shall set down in his own words, only changing property for people. All power on earth is either derived or usurped from the fatherly power, there being no other original to be found of any power whatsoever: for if there should be granted two sorts of power, without any subordination of one to the other, they would be in perpetual strife which should be supreme, for two supremes cannot agree: if the fatherly power be supreme, then the power grounded on private dominion must be subordinate, and depend on it; and if the power grounded on property be supreme, then the fatherly power must submit to it, and cannot be exercised without the licence of the proprietors, which must quite destroy the frame and course of nature. This is his own arguing against two distinct independent powers, which I have set down in his own words, only putting power rising from property, for power of the people; and when he has answered what he himself has urged here against two distinct powers, we shall be better able to see how, with any tolerable sense, he can derive all regal authority from the natural and private dominion of Adam, from fatherhood and property together, which are distinct titles, that do not always meet in the same person; and it is plain, by his own confession, presently separated Edition: current; Page: [93] as soon both as Adam’s and Noah’s death made way for succession: though our author frequently in his writings jumbles them together, and omits not to make use of either, where he thinks it will sound best to his purpose. But the absurdities of this will more fully appear in the next chapter, where we shall examine the ways of conveyance of the sovereignty of Adam, to princes that were to reign after him.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
+  "work_title": "A Treatise on Metallic and Paper Money and Banks",
+  "chapter_number": 8,
+  "chapter_title": "TABLES RELATIVE TO THE MONEY OF GREAT BRITAIN AND OTHER COUNTRIES.",
+  "chapter_slug": "08-tables-relative-to-the-money-of-great-britain-and-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "71a01c99-b2d7-5278-b227-adb82c4cc52a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 64,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 13,
+  "chapter_title": "TITUS FLAVIUS DOMITIANUS.",
+  "chapter_slug": "13-titus-flavius-domitianus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8dafd493-fec1-5241-b524-a6c91b726afb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9639,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

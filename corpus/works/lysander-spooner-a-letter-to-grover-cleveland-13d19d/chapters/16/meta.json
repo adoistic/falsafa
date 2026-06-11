@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-a-letter-to-grover-cleveland-13d19d",
+  "work_title": "A Letter to Grover Cleveland",
+  "chapter_number": 16,
+  "chapter_title": "Section XVI.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cee6613-aa4d-5548-9f72-9dd481f779fb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2349,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
+    }
+  ]
+}

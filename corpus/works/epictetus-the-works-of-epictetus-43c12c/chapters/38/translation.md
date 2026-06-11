@@ -1,0 +1,29 @@
+---
+work_id: "43c12c17-b6e4-511f-accf-6238146e1803"
+work_slug: "epictetus-the-works-of-epictetus-43c12c"
+work_title: The Works of Epictetus
+author_name: Epictetus
+chapter_number: 38
+chapter_title: "CHAPTER IV.: CONCERNING A MAN WHO HAD BEEN GUILTY OF ADULTERY."
+chapter_slug: 38
+variant_id: "578d049f-2ae3-50bb-874c-f40084ba8df0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 500
+source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+translator: Online Library of Liberty edition
+---
+
+JUST as he was once saying, that man is made for fidelity, and that whoever subverts this, subverts the peculiar property of man; there entered one of the so-called literary men, who had been found guilty of adultery, in that city. — But, continued Epictetus, if, laying aside that fidelity for which we were born, we form designs against the wife of our neighbor, what do we? What else but destroy and ruin — what? Fidelity, honor, and sanctity of manners. Only these? And do not we ruin neighborhood? Friendship? Our country? In what rank do we then place ourselves? How am I to consider you, sir? As a neighbor? A friend? What sort of one? As a citizen? How shall I trust you? Indeed, if you were some potsherd, so noisome that no use could be made of you, you might be thrown on a dunghill, and no mortal would take the trouble to pick you up; but if, being a man, you cannot fill any one place in human society, what shall we do with you? For, suppose you cannot hold the place of a friend, can you hold even that of a slave? And who will trust you? Why, then, should not you also be contented to be thrown upon some dunghill, as a useless vessel, and indeed as worse than that? Will you say, after this, Has no one any regard for me, a Edition: current; Page: [103] man of letters? Why, you are wicked, and fit for no use. Just as if wasps should take it ill that no one has any regard for them; but all shun, and whoever can, beats them down. You have such a sting, that whoever you strike with it, is thrown into troubles and sorrows. What would you have us do with you? There is nowhere to place you.
+
+“What, then, are not women made by nature common?”
+
+I admit it; and so is food at table common to those who are invited. But, after it is distributed, will you go and snatch away the share of him who sits next you; or slyly steal it, or stretch out your hand, and taste; and, if you cannot tear away any of the meat, dip your fingers and lick them? A fine companion! A Socratic guest indeed! Again; is not the theatre common to all the citizens? Therefore come, when all are seated, if you dare, and turn any one of them out of his place. In this sense, only, are women common by nature; but when the laws, like a good host, have distributed them, cannot you, like the rest of the company, be contented with your own share, but must you pilfer, and taste what belongs to another?
+
+“But I am a man of letters, and understand Archedemus.”
+
+With all your understanding of Archedemus, then, you will be an adulterer, and a rogue; and instead of a man, a wolf or an ape. For where is the difference?

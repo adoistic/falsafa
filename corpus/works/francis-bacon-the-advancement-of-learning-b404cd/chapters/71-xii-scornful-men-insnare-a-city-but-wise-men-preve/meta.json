@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 71,
+  "chapter_title": "XII.—: Scornful men insnare a city, but wise men prevent calamity",
+  "chapter_slug": "71-xii-scornful-men-insnare-a-city-but-wise-men-preve",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b8956fc-45bc-5483-9cfc-e77f951e9cb5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 288,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

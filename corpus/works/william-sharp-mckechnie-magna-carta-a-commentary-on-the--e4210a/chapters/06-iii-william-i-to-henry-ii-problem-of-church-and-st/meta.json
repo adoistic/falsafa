@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 6,
+  "chapter_title": "III.: William I. to Henry II.—Problem of Church and State.",
+  "chapter_slug": "06-iii-william-i-to-henry-ii-problem-of-church-and-st",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "19fe73d7-d91b-5658-9e31-2b3de829d801",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 969,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

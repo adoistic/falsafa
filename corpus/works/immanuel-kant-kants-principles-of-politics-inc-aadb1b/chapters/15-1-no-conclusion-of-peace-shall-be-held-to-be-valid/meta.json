@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 15,
+  "chapter_title": "1.: ‘No conclusion of Peace shall be held to be valid as such, when it has been made with the secret reservation of the ",
+  "chapter_slug": "15-1-no-conclusion-of-peace-shall-be-held-to-be-valid",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3cbf9c5-b81e-59b2-b803-e18717a25c5e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 259,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

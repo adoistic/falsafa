@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 46,
+  "chapter_title": "CHAPTER VIII: local indebtedness",
+  "chapter_slug": "46",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6fefe6f-9588-520b-a73b-adb44ec6db9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3274,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

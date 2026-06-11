@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 55,
+  "chapter_title": "SECTION V.: Of the Independence accruing to the Moderns from the Advancement of Industry.",
+  "chapter_slug": "55",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6eaf6b82-3a4a-5df6-9473-31a659f0fc98",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 943,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

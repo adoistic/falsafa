@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 15,
+  "chapter_title": "CHAPTER III.: INTEREST.",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d775f211-0607-539a-b604-b451d2ebb3e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5124,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

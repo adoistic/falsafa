@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 51,
+  "chapter_title": "BOOK VI, CHAPTER VI: INTEREST OF CAPITAL.",
+  "chapter_slug": "51",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8884fe4a-09a7-5c7c-b1a9-b23b79f131d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5367,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

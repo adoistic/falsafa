@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 27,
+  "chapter_title": "§ 16.: The judgement of taste, by which an object is declared to be beautiful under the condition of a definite concept,",
+  "chapter_slug": "27-16-the-judgement-of-taste-by-which-an-object-is-de",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ec61586-656f-5cdf-b6d3-d64e84f9bbd2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 965,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

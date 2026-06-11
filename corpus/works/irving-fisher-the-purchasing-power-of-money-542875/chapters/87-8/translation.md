@@ -1,0 +1,35 @@
+---
+work_id: "542875eb-ff23-56e6-8c35-7901b25dd56b"
+work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
+work_title: The Purchasing Power of Money
+author_name: Irving Fisher
+chapter_number: 87
+chapter_title: § 8
+chapter_slug: "87-8"
+variant_id: "5eae4efa-c54e-57f2-9fca-4917f9bb18cd"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 900
+source_url: "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+translator: Online Library of Liberty edition
+---
+
+After making the above named mutual adjustments among the six magnitudes in the equation of exchange, we reach the following figures, constituting our final table of values for M, M', V, V', P, and T; they are the figures plotted in the dotted curves above given:—
+
+This table, combining as it does the virtues of all the independent calculations of M, M', V, V', P, T, with the corrections of each necessary to make it conform to the others, may be considered to give the best available data concerning these magnitudes.
+
+These figures, or the dotted curves in the preceding diagram, show that money in circulation (M) has nearly Edition: current; Page: [305] doubled in thirteen years; that its velocity of circulation (V) has increased only 10 per cent; that the deposit currency has nearly tripled and its velocity of circulation (V') has increased 50 per cent; that the volume of trade has doubled; and that prices have risen two thirds.
+
+These results are not surprising, but are, I believe, just such as we might expect. Nevertheless, almost all are new. The figures for money in circulation (M) are not greatly different from those given in official documents and used by Professor Kemmerer. Likewise the figures for index numbers of prices are based chiefly on, and are very similar to, the index numbers for wholesale prices of the United States Labor Bureau. The statistics for volume of trade are constructed entirely anew and differ somewhat from Kemmerer's, which were their only precursors. The statistics for deposits subject to check (M') are here published for the first time. The statistics of velocities of circulation of bank deposits (V') are the first statistics of their kind, excepting the statistics for the activity of bank accounts of European Banks. Finally the statistics of velocity of circulation of money (V) are the first of their kind.
+
+With these data we are able to form a fairly correct statistical picture of the circulatory system in the United States. According to the records of 1909, the money in actual circulation (M) is 1.6 billions of dollars or $18 per capita (much less than the official figure given for circulation, $35); its velocity of circulation (V) is twenty-one times a year; the deposit currency (M') is 6.7 billions or $74 per capita—fourfold that of money; its velocity of circulation (V'), 53 times a year—two and a half times that of money; the total circulation of, or payments by, money (MV), 34 billions a year; the circulation Edition: current; Page: [306] of deposits subject to check or payments by check (M'V'), 353 billions—ten times as much or nearly a billion a day. This makes a grand total for business done at present prices (MV + M'V' or PT) of 387 billions, or more than a billion a day. The size of this aggregate will probably astonish most readers. In the absence of actual statistics we have heretofore little realized the colossal proportions of our trade. Probably few persons outside of statisticians would have imagined that our import and export trade, which has filled so large a place in our political vision, sinks into utter insignificance as compared with the internal trade of the country. The total exports and imports amount only to a paltry 3 billions as compared with a total national trade of 387 billions.
+
+We are now ready to represent the entire set of figures given in the last table by means of the mechanical illustration adopted in previous chapters. This is done in Figure 17, which shows at a glance the course of all the six magnitudes for fourteen years, making 84 statistical figures in all. This mechanical picture visualizes the increase in prices (lengthening in right arm) which has been going on during these fourteen years, and at the same time exhibits the changes in all the five factors on which that increase of prices depends. All of the six magnitudes represented are, of course, the corrected ones, so as to exactly harmonize with each other and make the two sides of the scales balance. The steady growth of the money in circulation is shown in the increase in the size of the hanging purse; the similar but more rapid growth of deposits subject to check is shown by the increase in the size of the bank book; the lesser growth in the velocities of these two media of exchange is shown by the lengthening of the two arms at the left Edition: current; Page: [307] of the fulcrum. These four factors have all conspired to increase prices. The only cause resisting the rise is the growth of trade, which is shown by the increasing size of the hanging tray at the right and which has tended to reduce prices.
+
+We have here a complete quantitative picture of the causes affecting the price level during the last fourteen years, or, at any rate, of all the proximate causes; for, as we have noted, back of the five proximate causes lie innumerable antecedent causes.
+
+What then, in brief, are the facts of history? They are that prices have increased by about two thirds between 1896 and 1909, that this has been in spite of a doubling in the volume of trade, and because of (1) a doubling of money, (2) a tripling of deposits, and (3 and 4) slight increases in the velocities of circulation.

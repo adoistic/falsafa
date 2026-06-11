@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 98,
+  "chapter_title": "§ 2 (TO CHAPTER II, § 5) The Concept of Velocity of Circulation",
+  "chapter_slug": "98-2-to-chapter-ii-5-the-concept-of-velocity-of-circu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7e8f96ee-417f-56ac-877d-84885be47f87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 843,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "wordsworth-donisthorpe-law-in-a-free-state-75f0ef",
+  "work_title": "Law in a Free State",
+  "chapter_number": 7,
+  "chapter_title": "CHAPTER V: education and instruction",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6783b8c9-eea3-5cb4-a81f-757885a0e845",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6096,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/donisthorpe-law-in-a-free-state"
+    }
+  ]
+}

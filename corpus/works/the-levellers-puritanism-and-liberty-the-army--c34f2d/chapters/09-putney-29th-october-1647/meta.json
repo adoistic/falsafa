@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 9,
+  "chapter_title": "Putney, 29th October 1647",
+  "chapter_slug": "09-putney-29th-october-1647",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df7064c8-c839-5c90-8fdf-f6169359a65e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 27955,
+      "paragraph_count": 121,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 97,
+  "chapter_title": "§ I (TO CHAPTER II, § 3) The Concept of an Average",
+  "chapter_slug": "97-i-to-chapter-ii-3-the-concept-of-an-average",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11757ae2-0f2f-5525-9b8f-6741de240f01",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1060,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

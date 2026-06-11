@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 34,
+  "chapter_title": "X.: the nationalization of the land.",
+  "chapter_slug": "34-x-the-nationalization-of-the-land",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7dfad025-0830-5574-93ec-b5dd63479e81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3635,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

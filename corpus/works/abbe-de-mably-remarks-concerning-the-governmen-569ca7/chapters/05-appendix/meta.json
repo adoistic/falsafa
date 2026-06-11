@@ -1,0 +1,26 @@
+{
+  "work_slug": "abbe-de-mably-remarks-concerning-the-governmen-569ca7",
+  "work_title": "Remarks Concerning the Government and Laws of the United States of America",
+  "chapter_number": 5,
+  "chapter_title": "APPENDIX.",
+  "chapter_slug": "05-appendix",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "541ec4d1-3815-5fe9-a498-140ab3d50fd6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13737,
+      "paragraph_count": 202,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mably-remarks-concerning-the-government-and-laws-of-the-united-states-of-america"
+    }
+  ]
+}

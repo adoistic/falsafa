@@ -1,0 +1,29 @@
+---
+work_id: "b404cdcb-4b2b-5a04-aaa8-3c37097782ed"
+work_slug: "francis-bacon-the-advancement-of-learning-b404cd"
+work_title: The Advancement of Learning
+author_name: Francis Bacon
+chapter_number: 11
+chapter_title: CHAPTER IV
+chapter_slug: 11
+variant_id: "f4acadd4-f305-528b-b04a-3bb2238c58e7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 603
+source_url: "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+translator: Online Library of Liberty edition
+---
+
+Civil History divided into Ecclesiastical and Literary. Deficiency of the latter. The Absence of Precepts for its Compilation
+
+CIVIL history, in general, may be divided into three particular kinds, viz., sacred, civil, and literary; the latter whereof being wanting, the history of the world appears like the statue of Polyphemus, without its eye; the part that best shows the life and spirit of the person. In many particular sciences indeed, as the law, mathematics, and rhetoric, there are extant some short memoirs, and jejune relations of sects, schools, books, authors, and the successions of this kind of sciences, as well as some trivial accounts of the inventors of things and arts; but we say, that a just and universal literary history has not hitherto been published.
+
+The design of this work should be, to relate from the earliest accounts of time—1, what particular kinds of learning Edition: current; Page: [101] and arts flourished, in what ages, and what parts of the world; 2, their antiquities, progress, and travels on the globe; 3, their decline, disappearance, and restoration. In each art should be observed, 4, its origin and occasion of invention; 5, the manner and form of its delivery; and 6, the means of its introduction, exercise, and establishment. Add to these, 7, the most famous sects and controversies of learned men; 8, the calumnies they suffered, and the praises and honors they received; 9, all along let the best authors and books be noted; with 10, the schools, successions, academies, societies, colleges, orders, and whatever regards the state of learning: but 11, principally let events be throughout coupled with their causes (which is the soul, as it were, of civil history), in relating the nature of countries and people, and 12, their disposition and indisposition to different kinds of learning; 13, the accidents of time, whether favorable or destructive to the sciences; 14, the zeal and mixture of religion; 15, the severity and lenity of laws; 16, the remarkable patronage, efforts, and endowments of illustrious men, for the promotion of learning and the like. All which we would have handled, not in the manner of critics, who barely praise and censure; but historically, or in the way of a naked delivery of facts, with but a sparing use of private judgment.
+
+For the manner of writing this history, we particularly advise the materials of it to be drawn, not only from histories and critical works, but also that the principal books of every century be regularly consulted downward; so far we mean, as that a taste may be had, or a judgment formed, of the subject, style, and method thereof; whence the literary genius of every age may at pleasure be raised, as it were, from the dead.
+
+The use and end of this work is not to derive honor and pomp to learning, nor to gratify an eager curiosity and fondness of knowing and preserving whatever may relate thereto; but chiefly to make learned men wise, in the prudent Edition: current; Page: [102] and sober exercise and administration of learning, and by marking out the virtues and vices of intellectual things, as well as the motions and perturbations of states, to show how the best regulation and government may be thence derived; for as the works of St. Austin or St. Ambrose will not make so wise a divine as a thorough reading of Ecclesiastical History, the same will hold true of learned men with regard to particular books and literary history: for whoever is not supported by examples and the remembrance of things, must always be exposed to contingencies and precipitancy.

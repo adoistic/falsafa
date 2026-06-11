@@ -1,0 +1,26 @@
+{
+  "work_slug": "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e",
+  "work_title": "The Common Sense of Political Economy",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER V: BUSINESS AND THE ECONOMIC NEXUS",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "65ebcd0a-ccca-5429-a384-2d44714a1f0c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 21472,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
+    }
+  ]
+}

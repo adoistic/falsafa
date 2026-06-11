@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-novum-organum-79da24",
+  "work_title": "Novum Organum",
+  "chapter_number": 3,
+  "chapter_title": "APHORISMS—BOOK II: ON THE INTERPRETATION OF NATURE, OR THE REIGN OF MAN",
+  "chapter_slug": "03-aphorisms-book-ii-on-the-interpretation-of-nature-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "18cb01ae-dce6-581b-b509-d365cb16d619",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3304,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-novum-organum"
+    }
+  ]
+}

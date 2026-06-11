@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 62,
+  "chapter_title": "Certain Articles for the Good of the Commonwealth, Presented to the consideration of his Excellency Sir Thomas Fairfax, ",
+  "chapter_slug": "62-certain-articles-for-the-good-of-the-commonwealth-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c721a760-f94d-5b5a-8ad5-2102fa700f0f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1566,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

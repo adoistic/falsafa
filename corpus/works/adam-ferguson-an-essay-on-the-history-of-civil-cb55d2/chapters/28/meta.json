@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 28,
+  "chapter_title": "SECTION III.: Of Relaxations in the National Spirit incident to Polished Nations.",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b489fdf9-fe0d-5c9e-85f4-08ea60271c79",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4098,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

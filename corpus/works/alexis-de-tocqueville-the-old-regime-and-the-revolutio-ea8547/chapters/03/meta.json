@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
+  "work_title": "The Old Regime and the Revolution",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER II.: THAT THE FUNDAMENTAL AND FINAL OBJECT OF THE REVOLUTION WAS NOT, AS SOME HAVE SUPPOSED, TO DESTROY RELIGIOU",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "39000164-09b0-5bbc-a94e-dc9c8057846e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1333,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+    }
+  ]
+}

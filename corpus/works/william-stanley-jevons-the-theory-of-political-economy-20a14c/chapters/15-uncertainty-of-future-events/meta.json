@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 15,
+  "chapter_title": "Uncertainty of Future Events.",
+  "chapter_slug": "15-uncertainty-of-future-events",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f22aa28c-1960-577e-9451-4fd6f84b24c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 287,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

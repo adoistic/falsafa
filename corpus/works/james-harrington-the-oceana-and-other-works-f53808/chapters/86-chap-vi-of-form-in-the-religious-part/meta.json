@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 86,
+  "chapter_title": "CHAP. VI.: Of Form in the Religious Part.",
+  "chapter_slug": "86-chap-vi-of-form-in-the-religious-part",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "332027b3-052f-5f0d-9193-a4492b64d06c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1193,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

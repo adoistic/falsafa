@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
+  "work_title": "Historical Essays and Studies",
+  "chapter_number": 12,
+  "chapter_title": "XI: MR. BUCKLE’S PHILOSOPHY OF HISTORY",
+  "chapter_slug": "12-xi-mr-buckle-s-philosophy-of-history",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0725a5e3-a438-5bb3-941b-956fd4feaca7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6731,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laurence-historical-essays-and-studies"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "wordsworth-donisthorpe-individualism-a-system-of-politi-ce6e15",
+  "work_title": "Individualism: A System of Politics",
+  "chapter_number": 9,
+  "chapter_title": "CHAPTER VIII: a word for anarchy",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30ef9061-4c54-5048-9c4c-f30e125eaec1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3157,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/donisthorpe-individualism-a-system-of-politics"
+    }
+  ]
+}

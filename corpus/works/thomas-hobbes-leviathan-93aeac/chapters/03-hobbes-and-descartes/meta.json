@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 3,
+  "chapter_title": "Hobbes and Descartes.",
+  "chapter_slug": "03-hobbes-and-descartes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0ae57da-ef99-5909-8fe7-845d47686908",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3121,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

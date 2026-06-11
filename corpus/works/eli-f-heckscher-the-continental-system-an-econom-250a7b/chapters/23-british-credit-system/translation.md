@@ -1,0 +1,25 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 23
+chapter_title: BRITISH CREDIT SYSTEM
+chapter_slug: "23-british-credit-system"
+variant_id: "b24f5c09-2aa3-5a2a-9a11-ecc80a14f8bc"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 709
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+To all this, however, must be added the fact that there were not lacking signs calculated to arouse genuine doubts, even in fairly penetrating observers, as to the durability of the British system of credit. The main cause of this was the Bank Restriction Act of 1797, whereby the Bank of England was released from the obligation to redeem its notes, an obligation which it did not resume for a period of twenty-two years. Thus Great Britain had a paper currency throughout the whole of the revolutionary and the Napoleonic periods. That this was a great and unexpected blow, especially for admirers of the British credit system, is fully substantiated by what Mollien, Napoleon's future minister of finance, writes about the matter in his Mémoires d'un ministre du trésor public. The fact is that Mollien, through impressions received partly from Turgot's most faithful collaborator, Malesherbes, and partly from his father, a French manufacturer, was entirely dominated by economic liberalism, and that to a far greater extent in the English form, as embodied in Adam Smith, than in the French form as embodied in physiocracy. In his memoirs, which were begun in 1817, but which were founded, according to his own statement, on almost daily jottings, he refers to the strong impression which the British Bank Restriction Act had made on him when he was a man of forty and experienced both as a financial official and as a practical manufacturer. Inasmuch as the Bank of England was solvent, he believed that it was in a position to meet its liabilities without loss to its creditors; but in that case, he says, its notes would decline in value, the British Exchequer would have to close, &c.; and he adds: 'Those who have long prophesied disturbances and ruin for England have never had greater reasons for their gloomy forebodings.' The remarkableness of the situation made such an impression on Mollien that at the close of the following year he went so far as to make a flying journey of observation to the enemy's territory, via Germany, with the Wealth of Nations as his only companion.
+
+During the first decade of the British paper currency, that is, from 1797 to about 1808, the depreciation of the bank-notes, as measured by the price of bullion and the rates of foreign exchange, was only intermittently (principally in the years 1800-2) of any very great importance. During that period, therefore, there was no great danger to be seen in the irredeem-ability of the notes, and least of all any danger to the public finances of Great Britain or to her credit system in general. But ideas on this subject being as thoroughly misty as they were, it is perhaps almost natural that the situation should have been misunderstood. In Great Britain not only the politicians, but also the bankers and business men, obstinately refused to recognize any real depreciation of the notes, even when it became, in the course of time, very considerable. In France, on the other hand, the people, under the influence of the woful history and far-reaching injuries done by their own assignats, saw a peril overhanging England in the mere existence of an irredeemable paper currency. The contemporary literature previously cited abounds with such views; and during his reign Napoleon never failed to boast it as absolutely inconceivable that a government so extremely well organized as his should ever have to fall back upon such a disastrous expedient as the use of paper money, 'the greatest foe to the social order (l'ordre social),' of which 'the history of all times confirms that its fatal experiences occur only under emasculated governments'.
+
+But all this could at the most show the weakness of the economic position of Great Britain, and thus inspire a general hope of success in the struggle against such an enemy. It had apparently no direct connexion with that special kind of tactics in commercial war which is called continental blockade. Such a connexion does not appear until we come to consider the importance that the trade of Great Britain, and especially her exports to the Continent, were regarded as having for her credit system, and in general the conception of the effect of the continental connexions on British currency.

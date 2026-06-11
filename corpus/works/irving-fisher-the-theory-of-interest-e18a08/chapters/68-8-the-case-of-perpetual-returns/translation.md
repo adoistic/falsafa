@@ -1,0 +1,25 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 68
+chapter_title: §8. The Case of Perpetual Returns
+chapter_slug: "68-8-the-case-of-perpetual-returns"
+variant_id: "ff604ee3-152a-5776-8d14-3fcfc5db650a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 566
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Next in simplicity is the type in which $100 of immediate cost is incurred for the sake of a perpetual annuity of $5 a year. Let us suppose the individual possesses some swamp land in a primitive condition. He has a large range of choice as to the method of utilizing this land. He wants to make the most of his opportunities. One option is to allow the land to remain a swamp. Others occur if, by clearing and draining it, it is converted into crop-yielding land, the yield varying with the thoroughness with which the clearing and draining are accomplished. Let us suppose that, under the first option, he derives a perpetual net income of $50 a year, and let us suppose that, at an immediate cost of $100 in his labor or in payment for the labor of others for clearing and draining, he can secure an addition of $25 a year. That is, as between retaining these two options, the swamp undrained and draining it partially, the latter involves a $100 decrease of immediate income and thereafter an income of $75 a year, or an increase of $25 a year. In other words, at the cost of $100 he will obtain a return of 25 per cent per annum in perpetuity.
+
+Evidently, if the rate of interest in the market is 5 per cent, or anything less than 25 per cent, it will pay him to make such an investment, borrowing at 5 per cent if he wishes the $100 required for the improvement. Next suppose that another $100 invested in improving the swamp would yield crop returns of $90, or $15 more than before. The investment of this second $100 yields 15 per cent, and is therefore also a lucrative one, when the rate of interest is only 5 per cent. A third $100 may increase the annual crop still further, say by $10, netting Edition: current; Page: [168] a return of 10 per cent over the cost. A fourth $100 invested will cause the annual crop to be increased by $5 giving a return of 5 per cent. A fifth $100 will cause the crop to increase by $3—a return of 3 per cent. Evidently it will pay the farmer to invest in draining and improving his swamp up to the fourth $100, but not to the fifth $100. Rather than invest this fifth $100 and receive thereon an annual income of $3 a year, he would prefer to invest $100 in the savings bank and receive 5 per cent a year.
+
+In other words, the exact degree of intensity with which he will improve and cultivate his land is determined by the current rate of interest. Should the rate of interest in the market fall from the 5 per cent just assumed to 2 per cent, it would then pay him to invest the fifth $100. For, evidently, if need be, he could borrow $100 at 2 per cent and receive from his land a return of 3 per cent. As Rae has so clearly pointed out, in communities where the rate of interest is low, swamps will be more thoroughly improved, roads better made, dwellings more durably built, and all instruments developed to a higher degree of efficiency so as to yield a lower marginal return over cost than in a community where the rate of interest is high.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 22,
+  "chapter_title": "THE EXCELLENCE OF THE CHRISTIAN RELIGION.",
+  "chapter_slug": "22-the-excellence-of-the-christian-religion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "131d1fcb-ecfc-5004-88ec-1e56076d3a8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2167,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

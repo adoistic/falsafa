@@ -1,0 +1,23 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 153
+chapter_title: CHAPTER VII
+chapter_slug: 153
+variant_id: "1b46de67-ddd9-5fd5-a5af-0d138490fcfd"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 706
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how he entertained an angel, and whilst ministering to him earthly bread, was thought worthy to be rewarded with bread from heaven
+
+Some years after, it pleased King Alfred, for the redemption of his soul, to grant to Abbot Eata a certain tract of country called Inrhipum, in which to build a monastery. The abbot, in consequence of this grant, erected the intended building, and placed therein certain of his brother-monks, among whom was Cuthbert, and appointed for them the same rules and discipline which were observed at Melrose. It chanced that Cuthbert was appointed to the office of receiving strangers, and he is said to have entertained an angel of the Lord who came to make trial of his piety. For, as he went very early in the morning, from Edition: current; Page: [297] the interior of the monastery into the strangers’ cell, he found there seated a young person, whom he considered to be a man, and entertained as such. He gave him water to wash his hands; he washed his feet himself, wiped them, and humbly dried them in his bosom; after which he entreated him to remain till the third hour of the day and take some breakfast, lest, if he should go on his journey fasting, he might suffer from hunger and the cold of winter. For he took him to be a man, and thought that a long journey by night and a severe fall of snow had caused him to turn in thither in the morning to rest himself. The other replied, that he could not tarry, for the home to which he was hastening lay at some distance. After much entreaty, Cuthbert adjured him in God’s name to stop; and as the third hour was now come, prayer over, and it was time to breakfast, he placed before him a table with some food, and said, “I beseech thee, brother, eat and refresh thyself, whilst I go and fetch some hot bread, which must now, I think, be just baked.” When he returned, the young man, whom he had left eating, was gone, and he could see no traces of his footsteps, though there had been a fresh fall of snow, which would have exhibited marks of a person walking upon it, and shown which way he went. The man of God was astonished, and revolving the circumstances in his mind, put back the table in the dining-room. Whilst doing so, he perceived a most surprising odour and sweetness; and looking round to see from what it might proceed, he saw three white loaves placed there, of unusual whiteness and excellence. Trembling at the sight, he said within himself, “I perceive that it was an angel of the Lord whom I entertained, and that he came to feed us, not to be fed himself. Behold, he hath brought such loaves as this earth never produced; they surpass the lily in whiteness, the rose in odour, and honey in taste. They are, therefore, not produced from this earth, but are sent from paradise. No wonder that he rejected my offer of earthly food, when he enjoys such bread as this in heaven.” The man of God was stimulated by this powerful miracle to be more zealous still in performing works of piety; and with his deeds did increase upon him also the grace of God. From that time he often saw and conversed with angels, and when hungry was fed with unwonted food furnished direct from God. Edition: current; Page: [298] He was affable and pleasant in his character; and when he was relating to the fathers the acts of their predecessors, as an incentive to piety, he would introduce also, in the meekest way, the spiritual benefits which the love of God had conferred upon himself. And this he took care to do in a covert manner, as if it had happened to another person. His hearers, however, perceived that he was speaking of himself, after the pattern of that master who at one time unfolds his own merits without disguise, and at another time says, under the guise of another, “I knew a man in Christ fourteen years ago, who was carried up into the third heaven.”

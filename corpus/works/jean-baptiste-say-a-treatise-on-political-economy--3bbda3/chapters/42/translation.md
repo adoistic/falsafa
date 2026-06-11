@@ -1,0 +1,37 @@
+---
+work_id: "3bbda339-f4ba-576b-a70e-d292be6fa16d"
+work_slug: "jean-baptiste-say-a-treatise-on-political-economy--3bbda3"
+work_title: A Treatise on Political Economy (Biddle ed.)
+author_name: "Jean-Baptiste Say"
+chapter_number: 42
+chapter_title: "SECTION II.: Of Banks of Deposit."
+chapter_slug: 42
+variant_id: "dc30b19b-e472-5ee2-a3c6-bcb7c16e0298"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 911
+source_url: "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+translator: Online Library of Liberty edition
+---
+
+The constant intercourse between a small state and its neighbours occasions a perpetual influx of foreign coin. For, although the small state may have a national coinage of its own, yet, the frequent necessity of taking the foreign instead of the national coin in payment, requires the fixation of the ratio of their relative value, in the current transactions of business.
+
+There are many mischiefs attending the use of foreign coin, arising chiefly from the great variation of weight and quality. It is often extremely old, worn, and defaced; not having participated in the general re-coinage of the nation that issued it, where, perhaps, it is no longer current; all which circumstances, though considered in settling its current relative value to the local coin, yet, do not quite reduce it to the natural level of depreciation.
+
+Bills drawn from abroad upon such a state, being payable in the coin thus rendered current, are, in consequence, negotiated abroad at some loss; and those drawn upon foreign countries, and, consequently, payable in coin of a more steady and intelligible value, are negotiated in a smaller state at a premium, because the holder of them must have purchased them in a depreciated currency. In short, the foreign coin is always exchanged for the local currency to a loss.
+
+The remedy devised by states of this inferior class is the subject of the present section. They established banks, where private merchants could lodge any amount of local national coin, of bullion, or of foreign coin, reckoned by the bank as bullion; and the amount, so lodged, was entered as so much money of the legal national standard of weight and quality. At the same time, the bank opened an account with each merchant making such deposit, giving him credit for the amount of the deposit. Whenever a merchant wanted to make a payment, there was no occasion to touch the deposit at all; it was sufficient to transfer the sum required, from the credit of the party paying, to that of the party receiving. Thus values could be transferred continually by a mere transfer in the books of the bank. The whole operation was conducted without any actual transfer of specie; the original deposit, which was entered at the real intrinsic value at the time of making it, remained as security for the credit transferred from one person to another; and the specie, so lodged with the bank, was exempt from any reduction of value by wear, fraud, or even legislative enactment.
+
+The money still remaining in circulation, wherever it was exchanged for the bank deposits, that is to say, for entries in the bank books, necessarily lost in proportion to the reduction of its intrinsic value. And this loss occasioned the difference of value, or agio at Amsterdam, between bank money and circulating money, which was on the average from 3 to 4 per cent. in favour of the former.
+
+It will easily be imagined, that the bills of exchange, payable in a currency so little liable to injury or fluctuation, must be negotiable on better than ordinary terms. In fact, it was observable, that on the whole, the course of exchange was rather in favour of the countries that paid in bank, and unfavourable to those that paid in circulating money only.
+
+The bank retained the deposities in perpetuity; for the re-issue would have been attended with serious loss; inasmuch as it would have been the same thing, as producing good money of the full original value, to be taken at par with the deteriorated circulating coin, which passes current for—not its intrinsic, but its average weight. The coin withdrawn from the bank would have been mixed up with the mass of circulation, and passed current at par with the rest. So that the withdrawing such deposits would have been a gratuitous sacrifice of the excess of value of bank above circulating money.
+
+This is the nature of banks of deposit; most of which combined other operations with the primary object of their institution; but of them I shall speak elsewhere. They derived their profits, partly from a duty levied upon every transfer, and partly from operations incident to, and compatible with, their institution; as, for example, advances made upon a deposit of bullion.
+
+It is evident, that the inviolability of the deposit, confided to them, is essential to the success of such establishments. At Amsterdam, the four burgomasters, or municipal magistrates, were trustees for the creditors. Annually, on leaving office, they handed over the trust to their successors, who, after inspecting the account, and verifying it by the registers of the bank, bound themselves by oath, to surrender their charge inviolate to their successors in office. This trust was scrupulously executed from the first establishment of the bank in 1609 until 1672, when the forces of Louis XIV. penetrated as far as Utrecht. The deposits were then faithfully restored to the individuals. It would seem to have been afterwards less scrupulously managed; for, when the French took possession of that capital, in 1794, and called for a statement of the concern, it was found to be in advance of no less a sum than 10,624,793 florins to the India company, and to the provinces of Holland and West-Friezeland, which were wholly unable to repay it. In a country governed by a power without control or responsibility, it may be expected, that such a deposit would have been still more exposed to violation.

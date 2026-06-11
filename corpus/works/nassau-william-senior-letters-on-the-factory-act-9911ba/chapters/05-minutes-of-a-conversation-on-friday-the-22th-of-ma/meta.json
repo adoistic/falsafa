@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-letters-on-the-factory-act-9911ba",
+  "work_title": "Letters on the Factory Act",
+  "chapter_number": 5,
+  "chapter_title": "Minutes of a Conversation on Friday, the 22th of May, 1837, between Mr. Thompson, Mr. Edmund Ashworth, and Mr. Senior.",
+  "chapter_slug": "05-minutes-of-a-conversation-on-friday-the-22th-of-ma",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9aae8d8c-cd6f-5bf7-8ff5-f89c53c41404",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4809,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-letters-on-the-factory-act"
+    }
+  ]
+}

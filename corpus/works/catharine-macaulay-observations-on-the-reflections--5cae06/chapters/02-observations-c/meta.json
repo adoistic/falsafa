@@ -1,0 +1,26 @@
+{
+  "work_slug": "catharine-macaulay-observations-on-the-reflections--5cae06",
+  "work_title": "Observations on the Reflections of Edmund Burke on the Revolution in France",
+  "chapter_number": 2,
+  "chapter_title": "OBSERVATIONS, &c.",
+  "chapter_slug": "02-observations-c",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ed88e8c5-945f-5285-b13f-d9334071c7ed",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17521,
+      "paragraph_count": 106,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/macaulay-observations-on-the-reflections-of-the-rt-hon-edmund-burke-on-the-revolution-france"
+    }
+  ]
+}

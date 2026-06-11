@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 36,
+  "chapter_title": "CHAPTER V.: THE DEGREE OF LIFE VARIES AS THE DEGREE OF CORRESPONDENCE.",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fdd566fa-9772-54a1-9a9d-58efb80204ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3035,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

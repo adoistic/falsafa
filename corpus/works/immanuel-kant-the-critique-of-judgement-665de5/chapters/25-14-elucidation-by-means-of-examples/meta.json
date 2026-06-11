@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 25,
+  "chapter_title": "§ 14.: Elucidation by means of examples",
+  "chapter_slug": "25-14-elucidation-by-means-of-examples",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9adda3a-3d94-5711-b905-a7c055c09f30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1078,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

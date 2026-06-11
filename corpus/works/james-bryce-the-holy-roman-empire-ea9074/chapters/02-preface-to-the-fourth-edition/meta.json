@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-bryce-the-holy-roman-empire-ea9074",
+  "work_title": "The Holy Roman Empire",
+  "chapter_number": 2,
+  "chapter_title": "PREFACE TO THE FOURTH EDITION",
+  "chapter_slug": "02-preface-to-the-fourth-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7713d45-dd6e-5fd3-8142-03e58577df07",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 337,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bryce-the-holy-roman-empire"
+    }
+  ]
+}

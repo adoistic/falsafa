@@ -1,0 +1,29 @@
+---
+work_id: "a06f2f15-9555-51e3-b2e9-bc7d88e6f10f"
+work_slug: "franz-oppenheimer-the-state-a06f2f"
+work_title: The State
+author_name: Franz Oppenheimer
+chapter_number: 10
+chapter_title: (b) the integration
+chapter_slug: "10-b-the-integration"
+variant_id: "267fb5e3-8f04-5d55-af64-9e6f1e83b1f8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 570
+source_url: "https://oll.libertyfund.org/titles/oppenheimer-the-state"
+translator: Online Library of Liberty edition
+---
+
+We have followed the genesis of the state, from its second stage onward, in its objective growth as a political and jural form with economic content. But it is far more important to examine its subjective growth, its socio-psychological “differentiation and integration,” since all sociology is nearly always social psychology. First, then, let us discuss integration.
+
+We saw in the second stage, as set forth above, how the net of psychical relations becomes ever tighter and closer enmeshed, as the economic amalgamation advances. The two dialects become one language; or one of the two, often of an entirely different stock from the other, becomes extinct. This, in some cases, is the language of the victors, but more frequently that of the vanquished. Both cults amalgamate to one religion, in which the tribal god of the conquerors is Edition: current; Page: [90]adored as the principal divinity, while the old gods of the vanquished become either his servants, or, as demons or devils, his adversaries. The bodily type tends to assimilate, through the influence of the same climate and similar mode of living. Where a strong difference between the types existed or is maintained, the bastards, to a certain extent, fill the gap—so that, in spite of the still existing ethnic contrast, everybody, more and more, begins to feel that the type of the enemies beyond the border is more strange, more “foreign” than is the new co-national type. Lords and subjects view one another as “we,” at least as concerns the enemy beyond the border; and at length the memory of the different origin completely disappears. The conquerors are held to be the sons of the old gods. This, in many cases, they literally are, since these gods are nothing but the souls of their ancestors raised to godhead by apotheosis.
+
+Since the new “states” are much more aggressive than the former communities bound together by mere blood relationship, the feeling Edition: current; Page: [91]of being different from the foreigner beyond the borders, growing in frequent feuds and wars, becomes stronger and stronger among those within the “realm of peace.” And in the same measure there grows among them the feeling of belonging to another; so that the spirit of fraternity and of equity, which formerly existed only within the horde and which never ceased to hold sway within the association of nobles, takes root everywhere, and more and more finds its place in the relations between the lords and their subjects.
+
+At first these relations are manifested only in infrequent cases: equity and fraternity are allowed only such play as is consistent with the right to use the political means; but that much is granted. A far stronger bond of psychical community between high and low, more potent than any success against foreign invasion, is woven by legal protection against the aggression of the mighty. “Justitia fundamentum regnorum.” When, pursuant to their own ideals of justice, the aristocrats as a social group execute one of their own class for Edition: current; Page: [92]murder or robbery, for having exceeded the bounds of permitted exploitation, the thanks and the joy of the subjects are even more heartfelt than after victory over alien foes.
+
+These, then, are the principal lines of development of the psychical integration. Common interest in maintaining order and law and peace produce a strong feeling of solidarity, which may be called “a consciousness of belonging to the same state.”

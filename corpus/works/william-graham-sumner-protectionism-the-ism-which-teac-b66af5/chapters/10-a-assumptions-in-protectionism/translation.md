@@ -1,0 +1,23 @@
+---
+work_id: "b66af5e2-0a13-5ae0-8d42-209462e67d4e"
+work_slug: "william-graham-sumner-protectionism-the-ism-which-teac-b66af5"
+work_title: "Protectionism: The -ism Which Teaches That Waste Makes Wealth"
+author_name: William Graham Sumner
+chapter_number: 10
+chapter_title: "A.): Assumptions in Protectionism."
+chapter_slug: "10-a-assumptions-in-protectionism"
+variant_id: "1997680f-9333-563b-9632-e8dd53255cec"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 539
+source_url: "https://oll.libertyfund.org/titles/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth"
+translator: Online Library of Liberty edition
+---
+
+21. Obviously the doctrine includes two assumptions. The first is, that if we are left to ourselves, each to choose, under liberty, his line of industrial effort, and to use his labor and capital, under the circumstances of the country, as best he can, we shall fail of our highest prosperity. Second, that, if Congress will only tax us [properly] we can be led up to higher prosperity. Hence it is at once evident that free trade and protection here are not on a level. No free trader will affirm that he has a device for making the country rich, or saving it from hard times, any more than a respectable physician will tell us that he can give us specifics and preventives to keep us well. On the contrary, so long as men live, they will do foolish things, and they will have to bear the penalty, but if they are free, they will commit only the follies which are their own, and they will bear the penalties only of those. The protectionist begins with the premiss that we Edition: current; Page: [26] shall make mistakes, and that is why he, who knows how to make us go right, proposes to take us in hand. He is like the doctor who can give us just the pill we need to “cleanse our blood” and “ward off chills.” Hence either prosperity in a free trade country, or distress in a protectionist country, is fatal to protectionism, while distress in a free trade country, or prosperity in a protectionist country proves nothing against free trade. Hence the fallacy of all Mr. R. P. Porter's letters is obvious. (§§ 52, 92, 102, 154.)
+
+22. The device by which we are to be made better than ourselves is to select some of ourselves, who certainly are not the best business men among ourselves, to go to Washington, and there turn around and tax ourselves blindly, or, if not blindly, craftily and selfishly. Surely this would be the triumph of stupidity and ignorance over intelligent knowledge, enterprise and energy. The motive which would control each of us, if we were free, would be the hope of the greatest gain. We should have to put industry, prudence, economy and enterprise into our business. If we failed, it would be through error. How is the congressional interference to act? How is it to Edition: current; Page: [27] meet and correct our error? It can appeal to no other motive than desire for profit, and can only offer us a profit where there was none before, if we will turn out of the industry which we have selected, into one which we do not know. It offers a greater profit there only by means of what it takes from somebody else and somewhere else. Or, is congressional interference to correct the errors of John, James and William, and to make the idle industrious and the extravagant prudent? Any one who believes it must believe that the welfare of mankind is not dependent on the reason and conscience of the interested persons themselves, but on the caprices of blundering ignorance, embodied in a selected few, or on the trickery of lobbyists, acting impersonally and at a distance.

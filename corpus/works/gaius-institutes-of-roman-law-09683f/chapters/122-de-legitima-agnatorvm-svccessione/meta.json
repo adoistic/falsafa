@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 122,
+  "chapter_title": "DE LEGITIMA AGNATORVM SVCCESSIONE.",
+  "chapter_slug": "122-de-legitima-agnatorvm-svccessione",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d7ff1cc7-22a5-50af-94e4-7dd620f84531",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 494,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

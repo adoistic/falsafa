@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 3,
+  "chapter_title": "(A): The System of which Protection is a Survival.",
+  "chapter_slug": "03-a-the-system-of-which-protection-is-a-survival",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b994edd1-b75a-5da6-9f93-254b9f9a81f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 534,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 9,
+  "chapter_title": "Section IV.—: Of the Labour which has been employed on a Commodity considered as a Measure of its Exchangeable Value.",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f89d96e3-ffaa-531d-ae2d-3c2c10afdc49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3211,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
+    }
+  ]
+}

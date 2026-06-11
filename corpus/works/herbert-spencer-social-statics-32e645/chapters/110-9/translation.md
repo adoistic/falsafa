@@ -1,0 +1,27 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 110
+chapter_title: § 9.
+chapter_slug: "110-9"
+variant_id: "fe06874c-68b5-5e35-b03e-f94c070c2e21"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 751
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+The extension of the law of equal freedom to both sexes will doubtless be objected to, on the ground that the political privileges exercised by men must thereby be ceded to women also. Of course they must; and why not? Is it that women are ignorant of state affairs? Why then their opinions would be those of their husbands and brothers; and the practical effect would be merely that of giving each male elector two votes instead of one. Is it that they might by-and-by become better informed, and might then begin to act independently? Why, in such case, they would be pretty much as competent to use their power with intelligence as the members of our present constituencies.
+
+We are told, however, that—woman’s mission—is a domestic one—that her character and position do not admit of her taking a part in the decision of public questions—that politics are beyond her sphere. But this raises the question—Who shall say what her sphere is? Amongst the Pawnees and Sioux it is that of a beast of burden; she has to carry the baggage, to drag home fuel from the woods, and to do everything that is menial and laborious. In slave-countries it is within woman’s sphere to work side by side with men, under the lash of the taskmaster. Clerkships, cashierships, and other responsible business situations, are comprised in her sphere in modern France. Whilst, on the other hand, the sphere of a Turkish or Egyptian lady extends scarcely an inch beyond the walls of the harem. Who now will tell us what woman’s sphere really is? As the usages of mankind vary so much, let us hear how it is to be shown that the sphere we assign her is the true one—that the limits we have set to female activity are just the proper limits. Let us hear why on this one point of our social polity we are exactly right, whilst we are wrong on so many others.
+
+It is indeed said, that the exercise of political power by women is repugnant to our sense of propriety—conflicts with Edition: current; Page: [170] our ideas of the feminine character—is altogether condemned by our feelings. Granted; but what then? The same plea has been urged in defence of a thousand absurdities, and if valid in one case is equally so in all others. Should a traveller in the East inquire of a Turk why women in his country conceal their faces, he would be told that for them to go unveiled would be considered indecent; would offend the feelings of the spectators. In Russia female voices are never heard in church: women not being thought worthy—to sing the praises of God in the presence of men;—and the disregard of this regulation would be censured as an outrage upon public feeling. There was a time in France when men were so enamoured of ignorance, that a lady who pronounced any but the commonest words correctly, was blushed for by her companions; a tolerable proof that people’s feelings then blamed in a woman that literateness which it is now thought a disgrace for her to be without. In China cramped feet are essential to female refinement; and so strong is the feeling in this matter, that a Chinese will not believe that an Englishwoman who walks naturally, can be one of a superior class. It was once held unfeminine for a lady to write a book; and no doubt those who thought it so, would have quoted feelings in support of their opinion. Yet, with facts like these on every hand, people assume that the enfranchisement of women cannot be right, because it is repugnant to their feelings!
+
+We have some feelings that are necessary and eternal; we have others that, being the results of custom, are changeable and evanescent. And there is no way of distinguishing those feelings which are natural from those which are conventional, except by an appeal to first principles. If a sentiment responds to some necessity of our condition, its dictates must be respected. If otherwise—if opposed to a necessity, instead of in harmony with one, we must regard that sentiment as the product of circumstances, of education, of habit, and consequently without weight. However much, therefore, the giving of political power to women may disagree with our notions of Edition: current; Page: [171] propriety, we must conclude that, being required by that first pre-requisite to greatest happiness—the law of equal freedom—such a concession is unquestionably right and good.

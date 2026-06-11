@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
+  "work_title": "The Old Regime and the Revolution",
+  "chapter_number": 2,
+  "chapter_title": "CHAPTER I.: CONTRADICTORY OPINIONS FORMED UPON THE REVOLUTION WHEN IT BROKE OUT.",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6e777ae-3bf1-5ff7-ba9d-7424befb8311",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1302,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+    }
+  ]
+}

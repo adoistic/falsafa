@@ -1,0 +1,25 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 160
+chapter_title: CHAPTER XIV
+chapter_slug: 160
+variant_id: "71403fd4-c0f3-5b64-b813-46cc34f57a38"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 590
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how, when a house was really set on fire, he put out the flames by prayer
+
+But it was not only in the case of an apparition of a fire that his power was shown; for he extinguished a real fire by the fervency of his tears, when many had failed in putting it out with all the water they could get. For, as he was travelling about, preaching salvation, like the apostles of old, he one day entered the house of a pious woman, whom he was in the habit of often visiting, and whom, from having been nursed by her in his infancy, he was accustomed on that account to call his mother. The house was at the west end of the village, and Cuthbert had no sooner entered it to preach the word of God, than a house at the other end of the place caught fire and began to blaze most dreadfully. For the wind was from the same quarter, so that the sparks from the kindled thatch flew over the whole village. Those who were present tried to extinguish it with water, but were driven back Edition: current; Page: [306] by the heat. Then the aforesaid handmaid of the Lord, running to the house where Cuthbert was, besought him to help them, before her own house and the others in the village should be destroyed. “Do not fear, mother,” said he; “be of good cheer; this devouring flame will not hurt either you or yours.” He then went out and threw himself prostrate on the ground before the door. Whilst he was praying, the wind changed, and beginning to blow from the west, removed all danger of the fire assailing the house, into which the man of God had entered.
+
+And thus in two miracles he imitated the virtues of two of the fathers. For in the case of the apparition of fire above mentioned, he imitated the reverend and holy father Saint Benedict, who by his prayers drove away the apparition of a fire like a burning kitchen, which the old enemy had presented before the eyes of his disciples: and, in the case of the real fire which he thus extinguished, he imitated that venerable priest Marcellinus of Ancona, who, when his native town was on fire, placed himself in front of the flames, and put them out by his prayers, though all the exertions of his fellow-countrymen had failed to extinguish them with water. Nor is it wonderful that such perfect and pious servants of God should receive power against the force of fire, considering that by their daily piety they enable themselves to conquer the desires of the flesh, and to extinguish all the fiery darts of the wicked one: and to them is applicable the saying of the prophet, [Is. xliii. 2.] “When thou walkest through the fire, thou shalt not be burned; neither shall the fire kindle upon thee.” But I, and those who are, like me, conscious of our own weakness and inertness, are sure that we can do nothing in that way against material fire, and, indeed, are by no means sure that we shall be able to escape unhurt from that fire of future punishment, which never shall be extinguished. But the love of our Saviour is strong and abundant, and will bestow the grace of its protection upon us, though we are unworthy and unable in this world to extinguish the fires of vicious passions and of punishment in the world which is to come.

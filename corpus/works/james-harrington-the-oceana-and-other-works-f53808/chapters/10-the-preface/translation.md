@@ -1,0 +1,23 @@
+---
+work_id: "f538088a-04b4-5951-a446-828f1d596e4e"
+work_slug: "james-harrington-the-oceana-and-other-works-f53808"
+work_title: The Oceana and Other Works
+author_name: James Harrington
+chapter_number: 10
+chapter_title: THE PREFACE.
+chapter_slug: "10-the-preface"
+variant_id: "c4b94124-515f-5454-b5d0-7e4e2725d37d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 493
+source_url: "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+translator: Online Library of Liberty edition
+---
+
+THERE is nothing that has more confounded knowlege among men, than the reciprocal violences of the understanding and the will; or, to speak plainly, the passion of the one and blindness of the other: since som by chance or interest take up principles which they force the understanding by strain’d arguments to maintain; others by the habit of som opinion so bewitch the will into confederacy, that they can never quit it, even after confutation. To remedy this disorder, since I had resolv’d with my self to say somthing to this point (which tho’ it be but as a small wyre, yet the great weight of civil felicity lys upon it) I know no better method than to take the scales from the eys of the understanding, and shew the will how better to bring about her great design of good. And in the prosecution of this, I would not skirmish with every argument, which had bin a thing of immense slavery, and not for every ey; but I chose rather to strike at the foundations, that the understanding might lose its passion, and more freely consider upon what quicksands they lay. And in this I needed not to be positive, because I undertake a task in which most men are commonly successful, that is, to support error rather than to assert truth. Hence I consider Kingship simply, not troubling my self to maintain any other form, or to consider oaths, ends, changes of government, or the particular necessity or reasons of safety: they being distinct considerations and subjects by themselves. Now if this negative method satisfys not, I see no such great cause to be discourag’d; for, I confess, I do not perceive it so easy a thing to discover an error; and I had rather tell a man he was out of the way, than by endeavoring to bring him to the end of his journy, lead him further about. And it is my opinion, that as scepticism is not only useless, but dangerous; if in setting our thoughts in a posture of defence, it makes us absolutely wavering and incredulous: yet had I rather be sceptical in my opinion, than maintain it upon grounds taken upon trust, and not demonstrated.
+
+The second part is merely an instance accommodated to the arguments of the first, wherin I would not be understood to be a writer of an epitome (for I have other imployments for my time and thoughts, and those nobler too) but to set down a true series by way of example; and therefore I was only to note accesses to government, and recesses from it, with the effects proceeding from the persons of governors. And here as I needed not much trouble chronology: so lest it might be a bare sceleton, I sprinkled some observations that came to hand, and seem to afford either pleasure or use. Thus much, lest I might be misunderstood, I thought necessary to premise.

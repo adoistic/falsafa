@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 16,
+  "chapter_title": "§ 5.: Comparison of the three specifically different kinds of satisfaction",
+  "chapter_slug": "16-5-comparison-of-the-three-specifically-different-k",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ea8bdfa-724d-5dce-9354-b4f382f04a1b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 567,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

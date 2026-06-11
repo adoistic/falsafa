@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-defence-of-usury-ba123c",
+  "work_title": "Defence of Usury",
+  "chapter_number": 1,
+  "chapter_title": "LETTER I.: Introduction.",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f067d604-24e6-5447-8ae3-ac78e6bee983",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 493,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-defence-of-usury"
+    }
+  ]
+}

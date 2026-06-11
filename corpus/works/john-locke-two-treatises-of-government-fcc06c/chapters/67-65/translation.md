@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 67
+chapter_title: §. 65.
+chapter_slug: "67-65"
+variant_id: "40a7d02f-9402-5be8-9d3f-9b9f1fbb2a06"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 355
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+Our author says, God hath given to a father a right or liberty to alien his power over his children to any other, Observations, 155. I doubt whether he can alien wholly the right of honour that is due from them: but be that as it will, this I am sure, he cannot alien, and retain the same power. If therefore the magistrate’s sovereignty be, as our author would have it, nothing but the authority of a supreme father, p. 23. it is unavoidable, that if the magistrate hath all this paternal right, as he must have if fatherhood be the fountain of all authority; then the subjects, though fathers, can have no power over their children, no right to honour from them: for it cannot be all in another’s hands, and a part remain with the parents. So that, according to our author’s own doctrine, Honour thy father and mother cannot possibly be understood of political subjection and obedience; since the laws both in the Old and New Testament, that commanded Edition: current; Page: [75] children to honour and obey their parents, were given to such, whose fathers were under civil government, and fellow subjects with them in political societies; and to have bid them honour and obey their parents, in our author’s sense, had been to bid them be subjects to those who had no title to it; the right to obedience from subjects, being all vested in another; and instead of teaching obedience, this had been to foment sedition, by setting up powers that were not. If therefore this command, Honour thy father and mother, concern political dominion, it directly overthrows our author’s monarchy; since it being to be paid by every child to his father, even in society, every father must necessarily have political dominion, and there will be as many sovereigns as there are fathers: besides that the mother too hath her title, which destroys the sovereignty of one supreme monarch. But if Honour thy father and mother mean something distinct from political power, as necessarily it must, it is besides our author’s business, and serves nothing to his purpose.

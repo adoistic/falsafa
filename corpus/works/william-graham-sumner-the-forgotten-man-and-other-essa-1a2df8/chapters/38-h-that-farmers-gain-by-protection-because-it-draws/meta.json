@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 38,
+  "chapter_title": "(H): That Farmers Gain by Protection, because it Draws so many Laborers out of Competition with them.",
+  "chapter_slug": "38-h-that-farmers-gain-by-protection-because-it-draws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "637a76ea-523e-5975-a25e-35c616932ded",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 685,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

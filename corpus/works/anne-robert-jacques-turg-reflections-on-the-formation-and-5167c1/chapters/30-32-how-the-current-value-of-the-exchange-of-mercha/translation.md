@@ -1,0 +1,21 @@
+---
+work_id: "5167c1c2-6a56-5480-a9be-3f27fc507a97"
+work_slug: "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1"
+work_title: Reflections on the Formation and Distribution of Riches
+author_name: Anne Robert Jacques Turgot
+chapter_number: 30
+chapter_title: 32. How the current value of the exchange of merchandize is established.
+chapter_slug: "30-32-how-the-current-value-of-the-exchange-of-mercha"
+variant_id: "65ce7cc9-5d39-53d9-be01-2697756cb8ca"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 288
+source_url: "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+translator: Online Library of Liberty edition
+---
+
+Meantime it happens that many individuals have wine to dispose of to those who possess corn. If one is not willing to give more than four pints for a bushel, the proprietor of the corn will not exchange with him, when he shall know that another will give six or eight pints for the same bushel. If the former is determined to have the corn, he will be obliged to raise his price equal to what is offered by others. The sellers of wine profit on their side by the competition among the sellers of corn. No one resolves part with his property, before he has compared the different offers which are made to him, of the commodity he stands in need of, and then he accepts of the best offer. The value of the wine and corn is not fixed by the two proprietors with respect to their own wants and reciprocal abilities, but by a general balance of the wants of all the sellers of corn, with those of all the sellers of wine. For those who will willingly give eight pints of wine for a bushel of corn, will give but four when they shall know that a proprietor of corn is willing to give two bushels for eight pints. The medium price between the different offers and the different demands, will become the current price to which all the buyers and sellers will conform in their exchanges; and it will be true if we say, that six pints of wine will be to every one the equivalent for a bushel of corn, that is, the medium price, until a diminution of supply on one side, or of demand on the other, causes a variation.

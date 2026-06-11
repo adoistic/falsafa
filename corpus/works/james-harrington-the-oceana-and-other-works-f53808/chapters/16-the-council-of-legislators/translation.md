@@ -1,0 +1,37 @@
+---
+work_id: "f538088a-04b4-5951-a446-828f1d596e4e"
+work_slug: "james-harrington-the-oceana-and-other-works-f53808"
+work_title: The Oceana and Other Works
+author_name: James Harrington
+chapter_number: 16
+chapter_title: The Council of Legislators.
+chapter_slug: "16-the-council-of-legislators"
+variant_id: "57c61edb-6111-5973-9094-6750805f729c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 769
+source_url: "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+translator: Online Library of Liberty edition
+---
+
+OF this piece, being the greater half of the whole work, I shall be able at this time to give no farther account, than very briefly to shew at what it aims.
+
+My Lord Archon, in opening the council of legislators, made it appear how unsafe a thing it is to follow phansy in the fabric of a commonwealth; and how necessary that the archives of antient prudence should be ransack’d before any counsillor should presume to offer any other matter in order to the work in hand, or towards the consideration to be had by the council upon a model of government. Wherfore he caus’d an urn to be brought, and every one of the counsillors to draw a lot. By the lots as they were drawn,
+
+These contain’d in them all those excellencys wherof a commonwealth is capable; so that to have added more, had bin to no purpose. Upon time given to the counsillors, by their own studys and those of their friends, to prepare themselves, they were open’d in the order, and by the persons mention’d at the council of legislators, and afterwards by order of the same were repeated at the council of the prytans to the people: for in drawing of the lots, there were about a dozen of them inscrib’d with the letter P. wherby the counsillors that drew them became prytans.
+
+The prytans were a committee or council sitting in the great hall of Pantheon, to whom it was lawful for any man to offer any thing in order to the fabrick of the commonwealth: for which cause, that they might not be opprest by the throng, there was a rail about the table wher they sat, and on each side of the same a pulpit; that on the right hand for any man that would propose any thing, and that on the left for any other that would oppose him. And all partys (being indemnify’d by proclamation of the Archon) were invited to dispute their own interests, or propose whatever they thought fit (in order to the future government) to the council of the prytans, (who having a guard of about two or three hundred men, Edition: current; Page: [74] lest the heat of dispute might break the peace) had the right of moderators, and were to report from time to time such propositions or occurrences as they thought fit, to the council of legislators sitting more privatly in the palace call’d Alma.
+
+This was that which made the people (who were neither safely to be admitted, nor conveniently to be excluded in the framing of the commonwealth) verily believe when it came forth, that it was no other than that wherof they themselves had bin the makers.
+
+Moreover, this council sat divers months after the publishing, and during the promulgation of the model to the people; by which means there is scarce any thing was said or written for or against the said model, but you shall have it with the next impression of this work, by way of oration addrest to, and moderated by the prytans.
+
+By this means the council of legislators had their necessary solitude and due aim in their greater work, as being acquainted from time to time with the pulse of the people, and yet without any manner of interruption or disturbance.
+
+Wherfore every commonwealth in its place having bin open’d by due method, that is, first, by the people; secondly, by the senat; and, thirdly, by the magistracy; the council upon mature debate took such results or orders out of each, and out of every part of each of them, as upon opening the same they thought fit; which being put from time to time in writing by the clerk or secretary, there remain’d no more in the conclusion, than putting the orders so taken together, to view and examin them with a diligent ey, that it might be clearly discover’d whether they did interfere, or could any wise com to interfere or jostle one with the other. For as such orders jostling, or coming to jostle one another, are the certain dissolution of the commonwealth; so taken upon the proof of like experience, and neither jostling, nor shewing which way they can possibly come to jostle one another, they make a perfect, and (for aught that in human prudence can be foreseen) an immortal commonwealth.
+
+And such was the art wherby my Lord Archon (taking council of the commonwealth of Israel, as of Moses; and of the rest of the commonwealths, as of Jethro) fram’d the model of the commonwealth of Oceana.

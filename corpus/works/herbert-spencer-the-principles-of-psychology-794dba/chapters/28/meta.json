@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 28,
+  "chapter_title": "CHAPTER XXIII.: THE RELATIONS OF LIKENESS AND UNLIKENESS.",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1a87d3a-e272-5b58-bc8f-c6f56b4782ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1649,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

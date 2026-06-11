@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-defence-of-usury-ba123c",
+  "work_title": "Defence of Usury",
+  "chapter_number": 2,
+  "chapter_title": "LETTER II.: Reasons for Restraint.—Prevention of Usury.",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ffc8a5d-c445-5fcf-b90a-030dad969182",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1377,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-defence-of-usury"
+    }
+  ]
+}

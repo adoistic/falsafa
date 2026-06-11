@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-unconstitutionality-of-slave-5dd90c",
+  "work_title": "The Unconstitutionality of Slavery",
+  "chapter_number": 11,
+  "chapter_title": "CHAPTER X.: THE PRACTICE OF THE GOVERNMENT.",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e263cc02-88ae-5bde-b091-d005077dfe3b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 370,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
+    }
+  ]
+}

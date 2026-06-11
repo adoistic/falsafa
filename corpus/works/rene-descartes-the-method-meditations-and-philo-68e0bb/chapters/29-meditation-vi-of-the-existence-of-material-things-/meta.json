@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 29,
+  "chapter_title": "MEDITATION VI.: Of the Existence of Material Things, and of the Real Distinction Between the Mind and Body of Man.",
+  "chapter_slug": "29-meditation-vi-of-the-existence-of-material-things-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56dec1e1-d1ba-50be-aaaa-47360ec8f5c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6699,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

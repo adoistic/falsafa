@@ -1,0 +1,29 @@
+---
+work_id: "8e91dcc4-96ad-5980-b694-392738988b12"
+work_slug: "john-maynard-keynes-the-economic-consequences-of-the-8e91dc"
+work_title: The Economic Consequences of the Peace
+author_name: John Maynard Keynes
+chapter_number: 3
+chapter_title: "CHAPTER II: EUROPE BEFORE THE WAR"
+chapter_slug: 03
+variant_id: "83026156-5cb9-51b1-8f9a-88ad84daa46a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 848
+source_url: "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
+translator: Online Library of Liberty edition
+---
+
+Before 1870 different parts of the small continent of Europe had specialized in their own products; but, taken as a whole, it was substantially self-subsistent. And its population was adjusted to this state of affairs.
+
+After 1870 there was developed on a large scale an unprecedented situation, and the economic condition of Europe became during the next fifty years unstable and peculiar. The pressure of population on food, which had already been balanced by the accessibility of supplies from America, became for the first time in recorded history definitely reversed. As numbers increased, food was actually easier to secure. Larger proportional returns from an increasing scale of production became true of agriculture as well as industry. With the growth of the European population there were more emigrants on the one hand to till the soil of the new countries, and, on the other, more workmen were available in Europe to prepare the industrial products and capital goods which were to maintain the emigrant populations in their new homes, and to build the railways and ships which Edition: current; Page: [10] were to make accessible to Europe food and raw products from distant sources. Up to about 1900 a unit of labor applied to industry yielded year by year a purchasing power over an increasing quantity of food. It is possible that about the year 1900 this process began to be reversed, and a diminishing yield of Nature to man's effort was beginning to reassert itself. But the tendency of cereals to rise in real cost was balanced by other improvements; and—one of many novelties—the resources of tropical Africa then for the first time came into large employ, and a great traffic in oil-seeds began to bring to the table of Europe in a new and cheaper form one of the essential foodstuffs of mankind. In this economic Eldorado, in this economic Utopia, as the earlier economists would have deemed it, most of us were brought up.
+
+That happy age lost sight of a view of the world which filled with deep-seated melancholy the founders of our Political Economy. Before the eighteenth century mankind entertained no false hopes. To lay the illusions which grew popular at that age's latter end, Malthus disclosed a Devil. For half a century all serious economical writings held that Devil in clear prospect. For the next half century he was chained up and out of sight. Now perhaps we have loosed him again.
+
+What an extraordinary episode in the economic Edition: current; Page: [11] progress of man that age was which came to an end in August, 1914! The greater part of the population, it is true, worked hard and lived at a low standard of comfort, yet were, to all appearances, reasonably contented with this lot. But escape was possible, for any man of capacity or character at all exceeding the average, into the middle and upper classes, for whom life offered, at a low cost and with the least trouble, conveniences, comforts, and amenities beyond the compass of the richest and most powerful monarchs of other ages. The inhabitant of London could order by telephone, sipping his morning tea in bed, the various products of the whole earth, in such quantity as he might see fit, and reasonably expect their early delivery upon his doorstep; he could at the same moment and by the same means adventure his wealth in the natural resources and new enterprises of any quarter of the world, and share, without exertion or even trouble, in their prospective fruits and advantages; or he could decide to couple the security of his fortunes with the good faith of the townspeople of any substantial municipality in any continent that fancy or information might recommend. He could secure forthwith, if he wished it, cheap and comfortable means of transit to any country or climate without passport or other formality, could despatch his servant to the neighboring office of a bank Edition: current; Page: [12] for such supply of the precious metals as might seem convenient, and could then proceed abroad to foreign quarters, without knowledge of their religion, language, or customs, bearing coined wealth upon his person, and would consider himself greatly aggrieved and much surprised at the least interference. But, most important of all, he regarded this state of affairs as normal, certain, and permanent, except in the direction of further improvement, and any deviation from it as aberrant, scandalous, and avoidable. The projects and politics of militarism and imperialism, of racial and cultural rivalries, of monopolies, restrictions, and exclusion, which were to play the serpent to this paradise, were little more than the amusements of his daily newspaper, and appeared to exercise almost no influence at all on the ordinary course of social and economic life, the internationalization of which was nearly complete in practice.
+
+It will assist us to appreciate the character and consequences of the Peace which we have imposed on our enemies, if I elucidate a little further some of the chief unstable elements, already present when war broke out, in the economic life of Europe.

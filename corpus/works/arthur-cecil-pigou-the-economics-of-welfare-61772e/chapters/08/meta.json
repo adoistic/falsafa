@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 8,
+  "chapter_title": "Chapter VII: ECONOMIC WELFARE AND CHANGES IN THE SIZE OF THE NATIONAL DIVIDEND",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e77e377a-17e7-5c1c-8887-2e4de1a8d9f9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1345,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

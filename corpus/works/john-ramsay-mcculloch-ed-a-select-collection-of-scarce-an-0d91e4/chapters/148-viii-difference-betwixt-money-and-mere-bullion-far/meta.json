@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 148,
+  "chapter_title": "VIII.: Difference betwixt money and mere bullion, farther illustrated.",
+  "chapter_slug": "148-viii-difference-betwixt-money-and-mere-bullion-far",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "725cf734-7ba7-5d31-be47-59fa97b13495",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 464,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

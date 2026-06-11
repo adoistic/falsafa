@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 80,
+  "chapter_title": "XXI.—: There was a little city manned but by a few, and a mighty king drew his army to it, erecting bulwarks against it,",
+  "chapter_slug": "80-xxi-there-was-a-little-city-manned-but-by-a-few-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5651f76-a568-5de2-8a56-e68548f25e41",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 122,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

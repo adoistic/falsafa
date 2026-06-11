@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 11,
+  "chapter_title": "OF THE DANGER OF FALSE LEGENDS, AND OF PERSECUTION",
+  "chapter_slug": "11-of-the-danger-of-false-legends-and-of-persecution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9d82b51-f014-54e3-a95a-da46814c1878",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1771,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

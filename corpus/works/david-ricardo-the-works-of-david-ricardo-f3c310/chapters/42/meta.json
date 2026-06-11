@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 42,
+  "chapter_title": "CHAPTER XXXII.: MR MALTHUS'S OPINIONS ON RENT.",
+  "chapter_slug": "42",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "db10cde9-fb34-59e0-900e-1834136484a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8618,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

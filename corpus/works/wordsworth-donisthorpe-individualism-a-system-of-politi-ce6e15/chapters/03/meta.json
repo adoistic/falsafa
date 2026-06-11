@@ -1,0 +1,26 @@
+{
+  "work_slug": "wordsworth-donisthorpe-individualism-a-system-of-politi-ce6e15",
+  "work_title": "Individualism: A System of Politics",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER II: the structuee of the state",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f55cbbc7-6943-5169-8241-b37e990b578e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10342,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/donisthorpe-individualism-a-system-of-politics"
+    }
+  ]
+}

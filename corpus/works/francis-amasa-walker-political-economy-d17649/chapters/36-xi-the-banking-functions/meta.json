@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 36,
+  "chapter_title": "XI.: the banking functions.",
+  "chapter_slug": "36-xi-the-banking-functions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b82fa562-18d7-5c9a-958b-051d5f7b3a6c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1950,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

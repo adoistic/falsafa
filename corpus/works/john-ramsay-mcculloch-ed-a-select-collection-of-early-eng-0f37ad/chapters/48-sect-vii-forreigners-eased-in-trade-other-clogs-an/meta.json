@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 48,
+  "chapter_title": "SECT. VII.: Forreigners eased in Trade; Other clogs and difficulties upon ours; Want of populacy, incidently of extream ",
+  "chapter_slug": "48-sect-vii-forreigners-eased-in-trade-other-clogs-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8cacaa9-551b-5bfe-83c3-e318cd750fe8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7401,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

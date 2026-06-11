@@ -1,0 +1,31 @@
+---
+work_id: "6715e093-fd20-5bd0-9e37-ce76bee6c429"
+work_slug: "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0"
+work_title: Money and the Mechanism of Exchange
+author_name: William Stanley Jevons
+chapter_number: 80
+chapter_title: The Demonetization of Silver.
+chapter_slug: "80-the-demonetization-of-silver"
+variant_id: "7f3e51d5-1ec2-5689-89c9-eb32fa4da63d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 842
+source_url: "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+translator: Online Library of Liberty edition
+---
+
+M. Wolowski has earnestly warned Europe against the danger of abrogating the law of the double standard, and demonetizing silver. Germany, in adopting a gold standard, is causing a considerable demand for gold, and at the same time throwing many millions of silver coins upon the market. Austria, Denmark, Sweden, and Norway are likely to follow her example. If other countries were to insist upon suddenly having a gold money, it is evident that gold would tend to rise in value compared with silver, which might be largely depreciated. If France, Italy, Belgium, and other countries now possessing theoretically the double standard, were to allow the free action of their monetary laws, the depreciated silver would flow in and replace the appreciated gold, so that the change of values would be moderated. M. Wolowski asserts that if this compensatory action be suspended, and the demonetization of silver be extended, there must ensue a disastrous rise in the value of gold, thus rendered the sole standard of value. All debts private and public will be legally due in this metal, and all burdens will be greatly increased.
+
+Within the last year or two the predictions of M. Wolowski may seem to have been verified in some degree. The price of standard silver, which was at one time 62½d. per ounce, has already fallen as low as 57¾d. while the demonetization of silver in Germany is only partially accomplished. The whole effect of the great discoveries of gold was only to raise the price from about 59¾d. to a maximum of 62½d., while the double standard system freely worked; but since its action has been, as we shall see, suspended, the minting operations of a single government can affect the price in a greater degree.
+
+Agreeing that M. Wolowski is entirely correct in an abstract point of view, and is justified to some extent by the course of events, I must adhere to the opinion which I expressed at his request in 1868, and which was partially published in his volume, "L'Or et l'Argent "(p. 62).
+
+The question seems to be entirely one of degree, and in the absence of precise information is quite indeterminate. If all the nations of the globe were suddenly and simultaneously to demonetize silver, and require gold money, a revolution in the value of gold would be inevitable. But M. Wolowski seems to forget that the nations of Europe constitute only a small part of the population of the world. The hundreds of millions who inhabit India and China, and other parts of the eastern and tropical regions, employ a silver currency, and there is not the least fear that they will make any sudden change in their habits. The English government has repeatedly tried to introduce a gold currency into our Indian possessions, but has always failed, and the gold coins now circulating there are supposed not to exceed one tenth part of the metallic currency. Although the pouring out of forty or fifty millions sterling of silver from Germany may for some years depress the price of the metal, it can be gradually absorbed without difficulty by the eastern nations, which have for two or three thousand years received a continual stream of the precious metals from Europe. If other nations should one after another demonetize silver, yet the East may be found quite able to absorb all that is thrust upon it, provided that this be not done too rapidly.
+
+As regards the gold required to replace silver, it does not seem to be evident that there will be any scarcity. The adoption of the gold standard does not necessarily involve the coining of much gold, for some countries may, like Norway, or Italy, or Scotland, have a principal currency almost entirely composed of paper. In other countries, such as France and Germany, the cheque and clearing system, which we shall shortly consider, may be gradually introduced, and may economize to a great extent the rise of the metallic currency. The current supply of gold from the mines is still very large, and we cannot be sure that it will not be increased by fresh discoveries in New Guinea, South Africa, North and South America, and elsewhere.
+
+In short, then, the amount of supply and amount of demand of both the precious metals depend upon a number of accidents, changes, or legislative decisions, which cannot be in any way predicted. The price of silver has fallen in consequence of the German currency reforms, but it is by no means certain that it will fall further than it has already done. That any great rise will really happen in the purchasing power of gold is wholly a matter of speculation. We cannot do more than make random guesses on the subject, and, as a mere guess, I should say that it is not likely to rise. Gold has since 1851 been falling in value, and an increased demand for gold is not likely to do more than slacken, or at the most arrest, the progress of depreciation.

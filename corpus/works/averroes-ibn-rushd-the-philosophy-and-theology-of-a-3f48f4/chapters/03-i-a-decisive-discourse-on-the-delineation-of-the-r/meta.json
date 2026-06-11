@@ -1,0 +1,26 @@
+{
+  "work_slug": "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
+  "work_title": "The Philosophy and Theology of Averroes",
+  "chapter_number": 3,
+  "chapter_title": "I: A DECISIVE DISCOURSE ON THE DELINEATION OF THE RELATION BETWEEN RELIGION AND PHILOSOPHY",
+  "chapter_slug": "03-i-a-decisive-discourse-on-the-delineation-of-the-r",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "802c82fe-32bd-591f-b975-e50231c15ab0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9740,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rushd-the-philosophy-and-theology-of-averroes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p-da1d43",
+    "offset": 0,
+    "text": "The first condition determining interest, namely, Impatience Principle A, that the rate of preference for each individual depends upon his income stream, is represented for Individual 1 by the following equation:"
+  },
+  {
+    "id": "p-d5905b",
+    "offset": 214,
+    "text": "f1 = F1 (c1' + x1', c1'' + x1'')"
+  },
+  {
+    "id": "p-f9da84",
+    "offset": 248,
+    "text": "which expresses f1 as dependent on, or, in mathematical language, as a function of the two income items of the two respective years, F1 being not a symbol of a quantity but an abbreviation for \"function.\" In case the individual lends instead of borrows, the equation represents the resulting relation between his marginal rate of preference and his income stream as modified by lending; the only difference is that, in this case, the particular numerical value of x' is negative and that of x' positive. The equation is the algebraic expression for the dependence of the slope of a Willingness line on the income position of Individual 1."
+  },
+  {
+    "id": "p-c83d33",
+    "offset": 888,
+    "text": "In like manner, for Individual 2, we have the equation"
+  },
+  {
+    "id": "p-2af0f8",
+    "offset": 944,
+    "text": "f2 = F2 (c2' + x2', c2'' + x2''),"
+  },
+  {
+    "id": "p-2e6bdf",
+    "offset": 979,
+    "text": "and, for the third individual,"
+  },
+  {
+    "id": "p-91f4d5",
+    "offset": 1011,
+    "text": "f3 = F3 (c3' + x3', c3'' + x3'')."
+  },
+  {
+    "id": "p-a527f3",
+    "offset": 1046,
+    "text": "These three equations therefore express Impatience Principle A."
+  }
+]

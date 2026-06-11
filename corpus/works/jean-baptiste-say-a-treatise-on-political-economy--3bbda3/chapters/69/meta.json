@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 69,
+  "chapter_title": "BOOK III, CHAPTER V: OF INDIVIDUAL CONSUMPTION—ITS MOTIVES AND ITS EFFECTS.",
+  "chapter_slug": "69",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a9fea1b-0258-5e4e-97fb-7fe4ced3eaca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4435,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

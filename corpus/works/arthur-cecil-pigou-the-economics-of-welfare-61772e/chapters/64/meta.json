@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 64,
+  "chapter_title": "Chapter X: THE EFFECT ON THE NATIONAL DIVIDEND OF THE EXPECTATION OF TRANSFERENCES TO THE POOR",
+  "chapter_slug": "64",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "98ea3fbc-0fda-5a43-b5b0-a495b33c1c17",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5896,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

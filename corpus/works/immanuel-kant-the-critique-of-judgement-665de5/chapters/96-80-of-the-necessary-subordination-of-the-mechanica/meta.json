@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 96,
+  "chapter_title": "§ 80.: Of the necessary subordination of the mechanical to the teleological principle in the explanation of a thing as a",
+  "chapter_slug": "96-80-of-the-necessary-subordination-of-the-mechanica",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54bd0058-3aa2-5499-af18-eb90494abd44",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1462,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

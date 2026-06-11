@@ -1,0 +1,27 @@
+[
+  {
+    "id": "p-2083eb",
+    "offset": 0,
+    "text": "The momentum [impetus seu momentum] acquired by a particle at the terminal point of any semi-parabola is equal to that which it would acquire in falling through a vertical distance equal to the sum of the sublimity and the altitude of the semi-parabola."
+  },
+  {
+    "id": "p-6652b9",
+    "offset": 255,
+    "text": "Let ab be a semi-parabola having a sublimity da and an altitude ac, the sum of which is the perpendicular dc. Now I say the momentum of the particle at b is the same as that which it would acquire in falling freely from d to c. Let us take the length of dc itself as a measure of time and momentum, and lay off cf equal to the mean proportional between cd and da; also lay off ce a mean proportional between cd and ca. Now cf is the measure of the time and of the momentum acquired by fall, from rest at d, through the distance da; while ce is the time and momentum of fall, from rest at a, through the distance ca; also the diagonal ef will represent a momentum which is the resultant of these two, and is therefore the momentum at the terminal point of the parabola, b."
+  },
+  {
+    "id": "p-5294df",
+    "offset": 1028,
+    "text": "And since dc has been cut at some point a and since cf and ce are mean proportionals between the whole of cd and its parts, da and ac, it follows, from the preceding lemma, that the sum of the squares of these mean proportionals is equal to the square of the whole: but the square of ef is also equal to the sum of these same squares; whence it follows that the line ef is equal to dc."
+  },
+  {
+    "id": "p-d624c9",
+    "offset": 1415,
+    "text": "Accordingly the momentum acquired at c by a particle in falling from d is the same as that acquired at b by a particle traversing the parabola ab."
+  },
+  {
+    "id": "p-070003",
+    "offset": 1563,
+    "text": "q. e. d."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 66,
+  "chapter_title": "§6. The Illustration of Cutting a Forest",
+  "chapter_slug": "66-6-the-illustration-of-cutting-a-forest",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4deeaa2-b278-5756-bb9e-78ca2ab4bc4d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1080,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

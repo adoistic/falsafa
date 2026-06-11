@@ -1,0 +1,55 @@
+---
+work_id: "f3c3108a-fa4a-5c8b-8013-ac6868798c52"
+work_slug: "david-ricardo-the-works-of-david-ricardo-f3c310"
+work_title: The Works of David Ricardo
+author_name: David Ricardo
+chapter_number: 84
+chapter_title: At a Court of Directors at the Bank, on Thursday, 20th May 1819.
+chapter_slug: "84-at-a-court-of-directors-at-the-bank-on-thursday-20"
+variant_id: "2245fa0c-16b4-5b83-b622-841bb0b9f8c4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1764
+source_url: "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+translator: Online Library of Liberty edition
+---
+
+The directors of the Bank of England, having taken into their most serious consideration the Reports of the Secret Committees of the two Houses of Parliament, appointed to inquire into the state of the Bank of England with reference to the expediency of the resumption of cash payments at the period now fixed, have thought it their duty to lay before His Majesty's Ministers, as early as possible, their sentiments with regard to the measures suggested by these Committees, for the approbation of Parliament.
+
+In the first place, it appears that, in the view of the Committees, the measure of the Bank recommencing cash payments on the 5th of July next, the time prescribed by the existing law, “is utterly impracticable, and would be entirely inefficient, if not ruinous.”
+
+Secondly, It appears that the two Committees have come to their conclusion at a period when the outstanding notes of the Bank of England do not much exceed 25,000,000l.; when the price of gold is about 4l. 1s. per ounce; and when there is great distress from the stagnation of commerce, and the fall of prices of imported articles.
+
+It must be obvious to His Majesty's Ministers, that as long as such a state of things shall last, or one in any degree similar, without either considerable improvement on one side, or growing worse on the other, the Bank, acting as it does at present, and keeping its issues nearly at the present level, could not venture to return to cash payments with any probability of benefit to the public, or safety to the establishment.
+
+The two Committees of Parliament, apparently actuated by this consideration, have advised that the Bank shall not open payments in coin for a period of four years, but shall be obliged, from the 1st of May 1821, to discharge their notes in standard gold bullion, at Mint price, when demanded in sums not amounting to less than thirty ounces. And, as it appears to the Committees expedient that this return to payments at Mint price should be made gradually, they propose that, on the first day of February next, the Bank should pay their notes in bullion, if demanded in sums not less than sixty ounces, at the rate of 4l. 1s. an ounce, and from the 1st of October 1820 to the 1st of May following, at 3l. 19s. 6d. an ounce.
+
+If the Directors of the Bank have a true comprehension of the views of the Committees in submitting this scheme to Parliament, they are obliged to infer, that the object of the Committees is, to secure, at every hazard, and under every possible variation of circumstances, the return of payments in gold, at Mint price, for bank notes, Edition: current; Page: [496] at the expiration of two years; and that this measure is so to be managed, that the Mint price denominations shall ever afterwards be preserved, leaving the market or exchange price of gold to be controlled by the Bank, solely by the amount of their issue of notes.
+
+It further appears to the Directors, with regard to the final execution of this plan, and the payment of bank notes in gold at Mint price, that discretionary power is to be taken away from the Bank; and that it is merely to regulate its issues, and make purchases of gold, so as to be enabled to answer all possible demands, whenever its treasury shall be again open for the payment of its notes.
+
+Under these impressions, the Directors of the Bank think it right to observe to His Majesty's Ministers, that being engaged to pay on demand their notes in statutable coin. at the Mint price of 3l. 17s. 10½d. an ounce, they ought to be the last persons who should object to any measure calculated to effect that end; but as it is incumbent on them to consider the effect of any measure to be adopted, as operating upon the general issue of their notes, by which all the private banks are regulated, and of which the whole currency, exclusive of the notes of private bankers, is composed, they feel themselves obliged, by the new situation in which they have been placed by the restriction act of 1797, to bear in mind not less their duties to the community at large, whose interests, in a pecuniary and commercial relation, have in a great degree been confided to their discretion.
+
+The Directors being thus obliged to extend their views, and embrace the interests of the whole community in their consideration of this measure, cannot but feel a repugnance, however involuntary, to pledge themselves in approbation of a system which, in their opinion, in all its great tendencies and operations, concerns the country in general more than the immediate interests of the Bank alone.
+
+It is not certainly a part of the regular duty of the Bank, under its original institution, to enter into the general views of policy by which this great empire is to be governed in all its commercial and pecuniary transactions, which exclusively belong to the administration, to Parliament, and to the community at large; nor is it the province of the Bank to expound the principles by which these views ought to be regulated. Its peculiar and appropriate duty is the management of the concerns of the banking establishment, as connected with the payment of the interest of the national debt, the lodgments consigned to its care, and the ordinary advances it has been accustomed to make to Government.
+
+But when the Directors are now to be called upon, in the new situation in which they are placed by the restriction act, to procure a fund for supporting the whole national currency, either in bullion or in coin, and when it is proposed that they should effect this measure within a given period, by regulating the market price of gold by a limitation of the amount of the issue of bank notes, with whatever distress such limitation may be attended to individuals or the community at large, they feel it their bounden and imperious duty to state their sentiments thus explicitly, in the first instance to his Majesty's Ministers, on this subject, that a tacit consent and concurrence at this juncture may not, at some future period, be construed into a previous implied sanction on their part, of a system which they cannot but consider fraught with very great uncertainty and risk.
+
+It is impossible for them to decide beforehand what shall be the course of events for the next two, much less for the next four, years; they have no right to hazard a flattering conjecture, for which they have not real grounds, in which they may be disappointed, and for which they may be considered responsible. They cannot venture to advise an unrelenting continuance of pecuniary pressures upon the commercial world, of which it is impossible for them either to foresee or estimate the consequences.
+
+The Directors have already submitted to the House of Lords the expediency of the Bank paying its notes in bullion at the market price of the day, with a view of seeing how far favourable commercial balances may operate in restoring the former order of things, of which they might take advantage: and, with a similar view, they have proposed that Government should repay the Bank a considerable part of the sums that have been advanced upon exchequer bills.
+
+These two measures would allow time for a correct judgment to be formed upon the state of the bullion market, and upon the real result of those changes which the late war may have produced in all its consequences, of increased public debt, increased taxes, increased prices, and altered relations as to interest, capital, and commercial dealings with the Continent: and how far the alterations thus produced are temporary or permanent; and to what extent, and in what degree, they operate.
+
+It was the design of the Directors, in pursuance of the before-mentioned two measures, to take advantage of every circumstance which could enable the Bank to extend its purchases of bullion, as far as a legitimate consideration of the ordinary wants of the nation for a sufficient currency could possibly warrant. Beyond this point, they do not consider themselves justified in going, upon any opinion, conjecture, or speculation, merely their own; and when a system is recommended which seems to take away from the Bank anything like a discretionary consideration of the necessities and distresses of the commercial world, if the Directors withhold their previous consent, it is not from a want of deference to his Majesty's Government, or to the opinions of the Committees of the two Houses of Parliament, but solely from a serious feeling that they have no right whatever to invest themselves, of their own accord, with the responsibility of countenancing a measure in which the whole community is so deeply involved, and possibly to compromise the universal interests of the empire, in all the relations of agriculture, manufacture, commerce, and revenue, by a seeming acquiescence or declared approbation on the part of the Directors of the Bank of England.
+
+The consideration of these great questions, and of the degree in which all these leading and commanding interests may be affected by the measure proposed, rests with the legislature; and it is for them, after solemn deliberation, and not for the Bank, to determine and decide upon the course to be adopted.
+
+Whatever reflections may have from time to time been east upon the Bank, whatever invidious representations of its conduct may have been made, the cautious conduct it adopted, in so measuring the amount of currency as to make it adequate to the wants both of the nation and of the Government, at the same time keeping it within reasonable bounds when compared with what existed before the war, as is shown in the Lords' reports, pages 10, 11, 12, and 13; the recent effort to return to a system of cash payments, which commenced with the fairest prospects (but which was afterwards frustrated by events that could not be foreseen nor controlled by the Bank), are of themselves a sufficient refutation of all the obloquy which has been so undeservedly heaped upon the establishment.
+
+The Directors of the Bank of England, in submitting these considerations to his Majesty's Ministers, request that they may be allowed to assure them, that it is always their anxious desire, as far as spends upon them, to aid, by every consistent means, the measures of the legislature for furthering the prosperity of the empire.

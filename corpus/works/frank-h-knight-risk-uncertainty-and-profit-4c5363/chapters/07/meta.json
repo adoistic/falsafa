@@ -1,0 +1,26 @@
+{
+  "work_slug": "frank-h-knight-risk-uncertainty-and-profit-4c5363",
+  "work_title": "Risk, Uncertainty and Profit",
+  "chapter_number": 7,
+  "chapter_title": "Part II, Chapter IV: Joint Production and Capitalization",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4fe6e140-a6f0-5ea6-85c8-8099d0b6a979",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12538,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-risk-uncertainty-and-profit"
+    }
+  ]
+}

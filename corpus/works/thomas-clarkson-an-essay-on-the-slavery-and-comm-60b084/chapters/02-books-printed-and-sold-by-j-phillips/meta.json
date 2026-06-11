@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-clarkson-an-essay-on-the-slavery-and-comm-60b084",
+  "work_title": "An Essay on the Slavery and Commerce of the Human Species",
+  "chapter_number": 2,
+  "chapter_title": "Books Printed and Sold by J. Phillips.",
+  "chapter_slug": "02-books-printed-and-sold-by-j-phillips",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75a47938-60c4-50ba-97c7-2a25419ff88e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 261,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-novum-organum-79da24",
+  "work_title": "Novum Organum",
+  "chapter_number": 4,
+  "chapter_title": "Instances agreeing in the Form of Heat",
+  "chapter_slug": "04-instances-agreeing-in-the-form-of-heat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3dada66c-e1ff-5ed0-a16b-f9200361a8bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 128,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-novum-organum"
+    }
+  ]
+}

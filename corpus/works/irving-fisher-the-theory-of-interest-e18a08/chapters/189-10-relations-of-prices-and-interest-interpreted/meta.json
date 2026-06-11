@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 189,
+  "chapter_title": "§10. Relations of Prices and Interest Interpreted",
+  "chapter_slug": "189-10-relations-of-prices-and-interest-interpreted",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28e7a8eb-71ce-5b34-a633-6399767fb523",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1285,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

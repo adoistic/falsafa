@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 49,
+  "chapter_title": "III.: As to Certainty",
+  "chapter_slug": "49-iii-as-to-certainty",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea6bc3b7-d02d-55fb-9bf9-f06a786ca9b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 729,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

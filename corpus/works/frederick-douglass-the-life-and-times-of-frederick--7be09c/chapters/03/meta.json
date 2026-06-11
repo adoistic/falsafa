@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-douglass-the-life-and-times-of-frederick--7be09c",
+  "work_title": "The Life and Times of Frederick Douglass",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER II.: REMOVAL FROM GRANDMOTHER’S.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1a7c52f-035b-537c-8442-2ef466c9344c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1545,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lobb-the-life-and-times-of-frederick-douglass-from-1817-1882"
+    }
+  ]
+}

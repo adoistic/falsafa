@@ -1,0 +1,26 @@
+{
+  "work_slug": "walter-bagehot-lombard-street-a-description-of--8cb363",
+  "work_title": "Lombard Street: A Description of the Money Market",
+  "chapter_number": 17,
+  "chapter_title": "Chapter VII: A More Exact Account of the Mode in Which the Bank of England Has Discharged Its Duty of Retaining a Good B",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b370c141-bdcf-519b-b8d2-d82e0a7d1245",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5931,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market"
+    }
+  ]
+}

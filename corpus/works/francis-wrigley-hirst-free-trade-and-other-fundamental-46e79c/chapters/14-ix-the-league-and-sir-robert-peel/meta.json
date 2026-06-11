@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
+  "work_title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+  "chapter_number": 14,
+  "chapter_title": "IX.—: THE LEAGUE AND SIR ROBERT PEEL",
+  "chapter_slug": "14-ix-the-league-and-sir-robert-peel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c3cfa9c-5912-5eda-a245-909f3cf26f70",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3464,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+    }
+  ]
+}

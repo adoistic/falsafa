@@ -1,0 +1,31 @@
+---
+work_id: "542875eb-ff23-56e6-8c35-7901b25dd56b"
+work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
+work_title: The Purchasing Power of Money
+author_name: Irving Fisher
+chapter_number: 17
+chapter_title: § 5
+chapter_slug: "17-5"
+variant_id: "daea8462-ae8f-5669-9915-5932ee71001c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 826
+source_url: "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+translator: Online Library of Liberty edition
+---
+
+With the extension of the equation of monetary circulation to include deposit circulation, the influence Edition: current; Page: [50] exerted by the quantity of money on general prices becomes less direct; and the process of tracing this influence becomes more difficult and complicated. It has even been argued that this interposition of circulating credit breaks whatever connection there may be between prices and the quantity of money.This would be true if circulating credit were independent of money. But the fact is that the quantity of circulating credit, M', tends to hold a definite relation to M, the quantity of money in circulation; that is, deposits are normally a more or less definite multiple of money.
+
+Two facts normally give deposits a more or less definite ratio to money. The first has been already explained, viz. that bank reserves are kept in a more or less definite ratio to bank deposits. The second is that individuals, firms, and corporations preserve more or less definite ratios between their cash transactions and their check transactions, and also between their money and deposit balances.These ratios are determined by motives of individual convenience and habit. In general, business firms use money for wage payments, and for small miscellaneous transactions included under the term "petty cash"; while for settlements with each other they usually prefer checks. These preferences are so strong that we could not imagine them overridden except temporarily Edition: current; Page: [51] and to a small degree. A business firm would hardly pay car fares with checks and liquidate its large liabilities with cash. Each person strikes an equilibrium between his use of the two methods of payment, and does not greatly disturb it except for short periods of time. He keeps his stock of money or his bank balance in constant adjustment to the payments he makes in money or by check. Whenever his stock of money becomes relatively small and his bank balance relatively large, he cashes a check. In the opposite event, he deposits cash. In this way he is constantly converting one of the two media of exchange into the other. A private individual usually feeds his purse from his bank account; a retail commercial firm usually feeds its bank account from its till. The bank acts as intermediary for both.
+
+In a given community the quantitative relation of deposit currencyto money is determined by several considerations of convenience. In the first place, the more highly developed the business of a community, the more prevalent the use of checks. Where business is conducted on a large scale, merchants habitually transact their larger operations with each other by means of checks, and their smaller ones by means of cash. Again, the more concentrated the population, the more prevalent the use of checks. In cities it is more convenient both for the payer and the payee to make large payments by check; whereas, in the country, trips to a bank are too expensive in time and effort to be convenient, and therefore more money is used in proportion to the amount of business done.Again, Edition: current; Page: [52] the wealthier the members of the community, the more largely will they use checks. Laborers seldom use them; but capitalists, professional and salaried men use them habitually, for personal as well as business transactions.
+
+There is, then, a relation of convenience and custom between check and cash circulation, and a more or less stable ratio between the deposit balance of the average man or corporation and the stock of money kept in pocket or till. This fact, as applied to the country as a whole, means that by convenience a rough ratio is fixed between M and M'. If that ratio is disturbed temporarily, there will come into play a tendency to restore it. Individuals will deposit surplus cash, or they will cash surplus deposits.
+
+Hence, both money in circulation (as shown above) and money in reserve (as shown previously) tend to keep in a fixed ratio to deposits. It follows that the two must be in a fixed ratio to each other.
+
+It further follows that any change in M, the quantity of money in circulation, requiring as it normally does a proportional change in M', the volume of bank deposits subject to check, will result in an exactly proportional change in the general level of prices except, of course, so far as this effect be interfered with by concomitant changes in the V's or the Q's. The truth of this proposition is evident from the equation MV + M'V' = SpQ; for if, say, M and M' are doubled, while V and V' remain the same, the left side of the equation is doubled and therefore the right side must be doubled also. But if the Q's remain Edition: current; Page: [53] unchanged, then evidently all the p's must be doubled, or else if some are less than doubled, others must be enough more than doubled to compensate.

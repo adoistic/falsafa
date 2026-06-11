@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-bryce-the-holy-roman-empire-ea9074",
+  "work_title": "The Holy Roman Empire",
+  "chapter_number": 31,
+  "chapter_title": "I.: Titles of Emperors.",
+  "chapter_slug": "31-i-titles-of-emperors",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "656cecb6-200e-5583-82e7-9e8e739daaff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 638,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bryce-the-holy-roman-empire"
+    }
+  ]
+}

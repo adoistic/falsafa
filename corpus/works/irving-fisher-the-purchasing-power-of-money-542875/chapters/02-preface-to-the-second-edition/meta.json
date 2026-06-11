@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 2,
+  "chapter_title": "PREFACE TO THE SECOND EDITION",
+  "chapter_slug": "02-preface-to-the-second-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6dae062a-e4b1-55d1-ab2f-2009084f3ddf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 290,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

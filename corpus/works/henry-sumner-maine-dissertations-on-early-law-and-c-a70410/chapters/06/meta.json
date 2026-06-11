@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-dissertations-on-early-law-and-c-a70410",
+  "work_title": "Dissertations on Early Law and Custom",
+  "chapter_number": 6,
+  "chapter_title": "CHAPTER IV.: ANCESTOR-WORSHIP AND INHERITANCE.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f83a550a-da84-5239-9881-5f64e8a3af9e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10403,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-dissertations-on-early-law-and-custom"
+    }
+  ]
+}

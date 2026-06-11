@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 57,
+  "chapter_title": "RULE II.: AS the Weight of pure Gold in the Guinea, is to the Value of the Guinea in England, so is the Weight of pure G",
+  "chapter_slug": "57-rule-ii-as-the-weight-of-pure-gold-in-the-guinea-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "688a0665-47cf-544d-b67d-03b93319750a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 221,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

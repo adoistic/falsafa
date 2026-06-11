@@ -1,0 +1,27 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 192
+chapter_title: CHAPTER XLVI
+chapter_slug: 192
+variant_id: "5fdfcedf-770a-5857-a5cb-0002096cb15c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 746
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how the hermit felgeld was cured of a swelling in the face by means of the covering of the wall of the man of god’s house
+
+Nor do I think I ought to omit the heavenly miracle which the Divine mercy showed by means of the ruins of the holy oratory, in which the venerable father went through his solitary warfare in the service of the Lord. Whether it was effected by the merits of the same blessed father Cuthbert, or his successor Ethelwald, a man equally devoted to the Lord, the Searcher of the heart knows best. There is no reason why it may not be attributed to either of the two, in conjunction with the faith of the most holy father Felgeld; through whom and in whom the miraculous cure, which I mention, was effected. He was the third person who became tenant of the same place and its spiritual warfare, and, at present more than seventy years old, is awaiting the end of this life, in expectation of the heavenly one.
+
+When, therefore, God’s servant Cuthbert had been translated to the heavenly kingdom, and Ethelwald had commenced his occupation of the same island and monastery, after many years spent in conversation with the monks, he gradually aspired to the rank of anchoritish perfection. The walls of the aforesaid oratory, being composed of planks somewhat carelessly put together, had become loose and tottering by age, and, as the planks separated from one another, an opening was afforded to the weather. The venerable man, whose aim was rather the splendour of the heavenly than of an earthly mansion, having taken hay, or clay, or whatever he could get, had filled up the crevices, that he might not be disturbed from the earnestness of his prayers by the daily violence of the winds and storms. When Ethelwald entered and saw these contrivances, he begged the brethren who came thither to give him a calf’s skin, and fastened it with nails in the corner, where himself and his predecessor used to kneel or stand when they prayed, as a protection against the storm.
+
+Twelve years after, he also ascended to the joys of the Edition: current; Page: [348] heavenly kingdom, and Felgeld became the third inhabitant of the place. It then seemed good to the right reverend Eadfrid, bishop of the church of Lindisfarne, to restore from its foundation the time-worn oratory. This being done, many devout persons begged of Christ’s holy servant Felgeld to give them a small portion of the relics of God’s servant Cuthbert, or of Ethelwald his successor. He accordingly determined to cut up the above-named calf’s skin to pieces, and give a portion to each. But he first experienced its influence in his own person: for his face was much deformed by a swelling and a red patch. The symptoms of this deformity had become manifest long before to the monks, whilst he was dwelling among them. But now that he was living alone, and bestowed less care on his person, whilst he practised still greater rigidities, and, like a prisoner, rarely enjoyed the sun or air, the malady increased, and his face became one large red swelling. Fearing, therefore, lest he should be obliged to abandon the solitary life and return to the monastery; presuming in his faith, he trusted to heal himself by the aid of those holy men whose house he dwelt in, and whose holy life he sought to imitate. For he steeped a piece of the skin above mentioned in water, and washed his face therewith; whereupon the swelling was immediately healed, and the cicatrice disappeared. This I was told, in the first instance, by a religious priest of the monastery of Jarrow, who said that he well knew Felgeld’s face to have been in the deformed and diseased state which I have described, and that he saw it and felt it with his hand through the window after it was cured. Felgeld afterwards told me the same thing, confirming the report of the priest, and asserting that his face was ever afterwards free from the blemish during the many years that he passed in that place. This he ascribed to the agency of the Almighty Grace, which both in this world heals many, and in the world to come will heal all the maladies of our minds and bodies, and, satisfying our desires after good things, crown us for ever with its mercy and compassion. Amen.

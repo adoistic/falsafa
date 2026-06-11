@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-elements-of-political-economy-3e1c36",
+  "work_title": "Elements of Political Economy",
+  "chapter_number": 49,
+  "chapter_title": "Section XVII. Effects of the Taxation of Commodities Upon the Value of Money, and the Employment of Capital",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2194e6f3-0ab0-59b7-b822-f864557d8cff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 976,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-defence-of-usury-ba123c",
+  "work_title": "Defence of Usury",
+  "chapter_number": 9,
+  "chapter_title": "LETTER IX.: Blackstone considered.",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "603155e9-159b-5412-a055-198a2459bba2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1283,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-defence-of-usury"
+    }
+  ]
+}

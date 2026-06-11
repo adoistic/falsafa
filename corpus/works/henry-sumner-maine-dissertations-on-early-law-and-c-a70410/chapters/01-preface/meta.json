@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-dissertations-on-early-law-and-c-a70410",
+  "work_title": "Dissertations on Early Law and Custom",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE.",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4d396446-aff7-54e7-ae9c-9882ec4b13e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 329,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-dissertations-on-early-law-and-custom"
+    }
+  ]
+}

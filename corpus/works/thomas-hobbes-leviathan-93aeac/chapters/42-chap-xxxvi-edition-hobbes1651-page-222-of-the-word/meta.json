@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 42,
+  "chapter_title": "CHAP. XXXVI.: Edition: Hobbes1651; Page: [222] Of the Word of God, and of Prophets.",
+  "chapter_slug": "42-chap-xxxvi-edition-hobbes1651-page-222-of-the-word",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3cbf7dc2-b95a-5e50-9045-13730c1651dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6284,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

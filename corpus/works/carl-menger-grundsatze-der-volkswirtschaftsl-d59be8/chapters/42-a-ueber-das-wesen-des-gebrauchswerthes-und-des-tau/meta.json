@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 42,
+  "chapter_title": "a) Ueber das Wesen des Gebrauchswerthes und des Tauschwerthes.",
+  "chapter_slug": "42-a-ueber-das-wesen-des-gebrauchswerthes-und-des-tau",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8176ed89-eed5-59ab-b160-81f63f85ec54",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 739,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

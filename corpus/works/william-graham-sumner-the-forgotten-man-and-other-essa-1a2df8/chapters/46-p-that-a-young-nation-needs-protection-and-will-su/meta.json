@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 46,
+  "chapter_title": "(P): That a Young Nation Needs Protection and will Suffer some Disadvantage in Free Exchange with an Old One.",
+  "chapter_slug": "46-p-that-a-young-nation-needs-protection-and-will-su",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "142203df-08b0-5290-82de-5f9bf7418a77",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 235,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

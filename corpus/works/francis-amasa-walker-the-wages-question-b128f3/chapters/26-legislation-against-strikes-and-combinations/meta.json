@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "work_title": "The Wages Question",
+  "chapter_number": 26,
+  "chapter_title": "LEGISLATION AGAINST STRIKES AND COMBINATIONS.",
+  "chapter_slug": "26-legislation-against-strikes-and-combinations",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "436922b9-c253-52de-96c4-2e35ba03c9fb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1207,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class"
+    }
+  ]
+}

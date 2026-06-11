@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 20,
+  "chapter_title": "XVII: PETER THE GREAT AND THE RISE OF PRUSSIA",
+  "chapter_slug": "20-xvii-peter-the-great-and-the-rise-of-prussia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "620ec4ff-dde5-5cd7-8738-3ae435c0d161",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4538,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

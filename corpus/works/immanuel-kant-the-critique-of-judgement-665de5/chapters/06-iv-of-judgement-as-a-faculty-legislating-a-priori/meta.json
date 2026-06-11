@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 6,
+  "chapter_title": "IV.: OF JUDGEMENT AS A FACULTY LEGISLATING A PRIORI",
+  "chapter_slug": "06-iv-of-judgement-as-a-faculty-legislating-a-priori",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1befc6f-7887-5339-b5b8-ba94796210ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 708,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

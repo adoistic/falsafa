@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p-80ce6c",
+    "offset": 0,
+    "text": "Having found M and M', the circulating media, we next proceed to ascertain V and V', their velocity of circulation. We shall find it convenient to consider the latter first."
+  },
+  {
+    "id": "p-2d0a78",
+    "offset": 175,
+    "text": "The velocity of circulation of bank deposits is found by dividing respectively the total check circulation (M'V') by the bank deposits (M'). The divisor, M', has already been found. As to the dividend, M'V', this is practically the total checks drawn in a year, for we may reasonably assume that, on the average, each check circulates against goods once and but once."
+  },
+  {
+    "id": "p-e51de3",
+    "offset": 544,
+    "text": "For two years, 1896 and 1909, thanks to the efforts of Professor Kinley of the University of Illinois, we have voluminous and unique data collected originally for the purpose of calculating the ratio of money-transactions to check-transactions in the United States, i.e. the ratio of MV to M'V'. We shall see that these data, in conjunction with other official statistics, are sufficient for something more important than computing this ratio; Edition: current; Page: [283] for they enable us to calculate with a tolerable degree of exactness the magnitudes V and V' for both the years mentioned. We shall find incidentally that, with the aid of these magnitudes, it is possible to work out more exactly than in the investigations above mentioned the very magnitude for which these investigations were undertaken, viz. the ratio of money-transactions to credit-transactions."
+  },
+  {
+    "id": "p-07e35b",
+    "offset": 1420,
+    "text": "We need first to estimate M'V'."
+  },
+  {
+    "id": "p-c9c7a6",
+    "offset": 1453,
+    "text": "M'V'. Professor Kinley's special investigation of 1896 indicates that on \"the settling day nearest July 1, 1896,\" the value of the checks deposited was about $468,000,000. If we could assume that this day was an average day for the year, we should need, in order to obtain the total year's deposits of checks, simply to multiply this by the number of settling days in 1896, which was 305.But it happens that July 1 is an exceptionally heavy day in the deposit of checks. Making allowance for this fact, as indicated by the clearings of the New York clearing house, we conclude that the total year's deposits of checks in 1896 was about 97 billions, with a probable error of some 5 or 6 per cent.Similar calculations for 1909 make the total check transactions of that year 364 billions.We have thus the value of the total check circulation (M'V') in the two years 1896 and 1909, and find them to be 97 and 364 billions respectively, indicating a prodigious growth in thirteen years. We have still to interpolate figures for intervening years. For the period between these two years, we have, unfortunately, no such data as those of Edition: current; Page: [284] Professor Kinley for 1896 and 1909. However, we can find an excellent barometer in the clearing house transactions,—a barometer dependent partly on the clearings in New York City, but more on those outside of New York City. It is well recognized that, although the clearings in New York deserve an exceedingly large representation, their relative importance in the total clearings is exaggerated."
+  },
+  {
+    "id": "p-02e4dd",
+    "offset": 3012,
+    "text": "On the question, therefore, \"What relative importance should be given respectively to clearings in New York and to the outside clearings in order to get the best barometer of the check transactions for the entire country?\" we conclude that, if the outside clearings be multiplied by five and the result added to the New York clearings, we shall have a good barometer of check transactions for the United States."
+  },
+  {
+    "id": "p-9b9ea0",
+    "offset": 3425,
+    "text": "By means of this barometer of check transactions, consisting of New York clearings plus five times the outside clearings, and our knowledge of the actual check transactions of 1896 and 1909, we may easily derive from the \"barometer\" an estimate of the actual check transactions. The result is as follows:—"
+  },
+  {
+    "id": "p-d17408",
+    "offset": 3732,
+    "text": "Edition: current; Page: [285] The probable error of the figures between 1896 and 1909 may be set at some 5 to 10 per cent."
+  },
+  {
+    "id": "p-6d115b",
+    "offset": 3856,
+    "text": "V'. Having obtained estimates of M'V' and having previously obtained estimates of M', it is easy, by simple division, to obtain V'. The results are as follows:—"
+  },
+  {
+    "id": "p-79a78b",
+    "offset": 4018,
+    "text": "The probable error in these figures may be set at some 5 to 10 per cent, being least for 1896 and 1909 and greatest midway between."
+  },
+  {
+    "id": "p-76a923",
+    "offset": 4151,
+    "text": "We note that the velocity of circulation has increased 50 per cent in thirteen years and that it has been subject to great variations from year to year. In 1899 and 1906 it reached maxima, immediately preceding crises. These results correspond to those of Pierre des Essars for the rates of turnover of deposits in continental banks already noted, except that he usually finds the maximum in the crisis year itself rather than the year before. It is to be noted that the figure for 1909 is much the highest in the table. Whether it portends an approaching crisis, time will determine."
+  }
+]

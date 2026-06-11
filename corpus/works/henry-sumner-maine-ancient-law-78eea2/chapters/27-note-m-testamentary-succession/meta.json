@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 27,
+  "chapter_title": "NOTE M.: TESTAMENTARY SUCCESSION.",
+  "chapter_slug": "27-note-m-testamentary-succession",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "05a5e29f-6911-524c-9615-5ad68105f442",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2690,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

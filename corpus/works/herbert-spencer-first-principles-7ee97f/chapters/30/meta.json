@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-first-principles-7ee97f",
+  "work_title": "First Principles",
+  "chapter_number": 30,
+  "chapter_title": "CHAPTER XV.: THE LAW OF EVOLUTION CONTINUED.",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a49ef3a-9280-5eca-827e-cabbd0f40c1c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10206,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
+    }
+  ]
+}

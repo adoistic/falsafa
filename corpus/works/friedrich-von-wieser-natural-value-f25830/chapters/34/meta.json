@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 34,
+  "chapter_title": "CHAPTER XIII: the individual factors of imputation (continued). V. — the imputation to productive factors of preferable ",
+  "chapter_slug": "34",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a77c6c91-dcba-568d-bed5-48b2b1fc074c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 558,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

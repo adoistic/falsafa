@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-first-principles-7ee97f",
+  "work_title": "First Principles",
+  "chapter_number": 35,
+  "chapter_title": "CHAPTER XX.: THE MULTIPLICATION OF EFFECTS.",
+  "chapter_slug": "35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "880cd60b-1e28-585e-8270-55d9c1b6844c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9086,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
+    }
+  ]
+}

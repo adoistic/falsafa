@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 20,
+  "chapter_title": "CHAP. XVIII.: CONSTERNATION AND CONSPIRACY OF TYRANTS.",
+  "chapter_slug": "20-chap-xviii-consternation-and-conspiracy-of-tyrants",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56b0db69-92ad-5d6c-9dfb-60416d1d0abd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 799,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
+  "work_title": "A Treatise on Metallic and Paper Money and Banks",
+  "chapter_number": 13,
+  "chapter_title": "Sect. V.—: Act of 1844. Objections to and Defence of that Act. Suspensions of in 1847 and 1857.",
+  "chapter_slug": "13-sect-v-act-of-1844-objections-to-and-defence-of-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8dccc5a8-1530-53e2-9a31-f3ebd4b6a90d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8584,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858"
+    }
+  ]
+}

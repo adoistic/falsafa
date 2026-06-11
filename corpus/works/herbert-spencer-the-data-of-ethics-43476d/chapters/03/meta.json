@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-data-of-ethics-43476d",
+  "work_title": "The Data of Ethics",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER II.: THE EVOLUTION OF CONDUCT.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "40cf00e6-84b7-5c27-b1db-efba61fe8396",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4187,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-data-of-ethics-1879"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+---
+work_id: "20a14cb3-7dd1-579a-9282-22e87e83cc40"
+work_slug: "william-stanley-jevons-the-theory-of-political-economy-20a14c"
+work_title: The Theory of Political Economy
+author_name: William Stanley Jevons
+chapter_number: 44
+chapter_title: Negative and Zero Value.
+chapter_slug: "44-negative-and-zero-value"
+variant_id: "c594f872-bb5b-5d88-a0d7-412364e4174c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1758
+source_url: "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+translator: Online Library of Liberty edition
+---
+
+Only a few economists, notably Mr. H. D. Macleod in several of his publications, have noticed the fact that there may be such a thing as negative value. Yet there cannot be the least doubt that people often labour, or pay money to other labourers, in order to get rid of things, and they would not do this unless such things were hurtful, that is, had the opposite quality to utility—disutility. Water, when it gets into a mine, is a costly thing to get out again, and many people have been ruined by wet mines. Quarries and mines usually produce great quantities of valueless rock or earth, variously called duff, spoil, waste, rubbish, and no inconsiderable part of the cost of working arises from the need of raising and carrying this profitless mass of matter and then finding land on which to deposit it. Every furnace yields cinders, dross, or slag, which can seldom be sold for any money, and every household is at the expense of getting rid, in one way or another, of sewage, ashes, swill, and other rejectanea. Reflection soon shows, in short, that no inconsiderable part of the values with which we deal in practical economics must be negative values.
+
+It will hardly be needful to show at full length that this negative value may be regarded as varying continuously in the same way as positive value. If after a long drought rain begins to fall heavily, it is Edition: current; Page: [128] at first hailed as a great benefit; the rain-water may be so valuable as to produce a crop, when otherwise successful agriculture would have been impossible. Rain may thus avert famine; but after the rain has fallen for a certain length of time, the farmer begins to think he has had enough of it; more rain will retard his operations, or injure the growing plants. As the rain continues to fall he fears further injury; water begins to flood his land, and there is even danger of the soil and crops being all washed away together. But the rain unfortunately pours down more and more heavily, until at length perhaps the crops, soil, house, stock,—nay, the farmer himself, are all swept bodily away. That same water, then, which in moderate quantity would have been of the greatest possible benefit, has only to be supplied in greater and greater quantities to become injurious, until it ends with occasioning the ruin, and even the death, of the individual. Those acquainted with the floods and droughts of Australia know that this is no fancy sketch.
+
+In many other cases it might be shown similarly that matter, we can hardly call it commodity, acquires a higher and higher degree of disutility the greater the quantity which has to be disposed of. Such is the case with the sewage of great towns, the foul or poisoned water from mines, dye-works, etc. Any Edition: current; Page: [129] obstacle, however, may be regarded as so much discommodity, whether it be a mountain which has to be bored through to make a railway, or a hollow which has to be filled up with an expensive embankment. If a building site requires a certain expenditure in levelling and draining before it can be made use of, the cost of this work is, of course, subtracted from the value which the land would otherwise possess. As every advantage in property gives rise to value, so every disadvantage must be set against that value.
+
+We now come to the question how negative value is to be represented in our equations. Let us suppose a person possessing a of some commodity to find it insufficient: then it has positive degree of utility for him, that is to say f(a) is positive. Suppose x to be added to a and gradually increased: f(a + x) will gradually decrease. Let us assume that for a certain value of x it becomes zero; then, if the further increase of x turns utility into disutility, f(a + x) will become a negative quantity. How will this negative sign affect the validity of the equations which we have been employing in preceding pages, and in which each member has appeared to be both formally and intrinsically positive? It is plain that we cannot equate a positive to a negative quantity; but it will be found that if, at the same time that we introduce negative utility, we also assign to each increment of commodity the positive or negative sign, according as it is added to or subtracted from the exchanger's Edition: current; Page: [130] possessions, that is to say, received or given in exchange, no such difficulty arises.
+
+Suppose A and B respectively to hold a and b, and to exchange dx and dy of the commodities X and Y. Then it will be apparent from the general character of the argument on pp. 98-100, that the fundamental equation there adopted will be included in the more general form—
+
+In this equation either factor of either term may be intrinsically negative, while the alternative signs before x and y allow for every possible case of giving and receiving in exchange.
+
+Four possible cases will arise. In the first case, both commodities have utility for each person, that is to say, f and y are both positive functions; but A gives some of X in return for some of Y. This means that dx is negative, and dy positive, while the quantities in possession after exchange are a - x, and b+y. Thus the equation becomes
+
+We should have merely to transpose the negative term to the other side of the equation, and to assume b = 0, to obtain the equation on p. 99.
+
+As the second case, suppose that Y possesses disutility for A, so that the function y becomes for him negative; in order to get rid of y, he must also pay x with it, and both these quantities as well as dy and Edition: current; Page: [131] dx receive the negative sign. Then the equation takes the shape
+
+The third case is the counterpart of the last, and represents B's position, who receives both x and y, on the ground that one of these quantities is discommodity to him. But putting the matter as the case of A, we may assume f to be positive, y negative, and giving the positive sign to all of x, y, dx, and dy, we obtain the equation—
+
+It is possible to conceive yet a fourth case in which people should be exchanging two discommodities; that is to say, getting rid of one hurtful substance by accepting in place of it what is felt to be less hurtful, though still possessing disutility. In this case we have both f and y negative, as well as one of the quantities exchanged; taking x and dx as positive, and y and dy as negative, the equation assumes the form
+
+It might be difficult to discover any distinct cases of this last kind of exchange. Generally speaking, when a person receives assistance in getting rid of some inconvenient possession, he pays in money or Edition: current; Page: [132] other commodity for the service of him who helps to remove the burden. It must naturally be a very rare case that the remover has some burden which it would suit the other party to receive in exchange. Yet the contingency may, and no doubt does, sometimes occur. Two adjacent landowners, for instance. might reasonably agree that, if A allows B to throw the spoil of his mine on A's land, then A shall be allowed to drain his mine into B's mine. It might happen that B was comparatively more embarrassed by the great quantity of his spoil than by water, and that A had room for the spoil, but could not get rid of the water in other ways without great difficulty. An exchange of inconveniences would then be plainly beneficial.
+
+Looking at the equations obtained in the four cases as stated above, it is apparent that the general equation of exchange consists in equating to zero the sum of one positive and one negative term, so that the signs, both of the utility functions and of the increments, may be disregarded. Thus the fundamental equation may be written in the general form
+
+We may express the result of this theory in general terms by saying that the algebraic sum of the utility or disutility received or parted with, as regards the last increments concerned in an act of traffic, will always be zero. It also follows that, without regard to sign, the increments are in magnitude inversely Edition: current; Page: [133] as their degrees of utility or disutility. The reader will not fail to notice the remarkable analogy between this theory and that of the equilibrium of two forces regarded according to the principle of virtual velocities. A rigid lever will remain in equilibrium under the action of two forces, provided that the algebraic sum of the forces, each multiplied by its infinitely small displacement, be zero. Substitute for force degree of utility, positive or negative, and for infinitely small displacements infinitely small quantities of commodity exchanged, and the principles are identical.
+
+It still remains to consider the imaginary case in which substances possess or are supposed to possess neither utility nor disutility, and are yet exchanged in finite quantities. Substituting the ratio of y and x for that of dy and dx, the general equation
+
+will give the value
+
+both the functions of utility being zero. This means that the quantities exchanged will be indeterminate so far as the theory of utility goes. If one substance possesses utility, and the other does not, the ratio of exchange becomes either , infinity or zero, indicating that there can be no comparison in our theory between things which do and those which do not possess utility. Practically speaking, such cases do not occur except in an approximate manner. Such things as cinders, shavings, night Edition: current; Page: [134] soil, etc., have either low degrees of utility or disutility. If the dustman takes them away for nothing, they must have utility for him sufficient to pay the cost of removal. When the dust is riddled, one part is usually found to have utility just sufficient to balance the disutility of the remainder, giving us an instance of the second or third form of the equation of exchange according as we regard the matter from the householder's or the dustman's point of view.

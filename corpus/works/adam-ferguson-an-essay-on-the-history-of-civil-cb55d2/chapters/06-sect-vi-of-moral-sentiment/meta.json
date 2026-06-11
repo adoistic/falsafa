@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 6,
+  "chapter_title": "SECT. VI.: Of Moral Sentiment.",
+  "chapter_slug": "06-sect-vi-of-moral-sentiment",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be2da501-ff5f-5802-b1af-6c68d04735cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3301,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

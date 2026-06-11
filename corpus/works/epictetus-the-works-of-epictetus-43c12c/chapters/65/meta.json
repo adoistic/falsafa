@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 65,
+  "chapter_title": "CHAPTER V.: CONCERNING THOSE WHO PLEAD SICKNESS.",
+  "chapter_slug": "65",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0e0d3aff-9770-5c9e-aefd-2a1f67df85d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 693,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 36,
+  "chapter_title": "Section IV.—: Of the Fertility of the Soil, considered as a Stimulus to the continued Increase of Wealth.",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9e8193e-0634-5b42-b5d0-be5b68331abd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6660,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
+    }
+  ]
+}

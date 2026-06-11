@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 107,
+  "chapter_title": "Why the effect of an increase of money, is not more sensibly felt.",
+  "chapter_slug": "107-why-the-effect-of-an-increase-of-money-is-not-more",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c3045aba-f20c-59a6-89b3-72983438a2f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 300,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

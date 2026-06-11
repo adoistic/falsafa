@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 75,
+  "chapter_title": "CHAP. XIV.: The East-India Trade does not abate the Rents, by the exportation of Bullion, by the diminution of Consumers",
+  "chapter_slug": "75-chap-xiv-the-east-india-trade-does-not-abate-the-r",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc1da1a7-33d3-5c60-83dd-45c25394c4c7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1009,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

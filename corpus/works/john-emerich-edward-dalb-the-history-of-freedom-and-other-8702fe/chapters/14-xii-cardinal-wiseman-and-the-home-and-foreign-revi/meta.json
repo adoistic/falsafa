@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 14,
+  "chapter_title": "XII: CARDINAL WISEMAN AND THE HOME AND FOREIGN REVIEW",
+  "chapter_slug": "14-xii-cardinal-wiseman-and-the-home-and-foreign-revi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36abaae7-0fd0-5b79-aa07-2c16166e3e28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8888,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

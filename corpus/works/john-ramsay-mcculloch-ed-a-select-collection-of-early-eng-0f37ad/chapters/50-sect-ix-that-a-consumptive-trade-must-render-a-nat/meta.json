@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 50,
+  "chapter_title": "SECT. IX.: That a Consumptive Trade must render a Nation still weaker and weaker: How far the meer establishment of Abso",
+  "chapter_slug": "50-sect-ix-that-a-consumptive-trade-must-render-a-nat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7dd53c1-99d1-50ab-a470-9a0c0899a4b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1374,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

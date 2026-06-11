@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 5,
+  "chapter_title": "CHAPTER IV: THE 24TH OF FEBRUARY—THE MINISTERS’ PLAN OF RESISTANCE—THE NATIONAL GUARD—GENERAL BEDEAU.",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d39ae55-8680-57b7-8d4c-ed816a10a0b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3003,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

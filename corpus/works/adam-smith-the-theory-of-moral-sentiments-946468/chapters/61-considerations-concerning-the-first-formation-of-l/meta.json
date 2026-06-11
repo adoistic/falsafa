@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-the-theory-of-moral-sentiments-946468",
+  "work_title": "The Theory of Moral Sentiments",
+  "chapter_number": 61,
+  "chapter_title": "CONSIDERATIONS CONCERNING THE FIRST FORMATION OF LANGUAGES, &c.",
+  "chapter_slug": "61-considerations-concerning-the-first-formation-of-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a78ed368-4f1a-58b3-b531-dbdce3a043b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15707,
+      "paragraph_count": 121,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"
+    }
+  ]
+}

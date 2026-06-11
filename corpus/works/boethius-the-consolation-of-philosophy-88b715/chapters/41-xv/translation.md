@@ -1,0 +1,21 @@
+---
+work_id: "88b7154d-8ae8-5c6e-a1cb-5ca9ab169cd0"
+work_slug: "boethius-the-consolation-of-philosophy-88b715"
+work_title: The Consolation of Philosophy
+author_name: Boethius
+chapter_number: 41
+chapter_title: XV
+chapter_slug: "41-xv"
+variant_id: "a32ddaea-95f8-5c3c-bfbf-c25902660e47"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 279
+source_url: "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+translator: Online Library of Liberty edition
+---
+
+WHEN Philosophy had spoken this speech, she began to sing, and said, ‘Ah, how blessed was the former age of the world, when each man was content with what the earth yielded! No splendid mansions were there then; no varied dainties nor drinks; nor did men covet costly apparel, for as yet these things were not; neither were they seen nor heard of. Men cared not for any wicked pleasure, but followed the path of nature in strict measure. They ate but once in the day, and that was towards evening. The fruits of trees they ate, and roots; they drank no wine unmixed, nor knew to mingle honey with their drink, nor desired silken raiment of various hues. Always they slept out of doors in the shade of the trees; pure spring water was their drink. No merchant had gazed on strand nor island, and no man had heard tell of the pirate host, Edition: current; Page: [34]nor even of any fighting whatever. Not yet was earth defiled with the blood of the slain, nor had a man been wounded. Evil men had not been seen as yet; no honour had such then, no love. Alas, that our age cannot become as that was! In these days the greed of men burneth like the fire of hell that is in the mountain called Etna, in the isle of Sicily. This mountain is ever on fire with brimstone, consuming all the countries round about. Alas, who was the first covetous man that began to dig in the ground for gold, and for gems, and brought to light precious things up to that time hidden and covered by the earth?’

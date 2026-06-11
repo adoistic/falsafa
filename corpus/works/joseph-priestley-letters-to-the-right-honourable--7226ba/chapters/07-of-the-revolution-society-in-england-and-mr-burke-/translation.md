@@ -1,0 +1,39 @@
+---
+work_id: "7226ba37-9368-5aee-88d7-accd1f42c18c"
+work_slug: "joseph-priestley-letters-to-the-right-honourable--7226ba"
+work_title: Letters to the Right Honourable Edmund Burke
+author_name: Joseph Priestley
+chapter_number: 7
+chapter_title: Of the Revolution Society in England, and Mr. Burke’s Reflexions on Dr. Price.
+chapter_slug: "07-of-the-revolution-society-in-england-and-mr-burke-"
+variant_id: "f7bc019b-d5f8-5395-91cd-4aabb0740ed8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1254
+source_url: "https://oll.libertyfund.org/titles/priestley-letters-to-the-right-honourable-edmund-burke"
+translator: Online Library of Liberty edition
+---
+
+YOU are exceedingly offended at the conduct of the Revolution Society in England, for sending congratulations to the National Assembly in France. “I should think it,” you say, p. 6, “at least improper and irregular, to open a formal public correspondence with the actual government of a foreign nation, without the express authority of the government under which I live.” You think it was done “under an equivocal description, which to many, unacquainted with our usages, might make the address appear as the act of persons in some sort of a corporate body, acknowledged by the laws of the kingdom, and authorised to speak the sense of some part of it. It is the policy,” you say, p. 7, “that has very much the complexion of a fraud.”
+
+But what occasion could there be to ask leave of the government of one country to send an address Edition: current; Page: [44] to that of another, unless it had been affected by the correspondence; and in this case the English government had nothing more to do with the transaction than any private individual in the country. Was any thing said by the Revolution Society, in the name of the government of this country, or was the latter at all pledged to do one thing or another in the business?
+
+As to such a respectable body of men as the National Assembly of France noticing the address of those who compose the Revolution Society in England; it is nothing new or uncommon, either for small bodies of men to address large ones, or for large societies to notice such addresses; and what material difference is there, whether the persons addressing, and those addressed, be of the same country, or of different countries? The only question is, whether the address, or the notice, were proper or improper.
+
+The National Assembly of France could not be so ignorant of the constitution of England, as to suppose that the Revolution Society was a body authorized by the state, or that it had any connexion with the government of the country; so that there could be no fraud or imposition in the case; and it may be easily supposed, that, being the founders of a new system of government in France, which has hitherto been considered as the natural enemy of Edition: current; Page: [45] England, they might think it wise to embrace the first opportunity of shewing that they were disposed to be our friends, and that they took it kindly, that any number of respectable individuals in this country should approve of their proceedings. As far as the transaction went, it afforded a prospect of future good neighbourhood.
+
+The members of the French Assembly would judge of the extent of the friendly disposition of this country towards them, by the names of the persons who promoted the measure; and when they saw that of Dr. Price, so well known, and so favourably known, for true patriotism, disinterested benevolence, and public spirit, both in France and America, they would naturally, and justly, conclude, that, though no great part of the English nation was present, those who were spoke the sentiments of great numbers, and those the most respectable in the country. The good will of such men as Dr. Price (in whatever part of the globe, or for whatever purpose assembled) even the National Assembly of France might conceive to be no inconsiderable sanction to their proceedings.
+
+Where is the great impropriety of a nation receiving even advice, and much more accepting congratulations, from single men of eminent wisdom and of virtue? And in this light thousands regard Dr. Price, and notwithstanding the odium which you, in Edition: current; Page: [46] vain, endeavour to throw upon him, and which only recoils upon yourself, his name will be known, and respected, as long as respect for religion, for virtue, and for the just rights of mankind, shall exist.
+
+The discourse which gives you so much offence, was indeed delivered from a pulpit, and is commonly called a sermon; but this is all the impropriety that belongs to it, and therefore affects the title only. It was delivered to a number of political friends, on a week day, destined to a political purpose, and might perhaps as well have been delivered in the room in which the company dined. No preacher, I will venture to say, more scrupulously adapts his usual discourses to the real occasions of a christian audience, than Dr. Price does; and had you, Sir, been one of his stated hearers (though you may shudder at the idea of going into a Conventicle) you would, I doubt not, have been both a wiser and a better man than you now are, wise and good as you, nevertheless, may be; for I do not judge of your usual temper and disposition from the strain of this most intemperate publication. I know you, and I know it to be unworthy of you.
+
+Besides, the pulpit has not been thought profaned by all subjects of a political, if of a generally useful, nature. If so, certainly the conduct of the clergy must be severely censured for the usual Edition: current; Page: [47] strain of their preaching on the 30th of January. If they preach in defence of arbitrary power, which they generally have done on that day, why may not we preach in defence of the great principle of equal liberty, and the most important right of resistance to such governments as they recommend?
+
+You seem to take particular pleasure in comparing Dr. Price to Hugh Peters, who expressed himself in the same language with respect to the death of king Charles, that Dr. Price has made use of with respect to the glorious prospect of things that has opened upon us by the late Revolution in France. No doubt, a very handsome face may have some features resembling those in a very ugly one, and therefore Dr. Price may, without any reflexion upon him, resemble Hugh Peters in his abhorrence of tyranny, though very different from him in other respects. Bishop Burnet calls Peters “a sort of enthusiastic buffoon preacher, and a very vitious man,” and he represents him as dying in the most cowardly manner. But will this character apply to Dr. Price, a man whom the President of the National Edition: current; Page: [48] Assembly of France has styled, and justly styled, the Apostle of Liberty, though you call him the Doctor of Politics, p. 17, the Political Divine, p. 20, and load him with every other epithet of contempt that your exuberant imagination, unrestrained by any regard to decency, can supply; at the same time that you acknowledge, p. 13, that he has “the best intentions in the world,” though as an enemy to civil establishments of religion, you deny him, p. 155, a place among honest enthusiasts, and class him with cheats and deceivers.
+
+According to you, this Hugh Peters rode in a kind of triumph on the bringing of king Charles a prisoner to London, and he may have triumphed in an indecent and an improper manner; but, in my opinion, there was sufficient cause for triumph. The thirtieth of January was (to use a phrase of Admiral Keppel’s) a proud day for England, as well as the fourteenth of July for France, and it will be remembered as such by the latest posterity of freemen. Let all tyrants read the history of both, and tremble. Good princes will read it without any unpleasant emotion.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 97,
+  "chapter_title": "A FOURTH MODEL OF A COMMONWEALTH PROPOS’D. The Commonwealth of Athens.",
+  "chapter_slug": "97-a-fourth-model-of-a-commonwealth-propos-d-the-comm",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17d2e439-e3c7-5ef0-99c3-73086a62bfc8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 119,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

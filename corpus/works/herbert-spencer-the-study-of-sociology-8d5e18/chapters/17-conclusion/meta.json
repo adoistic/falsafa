@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-study-of-sociology-8d5e18",
+  "work_title": "The Study of Sociology",
+  "chapter_number": 17,
+  "chapter_title": "conclusion.",
+  "chapter_slug": "17-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfae3c0d-ab96-5107-a6d6-fb0e83fda735",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6697,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-study-of-sociology-1873"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-first-principles-7ee97f",
+  "work_title": "First Principles",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER III.: ULTIMATE SCIENTIFIC IDEAS.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b2b7aa4-e569-5805-856b-8f3e10f918c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7099,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
+    }
+  ]
+}

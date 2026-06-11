@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-definitions-in-political-economy-2a1c5b",
+  "work_title": "Definitions in Political Economy",
+  "chapter_number": 15,
+  "chapter_title": "A GIVEN DEMAND.",
+  "chapter_slug": "15-a-given-demand",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a64fa64d-5820-5328-bbca-d3985d78b426",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 53,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-definitions-in-political-economy"
+    }
+  ]
+}

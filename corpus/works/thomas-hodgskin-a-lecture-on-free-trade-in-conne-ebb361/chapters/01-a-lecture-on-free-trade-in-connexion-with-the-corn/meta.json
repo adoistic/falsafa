@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-a-lecture-on-free-trade-in-conne-ebb361",
+  "work_title": "A Lecture on Free Trade in Connexion with the Corn Laws",
+  "chapter_number": 1,
+  "chapter_title": "A Lecture on Free Trade in Connexion with the Corn Laws",
+  "chapter_slug": "01-a-lecture-on-free-trade-in-connexion-with-the-corn",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4809779-1ddf-5b64-b8ee-998b3e6a52a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12343,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hodgskin-a-lecture-on-free-trade-in-connexion-with-the-corn-laws"
+    }
+  ]
+}

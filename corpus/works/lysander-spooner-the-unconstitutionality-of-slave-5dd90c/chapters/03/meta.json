@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-unconstitutionality-of-slave-5dd90c",
+  "work_title": "The Unconstitutionality of Slavery",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER III.: THE COLONIAL CHARTERS.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4c19e00-b691-5bc0-ae91-7381c633d3a7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1475,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
+    }
+  ]
+}

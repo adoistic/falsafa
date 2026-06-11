@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 14,
+  "chapter_title": "III.: Period of Collectivism (1865-1900)",
+  "chapter_slug": "14-iii-period-of-collectivism-1865-1900",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8de6ad74-d80c-5e9e-a278-a0c4752cf689",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1238,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

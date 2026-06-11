@@ -1,0 +1,29 @@
+---
+work_id: "6715e093-fd20-5bd0-9e37-ce76bee6c429"
+work_slug: "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0"
+work_title: Money and the Mechanism of Exchange
+author_name: William Stanley Jevons
+chapter_number: 20
+chapter_title: 1. Utility and Value.
+chapter_slug: "20-1-utility-and-value"
+variant_id: "193d5f5c-37f1-576f-960b-dfeaabba52ac"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 741
+source_url: "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+translator: Online Library of Liberty edition
+---
+
+Since money has to be exchanged for valuable goods, it should itself possess value, and it must therefore have utility as the basis of value. Money, when once in full currency, is only received in order to be passed on, so that if all people could be induced to take worthless bits of material at a fixed rate of valuation, it might seem that money does not really require to have substantial value. Something like this does frequently happen in the history of currencies, and apparently valueless shells, bits of leather, or scraps of paper, are actually received in exchange for costly commodities. This strange phenomenon is, however, in most cases capable of easy explanation, and if we were acquainted with the history of every kind of money the like explanation would no doubt be possible in other cases. The essential point is that people should be induced to receive money, and pass it on freely at steady ratios of exchange for other objects; but there must always be some sufficient reason first inducing people to accept the money. The force of habit, convention, or legal enactment may do much to maintain money in circulation when once it is afloat, but it is doubtful whether the most powerful government could oblige its subjects to accept and circulate as money a worthless substance which they had no other motive for receiving.
+
+Certainly, in the early stages of society, the use of money was not based on legal regulations, so that the utility of the substance for other purposes must have been the prior condition of its employment as money. Thus the singular peag currency, or wampumpeag, which was found in circulation among the North American Indians by the early explorers, was esteemed for the purpose of adornment, as already mentioned, (p. 24). The cowry shells, so widely used as a small currency in the East, are valued for ornamental purposes on the West Coast of Africa, and were in all probability employed as ornaments before they were employed as money. All the other articles mentioned in Chapter IV., such as oxen, corn, skins, tobacco, salt, cacao nuts, etc., which have performed the functions of money in one place or other, possessed independent utility and value. If there are any apparent exceptions at all to this rule, they would doubtless admit of explanation by fuller knowledge. We may, therefore, agree with Storch when he says:—"It is impossible that a substance which has no direct value should be introduced as money, however suitable it may be in other respects for this use."
+
+When once a substance is widely employed as money, it is conceivable that its utility will come to depend mainly upon the services which it thus confers upon the community. Gold, for instance, is far more important as the material of money than in the production of plate, jewellery, watches, gold-leaf, etc. A substance originally used for many purposes may eventually serve only as money, and yet, by the demand for currency and the force of habit, may maintain its value. The cowry circulation of the Indian coasts is probably a case in point. The importance of habit, personal or hereditary, is at least as great in monetary science as it is, according to Mr. Herbert Spencer, in morals and sociological phenomena generally.
+
+There is, however, no reason to suppose that the value of gold and silver is at present due solely to their conventional use as money. These metals are endowed with such singularly useful properties that, if we could only get them in sufficient abundance, they would supplant all the other metals in the manufacture of household utensils, ornaments, fittings of all kinds, and an infinite multitude of small articles, which are now made of brass, copper, bronze, pewter, German silver, or, other inferior metals and alloys.
+
+In order that money may perform some of its functions efficiently, especially those of a medium of exchange and a store of value, to be carried about, it is important that it should be made of a substance valued highly in all parts of the world, and, if possible, almost equally esteemed by all peoples. There is reason to think that gold and silver have been admired and valued by all tribes which have been lucky enough to procure them. The beautiful lustre of these metals must have drawn attention and excited admiration as much in the earliest as in the present times.

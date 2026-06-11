@@ -1,0 +1,26 @@
+{
+  "work_slug": "frank-h-knight-risk-uncertainty-and-profit-4c5363",
+  "work_title": "Risk, Uncertainty and Profit",
+  "chapter_number": 13,
+  "chapter_title": "Part III, Chapter X: Enterprise and Profit (continued) The Salaried Manager",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7e70d30-9a07-509b-b59b-8c01aebe9eaa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6679,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-risk-uncertainty-and-profit"
+    }
+  ]
+}

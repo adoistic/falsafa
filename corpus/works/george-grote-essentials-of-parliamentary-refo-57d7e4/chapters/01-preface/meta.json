@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-grote-essentials-of-parliamentary-refo-57d7e4",
+  "work_title": "Essentials of Parliamentary Reform",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE.",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5dc6d695-75c4-57b1-825a-42d25caa541f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1764,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grote-essentials-of-parliamentary-reform"
+    }
+  ]
+}

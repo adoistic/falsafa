@@ -1,0 +1,25 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 120
+chapter_title: §. 118.
+chapter_slug: "120-118"
+variant_id: "57ffa73c-cb73-5bd4-8c46-7c4264e4628d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 356
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+He that reads the story of Jacob and Esau, will find there was never any jurisdiction or authority, that either of them had over the other after their father’s death: they Edition: current; Page: [136] lived with the friendship and equality of brethren, neither lord, neither slave to his brother; but independent each of other, were both heads of their distinct families, where they received no laws from one another, but lived separately, and were the roots out of which sprang two distinct people under two distinct governments. This blessing then of Isaac, whereon our author would build the dominion of the elder brother, signifies no more, but what Rebecca had been told from God, Gen. xxv. 23. Two nations are in thy womb, and two manner of people shall be separated from thy bowels, and the one people shall be stronger than the other people, and the elder shall serve the younger; and so Jacob blessed Judah, Gen. xlix. and gave him the scepter and dominion, from whence our author might have argued as well, that jurisdiction and dominion belongs to the third son over his brethren, as well as from this blessing of Isaac, that it belonged to Jacob: both these places contain only predictions of what should long after happen to their posterities, and not any declaration of the right of inheritance to dominion in either. And thus we have our author’s two great and only arguments to prove, that heirs are lords over their brethren.
+
+1. Because God tells Cain, Gen. iv. that however sin might set upon him, he ought or might be master of it: for the most learned Edition: current; Page: [137] interpreters understood the words of sin, and not of Abel, and give so strong reasons for it, that nothing can convincingly be inferred, from so doubtful a text, to our author’s purpose.
+
+2. Because in this of Gen. xxvii. Isaac foretels that the Israelites, the posterity of Jacob, should have dominion over the Edomites, the posterity of Esau; therefore says our author, heirs are lords of their brethren: I leave any one to judge of the conclusion.

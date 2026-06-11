@@ -1,0 +1,29 @@
+---
+work_id: "3bbda339-f4ba-576b-a70e-d292be6fa16d"
+work_slug: "jean-baptiste-say-a-treatise-on-political-economy--3bbda3"
+work_title: A Treatise on Political Economy (Biddle ed.)
+author_name: "Jean-Baptiste Say"
+chapter_number: 81
+chapter_title: "SECTION IV.: Of the Territorial or Land-Tax of England."
+chapter_slug: 81
+variant_id: "dbf726ba-c819-59a3-8913-08c038412b02"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 591
+source_url: "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+translator: Online Library of Liberty edition
+---
+
+In the year 1692, which was four years after the happy revolution, that placed the prince of Orange upon the British throne, a general valuation was made of the income of all the land in the country; and, upon that valuation, the land-tax continues to be levied to this day; so that the tax of four shillings in the pound, upon the rents of land, is a fifth of its rent in 1692, and not of the actual rent at the present day.
+
+It may easily be conceived how much this tax must operate to encourage improvements of the land. An estate that has been improved so as to double the rent, does not pay double the original tax; neither does it pay a less tax if it be suffered to fall into neglect and impoverishment; thus, it operates as a penalty upon negligence.
+
+To this fixation of the tax, many writers attribute the high state of the cultivation of the land in England: and doubtless it may have done much to promote improvement. But, what would be thought of a government that should say to a tradesman in a small way of business, "You are trading in a small way upon a small capital, and consequently pay very little in direct taxes. Borrow, and enlarge your capital, extend your dealings, and increase your profits as much as you can, and we will not charge you with any increase of taxes. Nay, further, when your heirs succeed to the business, and have still further extended it, they shall be assessed at precisely the same rate, and shall continue subject to the same taxes only." All this might be a vast encouragement to trade and manufacture; but would there be any equity in such a proceeding? and might they not advance without such assistance? Has not England herself presented the example of a still more rapid improvement in commercial and manufacturing industry, without any such unjust partiality? A land-owner, by attention, economy, and intelligence, improves his annual income to the amount, say of 1000 dollars: if the state claim a fifth of this advance, there will still be a bonus of 800 dollars to stimulate and reward his exertions.
+
+It would be easy to put cases, in which the tax, becoming by its fixation disproportionate to the means of the tax-payers and the condition of the soil, might be productive of as much mischief, as it has done good in other instances: where it would operate to throw out of cultivation a class of land, that, by one cause or other, had become incompetent to pay the same ratio of taxation. We have seen an example of this in Tuscany. There, a census or terrier was made in 1496, wherein the plains and valleys were rated very low, on account of the frequent floods and inundations, which prevented any regular and profitable cultivation; while the uplands, that were then the only cultivated spots, were rated very high. Since then, the torrents and inundations have been confined by drainage and embankment, and the plains reduced to fertility; their produce, being comparatively exempt from tax, came to market cheaper than that of the uplands, which, consequently, were unable to maintain the competition, under the pressure of disproportionate taxation, and have gradually been abandoned and deserted. Whereas, had the tax been adjusted to the change of circumstances, both might have been cultivated together.
+
+In speaking of a tax, peculiar to a particular nation, I have used it merely in illustration of general and universal principles.

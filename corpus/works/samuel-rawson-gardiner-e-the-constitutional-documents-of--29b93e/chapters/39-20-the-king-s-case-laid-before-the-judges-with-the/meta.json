@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
+  "work_title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
+  "chapter_number": 39,
+  "chapter_title": "20.: The King’s Case laid before the Judges, with their Answer.",
+  "chapter_slug": "39-20-the-king-s-case-laid-before-the-judges-with-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f7694c5-1266-550f-a0e3-11524166afda",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 295,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660"
+    }
+  ]
+}

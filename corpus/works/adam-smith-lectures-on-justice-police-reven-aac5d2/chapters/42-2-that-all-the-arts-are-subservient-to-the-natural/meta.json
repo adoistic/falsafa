@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
+  "work_title": "Lectures on Justice, Police, Revenue, and Arms",
+  "chapter_number": 42,
+  "chapter_title": "[§ 2. That all the Arts are subservient to the Natural Wants of Mankind.]",
+  "chapter_slug": "42-2-that-all-the-arts-are-subservient-to-the-natural",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d55d1a95-e04b-5eed-bd60-16d3d0817956",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 389,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+    }
+  ]
+}

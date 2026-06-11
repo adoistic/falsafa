@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 16,
+  "chapter_title": "c) Verhältniss zwischen den ökonomischen und den nicht ökonomischen Gütern.",
+  "chapter_slug": "16-c-verhaltniss-zwischen-den-okonomischen-und-den-ni",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fab6826c-ee14-58ee-a529-e180c4b758dd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1721,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "wordsworth-donisthorpe-individualism-a-system-of-politi-ce6e15",
+  "work_title": "Individualism: A System of Politics",
+  "chapter_number": 11,
+  "chapter_title": "CHAPTER X: land-law reformers",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "961e0243-6b9e-5053-a33e-83cde01884be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8581,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/donisthorpe-individualism-a-system-of-politics"
+    }
+  ]
+}

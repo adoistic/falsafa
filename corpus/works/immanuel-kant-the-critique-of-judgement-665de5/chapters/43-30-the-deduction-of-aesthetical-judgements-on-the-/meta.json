@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 43,
+  "chapter_title": "§ 30.: The Deduction of aesthetical judgements on the objects of nature must not be directed to what we call Sublime in ",
+  "chapter_slug": "43-30-the-deduction-of-aesthetical-judgements-on-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2988c768-90ef-5c0c-b2ad-5df25adfb5f6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 508,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

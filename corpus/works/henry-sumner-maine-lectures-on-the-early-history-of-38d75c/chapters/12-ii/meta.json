@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-lectures-on-the-early-history-of-38d75c",
+  "work_title": "Lectures on the Early History of Institutions",
+  "chapter_number": 12,
+  "chapter_title": "II.",
+  "chapter_slug": "12-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e43f8e15-d608-5705-af76-4e5e669604c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6476,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-lectures-on-the-early-history-of-institutions"
+    }
+  ]
+}

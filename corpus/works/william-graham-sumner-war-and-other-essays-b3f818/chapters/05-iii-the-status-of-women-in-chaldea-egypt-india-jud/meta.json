@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 5,
+  "chapter_title": "III: THE STATUS OF WOMEN IN CHALDEA, EGYPT, INDIA, JUDEA, AND GREECE TO THE TIME OF CHRIST [1909]",
+  "chapter_slug": "05-iii-the-status-of-women-in-chaldea-egypt-india-jud",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "deceb580-2dc6-51b8-bb39-ea8126e86498",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11252,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

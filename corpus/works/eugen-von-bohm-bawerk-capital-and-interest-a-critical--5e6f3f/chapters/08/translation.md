@@ -1,0 +1,93 @@
+---
+work_id: "5e6f3f7f-f894-5fc9-9823-164ea1f1c8aa"
+work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
+work_title: "Capital and Interest: A Critical History of Economical Theory"
+author_name: "Eugen von Böhm-Bawerk"
+chapter_number: 8
+chapter_title: "Book II, Chapter I: The Productive Power of Capital"
+chapter_slug: 08
+variant_id: "f0699491-a0b3-550c-959d-5ce742d12309"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2909
+source_url: "https://oll.libertyfund.org/titles/smart-capital-and-interest-a-critical-history-of-economic-theory"
+translator: Online Library of Liberty edition
+---
+
+Some of the immediate successors of Adam Smith began to explain interest by the Productive Power of capital. J. B. Say led the way in 1803. A year after Lord Lauderdale followed, but independently of Say. The new explanation found acceptance. It was taken up by gradually widening circles of economists, and worked out by them with greater care; in course of which it became divided into several branches marked by considerable divergence. Although attacked in many ways, chiefly from the socialist side, the Productivity theory has managed to hold its own. Indeed, at the present time the majority of such writers as are not entirely opposed to interest, acquiesce in one or other modification of this theory.
+
+The idea that capital produces its own interest, whether true or false, seems at least to be clear and simple. It might be expected, therefore, that the theories built on this fundamental idea would be marked by a peculiar definiteness and transparency in their arguments. In this expectation, however, we should be completely disappointed. Unhappily the most important conceptions connected with the Productivity theories suffer in an unusual degree from indistinctness and ambiguity; and this has been the abundant source of obscurity, mistakes, confusion, and fallacious conclusions of every kind. These occur so frequently that it would be unwise to let the reader meet them without some preparation. Once embarked on a sea of individual statements, it would be impossible to find our reckoning. It seems then necessary to mark out distinctly, in a few introductory remarks, the ground we mean to cover in stating and criticising these theories.
+
+Two things here seem to stand particularly in need of clear statement. First, the meaning, or, more properly, the complex of meanings of the expression Productivity or Productive Power of capital; and second, the nature of the theoretic task assigned by these theories to this productivity.
+
+First, What is meant by saying, Capital is productive?
+
+In its most common and weakest sense the expression may be taken to mean no more than this,—that capital serves towards the production of goods, in opposition to the immediate satisfaction of needs. The predicate "productive," then, would only be applied to capital in the same sense as, in the usual classification of goods, we speak of "productive goods," in opposition to "goods for immediate consumption" (Genussgüter). Indeed the smallest degree of productive effect would warrant the conferring of that predicate, even if the product should not attain to the value of the capital expended in making it. It is clear from the first that a productive power in this sense cannot possibly be the sufficient cause of interest.
+
+The adherents of those theories, then, must ascribe a stronger meaning to the term. Expressly or tacitly they understand it as meaning that, by the aid of capital, more is produced; that capital is the cause of a particular productive surplus result.
+
+But this meaning also is subdivided. The words "to produce more" or "a productive surplus result" may mean one of two things. They may either mean that capital produces more goods or more value, and these are in no way identical. To keep the two as distinct in name as they are in fact, I shall designate the capacity of capital to produce more goods as its "Physical Productivity"; its capacity to produce more value as its "Value Productivity." It is perhaps not unnecessary to say that, at the present stage, I leave it quite an open question whether capital actually possesses such capacities or not. I only mention the different meanings which may be given, and have been given, to the proposition "capital is productive."
+
+Physical productivity manifests itself in an increased quantity of products, or, it may be, in an improved quality of products. We may illustrate it by the well-known example given by Roscher: "Suppose a nation of fisher-folk, with no private ownership in land and no capital, dwelling naked in caves, and living on fish caught by the hand in pools left by the ebbing tide. All the workers here may be supposed equal, and each man catches and eats three fish per day. But now one prudent man limits his consumption to two fish per day for 100 days, lays up in this way a stock of 100 fish, and makes use of this stock to enable him to apply his whole labour-power to the making of a boat and net. By the aid of this capital he catches from the first perhaps thirty fish a day."
+
+Here the Physical Productivity of capital is manifested in the fact that the fisher, by the aid of capital, catches more fish than he would otherwise have caught—thirty instead of three. Or, to put it quite correctly, a number somewhat under thirty. For the thirty fish which are now caught in a day are the result of more than one day's work. To calculate properly, we must add to the labour of catching fish a quota of the labour that was given to the making of boat and net. If, e.g. fifty days of labour have been required to make the boat and net, and the boat and net last for 100 days, then the 3000 fish which are caught in the 100 days appear as the result of 150 days' labour. The surplus of products, then, due to the employment of capital is represented for the whole period by 3000 - (150 × 3) = 3000 - 450 = 2550 fish, and for each single day by 3000/150 - 3 = 17 fish. In this surplus of products is manifested the physical productivity of capital.
+
+Now how would the Value Productivity of capital be manifested? The expression "to produce more value," in its turn, is ambiguous, because the "more" may be measured by various standards. It may mean that, by the aid of capital, an amount of value is produced which is greater than the amount of value that could be produced without the aid of capital. To use our illustration: it may mean that the twenty fish caught in a day's labour by the aid of capital are of more value than the three fish which were got when no capital was employed. But the expression may also mean that, by the aid of capital, an amount of value is produced which is greater than the value of the capital itself; in other words, that the capital gives a productive return greater than its own value, so that there remains a surplus value over and above the value of the capital consumed in the production. To put it in terms of our illustration: the fisher equipped with boat and net in 100 days catches 2700 fish more than he would have caught without boat and net. These 2700 fish, consequently, are shown to be the (gross) return to the employment of capital. And, according to the present reading of the expression, these 2700 fish are of more value than the boat and net themselves; so that after boat and net are worn out there still remains a surplus of value.
+
+Of these two possible meanings those writers who ascribe value productivity to capital have usually the latter in their mind. When, therefore, I use the expression "value productivity" without any qualification, I shall mean by it the capacity of capital to produce a surplus of value over its own value.
+
+Thus for the apparently simple proportion that "capital is productive" we have found no less than four meanings clearly distinguishable from each other. To get a satisfactory conspectus let me place them once more in order.
+
+The proposition may signify four things:—
+
+1. Capital has the capacity of serving towards the production of goods.
+
+2. Capital has the power of serving towards the production of more goods than could be produced without it.
+
+3. Capital has the power of serving towards the production of more value than could be produced without it.
+
+4. Capital has the power of producing more value than it has in itself.
+
+It does not require to be said in so many words that ideas so different, even if they should chance to be called by the same name, should not be identified,—still less substituted for one another in the course of argument. It should be self-evident, e.g. that, if one has proved that, speaking generally, capital has a capacity to serve towards the production of goods, or towards the production of more goods, he is not on that account warranted in holding it as proved that there is a power in capital to produce more value than could have been produced otherwise, or to produce more value than the capital itself has. To substitute the latter conception for the former in the course of argument would evidently have the character of begging the question. However unnecessary this reminder should be, it must be given; because, as we shall see, among the Productivity theorists nothing is more common than the arbitrary confusing of these conceptions.
+
+To come now to the second point, of which at this introductory stage I am very anxious to give a clear statement,—the nature of the task assigned to the productive power of capital by the theories in question.
+
+This task may be very simply described in the words;—the Productivity theories propose to explain interest by the productive power of capital. But in these simple words lie many meanings which deserve more exact consideration.
+
+The subject of explanation is Interest on capital. Since there is no question that contract interest (loan interest) is founded in essential respects on natural interest, and can be easily dealt with in a secondary explanation, if this natural interest first be satisfactorily explained, the subject of explanation may be further limited to Natural Interest on capital.
+
+The facts about natural interest may be shortly described as follows.
+
+Wherever capital is employed in production, experience shows that, in the normal course of things, the return, or share in the return, which the capital creates for its owner, has a greater value than the sum of the objects of capital consumed in obtaining it.
+
+This phenomenon appears both in those comparatively rare cases where capital alone has been concerned in the obtaining of a return,—as, e.g. when new wine, by lying in store, becomes changed into matured and better wine,—and in the much more common cases where capital co-operates with other factors of production, land and labour. For sufficient reasons that do not concern us here, men engaged in economic pursuits are accustomed to divide out the total product into separate shares, although it is made by undivided co-operation. To capital is ascribed one share as its specific return; one share to nature as produce of the ground, produce of mines, etc.; one share, finally, to the labour that co-operates, as product of labour. Now experience shows that that quota of the total product which falls to the share of capital—that is, the gross return to capital—is, as a rule, of more value than the capital expended in its attainment. Hence an excess of value—a "surplus value"—which remains in the hands of the owner of the capital, and constitutes his natural interest.
+
+The theorist, then, who professes to explain interest must explain the emergence of Surplus Value. The problem, more exactly stated, will therefore run thus: Why is the gross return to capital invariably of more value than the portions of capital consumed in its attainment? Or, in other words, Why is there a constant difference in value between the capital expended and its return? To take a step farther.
+
+This difference in value the Productivity theories think to explain, and ought to explain, by the productive power of capital.
+
+By the word "explain" I mean that they must show the productive power of capital to be the entirely sufficient cause of surplus value, and not merely name it as one condition among other unexplained conditions. To show that, without the productive power of capital, there could be no surplus value, does not explain surplus value any more than it would explain land-rent if we showed that, without the fruitfulness of the soil, there could be no land-rent; or than it would explain rain if we showed that water could not fall to the ground without the action of gravity.
+
+If surplus value is to be explained by the productive power of capital, it is necessary to prove or show in capital a productive power of such a kind that it is capable, either by itself or in conjunction with other factors (in which latter case the other factors must equally be included in the explanation), of being the entirely sufficient cause of the existence of surplus value.
+
+It is conceivable that this condition might be fulfilled in any of three ways.
+
+1. If it were proved or made evident that capital possesses in itself a power which directly makes for the creating of value,—a power through which capital is able, as it were, to breathe value like an economic soul into those goods which it assists, physically speaking, to make. This is value productivity in the most literal and emphatic sense that could possibly be given it.
+
+2. If it were proved or made evident that capital by its services helps towards the obtaining of more goods, or more useful goods; and if, at the same time, it was immediately evident that the more goods, or the better goods, must also be of more value than the capital consumed in their production. This is physical productivity with surplus value as a self-explanatory result.
+
+3. If it were proved or shown that capital by its services helps towards the obtaining of more goods, or more useful goods; and if, at the same time, it were expressly proved that the more goods, or the better goods, must also be of more value than the capital consumed in their production, and why they should be of more value. This is physical productivity with surplus value expressly accounted for.
+
+These are, in my opinion, the only modes in which the productive power of capital can be taken as sufficient foundation for surplus value. Any appeal to that productive power outside these three modes can, in the nature of the case, have no explanatory force whatever. If, e.g. appeal is made to the physical productivity of capital, but if it is neither shown to be self-evident, nor expressly proved, that a surplus value accompanies the increased amount of goods, such a productive power would evidently not be an adequate cause of surplus value.
+
+The historical development of the actual productivity theories is not behind the above abstract scheme of possible productivity theories in point of variety. Each of the possible types of explanation has found its representative in economical history. The great internal differences that exist between separate typical developments strongly suggest that, for purposes of statement and criticism, we should arrange the productivity theories in groups. The grouping will be based on our scheme, but will not follow it quite closely. Those productivity theories which follow the first two types have so much in common that they may conveniently be treated together; while, within the third type, we find such important differences that a further division seems to be required.
+
+1. Those productivity theories which claim for capital a direct value-producing power (first type), as well as those which start from the physical productivity of capital, but believe that the phenomenon of surplus value is self-evidently and necessarily bound up with it (second type), agree in this, that they derive surplus value immediately, and without explanatory middle term, from the asserted productive power. They simply state that capital is productive; adding, perhaps, a very superficial description of its productive efficiency, and hastily conclude by placing surplus value to the account of the asserted productive power. I shall group these together under the name of the Naïve Productivity theories. The paucity of argument, which is one of their characteristics, is in many cases such that it is not even clear whether the author belongs to the first or the second type—one more reason for grouping tendencies that merge into one another under one historical consideration.
+
+2. Those theories which take their starting-point in the physical productivity of capital, but do not regard it as self-evident that quantity of products should be bound up with surplus in value, and accordingly consider it necessary to pursue their explanation into the sphere of value, I shall call the Indirect Productivity theories. They are distinguished by the fact that, to the assertion and illustration of the productive power of capital, they add a more or less successful line of argument to prove that this productive power must lead (and why it must lead) to the existence of a surplus value which falls to the capitalist.
+
+3. From these latter, finally, branches off a group of theories which, like the others, connect themselves with physical productivity, but lay the emphasis of their explanation on the independent existence, efficiency, and sacrifice of the uses of capital. These I shall call the Use theories. In the productive power of capital they do certainly see a condition of surplus value, but not the principal cause of its existence. As then they do not altogether merit the name of productivity theories, I prefer to treat them separately, and devote to them a separate chapter.

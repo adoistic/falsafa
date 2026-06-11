@@ -1,0 +1,25 @@
+---
+work_id: "e92145c1-898d-5492-9369-d1418694d92f"
+work_slug: "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145"
+work_title: Letters of Marcus Tullius Cicero
+author_name: Cicero (Marcus Tullius Cicero)
+chapter_number: 37
+chapter_title: To Atticus (at Rome) Astura, 13 June
+chapter_slug: "37-to-atticus-at-rome-astura-13-june"
+variant_id: "f305a004-1345-5741-a87e-6b1d1544db66"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 497
+source_url: "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+translator: Online Library of Liberty edition
+---
+
+Confound Lucius Antonius, if he makes himself troublesome to the Buthrotians! I have drawn out a deposition which shall be signed and sealed whenever you please. As for the money of the Arpinates, if the ædile L. Fadius asks for it, pay him back every farthing. In a previous letter I mentioned to you a sum of 110 sestertia to be paid to Statius. If, then, Fadius applies for the money, I wish it paid to him, and to no one except Fadius. I think that amount was put into my hands, and I have written to Eros to produce it.
+
+I can’t stand the Queen: and the voucher for her promises, Hammonius, knows that I have good cause for saying so. What she promised, indeed, were all things of the learned sort and suitable to my character—such as I could avow even in a public meeting. As for Sara, besides finding him to be an unprincipled rascal, I also found him inclined to give himself airs to me. I only saw him once at my house. And when I asked him politely what I could do for him, he said that he had come in hopes of finding Atticus. The Queen’s insolence, too, when she was living in Cæsar’s trans-Tiberine villa, I cannot recall without a pang. I won’t Edition: current; Page: [180] have anything to do therefore with that lot. They think not so much that I have no spirit, as that I have scarcely any proper pride at all. My leaving Italy is hindered by Eros’s way of doing business. For whereas from the balances struck by him on the 5th of April I ought to be well off, I am obliged to borrow, while the receipts from those paying properties of mine I think have been put aside for building the shrine. But I have charged Tiro to see to all this, whom I am sending to Rome for the express purpose.
+
+I did not wish to add to your existing embarrassments. The steadier the conduct of my son, the more I am vexed at his being hampered. For he never mentioned the subject to me—the first person to whom he should have done so. But he said in a letter to Tiro that he had received nothing since the 1st of April—for that was the end of his financial year. Now I know that your own kind feeling always caused you to be of opinion that he ought to be treated not only with liberality, but with splendour and generosity, and that you also considered that to be due to my position. Wherefore pray see—I would not have troubled you if I could have done it through anyone else—that he has a bill of exchange at Athens for his year’s allowance. Eros will pay you the money. I am sending Tiro on that business. Pray therefore see to it, and write and tell me any idea you may have on the subject.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 64,
+  "chapter_title": "Playing Into the Hands of the Money Sharks.",
+  "chapter_slug": "64-playing-into-the-hands-of-the-money-sharks",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b56c4b97-463a-5ab3-af0b-53c289677e41",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

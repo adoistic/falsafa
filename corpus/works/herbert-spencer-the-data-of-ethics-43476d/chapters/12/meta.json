@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-data-of-ethics-43476d",
+  "work_title": "The Data of Ethics",
+  "chapter_number": 12,
+  "chapter_title": "CHAPTER XI.: EGOISM VERSUS ALTRUISM.",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5af15c08-7d38-5b8b-bdf0-ce4088ec9f06",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4270,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-data-of-ethics-1879"
+    }
+  ]
+}

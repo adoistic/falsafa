@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 43,
+  "chapter_title": "WAR WITH THE BANK CONTINUED.",
+  "chapter_slug": "43-war-with-the-bank-continued",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2236ca8b-a1fd-59a7-b47e-e904d3d8ba34",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 208,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

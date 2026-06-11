@@ -1,0 +1,23 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 197
+chapter_title: § 4.
+chapter_slug: "197-4"
+variant_id: "715fcc52-fb9c-59e5-9088-a072e0f3658e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 366
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+But not only do we expend so much to gain so little, we absolutely expend it for nothing; nay, indeed, in some cases to achieve a loss. All profitable trade with colonies will come without the outlay of a penny for colonial administration—must flow to us naturally; and whatever trade will not flow to us naturally, is not profitable, but the reverse. If a given settlement deals solely with us, it does so from one of two causes: either we make the articles its inhabitants consume at a lower rate than any other nation, or we oblige its inhabitants to buy those articles from us, though they might obtain them for less elsewhere. Manifestly, if we can undersell other producers, we should still exclusively supply its markets, were the settlement independent. If we cannot undersell them, it is equally certain that we are indirectly injuring ourselves and the settlers too; for, as M’Culloch says:—“Each country has some natural or acquired capabilities that enable her to carry on certain branches of industry more advantageously than any one else. But the fact of a country being undersold in the markets of her colonies, shows conclusively that, instead of having any superiority, she labours under a disadvantage, as compared with others, in the production of the peculiar articles in demand in them. And hence, in providing a forced market in the colonies for articles that we should not otherwise be able to dispose of, we really engage a portion of the capital and labour of the country in a less advantageous channel than that into which it would naturally have flowed.” And if to the injury we do ourselves by manufacturing goods which we could more economically buy, is added the injury we suffer in pacifying the colonists, by purchasing from them commodities obtainable on better terms elsewhere, we have before us the twofold loss which these much-coveted monopolies entail.
+
+Thus are we again taught how worthy of all reverence are the injunctions of equity, and how universal is their applicability. Just that commercial intercourse with colonies which may be had without breaking these injunctions, brings gain; whilst just that commercial intercourse which cannot be so had, brings loss.

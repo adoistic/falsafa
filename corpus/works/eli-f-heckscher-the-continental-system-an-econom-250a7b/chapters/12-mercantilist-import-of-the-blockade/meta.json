@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 12,
+  "chapter_title": "MERCANTILIST IMPORT OF THE BLOCKADE",
+  "chapter_slug": "12-mercantilist-import-of-the-blockade",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8931149d-65fa-5d5c-a3cf-d89e8e4186ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 242,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 205,
+  "chapter_title": "VII.: Later History of Forests and Forest Laws.",
+  "chapter_slug": "205-vii-later-history-of-forests-and-forest-laws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77a2ac6c-f490-5c1c-a212-698ead7ffaa1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 233,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

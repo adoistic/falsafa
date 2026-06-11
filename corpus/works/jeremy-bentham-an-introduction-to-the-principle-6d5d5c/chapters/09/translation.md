@@ -1,0 +1,63 @@
+---
+work_id: "6d5d5cb5-aa85-5f1b-a604-0c5924771df5"
+work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
+work_title: An Introduction to the Principles of Morals and Legislation
+author_name: Jeremy Bentham
+chapter_number: 9
+chapter_title: "Chapter VIII: OF INTENTIONALITY"
+chapter_slug: 09
+variant_id: "a6fb850e-060c-575e-8d0b-b0a645aa02f2"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2006
+source_url: "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+translator: Online Library of Liberty edition
+---
+
+I. So much with regard to the two first of the articles upon which the evil tendency of an action may depend: viz. the act itself, and the general assemblage of the circumstances with which it may have been accompanied. We come now to consider the ways in which the particular circumstance of intention may be concerned in it.
+
+II. First, then, the intention or will may regard either of two objects: 1. The act itself: or, 2. Its consequences. Of these objects, that which the intention regards may be styled intentional. If it regards the act, then the act may be said to be intentional: if the consequences, so also then may the consequences. If it regards both the act and consequences, the whole action may be said to be intentional. Whichever of those articles is not the object of the intention, may of course be said to be unintentional.
+
+III. The act may very easily be intentional without the consequences; and often is so. Thus, you may intend to touch a man without intending to hurt him: and yet, as the consequences turn out, you may chance to hurt him.
+
+IV. The consequences of an act may also be intentional, without the act's being intentional throughout; that is, without its being intentional in every stage of it: but this is not so frequent a case as the former. You intend to hurt a man, suppose, by running against him, and pushing him down: and you run towards him accordingly: but a second man coming in on a sudden between you and the first man, before you can stop yourself, you run against the second man, and by him push down the first.
+
+V. But the consequences of an act cannot be intentional, without the act's being itself intentional in at least the first stage. If the act be not intentional in the first stage, it is no act of yours: there is accordingly no intention on your part to produce the consequences: that is to say, the individual consequences. All there can have been on your part is a distant intention to produce other consequences, of the same nature, by some act of yours, at a future time: or else, without any intention, a bare wish to see such event take place. The second man, suppose, runs of his own accord against the first, and pushes him down. You had intentions of doing a thing of the same nature: viz. To run against him, and push him down yourself; but you had done nothing in pursuance of those intentions: the individual consequences therefore of the act, which the second man performed in pushing down the first, cannot be said to have been on your part intentional.
+
+VI. Second. A consequence, when it is intentional, may either be directly so, or only obliquely. It may be said to be directly or lineally intentional, when the prospect of producing it constituted one of the links in the chain of causes by which the person was determined to do the act. It may be said to be obliquely or collaterally intentional, when, although the consequence was in contemplation, and appeared likely to ensue in case of the act's being performed, yet the prospect of producing such consequence did not constitute a link in the aforesaid chain.
+
+VII. Third. An incident, which is directly intentional, may either be ultimately so, or only mediately. It may be said to be ultimately intentional, when it stands last of all exterior events in the aforesaid chain of motives; insomuch that the prospect of the production of such incident, could there be a certainty of its taking place, would be sufficient to determine the will, without the prospect of its producing any other. It may be said to be mediately intentional, and no more, when there is some other incident, the prospect of producing which forms a subsequent link in the same chain: insomuch that the prospect of producing the former would not have operated as a motive, but for the tendency which it seemed to have towards the production of the latter.
+
+VIII. Fourth. When an incident is directly intentional, it may either be exclusively so, or inexclusively. It may be said to be exclusively intentional, when no other but that very individual incident would have answered the purpose, insomuch that no other incident had any share in determining the will to the act in question. It may be said to have been inexclusively intentional, when there was some other incident, the prospect of which was acting upon the will at the same time.
+
+IX. Fifth. When an incident is inexclusively intentional, it may be either conjunctively so, disjunctively, or indiscriminately. It may be said to be conjunctively intentional with regard to such other incident, when the intention is to produce both: disjunctively, when the intention is to produce either the one or the other indifferently, but not both: indiscriminately, when the intention is indifferently to produce either the one or the other, or both, as it may happen.
+
+X. Sixth. When two incidents are disjunctively intentional, they may be so with or without preference. They may be said to be so with preference, when the intention is, that one of them in particular should happen rather than the other: without preference, when the intention is equally fulfilled, whichever of them happens.
+
+XI. One example will make all this clear. William II. king of England, being out a stag-hunting, received from Sir Walter Tyrrel a wound, of which he died. Let us take this case, and diversify it with a variety of suppositions, correspondent to the distinctions just laid down.
+
+1. First then, Tyrrel did not so much as entertain a thought of the king's death; or, if he did, looked upon it as an event of which there was no danger. In either of these cases the incident of his killing the king was altogether unintentional.
+
+2. He saw a stag running that way, and he saw the king riding that way at the same time: what he aimed at was to kill the stag: he did not wish to kill the king: at the same time he saw, that if he shot, it was as likely he should kill the king as the stag: yet for all that he shot, and killed the king accordingly. In this case the incident of his killing the king was intentional, but obliquely so.
+
+3. He killed the king on account of the hatred he bore him, and for no other reason than the pleasure of destroying him. In this case the incident of the king's death was not only directly but ultimately intentional.
+
+4. He killed the king, intending fully so to do; not for any hatred he bore him, but for the sake of plundering him when dead. In this case the incident of the king's death was directly intentional, but not ultimately: it was mediately intentional.
+
+5. He intended neither more nor less than to kill the king. He had no other aim nor wish. In this case it was exclusively as well as directly intentional: exclusively, to wit, with regard to every other material incident.
+
+6. Sir Walter shot the king in the right leg, as he was plucking a thorn out of it with his left hand. His intention was, by shooting the arrow into his leg through his hand, to cripple him in both those limbs at the same time. In this case the incident of the king's being shot in the leg was intentional: and that conjunctively with another which did not happen; viz. his being shot in the hand.
+
+7. The intention of Tyrrel was to shoot the king either in the hand or in the leg, but not in both; and rather in the hand than in the leg. In this case the intention of shooting in the hand was disjunctively concurrent, with regard to the other incident, and that with preference.
+
+8. His intention was to shoot the king either in the leg or the hand, whichever might happen: but not in both. In this case the intention was inexclusive, but disjunctively so: yet that, however, without preference.
+
+9. His intention was to shoot the king either in the leg or the hand, or in both, as it might happen. In this case the intention was indiscriminately concurrent, with respect to the two incidents.
+
+XII. It is to be observed, that an act may be unintentional in any stage or stages of it, though intentional in the preceding: and, on the other hand, it may be intentional in any stage or stages of it, and yet unintentional in the succeeding. But whether it be intentional or no in any preceding stage, is immaterial, with respect to the consequences, so it be unintentional in the last. The only point, with respect to which it is material, is the proof. The more stages the act is unintentional in, the more apparent it will commonly be, that it was unintentional with respect to the last. If a man, intending to strike you on the cheek, strikes you in the eye, and puts it out, it will probably be difficult for him to prove that it was not his intention to strike you in the eye. It will probably be easier, if his intention was really not to strike you, or even not to strike at all.
+
+XIII. It is frequent to hear men speak of a good intention, of a bad intention; of the goodness and badness of a man's intention: a circumstance on which great stress is generally laid. It is indeed of no small importance, when properly understood: but the import of it is to the last degree ambiguous and obscure. Strictly speaking, nothing can be said to be good or bad, but either in itself; which is the case only with pain or pleasure: or on account of its effects; which the case only with things that are the causes or preventives of pain and pleasure. But in a figurative and less proper way of speech, a thing may also be styled good or bad, in consideration of its cause. Now the effects of an intention to do such or such an act, are the same objects which we have been speaking of under the appellation of its consequences: and the causes of intention are called motives. A man's intention then on any occasion may be styled good or bad, with reference either to the consequences of the act, or with reference to his motives. If it be deemed good or bad in any sense, it must be either because it is deemed to be productive of good or of bad consequences, or because it is deemed to originate from a good or from a bad motive. But the goodness or badness of the consequences depend upon the circumstances. Now the circumstances are no objects of the intention. A man intends the act: and by his intention produces the act: but as to the circumstances, he does not intend them: he does not, inasmuch as they are circumstances of it, produce them. If by accident there be a few which he has been instrumental in producing, it has been by former intentions, directed to former acts, productive of those circumstances as the consequences: at the time in question he takes them as he finds them. Acts, with their consequences, are objects of the will as well as of the understanding: circumstances, as such, are objects of the understanding only. All he can do with these, as such, is to know or not to know them: in other words, to be conscious of them, or not conscious. To the title of Consciousness belongs what is to be said of the goodness or badness of a man's intention, as resulting from the consequences of the act: and to the head of Motives, what is to be said of his intention, as resulting from the motive.

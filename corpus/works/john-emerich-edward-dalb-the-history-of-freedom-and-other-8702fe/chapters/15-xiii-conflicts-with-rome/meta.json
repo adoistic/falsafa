@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 15,
+  "chapter_title": "XIII: CONFLICTS WITH ROME",
+  "chapter_slug": "15-xiii-conflicts-with-rome",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3e3e4d2-b840-50b0-9440-41ecba537847",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10722,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

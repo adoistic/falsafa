@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-higgs-the-physiocrats-608e7d",
+  "work_title": "The Physiocrats",
+  "chapter_number": 2,
+  "chapter_title": "I",
+  "chapter_slug": "02-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "530920e6-2b02-5ca4-b47c-c415348cc9cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5359,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higgs-the-physiocrats-six-lectures-on-the-french-economistes-of-the-18th-century"
+    }
+  ]
+}

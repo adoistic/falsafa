@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-data-of-ethics-43476d",
+  "work_title": "The Data of Ethics",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER IX.: CRITICISMS AND EXPLANATIONS.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba9d3627-c07f-5ddd-bea9-8497b46bfee6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7689,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-data-of-ethics-1879"
+    }
+  ]
+}

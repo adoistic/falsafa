@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 47,
+  "chapter_title": "CHARACTER OF THE RIGHT HONOURABLE GEORGE CANNING.",
+  "chapter_slug": "47-character-of-the-right-honourable-george-canning",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f2a8a1cc-d4a5-5de7-b7ab-c311403a4975",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3105,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 53,
+  "chapter_title": "XV. A Criticism of the Purchasing-power Parity Theory",
+  "chapter_slug": "53-xv-a-criticism-of-the-purchasing-power-parity-theo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9061e4e-3520-5d86-85fe-46569265baa3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2496,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

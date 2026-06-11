@@ -1,0 +1,27 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 46
+chapter_title: "CHAPTER VI: the value of capital and the interest on capital (continued). v.—the valuation of fixed capital"
+chapter_slug: 46
+variant_id: "f6d94c5a-94f2-53f4-ba1d-52abfb0a65ff"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 536
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+Up to this point we have disregarded the circumstance that many capital—all those called “fixed capitals”—do not Edition: current; Page: [152] exhaust themselves in yielding one single return, hut co-operate in several processes of production, and yield several returns before they are finally used up. We were justified in hitherto neglecting this circumstance, as it is of no importance to the principle of the valuation of capital which we had first to establish. Now, however, that the principle has been established, we must go on to this next question. We shall find that the circumstance alluded to does not essentially alter matters, although it certainly renders them much more complicated.
+
+In the case of fixed capital, instead of one single future return there are several returns, and the present value of these several returns must be determined by discounting. If a machine remains capable of work over ten years, the services of all the ten years which are to be imputed to it must be discounted and added up, at their present value, in order to obtain the capital value of the machine. It need scarcely be said that every later service must be estimated at so much less in present value, as the discount must be relative to the terminal point. Further complications are caused by the fact that repairs, and reconstructions, and extensive replacements, frequently take place in fixed capital during the period in which it is wearing out. The outlay which this occasions must be discounted—taking into account of course the period of time at which this outlay may be anticipated. Still further complications, finally, arise from the uncertainty—which increases as the period of wear and tear lengthens —whether the returns expected will actually be received at all. And this also necessitates peculiar deductions, which will be most simply made where people can insure against the danger.
+
+In the case of such fixed capitals as are consumed exceedingly slowly, and, consequently, yield exceptionally many returns, the process of capitalisation frequently takes the place of discounting. Before speaking of this, however, it will be necessary to touch at least upon another somewhat difficult question.
+
+This is the method of calculating the individual percentages of gross return assignable respectively to interest and to wear and tear. If a machine remains serviceable for five years, Edition: current; Page: [153] and yields every year £ 1000, this yearly income must be divided out between interest and wear and tear (Amortisation) in accordance with a certain law. In order to find this law, it is best to represent the individual rates of return as annuities. The first instalment must yield interest for the first year upon the total capital value, all return beyond that is repayment of capital; the second instalment has to yield interest on the capital value remaining after deduction of this repayment, and the residue, which must now be a larger one, serves toward further repayment; and so on, until finally the entire capital is replaced, and interest obtained upon all the portions of capital according to the period of their employment. The reason for this kind of calculation lies, in the last resort, in the law of the uniform calculation of the interest rate.

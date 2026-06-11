@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 22,
+  "chapter_title": "Proportion of Catholics and Protestants in Ireland.",
+  "chapter_slug": "22-proportion-of-catholics-and-protestants-in-ireland",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c034c45f-2655-53c0-95c7-45627385d3de",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1675,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

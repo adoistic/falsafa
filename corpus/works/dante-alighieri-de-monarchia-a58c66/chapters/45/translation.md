@@ -1,0 +1,27 @@
+---
+work_id: "a58c66b4-7eaf-5b11-bc82-746fb1fc7cc2"
+work_slug: "dante-alighieri-de-monarchia-a58c66"
+work_title: De Monarchia
+author_name: Dante Alighieri
+chapter_number: 45
+chapter_title: "CHAPTER XIII: The authority of the Church is not the source of Imperial authority."
+chapter_slug: 45
+variant_id: "a6666c73-cb4d-5c63-a251-c1da10aee53a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 628
+source_url: "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+translator: Online Library of Liberty edition
+---
+
+1. Now that we have stated and rejected the errors on which those chiefly rely who declare that the authority of the Roman Prince is dependent on the Roman Pontiff, we must return and demonstrate the truth of that third question, which we propounded for discussion at the beginning. The truth will be evident enough if it can be shown, under the principle of inquiry agreed upon, that Imperial authority derives immediately from the summit of all being, which is God. And this will be shown, whether we prove that Imperial authority does not derive from that of the Church (for the dispute concerns no other authority), or whether we simply prove that it derives immediately from God.
+
+2. That ecclesiastical authority is not the source of Imperial authority is thus verified. A Edition: current; Page: [188] thing non-existent or devoid of active force cannot be the cause of active force in a thing possessing that quality in full measure. But before the Church existed, or while it lacked power to act, the Empire had active force in full measure. Hence the Church is the source neither of acting power nor of authority in the Empire, where power to act and authority are identical. Let A be the Church, B the Empire, and C the power or authority of the Empire. If, A being non-existent, C is in B, the cause of C’s relation to B cannot be A, since it is impossible that an effect should exist prior to its cause. Moreover, if, A being inoperative, C is in B, the cause of C’s relation to B cannot be A, since it is indispensable for the production of effect that the cause should be in operation previously, especially the efficient cause which we are considering here.
+
+3. The major premise of this demonstration is intelligible from its terms; the minor is confirmed by Christ and the Church. Christ attests it, as we said before, in His birth and death. The Church attests it in Paul’s declaration to Festus in the Acts of the Apostles: “I stand at Caesar’s judgment seat, where I ought to be judged;” and in the admonition of God’s Edition: current; Page: [189] angel to Paul a little later: “Fear not, Paul; thou must be brought before Caesar;” and again still later in Paul’s words to the Jews dwelling in Italy: “And when the Jews spake against it, I was constrained to appeal unto Caesar; not that I had aught to accuse my nation of,” but “that I might deliver my soul from death.” If Caesar had not already possessed the right to judge temporal matters, Christ would not have implied that he did, the angel would not have uttered such words, nor would he who said, “I desire to depart and be with Christ,” have appealed to an unqualified judge.
+
+4. And if Constantine had no authority over the resources of the Church, that which he transferred to her from the Empire could not have been so transferred with Right, and the Church would be utilizing an unrighteous gift. But God desires that offerings be spotless, according to the text of Leviticus: “No meat offering, which ye shall bring unto the Lord, shall be made with leaven;” and this command, though it seem to concern givers, refers nevertheless to recipients. For it is folly to believe that God desires that to be accepted which He forbids to be given. Indeed, in the same book is Edition: current; Page: [190] the command to the Levites: “Contaminate not your souls, nor touch anything of theirs, lest ye be unclean.” But it is highly improper to say that the Church uses unrighteously the patrimony deputed to her, therefore what followed from such a saying is false.

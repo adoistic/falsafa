@@ -1,0 +1,31 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 144
+chapter_title: CHAPTER XXIII
+chapter_slug: 144
+variant_id: "7f3cd0e4-1292-586a-b07b-3439548eb5e5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 962
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+of the present state of the english nation, or of all britain. [ad 725-731.]
+
+In the year of our Lord’s incarnation 725, being the seventh year of Osric, king of the Northumbrians, who succeeded Coenred, Wictred, the son of Egbert, king of Kent, died on the 23rd of April, and left his three sons, Ethelbert, Eadbert, and Alric, heirs of that kingdom, which he had governed thirty-four years and a half. The next year died Tobias, bishop of the church of Rochester, a most learned man, as has been said before; for he was disciple to those teachers of blessed memory, Theodore, the archbishop, and Abbat Hadrian, by which means, as we have before observed, besides his erudition in ecclesiastical and general literature, he learned both the Greek and Latin tongues to such perfection, that they were as well known and familiar to him as his native language. He was buried in the porch of St. Paul the Apostle, which he had built within the church of St. Andrew for his own place of burial. After him Aldwulf took upon him the office of bishop, having been consecrated by Archbishop Bertwald.
+
+In the year of our Lord’s incarnation 729, two comets appeared about the sun, to the great terror of the beholders. One of them went before the rising sun in the morning, the other followed him when he set at night, as it were presaging much destruction to the east and west; one was the forerunner of the day, and the other of the night, to signify that mortals were threatened with calamities at both times. They carried their flaming tails towards the north, as it were ready to set the world on fire. They appeared in January, and continued nearly a fortnight. At which time a dreadful plague of Saracens ravaged France with miserable slaughter; but they not long after in that country received the punishment due to their wickedness. In which year the holy man of God, Egbert, departed to our Lord, as has been said above, on Easter Edition: current; Page: [279] day; and immediately after Easter, that is, on the 9th of May, Osric, king of the Northumbrians, departed this life, after he had reigned eleven years, and appointed Ceolwulf, brother to Coenred, who had reigned before him, his successor; the beginning and progress of whose reign were so filled with commotions, that it cannot yet be known what is to be said concerning them, or what end they will have.
+
+In the year of our Lord’s incarnation 731, Archbishop Bertwald died of old age, on the 9th of January, having held his see thirty-seven years, six months and fourteen days. In his stead, the same year, Tatwine, of the province of the Mercians, was made archbishop, having been a priest in the monastery called Briudun. He was consecrated in the city of Canterbury by the venerable men, Daniel, bishop of Winchester, Ingwald of London, Aldwin of Lichfield, and Aldwulf of Rochester, on Sunday, the 10th of June, being a man renowned for religion and wisdom, and notably learned in Sacred Writ.
+
+Thus at present, the bishops Tatwine and Aldwulf preside in the churches of Kent; Ingwald in the province of the East Saxons. In the province of the East Angles, Aldbert and Hadulac are bishops; in the province of the West Saxons, Daniel and Forthere are bishops; in the province of the Mercians, Aldwin. Among those people who live beyond the river Severn to the westward, Walstod is bishop; in the province of the Wiccians, Wilfrid; in the province of the Lindisfarnes, Cynebert presides: the bishopric of the Isle of Wight belongs to Daniel, bishop of Winchester. The province of the South Saxons, having now continued some years without a bishop, receives the episcopal ministry from the prelate of the West Saxons. All these provinces, and the others southward to the bank of the river Humber, with their kings, are subject to King Ethelbald.
+
+But in the province of the Northumbrians, where King Ceolwulf reigns, four bishops now preside: Wilfrid in the church of York, Ethelwald in that of Lindisfarne, Acca in that of Hagulstad, Pechthelm in that which is called the White House, which, from the increased number of believers, has lately become an episcopal see, and has him for its first prelate. The Picts also at this time are at peace with the English nation, and rejoice in being united in peace and truth with the whole Catholic Church. The Scots Edition: current; Page: [280] that inhabit Britain, satisfied with their own territories, meditate no hostilities against the nation of the English. The Britons, though they, for the most part, through innate hatred, are adverse to the English nation, and wrongfully, and from wicked custom, oppose the appointed Easter of the whole Catholic Church; yet, from both the Divine and human power withstanding them, can in no way prevail as they desire; for though in part they are their own masters, yet elsewhere they are also brought under subjection to the English. Such being the peaceable and calm disposition of the times, many of the Northumbrians, as well of the nobility as private persons, laying aside their weapons, rather incline to dedicate both themselves and their children to the tonsure and monastic vows, than to study martial discipline. What will be the end hereof, the next age will show. This is for the present the state of all Britain; in the year since the coming of the English into Britain about 285, but in the 731st year of the incarnation of our Lord, in whose reign may the earth ever rejoice; may Britain exult in the profession of his faith; and may many islands be glad, and sing praises in honour of his holiness!

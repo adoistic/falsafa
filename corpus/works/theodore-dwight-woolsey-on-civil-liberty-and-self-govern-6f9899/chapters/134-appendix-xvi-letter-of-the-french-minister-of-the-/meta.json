@@ -1,0 +1,26 @@
+{
+  "work_slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
+  "work_title": "On Civil Liberty and Self-Government",
+  "chapter_number": 134,
+  "chapter_title": "APPENDIX XVI.: letter of the french minister of the interior, mr. de morny, addressed to the prefects of the deparments ",
+  "chapter_slug": "134-appendix-xvi-letter-of-the-french-minister-of-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5529f2f4-eee8-5c4a-857c-d4f9efe9169d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 57573,
+      "paragraph_count": 735,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/woolsey-on-civil-liberty-and-self-government"
+    }
+  ]
+}

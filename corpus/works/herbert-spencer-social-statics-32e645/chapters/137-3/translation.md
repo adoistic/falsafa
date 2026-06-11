@@ -1,0 +1,27 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 137
+chapter_title: § 3.
+chapter_slug: "137-3"
+variant_id: "debc9e9b-ecd2-5b8e-b699-a4f31441e64e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 714
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+Against the position that to ensure justice to the nation at large all its members must be endowed with like powers, it is indeed urged that, as the working classes constitute the majority, to endow all with like powers, is practically to make the working classes supreme. And it will probably be added that by virtue of this same self-seeking tendency just insisted upon, legislation in their hands would inevitably be twisted to serve the ends of labour regardless of the claims of property.
+
+Of course those who raise this objection do not wish to insinuate that the people would use their power after the fashion of brigands. Although in the old Norman day, when the sacking and burning of towns by neighbouring nobles was not unfrequent, a change to popular rule involved retaliatory attacks upon the strongholds of these feudal buccaneers, yet we may fairly conclude that the increased social morality which deters modern aristocracies from direct robbery of the people, would also prevent the people from inflicting any direct injury upon Edition: current; Page: [221] them. The danger this objection points to—the only danger to be rationally feared—is that the same insensible bias by which our present rulers are swayed, would lead the working classes to sacrifice the rights of the rich on the altar of their own desires—would give rise to a code of laws favouring poverty at the expense of wealth.
+
+Even were there no answer to this, the evidence would still preponderate in favour of popular enfranchisement. For what at the utmost does the argument amount to? Just this:—that the few must continue to trespass against the many, lest the many should trespass against the few. The well fed, the luxuriously housed and clothed, the placemen and pensioners, may perhaps think it better that the masses should suffer for their benefit (as they do) than that they should suffer for the benefit of the masses (as they might). But would a just arbitrator say this? Would he not say, on the contrary, that even if their respective members were blessed with equal advantages, the minority ought to be sacrificed rather than the majority; but that as the most numerous are at the same time the least favoured, their claim becomes still more imperative. Surely, if one of the two parties must submit to injustice, it ought to be the rich hundreds, and not the poor thousands.
+
+The foregoing objection, however, is not so sound as it looks. It is one thing for a comparatively small class to unite in the pursuit of a common advantage, and it is another thing for a dispersed multitude to do so. Some thousands of individuals having identical interests, moving together in the same circle, brought up with like prejudices, educated in one creed, bound together by family ties, and meeting annually in the same city, may easily enough combine for the obtainment of a desired object. But for half a dozen millions of working men, distributed over a vast area, engaged in various occupations, belonging to different religious sects, and divided into two totally distinct bodies, the one imbued with the feelings and theories of town life, the other retaining all those prejudices of the past which yet linger in the country—for these to act with unanimity Edition: current; Page: [222] is scarcely possible. Their mass is too great, too incongruous, too scattered, for effective combination. We have current proof of this. The Chartist agitation shows us men, who, during the last twenty years, have gradually imbibed ideas of political freedom—men who have been irritated by a sense of injustice—men who have been slighted by their fellow-citizens—men who have been suffering daily privations—men, therefore, who have had an accumulated stimulus to unite in obtaining what they feel themselves entitled to, and what they see reason to believe would greatly benefit them. And how have they prospered in the attempt to carry their point? Disputes, divisions, apathy, adverse influences of every kind, have joined to produce repeated failures. Now if, with the aid of that enthusiasm which a righteous cause always inspires, the masses have not attained to that unity of action needful for the accomplishment of their object, much less would they be able successfully to unite were that object a dishonest one.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 51,
+  "chapter_title": "Edition: Hobbes1651; Page: [352]CHAP. XLV.: Of DÆmonology, and other Reliques of the Religion of the Gentiles.",
+  "chapter_slug": "51-edition-hobbes1651-page-352-chap-xlv-of-daemonolog",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea8aa9a9-4094-58a6-bfbb-d30dce6de0cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8125,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

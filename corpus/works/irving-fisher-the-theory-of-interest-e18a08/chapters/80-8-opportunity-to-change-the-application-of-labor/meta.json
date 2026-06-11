@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 80,
+  "chapter_title": "§8. Opportunity to Change the Application of Labor",
+  "chapter_slug": "80-8-opportunity-to-change-the-application-of-labor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5053d409-0721-5bfa-b275-47c998cab6bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 533,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

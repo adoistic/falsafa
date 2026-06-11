@@ -1,0 +1,37 @@
+---
+work_id: "afdce7f6-a8d3-5cc6-a44b-fa0748656c12"
+work_slug: "william-graham-sumner-what-social-classes-owe-to-each--afdce7"
+work_title: What Social Classes Owe to Each Other
+author_name: William Graham Sumner
+chapter_number: 1
+chapter_title: INTRODUCTION.
+chapter_slug: "01-introduction"
+variant_id: "d919f716-8058-5024-a32a-50cc2b0535f9"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1192
+source_url: "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+translator: Online Library of Liberty edition
+---
+
+We are told every day that great social problems stand before us and demand a solution, and we are assailed by oracles, threats, and warnings in reference to those problems. There is a school of writers who are playing quite a rôle as the heralds of the coming duty and the coming woe. They assume to speak for a large, but vague and undefined, constituency, who set the task, exact a fulfilment, and threaten punishment for default. The task or problem is not specifically defined. Part of the task which devolves on those who are subject to the duty is to define the problem. They are told only that something is the matter: that it behooves them to find out what it is, and how to correct it, and then to Edition: current; Page: [8] work out the cure. All this is more or less truculently set forth.
+
+After reading and listening to a great deal of this sort of assertion I find that the question forms itself with more and more distinctness in my mind: Who are those who assume to put hard questions to other people and to demand a solution of them? How did they acquire the right to demand that others should solve their world-problems for them? Who are they who are held to consider and solve all questions, and how did they fall under this duty?
+
+So far as I can find out what the classes are who are respectively endowed with the rights and duties of posing and solving social problems, they are as follows: Those who are bound to solve the problems are the rich, comfortable, prosperous, virtuous, respectable, educated, and healthy; those whose right it is to set the problems are those who have been less fortunate or less successful in the struggle for existence. The problem itself seems to be, How shall the latter be made as comfortable as the former? To solve this problem, and make us all equally well off, is assumed to be the duty of the former class; the penalty, if Edition: current; Page: [9] they fail of this, is to be bloodshed and destruction. If they cannot make everybody else as well off as themselves, they are to be brought down to the same misery as others.
+
+During the last ten years I have read a great many books and articles, especially by German writers, in which an attempt has been made to set up “the State” as an entity having conscience, power, and will sublimated above human limitations, and as constituting a tutelary genius over us all. I have never been able to find in history or experience anything to fit this concept. I once lived in Germany for two years, but I certainly saw nothing of it there then. Whether the State which Bismarck is moulding will fit the notion is at best a matter of faith and hope. My notion of the State has dwindled with growing experience of life. As an abstraction, the State is to me only All-of-us. In practice—that is, when it exercises will or adopts a line of action—it is only a little group of men chosen in a very hap-hazard way by the majority of us to perform certain services for all of us. The majority do not go about their selection very rationally, and they are almost always disappointed by the results of their own operation. Edition: current; Page: [10] Hence “the State,” instead of offering resources of wisdom, right reason, and pure moral sense beyond what the average of us possess, generally offers much less of all those things. Furthermore, it often turns out in practice that “the State” is not even the known and accredited servants of the State, but, as has been well said, is only some obscure clerk, hidden in the recesses of a Government bureau, into whose power the chance has fallen for the moment to pull one of the stops which control the Government machine. In former days it often happened that “the State” was a barber, a fiddler, or a bad woman. In our day it often happens that “the State” is a little functionary on whom a big functionary is forced to depend.
+
+I cannot see the sense of spending time to read and write observations, such as I find in the writings of many men of great attainments and of great influence, of which the following might be a general type: If the statesmen could attain to the requisite knowledge and wisdom, it is conceivable that the State might perform important regulative functions in the production and distribution of wealth, against which no positive and sweeping theoretical Edition: current; Page: [11] objection could be made from the side of economic science; but statesmen never can acquire the requisite knowledge and wisdom.—To me this seems a mere waste of words. The inadequacy of the State to regulative tasks is agreed upon, as a matter of fact, by all. Why, then, bring State regulation into the discussion simply in order to throw it out again? The whole subject ought to be discussed and settled aside from the hypothesis of State regulation.
+
+The little group of public servants who, as I have said, constitute the State, when the State determines on anything, could not do much for themselves or anybody else by their own force. If they do anything, they must dispose of men, as in an army, or of capital, as in a treasury. But the army, or police, or posse comitatus, is more or less All-of-us, and the capital in the treasury is the product of the labor and saving of All-of-us. Therefore, when the State means power-to-do it means All-of-us, as brute force or as industrial force.
+
+If anybody is to benefit from the action of the State it must be Some-of-us. If, then, the question is raised, What ought the State to do for labor, for trade, for manufactures, for Edition: current; Page: [12] the poor, for the learned professions? etc., etc.—that is, for a class or an interest—it is really the question, What ought All-of-us to do for Some-of-us? But Some-of-us are included in All-of-us and, so far as they get the benefit of their own efforts, it is the same as if they worked for themselves, and they may be cancelled out of All-of-us. Then the question which remains is, What ought Some-of-us to do for Others-of-us? or, What do social classes owe to each other?
+
+I now propose to try to find out whether there is any class in society which lies under the duty and burden of fighting the battles of life for any other class, or of solving social problems for the satisfaction of any other class; also, whether there is any class which has the right to formulate demands on “society”—that is, on other classes; also, whether there is anything but a fallacy and a superstition in the notion that “the State” owes anything to anybody except peace, order, and the guarantees of rights.
+
+I have in view, throughout the discussion, the economic, social, and political circumstances which exist in the United States.

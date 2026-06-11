@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 18,
+  "chapter_title": "XV: THE WAR OF THE SPANISH SUCCESSION",
+  "chapter_slug": "18-xv-the-war-of-the-spanish-succession",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c3b9af6-623d-5a5b-856c-254614fed7b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5218,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

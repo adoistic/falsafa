@@ -1,0 +1,25 @@
+---
+work_id: "0d91e4fa-7943-5934-852f-9f73834988c6"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
+work_title: A Select Collection of Scarce and Valuable Tracts on Money
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 150
+chapter_title: Purchasing bullion at an advanced rate for coining, a very weak and insignificant measure.
+chapter_slug: "150-purchasing-bullion-at-an-advanced-rate-for-coining"
+variant_id: "60260a6d-4b3d-5e60-b6e0-e3a8f0df5783"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 435
+source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+translator: Online Library of Liberty edition
+---
+
+28. Besides debasing the standard, another expedient Edition: current; Page: [477] hath been hit upon for feeding the mint; and that is, the purchasing of bullion at an advanced price for coining, or the giving more per ounce for the bullion, than it would be afterwards worth in coin. But although this measure is very harmless, as to any consequence attending it, excepting to those immediately concerned; yet it cannot be reckoned a very wise one. For, whatever be the cause that prevents bullion from coming into the mint; whilst that cause subsists, and coining will not remove it, the new coins will be melted into bullion again, and again coined; and so round in a circle, as long as a præmium to the importer of bullion into the mint, is continued. And after all this expence, and all the expectation raised from it, no new coins will be to be seen; the same cause that created a scarcity before, will carry all these away; and nothing will be left, but the gains that had been made at the mint.
+
+After what hath been said here, and in the preceding; it might be asked, of what use then is the mint? To which I answer, that a mint, rightly established, is a very useful, necessary, and important office; an office, that those at the head of our finances should have due cognizance of, as being answerable to the public, that its operations are faithfully performed. The natural waste and dissipation of coins, require frequent supplies: This, trade naturally and abundantly furnishes; and this vent for its bullion, when other markets do not invite, is also of very great advantage to trade; it prevents a stagnation and uncertainty, in a very considerable branch of commerce. No mint can be kept constantly at work, unless coining becomes a kind of manufactury for foreign commerce; which is not the case here, nor could it be, without very great loss to us, upon our present mint establishment. But the mint, if left free to its own natural course, cannot fail of keeping up the national coins to their due quantity; what it does more, may be truly said to be labour lost; Edition: current; Page: [478] and would prove mischievous, if trade did not step in and sweep away the superfluous coin.
+
+What hath been here said, regards coining in general; without respecting the disparagements, which either silver or gold coins may lie under in particular, at the mint; and it may serve as a full answer to those, who are for promoting coinages, by forced and unnatural methods.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 2,
+  "chapter_title": "HISTORICAL NOTICE OF THE LIFE AND WORKS OF M. DE SISMONDI. BY M. MIGNET.",
+  "chapter_slug": "02-historical-notice-of-the-life-and-works-of-m-de-si",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23df3c25-2c65-50fc-b596-555336020160",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8395,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

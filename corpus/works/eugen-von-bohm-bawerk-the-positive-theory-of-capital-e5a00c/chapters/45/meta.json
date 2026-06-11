@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 45,
+  "chapter_title": "Book VI, Chapter VIII: Interest From Durable Goods—(continued)",
+  "chapter_slug": "45",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "735df99d-5bf0-5c2e-876c-1aa1baf14e14",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2525,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 55,
+  "chapter_title": "§ 41.: Of the empirical interest in the Beautiful",
+  "chapter_slug": "55-41-of-the-empirical-interest-in-the-beautiful",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa5386df-aaef-55d6-9cb8-564e722368b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 753,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

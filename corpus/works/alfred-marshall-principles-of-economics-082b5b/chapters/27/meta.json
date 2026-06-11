@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 27,
+  "chapter_title": "BOOK IV, CHAPTER X: INDUSTRIAL ORGANIZATION, CONTINUED. THE CONCENTRATION OF SPECIALIZED INDUSTRIES IN PARTICULAR LOCALI",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5855471-3757-5421-9ee8-e23930c7e5f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3590,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

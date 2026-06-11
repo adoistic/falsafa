@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 17,
+  "chapter_title": "&sect;1. Shapes in which the mischief of an act may show itself.",
+  "chapter_slug": "17-sect-1-shapes-in-which-the-mischief-of-an-act-may-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b4ab822a-64e7-535c-9e96-7e4aa4bc3d28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4023,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

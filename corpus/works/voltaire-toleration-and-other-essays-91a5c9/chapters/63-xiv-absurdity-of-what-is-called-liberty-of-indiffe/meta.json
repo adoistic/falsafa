@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 63,
+  "chapter_title": "XIV: ABSURDITY OF WHAT IS CALLED LIBERTY OF INDIFFERENCE",
+  "chapter_slug": "63-xiv-absurdity-of-what-is-called-liberty-of-indiffe",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b233298-0ee2-53fe-a389-beb73b562617",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 312,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

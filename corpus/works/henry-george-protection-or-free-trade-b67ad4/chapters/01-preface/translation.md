@@ -1,0 +1,29 @@
+---
+work_id: "b67ad413-bae1-533a-9d28-e9824fb031e1"
+work_slug: "henry-george-protection-or-free-trade-b67ad4"
+work_title: Protection or Free Trade
+author_name: Henry George
+chapter_number: 1
+chapter_title: PREFACE.
+chapter_slug: "01-preface"
+variant_id: "56f55686-b231-5692-8cac-922b6f528860"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 543
+source_url: "https://oll.libertyfund.org/titles/george-protection-or-free-trade"
+translator: Online Library of Liberty edition
+---
+
+IN this book I have endeavored to determine whether protection or free trade better accords with the interests of labor, and to bring to a common conclusion on this subject those who really desire to raise wages.
+
+I have not only gone over the ground generally traversed, and examined the arguments commonly used, but, carrying the inquiry further than the controversialists on either side have yet ventured to go, I have sought to discover why protection retains such popular strength in spite of all exposures of its fallacies; to trace the connection between the tariff question and those still more important social questions, now rapidly becoming the "burning questions" of our times; and to show to what radical measures the principle of free trade logically leads. While pointing out the falsity of the belief that tariffs can protect labor, I have not failed to recognize the facts which give this belief vitality, and, by an examination of these facts, have shown, not only how little the working classes can hope from that mere "revenue reform" which is miscalled "free trade," but how much they have to hope from real free trade. By thus harmonizing the truths which free traders perceive with the facts that to protectionists make their own theory plausible, I believe I have opened ground upon which those separated by seemingly irreconcilable differences of opinion may unite for that full application of the Edition: current; Page: [vi] free-trade principle which would secure both the largest production and the fairest distribution of wealth.
+
+By thus carrying the inquiry beyond the point where Adam Smith and the writers who have followed him have stopped, I believe I have stripped the vexed tariff question of its greatest difficulties, and have cleared the way for the settlement of a dispute which otherwise might go on interminably. The conclusions thus reached raise the doctrine of free trade from the emasculated form in which it has been taught by the English economists to the fullness in which it was held by the predecessors of Adam Smith, those illustrious Frenchmen, with whom originated the motto Laissez faire, and who, whatever may have been the confusions of their terminology or the faults of their method, grasped a central truth which free traders since their time have ignored.
+
+My effort, in short, has been to make such a candid and thorough examination of the tariff question, in all its phases, as would aid men to whom the subject is now a perplexing maze to reach clear and firm conclusions. In this I trust I have done something to inspire a movement now faint-hearted with the earnestness and strength of radical conviction, to prevent the division into hostile camps of those whom a common purpose ought to unite, to give to efforts for the emancipation of labor greater definiteness of purpose, and to eradicate that belief in the opposition of national interests which leads peoples, even of the same blood and tongue, to regard each other as natural antagonists.
+
+To avoid any appearance of culling absurdities, I have, in referring to the protectionist position, quoted mainly from the latest writer who seems to be regarded by American protectionists as an authoritative exponent of their views—Professor Thompson, of the University of Pennsylvania.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-rae-life-of-adam-smith-a74419",
+  "work_title": "Life of Adam Smith",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER IX: THE \"THEORY OF MORAL SENTIMENTS\" 1759. Aet. 36",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2862248-31f7-5593-b80a-bd0f7ff95d1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3974,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 112,
+  "chapter_title": "INDUSTRIES IN OTHER COUNTRIES",
+  "chapter_slug": "112-industries-in-other-countries",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "40c0d291-282e-5877-993f-3cabfc015c9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 349,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

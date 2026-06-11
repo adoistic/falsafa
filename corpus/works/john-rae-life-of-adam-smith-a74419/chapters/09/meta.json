@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-rae-life-of-adam-smith-a74419",
+  "work_title": "Life of Adam Smith",
+  "chapter_number": 9,
+  "chapter_title": "CHAPTER VIII: EDINBURGH ACTIVITIES",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e635300-2e05-5967-997f-f84798846cdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12980,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
+    }
+  ]
+}

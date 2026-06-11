@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
+  "work_title": "The Old Regime and the Revolution",
+  "chapter_number": 16,
+  "chapter_title": "CHAPTER X.: HOW THE DESTRUCTION OF POLITICAL LIBERTY AND CLASS DIVISIONS WERE THE CAUSES OF ALL THE DISEASES OF WHICH TH",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cda1e59e-bdc4-58a7-8b64-f10e43b2b837",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3407,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+    }
+  ]
+}

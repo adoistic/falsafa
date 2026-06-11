@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 15,
+  "chapter_title": "CHAPTER XII.: renewed activity of the league—cobden and sir robert peel—rural campaign.",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c49218a-4395-5908-93da-efa56b1e9188",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12678,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

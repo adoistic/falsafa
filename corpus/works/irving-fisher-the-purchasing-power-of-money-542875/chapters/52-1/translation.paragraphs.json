@@ -1,0 +1,67 @@
+[
+  {
+    "id": "p-5a30e7",
+    "offset": 0,
+    "text": "WE have found that the general level of prices is determined by the other magnitudes in the equation of exchange. But we have not hitherto defined exactly what a \"general level\" may mean. There was no need of such a definition so long as we assumed, as we have usually done hitherto, that all prices move in perfect unison. But practically prices never do move in perfect unison. Their dispersion would render impossible the statistical study of general price movements were there no practical method of indicating the general movement. A simple figure indicating the general trend of thousands of prices is a great statistical convenience. It also simplifies our equation of exchange by converting the right side, which now consists of thousands of terms, into a single simple term."
+  },
+  {
+    "id": "p-1b3115",
+    "offset": 785,
+    "text": "Such an indication is called an \"index number\" of the price level. Its reciprocal indicates, of course, the purchasing power of money."
+  },
+  {
+    "id": "p-2049b8",
+    "offset": 921,
+    "text": "The present chapter will, then, treat of the dispersion of prices, the next chapter of index numbers which this dispersion renders a practical necessity, and the two following chapters of the practical statistical use of index numbers."
+  },
+  {
+    "id": "p-2a7935",
+    "offset": 1158,
+    "text": "The chief conclusion of our previous study is that an increase of money, other things equal, causes a proportional Edition: current; Page: [185] increase in the level of prices. In other words, the p's in the sum SpQ tend to rise in proportion to the increase in money. It was noted, however, that the adjustment is not necessarily uniform, and that if some p's do not rise as much as in this proportion, others must rise more. In this connection, we observe that some prices cannot adjust themselves at once, and some not at all. This latter is true, for instance, of prices fixed by contract. A price so fixed cannot be affected by any change coming into operation between the date of the contract and that of its fulfillment. Even in the absence of explicit contracts, prices may be kept from adjustment by implied understandings and by the mere inertia of custom. Besides these restrictions on the free movement of prices, there are often legal restrictions; as, for example, when railroads are prohibited from charging over two cents per passenger per mile, or when street railways are limited to five-cent or three-cent fares."
+  },
+  {
+    "id": "p-72eae1",
+    "offset": 2292,
+    "text": "Whatever the causes of nonadjustment, the result is that the prices which do change will have to change in a greater ratio than would be the case were there no prices which do not change. Just as an obstruction put across one half of a stream causes an increase in current in the other half, so any deficiency in the movement of some prices must cause an excess in the movement of others."
+  },
+  {
+    "id": "p-c703f1",
+    "offset": 2682,
+    "text": "In order to picture to ourselves what are the classes of prices which rise or fall, we must survey the entire field of prices. Prices, measured as we are accustomed to measure them, in terms of money, are the ratios of exchange between other goods and money. The term \"goods,\" as previously explained, is a collective term comprising all wealth, property, and services, Edition: current; Page: [186] these being the magnitudes designated in sales. The chief subclasses under these three groups, which occur in actual sales, may be indicated as follows:—"
+  },
+  {
+    "id": "p-c2384f",
+    "offset": 3237,
+    "text": "The prices of these various classes of goods cannot all move up and down in perfect unison. Some are far more easily adjustable than others. Only by extremely violent hypotheses could we imagine perfect adjustability in all. The order of adjustability from the least to the most adjustable may be roughly indicated as follows:—"
+  },
+  {
+    "id": "p-0c0321",
+    "offset": 3566,
+    "text": "Take, for instance, bonds and mortgages. In order that the prices of these may be perfectly adjustable, we should have to suppose, not only that there were no restraint from custom or law, but that the contracts were perfectly readjusted to each new price level. We should have to suppose, for instance, that after the price level had doubled in height, because currency had doubled, there would be a $2000 bond wherever there had been a $1000 bond. This, obviously, is not the case. The holder of a $1000 bond can receive at its maturity only $1000, besides interest payments in the interim. If, meanwhile, the price level doubles, he will receive no more. It is true that a change of price level will, in time, change the volume of new loans. A merchant, to lay in a given stock of goods, will need to borrow a larger sum if prices are high than if they are low. Personal notes and bills of exchange will be drawn for double the amount which would have obtained had the price level not doubled. Similarly, a corporation issuing bonds for new projects may have to issue a larger amount. But obligations outstanding when the price levels change cannot be thus adjusted; their prices can vary only slightly during the interim between Edition: current; Page: [188] issue and maturity. The fact that their face value is expressed in money sets very definite limits to their prices.If, because of a doubling in the quantity of money, the value and profits of a railroad measured in money were doubled, the bondholder could not, on that account, realize more money for his bond. The value of the bond is not greatly affected by the valuation and profits of the railroad, so long as these are sufficient to guarantee the bond. The bond is an agreement to pay stated sums at stated times. It represents a limited money value carved out of the road. The only ways in which the money price of a bond or salable debt can vary at all are by variations in the rate of money interest and by changes in the degree of certainty of payment. Only so far as these features are affected by the changes in the volume of money will the value of bonds be affected. We have seen, for instance, that inflation, while it is taking place, raises interest.It therefore lowers the price of bonds during the transition period.Again if violent changes in the price level increase or decrease the number of bankruptcies, they thereby affect the degree of certainty of payment, and consequently affect the value of bonds. But these ways of affecting prices of such securities expressed in money are of less account than the ordinary effect of inflation or contraction on price levels, and of a different character."
+  },
+  {
+    "id": "p-1afa28",
+    "offset": 6250,
+    "text": "The chief peculiarity of these forms of property lies, then, in the fact that they are expressed in terms of money and therefore are compelled to keep in certain peculiar relations to money. Being based on contracts, the money terms of which during a given period must not be changed, they are not free to be influenced in the same ways as other property. The existence of such contracts constitutes one of the chief arguments for a system of currency such that the uncertainties of its purchasing power are a minimum. An uncertain monetary standard disarranges contracts and discourages their formation."
+  },
+  {
+    "id": "p-589ef1",
+    "offset": 6856,
+    "text": "The longer the contract, the larger the nonadjustability. A fifty-year bond usually means a relative fixity of price for half a century. Only at the end of that time, if prices have risen, can bonds, issued de novo for the means of purchasing goods, be correspondingly more numerous or of correspondingly larger denominations. A 30-days' bill of exchange, on the other hand, while it cannot change much in price, is canceled at the end of a month. The relative fixity of price is, therefore, of shorter duration."
+  },
+  {
+    "id": "p-2e2855",
+    "offset": 7370,
+    "text": "A special class of goods, the prices of which cannot fluctuate greatly with other prices, are those special commodities which consist largely of the money metal. Thus, in a country employing a gold standard, the prices of gold for dentistry, of gold rings and ornaments, gold watches, gold-rimmed spectacles, gilded picture frames, etc., instead of varying in proportion to other prices, always vary in a smaller proportion. The range of variation is the narrower, the more predominantly the price of the article depends upon the gold as one of its raw materials."
+  },
+  {
+    "id": "p-a64bdb",
+    "offset": 7935,
+    "text": "From the fact that gold-made articles are thus more Edition: current; Page: [190] or less securely tied in value to the gold standard, it follows also that the prices of substitutes for such articles will tend to vary less than prices in general. These substitutes will include silver watches, ornaments of silver, and various other forms of jewelry, whether containing gold or not. It is a fundamental principle of relative prices that the prices of substitutes will move in sympathy. In the case of perfect substitutes, the prices must always be equal or must bear a fixed ratio to each other."
+  },
+  {
+    "id": "p-417a6b",
+    "offset": 8532,
+    "text": "The remaining items in our list require little comment. The imperfect adjustability of prices fixed by law and custom and the perfect adjustability of wholesale prices of commodities and prices of stocks are familiar to all."
+  }
+]

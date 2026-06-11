@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 21,
+  "chapter_title": "BANK OF NORTH AMERICA.",
+  "chapter_slug": "21-bank-of-north-america",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2192a3c3-2332-5a04-93ae-0588ef12039a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 207,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

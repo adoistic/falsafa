@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 3,
+  "chapter_title": "D. OCTAVIUS CÆSAR AUGUSTUS.",
+  "chapter_slug": "03-d-octavius-caesar-augustus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "503215c4-e61a-5f9f-9cda-12cf1ee81573",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 42010,
+      "paragraph_count": 249,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

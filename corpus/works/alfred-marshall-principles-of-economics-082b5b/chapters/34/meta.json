@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 34,
+  "chapter_title": "BOOK V, CHAPTER IV: THE INVESTMENT AND DISTRIBUTION OF RESOURCES.",
+  "chapter_slug": "34",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bee1fe96-6bf0-565f-ae00-48504672f893",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3959,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

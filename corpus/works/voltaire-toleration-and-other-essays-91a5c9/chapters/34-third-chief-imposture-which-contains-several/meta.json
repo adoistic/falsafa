@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 34,
+  "chapter_title": "Third Chief Imposture (which contains several)",
+  "chapter_slug": "34-third-chief-imposture-which-contains-several",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e7e25eb-3f14-5a29-96df-f7af0c047b2e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 219,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

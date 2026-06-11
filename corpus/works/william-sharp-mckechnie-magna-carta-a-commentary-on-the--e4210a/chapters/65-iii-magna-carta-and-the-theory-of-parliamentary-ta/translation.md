@@ -1,0 +1,25 @@
+---
+work_id: "e4210a4a-f107-56e4-9d0c-e90e8ca0dccf"
+work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
+work_title: "Magna Carta: A Commentary on the Great Charter of King John"
+author_name: William Sharp McKechnie
+chapter_number: 65
+chapter_title: "III.: Magna Carta and the Theory of Parliamentary Taxation."
+chapter_slug: "65-iii-magna-carta-and-the-theory-of-parliamentary-ta"
+variant_id: "75898558-7a30-5595-ab54-91c749e8e859"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 547
+source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+translator: Online Library of Liberty edition
+---
+
+It is a commonplace of our text–books that chapters 12 and 14, taken together, amount to the Crown’s absolute surrender of all powers of arbitrary taxation, and even that they enunciate a doctrine of the nation’s right to tax itself. Yet the very idea of “taxation” in its abstract form, as opposed to specific tallages and exactions, levied on definite things or individuals, is essentially modern. The doctrine of the day was that the King in normal times ought “to live of his own,” like any other land–owning gentleman. A regular scheme of “taxation” to meet the ordinary expenses of government was undreamt of. It is too much to suppose, then, that our ancestors in 1215 sought to abolish something which, strictly speaking, did not exist. The famous clause treats, not of “taxation” in the abstract, but of the scutages and aids already discussed. It does not concern itself with the rights of Englishmen as such, but chiefly with the interests of barons who held freeholds of the Crown, and incidentally and inadequately with those of the citizens of London. Several considerations place this beyond reasonable doubt.
+
+(1) The terms of the restriction are by no means wide or sweeping; but precise, accurate, and narrow. The “common counsel of the realm” was required for three exactions at the most: for scutages and for extraordinary aids from feudal tenants, and possibly also for aids from the city of London: that is all. Not a word is said of other forms of taxation or other groups of taxpayers. (2) If under–tenants received, by chapter 15, protection against mesne lords, they received none against the King. The Charter affected, not national “taxation,” but feudal dues. Edition: current; Page: [240] (3) The scant measure of protection did not extend even to all Crown tenants. The King’s villeins were, of course, excluded; and so were even freeholders whose tenure was other than that of chivalry. Socage tenants were left liable to carucage, while the Crown’s right to raise the “farms” of its own demesnes was reserved. (4) The Crown’s initiative in “taxation” (here restricted in regard to “aids” and “scutages”) was, under many other names and forms, left intact. The King required no consent before taking prises and custom dues from merchandise reaching or leaving England, or before taking tolls and fines at inland markets under the plea of regulating trade. Tallages also were exigible at discretion from aliens and Jews, from tenants of demesne, from London and other chartered towns. (5) The assembly to be convened for taking “common counsel” was a narrow body, representative neither of the ranks and classes of the community, nor of the separate national interests, nor yet of the various districts of England. Its composition was homogeneous, an aristocratic council of the military tenants of the Crown, convened in such a way that only the greater among them were likely to attend.
+
+These facts serve as a warning not to read into Magna Carta modern conceptions which its own words will not warrant. This famous clause was far from formulating any doctrine of self–taxation; it primarily affected impositions levied by John, not qua sovereign but qua feudal lord. Such as it was, it was omitted, along with its corollary (chapter 14), in 1216 and subsequent reissues.

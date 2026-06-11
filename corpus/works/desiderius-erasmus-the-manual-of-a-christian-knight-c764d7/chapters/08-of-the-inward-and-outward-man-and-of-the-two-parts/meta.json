@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 8,
+  "chapter_title": "Of the inward and outward man and of the two parts of man, proved by holy scripture.",
+  "chapter_slug": "08-of-the-inward-and-outward-man-and-of-the-two-parts",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be33b24c-dc3b-5983-a343-26f27a3461c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3173,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

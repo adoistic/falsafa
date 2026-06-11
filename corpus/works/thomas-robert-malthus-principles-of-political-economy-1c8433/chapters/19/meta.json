@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 19,
+  "chapter_title": "Section VII.—: On the causes which may mislead the Landlord in letting his Lands, to the Injury both of himself and the ",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86248651-9d75-5f51-957c-0418dc7e7916",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1265,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
+    }
+  ]
+}

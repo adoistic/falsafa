@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 53,
+  "chapter_title": "Chapter I Of the Effect Upon the Production of Wealth",
+  "chapter_slug": "53",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0cefac13-ec58-5d5d-8a50-9b22b1b0c2e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2039,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

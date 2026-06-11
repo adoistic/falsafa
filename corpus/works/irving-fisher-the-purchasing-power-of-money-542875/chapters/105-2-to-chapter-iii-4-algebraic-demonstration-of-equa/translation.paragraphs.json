@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p-487e11",
+    "offset": 0,
+    "text": "The money expended for goods by individual 1 at moment 1 is 1e1 and his check expenditure is 1e'1. His total expenditure for goods by money and checks is, therefore, 1e1 + 1e'1 = 1p1 1q1 + 1p'11q'1 +...."
+  },
+  {
+    "id": "p-b99926",
+    "offset": 205,
+    "text": "By adding together all such equations for all persons in the community and all moments of the year, we obtain the equation"
+  },
+  {
+    "id": "p-298fc8",
+    "offset": 329,
+    "text": "E + E' = SpQ"
+  },
+  {
+    "id": "p-612e5d",
+    "offset": 343,
+    "text": "which becomes"
+  },
+  {
+    "id": "p-c64f6b",
+    "offset": 358,
+    "text": "MV + M'V' = SpQ"
+  },
+  {
+    "id": "p-c2974d",
+    "offset": 375,
+    "text": "since, by definition, V = E/M and V' = E'/M'."
+  }
+]

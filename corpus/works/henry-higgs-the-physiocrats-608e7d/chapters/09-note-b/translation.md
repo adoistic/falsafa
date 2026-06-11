@@ -1,0 +1,35 @@
+---
+work_id: "608e7d18-a396-55a4-b6b5-60075b9b8523"
+work_slug: "henry-higgs-the-physiocrats-608e7d"
+work_title: The Physiocrats
+author_name: Henry Higgs
+chapter_number: 9
+chapter_title: Note B
+chapter_slug: "09-note-b"
+variant_id: "c637ad42-2b9f-5c9c-8284-afab0b97b792"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 825
+source_url: "https://oll.libertyfund.org/titles/higgs-the-physiocrats-six-lectures-on-the-french-economistes-of-the-18th-century"
+translator: Online Library of Liberty edition
+---
+
+The Réponse aux Docteurs modernes, ou apologie pour l'Auteur de la Théorie des Loix, et des Lettres sur cette Edition: current; Page: [148] Théorie. Avec la réfutation du systême des Philosophes économistcs. Par Simon-Nicolas-Henri Linguet. MDCCLXXI, 12mo, vol. i. 300 pp., vol. ii. 259 pp., is so rare that some further reference to it may be found useful. A copy of the book will be found in the Bibliothéque Nationale at Paris, press mark R. 21096–7.
+
+Linguet takes for his motto an extract from the Éphémerides of his adversaries, 1769, vol. iii, Auertissement, p. 16: “Il faut faire la guerre aux foux même quand ils deviennent furieux, et la leur faire bonne et vive, jusqu'à ce qu'on les ait mis dans l'impuissance de nuire.”
+
+He says: “Les économistes, c'est-à-dire des abbeés, des gentilhommes, des horlogers [a hit at Du Pont, the son of a watchmaker], des juges de provinces etc. sont venus apprendre tout d'un coup aux meûniers qu'ils ne savoient pas meudre [a reference to the moulins économiques], au peuple qu'il avoit trop d'appétit, aux bourgeois qu'ils laissoient trop de gruau dans leur son; et l'on a battu des mains.
+
+“De leur boulangerie, ils ont passé à la jurisprudence et aux loix. D'une main toute blanche encore de leur pâte et de leur mouture, ils se sont avisés de vouloir repâitrir notre legislature; de derriàre des meules bien ou mal repiquées, on a été fort surpris de voir sortir des Solons enfarinés, qui ont prétendu réformer toute la machine politique; et l'on a encore battu des mains” (p. 9). As for himself, who has studied jurisprudence, he will expose this imperious sect which has spoken so much of destroying prejudices, and has created so many. The encyclopædic yeast of thirty years ago stirred the nation with a certain Anglican effervescence. When the great dictionary appeared began the epoch of fanaticism. And when the Government suppressed the Encyclopédie, then the buzzing insect since called Edition: current; Page: [149] Economics took its place, but, unlike the caterpillar turned butterfly, it was a butterfly turned caterpillar, losing its metaphysic wings and grovelling on the earth, crawling on the bread it gnaws (p. 13). Better old errors which left us alive, than new ones like these which are murderous (p. 14).
+
+The Physiocrats are a dangerous sect, powerful, popular, and much read, unlike himself who has not had the precaution to form a sect or dress up his writings with an ecstatic and philosophic varnish. In vain does Du Pont protest they are not a sect. Linguet says: Not a sect? Évidence shows it: your mysterious words, physiocratie, pro-duit net; your mystic jargon, ordre, science, le maître; your titles of honour showered on your patriarchs; your wreaths scattered through the provinces on obscure if excellent persons—the “celebrated” Le Trosne, the “admirable” Saint-Péravy, the “excellent” Treilhard, etc. (p. 120). Not a sect? You have a rallying cry, banners, a march, a trumpeter [Du Pont], a uniform for your books, and a sign like freemasons (p. 121). Not a sect? One cannot touch one of you but all rush to his aid. You all laud and glorify each other, and attack and intimidate your opponents in unmeasured terms. You affect an inspired tone and seriously discuss on what particular day the symbol of your faith, the masterpiece, the Tableau Oeconomique was born,—a symbol so mysterious that huge volumes cannot explain it. It is like the Koran of Mohamet. You burn to lay down your lives for your principles, and talk of your apostleship (p. 125). You attack Galiani and me because we have no reverence for that ridiculous hieroglyphic which is your holy Gospel. Confucius drew up a table, the Y-King, of sixty-four terms, also connected by lines, to show the evolution of the elements, and your Tableau Oeconomique is justly enough compared to it, but it comes three hundred years too late. Edition: current; Page: [150] Both alike are equally unintelligible. The Tableau is an insult to common sense, to reason, and philosophy, with its columns of figures of reproduction nette terminating always in a zero, striking symbol of the fruit of the researches of any one simple enough to try in vain to understand it.
+
+The Physiocrats are the anabaptists of philosophy, who propose to kill men to make them happy. Starvation is their best protection. Everything comes from the land. Therefore, the political ideal is the cultivation of corn. But to farm with the greatest advantage requires large capitals. Therefore favour opulence. Opulence will result from high prices, which will come from rarity. Therefore export corn, and thus starve the people.
+
+Linguet prints side by side the Tableau Oeconomique and the Y-King. It is hardly necessary to point out that he fails to understand the economic doctrines he satirises.
+
+Dr. Bauer has quoted some of Linguet's invectives from the Annales Politiques, 1778, in his article on Quesnay's Tableau Oeconomique, Economic Journal, voL v. p. 19, March 1895.

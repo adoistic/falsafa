@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 51,
+  "chapter_title": "Chapter XVII: INTERFERENCE TO RAISE WAGES IN PLACES AND OCCUPATIONS WHERE THEY ARE ALREADY FAIR",
+  "chapter_slug": "51",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dce810ba-3e4b-5118-a725-81c7852b3d9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4861,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-elements-of-political-economy-3e1c36",
+  "work_title": "Elements of Political Economy",
+  "chapter_number": 4,
+  "chapter_title": "Section I. Labour",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d0f677a-eae6-5c64-9d50-5a4c498b964e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1597,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+    }
+  ]
+}

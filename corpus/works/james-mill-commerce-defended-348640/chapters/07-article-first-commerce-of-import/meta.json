@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-commerce-defended-348640",
+  "work_title": "Commerce Defended",
+  "chapter_number": 7,
+  "chapter_title": "Article First, Commerce of Import.",
+  "chapter_slug": "07-article-first-commerce-of-import",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99816978-a0d0-5d8a-aed1-5c6d2c6bd367",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1700,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-commerce-defended-1808"
+    }
+  ]
+}

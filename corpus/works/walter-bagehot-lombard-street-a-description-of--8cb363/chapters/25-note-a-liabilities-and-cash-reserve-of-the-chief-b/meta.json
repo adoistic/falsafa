@@ -1,0 +1,26 @@
+{
+  "work_slug": "walter-bagehot-lombard-street-a-description-of--8cb363",
+  "work_title": "Lombard Street: A Description of the Money Market",
+  "chapter_number": 25,
+  "chapter_title": "Note A. Liabilities and Cash Reserve of the Chief Banking Systems.",
+  "chapter_slug": "25-note-a-liabilities-and-cash-reserve-of-the-chief-b",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "334491b5-e94c-5542-92e4-bf545fc5e6bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market"
+    }
+  ]
+}

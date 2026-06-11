@@ -1,0 +1,21 @@
+---
+work_id: "bf397c91-6015-50dc-b449-45c604ddd259"
+work_slug: "martin-luther-first-principles-of-the-reformat-bf397c"
+work_title: First Principles of the Reformation
+author_name: Martin Luther
+chapter_number: 1
+chapter_title: ADVERTISEMENT.
+chapter_slug: "01-advertisement"
+variant_id: "a04b609f-4034-5f75-861a-71714f0d00f3"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 229
+source_url: "https://oll.libertyfund.org/titles/luther-first-principles-of-the-reformation-1883"
+translator: Online Library of Liberty edition
+---
+
+The purpose and plan of this publication, which has been prompted by the celebration of the fourth centenary of Luther’s birth, is explained in the Introductory Essay. Here it is only necessary to state that, of the works of Luther contained in it, the “Address to the Nobility of the German Nation,” which was written in German, has been translated by Professor Buchheim, from the text given in the Erlangen, or Frankfort, Edition. The translation of this work offered very great difficulties, as it was written in Luther’s earliest German style, before the language had been improved, and rendered comparatively definite, by his translation of the Bible. Dr. Buchheim has endeavoured to make it as literal as was compatible with the genius of the English language, and with the necessity of modifying, now and then, some obscure or obsolete expression; and he has offered a few annotations. He desires, at the same time, to express his great obligations to Dr. Wace, who carefully compared his translation with the original work, and whose suggestions have been of great service to him. The Theses, and the two Treatises, “On Christian Liberty,” and “On the Babylonish Captivity of the Church,” have been translated from the original Latin Text, as given in the Frankfort Edition, by the Rev. R. S. Grignon, to whose generous assistance and accurate scholarship the editors feel greatly indebted.

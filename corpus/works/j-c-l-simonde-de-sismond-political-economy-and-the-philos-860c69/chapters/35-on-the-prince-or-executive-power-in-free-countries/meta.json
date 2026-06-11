@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 35,
+  "chapter_title": "ON THE PRINCE, OR, EXECUTIVE POWER IN FREE COUNTRIES.",
+  "chapter_slug": "35-on-the-prince-or-executive-power-in-free-countries",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad2cebe6-cb2b-502d-a381-ad42a93a221c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2269,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

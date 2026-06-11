@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 66,
+  "chapter_title": "CHAP. IV.: Shewing the State of the Israelits under their Kings, to the Captivity.",
+  "chapter_slug": "66-chap-iv-shewing-the-state-of-the-israelits-under-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d20d05f-ef6c-53f5-96bf-6b39278946cc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2000,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

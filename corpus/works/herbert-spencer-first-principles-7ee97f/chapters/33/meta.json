@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-first-principles-7ee97f",
+  "work_title": "First Principles",
+  "chapter_number": 33,
+  "chapter_title": "CHAPTER XVIII.: THE INTERPRETATION OF EVOLUTION.",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51b077ac-6eca-5bb4-a21b-d9030dc8a1fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1052,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
+    }
+  ]
+}

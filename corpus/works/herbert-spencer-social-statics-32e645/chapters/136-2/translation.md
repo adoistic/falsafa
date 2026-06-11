@@ -1,0 +1,35 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 136
+chapter_title: § 2.
+chapter_slug: "136-2"
+variant_id: "2d3759e7-406c-5bf0-b86c-9649ed3d3d75"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 888
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+It is a tolerably well-ascertained fact that men are still selfish. And that beings answering to this epithet will employ the power Edition: current; Page: [218] placed in their hands for their own advantage is self-evident. Directly or indirectly, either by hook or by crook, if not openly, then in secret, their private ends will be served. Granting the proposition that men are selfish, we cannot avoid the corollary, that those who possess authority will, if permitted, use it for selfish purposes.
+
+Should any one need facts in proof of this, he may find them at every page in the nearest volume of history. Under the head—Monarchy, he will read of insatiable cravings after more territory; of confiscations of the subjects’ property; of justice sold to the highest bidder; of continued debasements of coinage; and of a greediness which could even descend to share the gains of prostitutes.
+
+He will find Feudalism exemplifying the same spirit by the cruelties inflicted upon serfs; by the right of private war; by the predatory incursions of borderers; by robberies practised on Jews; and by the extortionate tribute wrung from burghers—all of them illustrations of that motto, so characteristic of the system, “Thou shalt want ere I want.”
+
+Does he seek like evidence in the conduct of later aristocracies? He may discover it in every state in Europe: in Spain, where the lands of nobles and clergy were long exempted from direct taxation; in Hungary, where, until lately, men of rank were free of all turnpikes, and only the mercantile and working classes paid; in France, before the first revolution, where the tiers-etat had to bear all the state burdens; in Scotland, where less than two centuries ago it was the custom of lairds to kidnap the common people, and export them as slaves; in Ireland, where at the rebellion a band of usurping landowners hunted and shot the Catholics as they would game, for daring to claim their own.
+
+If more proofs are wanted that power will be made to serve the purposes of its possessors, English legislation can furnish many such. Take, for example, the significantly named “Black Act” (9th of George I.), which declares that any one disguised and in possession of an offensive weapon “appearing Edition: current; Page: [219] in any warren, or place where hares or conies have been, or shall be usually kept, and being thereof duly convicted, shall be adjudged guilty of felony, and shall suffer death, as in cases of felony, without benefit of clergy.” Instance again the Inclosure Laws, by which commons were divided amongst the neighbouring landowners, in the ratios of their holdings, regardless of the claims of the poor cottagers. Notice also the manœuvre by which the land tax has been kept stationary, or has even decreased, whilst other taxes have so enormously increased. Add to these the private monopolies (obtained from the King for “a consideration”), the perversion of the funds of public schools, the manufacture of places, and pensions.
+
+Nor is the disposition to use power for private ends less manifest in our own day. It shows itself in the assertion that an electoral system should give a preponderance to the landed interest. We see it in the legislation which relieves farmers from sundry assessed taxes, that they may be enabled to pay more rent. It is palpably indicated in the Game Laws. The conduct of the squire, who gets his mansion rated at one-third of its value, bears witness to it. It appears in the law enabling a landlord to anticipate other creditors, and to obtain his rent by immediate seizure of his tenant’s property. We are reminded of it by the often-mentioned legacy and probate duties. It is implied by the fact that whilst no one dreams of compensating the discharged workman, gentlemen sinecurists must have their “vested interests” bought up if their offices are abolished. In the tracts of the Anti-Corn Law League it received abundant illustration. It is seen in the votes of the hundred and fifty military and naval members of Parliament. And lastly, we find this self-seeking of those in authority creeps out, even in the doings of the “Right Reverend Fathers in God” forming the Ecclesiastical Commission, who have appropriated, for the embellishment of their own palaces, funds entrusted to them for the benefit of the Church.
+
+But it is needless to accumulate illustrations. Though every historian the world has seen should be subpœned as a Edition: current; Page: [220] witness, the fact could not be rendered one whit more certain than it is already. Why ask whether those in power have sought their own advantage in preference to that of others? With human nature as we know it, they must have done so. It is this same tendency in men to pursue gratification at the expense of their neighbours that renders government needful. Were we not selfish, legislative restraint would be unnecessary. Evidently, then, the very existence of a state-authority proves that irresponsible rulers will sacrifice the public good to their personal benefit; all solemn promises, specious professions, and carefully-arranged checks and safeguards, notwithstanding.
+
+If, therefore, class-legislation is the inevitable consequence of class-power, there is no escape from the conclusion that the interest of the whole society can be secured, only by giving power into the hands of the whole people.

@@ -1,0 +1,21 @@
+---
+work_id: "e92145c1-898d-5492-9369-d1418694d92f"
+work_slug: "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145"
+work_title: Letters of Marcus Tullius Cicero
+author_name: Cicero (Marcus Tullius Cicero)
+chapter_number: 88
+chapter_title: To Hispulla
+chapter_slug: "88-to-hispulla"
+variant_id: "50a6f643-531a-56a4-93c5-449d832e740c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 399
+source_url: "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+translator: Online Library of Liberty edition
+---
+
+As you are a model of all virtue, and loved your late excellent brother, who had such a fondness for you, with an affection equal to his own; regarding too his daughter as your child, not only shewing her an aunt’s tenderness but supplying the place of the parent she had lost; I know it will give you the greatest pleasure and joy to hear that she proves worthy of her father, her grandfather, and yourself. She possesses an excellent understanding together with a consummate prudence, and gives the strongest evidence of the purity of her heart by her fondness of her husband. Her affection for me, moreover, has given her a taste for books, and my productions, which she takes a pleasure in reading, and even in getting by heart, are continually in her hands. How full of tender anxiety is she when I am going to speak in any case, how rejoiced she feels when it is got through. While I am pleading, she stations persons to inform her from time to time how I am heard, what applauses I receive, and what success attends the case. When I recite my works at any time, she conceals herself behind some curtain, and drinks in my praises with greedy ears. She sings my verses too, adapting them to her lyre, with no other master but love, that best of instructors, for her guide. From these happy circumstances I derive my surest hopes, that the harmony between us will increase with our days, and be as lasting as our lives. For it is not my youth or person, which time gradually impairs; it is my honour and glory that she cares for. But what less could be expected from one who was trained by your hands, and formed by your instructions; who was early familiarized under your roof with all that is pure and virtuous, and who learnt to love me first through your praises? And as you revered my mother with all the respect due even to a parent, so you kindly directed and encouraged my tender years, presaging from that early period all that my wife now fondly imagines I really am. Accept therefore of our mutual thanks, mine, for your giving me her, hers for Edition: current; Page: [271] your giving her me; for you have chosen us out, as it were, for each other. Farewell.

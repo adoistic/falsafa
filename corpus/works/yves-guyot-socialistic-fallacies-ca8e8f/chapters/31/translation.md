@@ -1,0 +1,27 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 31
+chapter_title: "CHAPTER II: The Claims of Marx and Engels"
+chapter_slug: 31
+variant_id: "9d2ab558-b2c0-50bc-9449-2b01cec191e5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 394
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+For Germany—Against Rodbertus—Against Lassalle.
+
+Karl Marx and Engels, while declaring themselves to be internationalists and communists, begin by themselves failing in their pretensions. Far from admitting that the French communists and socialists were their precursors, they never cease to load them with scorn and contempt. They refuse to be under any obligation to those Frenchmen whose powers of persuasion they detest and who expect clearness in others although they lack it themselves, and they are unable to submit to a “discipline of pedants.” Karl Marx and Engels want to convert socialism into a German monopoly, and when Marx says “Proletariat of all nations, unite,” what he means is “Pan-Germanise.”
+
+At the same time they bitterly contend with their own compatriots for the private proprietorship of their formulæ, refusing to share them with anyone. Rodbertus claimed that Karl Marx had borrowed his ideas. Engels asserts that Marx had never beheld any of Rodbertus' publications before 1858 and 1859. Inasmuch as Rodbertus' first publication was issued in 1837, he in his turn expresses astonishment that Marx, who claimed to know everything, should pretend to such profound and long-continued ignorance with respect to him. In revenge, Engels freely admits that Proudhon owes his conception of value to Rodbertus—another instance of Pan-Germanism. But Engels is constrained to admit that Rodbertus and Marx both drew from the same English source, Ricardo, and says, “It does not occur to Rodbertus' mind that Karl Marx may have been able to draw his conclusions unaided from Ricardo as well as Rodbertus did himself.” At all events Rodbertus has the advantage of priority in Edition: current; Page: [106] date, and despite their violent denials, Marx and Engels are the disciples of that great Pomeranian landed proprietor, the representative of the great landowners in the provincial assemblies and in the Prussian Parliament, and, therefore, actually a champion of class distinctions. In his dislike of the French Revolution, Karl Marx, himself the son-in-law of a Prussian “Junker,” transfers to it the hatred entertained for it by his wife's family, and Paul Lafargue inherited it from him.
+
+As for Lassalle, Karl Marx treated him with contempt. In his preface to “Capital,” written in 1867, he says of him (he died in 1864), “While abstaining from indicating their origin, he has borrowed from my writings, almost word for word, all the theoretical propositions of his economic writings.”

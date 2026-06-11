@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-definitions-in-political-economy-2a1c5b",
+  "work_title": "Definitions in Political Economy",
+  "chapter_number": 14,
+  "chapter_title": "EXCESS OF THE SUPPLY ABOVE THE DEMAND, OR PARTIAL GLUT.",
+  "chapter_slug": "14-excess-of-the-supply-above-the-demand-or-partial-g",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8f52e5e-e1e1-5cd7-9e09-debba2a39d92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 80,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-definitions-in-political-economy"
+    }
+  ]
+}

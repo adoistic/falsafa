@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 2,
+  "chapter_title": "CAIUS JULIUS CÆSAR.",
+  "chapter_slug": "02-caius-julius-caesar",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58362f68-136f-56db-a19f-0a500c5030ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 25016,
+      "paragraph_count": 127,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

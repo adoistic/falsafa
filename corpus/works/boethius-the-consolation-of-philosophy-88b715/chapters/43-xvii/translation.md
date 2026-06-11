@@ -1,0 +1,21 @@
+---
+work_id: "88b7154d-8ae8-5c6e-a1cb-5ca9ab169cd0"
+work_slug: "boethius-the-consolation-of-philosophy-88b715"
+work_title: The Consolation of Philosophy
+author_name: Boethius
+chapter_number: 43
+chapter_title: XVII
+chapter_slug: "43-xvii"
+variant_id: "3c3a0f67-8db9-51af-a528-4e1d73768dca"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 325
+source_url: "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+translator: Online Library of Liberty edition
+---
+
+WHEN Philosophy had sung this song she was silent for a time. Then the Mind answered, saying, ‘O Philosophy, thou knowest that I never greatly delighted in covetousness and the possession of earthly power, nor longed for this authority, but I desired instruments and materials to carry out the work I was set to do, which was that I should virtuously and fittingly administer the authority committed unto me. Now no man, as thou knowest, can get full play for his natural gifts, nor conduct and administer government, unless he hath fit tools, and the raw material to work upon. By material I mean that which is necessary to the exercise of natural powers; thus a king’s raw material and instruments of rule are a well-peopled land, and he must have men of prayer, men of war, and men of work. As thou knowest, without these tools no king may display his special talent. Further, for his materials he must have means of support for the three classes above spoken of, which are his instruments; and these means are land to dwell in, gifts, weapons, meat, ale, clothing, and what else soever the three classes need. Without these means he cannot keep his tools in order, and without these tools he cannot perform any of the tasks entrusted to him. I have desired material for the exercise of government that my talents and my power might not be forgotten Edition: current; Page: [42]and hidden away, for every good gift and every power soon groweth old and is no more heard of, if Wisdom be not in them. Without Wisdom no faculty can be fully brought out, for whatsoever is done unwisely can never be accounted as skill. To be brief, I may say that it has ever been my desire to live honourably while I was alive, and after my death to leave to them that should come after me my memory in good works.’

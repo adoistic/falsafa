@@ -1,0 +1,23 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 156
+chapter_title: §2. Invention Causes Dispersion of Interest Rates
+chapter_slug: "156-2-invention-causes-dispersion-of-interest-rates"
+variant_id: "3a894790-b44e-578f-9597-464d5f893210"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 305
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Besides tending to raise the rate of interest, invention and discovery tend to widen the gap between the interest rates on the safest securities and the rates of return over cost to those who first take advantage of the investment opportunities offered by the new devices.
+
+Early investors make sacrifices and take great risks in the expectation of ample rewards in the shape of enhanced income. When the rewards for their sacrifices are realized these investors often reinvest their larger incomes for the sake of yet greater and more remote re Edition: current; Page: [343] turns. For example, in the United States, throughout the period of national expansion from 1820 to 1880, while the growth of farming, mining and manufacture went hand in hand with canal and railroad building, social income increased sharply through investment, return, and partial reinvestment. Rising national income marks all periods of advancement in industrial arts and practices. The statistics of income recently made available by the National Bureau of Economic Research show just such rapid rise, concurrently with a period of great inventions in electricity, chemistry, automotive engineering, radio and aviation. Thus in the United States capital investment per worker rose from $560 in 1849 to $5,000 in 1919, with a greater yearly increase in capital employed than the increase in working population. Horsepower per industrial worker increased from 1914 to 1925 from 3.3 to 4.3. The increased prosperity of the United States, due largely to increased utilization of inventions and scientific management, is shown by an increase of about three-eighths in national income from 1921 to 1927, with an appreciable increase in real annual wages, while salaries showed a constant rise, as expressed in purchasing power, after 1919. The total realized national income of the nation rose from $35,700,000,000 in 1913, to an estimated total of $89,000,000,000 in 1928.

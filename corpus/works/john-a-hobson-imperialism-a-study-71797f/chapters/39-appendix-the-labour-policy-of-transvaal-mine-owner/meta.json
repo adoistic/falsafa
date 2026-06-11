@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-imperialism-a-study-71797f",
+  "work_title": "Imperialism: A Study",
+  "chapter_number": 39,
+  "chapter_title": "APPENDIX THE LABOUR POLICY OF TRANSVAAL MINE-OWNERS",
+  "chapter_slug": "39-appendix-the-labour-policy-of-transvaal-mine-owner",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8dcc665d-2bc4-5e7e-942b-c49d233758c7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1855,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hobson-imperialism-a-study"
+    }
+  ]
+}

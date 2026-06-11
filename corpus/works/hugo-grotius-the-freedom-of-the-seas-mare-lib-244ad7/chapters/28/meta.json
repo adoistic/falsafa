@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7",
+  "work_title": "The Freedom of the Seas (Mare Liberum)",
+  "chapter_number": 28,
+  "chapter_title": "CHAPTER VIII: By the Law of Nations trade is free to all persons whatsoever",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc2d34c1-478d-5a25-a6ba-46f9a7df85c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 832,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans"
+    }
+  ]
+}

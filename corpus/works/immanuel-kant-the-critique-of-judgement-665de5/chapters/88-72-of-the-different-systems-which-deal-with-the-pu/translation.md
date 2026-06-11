@@ -1,0 +1,33 @@
+---
+work_id: "665de50e-81ff-5d11-85d9-3b5bd81fcf92"
+work_slug: "immanuel-kant-the-critique-of-judgement-665de5"
+work_title: The Critique of Judgement
+author_name: Immanuel Kant
+chapter_number: 88
+chapter_title: "§ 72.: Of the different systems which deal with the purposiveness of nature"
+chapter_slug: "88-72-of-the-different-systems-which-deal-with-the-pu"
+variant_id: "65599d2a-fd14-518e-aa7a-71a3887f8897"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1016
+source_url: "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+translator: Online Library of Liberty edition
+---
+
+No one has ever doubted the correctness of the proposition that judgement must be passed upon certain things of nature (organised beings) and their possibility in accordance with the concept of final causes, even if we only desire a guiding thread to learn how to cognise their constitution through observation, without aspiring to an investigation into their first origin. The question therefore can only be: whether this fundamental proposition is merely subjectively valid, i.e. is a mere maxim of our Judgement; or whether it is an objective principle of nature, in accordance with which, apart from its mechanism (according to the mere laws of motion), quite a different kind of causality attaches to it, viz. that of final causes, under which these laws (of moving forces) stand only as intermediate causes.
+
+We could leave this question or problem quite undecided and unsolved speculatively; because if we content ourselves with speculation within the bounds of mere natural knowledge, we have enough in these maxims for the study of nature and for the tracking out of its hidden secrets, as far as human powers Edition: current; Page: [299] reach. There is then indeed a certain presentiment of our Reason or a hint as it were given us by nature, that, by means of this concept of final causes, we go beyond nature, and could unite it to the highest point in the series of causes, if we were to abandon or at least to lay aside for a time the investigation of nature (although we may not have advanced far in it), and seek thenceforth to find out whither this stranger in natural science, viz. the concept of natural purposes, would lead us.
+
+But here these undisputed maxims pass over into problems opening out a wide field for difficulties. Does purposive connexion in nature prove a particular kind of causality? Or is it not rather, considered in itself and in accordance with objective principles, similar to the mechanism of nature, resting on one and the same ground? Only, as this ground in many natural products is often hidden too deep for our investigation, we make trial of a subjective principle, that of art, i.e. of causality according to Ideas, and we ascribe it to nature by analogy. This expedient succeeds in many cases, but seems in some to mislead, and in no case does it justify us in introducing into natural science a particular kind of operation quite distinct from the causality according to the mere mechanical laws of nature. We give the name of Technic to the procedure (the causality) of nature, on account of the appearance of purpose that we find in its products; and we shall divide this into designed (technica intentionalis) and undesigned (technica naturalis). The first is meant to signify that the productive faculty of nature according to final causes must be taken for a particular kind of causality; the second that it is at bottom quite similar to the mechanism of Edition: current; Page: [300] nature, and that its contingent agreement with our artistic concepts and their rules should be explained as a mere subjective condition of judging it, and not, falsely, as a particular kind of natural production.
+
+If we now speak of systems explanatory of nature in regard of final causes, it must be remarked that they all controvert each other dogmatically, i.e. as to objective principles of the possibility of things, whether there are causes which act designedly or whether they are quite without design. They do not dispute as to the subjective maxims, by which we merely judge of the causes of such purposive products. In this latter case disparate principles could very well be unified; but in the former, contradictorily opposed laws annul each other and cannot subsist together.
+
+There are two sorts of systems as to the Technic of nature, i.e. its productive power in accordance with the rule of purposes; viz. Idealism or Realism of natural purposes. The first maintains that all purposiveness of nature is undesigned; the second that some (in organised beings) is designed. From this latter the hypothetical consequence can be deduced that the Technic of Nature, as concerns all its other products in reference to the whole of nature, is also designed, i.e. is a purpose.
+
+(1) The Idealism of purposiveness (I always understand here by this, objective purposiveness) is either that of the casuality or the fatality of the determination of nature in the purposive form of its products. The former principle treats of the reference of matter to the physical basis of its form, viz. the laws of motion; the second, its reference to the hyperphysical basis of itself and of the whole of nature. The system of casuality that is ascribed to Epicurus or Edition: current; Page: [301] Democritus is, taken literally, so plainly absurd that it need not detain us. Opposed to this is the system of fatality, of which Spinoza is taken as the author, although it is much older according to all appearance. This, as it appeals to something supersensible to which our insight does not extend, is not so easy to controvert; but that is because its concept of the original Being is not possible to understand. But so much is clear, that on this theory the purposive combination in the world must be taken as undesigned; for although derived from an original Being, it is not derived from its Understanding or from any design on its part, but rather from the necessity of its nature and of the world-unity which emanates therefrom. Consequently the Fatalism of purposiveness is at the same time an Idealism.
+
+(2) The Realism of the purposiveness of nature is also either physical or hyperphysical. The former bases the purposes in nature, by the analogy of a faculty acting with design, on the life of matter (either its own or the life of an inner principle in it, a world-soul) and is called Hylozoism. The latter derives them from the original ground of the universe, as from an intelligent Being (originally living), who produces them with design, and is Theism.

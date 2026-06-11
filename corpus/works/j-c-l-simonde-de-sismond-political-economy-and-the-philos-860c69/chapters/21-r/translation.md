@@ -1,0 +1,23 @@
+---
+work_id: "860c6910-d683-518e-83a8-2122036b29a0"
+work_slug: "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69"
+work_title: Political Economy and the Philosophy of Government
+author_name: J. C. L. Simonde de Sismondi
+chapter_number: 21
+chapter_title: R
+chapter_slug: "21-r"
+variant_id: "58109272-d9e8-5141-9083-6646a153f616"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 294
+source_url: "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+translator: Online Library of Liberty edition
+---
+
+Sismondi had been a witness of historical results and of their causes, and he resolved to write the history of the French. He immediately set about collecting the necessary works. “I look at these quartos with a sort of respect and fear,” said he, “when I think that I must go through all that, and that I must make myself as familiar with it as the collection of Muratori is become to me.”
+
+Hitherto, having worked by means of borrowed books, and, as happens to most of those who accustom themselves to trust always to their pen, written memory having almost annulled mental memory, he found himself obliged to make numerous and minute extracts. “The purchase of a choice library, formed without regard to expense,” wrote he to his mother—“for in fact they are the instruments of my trade” led him to change this mode. Instead of extracting, he composed annals, in which he entered the memorable events of each year, such as he drew them from the original sources. The simultaneous comparison of the different accounts of the same fact cleared up to him what had appeared obscure to the most eminent historians. The historian of the Republics had endeavoured to bring into our view that great number of lives, existing in so many independent sovereign cities, throughout the extent of Italy. The historian of France sought a different point of view. He had to explain a compact monarchy, the most closely united, the most complete organization. He untwisted the threads of this woof so solidly woven, and dividing his narrative into periods, questioned each on the secret cause of a progressive agglomeration, on the strength of a growing centralization; and endeavoured to discover how this indivisible unity was prepared, produced, and consolidated.

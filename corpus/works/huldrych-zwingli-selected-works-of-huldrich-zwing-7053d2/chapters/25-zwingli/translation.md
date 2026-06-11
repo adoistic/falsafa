@@ -1,0 +1,39 @@
+---
+work_id: "7053d22d-43d6-5cbe-ae49-762f62194fbe"
+work_slug: "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2"
+work_title: Selected Works of Huldrich Zwingli
+author_name: Huldrych Zwingli
+chapter_number: 25
+chapter_title: ZWINGLI.
+chapter_slug: "25-zwingli"
+variant_id: "6516046d-bdc3-5088-ba46-45fe74f494f5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1074
+source_url: "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+translator: Online Library of Liberty edition
+---
+
+You may well refer to it here; I am well satisfied, and I had rather have it before these gentlemen, since you yourself reported it.
+
+But there were several there, perhaps relatives of the aforesaid Master Jacob, who said and thought that Master Ulrich Edition: current; Page: [91] ought to act more politely, since one had scarcely incited Master Jacob to speak.
+
+To this Master Ulrich answered that he had never thought of the said Master Jacob, nor would it have occurred to him that he should speak concerning this, etc.
+
+Thus there arose a dispute; some of the councilors wanted the matter to be settled before the chapter, since it had been commenced there; the others thought that it should be tried in the presence of the scholars and gentlemen; but finally the matter was no more thought of and thus quieted, perhaps left to the chapter and thus remained unreferred to. This I report (although not serving much to the purpose) that I may not be accused of not understanding and refuting all speeches and opposition which occurred at that time.
+
+After this the mayor of Zurich permitted every one who did not belong to the council to go to his lodging and dine, until further request, for it was now approaching noon. But the councilors the aforesaid mayor ordered to remain, perhaps to consult further concerning this. Thus they arose, and many of the strangers went to their lodging. This much was done in the forenoon.
+
+After all had eaten they were told to appear again in the city hall to hear the decision made by the wise council of Zurich.
+
+After all had gathered, there was publicly read before the council as is written hereafter:
+
+When in the name of the Lord and upon the request of the mayor, council and great council of the city of Zurich, and for the reasons contained in the letters sent to you, you had obediently appeared, etc., and when again a year having passed since the honorable embassy of our gracious Lord of Constance, on account of such matters as you have heard to-day, was here in the city of Zurich before the mayor, small and great councils, and when these matters having been discussed in various fashions Edition: current; Page: [93] it was reported that our gracious Lord of Constance was about to call together the scholars in his bishopric, also the preachers of the neighboring bishoprics and parishes, to advise, help and treat with them, so that a unanimous decision might be reached and each one would know what to rely on, but since until now by our gracious Lord of Constance, perhaps from good reasons, not much has been done in this matter, and since more and more disputes are arising among ecclesiasts and laymen, therefore once more the mayor, council and great council of the city of Zurich, in the name of God, for the sake of peace and Christian unanimity, have fixed this day, and for the advantage of the praiseworthy embassy of our gracious Lord of Constance (for which they gave their gracious, high and careful thanks) have also for this purpose by means of open letter, as stated above, written, called and sent for all secular clergy, preachers and spiritual guides, together and individually, from all their counties into their city, in order that in the examination they might confront with each other those mutually accusing each other of being heretics. But since Master Ulrich Zwingli, canon and preacher of the Great Minster in the city of Zurich, has been formerly much talked against and blamed for his teachings, yet no one, upon his declaring and explaining his Articles, has arisen against him or attempted to overcome him by means of the Scriptures, and when he has several times also called upon those who have accused him of being a heretic to step forward, and no one showed in the least heresy in his doctrines, thereupon the aforesaid mayor, council and great council of this city of Zurich, in order to quell disturbance and dispute, upon due deliberation and consultation have decided, resolved, and it is their earnest opinion, that Master Ulrich Zwingli continue and keep on as before to proclaim the holy Gospel and the correct divine Scriptures with the spirit of God in accordance with his capabilities so long and so frequently until something better is made known to him. Furthermore, all your secular clergy, Edition: current; Page: [94] spiritual guides and preachers in your cities and counties and estates shall undertake and preach nothing except what they can defend by the Gospels and other right divine Scriptures; furthermore, they shall in no wise in the future slander, call each other heretic or insult in such manner. Those which seem contrary and do not obey will be restrained in such manner that they must see and discover that they have committed wrong. Done the Thursday after Carolus, in the city of Zurich, on the 29th day of January, in the year 1523.
+
+Thereupon Master Ulrich Zwingli arose and spoke thus: God be praised and thanked whose divine word will reign in heaven and upon earth. And you, my lords of Zurich, the eternal God doubtlessly will also in other affairs lend strength and might, so that you may in future advance and preach the truth of God, the divine Gospel, in your country. Do not doubt that Almighty God will make it good and reward you in other matters. Amen.
+
+Whether this decision having been read pleased the vicar of Constance or not I really don’t know, for he spoke thus: Dear gentlemen, much has been spoken to-day against the praiseworthy old traditions, usage and ordinance of the holy popes and fathers, whose ordinances and decrees have until now been held in all Christendom true, just and sinless. To protect Edition: current; Page: [95] and maintain this I have offered myself to the high councils. But now when for the first time to-day I have looked and glanced through the Articles of Master Ulrich (for I have not read them before), it seems to me truly that these are wholly and entirely at variance with and opposing the ritual (i. e., opposed to the praiseworthy splendor and glory of the churches done and decreed for the praise and honor of God), to the loss of the divine teaching of Christ. This I shall prove.

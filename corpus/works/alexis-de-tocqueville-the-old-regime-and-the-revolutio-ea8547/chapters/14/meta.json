@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
+  "work_title": "The Old Regime and the Revolution",
+  "chapter_number": 14,
+  "chapter_title": "CHAPTER VIII.: THAT FRENCHMEN HAD GROWN MORE LIKE EACH OTHER THAN ANY OTHER PEOPLE.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c221e0f8-807c-569e-8ccd-c86a12646a11",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1279,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+    }
+  ]
+}

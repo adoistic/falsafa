@@ -1,0 +1,26 @@
+{
+  "work_slug": "bruce-smith-liberty-and-liberalism-163e57",
+  "work_title": "Liberty and Liberalism",
+  "chapter_number": 12,
+  "chapter_title": "Chapter X SOCIALISM AND COMMUNISM.",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1fa7b97-2016-50de-8ee2-4a0c7d2ec1c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 52552,
+      "paragraph_count": 812,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-liberty-and-liberalism-1888"
+    }
+  ]
+}

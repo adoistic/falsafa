@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 1,
+  "chapter_title": "ENCHIRIDION THE EPISTLE",
+  "chapter_slug": "01-enchiridion-the-epistle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "176d4a6e-0198-5ffb-9d31-695e38bd07ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9990,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

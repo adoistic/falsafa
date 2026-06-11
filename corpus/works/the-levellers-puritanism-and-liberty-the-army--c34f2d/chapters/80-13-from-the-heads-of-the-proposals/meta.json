@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 80,
+  "chapter_title": "13.: From the Heads of the Proposals",
+  "chapter_slug": "80-13-from-the-heads-of-the-proposals",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ceb253b9-f8c1-5cff-b0f7-0628f2d30e81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2068,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

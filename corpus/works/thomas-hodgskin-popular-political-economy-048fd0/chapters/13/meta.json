@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-popular-political-economy-048fd0",
+  "work_title": "Popular Political Economy",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER X: EFFECTS OF THE ACCUMULATION OF CAPITAL.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96d18df2-b7ac-556b-a256-0379ab1052d2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6109,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution"
+    }
+  ]
+}

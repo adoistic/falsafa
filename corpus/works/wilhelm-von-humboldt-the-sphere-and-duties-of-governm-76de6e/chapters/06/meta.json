@@ -1,0 +1,26 @@
+{
+  "work_slug": "wilhelm-von-humboldt-the-sphere-and-duties-of-governm-76de6e",
+  "work_title": "The Sphere and Duties of Government",
+  "chapter_number": 6,
+  "chapter_title": "CHAPTER IV.: of the solicitude of the state for the negative welfare of the citizen—for his security.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25c34a07-cf43-5f3d-8129-a7ab92808276",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 983,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/coulthard-the-sphere-and-duties-of-government-1792-1854"
+    }
+  ]
+}

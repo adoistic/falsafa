@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-price-observations-on-the-nature-of-ci-b35d14",
+  "work_title": "Observations on the Nature of Civil Liberty",
+  "chapter_number": 10,
+  "chapter_title": "SECT. II.: Whether the War with America is justified by the Principles of the Constitution.",
+  "chapter_slug": "10-sect-ii-whether-the-war-with-america-is-justified-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6014f488-6f66-5050-9427-12de5e09a0fe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 514,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/price-observations-on-the-nature-of-civil-liberty"
+    }
+  ]
+}

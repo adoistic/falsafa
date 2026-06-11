@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 120,
+  "chapter_title": "The Doctor’s Answer.",
+  "chapter_slug": "120-the-doctor-s-answer",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50f74e3d-f0b5-556e-a43d-740926daa2f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 99,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

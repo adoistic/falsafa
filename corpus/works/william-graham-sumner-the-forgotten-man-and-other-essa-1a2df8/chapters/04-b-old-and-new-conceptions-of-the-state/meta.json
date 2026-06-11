@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 4,
+  "chapter_title": "(B): Old and New Conceptions of the State.",
+  "chapter_slug": "04-b-old-and-new-conceptions-of-the-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78a06cd9-aaad-5eac-be66-1e051f5d5f0b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1098,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+---
+work_id: "78e0baf7-f0f2-5314-98dd-73981f733475"
+work_slug: "william-graham-sumner-earth-hunger-and-other-essays-78e0ba"
+work_title: "Earth-Hunger and Other Essays"
+author_name: William Graham Sumner
+chapter_number: 35
+chapter_title: A GROUP OF NATURAL MONOPOLIES
+chapter_slug: "35-a-group-of-natural-monopolies"
+variant_id: "5b43c379-8131-5e00-9ae6-b97d3e97d3f7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1173
+source_url: "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
+translator: Online Library of Liberty edition
+---
+
+The means of transportation are natural monopolies. A turnpike, a canal, or a railroad from one point to another, if it could run on a mathematical straight line, would be a complete monopoly because there is but one such line. If more and more railroads are built until they form a net-work, they either form a very highly developed form of competition, in which there are complicated factors united under a very intricate combination, or they run over into artificial monopolies. In the former case the legitimate remuneration of the owners of the railroad is sacrificed; in the latter case the tendency is to take away from the community all advantage of the railroads by making the people pay so much for it that they are in effect put back where they would have been if there had been no railroad. Hence the immense complexity of the railroad problem and the mischief of the various rough-and-ready solutions of it which have been offered.
+
+The transmission of intelligence by telegraph is a natural monopoly; the mail and express transportations are included under transportation in general; and all other transmission of intelligence by telegraph or telephone must be a monopoly. The physical difficulties of reduplicating the apparatus within the limits of space where it must be used produce this necessity.
+
+The organization for this purpose which has the most widely extended apparatus, which can reach the greatest number of points, and which is ready to take any Edition: current; Page: [246] business at any time and perform it with the least doubt or delay, will always have an advantage in competition for business, if there is competition, which will enable it to advance to a monopoly. The reasons lie in the natural conditions of the business and there is, as yet, no means known for escaping it.
+
+The gas and water supply, and apparently, also, the electric light supply of a city are natural monopolies. The reasons are chiefly those already given with regard to telegraphs; the physical conditions of the space within which the apparatus must lie make it impossible to bring competition to bear.
+
+All literary productions are natural monopolies. A newspaper is a natural monopoly; it uses its name for a definition and limit of its monopoly; it exploits its reputation and its efforts toward success all take the form of distinguishing itself from other journals and conquering a field of influence and profit which it can maintain as exclusively as possible. The great number of journals tend more and more, as they win success, to become individualized and then the exploitation of their productive power is subject to the rules of monopoly.
+
+Every book is a monopoly, and copyrights, perhaps, better than anything else serve to illustrate the wide range through which monopoly may act. Volumes are printed which scarcely any one will buy. The owner of the copyright has an absolute monopoly, but, there being no demand, his monopoly is worthless—from which it appears that a man cannot oppress his fellows simply because “he has a monopoly.” From this supposition upward there may be all stages of demand for a book until we come to those which can be sold by the tens of thousands. The law of copyright does not create the monopoly; that lies in the unique creation of the Edition: current; Page: [247] author; the law only enables him to prevent any one else from exploiting it, just as it prevents one man from exploiting another man’s land. Neither does the law give him possession of the ideas in the book but only of the mechanical form and verbal dress in which they are composed. Hence the customary coupling together of patents and copyrights is incorrect, for patents are artificial monopolies, while copyrights are natural monopolies.
+
+On account of the common element of natural monopoly, the business of a great publishing house and the business of a great railroad have common elements in the economic principles on which they are conducted, however far apart the two forms of business may, in their general character, seem to be.
+
+A paper currency is a natural monopoly; banks did not make it a monopoly. The amount of money-metal in the world being taken as it is, the specie circulation must be an exact quantity, and paper currency to that amount can be issued, and no more. It may all be issued by one bank, or a thousand may compete for it, but its total is limited in value amount. If more should be issued, it would depreciate so that, at least, its value would not exceed the specie which it displaced.
+
+Finally all forms of personal excellence, superiority, skill, and distinguished attainment constitute natural monopolies and find their reward under applications of the monopoly principle. The doctrine of non-competing groups in industry is simply a case of monopoly. Those men who enter into the industrial organization armed only with muscular power and without natural or acquired power to distinguish them from brutes or machines are on a dead level of competition with brutes or machines; then every advancing grade of acquirement Edition: current; Page: [248] forms the basis of a new and, generally speaking, less numerous group of persons. Every such group of higher and higher specialization is protected in its higher advantages by the principle of monopoly. When we try to stimulate our young men to work and study, and to the improvement of their youth, we declare to them that every attainment which they make will secure to them command over the ills and chances of life; but we have no guarantee for the truth of what we say except in the monopoly advantage which comes from superiority. The professions, in general, owe their superior advantage to the double fact that they are occupied with personal services in which machines cannot compete, and that the natural monopoly in them is hedged about by high acquirements which cost long effort and large expenditure of capital.
+
+From these instances and those which I gave in a former place it is evident that “monopoly” is not what it is often called in current declamation. Monopoly is not an invention of man, least of all a modern invention; nor is it a product of “capitalistic society”; it is interwoven with the whole life of man on earth, in all its forms and from the earliest times. It is not now at one pole of society, with competition and liberty at the other; they meet and shade off into each other at a common boundary. It is not reasonable to denounce natural monopolies, because if they are founded in the order of nature no one is to blame for them, and nothing can modify them but such applications of intelligence as may change their form or combine their action with new forces. Neither are natural monopolies all or always mischievous; they have very great utility and advantage. It is therefore an abuse to use “monopoly” as a word of sweeping and self-evident condemnation.

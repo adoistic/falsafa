@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 20,
+  "chapter_title": "Chap. VI.: The Spanish Treasure cannot be kept from other Kingdoms by any prohibition made in Spain.",
+  "chapter_slug": "20-chap-vi-the-spanish-treasure-cannot-be-kept-from-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf9ed1c9-94a6-5c13-b352-f5a06bf4c88b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1040,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

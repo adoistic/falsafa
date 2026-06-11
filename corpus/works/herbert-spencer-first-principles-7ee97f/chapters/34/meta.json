@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-first-principles-7ee97f",
+  "work_title": "First Principles",
+  "chapter_number": 34,
+  "chapter_title": "CHAPTER XIX.: THE INSTABILITY OF THE HOMOGENEOUS.",
+  "chapter_slug": "34",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b041f2b7-8dfd-506b-a642-059617adfc5a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9819,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
+    }
+  ]
+}

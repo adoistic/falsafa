@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 51,
+  "chapter_title": "Advertisement to the Reader, or Direction to the Answerer.",
+  "chapter_slug": "51-advertisement-to-the-reader-or-direction-to-the-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97c52a9a-771a-52c5-b903-28de41818390",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 279,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

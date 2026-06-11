@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc",
+  "work_title": "The History of Bimetallism in the United States",
+  "chapter_number": 47,
+  "chapter_title": "ACT II. Authorizing the ministry of the kingdoms and lands represented in the Reichsrath to conclude a treaty for moneta",
+  "chapter_slug": "47-act-ii-authorizing-the-ministry-of-the-kingdoms-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec5267b1-6034-560e-941b-daa360f9d8f6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 196,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+    }
+  ]
+}

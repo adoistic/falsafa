@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 95,
+  "chapter_title": "§ 79.: Whether teleology must be treated as if it belonged to the doctrine of nature",
+  "chapter_slug": "95-79-whether-teleology-must-be-treated-as-if-it-belo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "999e3d99-2bc3-5a59-887f-28bbefc0f6ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 501,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 61,
+  "chapter_title": "I.—: Duties on Corn and Meat.",
+  "chapter_slug": "61-i-duties-on-corn-and-meat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "686bc613-2f00-509c-9b8c-b220b96bdf7e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 767,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

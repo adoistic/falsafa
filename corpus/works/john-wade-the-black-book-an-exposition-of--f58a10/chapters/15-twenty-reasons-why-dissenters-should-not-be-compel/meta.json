@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 15,
+  "chapter_title": "Twenty Reasons why Dissenters should not be compelled to pay Church Rates and Tithes, or in any way to support the Churc",
+  "chapter_slug": "15-twenty-reasons-why-dissenters-should-not-be-compel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7bb9b589-34aa-5877-9163-57237eb96552",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 230,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

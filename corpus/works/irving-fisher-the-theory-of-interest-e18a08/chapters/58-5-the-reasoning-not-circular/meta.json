@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 58,
+  "chapter_title": "§5. The Reasoning not \"Circular\"",
+  "chapter_slug": "58-5-the-reasoning-not-circular",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "af9f4409-702a-5ed5-8198-355ce79ad40b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1158,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

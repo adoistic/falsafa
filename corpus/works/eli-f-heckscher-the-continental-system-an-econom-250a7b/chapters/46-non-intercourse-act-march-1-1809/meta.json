@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 46,
+  "chapter_title": "NON-INTERCOURSE ACT (MARCH 1, 1809)",
+  "chapter_slug": "46-non-intercourse-act-march-1-1809",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "312083f0-f7a6-5ea4-bc9e-7a09bad3cb90",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 779,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

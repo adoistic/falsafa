@@ -1,0 +1,23 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 31
+chapter_title: "CHAPTER II.: THE BERLIN DECREE"
+chapter_slug: 31
+variant_id: "97ffbd4e-0f90-5add-be3e-00071e05fec0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 490
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+THE years 1803-6 were notoriously full of world-overturning events: Napoleon's preparation for a descent on England (1803-5); the foundation of the French Empire (May-December 1804); the formation of the Third Coalition against France and its defeat at Ulm and Austerlitz (October and December 1805); as an immediate sequel to this, the Peace of Pressburg, with the extension of the 'coast system' to the eastern shore of the Adriatic, but also the definitive overthrow of the French fleet at Trafalgar (October 21, 1805); and finally the formation of the Fourth Coalition and the crushing of Prussia at Jena and Auerstadt (October 14, 1806).
+
+In the autumn of 1806, therefore, Napoleon's victory on the Continent was as complete as his defeat at sea. Consequently he was so far perfectly right when in later years he pointed to the battle of Jena as the natural antecedent to the execution of the Continental System, inasmuch as that battle placed into his hands the control of the Weser, Elbe, Trave, Oder, and all the coastline as far as the Vistula, although, naturally enough, he omitted to point to the battle of Trafalgar as a negatively operating factor. The great manifestation consisted in the Berlin decree, issued November 21, 1806, from the capital of the power that had been last and most thoroughly vanquished. The external occasion was Great Britain's recently mentioned blockade declaration of May 16 of the same year; but that was nothing more than a pretext. Sorel has brought to light some documents of July 1805, and February 1806, written by a certain Montgaillard, in which the Berlin decree is portended. In these documents there is the usual talk of how England is lost if it is only possible to enforce a prohibition of her industrial products in Europe, for to destroy her trade is to deal her a blow Edition: current; Page: [89] in the heart and to attack her alliances at the same time as her continental intrigues. But the idea that peace with the different powers would have as a necessary pre-condition the closing of all the ports of the mainland to the British was evidently very widespread, as can be seen from a contemporary utterance of French industrialists. And, indeed, even before the issue of the decree we find Napoleon, both in one of his army bulletins (October 23) and in a letter to his brother Joseph (November 16), speaking of the continental blockade as a matter of course. At the same time as this last letter, another letter was addressed to the commander of North Germany, Marshal Mortier, instructing him to close the Elbe 'hermetically', to confiscate all English goods, and even to arrest the English and Russian consuls at Hamburg. In every respect, therefore, the Berlin decree stands out as a culmination of earlier thoughts and measures, although, despite all this, it had the effect of a bomb, thanks to Napoleon's masterly capacity as a stage manager.

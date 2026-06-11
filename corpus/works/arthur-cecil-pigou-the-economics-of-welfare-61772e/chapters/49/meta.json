@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 49,
+  "chapter_title": "Chapter XV: FAIR WAGES INSIDE PARTICULAR INDUSTRIES",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "750ad7cb-7c9e-5c6f-9b1a-1ea34aa20831",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4028,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

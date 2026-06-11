@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 12,
+  "chapter_title": "IX: HENRY THE FOURTH AND RICHELIEU",
+  "chapter_slug": "12-ix-henry-the-fourth-and-richelieu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93d36db9-ee6f-5309-84ca-70c50f181be3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4253,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

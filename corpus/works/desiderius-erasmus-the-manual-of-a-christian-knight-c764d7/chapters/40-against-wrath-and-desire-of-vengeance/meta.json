@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 40,
+  "chapter_title": "Against wrath and desire of vengeance.",
+  "chapter_slug": "40-against-wrath-and-desire-of-vengeance",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9dc81b96-6554-5186-8764-9fb802c1c989",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3019,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

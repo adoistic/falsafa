@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 139,
+  "chapter_title": "The Principles of Government.",
+  "chapter_slug": "139-the-principles-of-government",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5eaee8e-d0b7-5c6b-9f27-19bb144bdd2e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 255,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

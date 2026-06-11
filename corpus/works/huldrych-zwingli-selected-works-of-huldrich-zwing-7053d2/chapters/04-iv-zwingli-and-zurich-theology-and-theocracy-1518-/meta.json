@@ -1,0 +1,26 @@
+{
+  "work_slug": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+  "work_title": "Selected Works of Huldrich Zwingli",
+  "chapter_number": 4,
+  "chapter_title": "IV.: Zwingli and Zürich: Theology and Theocracy, 1518-1531",
+  "chapter_slug": "04-iv-zwingli-and-zurich-theology-and-theocracy-1518-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69f393b1-f6db-5e75-b995-6020c9732d65",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3500,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+    }
+  ]
+}

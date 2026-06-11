@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-smiles-self-help-5f53da",
+  "work_title": "Self-Help",
+  "chapter_number": 1,
+  "chapter_title": "INTRODUCTION.",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2da38132-6924-5027-9f45-b8b73c8fc563",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1028,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct"
+    }
+  ]
+}

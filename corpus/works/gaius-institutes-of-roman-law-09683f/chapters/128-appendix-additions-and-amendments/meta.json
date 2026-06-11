@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 128,
+  "chapter_title": "APPENDIX ADDITIONS AND AMENDMENTS",
+  "chapter_slug": "128-appendix-additions-and-amendments",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a12117b2-1a0b-5318-bc32-a44486e085ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5266,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

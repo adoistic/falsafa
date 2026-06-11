@@ -1,0 +1,26 @@
+{
+  "work_slug": "bruce-smith-liberty-and-liberalism-163e57",
+  "work_title": "Liberty and Liberalism",
+  "chapter_number": 4,
+  "chapter_title": "Chapter II POLITICAL PARTY-TITLES—A SHORT ACCOUNT OF THEIR ORIGIN AND MEANING.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "567a51e6-cca3-5c89-b680-f920770b1f08",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10867,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-liberty-and-liberalism-1888"
+    }
+  ]
+}

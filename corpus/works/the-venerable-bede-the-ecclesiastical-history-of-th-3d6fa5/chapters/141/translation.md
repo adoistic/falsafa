@@ -1,0 +1,25 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 141
+chapter_title: CHAPTER XX
+chapter_slug: 141
+variant_id: "52c5f201-585b-5f64-8829-a1a977f7016d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 484
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+albinus succeeded to the religious abbat hadrian, and acca to bishop wilfrid. [ad 709.]
+
+The next year after the death of the aforesaid father (Wilfrid), that is, in the first year of King Osred, the most reverend father, Abbat Hadrian, fellow labourer in the word of God with Theodore the archbishop of blessed memory, died, and was buried in the church of the blessed Mother of God, in his own monastery, this being the forty-first year from his being sent by Pope Vitalian with Theodore, and the thirty-ninth after his arrival in England. Of whose learning, as well as that of Theodore, one testimony among others is, that Albinus, his disciple, who succeeded him in the government of his monastery, was so well instructed in the study of the Scriptures, that he knew the Greek tongue to no small perfection, and the Latin as thoroughly as the English, which was his native language.
+
+Acca, his priest, succeeded Wilfrid in the bishopric of the church of Hagulstad; being himself a most active man, and great in the sight of God and man, he much adorned and added to the structure of his church, which is dedicated to the Apostle St. Andrew. For he made it his business, and does so still, to procure relics of the blessed apostles and martyrs of Christ from all parts, to place them on altars, dividing the same by arches in the walls of the church. Besides which, he diligently gathered the histories of their sufferings, together with other ecclesiastical writings, and erected there a most numerous and noble library. He likewise industriously provided holy vessels, lights, and such like things as appertain to the adorning of the house of God. He in like manner invited to him a celebrated singer, called Maban, who had been taught to sing by the successors of the disciples of the blessed Gregory in Kent, for him to instruct himself and his clergy, and kept him twelve years, to teach such ecclesiastical songs as were not known, and to restore those to their former state which were corrupted either by want of use, or through neglect. For Bishop Acca himself was a most expert singer, as well as most learned in Holy Writ, most pure in the confession Edition: current; Page: [264] of the catholic faith, and most observant in the rules of ecclesiastical institution; nor did he ever cease to be so till he received the rewards of his pious devotion, having been bred up and instructed among the clergy of the most holy and beloved of God, Bosa, bishop of York. Afterwards, coming to Bishop Wilfrid in hopes of improving himself, he spent the rest of his life under him till that bishop’s death, and going with him to Rome, learned there many profitable things concerning the government of the holy church, which he could not have learned in his own country.

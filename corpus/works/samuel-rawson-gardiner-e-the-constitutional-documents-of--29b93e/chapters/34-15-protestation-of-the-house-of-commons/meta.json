@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
+  "work_title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
+  "chapter_number": 34,
+  "chapter_title": "15.: Protestation of the House of Commons.",
+  "chapter_slug": "34-15-protestation-of-the-house-of-commons",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64a5b3f5-0ac5-5f61-adfc-b03da90b96df",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 136,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660"
+    }
+  ]
+}

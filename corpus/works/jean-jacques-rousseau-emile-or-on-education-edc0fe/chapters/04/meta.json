@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-emile-or-on-education-edc0fe",
+  "work_title": "Emile, or On Education",
+  "chapter_number": 4,
+  "chapter_title": "BOOK II",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4e2ab69-e220-5fad-a4f1-48449e033050",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 19871,
+      "paragraph_count": 163,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rousseau-emile-or-education"
+    }
+  ]
+}

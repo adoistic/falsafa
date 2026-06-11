@@ -1,0 +1,26 @@
+{
+  "work_slug": "josiah-tucker-four-tracts-on-political-and-com-61cd0d",
+  "work_title": "Four Tracts on Political and Commercial Subjects",
+  "chapter_number": 6,
+  "chapter_title": "CHAP. III.: Prevention of Wars.",
+  "chapter_slug": "06-chap-iii-prevention-of-wars",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ece66370-6f37-5a3e-9a3b-79a99ceb2a71",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8700,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tucker-four-tracts-on-political-and-commercial-subjects"
+    }
+  ]
+}

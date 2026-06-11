@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
+  "work_title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
+  "chapter_number": 125,
+  "chapter_title": "91.: An Act declaring what offences shall be adjudged Treason.",
+  "chapter_slug": "125-91-an-act-declaring-what-offences-shall-be-adjudge",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1dc052e2-19c2-511f-bb75-ff0d1e077df2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1036,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 63,
+  "chapter_title": "APPENDIX E DEFINITIONS OF CAPITAL.",
+  "chapter_slug": "63-appendix-e-definitions-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df38efa1-e59e-5f2a-b989-f0678039aa74",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2191,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

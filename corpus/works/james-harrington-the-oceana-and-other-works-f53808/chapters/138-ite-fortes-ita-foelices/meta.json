@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 138,
+  "chapter_title": "Ite fortes, ita fœlices.",
+  "chapter_slug": "138-ite-fortes-ita-foelices",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e0bb969-58a4-5786-9d55-3fbf7a66633d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

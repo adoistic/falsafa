@@ -1,0 +1,27 @@
+---
+work_id: "78eea228-43bf-52d3-b02e-0c2a9e353433"
+work_slug: "henry-sumner-maine-ancient-law-78eea2"
+work_title: Ancient Law
+author_name: Henry Sumner Maine
+chapter_number: 31
+chapter_title: "NOTE Q.: RES MANCIPI; ALIENATION IN EARLY LAW."
+chapter_slug: "31-note-q-res-mancipi-alienation-in-early-law"
+variant_id: "aed09239-2ee1-58de-a045-52589b2020cf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 731
+source_url: "https://oll.libertyfund.org/titles/pollock-ancient-law"
+translator: Online Library of Liberty edition
+---
+
+Maine’s opinion that the res mancipi of ancient Roman law were “the instruments of agricultural labour, the commodities of first consequence to a primitive people” is entirely confirmed by the best recent authors. Professor Girard, agreeing with Ihering, Sohm, and Cuq, considers the soundest explanation (“la doctrine la moins aventureuse”) to be that the category consists of the necessary elements of the original Roman farmer’s goods, to which alone, therefore, the early “Roman forms of alienation” were applicable. It is further suggested that at first only res mancipi were the subjects of full ownership, and that, at a time before individual property in land was alienable, the distinction mancipi—nec mancipi coincided with that of familia and pecunia, which had become obsolete at the date of the Twelve Tables (Girard, “Manuel,” p. 247). Muirhead’s explanation (“Private Law of Rome,” p. 63) is similar, adding that the things constituting the familia were those which determined a Roman citizen’s political qualification after the Servian reforms. Alienation of such things might affect the owner’s political standing, and was therefore of public importance; but I am not clear that this reason is Edition: current; Page: [441] not superfluous. Muirhead observes, deliberately not following Gaius, that the fundamental notion of mancipium is manum—not manu—capere, the acquirement of manus in the sense of legal dominion (op. cit. p. 61), which seems highly probable.
+
+As to the fetters on alienation usually found in early systems of property law, Maine set it down as “remarkable that the Anglo-Saxon customs seem to have been an exception” to the prevailing Germanic usage which forbade alienation of land without the consent of the family or at least the sons of the grantor. Maine’s insight is now justified. The freedom which he thought anomalous, though it was accepted as a fact by the best authorities then accessible on Anglo-Saxon law, was really very partial indeed, being confined to land, or rather lordship over land, held by privileged persons and bodies under the privileged instruments known to contemporaries as “books” and to us as charters. Only after the Norman Conquest did the charter become a “common assurance.” As I tried not long ago to sum up in the simplest form practicable what is known and not known about customary land tenure before the Conquest, I may as well repeat my words:—
+
+“We know next to nothing of the rules under which free men, whether of greater or lesser substance, held ‘folk-land,’ that is, estates governed by the old customary law. Probably there was not much buying and selling of such land. There is no reason to suppose that alienation was easier than in other archaic societies, and some local customs found surviving long after the Conquest point to the conclusion that often the consent of the village as well as of the family was a necessary condition of a sale. Indeed, it is not certain that folk-land, generally speaking, could be sold at all. There is equally no reason to think that ordinary free landholders could dispose of their land by will, or were in the habit of making wills for any purpose. Anglo-Saxon wills (or rather documents more like a modern will than a modern deed) exist, but they are the wills of great folk, such as were accustomed to witness the king’s charters, had their own wills witnessed or confirmed by bishops and kings, and held charters of their own; and it is by no means clear that the lands dealt with in these wills were held as ordinary folk-land. In some cases it looks as if a special license or consent had been required; we also hear of persistent attempts by the heirs to dispute even gifts to great churches” (“The Expansion of the Common Law,” pp. 156-7).
+
+The analogy which Maine points out (p. 279) between the Roman cessio in iure and the Fines and Recoveries of medieval English law is of course genuine; but much earlier Germanic examples of a like device may be found, though not in England. Auflassung is the modern German term. Methods of this kind, when once ascertained to be efficient, are often used merely by way of abundant caution in spite of the additional trouble and expense involved. But in the classical real property law of the fifteenth century Fine and Recovery were already taking their places as regular specialised parts of a technical machinery.

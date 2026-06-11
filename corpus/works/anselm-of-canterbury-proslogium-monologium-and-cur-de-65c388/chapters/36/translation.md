@@ -1,0 +1,25 @@
+---
+work_id: "65c38856-6963-53d0-a517-e894e1b0a111"
+work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
+work_title: Proslogium; Monologium; and Cur Deus Homo
+author_name: Anselm of Canterbury
+chapter_number: 36
+chapter_title: CHAPTER XXIII.
+chapter_slug: 36
+variant_id: "4a84940c-12b4-5a93-a104-3c3fab93ceeb"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 378
+source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+translator: Online Library of Liberty edition
+---
+
+This good is equally Father, and Son, and Holy Spirit. And this is a single, necessary Being, which is every good, and wholly good, and the only good —Since the Word is true, and is truth itself, there is nothing in the Father, who utters it, which is not accomplished in the Word by which he expresses himself Neither is the love which proceeds from Father and Son unequal to the Father or the Son, for Father and Son love themselves and one another in the same degree in which what they are is good. Of supreme simplicity nothing can be born, and from it nothing can proceed, except that which is this, of which it is born, or from which it proceeds.
+
+This good thou art, thou, God the Father; this is thy Word, that is, thy Son. For nothing, other than what thou art, or greater or less than thou, can be in the Word by which thou dost express thyself; for thy Word is true, as thou art truthful. And hence it is truth itself, just as thou art; no other truth than thou; and thou art of so simple a nature, that of thee nothing can be born other than what thou art. This very good is the one love common to thee and to thy Son, that is, the Holy Spirit proceeding from both. For this love is not unequal to thee or to thy Son; seeing that thou dost love thyself and him, and he, thee and himself, to the whole extent of thy being and his. Nor is there aught else proceeding from Edition: current; Page: [29] thee and from him, which is not unequal to thee and to him. Nor can anything proceed from the supreme simplicity, other than what this, from which it proceeds, is.
+
+But what each is, separately, this is all the Trinity at once, Father, Son, and Holy Spirit; seeing that each separately is none other than the supremely simple unity, and the supremely unitary simplicity. which can neither be multiplied nor varied. Moreover, there is a single necessary Being. Now, this is that single, necessary Being, in which is every good; nay, which is every good, and a single entire good, and the only good.

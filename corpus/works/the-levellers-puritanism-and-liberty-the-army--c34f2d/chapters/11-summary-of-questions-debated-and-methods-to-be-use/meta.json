@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 11,
+  "chapter_title": "[Summary of Questions Debated and Methods to be Used]",
+  "chapter_slug": "11-summary-of-questions-debated-and-methods-to-be-use",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d19cccd5-3ad4-5a24-b6d9-17d9a6f9de6b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 198,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

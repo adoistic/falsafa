@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 3,
+  "chapter_title": "INAUGURAL LECTURE ON THE STUDY OF HISTORY",
+  "chapter_slug": "03-inaugural-lecture-on-the-study-of-history",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b85a106-f5e6-5d1d-afef-ce207b78c851",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10089,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

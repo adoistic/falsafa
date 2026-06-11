@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 103,
+  "chapter_title": "VIII.—: Opposition of the Working Classes to Protection.",
+  "chapter_slug": "103-viii-opposition-of-the-working-classes-to-protecti",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c69dee4-9d51-51c2-88ff-38eb1dc9307b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 738,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

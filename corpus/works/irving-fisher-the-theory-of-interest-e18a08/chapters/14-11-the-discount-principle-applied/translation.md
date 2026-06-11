@@ -1,0 +1,27 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 14
+chapter_title: §11. The Discount Principle Applied
+chapter_slug: "14-11-the-discount-principle-applied"
+variant_id: "a81ce25e-d5c4-5973-ba15-1f8810c08348"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 495
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+The principles which have been explained for obtaining the present value of a future sum apply very definitely to many commercial transactions, such as to the valuation of bank assets, which indeed exist largely in the form of discount paper, or short time loans of some other kinds. Edition: current; Page: [17] The value of a note is always the discounted value of the future payment to which it entitles the holder.
+
+Elaborate mathematical tables have been calculated and are used by brokers for informing their customers what price should be paid for a five per cent bond in order that the purchaser may realize 5 per cent, 4 per cent, or any other rate of interest on the prices to be paid. The price of the bond is calculated from two items, the rate of interest to be realized and the series of sums or other benefits which the bond is going to return to the investor. Aside from risk, there can never be any other factors in the calculation except these two. Of course, an investor may refuse to buy a bond at the market price because he has, as an alternative, the opportunity to buy another bond cheaper so that he can realize a higher rate on his purchase price. But that fact does not alter the principle that market prices represent discounted benefits. The only market effect of this man's refusal will be a slight tendency to lower the market price of the first bond and raise that of its rival, that is, to alter the rate of interest realized. Later we shall study more fully the effects of such alternative opportunities. Here we are concerned only to note that the price of the bond is dependent solely on two factors: (1) its benefits and (2) the interest rate by which these are discounted.
+
+The principle is, of course, not confined to bonds. It applies in any market to all property and wealth—stocks, land (which has a discounted capital value just as truly as any other capital), buildings, machinery, or anything whatsoever. Risk aside, each has a market value dependent solely on the same two factors, the benefits, or re Edition: current; Page: [18] turns, expected by the investor and the market rate of interest by which those benefits are discounted.
+
+The income which he expects may be a perpetual income (flowing uniformly or in recurring cycles) or it may be any one of innumerable other types. If we assume that five per cent is the rate of interest, any one of the following income streams will have a present value of $1000: a perpetual annuity of $50 per year; or an annuity of $50 a year for ten years, together with $1000 at the end of the period; or $100 a year for fourteen years, after which nothing at all; or $25 a year for ten years, followed by $187.50 a year for ten years, after which nothing at all.

@@ -1,0 +1,27 @@
+---
+work_id: "2a3a3942-8c47-5947-addf-a3a17979adcb"
+work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
+work_title: An Essay on Crimes and Punishments
+author_name: Cesare Beccaria
+chapter_number: 17
+chapter_title: "CHAPTER XV.: OF SECRET ACCUSATIONS."
+chapter_slug: 17
+variant_id: "8cb485bc-b06c-5b67-aa81-39ed16096c40"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 613
+source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+translator: Online Library of Liberty edition
+---
+
+Secret accusations are a manifest abuse, but consecrated by custom in many nations, where, from the weakness of the government, they are necessary. This custom makes men false and treacherous. Whoever suspects another to be an informer, beholds in him an enemy; and, from thence, mankind are accustomed to disguise their real sentiments; and from the habit of concealing them from others, they at last even hide them from themselves. Unhappy are those, who have arrived at this point! Without any certain and fixed principles to guide them, they fluctuate in the vast sea of opinion, and are busied only in escaping the monsters which surround them; to those, the present is always embittered by the uncertainty of the future; deprived of the pleasures of tranquillity and security, some fleeting moments of happiness, scattered thinly through their wretched lives, console them for the misery of existing. Shall we, amongst such men, find Edition: current; Page: [56] intrepid soldiers to defend their king and country? Amongst such men shall we find incorruptible magistrates, who, with the spirit of freedom and patriotic eloquence, will support and explain the true interest of their sovereign; who, with the tributes, offer up at the throne the love and blessing of the people, and thus bestow on the palaces of the great, and the humble cottage, peace and security; and to the industrious a prospect of bettering their lot, that useful ferment and vital principle of states?
+
+Who can defend himself from calumny, armed with that impenetrable shield of tyranny, secrecy? What a miserable government must that be, where the sovereign suspects an enemy in every subject, and, to secure the tranquillity of the public, is obliged to sacrifice the repose of every individual?
+
+By what arguments is it pretended, that secret accusations may be justified? The public safety, say they, and the security and maintenance of the established form of government. But what a strange constitution is that, where the government, which hath in its favour not only power but opinion, still more efficacious, yet fears its own subjects? The indemnity of the informer. Do not the laws defend him sufficiently; and are there subjects more powerful than the laws? The Edition: current; Page: [57] necessity of protecting the informer from infamy. When secret calumny is authorised, and punished only when public. The nature of the crime. If actions, indifferent in themselves, or even useful to the public, were called crimes, both the accusation and the trial could never be too secret. But can there be any crime, committed against the public, which ought not to be publicly punished? I respect all governments; and I speak not of any one in particular. Such may sometimes be the nature of circumstances, that when abuses are inherent in the constitution, it may be imagined, that to rectify them, would be to destroy the constitution itself. But were I to dictate new laws in a remote corner of the universe, the good of posterity, ever present to my mind, would hold back my trembling hand, and prevent me from authorising secret accusations.
+
+Public accusations, says Montesquieu, are more conformable to the nature of a republic, where zeal for the public good is the principal passion of a citizen, than of a monarchy, in which, as this sentiment is very feeble, from the nature of the government, the best establishment is that of commissioners, who, in the name of the public, accuse the infractors of the laws. But in all governments as well in a republic as in a monarchy, Edition: current; Page: [58] the punishment, due to the crime of which one accuses another, ought to be inflicted on the informer.

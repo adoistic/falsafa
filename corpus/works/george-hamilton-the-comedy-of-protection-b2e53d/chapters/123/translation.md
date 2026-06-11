@@ -1,0 +1,27 @@
+---
+work_id: "b2e53d8f-9a78-5b15-9c53-4db14ec44da5"
+work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
+work_title: The Comedy of Protection
+author_name: George Hamilton
+chapter_number: 123
+chapter_title: "CHAPTER III: GERMAN FOREIGN TRADE"
+chapter_slug: 123
+variant_id: "e3275aa0-8db4-57a5-b5f5-a866b2a7b489"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 420
+source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+translator: Online Library of Liberty edition
+---
+
+Customs statistics worthless up to 1880—Inclusion of the free towns after 1889—Statistics from 1889-1904—Export—Payment of debt—Iron—Imports increase in spite of efforts to restrain them.
+
+Nevertheless a great deal has been made of the industrial development of Germany, and although her imports exceed her exports, those who weigh the balance of commerce are never tired of admiring the increase at each end of the scale; they even go as far as to compare the trade of Germany in 1870 with that of 1904, although since the German Empire only came into existence in 1871 any calculations up to 1880 are quite worthless. Hamburg and Bremen did not enter the Imperial Customs Union (Zollverein) till 1888. Customs statistics before 1888 cannot be compared with that of to-day; those who undertake such a comparison may obtain some very striking percentages, but all their conclusions are nullified by their mistaken premises. Glancing over the statistics for German imports and exports since 1889, we find:—
+
+The increase in exports from 1895 on is due to Caprivi’s policy of commercial treaties, which, however, the Emperor did not hesitate to sacrifice to agrarians. The increase of exports in 1902-3 is not due to prosperity, but to the liquidation of the stock incurred at the time of the crisis of 1902, as the following table of the production and trade in iron proves—(·000 tons):—
+
+If the prosperity of an industry were measurable by its exports the metal trade in Germany would never have been so prosperous as in 1902 and 1903. This was due to the crisis when the impossibility of selling at home forced goods on to the foreign market. Business looked up; there was an increase in home consumption, as is shown by the Edition: current; Page: [269] fall in exports. In spite of the two years of crisis and a persistent attempt to extend exportation, its total only reached 30 per cent. over the four years, and in 1904, when there was a maximum output of iron, the export of iron actually diminished, which only proves that more was consumed at home, and that this accounted for the increased industrial activity. The sworn believers in the balance of commerce had to see here the ruin of Germany, since imports continued in excess of exports in spite of the Cartels and export bounties. The average importation between 1900-1904 was £290,000,000, while that of exportation was £240,000,000—£50,000,000 less. And yet—oh, irony!—all the efforts of the national system of political economy were directed to the encouragement of exports.

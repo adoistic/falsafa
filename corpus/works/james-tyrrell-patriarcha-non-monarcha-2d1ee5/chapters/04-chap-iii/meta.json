@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-tyrrell-patriarcha-non-monarcha-2d1ee5",
+  "work_title": "Patriarcha non Monarcha",
+  "chapter_number": 4,
+  "chapter_title": "CHAP. III.",
+  "chapter_slug": "04-chap-iii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6fa3796-2fdf-531f-841f-2a4276d409f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4277,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tyrrell-patriarcha-non-monarcha-the-patriarch-unmonarch-d"
+    }
+  ]
+}

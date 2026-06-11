@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 11,
+  "chapter_title": "LECTURE III: DEMOCRACY AND LEGISLATION",
+  "chapter_slug": "11-lecture-iii-democracy-and-legislation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c700061d-86f5-5329-bf7c-0f56d4b90907",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3472,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

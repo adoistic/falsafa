@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 16,
+  "chapter_title": "§ 13.: The idea of the Law of Nature; its influence on Slavery.",
+  "chapter_slug": "16-13-the-idea-of-the-law-of-nature-its-influence-on-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd2e257e-b3a4-5edf-aabb-04087f0aee3b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 689,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

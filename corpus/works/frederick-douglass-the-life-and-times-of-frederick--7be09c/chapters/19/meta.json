@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-douglass-the-life-and-times-of-frederick--7be09c",
+  "work_title": "The Life and Times of Frederick Douglass",
+  "chapter_number": 19,
+  "chapter_title": "CHAPTER XVIII.: NEW RELATIONS AND DUTIES.",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b5f6e27-3072-5381-b52c-6dbf70c95d29",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3515,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lobb-the-life-and-times-of-frederick-douglass-from-1817-1882"
+    }
+  ]
+}

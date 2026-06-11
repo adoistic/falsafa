@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 8,
+  "chapter_title": "THE FIRST EXPEDITION AGAINST CANADA, AND PAPER MONEY.",
+  "chapter_slug": "08-the-first-expedition-against-canada-and-paper-mone",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23d70f21-a986-51c0-bb26-780d3f245c9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 406,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

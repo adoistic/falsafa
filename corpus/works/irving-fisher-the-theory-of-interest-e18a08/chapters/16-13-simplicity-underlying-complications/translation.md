@@ -1,0 +1,33 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 16
+chapter_title: §13. Simplicity Underlying Complications
+chapter_slug: "16-13-simplicity-underlying-complications"
+variant_id: "a8504ff9-1cf2-5c11-98df-cd9748b2f30b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 802
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+In our present-day complicated economic life we are likely to be confused by the many industrial operations and money transactions. But net income still remains exactly what it was to primitive Robinson Crusoe on his island—the enjoyment from eating the berries we pick, so to speak, less the discomfort or the labor of picking them. The only difference is that today the picking is not so entirely hand-to-mouth, but is done by means of complicated apparatus and after the frequent exchange of money; that is, a long chain of middlemen, capital, and money transactions intervenes between the labor of picking at the start and the satisfaction of eating at the end. Edition: current; Page: [23] To continue the literal example of berry picking, we find today huckleberries picked by hired laborers on the Pocono Mountains, sorted, graded, shipped by rail and motor to New York City wholesalers, resold to retailers who sell and deliver them to the housewife in whose kitchen they are again sorted and prepared for their ultimate mission of giving enjoyment. The individual's total income when elaborately worked out, after cancelling, in pairs or couples, all such credits and debits, whether of money payments or the money value of services—in production or exchange—coincides necessarily with his enjoyment income, less the labor pain suffered in the same period, from which sort of income we started our discussion in this chapter. This coincidence occurs necessarily and automatically, by virtue of these mathematical cancellations.
+
+It is interesting to observe that a corporation as such can have no net income. Since a corporation is a fictitious, not a real, person, each of its items without exception is doubly entered. Its stockholders may get income from it, but the corporation itself, considered as a separate person apart from these stockholders, receives none.
+
+The total income of a real person is his enjoyment income only provided we include the credits and debits of his own body. The physical music, or vibrations which pass from his piano to his ear are, strictly speaking, only interactions to be credited to his piano and debited to his bodily ear. The music in his consciousness comes at the other, or brain, end of the auditory nerve. The piano plays to his ear, his ear to his brain, and his brain to his consciousness. His whole body mechanism is a transmitter from the outer world to his inner life, through ear, eye, and its other sense organs.
+
+Or if the body mechanism, with its debits and credits, be omitted the total result is not his enjoyment income, subjectively considered, but the real income as above set forth. If we measure this, his real income, in money units, we find it equal to the total valuation of his cost of living less the total valuation of his own labor pain.
+
+How to place a money valuation on a labor pain is a difficult question. This question is important in accounting theory, especially in its relation to the problems of measuring human welfare. But, fortunately for us, the difficulties of this valuation do not disturb the theory of the rate of interest, since this theory is actually concerned only with differences in the income stream at different times, not in a meticulous measurement of the total. Moreover, practically the only point in interest theory where labor pain enters is the case of a worker who suffers present labor pain in order to secure future satisfactions for himself or his family. This case is that of a laborer's savings; and all we need do here is to take the laborer's own valuation. Presumably, if the rate of interest is 5 per cent, the labor he will exert this year for the sake of $100 next year has a valuation in his mind of about $95.
+
+But a laborer's savings are practically a negligible element in determining the rate of interest. To others than laborers the only important way labor enters is through the payment of wages and salaries, and these are money expenses incurred for the sake of future money returns. A laborer building a railway does not work for the future dividends from the railway. He is paid for immediate living by his employer in expectation of those future dividends. Thus wages are a sort of measure of labor pain Edition: current; Page: [25] to the employer of labor, whether or not they be so regarded by the laborer.
+
+If we exclude labor pain and further exclude from the laborer's bookkeeping the income items, positive and negative, flowing from his household effects—the use of furniture, clothing, food, and so on—the total income then turns out to be not his real income but his money income—assuming that, as is ordinarily true, all his income flows in through money payments and none in kind.

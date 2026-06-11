@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 69,
+  "chapter_title": "CHAPTER XX.: ON A CERTAIN SPECIES OF MUTILATION.",
+  "chapter_slug": "69",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "799634ad-1930-5072-ad28-cabd5b6b45a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 182,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 141,
+  "chapter_title": "§7. Opportunity Principle B. (n(m—1) Equations)",
+  "chapter_slug": "141-7-opportunity-principle-b-n-m-1-equations",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70fb9504-a72a-54ad-be62-da6c950542e3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 143,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

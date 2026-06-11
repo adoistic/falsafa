@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 28,
+  "chapter_title": "BANK ISSUES IN NEW ENGLAND.",
+  "chapter_slug": "28-bank-issues-in-new-england",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a625b83c-f25c-5fbf-937e-c629566df632",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 328,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

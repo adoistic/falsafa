@@ -1,0 +1,27 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 84
+chapter_title: ADMINISTRATION OF NEW POLICY
+chapter_slug: "84-administration-of-new-policy"
+variant_id: "2f18a312-c029-50ad-9478-fcd58184da32"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 544
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+FROM what has been said in the foregoing chapter it is by no means to be inferred that the Continental System had failed altogether. The Fontainebleau policy was directed primarily against the exports of British manufactures; and here Napoleon was in deadly earnest.
+
+But there was no sharp line of demarcation between the prohibitory measures directed against Great Britain and the orders relating to the importation of colonial goods, which were, in Napoleon's view, half repressive and half fiscal; nor could any such line be found owing to the lack of clearness in men's grasp of the matter. It is quite impossible, therefore, to keep them distinct in this account. The administrative organs were largely the same for both, and both were violent and detested by the people; but there can be no doubt that the fiscal measures formed beyond comparison the most effective half of the new system, because the desire for the goods always made the people comparatively willing to pay, if only they could get the goods by so doing. It is true that the competition with the smugglers came far from putting an end to their traffic, that is to say, to continue the same terminology, far from giving the state the monopoly of importing prohibited colonial goods; but in any case it brought substantial sums into the public treasuries. Napoleon's customs revenues alone rose to 105,900,000 francs in the period from the Trianon tariff to the close of 1811, this as compared with only 11,600,000 francs in 1809; and the auctions of confiscated goods, together with the licence fees, brought in far more, to say nothing of what Edition: current; Page: [222] the vassal states contrived to make. We have at present no complete survey of the total yield of the new policy to the government treasuries, but a general idea of the whole situation is given by the fact that, according to Thiers, the auctions alone during the remaining months of 1810 yielded a cash return of almost 150,000,000 francs. In the contemplation of such figures it is not difficult to understand the magnitude that the fiscal side of the policy was destined to attain; and, indeed, it was to become more and more marked during each of the remaining years.
+
+The corner-stone of the new building, visible to all the world, was formed by the incorporation with France of the Hanse Towns and Oldenburg and the rest of the North Sea coast. This took place about the turn of the year 1810-11, and brought it about that the new measures, both administrative and military, struck by far the hardest on the North Sea. It is true that from the beginning this involved a great limitation in effectiveness, inasmuch as the centre of gravity of the British continental traffic had already been moved definitely from there to the Baltic coasts and Gothenburg.
+
+The special regulations that were issued in the early part of October concerning the payment of customs duties for goods between the coast and the old Rees-Travemünde line are of less interest; and their relations to the Trianon tariff are not clear in all details. Of the greatest importance, rather, are the new judicial system—if such a fair-sounding word can be used—and the new military barrier.

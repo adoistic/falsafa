@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 36,
+  "chapter_title": "SECTION VI.: Of the Progress and Termination of Despotism.",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c8c9954-dfd2-5bf9-8158-fd83ecd2d138",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4254,
+      "paragraph_count": 129,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-t-ely-a-history-of-political-economy-142de1",
+  "work_title": "A History of Political Economy",
+  "chapter_number": 7,
+  "chapter_title": "CHAPTER IV: MODERN TIMES FIRST AND SECOND PHASES",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a174c67-7e09-55be-b7db-1da4452bd227",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 322,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ely-a-history-of-political-economy"
+    }
+  ]
+}

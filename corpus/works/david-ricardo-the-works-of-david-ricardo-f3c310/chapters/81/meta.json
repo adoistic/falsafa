@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 81,
+  "chapter_title": "section VIII.: On the Project of advancing Money on Loan, to Speculators in Corn, at a low Interest.",
+  "chapter_slug": "81",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35df67b7-af4d-50a4-8d11-650903615d1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 758,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

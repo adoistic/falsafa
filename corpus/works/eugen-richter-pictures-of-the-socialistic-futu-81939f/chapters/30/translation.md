@@ -1,0 +1,37 @@
+---
+work_id: "81939f1a-b5af-5797-ab79-a8204fd3b62e"
+work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
+work_title: Pictures of the Socialistic Future
+author_name: Eugen Richter
+chapter_number: 30
+chapter_title: "Chapter XXVII: A LARGE DEFICIT."
+chapter_slug: 30
+variant_id: "dbd62472-1f73-5389-a72b-371254011d71"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1011
+source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+translator: Online Library of Liberty edition
+---
+
+A deficit of a milliard per month! A thousand million marks expenditure over income per month! That was the disagreeable message with which the Chancellor greeted the assembling of the new Parliament. The only wonder is that this could be kept secret until after the elections. But it is now high time to look into this matter, and see that some improvement is made.
+
+For a long time past there have been signs in all directions that something or other was wrong. When going to make purchases you were told, only too often, that such and such an article had just run out of stock, and that a fresh supply would not come in for some little time. It now comes out, however, that this was due, not to an increase in the demand, but to a decrease in the supply. Things got so bad that there was often the greatest difficulty experienced in obtaining the most indispensable articles of clothing. Edition: current; Page: [94] In the case of other articles of daily use you had frequently either to go without, or to put up with the most old-fashioned and antiquated things which had been left on hand ever so long. All import goods, such as coffee, petroleum, farinaceous foods, and so on, were so high in price as to be scarcely procurable.
+
+Indeed, in no respects can it be said that the people have lived in luxury and riot. At dinner, the meat rations have remained nominally the same as at first, viz. one-third of a pound per head. But, latterly, there have been unpleasant innovations in respect of including bone, gristle, fat and similar unprofitable matter in the gross weight of the rations. The vegetable part of the bill of fare has been also much simplified, and is now restricted to potatoes, peas, beans, and lentils. On Bebel day the increased meat ration and the free glass of beer which had been looked for were conspicuous by their absence. The strictest economy extends even to the matter of pepper, salt, and spices. On all hands there are complaints that the tastelessness and sameness of the dishes are such as to produce nausea, even in those who have the most robust appetites. What little conversation there is at meal times tends more and more in the direction of talk about sickness and internal complaints.
+
+So far as appearances seem to indicate, our population, in spite of the considerable emigration which has taken place, may count upon a rapid increase as a result of the undertaking on the part of the State to bring up all children free of cost. But notwithstanding this, no measures are taken to meet the demand, and even here in Berlin there is scarcely any building Edition: current; Page: [95] going on. Even the most indispensable repairs are constantly being postponed. No longer is there a syllable dropped about alterations and improvements anywhere; about the renewal of machinery and stores; about the building of new mills, or works, or the enlargement of old ones; or about the construction of new railways.
+
+All stores for daily consumption seem to have dwindled down to a minimum. The only stocks we have are of such things that there is little or no demand for. What other stocks there are consist of such goods as we formerly sent abroad, but which there is now, especially in socialistic countries, no longer any sale for. These goods are gloves, silks, velvets, pianos, wines, embroidered and fancy goods, etc. etc. All such articles may now be had in the home-markets at less than cost price, for the mere sake of getting rid of them.
+
+From month to month the deficit seems to grow greater instead of less, in spite of all attempts to grapple with the difficulty. Even the stocks of raw material and auxiliary material begin to show signs of not being long able to keep the various works fully going. Foreign merchants everywhere have ceased sending any goods to Germany on credit, or otherwise than against an immediate exchange of goods to the same value.
+
+Unpromising as this state of affairs looks, the Government cannot really be reproached with having regulated consumption without a due amount of previous forethought. From the statement made at the opening of the new Parliament, it seems that, from pretty accurate calculations made, the value of the entire productivity of the country, immediately anterior to Edition: current; Page: [96] the Revolution, had been from 17 to 18 milliards of marks annually. The Government took this as a basis, and did not even calculate on any possible increase in the value of the nation's productivity under a new system of things. It simply went on the assumption that this value would remain at least the same, and would not diminish through the maximum working-day being fixed at eight hours. The calculation of the amount of consumption per head of the population was based upon this assumption. But even if the Government had proved right, it is quite evident that the majority of the nation has so far not been placed on a better footing, but on a worse one, than it was in before the great Revolution, to say nothing of all the restrictions placed upon personal and commercial liberty.
+
+A short time, however, sufficed to show that the value of the nation's productiveness sank down to one-third of what it had formerly been. From 18 milliard marks a year it went down to six milliards, or from one and a half milliards per month to half a milliard. In this way we have a deficit of a milliard per month. In four months this amounts to a loss equal to the war contribution which France had to pay to Germany in the great war of past days.
+
+What will this land us in? and where are we to look for help? The next sitting of Parliament is awaited with considerable excitement and interest, as the Chancellor intends then to go into the reasons of the deficit.

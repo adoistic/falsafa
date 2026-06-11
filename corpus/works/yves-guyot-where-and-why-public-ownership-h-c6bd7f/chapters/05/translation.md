@@ -1,0 +1,147 @@
+---
+work_id: "c6bd7f59-f3c2-5fb7-8cef-3162d99bc1e6"
+work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
+work_title: Where and Why Public Ownership Has Failed
+author_name: Yves Guyot
+chapter_number: 5
+chapter_title: "CHAPTER IV: GOVERNMENT AND MUNICIPAL TRADING OPERATIONS"
+chapter_slug: 05
+variant_id: "5015eee7-cdc3-58e1-872c-4750db776ef7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 4158
+source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+translator: Online Library of Liberty edition
+---
+
+1. When zealots in the cause of “a transference of trading and commercial undertakings to public bodies” declare that it is a general and irresistible movement, they are mistaking their hopes for an accomplished fact. Public trading enterprises in actual existence are relatively few.
+
+During the session of the International Statistical Institute of 1909, at the suggestion of MM. Arthur Raffalovich and Gustave Schelle, a committee was Edition: current; Page: [17] appointed for the purpose of collecting statistics regarding state and municipal trading undertakings. The members of this committee were: Yves Guyot, chairman; Gustave Schelle, secretary, and MM. Colson, Raffalovich, Fellner, Nicolai and Hennequin. The report of this committee was presented to the session of the International Statistical Institute which met at The Hague in 1911.
+
+The industries monopolized by nations or cities appear in the report as follows: The postal systems in every country and telegraphs and telephones in every country except the United States. All governments coin money, either free, as in England, or for a slight charge. In the following summary we will not speak of these four utilities unless they present some special characteristic peculiar to the country under consideration.
+
+2. The report begins with Denmark. It is generally known that this country is very active and very highly developed industrially. Its population, however, is smaller than that of the city of Paris.
+
+Denmark operates, in connection with its army, twenty public enterprises, employing altogether 2,335 people. The railway system comprehends 37 enterprises, employing 4,797 people. In addition to these there are 16 other enterprises, employing 279 people, and including a dressmaking establishment and a workshop attached to the royal theater.
+
+The total number of these enterprises is thus 73, employing 7,411 people, of whom 7,166 are laborers. But the majority of Danish state undertakings are Edition: current; Page: [18] only semi-public in character. The principal object of the factory at Usseröd is the manufacture of cloth for the Army and Navy, but it has a retail shop for the benefit of the public. The powder mill of Frederiksvärk has a monopoly of the manufacture of powder. The three ports of Helsingör, Frederikshavn, and Esbjerg are the three great ports of the state. The royal manufacture of porcelain is not counted among government industries.
+
+As for the towns the census of 1906 gives 43 water works, 1 street paving enterprise, 2 embankment enterprises, 1 dredging undertaking, 2 construction undertakings with 29 workmen, 1 shipyard, 1 combined gas and water plant, 2 moulding undertakings, 1 installation of electrical apparatus, 8 plants for the production and distribution of electricity, 60 gas works, 2 wrecking enterprises, and, finally, 1 chimney sweep and 1 machinist, each of whom is considered as a municipal enterprise. The total is 126 enterprises, employing 2,274 people, or an average of 18 persons each.
+
+In Switzerland the state alcohol monopoly buys potato spirit and sells it again. It does not manufacture it. The state both owns and operates its railways.
+
+In Holland the state publishes an official journal and operates the Wilhelmina and Emma pit coal mines. The government railways are operated for the state by a private company.
+
+For Italy, Giovanni Giolitti, then minister of the Interior, had already furnished statistics of the Edition: current; Page: [19] principal municipal trading undertakings up to 1901, in a report presented to the Chamber of Deputies, March 11, 1902. The report lists 171 slaughter houses, 151 water works and artesian wells, 24 plants for the production of electrical energy, 20 public laundries, 15 gas works, 12 undertaking enterprises, 12 public baths, 4 ice plants, 3 sewage disposal plants, 3 irrigation enterprises, 2 bakeries, 2 pharmacies, and a few other less important services. The railways are state-owned and operated.
+
+The law of March 29, 1903, enumerates 19 enterprises which municipalities may undertake. Outside of the usual services, water, gas, electricity, etc., we might mention pharmacies, mills and bakeries, as “normal regulators” of prices, ice plants, public bill posting, drying rooms and store houses for corn, the sale of grain, seeds, plants, vines and other arboreal and fruit-bearing plants.
+
+The same law has determined the manner in which local governments may purchase concessions previously granted to private interests. They must pay to the owners an equitable indemnity, and account must be taken (a) of the market value of the construction and of the movable and immovable equipment; (b) of the advances or subsidies made by the local government; the registration taxes paid by the concessionaires; and the tax that the companies were able to pay to the towns on excess business; (c) of the profit lost to the concessionaires through the purchase, based on the legal interest rate for the number of years which the franchises have still to run, with annual sums equal to Edition: current; Page: [20] the average profits of the five years last passed (not including interest on capital).
+
+The law of April 4, 1912, established a life insurance monopoly.
+
+The report of the Congress of the Federation of Municipal Enterprises, held at Verona, May 21 and 22, 1910, enumerates 74 special public enterprises, 31 of which were in existence before the law of 1903. This would tend to prove that the law had not aided greatly in their further development.
+
+France has: 1. Fiscal monopolies, such as matches, tobacco and powder. 2. Postal system. 3. Government railways, comprising the system bought before the Western line; the Western railway; and the railway from Saint Georges de Commiers to La Mure, in the district of Isère, the operation of which constitutes a distinct department aside from that of the other government railways. Little is known concerning this third system.
+
+Other enterprises are: the National Printing Office; the official journal (Journal Officiel); the manufacture of metals and coins; the manufacture of Sèvres porcelain; the manufacture of Gobelin tapestry; the manufacture of Beauvais tapestry; the water works of Versailles and de Marly; stock farms; and the baths of Aix-les-Bains.
+
+The City of Paris has organized several commercial ventures. In 1890 a municipal department of electricity was installed, which was abandoned in 1907. The city has also taken full control, since June 1, 1910, Edition: current; Page: [21] of the Belleville cable railroad. In 1905 it municipalized the undertaking service, and it operates a stone quarry for the benefit of the city streets. These are the only directly managed undertakings of the City of Paris. A mistake was made in becoming a shareholder in a gas company. In the case of water the city has undertaken to construct and maintain pumping stations and also mains, but it has granted to a private company the right to construct branch pipe connections, to receive subscriptions and to collect rents.
+
+The Municipal Council of Paris has leased its electrical supply down to 1940 and also its transportation facilities, both surface and underground.
+
+Belgium owns and operates nearly all its railways. It runs steamers from Ostend to Dover, and on the canal from Anvers to the port of Flanders.
+
+In Sweden the state owns and operates the railways.
+
+In Austria, according to a work compiled under the supervision of J. G. Grüber, by Doctor Rudolph Riemer, secretary of the Central Bureau of Statistics, outside of the customary monopolies the state controls fiscal monopolies, such as tobacco, salt, powder, lotteries, railways, a national printing office, an official journal, docks, stock farms, forests, and other public lands and mines.
+
+Municipalities which M. Schelle has not listed operate gas and electric plants, undertaking services, baths, pawnshops, horticultural establishments, slaughter Edition: current; Page: [22] houses, savings banks, theaters, docks, hydro-electric works, race tracks, tramways, and daily newspapers.
+
+In regard to Germany M. Schelle had received no information concerning the German railways, nor the fiscal mines of Prussia. The government operates coal mines in upper Silesia, the districts of Deister and Oberkirchen, in Westphalia, and in the district of La Saar. These mines were employing 91,671 workers in 1910.
+
+The Prussian government also produces lignite, amber, iron ore and other ores, both calcareous and gypsum, potash, rock salt and refined salt, and operates blast furnaces and foundries of metals other than iron. These various industries employ 12,759 workers, which makes for the two classes enumerated a total of 104,430 persons employed. The state also operates the Prussian bank.
+
+3. The report does not take up the public undertakings of the United Kingdom, or of the United States. The results of the investigation made by The National Civic Federation of America, for the purpose of discovering whether the attempts at municipalization made in Great Britain ought to be imitated in the United States, were published in 1907 (3 volumes). However, the information given is most incomplete.
+
+In Great Britain the telephone was not taken over Edition: current; Page: [23] by the state until 1912. In the United States the telegraph and telephone are still under private management.
+
+The Postmaster-General of the United States, in his report of 1912, recommended the annexation of the telegraph service. But President Taft, in transmitting the recommendation to Congress, declared that he by no means favored the suggestion.
+
+However the President complimented the Postmaster-General with having brought about economy in his department. But, as the Journal of Commerce observed, to bring about economy in a government department, and to ensure an economic administration of a trading enterprise, are two very different things.
+
+In the British Isles municipal enterprises have been multiplied, following the Public Health Act of 1875, which act granted to sanitary districts authority to establish water and gas works, and the Municipal Corporations Act of 1882, which codified the municipal law. This latter act gives to municipalities the right to spend their income; but, in order to contract loans and make purchases or sales of land, they must obtain permission through the medium of private acts of Parliament.
+
+The industrial undertakings of British towns are much less important than might be supposed from the rhapsodies they inspire in government ownership fanatics. In proof of this statement it is sufficient to enumerate the industrial operations of the London County Council.
+
+4. The London County Council was established in 1888. From 1888 to 1894 and from 1898 to 1906 it called itself progressive. Its progress consisted chiefly in seizing, by right of its own authority, the greatest possible number of public utilities. However, the distribution of the London water supply is not controlled by the Council, despite all its efforts to obtain such control. The control of water was given by the law of 1902 to the Metropolitan Water Board, composed of 66 representatives of the various local authorities comprised within the area of distribution, which is not less than 537 square miles, or 5 times that of London. The Board has the right to levy taxes, and it has acquired, by private contract and without opposition, the holdings of 8 companies for a total of about £1,900,000 ($9,253,000). It has spent one million and a half pounds sterling ($7,305,000) in public works. In 1904 it furnished 81,823,000,000 gallons of water to 7,000,000 people, or 32 gallons a day per capita, 53 per cent. of which comes from the Thames, 25 per cent. from the river Lea, and 22 per cent. from springs and wells.
+
+The London docks were constructed by private companies. In 1907 the government introduced a bill to take over these enterprises from the companies, which received an indemnity of £22,368,916 ($108,936,000) from the Port of London. This latter corporation, presided over by Lord Devonport, who showed himself so energetic in the strike of the dock laborers, is composed of thirty members, appointed by the government, by the municipal authorities and by individual merchants. The Port of London Edition: current; Page: [25] is so independent of the London County Council that the latter refused to guarantee the loans that the former was forced to contract in order to pay the indemnity to the dock companies.
+
+Neither does the London County Council furnish gas to the inhabitants of London. The companies manufacturing gas were organized by private capital. In 1855 there were 20 of these, but by 1860 the number had been reduced to 13. Subsequently there were several mergers, which necessitated private bills. Thus a way was opened for an intervention which established a scale of dividends proportioned to the price of gas. The dividend rate was fixed at 4 per cent. If there is a decrease in the price of gas the dividend can be increased 1s 5d (34 cents) for each penny of the decrease in price, which was then fixed at 3s 2d (76 cents) for 1,000 cubic feet of gas of 14 candle-power. If there is an increase in the price the dividend is diminished in the same proportion. London is lighted by two gas companies. One company sells its gas at a rate of 2s 7d (62 cents). The London County Council has only the right of fixing the quality.
+
+The Electric Lighting Act of 1882 provided that local governments could purchase, at the end of 21 years, any electrical enterprise established within their territories. The law of 1888 extended the purchase period to the end of 42 years.
+
+Several local governments of London have established electrical service in a number of different ways. In 16 out of 29 of the local districts there are municipal plants, but they represent a service over only 55 ½ square miles, while the electrical Edition: current; Page: [26] companies supply a surface of 64 ½ square miles. In greater London the municipal plants supply 167 square miles, and 19 companies 331 square miles.
+
+The London County Council, in 1907, planned to create an electric central station supplying a district of 451 square miles; but, when the “progressive majority” of the London County Council was replaced by a “moderate majority,” the plan was abandoned. Later Parliament passed a bill, demanded by 8 out of the 10 existing companies, permitting them to consolidate their systems. But the London County Council will still have the right to buy them out, in 1931, or at the end of any subsequent ten-year period.
+
+In fact, the Council has exercised its authority actively only in the direction of operating tramways. In 1870 the Tramway Act authorized a local government, or any private company which had obtained its consent, to ask for a private bill in order to establish a line. The Metropolitan Board of Works of London granted several companies authority to establish lines. In 1894 the Council demanded the right to purchase these. In 1898 it bought out two companies, one of which possessed 43 miles of tramway lines in the north of London. The Council left to the company the right of operation during 14 years. In 1898 the operation of the other tramway lines was begun. The Council bought up the lease of the other companies in 1906. It has now 136 miles of tramway lines, and its receipts are diminishing.
+
+The London County Council likewise attempted to Edition: current; Page: [27] operate, beginning with 1906, a line of boats on the Thames. The first two years the undertaking resulted in a deficit of £90,683 ($441,626). The service was abandoned one or two years later. The 30 boats, which had cost, in 1906, £7,000 each, were sold in a lot for £18,204. The Council also took upon itself the demolition and reconstruction of a certain number of cheap lodgings. Therefore, in the way of actual municipal industrial services, it has managed a boat line upon the Thames, demolished and reconstructed cheap lodgings, and is now operating tramways.
+
+The partisans of public operation say, none the less, that, “in principle, municipal ownership has been accepted.” Only those who are honest add “but public opinion has confined it within very narrow limits.” Moreover, the elections of 1912 have kept the progressives in the minority.
+
+5. According to an article in the Fortnightly Review, of January, 1905, it is in Russia that local public ownership and operation have been most widely extended. The sale of agricultural implements, medicines, magic lanterns, translations of Molière and Milton, the expurgated novels of Dostoiewski, sewing machines and meat are among Russian public enterprises. It is said also that it is useless for cities to demand subsidies from the government. The stock answer of the administration to all requests for aid is: Municipalize. This advice is easy and costs nothing.
+
+6. Ownership and operation on a national scale have been most widely developed in New Zealand. The constitution of 1852 gave to legislators of that country all possible authority without other restriction than “to do nothing repugnant to the English law.” Nor are their powers limited, as in the United States, by a supreme court.
+
+New Zealand is isolated. It has no competitors. It has large undeveloped resources. It has a territory of 271,300 square kilometers (104,344 square miles), or more than half that of France, and a population of 1,044,000 people, or 4 inhabitants per square kilometer (10 inhabitants per square mile). Naturally the experiments of a restricted population, distributed over a vast area, have not the same importance as those attempted by a population of several million inhabitants concentrated within narrow boundaries.
+
+In a work entitled State Socialism in New Zealand Messrs. Le Rossignol and Stewart give us a complete picture of the Socialist enterprises which have been attempted there.
+
+Most of the soil was originally government land. As we shall see further on, the government has not retained possession of it for the purpose of exploiting it.
+
+The real development of governmental activity is chiefly due to the energy of one man, Sir Julius Vogel. At his instance a government life insurance system was established in 1869. In 1870 he outlined a Edition: current; Page: [29] vast policy of public works, calling for an expenditure, in the course of 10 years, of £10,000,000 ($48,700,000), a sum which was actually doubled within that period. In 1876 he abolished provincial boundary lines, took over the land and the railways, and burdened the state with a fully developed administrative organization, the expenses of which were paid for by taxation, and carried out only with the help of loans and a heavy debt.
+
+In 1879 New Zealand went through a crisis which would have ruined her if she had not been saved by the application of refrigeration to the transportation of meat. Even with that help it took her 16 years to recover.
+
+I shall not speak here of the social legislation introduced by William Pember Reeves, from 1890 to 1895, which has frequently been remodeled.
+
+New Zealand has owned the telegraph since 1865; the railways since 1876; the telephone since 1884. National coal mining and accident insurance were taken up in 1901, and fire insurance in 1903, at rates which render any competition impossible. From time to time the government has undertaken the operation of small industries, such as the purchasing of patents for the prussic acid process, a right to which the state leases to miners for a certain fee. The management of the oyster beds of Auckland, the establishment of fish hatcheries, the stocking of the rivers with trout, and the establishment of resorts for tourists and invalids are also among New Zealand government enterprises.
+
+But, although New Zealand represents the maximum Edition: current; Page: [30] of effort in the way of Socialist enterprises, few industries are directly managed by the government.
+
+“Scarcely a month passes,” says Mr. Guy H. Scholefield, “without some convention passing a cheerful resolution demanding that the government should step in and operate some new industry for the benefit of the public. Now it is banking; to-morrow bakeries; over and over again some moderate reformers have called upon the government to become controllers of the liquor traffic; once upon a time it was importuned to become a wholesale tobacco-seller; more than once to purchase steamers to fight the supposed monopoly of existing lines.”
+
+“But,” say Le Rossignol and Stewart, “notwithstanding these demands, the feeling seems to be growing that the government should not move too rapidly in the direction of State Socialism.”
+
+7. In nationalization of the soil New Zealand has had an experience, the more interesting in that most of the soil was once government land. Ought the state to have conserved its interest in the land, or was its action wise in transforming it into private property? The following facts regarding this question are to be found in that remarkable work, State Socialism in New Zealand, from which I have already quoted.
+
+The Hon. William Rolleston, who became minister of Public Lands in 1879, held that one-third of the crown lands ought to be leased in perpetuity for a rent of 5 per cent. of the value of land, with a revaluation Edition: current; Page: [31] every 21 years. The resulting resources might be applied to education.
+
+The Upper Chamber granted the right of purchase at the value of the prairie land, or £1 per acre, after any prospective property holder should have cultivated one-fifth of his claim. Socialist legislation developed when the Liberal party, having acquired a majority in the elections of December 5, 1890, came into power on the strength of two issues, agitation against the great property holders, and agitation of workmen whose salaries had fallen since 1879 and who, in the month of November, had organized an unsuccessful strike.
+
+John Ballance, head of the Cabinet in 1891, and John McKenzie, minister of Public Lands, were ardent partisans of government and property reform. Together they put in force five acts, one after the other, which have since undergone several modifications. Ballance, also a partisan of nationalization of the soil, was anxious that one-third of its lands should remain under the control of the state, to be leased by it, however, with periodic revaluation. His plan fell through. McKenzie granted leases for 999 years at a fixed rental of 4 per cent. on the capital value of the land at the time the lease was taken up, without revaluation. The area which could be held by one man was limited to 640 acres for first-class land, and 2,000 acres for second-class land. The system received the name of “the eternal lease.” At this rate of lease, the government would lose more by way of land tax than it got by way of rent.
+
+But, at the end of 10 years, the perpetual tenants Edition: current; Page: [32] began to ask for the right to buy the freehold of their properties. The Labor party was constantly proposing a revaluation of rents. In 1907 the right of purchase was recognized, but under conditions of valuation which provoked the strongest resentment. The tenants maintained that the state's interest in the land was only the capitalized rental of 4 per cent. on the original value of the land.
+
+The lease in perpetuity was abolished by the Act of 1907. However, under this system of leasing, which had been in force for 15 years, over two million acres of the best land in the colony had been parted with. In the place of the “eternal lease” was enacted the “renewable lease,” a lease for 66 years, with provision for valuation and renewal at the end of the term with reappraised rent. But the public lands can always be sold immediately on the occupation-with-right-of-purchase system. It is therefore a mistake to believe that the government of New Zealand owns all its soil.
+
+On March 21, 1906, the total area of 66,861,440 acres was held roughly as follows:
+
+It is estimated that 63 per cent. of New Zealand families own property of £100 and above; and it is probable that 75 per cent. of the families own some Edition: current; Page: [33] kind of property. A number of small properties are exempt from taxation. Those who are without property are young people earning large salaries who, with health and a fair chance, will achieve a good position in life.
+
+The land laws have not only increased the number of proprietors, but, although they have had a Socialist aim, they have actually brought about anti-socialist results, since they serve to encourage the system of private ownership.
+
+The Labor party advocates nationalization of the soil; but the tenants, supported by the freeholders, continue to demand the right of transforming their leases into property holdings. At a crisis they would insist upon a lowering of the rent. One witness, in 1905, made this profound observation before the Land Commission:
+
+“I believe in the freehold because, in times of trouble, the freeholder is the man to whom the state will look; and the leaseholder is the man who, in times of trouble, will look to the state.”
+
+Messrs. Le Rossignol and Stewart, the authors of State Socialism in New Zealand, conclude:
+
+“It is not easy to show that New Zealand has derived any benefit that could not have been obtained from freehold tenure combined with taxation of land values.”

@@ -1,0 +1,26 @@
+{
+  "work_slug": "abbe-de-mably-remarks-concerning-the-governmen-569ca7",
+  "work_title": "Remarks Concerning the Government and Laws of the United States of America",
+  "chapter_number": 2,
+  "chapter_title": "Remarks touching the Laws of Pennsylvania, Massachusets and Georgia.",
+  "chapter_slug": "02-remarks-touching-the-laws-of-pennsylvania-massachu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62abf4de-92bc-56f4-9aa0-8604fbdec6ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9053,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mably-remarks-concerning-the-government-and-laws-of-the-united-states-of-america"
+    }
+  ]
+}

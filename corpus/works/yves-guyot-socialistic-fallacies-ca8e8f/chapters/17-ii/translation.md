@@ -1,0 +1,27 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 17
+chapter_title: II
+chapter_slug: "17-ii"
+variant_id: "0f47f9c7-e70c-5276-ad74-03eef24a6016"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 670
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+But in the United States there were forty experimental phalansteries between 1840 and 1850. Brisbane reduced the number of persons necessary to found a phalanstery to four hundred, each member having to subscribe $1000 in order to form a capital of $400,000. The members were to receive a quarter of the total produce of the association, or, if they preferred it, interest at the rate of 8 per cent. For $1000 each member was to receive $80, and with this sum the association undertook to provide its subscribers with support and shelter. The mansion was to cost $150,000, the interest upon which at 10 per cent. would be $15,000, i.e. an annual rent of $37 for each of the 400 members: half of the rooms were to be $20, others were to be $100. A member living at the lowest rent would therefore have $60 per annum over. As the association was to supply its own grain, fruit, vegetables, and cattle, and was to effect large economies in fuel and cooking, this would be sufficient.
+
+Brisbane failed in the attempt to find subscribers. But other enthusiasts, although less methodical, carried out the propaganda for the Edition: current; Page: [61] organisation of phalansteries. A number of individuals possessed of neither capacity, energy nor resources, founded phalansteries, some of which had a capital of less than $1000. They took a small piece of land in a wild region, burdened it with as many mortgages as they could obtain, and the majority of the co-adventurers having no knowledge of farming, they failed as soon as a payment of interest fell due. Three phalansteries survived a little longer, the North American Phalanx continuing to exist for twelve years, the Brook Farm Phalanx for five, and the Wisconsin for six.
+
+The North American Phalanx was organised with the collaboration of the most celebrated American disciples of Fourier—Brisbane, Horace Greeley (who, in 1872, was the democratic candidate for the Presidency of the United States), Ripley, Godwin and Channing. The original capital was $8,000; in 1844 the property was valued at $28,000; and in 1852 at $80,000. In accordance with Fourier's theory, the system of groups and series was applied to labour, remuneration for labour being apportioned according to the difficulty and unattractiveness of each allotted task. Masons were paid 50 cents. a day and the doctor six and a quarter. The architect was rewarded for his ability by a premium of 25 cents. a day in addition to his wages. The profits were distributed at the end of the year, wages being thereby increased by about $13, while capital received a dividend of about 5 per cent. The rent of a comfortable room was $12. The members lived together, but their food was supplied according to a tariff, a cup of coffee cost half a cent, a portion of meat 2 cents, a pie—the national dish of North America—2 cents, etc. Each member paid 36 cents. a week for the use of the dining hall, and accounts were settled once a month. The members Edition: current; Page: [62] of this phalanx were cultivated, and life was full of amenities: they indulged in music, organised dances, possessed a library and gave a good education to the children. The North American Phalanx survived all the other experiments, yet every member felt that the life in common had not brought with it the advantages of which he had dreamed, the life was a narrow one and the administration of the settlement gave rise to criticism.
+
+In 1854 a mill belonging to the Phalanx was destroyed by fire. Greeley offered to defray the necessary expense of rebuilding, and a meeting was called to consider his proposal. During the discussion a member proposed the dissolution of the Phalanx, and, although such a proposition was not on the agenda, it corresponded so closely with the general desire that it was carried. The property was sold, the shareholders obtained 66 per cent. on their capital, and the members returned to an “odious civilisation.”

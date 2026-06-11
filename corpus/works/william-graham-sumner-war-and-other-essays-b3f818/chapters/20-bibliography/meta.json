@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 20,
+  "chapter_title": "BIBLIOGRAPHY",
+  "chapter_slug": "20-bibliography",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7fb6677b-1f4e-5081-a57c-62a9712f0e67",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2554,
+      "paragraph_count": 335,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

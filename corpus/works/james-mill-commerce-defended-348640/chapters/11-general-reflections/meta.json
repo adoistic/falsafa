@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-commerce-defended-348640",
+  "work_title": "Commerce Defended",
+  "chapter_number": 11,
+  "chapter_title": "General Reflections.",
+  "chapter_slug": "11-general-reflections",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07a0a2ab-ce5f-5b61-9aab-be49e8ee331f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17897,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-commerce-defended-1808"
+    }
+  ]
+}

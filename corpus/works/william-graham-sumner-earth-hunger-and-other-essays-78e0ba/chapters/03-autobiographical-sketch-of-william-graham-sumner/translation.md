@@ -1,0 +1,29 @@
+---
+work_id: "78e0baf7-f0f2-5314-98dd-73981f733475"
+work_slug: "william-graham-sumner-earth-hunger-and-other-essays-78e0ba"
+work_title: "Earth-Hunger and Other Essays"
+author_name: William Graham Sumner
+chapter_number: 3
+chapter_title: AUTOBIOGRAPHICAL SKETCH OF WILLIAM GRAHAM SUMNER
+chapter_slug: "03-autobiographical-sketch-of-william-graham-sumner"
+variant_id: "8210ee50-064e-5858-8176-b4e6e5308a7e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 841
+source_url: "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
+translator: Online Library of Liberty edition
+---
+
+I was born at Paterson, N. J., October 30, 1840. My father, Thomas Sumner, was born at Walton-le-Dale, Lancashire, England, May 6, 1808. He came to the United States in 1836. My mother was Sarah Graham. She was born in Oldham, England, in 1819, and was brought to the United States by her parents in 1825. She died when I was eight years old. This is about all I know of my ancestry. My father told me that he had seen his own great-grandfather, who was a weaver in Lancashire. They were all artisans and members of the wages class. It is safe to say that I am the first of them who ever learned Latin and algebra. My grandfather had a good trade, which was ruined by machinery. On account of this family disaster, my father was in every respect a self-educated man, and was obliged to come to America. His principles and habits of life were the best possible. His knowledge was wide, and his judgment excellent. He belonged to the class of men, of whom Caleb Garth in Middlemarch is the type. In early life I accepted, from books and other people, some views and opinions which differed from his. At the present time, in regard to those matters, I hold with him and not with the others.
+
+In the year after I was born my father went prospecting through Pennsylvania, Ohio, and New York. He came back convinced that, if a man would live as poorly and educate his children as badly in the East as he would Edition: current; Page: [4] have to in the West, he could do as well in the East. He moved to New England, lived in New Haven a year or two, and settled in Hartford about 1845. I was educated in the public schools of that city. I was clerk in a store for two years, but went back to school to prepare for college.
+
+After graduating I went at once to Europe. I passed the winter of 1863-64 in Geneva, Switzerland, studying French and Hebrew. In April, 1864, I went to Göttingen, where I studied ancient languages and history. In April, 1866, I went to Oxford, where I studied Anglican theology. In that year I was elected tutor at Yale and entered upon the duties in September.
+
+I was ordained Deacon in the Protestant Episcopal Church at Trinity Church, New Haven, December 27, 1867. I resigned the tutorship in March, 1869, to become assistant to the Rector of Calvary Church, New York City. From September, 1870, to September, 1872, I was Rector of the Church of the Redeemer, at Morristown, N. J.
+
+In June, 1872, I was elected Professor of Political and Social Science in Yale College. My life has been spent since that time in trying to fulfil the duties of that position. From 1873 to 1876 I was an alderman of the city of New Haven. In 1876 I was one of the “visiting statesmen,” who were sent to New Orleans to try to find out what kind of a presidential election they had in Louisiana in that year. This is the whole of my experience in politics. I found out that I was likely to do more harm in politics than almost any other kind of man, because I did not know the rules of the game and did not want to learn them. Therefore, the adepts at it could play with me in more senses than one. My experience, however, has been very valuable to me. It has enabled Edition: current; Page: [5] me to gauge the value of the talk we hear about “civics” and “citizenship.” I turned back to the studies connected with my college position, and have devoted myself entirely to them. Those studies have expanded so rapidly and greatly that I have been compelled during the whole thirty-two years to narrow the range of my work more and more. I have renounced one branch after another in order to concentrate my efforts on what I could hope to master. In this process I have had to throw away a great amount of work, which I could never hope to finish. When I was fifty years old I broke down in health. I have only partly recovered, and have been obliged to limit my interests as much as possible to the college work. I am now trying to bring into form for publication the results of my studies in the science of society. If life and strength hold out, this will be the sum of what I shall have accomplished. The life of a professor is so simple and monotonous that I know of no other “history” of it that is possible, than what I have just written. No other life could have been so well suited to my taste as this. My relations with students and graduates have always been of the pleasantest, and I think that there can be few relations in life which can give greater satisfaction than these.

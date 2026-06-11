@@ -1,0 +1,26 @@
+{
+  "work_slug": "nicholas-barbon-a-discourse-of-trade-e7c561",
+  "work_title": "A Discourse of Trade",
+  "chapter_number": 7,
+  "chapter_title": "Of the Use and Benefit of Trade.",
+  "chapter_slug": "07-of-the-use-and-benefit-of-trade",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4424aff8-0884-5bbd-b747-5d213273686d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3686,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/barbon-a-discourse-of-trade"
+    }
+  ]
+}

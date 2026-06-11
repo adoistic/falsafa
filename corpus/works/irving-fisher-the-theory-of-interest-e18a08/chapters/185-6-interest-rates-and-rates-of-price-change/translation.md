@@ -1,0 +1,55 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 185
+chapter_title: §6. Interest Rates and Rates of Price Change
+chapter_slug: "185-6-interest-rates-and-rates-of-price-change"
+variant_id: "aaf8882e-625f-51f4-ad83-ee9742a158c4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1556
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+The roughness of the comparisons between interest rates and price levels thus far made impels to further study of this important problem. For these more rigorous comparisons, the statistics of prices and of bond yields in Great Britain and the United States have been taken, being the only reliable statistics ready at hand which permit of long trend comparisons.
+
+Since the theory being investigated is that interest rates move in the opposite direction to changes in the value of money, that is, in the same direction as price changes, the first analysis made is the same as that already made by rougher methods, the comparison of price changes with interest rates.
+
+For the rate of change of prices, the customary link relative expression was at first used in a preliminary study of quarterly United States data for the period 1890-1904. But to ensure full comparability with my related studies of several years ago on price changes and trade variations, the symmetrical expression P' (rate of price change per annum) is used throughout. The precise derivation of P' is given in my paper, Our Unstable Dollar Edition: current; Page: [417] and the So-Called Business Cycle. The upper part of Chart 45 gives the correlation coefficient (r) obtained by correlating the long term interest rates as reflected in the yield of British consols with percentage changes in prices computed from the British wholesale index numbers of Sauerbeck and The Statist. The lower part of this chart gives the r's for bond yields and percentage price changes in the United States.
+
+In Great Britain, the price changes from 1820 to 1924 fall into three clearly defined periods, namely, 1820 to 1864, a period of fluctuating prices with no marked upward or downward trend in prices; 1865 to 1897, a period of declining prices; 1898 to 1924, a period chiefly of rising prices, including a big boom from 1915 to 1920, followed by a crash and more stable prices since 1922.
+
+A very brief examination of the charts below indicates that there is little or no apparent relationship between price changes and interest rates in any of the periods studied in either country except for 1898-1924 in Great Britain. For the period 1820-1864 in Great Britain we obtain a maximum inverse correlation of -0.459, without lagging. For the period 1898-1924, we get as a maximum +0.623 when i is lagged 4 years and +0.678 when i is lagged 6 years. Lag means the time interval between a Edition: current; Page: [418] price change and the associated change in the interest rate. Chart 45 shows the results of lagging interest rates behind price changes on the one hand and lagging price changes behind interest rates on the other. For the United States, without lagging, r = +0.289, while the highest correlation is +0.406 when i is lagged 4 years. These results suggest that no direct and consistent connection of any real significance exists between P' and i.
+
+The variations in r for different lags may be due to the zigzag cycles in the data correlated. The maximum value Edition: current; Page: [419] of r establishes definitely that, characteristically, movements in i lag behind corresponding movements in P'. The small numerical value of r suggests that the relation can be revealed only faintly by P' and i directly. But a little consideration suggests that the influence of P' or i may be assumed to be distributed in time—as, in fact, must evidently be true of any influence. This hypothesis proved quite fruitful in my studies several years ago, in the course of which the theory of distributed influence or, if we wish to avoid the implication of cause and effect, of distributed lag was developed in considerable detail.
+
+The reader may consult the references cited for details. It must suffice here to point out only the essence of the transformation of P' into the derived quantity , measuring the distributed influence of sundry P'. Arithmetically, is merely a certain weighted average of sundry successive P''s. (See (a) and (b) referred to in the footnote.) In any specific problem the number of successive P''s that enter into the average 's depends on the length of the time interval during which the influence of any P' is assumed to be perceptible. The weights used vary in a certain functional form, generally that of a skew probability curve. Thus, in applying the theory at least two parameters are involved: (1) the length of the influence interval (which determines the number of P''s Edition: current; Page: [420] that enter into the composite ), and (2) the form of variation of the weights. As indicated in reference (b) in the above footnote, the form of variation of the weights is exactly—but in reverse order—the form in which the distributed influence of any P' tapers off during successive periods of time.
+
+In the present study we must limit our investigation to only one type of distribution of influence and variation of weights. The form chosen is the simple straight line function or arithmetical progression which proved most effective and easily calculated in my 1925 study. Several periods of influence range, however, were tried. The results for the British and American yearly data are shown in Charts 46 and 47.
+
+Correlation Coefficients Between and i for Various Distributions of Lag. is the Combined Effect at Any Point of Time of the Influence of Preceding P' 's with Lags Distributed. Yearly Data, Great Britain, 1820-1924.
+
+Correlation Coefficients Between and i for Various Distributions of Lag. is the Combined Effect at Any Point of Time of the Influence of Preceding P' 's with Lags Distributed. Yearly Data, United States, 1900-1927.
+
+The figures at the bottom of Charts 46 and 47 refer to the number of years over which the effect of price changes is taken into account in the correlations between and i. For example, in Chart 46, the figures 1-16 mean that the Edition: current; Page: [422] effect of a price change is assumed to begin the first year after the change and to cease at the end of 16 years. The weighted average of the distributed lag is 5.3 years. The longest distribution shown at the right is from 1 to 32 years, or a weighted average of 10.7 years.
+
+The charts picture only the effects of the distributed lag when interest rates follow behind price changes.
+
+Experiment proved that when price changes were lagged behind the distributed influence of changing interest rates, the correlation coefficients were too small to have any significance.
+
+The high and consistent correlations shown in the Edition: current; Page: [423] above charts are in striking contrast to the results previously obtained from correlating P' directly with i. The assumption that a change in prices occurring during one year exhausts its influence upon interest rates in the same year or in another single year is shown to be quite wrong, as might be expected. Our first correlations seemed to indicate that the relationship between P' and i is either very slight or obscured by other factors. But when we make the much more reasonable supposition that price changes do not exhaust their effects in a single year but manifest their influence with diminishing intensity, over long periods which vary in length with the conditions, we find a very significant relationship, especially in the period which includes the World War, when prices were subject to violent fluctuations.
+
+The British figures for 1820-1864 give the lowest correlations of any included in this study. These low figures are possibly due in part to the less accurate price indexes in those early years. It is noteworthy that the correlation coefficients are distinctly lower for the United States in the period 1900-1927 than they are for Great Britain in the period 1898-1924. It is also interesting that for Great Britain in 1898-1924, the highest value of r (+0.980) is reached when effects of price changes are assumed to be spread over 28 years or for a weighted average of 9.3 years, while for the United States the highest r (+0.857) is for a distribution of the influence due to price changes over 20 years or a weighted average of 6.7 years.
+
+Chart 48 shows graphically the smoothing effect of distributing the influence of P' over various periods.
+
+By assuming a distribution of effect of price changes over several years according to the form described above, the relationship between price changes and interest rates Edition: current; Page: [424] Edition: current; Page: [425] which was only faintly revealed by the first direct comparisons is clearly revealed. The high correlation coefficients obtained by means of the method of distributing the influence of P' and i show that the theory tested in this chapter conforms closely to reality, especially during periods of rather marked price movements.
+
+Furthermore the results and other evidence, indicate that, over long periods at least, interest rates follow price movements. The reverse, which some writers have asserted, seems to find little support. Experiments, made with United States short term interest rates, to test the alternative hypothesis of distributed influence of interest rate changes instead of price changes, gave results of negligible significance. Our investigations thus corroborate convincingly the theory that a direct relation exists between P' and i, the price changes usually preceding and determining like changes in interest rates.

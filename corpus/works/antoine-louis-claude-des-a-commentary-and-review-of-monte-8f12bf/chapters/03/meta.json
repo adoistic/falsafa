@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf",
+  "work_title": "A Commentary and Review of Montesquieu's Spirit of Laws",
+  "chapter_number": 3,
+  "chapter_title": "Book I: Of Laws in General",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5a4c02d-a106-56c9-993a-b3ecded53843",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1167,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
+    }
+  ]
+}

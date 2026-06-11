@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 91,
+  "chapter_title": "XXXII.—: Give occasion to a wise man, and his wisdom will be increased",
+  "chapter_slug": "91-xxxii-give-occasion-to-a-wise-man-and-his-wisdom-w",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b521b7a0-7553-5803-83d9-3f63399f66d6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 95,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

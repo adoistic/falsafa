@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 25,
+  "chapter_title": "(C): Forced Foreign Relations to Regulate Improvement which can no Longer be Defeated.",
+  "chapter_slug": "25-c-forced-foreign-relations-to-regulate-improvement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "39e40ede-084f-521a-a1fe-d969bbdab4e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1216,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

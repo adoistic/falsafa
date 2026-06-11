@@ -1,0 +1,27 @@
+---
+work_id: "1ff8b2f5-107d-59ba-84e3-40c739702179"
+work_slug: "charles-francis-bastable-public-finance-1ff8b2"
+work_title: Public Finance
+author_name: Charles Francis Bastable
+chapter_number: 14
+chapter_title: notes
+chapter_slug: "14-notes"
+variant_id: "499127b5-102b-5d2d-aa3a-3f99d3942039"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 391
+source_url: "https://oll.libertyfund.org/titles/bastable-public-finance"
+translator: Online Library of Liberty edition
+---
+
+Some writers on finance have included in their discussions an examination of the finance of ‘State Confederations’ (Staatenbünde) and also of Colonies, but neither seems entitled to a distinct place. There is a decided difference between a federal State and a confederation of a group of States. The former is a true political unit, and one of the points of unity is financial; the latter can be resolved into its component parts, each with a separate financial system. The resources of a confederacy are always derivative, and are obtained from the separate States. The old German Bund (1815–1866) may be contrasted with the existing German Empire as effectively illustrating this essential distinction.
+
+But though in general the line of division is a clear one, some difficulty occurs—as is so often the case in political and social inquiries—in respect to societies in a transitional condition. The American Confederation in the period 1776–89, and the Swiss Confederation, 1816–1848, may be taken as examples. In such instances we find a new financial organisation in course of development, the older bodies being gradually merged in a new and larger whole. The best method of treatment is to start from the consideration of the separate parts and show how they become effectively combined in the natural course of events.
+
+The financial position of such a composite State as Austria-Hungary is another difficult question; but here, again, the parts take precedence of the combination, which is strictly dependent for its revenue on the contributions of its components. The revenue of Austria-Hungary is formed from expenditure by Austria or Hungary. A further consideration to be borne in mind is the determination of the amount of contribution on the basis of treaty or contract, which will presumably be calculated in proportion to the benefit received by each portion. The whole arrangement is therefore one of international rather than public law.
+
+Like considerations are applicable to Colonial finance. It is perfectly correct to combine the central and local finance of the United Kingdom into a single whole. A similar attempt with the British, Canadian, and Indian Edition: current; Page: [129] financial systems would be absurd. The conditions of unity do not exist. The very conception of a financial system depends on the existence of the single State which has created it. Any departure from this fundamental principle must produce confusion.

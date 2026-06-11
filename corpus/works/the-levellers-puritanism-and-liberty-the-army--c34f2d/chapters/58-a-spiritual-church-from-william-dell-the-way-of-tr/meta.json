@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 58,
+  "chapter_title": "A Spiritual Church From William Dell, The Way of True Peace and Unity (1649)",
+  "chapter_slug": "58-a-spiritual-church-from-william-dell-the-way-of-tr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ce2a7ad0-989e-5a22-bf2f-a33640204cc6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7000,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

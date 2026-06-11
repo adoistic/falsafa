@@ -1,0 +1,27 @@
+---
+work_id: "4c36b58a-b7fb-5cbc-9026-7035729f66f5"
+work_slug: "suetonius-the-lives-of-the-twelve-caesars-4c36b5"
+work_title: The Lives of the Twelve Caesars
+author_name: Suetonius
+chapter_number: 19
+chapter_title: THE LIFE OF HORACE.
+chapter_slug: "19-the-life-of-horace"
+variant_id: "e1634433-c84f-52c0-9c33-b947d9dae7dd"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 887
+source_url: "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+translator: Online Library of Liberty edition
+---
+
+Horatius Flaccus was a native of Venusium, his father having been, by his own account, a freedman and collector of taxes, but, as it is generally believed, a dealer in salted Edition: current; Page: [541] provisions; for some one with whom Horace had a quarrel, jeered him, by saying; “How often have I seen your father wiping his nose with his fist?” In the battle of Philippi, he served as a military tribune, which post he filled at the instance of Marcus Brutus, the general; and having obtained a pardon, on the overthrow of his party, he purchased the office of scribe to a quæstor. Afterwards insinuating himself first, into the good graces of Mecænas, and then of Augustus, he secured no small share in the regard of both. And first, how much Mecænas loved him may be seen by the epigram in which he says:
+
+But it was more strongly exhibited by Augustus, in a short sentence uttered in his last moments: “Be as mindful of Horatius Flaccus as you are of me!” Augustus offered to appoint him his secretery, signifying his wishes to Mecænas in a letter to the following effect: “Hitherto I have been able to write my own epistles to friends; but now I am too much occupied, and in an infirm state of health. I wish, therefore, to deprive you of our Horace: let him leave, therefore, your luxurious table and come to the palace, and he shall assist me in writing my letters.” And upon his refusing to accept the office, he neither exhibited the smallest displeasure, nor ceased to heap upon him tokens of his regard. Letters of his are extant, from which I will make some short extracts to establish this: “Use your influence over me with the same freedom as you would do if we were living together as friends. In so doing you will be perfectly right, and guilty of no impropriety; for I could wish that our intercourse should be on that footing, if your health admitted of it.” And again: “How I hold you in memory you may learn Edition: current; Page: [542] from our friend Septimius, for I happened to mention you when he was present. And if you are so proud as to scorn my friendship, that is no reason why I should lightly esteem yours, in return.” Besides this, among other drolleries, he often called him, “his most immaculate penis,” and “his charming little man,” and loaded him from time to time with proofs of his munificence. He admired his works so much, and was so convinced of their enduring fame, that he directed him to compose the Secular Poem, as well as that on the victory of his stepsons Tiberius and Drusus over the Vindelici; and for this purpose urged him to add, after a long interval, a fourth book of Odes to the former three. After reading his “Sermones,” in which he found no mention of himself, he complained in these terms: “You must know that I am very angry with you, because in most of your works of this description you do not choose to address yourself to me. Are you afraid that, in times to come, your reputation will suffer, in case it should appear that you lived on terms of intimate friendship with me?” And he wrung from him the eulogy which begins with,
+
+In person, Horace was short and fat, as he is described by himself in his Satires, and by Augustus in the following letter: “Dionysius has brought me your small volume, which, little as it is, not to blame you for that, I shall judge favourably. You seem to me, however, to be afraid lest your volumes should be bigger than yourself. But if you are short in stature, you are corpulent enough. You may, therefore, Edition: current; Page: [543] if you will, write in a quart, when the size of your volume is as large round as your paunch.”
+
+It is reported that he was immoderately addicted to venery. [For he is said to have had obscene pictures so disposed in a bedchamber lined with mirrors, that, whichever way he looked, lascivious images might present themselves to his view.] He lived for the most part in the retirement of his farm, on the confines of the Sabine and Tiburtine territories, and his house is shewn in the neighbourhood of a little wood not far from Tibur. Some Elegies ascribed to him, and a prose Epistle apparently written to commend himself to Mecænas, have been handed down to us; but I believe that neither of them are genuine works of his; for the Elegies are commonplace, and the Epistle is wanting in perspicuity, a fault which cannot be imputed to his style. He was born on the sixth of the ides of December [27th December], in the consulship of Lucius Cotta and Lucius Torquatus; and died on the fifth of the calends of December [27th November], in the consulship of Caius Marcius Censorinus and Caius Asinius Gallus; having completed his fifty-ninth year. He made a nuncupatory will, declaring Augustus his heir, not being able, from the violence of his disorder, to sign one in due form. He was interred and lies buried on the skirts of the Esquiline Hill, near the tomb of Mecænas.

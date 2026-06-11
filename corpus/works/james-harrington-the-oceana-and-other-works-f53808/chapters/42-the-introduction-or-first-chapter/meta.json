@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 42,
+  "chapter_title": "The INTRODUCTION, OR FIRST CHAPTER.",
+  "chapter_slug": "42-the-introduction-or-first-chapter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "839dda98-a6a7-5802-b7d8-ae1a404fdcd2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2624,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

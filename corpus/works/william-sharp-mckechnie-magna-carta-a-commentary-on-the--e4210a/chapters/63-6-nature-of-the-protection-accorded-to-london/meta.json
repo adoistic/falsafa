@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 63,
+  "chapter_title": "(6): Nature of the protection accorded to London.",
+  "chapter_slug": "63-6-nature-of-the-protection-accorded-to-london",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a13ecf2-55a0-53c3-8c2d-4e778a303ca3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 386,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

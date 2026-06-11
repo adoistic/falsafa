@@ -1,0 +1,41 @@
+---
+work_id: "2e533fc2-3f33-5049-8958-a2917fb0170b"
+work_slug: "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f"
+work_title: The Ruins, or a Survey of the Revolutions of Empires
+author_name: "Constantin-François Volney"
+chapter_number: 25
+chapter_title: "Sect. I.: Origin of the idea of God: Worship of the elements, and the physical powers of nature."
+chapter_slug: "25-sect-i-origin-of-the-idea-of-god-worship-of-the-el"
+variant_id: "1062e713-86d3-52bc-aa24-6500492ca4b5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 894
+source_url: "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+translator: Online Library of Liberty edition
+---
+
+“It was not till after having surmounted those obstacles, and run a long career in the night of history, that man, reflecting on his state, began to perceive his subjection to Edition: current; Page: [227] forces superior to his own and independent of his will. The sun gave him light and warmth; fire burned, thunder terrified, the winds buffetted, water overwhelmed him; all the various natural existences acted upon him in a manner not to be resisted. For a long time, an automaton, he remained passive, without enquiring into the cause of this action; but the very moment he was desirous of accounting to himself for it, astonishment seized his mind; and passing from the surprise of a first thought to the reverie of curiosity, he formed a chain of reasoning.
+
+“At first, considering only the action of the elements upon him, he inferred, relatively to himself, an idea of weakness, of subjection, and relatively to them, an idea of power, of domination; and this idea was the primitive and fundamental type of all his conceptions of the Divinity.
+
+“The action of the natural existences, in the second place, excited in him sensations of pleasure or pain, of good or evil; by virtue of his organization, he conceived love or aversion for them, he desired or dreaded their Edition: current; Page: [228] presence; and fear or hope was the principle of every idea of religion.
+
+“Afterwards, judging every thing by comparison, and remarking in those beings a motion spontaneous like his own, he supposed there to be a will, an intelligence inherent in that motion, of a nature similar to what existed in himself; and hence, by way of inference, he started a fresh argument.—Having experienced that certain modes of behaviour towards his fellow-creatures wrought a change in their affections and governed their conduct, he applied those practices to the powerful beings of the universe. “When my fellow-creature of superior strength,” said he to himself, “is disposed to injure me, I humble myself before him, and my prayer has the art of appeasing him. I will pray to the powerful beings that strike me. I will supplicate the faculties of the winds, the planets, the waters, and they will hear me. I will conjure them to avert the calamities, and to grant me the blessings which are at their disposal. My tears will move, my offerings propitiate them, and I shall enjoy complete felicity.”
+
+“And, simple in the infancy of his reason, man spoke to the sun and the moon, he animated with his understanding and his passions the great agents of nature; he thought by vain sounds and useless practices to change their inflexible laws. Fatal error! He desired that the water should ascend, the mountains be removed, the stone mount in the air; and substituting a fantastic to a real world, he constituted for himself beings of opinion, to the terror of his mind and the torment of his race.
+
+“Thus the ideas of God and religion sprung, like all others, from physical objects, and were in the understanding of man the produce of his sensations, his wants, the circumstances of his life, and the progressive state of his knowledge.
+
+“As these ideas had natural beings for their first models, it resulted from hence that the Divinity was originally as various and manifold as the forms under which he seemed to act: each being was a Power, a Genius, and the first men found the universe crowded with innumerable Gods.
+
+“In like manner the ideas of the Divinity having had for motors the affections of Edition: current; Page: [230] the human heart, they underwent an order of division calculated from the sensations of pain and pleasure, of love and hatred: the powers of nature, the Gods, the Genii, were classed into benign and maleficent, into good and evil ones: and this constitutes the universality of these two ideas in every system of religion.
+
+“These ideas, analogous to the condition of their inventors, were for a long time confused and gross. Wandering in woods, beset with wants, destitute of resources, men in their savage state had no leisure to make comparisons and draw conclusions. Suffering more ills than they tasted enjoyments, their most habitual sentiment was fear, their theology terror, their worship confined to certain modes of salutation, of offerings which they presented to beings whom they supposed to be ferocious and greedy like themselves. In their state of equality and independence, no one took upon him the office of mediator with Gods as insubordinate and poor as himself. No one having any superfluity to dispose of, there existed no parasite under the name of priest, nor tribute Edition: current; Page: [231] under the name of victim, nor empire under the name of altar; their dogma and morality, jumbled together, were only self preservation; and their religion, an arbitrary idea without influence on the mutual relations existing between men, was but a vain homage paid to the visible powers of nature.
+
+“Such was the first and necessary origin of every idea of the Divinity.”
+
+The orator then addressing the savage nations, said: “We appeal to you, who have received no foreign fictitious ideas, whether your conceptions have not been formed precisely in this manner? We ask you also, learned theologians, if such be not the unanimous record of all the monuments of antiquity?

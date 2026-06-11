@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bright-selected-speeches-on-public-ques-1725cc",
+  "work_title": "Selected Speeches on Public Questions",
+  "chapter_number": 8,
+  "chapter_title": "VII: AMERICA—III.: THE STRUGGLE IN AMERICA",
+  "chapter_slug": "08-vii-america-iii-the-struggle-in-america",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dbac3974-7bdb-5fd4-a1ff-b105c67fa829",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 505,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions"
+    }
+  ]
+}

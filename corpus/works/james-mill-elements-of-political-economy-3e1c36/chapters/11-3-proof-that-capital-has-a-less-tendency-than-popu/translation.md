@@ -1,0 +1,47 @@
+---
+work_id: "3e1c3652-0c17-5735-963e-45174cee80b3"
+work_slug: "james-mill-elements-of-political-economy-3e1c36"
+work_title: Elements of Political Economy
+author_name: James Mill
+chapter_number: 11
+chapter_title: 3. Proof that capital has a less tendency than Population to increase rapidly.
+chapter_slug: "11-3-proof-that-capital-has-a-less-tendency-than-popu"
+variant_id: "485bd9d2-950c-5827-82a2-2e38c4cfc54e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1412
+source_url: "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+translator: Online Library of Liberty edition
+---
+
+We come next to consider the tendency which capital may have to increase. If that should increase as fast as population, along with every labourer produced, the means of employment and subsistence would also be produced; and no degradation of the great body of the people would be the consequence.
+
+Though it is found, where property is secure, that there is a considerable disposition in mankind to save; sufficient, where vast consumption is not made by the government, and where the difficulties of production are not very great, to make capital progressive; this disposition is still so weak, in almost all the situations in which human beings have ever been placed, as to make the increase of capital slow.
+
+The annual produce is always distributed in such a manner, that, either the great body of the people are liberally provided with what is necessary for subsistence and enjoyment, when of course a smaller portion goes to swell the incomes of the rich; or, the great body of the people are reduced to mere necessaries, when there is naturally a class of people whose incomes are large. To one or other of these two cases the state of every community approximates.
+
+1. In the case, in which there is a class reduced to necessaries, and a class of rich, it is evident that the first have not the means of saving. A class of rich men, in the middle of a class of poor, are not apt to save. The possession of a large fortune generally whets the appetite for immediate enjoyment. And the man who is already in possession of a fortune, yielding him all the enjoyments which fortune can command, has little inducement to save. In such a state of the social order, any rapid increase of capital is opposed by causes which are in general irresistible.
+
+2. We are next to consider the state of the social order, in which a large share of the annual produce is distributed among the great body of the people. In that situation, neither the class which labours, nor that which is maintained without labouring, has any forcible motives to save.
+
+When a man possesses, what we are now supposing possessed by the great body of the people, food, clothing, lodging, and all other things sufficient not only for comfortable, but pleasurable existence, he possesses the means of all the substantial enjoyments of human life. The rest is in a great measure fancy. There are two sets of men; one, in whom the reasoning power is strong, and who are able to resist a present pleasure for a greater one hereafter; another, in whom it is weak, and who can seldom resist the charm of immediate enjoyment. Of course, it is not in the latter class that the motive to save can be expected to prevail. The class, on the other hand, in whom reason is sufficiently strong to form a due estimate of pleasures, cannot fail to perceive that those which they can obtain by adding penny to penny, after all the rational desires are satisfied, are not equal to the pleasures which, in the circumstances we have supposed, they must relinquish to obtain them. Both the higher and the lower principles of our nature are in such circumstances opposed to accumulation. So far, as to the strength of the motive which, in the supposed circumstances, can operate upon the labouring class.
+
+What remains of the annual produce, after the share of the labouring class is deducted, is either distributed in large portions among a small number of very rich men, or among a large number of men of moderate fortunes.
+
+We have already examined the state of the motives to accumulate when fortunes are large; and have found that it never can be such as to produce very considerable effects. We have now to examine the state of the motives to accumulate, in a society, in which there is a great number of moderate fortunes, without the prevalence of large. In the way of physical enjoyment, these fortunes yield every thing which the largest fortunes can bestow. There are only two motives, therefore, which, in this situation, can counteract the strong tendency to immediate enjoyment: either the desire of a command over the sentiments of mankind; or the wish to make a provision for children.
+
+The strength of the motive to command by riches the favourable sentiments of mankind will depend upon the effect they are calculated to produce. That is different, in different states of society. In the state of society, supposed in the present case, men are distributed into two classes: men of easy but moderate fortunes; and a well paid body of labourers and artisans.
+
+The first class; men with fortunes equal to all the purposes not only of independence, and of physical enjoyment, but of taste and elegance, and who at the same time constitute the governing portion of society, giving the tone to its sentiments and amusements; are not in the situation of men whose imaginations are apt to be dazzled by the glare of superior riches. The persons belonging to the second, or labouring class, are cringing and servile, where the frown of the rich man is terrible, and his little favours important: but when they are placed in circumstances which impart the feeling of independence, and give them opportunity for the cultivation of their minds, they are little affected by the signs of wealth. This, therefore, is a state of society in which the possession of great riches gives little command over the sentiments of others, and cannot constitute a powerful motive for saving.
+
+With respect to the provision for children, if a man feels no great desire to make a larger than the ordinary moderate fortune for himself, he feels as little desire at the least to make it for his children. The provision, which he desires to make for them, can only, therefore, be such as to place them in the same situation which is held by himself. He will be anxious to afford to them the same means for beginning life advantageously, as were afforded, or would have been desirable, to himself. To this extent the desire of making a provision for children might be expected to be very general, and it would ensure a certain moderate increase of capital. This may therefore be considered, as, perhaps, the most favourable state of society for accumulation; with the exception of those cases in which colonists, with all the knowledge and power of civilized life, are transported into a country uninhabited, or nearly so, and have the power of cultivating without limit the most productive species of land. These are coincidences so extraordinary, and so rare, that, in tracing the general laws of human society, it is only necessary to show that they are not forgotten.
+
+These considerations seem to prove that more than moderate effects can rarely flow from the motives to accumulation. But the proof, that population has a tendency to increase faster than capital, does not depend upon this foundation, strong as it is. The tendency of population to increase, whatever it may be, is at any rate an equable tendency. At what rate soever it has increased at any one time, it may be expected to increase at an equal rate, if placed in equally favourable circumstances, at any other time. The case with capital is the reverse.
+
+Whether, after land of superior quality has been exhausted, capital is applied to new land of inferior quality, or in successive doses with diminished returns upon the same land, the produce of it is continually diminishing in proportion to its increase. If the return to capital is, however, continually decreasing, the annual fund, from which savings are made, is continually diminishing. The difficulty of making savings is thus continually augmented, and at last they must totally cease.
+
+It thus sufficiently appears, that there is a tendency in population to increase faster than capital. If this be established, it is of no consequence to the present purpose to inquire about the rapidity of the increase. How slow soever the increase of population, provided that of capital is still slower, wages will be reduced so low that a portion of the population will regularly die of want. Neither can this dreadful consequence be averted otherwise than by the use of means to prevent the increase of capital from falling short of that of population.

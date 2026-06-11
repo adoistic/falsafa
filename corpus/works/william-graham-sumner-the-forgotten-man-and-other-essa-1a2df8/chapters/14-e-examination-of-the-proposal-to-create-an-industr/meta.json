@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 14,
+  "chapter_title": "(E): Examination of the Proposal to “Create an Industry.”",
+  "chapter_slug": "14-e-examination-of-the-proposal-to-create-an-industr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7878ad0d-c44e-53c8-b26c-9249b0ada131",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1862,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

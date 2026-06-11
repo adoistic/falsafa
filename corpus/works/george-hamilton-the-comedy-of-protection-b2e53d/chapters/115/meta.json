@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 115,
+  "chapter_title": "CHAPTER VI: AMERICAN TRADE",
+  "chapter_slug": "115",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4ffbc94-2023-53bf-b4a4-b0e6860a6f42",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 704,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

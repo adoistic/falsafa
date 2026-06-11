@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 71,
+  "chapter_title": "VI.: RESOLUTIONS PROPOSED CONCERNING THE BANK OF ENGLAND, BY MR GRENFELL.",
+  "chapter_slug": "71-vi-resolutions-proposed-concerning-the-bank-of-eng",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29bbc457-6148-5fe1-b4cb-5bf2fd172cef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 578,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

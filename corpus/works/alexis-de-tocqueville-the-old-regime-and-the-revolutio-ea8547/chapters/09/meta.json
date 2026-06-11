@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
+  "work_title": "The Old Regime and the Revolution",
+  "chapter_number": 9,
+  "chapter_title": "CHAPTER III.: THAT WHAT IS NOW CALLED “THE GUARDIANSHIP OF THE STATE” (TUTELLE ADMINISTRATIVE) WAS AN INSTITUTION OF THE",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd39b600-a756-58fa-8771-c59e7c2ea0b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3076,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+    }
+  ]
+}

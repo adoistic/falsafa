@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 29,
+  "chapter_title": "&sect; 4. Advantages of the present method.",
+  "chapter_slug": "29-sect-4-advantages-of-the-present-method",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e696c005-aed7-5c66-b2c1-2a4d90c05f77",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1898,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

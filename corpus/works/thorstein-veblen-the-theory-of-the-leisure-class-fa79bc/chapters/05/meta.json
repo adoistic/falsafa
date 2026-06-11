@@ -1,0 +1,26 @@
+{
+  "work_slug": "thorstein-veblen-the-theory-of-the-leisure-class-fa79bc",
+  "work_title": "The Theory of the Leisure Class",
+  "chapter_number": 5,
+  "chapter_title": "CHAPTER IV: Conspicuous Consumption",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eecd0491-9b0f-53bb-8aed-b396ea79e692",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9104,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/veblen-the-theory-of-the-leisure-class-an-economic-study-of-institutions"
+    }
+  ]
+}

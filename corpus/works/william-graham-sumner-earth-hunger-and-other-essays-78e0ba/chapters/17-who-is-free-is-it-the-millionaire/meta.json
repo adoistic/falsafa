@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-earth-hunger-and-other-essays-78e0ba",
+  "work_title": "Earth-Hunger and Other Essays",
+  "chapter_number": 17,
+  "chapter_title": "Who Is Free? Is It the Millionaire?",
+  "chapter_slug": "17-who-is-free-is-it-the-millionaire",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca73d67f-861c-508f-8af0-d82bd2ef5d1f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1493,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
+    }
+  ]
+}

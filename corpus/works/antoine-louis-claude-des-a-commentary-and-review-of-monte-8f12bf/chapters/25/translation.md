@@ -1,0 +1,23 @@
+---
+work_id: "8f12bf9f-bf64-50d9-a672-ab8eaf85ff96"
+work_slug: "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf"
+work_title: "A Commentary and Review of Montesquieu's Spirit of Laws"
+author_name: Antoine Louis Claude Destutt de Tracy
+chapter_number: 25
+chapter_title: Book XXV Of Laws in Relation to a Religions Establishment, and Its Effects on External Policy.
+chapter_slug: 25
+variant_id: "79668472-2c1a-5795-9693-05af3e78034a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 657
+source_url: "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
+translator: Online Library of Liberty edition
+---
+
+The less power religious ideas possess in the political concerns of a country, the more virtuous, happy, free, and peaceable the people will be.
+
+Religion is not a very difficult subject to treat of, in relation to the social art: the spirit of laws on this subject, should be neither to disturb nor constrain the religious opinions Of any citizen, to give none a legal adoption, and to prevent any of them from obtaining the least influence in civil affairs. Without doubt, there are some religions more injurious than others, through the usages which they establish, and the pernicious maxims they propagate; by the celibacy of their priests, by means of seduction, by intolerance, by their dependance on a foreign authority, and particularly, by their aversion more or less extravagant to rational information of all kind; but none of those sects or their doctrinal tenets belong in any manner to the social organization; it is an immediate particular relation which they bear to the author of all things; it does not appertain to those things that man should or could have in common with his associates and fellow citizens. We can never pledge ourselves to think in the same manner as another person, nor the contrary, for the will is involuntary, we are not masters of our own opinions, nor can we even force ourselves always to hold the same opinion on any subject. All religions consist simply of speculative opinions called dogmas; under this view, they are the systems of a philosophy more or less rash, more or less contrary to the wise reserve of a sound logic. All sects join to their dogmas, some precepts of conduct called discipline: if some of these precepts be contrary to true social morals, these principles are bad.... and this always is the case, because those religions have been formed in times of ignorance, and morals can only be preserved in an enlightened age, and are not yet completely perfect. If, what is utterly impossible, the rules of conduct adopted by a sect, were altogether irreprehensible, they would yet possess the disadvantage of being founded on hazardous opinions, instead of being established on reason and solid motives: for every sect must, in relation to all other sects, be but a few. This then, is the place to say with yet more reason, what Omar said of the Koran.... if all these books contain only the same thing as the Koran, they are useless; if they contain any thing contrary thereto, they are pernicious. Government, therefore, should never suffer any system of religion to be taught by authority, but the best moral doctrine, that the most enlightened persons of the time are acquainted with should be inculcated. Moreover, religious opinions have this in particular, that they give an unlimited power to those who promulge them, over those who believe them to be the depositaries and interpreters of the divine will. Their promises are immense for the next world, no temporal powers can balance them; whence it follows, that priests in all nations, are ever dangerous to the civil authority; or if supported by the government, they are always found prepared to extol its abuses, and to persuade man that it is his duty to sacrifice all his rights: so that as long as they hold a powerful influence, neither liberty, nor even peaceable oppression is possible. So that all governments desirous of establishing a tyranny, attach the priesthood to themselves, and render the priesthood sufficiently powerful to accomplish the service assigned to them: a government desirous of liberty and happiness, endeavors to promote the progress of information. This is what the Spirit of Laws may be reduced to on this point. It appears sufficiently useless to examine what the author of a religious sect should do to make it spread. I may venture to say that no more new sects will be formed.... at least among polished and civilized nations.

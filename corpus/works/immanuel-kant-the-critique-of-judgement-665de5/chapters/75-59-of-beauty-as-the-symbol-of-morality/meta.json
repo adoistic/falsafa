@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 75,
+  "chapter_title": "§ 59.: Of Beauty as the symbol of Morality",
+  "chapter_slug": "75-59-of-beauty-as-the-symbol-of-morality",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8186d33-6ba5-5a80-82c4-4dcd59f2af96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1358,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

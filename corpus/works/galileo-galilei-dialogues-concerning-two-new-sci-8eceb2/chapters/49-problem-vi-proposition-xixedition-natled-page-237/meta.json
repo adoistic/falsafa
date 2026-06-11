@@ -1,0 +1,26 @@
+{
+  "work_slug": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+  "work_title": "Dialogues Concerning Two New Sciences",
+  "chapter_number": 49,
+  "chapter_title": "Problem VI, Proposition XIXEdition: NatlEd; Page: [237]",
+  "chapter_slug": "49-problem-vi-proposition-xixedition-natled-page-237",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1bd96b6d-1ba6-5df9-a5be-eec0d7e34626",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 236,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+    }
+  ]
+}

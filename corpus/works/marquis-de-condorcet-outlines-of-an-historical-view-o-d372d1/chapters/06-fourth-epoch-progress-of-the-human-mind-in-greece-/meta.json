@@ -1,0 +1,26 @@
+{
+  "work_slug": "marquis-de-condorcet-outlines-of-an-historical-view-o-d372d1",
+  "work_title": "Outlines of an Historical View of the Progress of the Human Mind",
+  "chapter_number": 6,
+  "chapter_title": "FOURTH EPOCH. Progress of the Human Mind in Greece, till the Division of the Sciences about the Age of Alexander.",
+  "chapter_slug": "06-fourth-epoch-progress-of-the-human-mind-in-greece-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "855e94d1-e37d-5683-aff8-6f9583bf5ba4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4721,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind"
+    }
+  ]
+}

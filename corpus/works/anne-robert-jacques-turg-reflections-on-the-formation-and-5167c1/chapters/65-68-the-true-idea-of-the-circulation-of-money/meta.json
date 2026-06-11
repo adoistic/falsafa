@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 65,
+  "chapter_title": "68. The true idea of the circulation of money.",
+  "chapter_slug": "65-68-the-true-idea-of-the-circulation-of-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5b11f71-8542-5a65-898c-dbcaed05e23b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 246,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

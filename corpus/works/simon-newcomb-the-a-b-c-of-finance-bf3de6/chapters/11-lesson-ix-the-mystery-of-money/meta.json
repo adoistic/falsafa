@@ -1,0 +1,26 @@
+{
+  "work_slug": "simon-newcomb-the-a-b-c-of-finance-bf3de6",
+  "work_title": "The A B C of Finance",
+  "chapter_number": 11,
+  "chapter_title": "LESSON IX.: The Mystery of Money",
+  "chapter_slug": "11-lesson-ix-the-mystery-of-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bda11856-d421-59f1-b004-2e881a4cf4bb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 887,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/newcomb-the-a-b-c-of-finance"
+    }
+  ]
+}

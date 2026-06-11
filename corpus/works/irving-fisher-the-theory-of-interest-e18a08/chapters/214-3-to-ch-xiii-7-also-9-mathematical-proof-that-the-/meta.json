@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 214,
+  "chapter_title": "§3 (to Ch. XIII. § 7, also § 9) Mathematical proof that the principle of maximum present value is identical with the pri",
+  "chapter_slug": "214-3-to-ch-xiii-7-also-9-mathematical-proof-that-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb5d77d4-384a-5717-9bca-74c35f137887",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 452,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

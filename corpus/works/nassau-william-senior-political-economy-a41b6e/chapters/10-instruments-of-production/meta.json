@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-political-economy-a41b6e",
+  "work_title": "Political Economy",
+  "chapter_number": 10,
+  "chapter_title": "Instruments of Production.",
+  "chapter_slug": "10-instruments-of-production",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00afd800-ee50-5031-9db9-94b34c8b93e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4177,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
+    }
+  ]
+}

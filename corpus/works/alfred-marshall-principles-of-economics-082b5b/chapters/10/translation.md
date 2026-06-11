@@ -1,0 +1,47 @@
+---
+work_id: "082b5b1e-34c3-59b9-8bf4-babbd7afd999"
+work_slug: "alfred-marshall-principles-of-economics-082b5b"
+work_title: Principles of Economics
+author_name: Alfred Marshall
+chapter_number: 10
+chapter_title: "BOOK III, CHAPTER II: WANTS IN RELATION TO ACTIVITIES."
+chapter_slug: 10
+variant_id: "72cf470f-f619-5f1e-9b00-8fd489db5183"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1537
+source_url: "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+translator: Online Library of Liberty edition
+---
+
+§ 1. Human wants and desires are countless in number and very various in kind: but they are generally limited and capable of being satisfied. The uncivilized man indeed has not many more than the brute animal; but every step in his progress upwards increases the variety of his needs together with the variety in his methods of satisfying them. He desires not merely larger quantities of the things he has been accustomed to consume, but better qualities of those things; he desires a greater choice of things, and things that will satisfy new wants growing up in him.
+
+Thus though the brute and the savage alike have their preferences for choice morsels, neither of them cares much for variety for its own sake. As, however, man rises in civilization, as his mind becomes developed, and even his animal passions begin to associate themselves with mental activities, his wants become rapidly more subtle and more various; and in the minor details of life he begins to desire change for the sake of change, long before he has consciously escaped from the yoke of custom. The first great step in this direction comes with the art of making a fire: gradually he gets to accustom himself to many different kinds of food and drink cooked in many different ways; and before long monotony begins to become irksome to him, and he finds it a great hardship when accident compels him to live for a long time exclusively on one or two kinds of food.
+
+As a man's riches increase, his food and drink become more various and costly; but his appetite is limited by nature, and when his expenditure on food is extravagant it is more often to gratify the desires of hospitality and display than to indulge his own senses.
+
+This brings us to remark with Senior that "Strong as is the desire for variety, it is weak compared with the desire for distinction: a feeling which if we consider its universality, and its constancy, that it affects all men and at all times, that it comes with us from the cradle and never leaves us till we go into the grave, may be pronounced to be the most powerful of human passions." This great half-truth is well illustrated by a comparison of the desire for choice and various food with that for choice and various dress.
+
+§ 2. That need for dress which is the result of natural causes varies with the climate and the season of year, and a little with the nature of a person's occupations. But in dress conventional wants overshadow those which are natural. Thus in many of the earlier stages of civilization the sumptuary mandates of Law and Custom have rigidly prescribed to the members of each caste or industrial grade, the style and the standard of expense up to which their dress must reach and beyond which they may not go; and part of the substance of these mandates remains now, though subject to rapid change. In Scotland, for instance, in Adam Smith's time many persons were allowed by custom to go abroad without shoes and stockings who may not do so now; and many may still do it in Scotland who might not in England. Again, in England now a well-to-do labourer is expected to appear on Sunday in a black coat and, in some places, in a silk hat; though these would have subjected him to ridicule but a short time ago. There is a constant increase both in that variety and expensiveness which custom requires as a minimum, and in that which it tolerates as a maximum; and the efforts to obtain distinction by dress are extending themselves throughout the lower grades of English society.
+
+But in the upper grades, though the dress of women is still various and costly, that of men is simple and inexpensive as compared with what it was in Europe not long ago, and is to-day in the East. For those men who are most truly distinguished on their own account, have a natural dislike to seem to claim attention by their dress; and they have set the fashion.
+
+§ 3. House room satisfies the imperative need for shelter from the weather: but that need plays very little part in the effective demand for house room. For though a small but well-built cabin gives excellent shelter, its stifling atmosphere, its necessary uncleanliness, and its want of the decencies and the quiet of life are great evils. It is not so much that they cause physical discomfort as that they tend to stunt the faculties, and limit people's higher activities. With every increase in these activities the demand for larger house room becomes more urgent.
+
+And therefore relatively large and well-appointed house room is, even in the lowest social ranks, at once a "necessary for efficiency," and the most convenient and obvious way of advancing a material claim to social distinction. And even in those grades in which everyone has house room sufficient for the higher activities of himself and his family, a yet further and almost unlimited increase is desired as a requisite for the exercise of many of the higher social activities.
+
+§ 4. It is, again, the desire for the exercise and development of activities, spreading through every rank of society, which leads not only to the pursuit of science, literature and art for their own sake, but to the rapidly increasing demand for the work of those who pursue them as professions. Leisure is used less and less as an opportunity for mere stagnation; and there is a growing desire for those amusements, such as athletic games and travelling, which develop activities rather than indulge any sensuous craving.
+
+For indeed the desire for excellence for its own sake, is almost as wide in its range as the lower desire for distinction. Just as the desire for distinction graduates down from the ambition of those who may hope that their names will be in men's mouths in distant lands and in distant times, to the hope of the country lass that the new ribbon she puts on for Easter may not pass unnoticed by her neighbours; so the desire for excellence for its own sake graduates down from that of a Newton, or a Stradivarius, to that of the fisherman who, even when no one is looking and he is not in a hurry, delights in handling his craft well, and in the fact that she is well built and responds promptly to his guidance. Desires of this kind exert a great influence on the supply of the highest faculties and the greatest inventions; and they are not unimportant on the side of demand. For a large part of the demand for the most highly skilled professional services and the best work of the mechanical artisan, arises from the delight that people have in the training of their own faculties, and in exercising them by aid of the most delicately adjusted and responsive implements.
+
+Speaking broadly therefore, although it is man's wants in the earliest stages of his development that give rise to his activities, yet afterwards each new step upwards is to be regarded as the development of new activities giving rise to new wants, rather than of new wants giving rise to new activities.
+
+We see this clearly if we look away from healthy conditions of life, where new activities are constantly being developed; and watch the West Indian negro, using his new freedom and wealth not to get the means of satisfying new wants, but in idle stagnation that is not rest; or again look at that rapidly lessening part of the English working classes, who have no ambition and no pride or delight in the growth of their faculties and activities, and spend on drink whatever surplus their wages afford over the bare necessaries of a squalid life.
+
+It is not true therefore that "the Theory of Consumption is the scientific basis of economics." For much that is of chief interest in the science of wants, is borrowed from the science of efforts and activities. These two supplement one another; either is incomplete without the other. But if either, more than the other, may claim to be the interpreter of the history of man, whether on the economic side or any other, it is the science of activities and not that of wants; and McCulloch indicated their true relations when, discussing "the progressive nature of man," he said:—"The gratification of a want or a desire is merely a step to some new pursuit. In every stage of his progress he is destined to contrive and invent, to engage in new undertakings; and when these are accomplished to enter with fresh energy upon others."
+
+From this it follows that such a discussion of demand as is possible at this stage of our work, must be confined to an elementary analysis of an almost purely formal kind. The higher study of consumption must come after, and not before, the main body of economic analysis; and, though it may have its beginning within the proper domain of economics, it cannot find its conclusion there, but must extend far beyond.

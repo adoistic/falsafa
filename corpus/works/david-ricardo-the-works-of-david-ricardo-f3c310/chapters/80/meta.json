@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 80,
+  "chapter_title": "section VII.: Under a System of Protecting Duties established with a view to give the Monopoly of the Home Market to the",
+  "chapter_slug": "80",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93ce5f30-7399-56eb-916e-39c4d4dade09",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3922,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

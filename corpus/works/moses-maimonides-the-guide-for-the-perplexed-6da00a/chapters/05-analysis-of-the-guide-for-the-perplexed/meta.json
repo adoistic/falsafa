@@ -1,0 +1,26 @@
+{
+  "work_slug": "moses-maimonides-the-guide-for-the-perplexed-6da00a",
+  "work_title": "The Guide for the Perplexed",
+  "chapter_number": 5,
+  "chapter_title": "ANALYSIS OF THE GUIDE FOR THE PERPLEXED",
+  "chapter_slug": "05-analysis-of-the-guide-for-the-perplexed",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "221e64fb-deb1-5d43-aeb7-0ada0015c36b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2970,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+    }
+  ]
+}

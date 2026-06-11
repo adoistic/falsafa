@@ -1,0 +1,21 @@
+---
+work_id: "f538088a-04b4-5951-a446-828f1d596e4e"
+work_slug: "james-harrington-the-oceana-and-other-works-f53808"
+work_title: The Oceana and Other Works
+author_name: James Harrington
+chapter_number: 110
+chapter_title: The Doctor’s Answer.
+chapter_slug: "110-the-doctor-s-answer"
+variant_id: "585f2ade-f978-5263-9f05-43dd9ac04e90"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 173
+source_url: "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+translator: Online Library of Liberty edition
+---
+
+I HAVE not time to dispute the two forms, nor will to make it my study; but his reason is cogent for monarchical, that in it there is one chief; for order is the main concernment of government, and order is more perfected by reducing to unity, or having still one chief in the order. And this I mention the rather, because as anciently the Romans, so you in your model, are forced to betake you in necessity to a dictator, which undeniably evinces monarchical government the fittest for all exigencies. Also because God, to whom you seem to appeal (Pag. 15.) led his people (Psal. lxxvii. ult.) by the hand of Moses and Aaron; Moses chief in the whole government, and Aaron the chief in the priesthood, and after Moses Joshua; and still raised up single persons to judge his people. Lastly, because the dust of nature led your form of government, from paternal (so it was at the beginning or peopling of the world) unto monarchical, as families encreased into nations.

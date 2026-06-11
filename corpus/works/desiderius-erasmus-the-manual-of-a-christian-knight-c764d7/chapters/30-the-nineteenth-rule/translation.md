@@ -1,0 +1,21 @@
+---
+work_id: "c764d75b-dd5d-5dcf-95f5-b3135a6aed7f"
+work_slug: "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7"
+work_title: The Manual of a Christian Knight (Enchiridion)
+author_name: Desiderius Erasmus
+chapter_number: 30
+chapter_title: The nineteenth rule.
+chapter_slug: "30-the-nineteenth-rule"
+variant_id: "cf4fcf57-0fcc-5e71-999e-db158a36dcab"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 401
+source_url: "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+translator: Online Library of Liberty edition
+---
+
+Furthermore compare together those two captains by themselves most contrary and unlike, God and the devil, of which the one thou makest thine enemy when thou sinnest, and the other thy lord and master. Through innocency and grace thou art called in to the number of the friends of God, art elect unto the right title and inheritance of the sons of God. By sin verily Edition: current; Page: [248] thou art made both the bond servant and son of the devil. We must have in mind the beneficence of God, and the maleficence or noysaunce of the devil. The one of them is that eternal fountain and original patron and true example of very and sure beauty, of very true pleasure, of most perfect goodness, ministering himself to all things. The other is father of all mischief, of extreme filthiness, of uttermost infelicity. Remember the benefits and goodness of the one done to thee, and the evil deeds of the other. With what goodness hath the one made thee? With what mercy redeemed thee? With what liberty and freedom endued thee? With what tenderness daily suffereth he and sustaineth thee, a wretched sinner, patiently abiding and looking for amendment? With what joy and gladness doth he receive thee amended, and when thou art come again to thyself? Contrary to all these things with how natural hate and envy long ago did the devil lay wait to thy health? Into what grievous and cumbrous vexation hath he cast thee, and also what other thing imagineth he daily but to draw all mankind with him into eternal mischief? All these things on this side and that side, well and substantially weighed and pondered, thus think with thyself: shall I unmindful of mine original beginning from whence I came, unmindful of so great and manifold benefits, for so small a morsel of feigned and false pleasure, unkindly depart from so noble, from so loving, from so beneficial a father, and shall mancipate and make myself bond willingly Edition: current; Page: [249] unto a most filthy and a most cruel master? Shall I not at the least way make good to the one that thing which I would perform to a vile man, which had shewed kindness, or done me any good? Shall I not fly from the other, which would fly from a man that coveted or were about to do me hurt?

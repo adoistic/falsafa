@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 49,
+  "chapter_title": "ON THE WRITINGS OF MACHIAVEL.",
+  "chapter_slug": "49-on-the-writings-of-machiavel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ffead25-e955-50e8-89b0-36636ca1df0f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3275,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 88,
+  "chapter_title": "APPENDIX II",
+  "chapter_slug": "88-appendix-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0e651a80-97d2-51ee-8d1c-02b1e3f97073",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3640,
+      "paragraph_count": 178,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

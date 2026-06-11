@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-law-of-intellectual-property-cbbb74",
+  "work_title": "The Law of Intellectual Property",
+  "chapter_number": 5,
+  "chapter_title": "SECTION IV.: What is the Right of Property?",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa1d8579-729d-5484-b8c0-234ff9a66e86",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 562,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-law-of-intellectual-property-1855"
+    }
+  ]
+}

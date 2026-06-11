@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 350
+chapter_title: §. 184.
+chapter_slug: "350-184"
+variant_id: "c73cc01d-d985-59ec-9d34-a85d8de6f5a8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 480
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+But supposing the charge and damages of the war are to be made up to the conqueror, to the utmost farthing; and that the children of the vanquished, spoiled of all their father’s goods, are to be left to starve and perish; yet the satisfying of what shall, on this score, be due to the conqueror, will scarce give him a title to any country be shall conquer: for the damages of war can scarce amount to the value of any considerable tract Edition: current; Page: [363] of land, in any part of the world, where all the land is possessed, and none lies waste. And if I have not taken away the conqueror’s land, which, being vanquished, it is impossible I should; scarce any other spoil I have done him can amount to the value of mine, supposing it equally cultivated, and of an extent any way coming near what I had over-run of his. The destruction of a year’s product or two (for it seldom reaches four or five) is the utmost spoil that usually can be done: for as to money, and such riches and treasure taken away, these are none of nature’s goods, they have but a fantastical imaginary value: nature has put no such upon them: they are of no more account by her standard, than the wampompeke of the Americans to an European prince, or the silver money of Europe would have been formerly to an American. And five years product is not worth the perpetual inheritance of land, where all is possessed, and none remains waste, to be taken up by him that is disseized: which will be easily granted, if one do but take away the imaginary value of money, the disproportion being more than between five and five hundred; though, at the same time, half a year’s product is more worth than the inheritance, where there being more land than the inhabitants possess and make use of, any one has liberty to make use of the waste: but there conquerors take Edition: current; Page: [364] little care to possess themselves of the lands of the vanquished. No damage therefore, that men in the state of nature (as all princes and governments are in reference to one another) suffer from one another, can give a conqueror power to dispossess the posterity of the vanquished, and turn them out of that inheritance, which ought to be the possession of them and their descendants to all generations. The conqueror indeed will be apt to think himself master: and it is the very condition of the subdued not to be able to dispute their right. But if that be all, it gives no other title than what bare force gives to the stronger over the weaker: and, by this reason, he that is strongest will have a right to whatever he pleases to seize on.

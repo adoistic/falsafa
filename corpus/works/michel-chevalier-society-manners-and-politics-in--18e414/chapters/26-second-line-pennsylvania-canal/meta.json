@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-chevalier-society-manners-and-politics-in--18e414",
+  "work_title": "Society, Manners, and Politics in the United States",
+  "chapter_number": 26,
+  "chapter_title": "Second Line. Pennsylvania Canal.",
+  "chapter_slug": "26-second-line-pennsylvania-canal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b13fccb-9cce-5098-a109-0a2f8ce9dcb9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 474,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "wilhelm-von-humboldt-the-sphere-and-duties-of-governm-76de6e",
+  "work_title": "The Sphere and Duties of Government",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER I.: introduction.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06e00b02-d9ae-5d8c-a2d2-cfb60998706a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2807,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/coulthard-the-sphere-and-duties-of-government-1792-1854"
+    }
+  ]
+}

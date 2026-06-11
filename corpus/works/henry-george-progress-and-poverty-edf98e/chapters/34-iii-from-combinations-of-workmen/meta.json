@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 34,
+  "chapter_title": "III.: From Combinations of Workmen",
+  "chapter_slug": "34-iii-from-combinations-of-workmen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "95a64763-de3a-5e33-b695-66f693247625",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2070,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

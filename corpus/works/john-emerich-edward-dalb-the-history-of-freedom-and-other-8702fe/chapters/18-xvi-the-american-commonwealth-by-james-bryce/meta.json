@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 18,
+  "chapter_title": "XVI: THE AMERICAN COMMONWEALTH. By James Bryce",
+  "chapter_slug": "18-xvi-the-american-commonwealth-by-james-bryce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49d0d87d-d5ac-5f46-8c24-23e081ebc9b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4642,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

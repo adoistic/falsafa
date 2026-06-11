@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 9,
+  "chapter_title": "VI: CALVIN AND HENRY VIII.",
+  "chapter_slug": "09-vi-calvin-and-henry-viii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1ef8b0f-20c7-55fe-a307-b4f62ec711e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6090,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

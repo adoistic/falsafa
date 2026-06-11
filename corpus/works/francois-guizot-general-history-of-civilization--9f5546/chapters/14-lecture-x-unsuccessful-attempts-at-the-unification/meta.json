@@ -1,0 +1,26 @@
+{
+  "work_slug": "francois-guizot-general-history-of-civilization--9f5546",
+  "work_title": "General History of Civilization in Europe",
+  "chapter_number": 14,
+  "chapter_title": "LECTURE X.: UNSUCCESSFUL ATTEMPTS AT THE UNIFICATION OF SOCIETY.",
+  "chapter_slug": "14-lecture-x-unsuccessful-attempts-at-the-unification",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8c3512f-63be-50ad-afe9-e4fdf3841b1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7115,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-general-history-of-civilization-in-europe"
+    }
+  ]
+}

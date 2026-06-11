@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 23,
+  "chapter_title": "CHAP. XXI.: Of raising our Moneys according to the raising of our Neighbours.",
+  "chapter_slug": "23-chap-xxi-of-raising-our-moneys-according-to-the-ra",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34783cd0-5b4f-51c4-a26b-d49338888e2b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1031,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

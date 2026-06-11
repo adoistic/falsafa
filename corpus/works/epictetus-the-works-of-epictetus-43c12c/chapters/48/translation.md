@@ -1,0 +1,41 @@
+---
+work_id: "43c12c17-b6e4-511f-accf-6238146e1803"
+work_slug: "epictetus-the-works-of-epictetus-43c12c"
+work_title: The Works of Epictetus
+author_name: Epictetus
+chapter_number: 48
+chapter_title: "CHAPTER XIV.: CONCERNING NASO."
+chapter_slug: 48
+variant_id: "c97e483c-f8ca-537a-891c-039295ebf7e7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1174
+source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+translator: Online Library of Liberty edition
+---
+
+WHEN a certain Roman came to him with his son, and had heard one lesson, — “This,” said Epictetus, “is the method of teaching”; and ceased. When the other desired him to go on, he answered, Every art seems tedious, when it is delivered to a person ignorant and unskilful in it. The things performed by the common arts, quickly manifest the use for which they were made; and most of them have something attractive and agreeable. Thus the trade of a shoemaker, as one seeks to learn it, is an unpleasant thing; but the shoe is useful, and not unpleasing to the eye. The trade of a smith is extremely unattractive to an ignorant observer, but the work shows the usefulness of the art. You will see this much more strongly in music; for if you stand by, while a person is learning, it will appear to you of all sciences the most unpleasant; but the effects are agreeable and delightful, even to those who do not understand it.
+
+So here we take it to be the work of one who studies philosophy, to bring his will into harmony with events; so that none of the things which happen may happen against our inclination, nor those which do not happen be desired by us. Hence they, who have settled this point, have it in their power never to be disappointed in what they seek, nor to incur what they shun; but to lead their own lives without sorrow, fear, or perturbation; and in society to preserve all the natural or acquired relations of son, father, brother, citizen, husband, wife, neighbor, fellow-traveller, Edition: current; Page: [136] ruler, or subject. Something like this is what we take to be the work of a philosopher. It remains to inquire, how it is to be effected. Now we see that a carpenter becomes a carpenter by learning certain things; and a pilot, by learning certain things, becomes a pilot. Probably then it is not sufficient, in the present case, merely to be willing to be wise and good; but it is moreover necessary that certain things should be learned. What these things are, is the question. The philosophers say, that we are first to learn that there is a God; and that his providence directs the whole; and that it is not merely impossible to conceal from him our actions, but even our thoughts and emotions. We are next to learn, what the gods are; for such as they are found to be, such must he seek to be to the utmost of his power, who would please and obey them. If the Deity is faithful, he too must be faithful: if free, beneficent, and noble, he must be free, beneficent, and noble likewise; in all his words and actions, behaving as an imitator of God.
+
+“Whence, then, are we to begin?”
+
+If you will give me leave, I will tell you. It is necessary, in the first place, that you should understand words.
+
+“So then! I do not understand them now?”
+
+No. You do not.
+
+“How is it, then, that I use them?”
+
+Just as the illiterate use the words of the learned; and as brutes use the phenomena of nature. For use is one thing, and understanding another. But if you think you understand them, bring whatever words you please, and let us see whether we understand them or not.
+
+“Well; but it is a grievous thing for a man to be confuted who has grown old; and has perhaps served through his three campaigns to a senatorship.”
+
+I know it very well. For you now come to me, as if you wanted nothing. And how can it enter into your imagination, that there should be anything in which you are deficient? You are rich; and perhaps have a wife and children, and a great number of domestics. Cæsar takes notice of you: you have many friends at Rome: you render to all their dues: you know how to requite a favor, and revenge an injury. In what are you deficient? Suppose then, I should prove to you, that you are deficient in what is most necessary and important to happiness; and that hitherto you have taken care of everything, rather than your duty; and, to complete all, that you understand not what God or man, or good or evil, means? That you are ignorant of all the rest, perhaps, you may bear to be told; but if I prove to you that you are ignorant even of yourself, how will you bear with me, and how will you have patience to stay and be convinced? Not at all. You will immediately be offended, and go away. And yet what injury have I done you; unless a looking-glass injures a person not handsome, when it shows him to himself, such as he is? Or unless a physician can be thought to affront his patient, when he says to him: “Do you think, sir, that you are not ill? You have a fever. Eat no meat to-day, and drink water.” Nobody cries out here, “What an intolerable affront!” But, if you say to any one: You exhibit feverishness in your desires, and low habits in what you shun; your aims are contradictory, your pursuits not conformable to nature, your opinions rash, and mistaken; Edition: current; Page: [138] he presently goes away, and complains that he is affronted.
+
+This is the position we assume. As, in a crowded fair, the horses and cattle are brought to be sold, and most men come either to buy or sell; but there are a few, who come only to look at the fair, and inquire how it is carried on, and why in that manner, and who appointed it, and for what purpose; — thus, in this fair [of the world] some, like cattle, trouble themselves about nothing but fodder. To all of you, who busy yourselves about possessions, and farms, and domestics, and public posts, these things are nothing else but mere fodder. But there are some few men, among the crowd, who are fond of looking on, and considering: “What then, after all, is the world? Who governs it? Has it no governor? How is it possible, when neither a city nor a house can remain, ever so short a time, without some one to govern and take care of it, that this vast and beautiful system should be administered in a fortuitous and disorderly manner? Is there then a governor? Of what sort is he? And how does he govern; and what are we, who are under him? And for what designed? Have we some connection and relation to him, or none?” In this manner are the few affected; and apply themselves only to view the fair, and then depart. Well; and they are laughed at by the multitude? Why, so are the lookers-on, by the buyers and sellers; and, if the cattle had any apprehension, they too would laugh at such as admired anything but fodder.

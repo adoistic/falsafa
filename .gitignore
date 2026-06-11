@@ -71,3 +71,16 @@ apps/mcp/corpus/
 
 # FTS5 search index: large binary, rebuilt by scripts/build-search-index.ts
 corpus/search.db
+
+# Ingester build artifacts (regenerable; corpus/ holds the built output)
+/perseus-works.json
+/perseus-audit.json
+/gutenberg-works.json
+/gutenberg-audit.json
+/hart-works.json
+/hart-audit.json
+/oll-works.json
+/oll-audit.json
+/archive-batch-works.json
+/archive-batch-audit.json
+/audit_gutenberg.py

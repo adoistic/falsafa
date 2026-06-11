@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 13,
+  "chapter_title": "Note on Statistics of Consumption.",
+  "chapter_slug": "13-note-on-statistics-of-consumption",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfb9fb4d-81d8-5345-83e9-f6007a804aa4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 989,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

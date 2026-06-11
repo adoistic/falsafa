@@ -1,0 +1,67 @@
+---
+work_id: "0f37adcc-8e76-5772-9588-3103cd646a75"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad"
+work_title: A Select Collection of Early English Tracts on Commerce
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 44
+chapter_title: "SECT. III.: Of Forreign Trade consisting in Exportation, of the advantages of home Manufactures, and Manufactures, incid"
+chapter_slug: "44-sect-iii-of-forreign-trade-consisting-in-exportati"
+variant_id: "9ee0597c-b337-5957-aa07-e7ccc593da69"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2117
+source_url: "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+translator: Online Library of Liberty edition
+---
+
+THe National Gain, by Forreign Trade, consisting either in vending home Commodities to Forreigners, or in Trading from Port to Port; It may be fit to be considered how these branches of Trade may be improved to the utmost.
+
+Home Commodities vendible and exportable to Forreigners, are either such as are Capable of little or no Manufacture, as Coals, &c.
+
+Or else such as may be manufactured, which may be called the Principles or Materials of Manufacture; such are Wooll, Silk, Flax, Hemp, Tin, Iron, Skins, Corn, and others.
+
+Most materials of Manufacture are of small value whilst raw and unwrought, at least in Comparison of the Manufacture, since by Manufacture they may be made of five, ten, or twenty times their first value, according to the Workmanship; which is proved by the Woollen, Silk and Linnen Manufactures, and almost infinite others; wherefore if a Nation hath naturally any Materials of Manufacture, it is far more advantagious to Export them in Manufacture, rather than the raw Materials, because the Manufacture is so much more valuable, and will make a return of five, ten, or twenty times more Treasure to the Nation than the raw Materials.
+
+Besides, it is most dangerous to Export the Materials Edition: current; Page: [299] of Manufacture, since it may transfer the Manufacture it self into some Neighbour Nation, and with it the incident Riches and Populacy: by which means a Neighbour-Nation may become five, ten, or twenty times richer and stronger than that Nation which doth Export its Materials, and those innocent Materials may in a short time return in the shape of armed Men and Ships, to the Terror and Confusion of an unwise and lazy People.
+
+But if Forreigners will vend their raw Materials of Manufacture, it is necessary, or highly convenient for a Nation to Import them, and put them into Manufacture at home; after which, this Manufacture may be either exported and sold for much more than the Materials cost, or being used at home, will prevent the necessity of Importing the like from abroad, by which the Nation will save to the value of the Manufacture: Thus do the French and Dutch manufacture Forreign Silk, Spanish and English Wooll, and many other Forreign Materials, which they Export and sell again with prodigious advantage.
+
+The sorts of Manufacture are so various, and almost infinite, that there is no People so great or numerous but may be universally imployed by it; There are many which relate to Eating and Drinking, many more to Apparel of all sorts, Furniture of Houses, Equipage, Navigation, War, Literature and Science, unnecessary, but acceptable Toyes, to gratifie the humors and follies of Men, Women, and Children, under all which generals, there are so many species of Manufactures, that the very naming of them would make a Volume; some are of simple Materials, some of mixt.
+
+The Labours of the People bestowed this way, must necessarily glomerate the Riches of the World, and must render any Nation a prodigy of Wealth; for Edition: current; Page: [300] whilst vast numbers of Manufacturers are thus continually improving the value of some Commodity or other, they work for the Nation where they live as well as for themselves; If 100000 Manufacturers get 6l. per annum a piece, the Nation must gain or save 600000l. per annum by their Labours, (supposing the Materials to be meliorated only to the value of their Wages;) If the number of the Manufacturers be greater, or if the same number gain more a piece, then is the National gain still greater and greater in proportion: All which is too evident in the present instance of France, and the contrary of that of Spain, which although supplied with the Wealth of the Indies, is, for want of home Manufactures, the poorest and weakest of all Nations, and the most dispeopled.
+
+For by Manufactures, a Nation may support many hundred thousands of Families, besides the meer Tillers of Lands and Keepers of Cattel, which increase of people shall live well, without being a clog and vexation to the Landholders, and shall be highly beneficial to the rest of the Natives in times of Peace, as otherwise they will not be; and as the people increase, so may the kinds and quantities of Manufacture; the very Women and Children may ordinarily get good Livelihoods in Manufacture.
+
+Hence must follow a sweet Harmony in a Nation which hath property, when every one’s Hand and Head is employed, and when there comes a reciprocation of advantage to the Landholders, and all others, as necessarily there must; And as Manufacture seems a kind of debt to the laborious part of the people, who by nature are intitled to live; so it is the highest of all Charities; as it is most substantial and universal; What signifies the distribution of a little broken meat amongst a few Wretches, in Comparison of the support of hundreds Edition: current; Page: [301] of thousands of Families? And lastly, it is attended with the promised Rewards of Charity, viz. Plenty, Glory, and Prosperity to a whole Nation.
+
+This, and what hath been said in the last Section, may administer occasion to consider what sorts of Trades, Imployments, and Professions do add to the Riches of a Nation, and what not.
+
+It is evident that all sorts of home Manufactures must advance or save the National Wealth, the like may be said of those who are imployed in the Fishing-Trade, so may the Trade and Profession of a Merchant add to the National Riches.
+
+There are another sort of home-Traders, who live meerly by buying cheaper and selling dearer at home, such are Retailers of all sorts in the City and Country, whom we call Shopkeepers; of which a convenient number are necessary in every Nation to keep open Marts and Markets for the vending of Commodities; These may advance their private Stocks and Estates by buying cheaper and selling dearer, but cannot (meerly by this way of Trade) add a peny to the National Riches, so that it may truly be said of one poor Manufacturer, that he adds more in a year to the Wealth of the Nation than all such Retailers and Shop-keepers in England.
+
+And if these Shop-keepers deal over-much in Consumptive Forreign Wares, they may assist in the beggary of the Nation; so may the Trade of a Merchant export and exhaust the National Riches, if he trade over-much in meer Consumptive Importations.
+
+And therefore though the gain of the persons imployed be one main end and design of all Trades and Imployments, and in that respect they are all alike; Yet they differ in this; That in some of them the persons imployed do immediately or ultimately gain money from Forreigners; But in the other, they gain from the people, and from one another.
+
+Of the last sort, are all Imployments relating to the Law and Physick, so are Offices of all kinds (which I do not say to insinuate any of these Imployments to be useless in a Nation, or to diminish from that due respect which ought to be given to Men of Place.) There is no question but they are highly necessary for the Regulation of the Body-Politick, and the Body-Natural; so are the Clergy for the Information of Mens Consciences; and therefore in every Nation convenient numbers of the people ought to be set apart for these purposes; But as far as they are Imployments, and intended for private gain, ’tis plain they add no Treasure to the Nation, but only enable the persons so imployed to share and heap up the Treasures already Imported; The like may be said of all other ways of living by meer Literature and the Pen, and some inferior In-land Imployments mentioned before; It must therefore be of dangerous Consequence if the Trade of a Nation run into over-much Shop-keeping, or if too many of the people withdrawing themselves from Manufactures, and the beneficial parts of Trade, should throng themselves into the Clergy, Law, Physick, Literature, and such other Professions as bring no increase of National Riches; And the rather, because these Imployments and Professions are narrow, and can support but a few Families in a Nation with convenience; so that it may endanger Depopulation, and by their numbers will prejudice one another; Whereas Manufacture and a great Forreign Trade, will admit of and oblige an increase of people even to infinity: And the more the Manufacturers increase, they will the more enrich one another, and the rest of the people; It may then be proper to inquire how the Manufactures of a Nation may be increased and improved.
+
+This may be done either by enlarging former Manufactures, or by introducing new ones.
+
+New Manufactures must be first taught, and then encouraged, and if made of Forreign Materials, the Materials must be Imported, after which, as the people find the sweet of their Labours, it is not to be questioned but that they will throng into the Imployment; they that want Bread, Cloathes, and other necessary Comforts, will be glad to obtain them honestly; Thus our King Edward the Third (a Wise and Victorious Prince) invited over the Flemmings to teach his Subjects the Woollen Manufacture; And thus have the French Policies invited over the most Exquisite Manufacturers into France from all parts of the World; these with their Schollars were first imployed at the Charge of the Government; but the Manufactures soon afterwards diffused into the gross Body of the people.
+
+Without these primary Encouragements and Superintendence of the Government, it will be hard to nourish up any new Manufacture, or to enlarge any old ones, at least, suddenly, to any great degree.
+
+See Mr. Smith of Improvements, pa. 268, 269, 270, computes the whole profit of this Fishery to be ten millions sterling per annum, in a manner, all gained by other Nations.Amongst the Exportations, the Fishing-Trade ought not to be forgotton, since according to modern Calculations, the meer Fishing-Trade for Herring and Cod on the Coasts of England and Scotland imploys above 8000 Dutch Ships or Vessels, 200000 of their Sea-men, and Fishers; And the Herrings and Cod sold by the Dutch in Forreign Countries, do bring an Annual profit of about 5000000l. per annum Sterling to that Nation: besides which, ’tis accounted that there are at least 250000 people more imployed and maintained at Home about this particular Navigation, making of Fishing-Nets, and the curing, ordering, and preparing of the Fish, &c. besides the Island, Newfound-Land, and Greenland, fishings of very great advantage.
+
+But the ordinary Exportation of Corn out of the Edition: current; Page: [304] Annual increase, hath been accounted most dangerous, and of all others the most unprofitable, because of the possibility of a dearth; which besides the hardships of it, will give opportunity to Forreigners of drawing away vast Treasures in a trice.
+
+But if a Nation doth store up Corn in cheap years, the people will be secure against a Dearth, and yet when Corn is excessive dear in Neighbour-Nations, may then take their time to furnish them, and by that means will make much greater Advantages than by ordinary Exportation; And for this reason have the modern Policies of some wise Nations in Trade, contrived and erected publick Storehouses or Conservatories for Corn.
+
+I shall conclude with the words of Sir Walter Rawleigh, in his excellent Observations upon Trade, presented to King James. “Amsterdam is never without 700000 quarters of Corn, a dearth in England, France, Italy, or Portugal, is truly observed to enrich Holland for seven years after; For example, the last Dearth six years past, the Hamburghers, Embdeners, and Hollanders, out of their Storehouses furnished this Kingdom, and from Southampton, Excester, and Bristol only, in a year and half, carried away near 200000l. Then what great quantities of Corn did they Transport from round about the Kingdom? from every Port-Town, from the City of London, and other Cities? it cannot be esteemed less than two Millions: to the great decay and impoverishment of the People, discredit to the Merchants, dishonour of the Land, &c.”
+
+Suppose then a Dearth or Scarcity of Corn happen once in twenty or thirty years, the Annual Labours of the People in the produce of the exported Corn are lost; ’tis also a bulky Commodity, and makes but a small yearly return, and the Forreign price and vent of it is Edition: current; Page: [305] very casual, and incertain, for which Reasons, of latter years, the ordinary exporting of Corn is used only by some poor Nations, who have little other Trade: ’tis said the French King hath Ordered publick Stores and Conservatories of Corn.

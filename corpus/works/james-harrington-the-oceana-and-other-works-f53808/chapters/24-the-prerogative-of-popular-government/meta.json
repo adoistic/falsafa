@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 24,
+  "chapter_title": "THE PREROGATIVE of POPULAR GOVERNMENT.",
+  "chapter_slug": "24-the-prerogative-of-popular-government",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a8c5e9bd-a656-51bc-8f90-19a261965eb5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 131,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

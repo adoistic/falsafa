@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 91,
+  "chapter_title": "CHAPTER V.: CONCERNING THE QUARRELSOME AND FEROCIOUS.",
+  "chapter_slug": "91",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "824d134e-a5bb-5ca2-adfd-2dd41e4508a4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1686,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

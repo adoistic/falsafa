@@ -1,0 +1,26 @@
+{
+  "work_slug": "boethius-the-consolation-of-philosophy-88b715",
+  "work_title": "The Consolation of Philosophy",
+  "chapter_number": 2,
+  "chapter_title": "§ 1. Wessex at Peace. Alfred’s Reforms.",
+  "chapter_slug": "02-1-wessex-at-peace-alfred-s-reforms",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca8a22e3-062d-58e1-8d65-98066ac4160e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 444,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+    }
+  ]
+}

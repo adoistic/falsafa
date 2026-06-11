@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-political-economy-a41b6e",
+  "work_title": "Political Economy",
+  "chapter_number": 22,
+  "chapter_title": "Causes on which the Extent of the Fund for the Maintenance of Labour Depends.",
+  "chapter_slug": "22-causes-on-which-the-extent-of-the-fund-for-the-mai",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfc4fa53-b0f2-5499-a9ee-5e4fc2be24dd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3049,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-dissertations-on-early-law-and-c-a70410",
+  "work_title": "Dissertations on Early Law and Custom",
+  "chapter_number": 14,
+  "chapter_title": "Note A.: THE GENS.",
+  "chapter_slug": "14-note-a-the-gens",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24de258f-a6ee-5aa6-be4d-503e98bfa6ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2196,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-dissertations-on-early-law-and-custom"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 20,
+  "chapter_title": "CONTINENTAL PAPER MONEY.",
+  "chapter_slug": "20-continental-paper-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7f54309-d073-5956-8d41-61b855e51ee4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1025,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

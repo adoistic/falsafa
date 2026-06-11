@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bright-selected-speeches-on-public-ques-1725cc",
+  "work_title": "Selected Speeches on Public Questions",
+  "chapter_number": 15,
+  "chapter_title": "XIV: THE LAND QUESTION—I",
+  "chapter_slug": "15-xiv-the-land-question-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "667f7b1f-3afc-5dcd-be47-87cd08ce2967",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7670,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions"
+    }
+  ]
+}

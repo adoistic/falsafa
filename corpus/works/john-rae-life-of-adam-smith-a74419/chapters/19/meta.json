@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-rae-life-of-adam-smith-a74419",
+  "work_title": "Life of Adam Smith",
+  "chapter_number": 19,
+  "chapter_title": "CHAPTER XVIII: \"THE WEALTH OF NATIONS\" 1776. Aet. 52",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96fc1d82-0f3f-5ed4-96c2-0a5344e3af50",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3719,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
+    }
+  ]
+}

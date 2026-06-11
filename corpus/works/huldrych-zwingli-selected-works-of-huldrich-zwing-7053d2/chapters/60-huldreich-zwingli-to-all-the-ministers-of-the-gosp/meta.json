@@ -1,0 +1,26 @@
+{
+  "work_slug": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+  "work_title": "Selected Works of Huldrich Zwingli",
+  "chapter_number": 60,
+  "chapter_title": "HULDREICH ZWINGLI TO ALL THE MINISTERS OF THE GOSPEL OF CHRIST.",
+  "chapter_slug": "60-huldreich-zwingli-to-all-the-ministers-of-the-gosp",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47a5276d-56f9-5757-b742-3c9cfde749a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1860,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+    }
+  ]
+}

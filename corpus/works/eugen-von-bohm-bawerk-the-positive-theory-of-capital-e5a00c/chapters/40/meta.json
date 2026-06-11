@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 40,
+  "chapter_title": "Book VI, Chapter III: The Profit of Capitalist Undertaking. Complications.",
+  "chapter_slug": "40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44e92c48-dd70-5945-bdd3-e20dc718ff6f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3031,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

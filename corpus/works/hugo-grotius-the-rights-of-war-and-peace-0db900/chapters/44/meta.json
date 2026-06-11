@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 44,
+  "chapter_title": "CHAPTER XVI.: On Moderation with Respect to Things Excluded from the Right of Postliminium by the Law of Nations.",
+  "chapter_slug": "44",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5186301e-15ac-5b88-a073-adebc89c6986",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 585,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

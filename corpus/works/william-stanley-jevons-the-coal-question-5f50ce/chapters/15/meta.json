@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-coal-question-5f50ce",
+  "work_title": "The Coal Question",
+  "chapter_number": 15,
+  "chapter_title": "Chapter XIV: ON THE COMPARATIVE COAL RESOURCES OF DIFFERENT COUNTRIES.",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a47ddee4-b39d-5fa8-8684-e91c93f44dd3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3217,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-coal-question"
+    }
+  ]
+}

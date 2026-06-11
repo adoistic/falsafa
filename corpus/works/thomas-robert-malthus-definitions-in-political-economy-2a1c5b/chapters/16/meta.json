@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-definitions-in-political-economy-2a1c5b",
+  "work_title": "Definitions in Political Economy",
+  "chapter_number": 16,
+  "chapter_title": "Chapter XI.: OBSERVATIONS ON THE DEFINITIONS.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a624a9e2-99c0-50e4-b02f-0df13ffab587",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4701,
+      "paragraph_count": 119,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-definitions-in-political-economy"
+    }
+  ]
+}

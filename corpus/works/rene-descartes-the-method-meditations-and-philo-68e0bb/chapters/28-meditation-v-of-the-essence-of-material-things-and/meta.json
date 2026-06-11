@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 28,
+  "chapter_title": "MEDITATION V.: Of the Essence of Material Things; and, Again, of God; That He Exists.",
+  "chapter_slug": "28-meditation-v-of-the-essence-of-material-things-and",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ae7c42b-eaae-5c66-8562-0ccfbc3de2ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2738,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

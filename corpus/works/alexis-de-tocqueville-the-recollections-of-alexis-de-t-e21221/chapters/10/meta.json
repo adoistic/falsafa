@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER IV: MY CANDIDATURE OF THE DEPARTMENT OF LA MANCHE—THE ASPECT OF THE COUNTRY—THE GENERAL ELECTION.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "847cb1ff-fb00-5ad0-9a21-ed92dfd56fa3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3815,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

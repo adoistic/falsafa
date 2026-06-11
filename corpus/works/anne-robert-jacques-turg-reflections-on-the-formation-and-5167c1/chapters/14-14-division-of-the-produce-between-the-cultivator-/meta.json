@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 14,
+  "chapter_title": "14. Division of the produce between the cultivator and the proprietor. Net Produce, or revenue.",
+  "chapter_slug": "14-14-division-of-the-produce-between-the-cultivator-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f6135c1b-4504-5278-aa32-aaa5b1b9f3c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 105,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

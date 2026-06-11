@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c",
+  "work_title": "Patriarcha, or the Natural Power of Kings",
+  "chapter_number": 5,
+  "chapter_title": "CHAP. III.: Positive Laws do not infringe the Natural and Fatherly Power of Kings.",
+  "chapter_slug": "05-chap-iii-positive-laws-do-not-infringe-the-natural",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d886699a-b8ef-5b7b-8667-a3a480e89f64",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12338,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/filmer-patriarcha-or-the-natural-power-of-kings"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 9,
+  "chapter_title": "CHAPTER IV.: THE MODERN HISTORY OF THE LAW OF NATURE.",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d64e0cd-a12d-5e40-92c8-f24d25bb4d7e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9540,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

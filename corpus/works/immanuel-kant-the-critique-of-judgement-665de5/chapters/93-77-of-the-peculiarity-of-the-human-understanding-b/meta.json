@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 93,
+  "chapter_title": "§ 77.: Of the peculiarity of the human Understanding, by means of which the concept of a natural purpose is possible",
+  "chapter_slug": "93-77-of-the-peculiarity-of-the-human-understanding-b",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2126b3bf-c5f5-50f8-897f-41a7e46229e8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2108,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

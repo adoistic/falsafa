@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-four-introductory-lectures-on-po-a18065",
+  "work_title": "Four Introductory Lectures on Political Economy",
+  "chapter_number": 1,
+  "chapter_title": "LECTURE I.: CAUSES THAT HAVE RETARDED THE PROGRESS OF POLITICAL ECONOMY.",
+  "chapter_slug": "01-lecture-i-causes-that-have-retarded-the-progress-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54d71ca0-3d75-53b1-8a94-008b558468c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3712,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-four-introductory-lectures-on-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 16,
+  "chapter_title": "THE LIFE OF TERENCE.",
+  "chapter_slug": "16-the-life-of-terence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ef02f0dc-e1ce-51e9-ae89-b35c521f7042",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1261,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

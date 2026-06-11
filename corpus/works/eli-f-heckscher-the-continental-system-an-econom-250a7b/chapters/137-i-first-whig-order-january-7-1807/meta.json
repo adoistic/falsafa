@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 137,
+  "chapter_title": "I. First (Whig) Order. JANUARY 7, 1807.",
+  "chapter_slug": "137-i-first-whig-order-january-7-1807",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d816eb81-6c0b-50e8-815d-86a7758d190e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 539,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

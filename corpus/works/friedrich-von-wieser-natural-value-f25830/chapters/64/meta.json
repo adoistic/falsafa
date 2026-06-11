@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 64,
+  "chapter_title": "CHAPTER XIII: the service of individual economic value in national economy",
+  "chapter_slug": "64",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d2d79f8-a6c5-5d53-ae48-4ee37a065300",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1725,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

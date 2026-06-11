@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 31,
+  "chapter_title": "CHAPTER XXVII.: OF THE VARIED APPEARANCES OF THINGS TO THE MIND, AND WHAT MEANS ARE AT HAND BY WHICH TO REGULATE THEM.",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "329b3005-9cd6-501c-b7aa-4c977b829c8d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 783,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

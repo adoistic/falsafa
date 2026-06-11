@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-rae-life-of-adam-smith-a74419",
+  "work_title": "Life of Adam Smith",
+  "chapter_number": 25,
+  "chapter_title": "CHAPTER XXIV: THE \"WEALTH OF NATIONS\" ABROAD AND AT HOME",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "634c9cd5-46fa-586a-a602-f1bfdffb3267",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2381,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
+    }
+  ]
+}

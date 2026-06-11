@@ -1,0 +1,26 @@
+{
+  "work_slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "work_title": "Historical Essays and Narratives of the Merovingian Era",
+  "chapter_number": 11,
+  "chapter_title": "ESSAY VIII.: ON THE CONQUEST OF ENGLAND BY THE NORMANS, A PROPOS OF THE NOVEL OF IVANHOE.",
+  "chapter_slug": "11-essay-viii-on-the-conquest-of-england-by-the-norma",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36a07910-f0e6-59bc-bb6d-47a7bbdc7fc4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2257,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+    }
+  ]
+}

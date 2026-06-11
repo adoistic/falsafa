@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
+  "work_title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
+  "chapter_number": 93,
+  "chapter_title": "66.: The Propositions of the Houses sent to the King at Newcastle.",
+  "chapter_slug": "93-66-the-propositions-of-the-houses-sent-to-the-king",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70afd087-ce48-5968-83dc-49bdbffe98c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6073,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660"
+    }
+  ]
+}

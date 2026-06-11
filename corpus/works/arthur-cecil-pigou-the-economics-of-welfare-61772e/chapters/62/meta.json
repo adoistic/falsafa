@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 62,
+  "chapter_title": "Chapter VIII: DIRECT TRANSFERENCES FROM THE RELATIVELY RICH TO THE RELATIVELY POOR",
+  "chapter_slug": "62",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e993d175-5d05-5b7d-bf41-5c0d8924b12f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1775,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

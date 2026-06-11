@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 8,
+  "chapter_title": "A REFUTATION OF THE CLAIM ON BEHALF OF KING CHARLES I. TO THE AUTHORSHIP OF ΤΗΕ ΕἸΚῺΝ ΒΑΣΙΛΙΚῊ.",
+  "chapter_slug": "08-a-refutation-of-the-claim-on-behalf-of-king-charle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f23907c-11ab-58b2-a2aa-7ea394130f67",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10887,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

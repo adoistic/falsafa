@@ -1,0 +1,26 @@
+{
+  "work_slug": "simon-newcomb-the-a-b-c-of-finance-bf3de6",
+  "work_title": "The A B C of Finance",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1af20d0d-1eb4-5e26-ae81-06a952d5555b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 64,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/newcomb-the-a-b-c-of-finance"
+    }
+  ]
+}

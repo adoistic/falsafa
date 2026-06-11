@@ -1,0 +1,21 @@
+---
+work_id: "f538088a-04b4-5951-a446-828f1d596e4e"
+work_slug: "james-harrington-the-oceana-and-other-works-f53808"
+work_title: The Oceana and Other Works
+author_name: James Harrington
+chapter_number: 108
+chapter_title: The Doctor’s Answer.
+chapter_slug: "108-the-doctor-s-answer"
+variant_id: "fcd723c8-210a-55b5-a547-692373eff50a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 458
+source_url: "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+translator: Online Library of Liberty edition
+---
+
+I Have reason still to think and say, The government or commonwealth (as you call it) of the Hebrews, was of all other less applicable to your form, which supposes a senate debating, proposing, and the people resolving, choosing, as page 15. to which there was nothing like in that government. You find indeed princes and heads of the tribes, and may call them a senate, and read of the assemblies of the people, but without any such power or authority; both of them receiving laws by the hand of Moses without any debate or contradiction. And ’tis in a manner confessed, page 18. where you say, the function of that senate was executive only, the laws being made by God. And if we look to the institution of the Seventy, we find it was upon the advice of Jethro, and that not to be as a council to Moses, but as under-judges for his ease in the administration of the laws; which rather suits with the condition of inferior ministers of justice under a monarch, God’s vicegerent on earth, as all kings are in a more large consideration, as Moses was more specially in that theocracy. Therefore I did not a little wonder at your assertions and inferences, pag. 16. and 17. where you speak of their making God their king, their power of rejecting and deposing him as their civil magistrate. The harshness of the phrase may be mollified, but the thing asserted I suppose cannot be defended, viz. any such power in the people to God-ward; your inference also seems strange and infirm, that they had power to have rejected any of those laws. What you assert in the 17. page of all the laws given by covenant, is true in a sober sense, but the inference strange, that only which was resolved (or chosen) by the people of Israel was their law. This is so far from good logick, that it falls short of good divinity; for it must suppose God and the people on equal terms at their entring that covenant; whereas God often (especially in Deut.) shews his right of commanding, and enforces their obedience to his commands upon the antecedent obligations; his being the Lord their God, his chusing them out of all Edition: current; Page: [521] nations to be a peculiar people, his bringing them out of the land of Egypt. Much more might be said to shew these instances of the people receiving laws from God (in which they were only passive) are far from proving any power in the people as to God-ward, or from concluding generally the power in the people of resolving and chusing laws; and therefore this commonwealth of Israel not applicable to your purpose.

@@ -1,0 +1,37 @@
+---
+work_id: "2a3a3942-8c47-5947-addf-a3a17979adcb"
+work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
+work_title: An Essay on Crimes and Punishments
+author_name: Cesare Beccaria
+chapter_number: 71
+chapter_title: "CHAPTER XXII.: ON CRIMINAL PROCEDURE, AND OTHER FORMS."
+chapter_slug: 71
+variant_id: "a0623579-d264-53c1-81ed-b8ed9bd60151"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 817
+source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+translator: Online Library of Liberty edition
+---
+
+If, in France, it should ever happen that the laws of humanity soften some of our rigorous customs, without facilitating the commission of crimes, we may hope for reformation in those legal proceedings, wherein our legislators seem to have been influenced by too much severity. Our criminal procedure appears in many instances to point only at the destruction of the accused. It is the only law which is uniform throughout the whole kingdom; a law which ought certainly to be no less favourable to the innocent, than terrible to the guilty.
+
+In England a man may recover damages for false imprisonment. In France, on the contrary, an innocent person, who has had the misfortune to be thrown into a dungeon and tortured almost to death, has no consolation, no damages to hope for, no action against any one; and to add to his misfortune, he has for ever lost his reputation. Why? Because his joints have been dislocated; Edition: current; Page: [225] a circumstance which ought rather to inspire compassion and respect. The discovery of crimes, say they, requires severity: it is a war of human justice against iniquity. But there is generosity and compassion even in war. The brave are ever compassionate; and shall the law delight in barbarity?
+
+Let us compare the criminal procedure of the Romans with ours. With them, the evidence were heard publicly in presence of the accused, who might answer or interrogate them, or employ counsel. This procedure was open and noble; it breathed Roman magnanimity.
+
+With us, all is conducted in secret. A single judge, only attended by his clerk, hears each witness separately. This custom, established by Francis I. was confirmed by the commissioners who were employed to digest the ordinance of Lewis XIV. in 1670; which confirmation was entirely owing to a mistake. They imagined, in reading the code de Testibus, that the words testes intrare judicii secretum, signified that the witnesses were examined in private; but secretum means here the chamber of the judge. Intrare secretum, if intended to signify private interrogation, would be false Latin. This part of our law therefore is founded on a solecism.
+
+The evidence in these cases are commonly the dregs of the people, whom the judge may, in such private examination, make say whatever he pleases. They are examined a second time, but still privately; and if, after this re-examination, they retract from their deposition, or vary in any material circumstance, they are punished as false evidence. So that if a simple honest fellow, recollecting that he has said too much, that he misunderstood the judge, or the judge him, revoke his deposition from a principle of justice, he is punished as a reprobate. The natural consequence of this is, that men will confirm a false testimony rather than expose themselves, for their honesty, to certain punishment.
+
+The law seems to oblige the magistrate to be the enemy of the accused, rather than his judge; it being left in the power of the magistrate to confront the evidence with the accused, or not, as he shall think proper. Amazing! that so necessary a part of the procedure should be left undetermined.
+
+A man being suspected of a crime, knowing that he is denied the benefit of counsel, flies his country; a step to which he is encouraged by every maxim of the law. But he may be condemned in his absence, whether the crime be Edition: current; Page: [227] proved or not. Strange laws! If a man be charged with owing a sum of money, before he can be condemned to pay the demand, it is required that the debt be proved; but if his life be in question, he may be condemned, by default, without any proof of the crime. Is money then of more importance than life? O ye judges and legislators! Consult the pious Antoninus, and the good Trajan: they suffered not the absent to be condemned.
+
+Do your laws then allow the privilege of counsel to an extortioner, or a fraudulent bankrupt, and refuse it to one who may possibly be a very honest and honourable man? If there ever were an instance of innocence being justified by means of counsel, the law, which deprives the accused of that benefit, is evidently unjust.
+
+The parliament of Toulouse hath a very singular custom relative to the validity of evidence. In other places demi-proofs are admitted, which is a palpable absurdity, there being no such thing as demi-truth; but at Toulouse they admit of quarters and eighths of a proof. For instance, an hearsay may be considered as a quarter, and another hearsay, more vague than the former, as an eighth: so that eight hearsays, which in fact are no other than an echo of a groundless report, Edition: current; Page: [228] constitute a full proof. Upon this principle it was, that poor Calas was condemned to the wheel.

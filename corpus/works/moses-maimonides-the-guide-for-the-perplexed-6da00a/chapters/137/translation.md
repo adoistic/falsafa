@@ -1,0 +1,21 @@
+---
+work_id: "6da00a83-f993-57d9-ba7d-256248f7a5ee"
+work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
+work_title: The Guide for the Perplexed
+author_name: Moses Maimonides
+chapter_number: 137
+chapter_title: CHAPTER VIII
+chapter_slug: 137
+variant_id: "e72a2afe-96e2-5d39-a03e-87d71225d9bf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 284
+source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+translator: Online Library of Liberty edition
+---
+
+It is one of the ancient beliefs, both among the philosophers and other people, that the motions of the spheres produced mighty and fearful sounds. They observed how little objects produced by rapid motion a loud, shrilling, and terrifying noise, and concluded that this must to a far higher degree be the case with the bodies of the sun, the moon and the stars, considering their greatness and their velocity. The Pythagoreans believed that the sounds were pleasant, and, though loud, had the same proportions to each other as the musical notes. They also explained why these mighty and tremendous sounds are not heard by us. This belief is also widespread in our nation. Thus our Sages describe the greatness of the sound produced by the sun in the daily circuit in its orbit. The same description could be given of all heavenly bodies. Aristotle, however, rejects this, and holds that they produce no sounds. You will find his opinion in the book The Heavens and the World (De Cœlo). You must not find it strange that Aristotle differs here from the opinion of our Sages. The theory of the music of the spheres is connected with the theory of the motion of the stars in a fixed sphere, and our Sages have, in this astronomical question, abandoned their own theory in favour of the theory of others. Thus, it is distinctly stated. “The wise men of other nations have defeated the wise men of Israel.” It is quite right that our Sages have abandoned their own theory; for speculative matters every one treats according to the results of his own study, and every one accepts that which appears to him established by proof.

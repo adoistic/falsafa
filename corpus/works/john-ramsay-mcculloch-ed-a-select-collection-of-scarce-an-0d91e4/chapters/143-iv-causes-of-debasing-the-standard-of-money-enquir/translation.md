@@ -1,0 +1,27 @@
+---
+work_id: "0d91e4fa-7943-5934-852f-9f73834988c6"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
+work_title: A Select Collection of Scarce and Valuable Tracts on Money
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 143
+chapter_title: "IV.: Causes of debasing the standard of money, enquired into."
+chapter_slug: "143-iv-causes-of-debasing-the-standard-of-money-enquir"
+variant_id: "404609f6-2bcf-5849-8356-25c73f5ffa01"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 490
+source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+translator: Online Library of Liberty edition
+---
+
+21. The mischiefs occasioned by debasing the standard of money, being so glaring and so great; it may be asked, how was it possible that such a scheme should be ever entered into, and who could have an interest in bringing it about?
+
+In dark times, weak princes and weak counsellors, for such in this respect they were, might promise themselves mighty advantages from this device: They might think to impose upon the understanding of the subject, and by this Edition: current; Page: [465] trick lengthen out the ready cash in the exchequer. But they did not, it seems, foresee, that this could be only the sport of a day; that the whole revenue would for the future be defrauded; that the deficiency could not be made good without new imposts, which would create murmurs, discontents, and perhaps insurrections, amongst the people, &c. &c.
+
+But I do not know how to think that these schemes really sprang from court, however the courtiers might be bubbled into them. There were others, whose prospect of gain by such a scheme was much clearer and better founded, and whose influence and credit in these matters, are usually very great; as bankers, scriveners, and all sorts of money-jobbers. For by debasing the standard of money, they were not only enabled to cheat all their creditors; but also furnished with opportunities of making large gains, by taking advantages of the fears and ignorance of the many; buying up the old coins at an undervalue, and culling and transporting or sending into the mint all the heaviest of them.
+
+But nobody had so clear and so great an interest in those mischievous projects, as the mint-masters; and it is to be suspected, that, by their credit and influence, they had the greatest hand in bringing about the several adulterations, that, time after time, have been made in coins: They had an interest in keeping the mint constantly at work; and nothing could perpetuate this gainful trade so effectually, as adulterating the standard of money; this, in effect, reduced all the old coins into mere bullion, and created an absolute necessity of a re-coinage: By virtue of their places, those gentlemen were supposed to be the most competent judges, and the most to be relied upon in those matters. If, besides theirs, the opinions of the money-mongers were asked, supposing they staid to be asked, they would be sure to join with the mint; and the seignorage formerly paid to the crown for coinage, would Edition: current; Page: [466] be used as a soothing argument for facilitating the project. By way of auxiliaries, there are at all times troops of writers ready to be entertained, and ready to blow and propagate any scheme they are set upon. When we consider these circumstances, need we wonder if in former times, princes and their ministers have been over-reached in this business, to their own very great loss and disgrace?

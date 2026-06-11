@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 46
+chapter_title: §. 44.
+chapter_slug: "46-44"
+variant_id: "c934078c-0f0f-5168-8110-21826e0fd1ae"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 366
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+THE next place of scripture we find our author builds his monarchy of Adam on, is iii. Gen. 26. And thy defire shall be to thy husband, and he shall rule over thee. Here we have (says he) the original grant of government, from whence he concludes, in the following part of the page, Observations, 244. That the supreme power is settled in the fatherhood, and limited to one kind of government, that is, to monarchy. For let his premises be what they will, this is always the conclusion; let rule, in any text, be but once named, and presently absolute monarchy Edition: current; Page: [50] is by divine right established. If any one will but carefully read our author’s own reasoning from these words, Observations, 244. and consider, among other things, the line and posterity of Adam, as he there brings them in, he will find some difficulty to make sense of what he says; but we will allow this at present to his peculiar way of writing, and consider the force of the text in hand. The words are the curse of God upon the woman, for having been the first and forwardest in the disobedience; and if we will consider the occasion of what God says here to our first parents, that he was denouncing judgment, and declaring his wrath against them both, for their disobedience, we cannot suppose that this was the time, wherein God was granting Adam prerogatives and privileges, investing him with dignity and authority, elevating him to dominion and monarchy: for though, as a helper in the temptation, Eve was laid below him, and so he had accidentally a superiority over her, for her greater punishment; yet he too had his share in the fall, as well as the sin, and was laid lower, as may be seen in the following verses; and it would be hard to imagine, that God, in the same breath, should make him universal monarch over all mankind, and a day-labourer for his life; turn him out of paradise to till the ground, ver. 23. and at the same time advance him to a throne, and all the privileges and ease of absolute power.

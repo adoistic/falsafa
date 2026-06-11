@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p-9668a0",
+    "offset": 0,
+    "text": "The equations in the four sets just reviewed differ from the equations of Chapter XII only in the first set, which contain y's in place of c's. The c's were supposed to be given or known, but the y's are new unknown quantities. Consequently, the number of unknowns is greater than the number in the first approximation, whereas the number of equations thus far expressed is the same."
+  },
+  {
+    "id": "p-ac6e66",
+    "offset": 385,
+    "text": "The additional equations needed are supplied by the two Investment Opportunity Principles, namely, Investment Opportunity Principle A, that the range of choice is a specified list of optional income streams, and Investment Opportunity Principle B, that the choice among the optional income streams shall fall upon that one which possesses the maximum present value."
+  },
+  {
+    "id": "p-6cef81",
+    "offset": 752,
+    "text": "The range of choice, i.e., the complete list of optional income streams, will include many which are ineligible—those which would not be selected whatever might be the rate of interest—whether that rate be zero or one million per cent. Excluding all ineligibles the remaining options constitute the effective range of choice which in Chapter XI is pictured as the Opportunity line."
+  },
+  {
+    "id": "p-35cc8c",
+    "offset": 1135,
+    "text": "If this list of options be assumed for convenience of analysis to consist of an infinite number of options varying from one to another, not by sudden jumps, but continuously, the complete list can be expressed by those possible values of y1', y1'',... y1(m) which will satisfy an empirical equation. There will be one such equation for each individual, thus:"
+  },
+  {
+    "id": "p-b66906",
+    "offset": 1495,
+    "text": "f1 (y1', y1''... y1(m)) = 0, f2 (y2', y2'',... y2(m)) = 0, ............. ............. fn (yn', yn'',... yn(m)) = 0."
+  },
+  {
+    "id": "p-247c1f",
+    "offset": 1613,
+    "text": "Here are n equations, expressing the Investment Opportunity Principle A. The form of each of these equations depends on the particular technical conditions to which the capital of the Individual concerned is subjected. It corresponds to the O line of Chapter XI except that only two years were there represented whereas here all m years are represented. Any one equation sets the limitations to which the variation of the income stream of a particular individual must conform. Each set of values of y1', y1'',... y1(m) which will satisfy this equation represents an optional income stream."
+  }
+]

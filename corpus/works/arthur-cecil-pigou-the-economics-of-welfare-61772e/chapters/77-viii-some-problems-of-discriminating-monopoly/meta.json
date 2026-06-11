@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 77,
+  "chapter_title": "VIII SOME PROBLEMS OF DISCRIMINATING MONOPOLY",
+  "chapter_slug": "77-viii-some-problems-of-discriminating-monopoly",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6624f543-8d57-5ac2-8bb3-43e3688f3bf9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 871,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

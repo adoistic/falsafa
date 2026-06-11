@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 131,
+  "chapter_title": "VII.—: French and Belgian Figures.",
+  "chapter_slug": "131-vii-french-and-belgian-figures",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b6721e5-49c6-570b-9ca1-70d15be61ff8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 72,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

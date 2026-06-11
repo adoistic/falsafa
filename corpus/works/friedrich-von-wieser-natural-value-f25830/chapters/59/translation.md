@@ -1,0 +1,27 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 59
+chapter_title: "CHAPTER VIII: the cost theories"
+chapter_slug: 59
+variant_id: "a6641d83-6913-5f83-abaf-0b80daa4899b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 601
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+I have hitherto almost entirely refrained from criticising outside theories of value. Up to this point, the subject of costs, none of these contains any foreign element whatever. What renders them inadequate is chiefly their inadequate explanation of the true elements of value. Should I have succeeded—as I scarcely dare hope—in proving beyond dispute the theory to which I have given my adhesion, all other theories in themselves are thereby confuted, inasmuch as it completes what they began. Where they have said only half, the whole has been said; where they have only approximated to truth, the truth itself has been found. But it is otherwise —though of course only in the case of some of them,—with those theories which derive the value of goods from costs. They appeal to a foreign element which does not lie in the path I have chosen to follow, and must therefore be dealt with, as it were, on a bye-path of criticism. At the same time, it must be said that this foreign element contains so much that is plausible, that there would be a presumption against any one who passed it by without remark, and a suspicion that his statement did not embrace the entire truth.
+
+As I said, it is only some of the theories of costs with which we are here concerned.
+
+All such theories have this one point in common, that they place costs and utility in opposition to each other, and explain them as dissimilar principles of value. They differ, however, in their manner of treating the principle of costs. Some limit themselves to collating the individual elements of costs, and showing their influence upon value, without answering, or even bringing up, the essential and fundamental question as to what costs really are, and whence they obtain their influence and economic importance. Criticism of these theories is superfluous. They contain no error to criticise. Their Edition: current; Page: [192] fault lies in their silence; in their stopping short at the very heart of the subject.
+
+The rest of the cost theories must be judged differently. They give to the idea of costs an entirely distinct meaning; a meaning which is certainly—taking it all in all—incorrect; but one which, in view of the largeness of its theoretic intention, may be pardoned, and even regarded with some recognition and respect. This division of the cost theories may be marked by the title of Labour Theories, as the element of labour forms their theoretic starting-point. Ricardo's system indicates the high-water mark of the labour theory; the socialist system is its final consequence. Many writers who reject both of these systems, nevertheless take the fundamental motive of the labour theory into their own systems. In fact, there are very few writers who have kept entirely free from it. The critic has consequently a large task before him. I make no secret of it that to do battle with those views, as developed by economic writers, seems to me a matter of considerably more importance that they arise, in the last instance, from popular opinions widely held. The fundamental idea of the labour theory is foreign to no one; everybody has frequently enough had practical occasion to apply it. But for this, Ricardo's system would never have obtained its great hold, and this circumstance may prepare us to expect in the future ever new formulations of the labour theory, should it not be possible meantime to purify theoretically the popular view, and lead it back from its exaggerations, which are easily traceable to the imperfection of popular reasoning, into its true and incontestable form.

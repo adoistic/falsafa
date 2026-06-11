@@ -1,0 +1,26 @@
+{
+  "work_slug": "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e",
+  "work_title": "The Common Sense of Political Economy",
+  "chapter_number": 5,
+  "chapter_title": "CHAPTER II: MARGINS. DIMINISHING PSYCHIC RETURNS",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10f882f2-bd7f-590a-854c-b52d99dd5d9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 22282,
+      "paragraph_count": 103,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
+    }
+  ]
+}

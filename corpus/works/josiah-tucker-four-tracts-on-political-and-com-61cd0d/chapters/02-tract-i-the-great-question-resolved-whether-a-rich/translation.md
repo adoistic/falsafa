@@ -1,0 +1,37 @@
+---
+work_id: "61cd0de2-85d1-5715-b5f7-0e1c397c5d3d"
+work_slug: "josiah-tucker-four-tracts-on-political-and-com-61cd0d"
+work_title: Four Tracts on Political and Commercial Subjects
+author_name: Josiah Tucker
+chapter_number: 2
+chapter_title: "TRACT I.: The great Question resolved, Whether a rich Country can stand a Competition with a poor Country (of equal natu"
+chapter_slug: "02-tract-i-the-great-question-resolved-whether-a-rich"
+variant_id: "23856819-8502-5fec-9a5b-402d5cf01009"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1102
+source_url: "https://oll.libertyfund.org/titles/tucker-four-tracts-on-political-and-commercial-subjects"
+translator: Online Library of Liberty edition
+---
+
+IT has been a Notion universally received, That Trade and Manufactures, if left at full Liberty, will always descend from a richer to a poorer State; somewhat in the same Manner as a Stream of Water falls from higher to lower Grounds; or as Edition: current; Page: [18] a Current of Air rushes from a heavier to a lighter Part of the Atmosphere, in order to restore the Equilibrium. It is likewise inferred, very consistently with this first Principle, that when the poor Country, in Process of Time, and by this Influx of Trade and Manufactures, is become relatively richer, the Course of Traffic will turn again: So that by attending to this Change, you may discover the comparative Riches or Poverty of each particular Place or Country.
+
+The Reasons usually assigned for this Migration, or rather Circulation of Industry and Commerce, are the following, viz. In rich Countries, where Money is Plenty, a greater Quantity thereof is given for all the Articles of Food, Raiment, and Dwelling: Whereas in poor Countries, where Money is scarce, a lesser Quantity of it is made to serve in procuring the like Necessaries of Life, and in paying the Wages of the Shepherd, the Plowman, the Artificer, and Manufacturer. The Inference from all which is, that Provisions are raised, and Goods manufactured much cheaper in poor Countries than in rich ones; and therefore every poor Country, if a near Neighbour to a rich one, and if there is an easy and commodious Communication between them, must unavoidably get the Trade from it,—were Trade to be left at Liberty to take its natural Course. Nor will this Increase of Agriculture and Manufactures, Edition: current; Page: [19] whereby the richer Country is drained, and the poorer proportionably enriched, be stopped or prevented, ’till Things are brought to a perfect Level, or the Tide of Wealth begins to turn the other Way.
+
+Now, according to this Train of Reasoning, one alarming and obvious Consequence must necessarily follow, viz. That the Provisions and Manufactures of a rich Country could never find a Vent in a poor one, on Account of the higher Value, or dearer Price set upon them: Whereas those of a poor Country would always find a Vent in a rich one, because they would be afforded the cheapest at the common Market.
+
+This being the Case, can it be denied, that every poor Country is the natural and unavoidable Enemy of a rich one; especially if it should happen to be adjoining to it? And are not we sure beforehand, that it will never cease from draining it of its Trade and Commerce, Industry and Manufactures, ’till it has reduced it, at least so far as to be on a Level and Equality with itself? Therefore the rich Country, if it regards its own Interest, is obliged by a Kind of Self-defence to make War upon the poor one, and to endeavour to extirpate all its Inhabitants, in order to maintain itself in statu quo, or to prevent the fatal Consequences of losing its present Influence, Trade and Riches. For little less than a total Extirpation can be sufficient to guard Edition: current; Page: [20] against the Evils to be feared from this dangerous Rival, while it is suffered to exist.
+
+But is this indeed the Case?—One would not willingly run Counter to the settled Notions of Mankind; and yet one ought not to make a Sacrifice of Truth to mere Numbers, and the Authority of Opinion; especially if it should appear, that these are Truths of great Moment to the Welfare of Society. Therefore, with a becoming Deference, may it not here be asked,—Can you suppose, that Divine Providence has really constituted the Order of Things in such a Sort, as to make the Rule of national Self preservation to be inconsistent with the fundamental Principle of universal Benevolence, and the doing as we would be done by? For my Part, I must confess, I never could conceive that an all-wife, just, and benevolent Being would contrive one Part of his Plan to be so contradictory to the other, as here supposed;—that is, would lay us under one Obligation as to Morals, and another as to Trade; or, in short, make that to be our Duty, which is not, upon the whole, and generally speaking (even without the Consideration of a future State) our Interest likewise.
+
+Therefore I conclude a priori, that there must be some Flaw or other in the preceding Arguments, plausible as they seem, and great as they are upon the Foot of human Authority. Edition: current; Page: [21] For though the Appearance of Things at first Sight makes for this Conclusion, viz. “That poor Countries must inevitably draw away the Trade from rich ones, and consequently impoverish them,” the Fact itself cannot be so. But leaving all Arguments of this Sort, as being perhaps too metaphysical for common Use, let us have Recourse to others, wherein we may be assisted by daily Experience and Observation.
+
+Suppose therefore England and Scotland to be two contiguous, independant Kingdoms, equal in Size, Situation, and all natural Advantages; suppose likewise, that the Numbers of People in both were nearly equal; but that England had acquired Twenty Millions of current Specie, and Scotland had only a tenth Part of that Sum, viz. Two Millions: The Question now is, Whether England will be able to support itself in its superior Influence, Wealth, and Credit? Or be continually on the Decline in Trade and Manufactures, ’till it is sunk into a Parity with Scotland; so that the current Specie of both Nations will be brought to be just the same, viz Eleven Millions each.
+
+Now, to resolve this Question in a satisfactory Manner, a previous Enquiry should be set on Foot, viz. How came England to acquire this great Surplus of Wealth? And by what Means was it accumulated?—If in the Way of Idleness, it certainly cannot retain it long; and England Edition: current; Page: [22] will again become poor;—perhaps so poor as to be little better than Hungary or Poland: But if by a Course of regular and universal Industry, the same Means, which obtained the Wealth at first, will, if pursued certainly preserve it, and even add thereto: So that England need not entertain any Jealousy against the Improvements and Manufactures of Scotland;—and on the other Hand, Scotland without hurting England, will likewise increase in Trade, and be benefited both by its Example, and its Riches.
+
+But as these are only general Assertions, let us now endeavour to support them by an Induction of particular Cases.

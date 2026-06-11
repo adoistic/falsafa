@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 63,
+  "chapter_title": "§3. The Concept of Rate of Return Over Cost",
+  "chapter_slug": "63-3-the-concept-of-rate-of-return-over-cost",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "905bff5d-6e09-5673-a650-2dc6e31d0ae6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 922,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

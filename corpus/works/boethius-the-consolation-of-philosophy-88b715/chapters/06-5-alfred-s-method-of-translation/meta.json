@@ -1,0 +1,26 @@
+{
+  "work_slug": "boethius-the-consolation-of-philosophy-88b715",
+  "work_title": "The Consolation of Philosophy",
+  "chapter_number": 6,
+  "chapter_title": "§ 5. Alfred’s Method of Translation.",
+  "chapter_slug": "06-5-alfred-s-method-of-translation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "42783efe-d3f8-5a1d-adfc-9c8c0fd8612f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1412,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+    }
+  ]
+}

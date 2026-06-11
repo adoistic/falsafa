@@ -1,0 +1,41 @@
+---
+work_id: "2a3a3942-8c47-5947-addf-a3a17979adcb"
+work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
+work_title: An Essay on Crimes and Punishments
+author_name: Cesare Beccaria
+chapter_number: 33
+chapter_title: "CHAPTER XXXI.: OF CRIMES OF DIFFICULT PROOF."
+chapter_slug: 33
+variant_id: "7432596e-fa2f-5379-9603-b2d319d1707f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1166
+source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+translator: Online Library of Liberty edition
+---
+
+With the foregoing principles in view, it will appear astonishing, that reason hardly ever presided at the formation of the laws of nations; that the weakest and most equivocal evidence, and even conjectures, have been thought sufficient proof for crimes the most atrocious, (and therefore most improbable), the most obscure and chimerical; as if it were the interest of the laws and the judge not to inquire into the truth, but to prove the crime; as if there was not a greater risk of condemning an innocent person, when the probability of his guilt is less.
+
+The generality of men want that vigour of mind and resolution, which are as necessary for great crimes as for great virtues, and which at the same time produce both the one and the other, in those nations which are supported by the activity of their government, and a passion for the public good. For in those which subsist by their greatness or power, or by the goodness Edition: current; Page: [116] of their laws, the passions being in a weaker degree, seem calculated rather to maintain than to improve the form of government. This naturally leads us to an important conclusion, viz. that great crimes do always produce the destruction of a nation.
+
+There are some crimes which, though frequent in society, are of difficult proof, a circumstance admitted, as equal to the probability of the innocence of the accused. But as the frequency of these crimes is not owing to their impunity, so much as to other causes, the danger of their passing unpunished is of less importance, and therefore the time of examination and prescription may be equally diminished. These principles are different from those commonly received; for it is in crimes, which are proved with the greatest difficulty, such as adultery, and sodomy, that presumptions, half-proofs, etc. are admitted; as if a man could be half innocent, and half guilty; that is, half punishable and half absolvable. It is in these cases that torture should exercise its cruel power on the person of the accused, the witnesses, and even his whole family, as, with unfeeling indifference, some civilians have taught, who pretend to dictate laws to nations.
+
+Adultery is a crime which, politically considered, owes its existence to two causes, viz. pernicious laws, and the powerful attraction between the sexes. This attraction is similar in many circumstances to gravity, the spring of motion in the universe. Like this, it is diminished by distance; one regulates the motions of the body, the other of the soul. But they differ in one respect; the force of gravity decreases in proportion to the obstacles that oppose it; the other gathers strength and vigour as the obstacles increase.
+
+If I were speaking to nations guided only by the laws of nature, I would tell them, that there is a considerable difference between adultery and all other crimes. Adultery proceeds from an abuse of that necessity which is constant and universal in human nature; a necessity anterior to the formation of society, and indeed the founder of society itself; whereas, all other crimes tend to the destruction of society, and arise from momentary passions, and not from a natural necessity. It is the opinion of those, who have studied history and mankind, that this necessity is constantly in the same degree in the same climate. If this be true, useless, or rather pernicious must all laws and customs be, which tend to diminish the sum total of the effects of Edition: current; Page: [118] this passion. Such laws would only burden one part of the society with the additional necessities of the other; but, on the contrary, wise are the laws which, following the natural course of the river, divide the stream into a number of equal branches, preventing thus both sterility and inundation.
+
+Conjugal fidelity is always greater in proportion as marriages are more numerous, and less difficult. But when the interest or pride of families, or paternal authority, not the inclination of the parties, unite the sexes, gallantry soon breaks the slender ties, in spite of common moralists, who exclaim against the effect, whilst they pardon the cause. But these reflections are useless to those, who, living in the true religion, act from sublimer motives, which correct the eternal laws of nature.
+
+The act of adultery is a crime so instantaneous, so mysterious, and so concealed by the veil which the laws themselves have woven; a veil necessary indeed, but so transparent, as to heighten rather than conceal the charms of the object; the opportunities are so frequent, and the danger of discovery so easily avoided, that it were much easier for the laws to prevent this crime, than to punish it when committed.
+
+To every crime, which from its nature must frequently remain unpunished, the punishment is an incentive. Such is the nature of the human mind, that difficulties, if not insurmountable, nor too great for our natural indolence, embellish the object, and spur us on to the pursuit. They are so many barriers that confine the imagination to the object, and oblige us to consider it in every point of view. In this agitation, the mind naturally inclines and fixes itself to the most agreeable part, studiously avoiding every idea that might create disgust.
+
+The crime of sodomy, so severely punished by the laws, and for the proof of which are employed tortures, which often triumph over innocence itself, has its source much less in the passions of man in a free and independent state, than in society and a slave. It is much less the effect of a satiety in pleasures, than of that education, which, in order to make men useful to others, begins by making them useless to themselves. In those public seminaries, where ardent youth are carefully excluded from all commerce with the other sex, as the vigour of nature blooms, it is consumed in a manner not only useless to mankind, but which accelerates the approach of old age.
+
+The murder of bastard children is, in like manner, the effect of a cruel dilemma, in which a woman finds herself who has been seduced through weakness, or overcome by force. The alternative is, her own infamy, or the death of a being who is incapable of feeling the loss of life. How can she avoid preferring the last to the inevitable misery of herself and her unhappy infant! The best method of preventing this crime, would be effectually to protect the weak woman from that tyranny which exaggerates all vices that cannot be concealed under the cloak of virtue.
+
+I do not pretend to lessen that just abhorrence which these crimes deserve, but to discover the sources from whence they spring; and I think I may draw the following conclusions: That the punishment of a crime cannot be just, (that is, necessary), if the laws have not endeavoured to prevent that crime by the best means which times and circumstances would allow.

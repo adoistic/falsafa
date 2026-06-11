@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 56,
+  "chapter_title": "The Church Covenant From [Richard Mather], An Apology for Church Covenant (1643)",
+  "chapter_slug": "56-the-church-covenant-from-richard-mather-an-apology",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0274c318-ef3e-5e05-b966-0d9b8d620191",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 790,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

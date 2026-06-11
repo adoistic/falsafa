@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 116,
+  "chapter_title": "§3. The Individual's Adjustment Without Loans",
+  "chapter_slug": "116-3-the-individuals-adjustment-without-loans",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c8b8beff-2061-51bf-8e8a-f486f6109a12",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 793,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

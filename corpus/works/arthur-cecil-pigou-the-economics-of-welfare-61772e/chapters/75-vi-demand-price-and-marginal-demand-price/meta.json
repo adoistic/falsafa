@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 75,
+  "chapter_title": "VI DEMAND PRICE AND MARGINAL DEMAND PRICE",
+  "chapter_slug": "75-vi-demand-price-and-marginal-demand-price",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab32e866-60e2-5ffb-8a58-08e893cd988b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 273,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

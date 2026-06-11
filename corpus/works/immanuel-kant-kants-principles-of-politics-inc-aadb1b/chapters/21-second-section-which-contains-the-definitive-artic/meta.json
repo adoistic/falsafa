@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 21,
+  "chapter_title": "Second Section which contains THE DEFINITIVE ARTICLES OF A PERPETUAL PEACE BETWEEN STATES.",
+  "chapter_slug": "21-second-section-which-contains-the-definitive-artic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2cfb9078-6a11-538a-ad26-90b3afd9f03b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 104,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 18,
+  "chapter_title": "BOOK IV, CHAPTER III: THE FERTILITY OF LAND, CONTINUED. THE TENDENCY TO DIMINISHING RETURN.",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2928e032-58dc-57f3-9fd3-31899b001684",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5808,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

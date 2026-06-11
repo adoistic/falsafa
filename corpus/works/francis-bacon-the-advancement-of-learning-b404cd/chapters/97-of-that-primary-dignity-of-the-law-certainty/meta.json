@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 97,
+  "chapter_title": "Of that primary dignity of the law, certainty",
+  "chapter_slug": "97-of-that-primary-dignity-of-the-law-certainty",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "644daddd-d648-58e6-b4dc-0c51f15d3680",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 118,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

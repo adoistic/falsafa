@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bright-selected-speeches-on-public-ques-1725cc",
+  "work_title": "Selected Speeches on Public Questions",
+  "chapter_number": 4,
+  "chapter_title": "III: INDIA—III.: IRRIGATION",
+  "chapter_slug": "04-iii-india-iii-irrigation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ff7eeed-65f1-5f78-8ac7-0d33e88639db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5712,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions"
+    }
+  ]
+}

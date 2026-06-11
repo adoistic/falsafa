@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 49,
+  "chapter_title": "[Parable of the Tares (Matt. 13. 24-30) Interpreted]",
+  "chapter_slug": "49-parable-of-the-tares-matt-13-24-30-interpreted",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "961a1ce6-defc-5ab2-83f5-0430152f5099",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2017,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

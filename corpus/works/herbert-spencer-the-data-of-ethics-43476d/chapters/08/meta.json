@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-data-of-ethics-43476d",
+  "work_title": "The Data of Ethics",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER VII.: THE PSYCHOLOGICAL VIEW.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a9d3419-5f25-5ca3-b399-cf22cb4cf42c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9586,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-data-of-ethics-1879"
+    }
+  ]
+}

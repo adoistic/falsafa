@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 16,
+  "chapter_title": "VIII.: WHO WOULD BE BENEFITED BY A REFORM OF THE CHURCH?",
+  "chapter_slug": "16-viii-who-would-be-benefited-by-a-reform-of-the-chu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "227729e5-2b13-5553-9a2e-8068ad611482",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4938,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

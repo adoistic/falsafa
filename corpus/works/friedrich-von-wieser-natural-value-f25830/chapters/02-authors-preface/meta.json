@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 2,
+  "chapter_title": "AUTHOR'S PREFACE",
+  "chapter_slug": "02-authors-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5919ee1c-d115-589f-b9d1-2f8a2221ab28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3177,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

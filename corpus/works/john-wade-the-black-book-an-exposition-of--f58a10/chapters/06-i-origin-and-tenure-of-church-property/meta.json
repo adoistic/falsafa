@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 6,
+  "chapter_title": "I.: ORIGIN AND TENURE OF CHURCH PROPERTY.",
+  "chapter_slug": "06-i-origin-and-tenure-of-church-property",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51d7d845-8967-59d0-a350-4ca1de5c3a26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4953,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

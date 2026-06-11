@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 44
+chapter_title: §. 42.
+chapter_slug: "44-42"
+variant_id: "55e68643-739e-5c1d-b0d6-0c1e5c5525b4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 250
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+But we know God hath not left one man so to the mercy of another, that he may starve him if he please: God the Lord and Father of all has given no one of his children such a property in his peculiar portion of the things of this world, but that he has given his needy brother a right to the surplusage of his goods; so that it cannot justly be denied him, when his pressing wants call for it: and therefore no man could ever have a just power over the life of another by right of property in land or possessions; since it would always be a sin, in any man of estate, to let his brother perish for want of affording him relief out of his plenty. As Edition: current; Page: [48] justice gives every man a title to the product of his honest industry, and the fair acquisitions of his ancestors descended to him; so charity gives every man a title to so much out of another’s plenty, as will keep him from extreme want, where he has no means to subsist otherwise: and a man can no more justly make use of another’s necessity, to force him to become his vassal, by with-holding that relief, God requires him to afford to the wants of his brother, than he that has more strength can seize upon a weaker, master him to his obedience, and with a dagger at his throat offer him death or slavery.

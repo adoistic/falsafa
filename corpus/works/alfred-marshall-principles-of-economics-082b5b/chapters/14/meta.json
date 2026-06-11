@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 14,
+  "chapter_title": "BOOK III, CHAPTER V: CHOICE BETWEEN DIFFERENT USES OF THE SAME THING. IMMEDIATE AND DEFERRED USES.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6241d58-2ade-55bf-9c4d-2219198ae76b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1772,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

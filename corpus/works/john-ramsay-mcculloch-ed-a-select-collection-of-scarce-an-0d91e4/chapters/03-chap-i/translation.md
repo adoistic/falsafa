@@ -1,0 +1,25 @@
+---
+work_id: "0d91e4fa-7943-5934-852f-9f73834988c6"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
+work_title: A Select Collection of Scarce and Valuable Tracts on Money
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 3
+chapter_title: CHAP. I.
+chapter_slug: "03-chap-i"
+variant_id: "7580efc6-6417-548f-bec1-d0ca21fe538c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 599
+source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+translator: Online Library of Liberty edition
+---
+
+THe first Invention of Money was for a Pledge and instead of a Surety, for when men did live by Exchange of their Wants and Superfluities, both parties could not always fit one another at the present; in which case the Corruptions of Man’s Nature did quickly grow to make it behooful, that the party receiving should leave somewhat worthy to be esteemed for a Pledge, to supply the givers want upon the like occasion: Time did easily find out that this Pledge should be something not too common, not easy to be consumed with use, or spoiled for want of use, and this was Money.
+
+The first use of Money was then by it to supply every man’s particular wants. This introduced a second use of Cauponation, when men did by the Pledge of Moneys procure not only those things which they themselves wanted, but which they might sell to others for more money: and under that kind is all Trades comprehended, whether it be grose sale, or retale; and this use hath brought in a third use of Money, for the gain of cauponation did give a Colour to those that lent Money to such Edition: current; Page: [10] as did encrease it by Trade, to take usury for it, which is therefore termed the most unnatural use of Money, because it is most remote from the natural Institution. Of this there are many kinds of which the most refined is that of Exchange, which is mix’d with an usury of place, as that is of time.
+
+Thus did Money grow inseperably necessary to all Exchange, to make the things exchanged equal in value, for that all exchange is either by the actual or intellectual valuation of Money; that is to say, Either the thing is exchanged for Money, or if it be exchanged for another thing, the measure of that exchange is how much Money either of the things exchanged is conceived to be worth; and Practice hath found out that in values, which the Geometricians have found out in quantities, that two lines which are equal to a third line, are equal to one another: So is money a third line, by which all things are made equal in value, and therefore it is not ill compared to the Materia Prima, because, though it serves actually to no use almost, it serves potentially to all uses. It is not impertinent to examine these things from their ground in nature, or in use: For intending to treat by what meanes the course of money may best be governed to the advantage of the Common-Wealth, (a matter of so curious and subtil a search as the most solid understandings are dazled with it) it is necessary, first to lay down the first and plainest principles of the Subject, by which the understanding of the Writer and the Reader may be guided in the Labyrinths ensuing; and this subject being much obscured, not only by the intricasie of its own nature, but by the Art and Terms of those who do manage these affairs, I do intend to lay open all the mysteries to the comprehension of the attentive Reader. And for that purpose, I intend first Historically, to set down by what Degrees, and upon what Reasons the forms of Money and of Coinage, now practised are grown into use, and without Edition: current; Page: [11] any censure or observation upon them: and I will afterwards treat a part of the inconveniences grown into this Subject of Money, and of the Remedies that may be applied thereunto.

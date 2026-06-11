@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 20,
+  "chapter_title": "BOOK I, CHAPTER XVII: OF THE EFFECT OF GOVERNMENT REGULATIONS INTENDED TO INFLUENCE PRODUCTION.",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4548410-aa2c-504d-9577-e4ff58f84173",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 241,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

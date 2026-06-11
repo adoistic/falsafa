@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 112,
+  "chapter_title": "§16. The Geometric Method",
+  "chapter_slug": "112-16-the-geometric-method",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "922a56a4-5a30-59e2-81f1-8de9625558ba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 451,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

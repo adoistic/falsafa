@@ -1,0 +1,29 @@
+---
+work_id: "43c12c17-b6e4-511f-accf-6238146e1803"
+work_slug: "epictetus-the-works-of-epictetus-43c12c"
+work_title: The Works of Epictetus
+author_name: Epictetus
+chapter_number: 64
+chapter_title: "CHAPTER IV.: CONCERNING ONE WHO MADE HIMSELF IMPROPERLY CONSPICUOUS IN THE THEATRE."
+chapter_slug: 64
+variant_id: "f95bb86c-7b6c-53a9-a92e-3b94ecb14d8e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 541
+source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+translator: Online Library of Liberty edition
+---
+
+WHEN the Governor of Epirus had exerted himself with improper eagerness in favor of a comedian, and was upon that account publicly railed at; and, when he came to hear it, was highly displeased with those who railed at him; Why, what harm, said Epictetus, have these people done? They have shown favoritism; which is just what you did.
+
+“Is this a proper manner then, of expressing their favor?”
+
+Seeing you, their governor, and the friend and vicegerent of Cæsar, express it thus, was it not to be expected that they would express it thus too? For, if this zealous favoritism is not right, do not show it yourself; and if it is, why are you angry at them for imitating you? For whom have the many to imitate, but you, their superiors? From whom are they to take example, when they come into the theatre, but Edition: current; Page: [204] from you? “Do but look how Cæsar’s vicegerent sees the play? Has he cried out? I will cry out too. Has he leaped up from his seat? I too will leap up from mine. Do his slaves sit in different parts of the house, making an uproar? I indeed have no slaves; but I will make as much uproar as I can unaided.”
+
+You ought to consider, then, that when you appear in the theatre, you appear as a rule and example to others, how they ought to see the play. Why is it that they have railed at you? Because every man hates what hinders him. They would have one actor crowned; you, another. They hindered you; and you them. You proved the stronger. They have done what they could; they have railed at the person who hindered them. What would you have, then? Would you do as you please, and not have them even talk as they please? Where is the wonder of all this? Does not the husbandman rail at Zeus when he is hindered by him? Does not the sailor? Do men ever cease railing at Cæsar? What then, is Zeus ignorant of this? Are not the things that are said reported to Cæsar? How then does he act? He knows that, if he were to punish all railers, he would have nobody left to command.
+
+When you enter the theatre, then, ought you to say, “Come, let Sophron be crowned?” No. But rather, “Come, let me at this time regulate my Will in a manner conformable to Nature. No one is dearer to me than myself. It is ridiculous, then, that because another man gains the victory as a player, I should be hurt. Whom do I wish to gain the victory? Him who does gain it; and thus he will always be victorious whom I wish to be so.” — Edition: current; Page: [205] “But I would have Sophron crowned.” — Why, celebrate as many games as you will at your own house, Nemean, Pythian, Isthmian, Olympic, and proclaim him victor in all; but in public do not arrogate more than your due, nor seek to monopolize what belongs to all; or if otherwise, bear to be railed at, for if you act like the mob, you reduce yourself to an equality with them.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 127,
+  "chapter_title": "I. An Approximate Formula",
+  "chapter_slug": "127-i-an-approximate-formula",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10422929-ed84-535c-83f5-ceaf1f5750b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1749,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

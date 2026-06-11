@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-coal-question-5f50ce",
+  "work_title": "The Coal Question",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE.",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7555bc18-072c-58e5-b4db-9e340c9daa95",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4250,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-coal-question"
+    }
+  ]
+}

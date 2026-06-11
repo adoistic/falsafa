@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 74,
+  "chapter_title": "§ 58.: Of the Idealism of the purposiveness of both Nature and Art as the unique principle of the aesthetical Judgement.",
+  "chapter_slug": "74-58-of-the-idealism-of-the-purposiveness-of-both-na",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "820435be-466d-5358-8309-c0c573459afa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1806,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

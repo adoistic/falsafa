@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 46,
+  "chapter_title": "BOOK II, CHAPTER II: THE SOURCES OF REVENUE.",
+  "chapter_slug": "46",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ffc8c4f-0be8-58fe-b568-553121e2d71f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2312,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

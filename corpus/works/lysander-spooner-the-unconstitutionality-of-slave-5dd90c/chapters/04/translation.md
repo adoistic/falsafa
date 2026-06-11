@@ -1,0 +1,47 @@
+---
+work_id: "5dd90c6d-25a7-5f9f-a9d5-8612a1bc32c3"
+work_slug: "lysander-spooner-the-unconstitutionality-of-slave-5dd90c"
+work_title: The Unconstitutionality of Slavery
+author_name: Lysander Spooner
+chapter_number: 4
+chapter_title: "CHAPTER IV.: COLONIAL STATUTES."
+chapter_slug: 04
+variant_id: "3bb0a92d-77f6-50a3-bfa5-ab65d459e9bd"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1217
+source_url: "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
+translator: Online Library of Liberty edition
+---
+
+But the colonial legislation on the subject of slavery, was not only void as being forbidden by the colonial charters, but in many of the colonies it was void for another reason, viz., that it did not sufficiently define the persons who might be made slaves.
+
+Slavery, if it can be legalized at all, can be legalized only by positive legislation. Natural law gives it no aid. Custom imparts to it no legal sanction. This was the doctrine of the King’s Bench in Somerset’s case, as it is the doctrine of common sense. Lord Mansfield said, “So high an act of dominion must be recognized by the law of the country where it is used. * * * The state of slavery is of such a nature, that it is incapable of being introduced on any reasons, moral or political—but only positive law, which preserves its force long after the reasons, occasion, and time itself from whence it was created, is erased from the memory. It is so odious that nothing can be suffered to support it but positive law.”
+
+Slavery, then, being the creature of positive legislation alone, can be created only by legislation that shall so particularly describe the persons to be made slaves, that they may be distinguished from all others. If there be any doubt left by the letter of the law, as to the persons to be made slaves, the efficacy of all other slave legislation is defeated simply by that uncertainty.
+
+In several of the colonies, including some of those where slaves were most numerous, there were either no laws at all defining the persons who might be made slaves, or the laws, which attempted to define them, were so loosely framed that it cannot now be known who are the descendants of those designated as slaves, and who of those held in slavery without any color of law. As the presumption must—under the United States constitution—and indeed under the state constitutions also—be always in favor of liberty, it would probably now be impossible for a slaveholder to prove, in one case in an hundred, that his slave was descended, (through the maternal line, according to the slave code,) from any one who was originally a slave within the description given by the statutes.
+
+When slavery was first introduced into the country, there were no laws at all on the subject. Men bought slaves of the slave traders, as they would have bought horses; and held them, and compelled them to labor, as they would have done horses, that is, by brute force. By common consent among the white race, this practice was tolerated without any law. At length slaves had in this way become so numerous, that some regulations became necessary, and the colonial governments began to pass statutes, which assumed the existence of slaves, although no laws defining the persons who might be made slaves, had ever been enacted. For instance, they passed statutes for the summary trial and punishment of slaves; statutes permitting the masters to chastise and baptize their slaves, and providing that baptism should not be considered, in law, an emancipation of them. Yet all the while no act had been passed declaring who might be slaves. Possession was apparently all the evidence that public sentiment Edition: current; Page: [34] demanded, of a master’s property in his slave. Under such a code, multitudes, who had either never been purchased as slaves, or who had once been emancipated, were doubtless seized and reduced to servitude by individual rapacity, without any more public cognizance of the act, than if the person so seized had been a stray sheep.
+
+Virginia. Incredible as it may seem, slavery had existed in Virginia fifty years before even a statute was passed for the purpose of declaring who might be slaves; and then the persons were so described as to make the designation of no legal effect, at least as against Africans generally. And it was not until seventy-eight years more, (an hundred and twenty-eight years in all,) that any act was passed that would cover the case of the Africans generally, and make them slaves. Slavery was introduced in 1620, but no act was passed even purporting to declare who might be slaves, until 1670. In that year a statute was passed in these words: “That all servants, not being Christians, imported into this country by shipping, shall be slaves for their lives.”
+
+This word “servants” of course legally describes individuals known as such to the laws, and distinguished as such from other persons generally. But no class of Africans “imported,” were known as “servants,” as distinguished from Africans generally, or in any manner to bring them within the legal description of “servants,” as here used. In 1682 and in 1705 acts were again passed declaring “that all servants,” &c., imported, should be slaves. And it was not until 1748, after slavery had existed an hundred and twenty-eight years, that this description was changed for the following:
+
+“That all persons, who have been or shall be imported into this colony,” &c., &c., shall be slaves.
+
+In 1776, the only statute in Virginia, under which the slaveholders could make any claim at all to their slaves, was passed as late as 1753, (one hundred and thirty-three years after slavery had been introduced;) all prior acts having been then repealed, without saving the rights acquired under them.
+
+Even if the colonial charters had contained no express prohibition upon slave laws, it would nevertheless be absurd to pretend that the colonial legislature had power, in 1753, to look back an hundred and thirty-three years, and arbitrarily reduce to slavery all colored persons that had been imported into, or born in the colony within that time. If they could not do this, then it follows that all the colored persons in Virginia, up to 1753, (only twenty-three years before the revolution,) and all their descendants to the present time, were and are free; and they cannot now be distinguished from the descendants of those subsequently imported. Under the presumption—furnished by the constitution of the United States—that all are free, few or no exceptions could now be proved.
+
+In North Carolina no general law at all was passed, prior to the revolution, declaring who might be slaves—(See Iredell’s statutes, revised by Martin.)
+
+In South Carolina, the only statutes, prior to the revolution, that attempted to designate the slaves, was passed in 1740—after slavery had for a long time existed. And even this statute, in reality, defined nothing; for the whole purport of it was, to declare that all negroes, Indians, mulattoes and mestizoes, except those who were then free, should be slaves. Inasmuch as no prior statute had ever been passed, declaring who should be slaves, all were legally free; and therefore all came within the exception in favor of free persons.
+
+The same law, in nearly the same words, was passed in Georgia, in 1770.
+
+These were the only general statutes, under which slaves were held in those four States, (Virginia, North Carolina, South Carolina and Georgia,) at the time of the revolution. They would all, for the reasons given, have amounted to nothing, as a foundation for the slavery now existing in those states, even if they had not been specially prohibited by their charters.

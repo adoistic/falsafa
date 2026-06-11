@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-elements-of-political-economy-3e1c36",
+  "work_title": "Elements of Political Economy",
+  "chapter_number": 26,
+  "chapter_title": "Section XIII. The Value of the Precious Metals in Each Country Determines Whether It Shall Export or Import",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd58b3ed-9fdc-574b-bed2-ef0eb9619a9f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 441,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 64,
+  "chapter_title": "CHAPTER XV.: ON THE CRIME OF HIGH-TREASON. ON TITUS OATES, AND ON THE DEATH OF AUGUSTIN DE THOU.",
+  "chapter_slug": "64",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c01018b3-4303-595c-983e-7d2ca0b331a9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1016,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-political-economy-a41b6e",
+  "work_title": "Political Economy",
+  "chapter_number": 25,
+  "chapter_title": "Inequalities in Wages and Profits occasioned by the difficulty of transferring Capital and Labour from one Employment to",
+  "chapter_slug": "25-inequalities-in-wages-and-profits-occasioned-by-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22785d3c-bd87-5041-bd23-90f12a92407b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1786,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-four-introductory-lectures-on-po-a18065",
+  "work_title": "Four Introductory Lectures on Political Economy",
+  "chapter_number": 2,
+  "chapter_title": "LECTURE II.: POLITICAL ECONOMY A MENTAL STUDY.",
+  "chapter_slug": "02-lecture-ii-political-economy-a-mental-study",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c079d39-abbb-572d-b946-0c191da9fcf0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4654,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-four-introductory-lectures-on-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+---
+work_id: "e4210a4a-f107-56e4-9d0c-e90e8ca0dccf"
+work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
+work_title: "Magna Carta: A Commentary on the Great Charter of King John"
+author_name: William Sharp McKechnie
+chapter_number: 244
+chapter_title: "(5): Conventio facta inter Regem Anglie et barones ejusdem regni."
+chapter_slug: "244-5-conventio-facta-inter-regem-anglie-et-barones-ej"
+variant_id: "17226ff4-4035-5d74-88ce-22a32940f0b5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 357
+source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+translator: Online Library of Liberty edition
+---
+
+Hec est conventio facta inter dominum Johannem regem Anglie, ex una parte, et Robertum filium Walteri, marescallum exercitus Dei et sancte ecclesie in Anglia, et Ricardum comitem de Clare, Gaufridum comitem Essex. et Glouc., Rogerum Bigot comitem Northfolc. et Suthfolc., Saherum comitem Wint., Robertum comitem Oxon., Henricum comitem Hereford., et barones subscriptos, scilicet Willielmum Mariscallum juniorem, Eustachium de Vescy, Willielmum de Mobray, Johannem filium Roberti, Rogerum de Monte Begonis, Willielmum de Lanvalay, et alios comites et barones et liberos homines totius regni, ex altera parte, videlicet quod ipsi comites et barones et alii prescripti tenebunt civitatem London. de baillio domini regis, salvis interim domino regi firmis redditibus et claris debitis suis, usque ad assumptionem beate Marie anno regni ipsius regis xviimo. et dominus Cant. tenebit similiter de baillio domini regis turrim London. usque ad predictum terminum, salvis civitati London. libertatibus suis et liberis consuetudinibus suis, et salvo cuilibet jure suo in custodia turris London., et ita quod interim non ponat dominus rex munitionem vel vires alias in civitate predicta vel in turri London. Fiant etiam infra predictum terminum sacramenta per totam Angliam viginti quinque baronibus sicut continentur in carta de libertatibus et securitate regno concessis Edition: current; Page: [496] vel attornatis viginti quinque baronum sicut continentur in literis de duodecim militibus eligendis ad delendum malas consuetudines de forestis et aliis. Et preterea infra eundem terminum omnia que comites et barones et alii liberi homines petunt a domino rege que ipse dixerit esse reddenda vel que per xxv barones aut per majorem partem eorum judicata fuerint esse reddenda reddantur secundum formam predicte carte. Et si hec facta fuerint vel per dominum regem non steterit quo minus ista facta fuerint infra predictum terminum tunc civitas et turris London. ad eundem terminum statim reddantur domino regi salvis predicte civitati libertatibus suis et liberis consuetudinibus suis sicut prescriptum est. Et si hec facta non fuerint et per dominum regem steterit quod ista non fiant infra predictum terminum barones tenebunt civitatem predictam et dominus archiepiscopus turrim London. donec predicta compleantur. Et interim omnes ex utraque parte recuperabunt castra terras et villas quas habuerunt in initio guerre orte inter dominum regem et barones.

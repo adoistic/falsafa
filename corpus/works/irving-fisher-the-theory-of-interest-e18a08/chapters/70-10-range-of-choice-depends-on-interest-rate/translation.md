@@ -1,0 +1,35 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 70
+chapter_title: §10. Range of Choice Depends on Interest Rate
+chapter_slug: "70-10-range-of-choice-depends-on-interest-rate"
+variant_id: "10c2db18-763b-51a1-9825-9acfef6a714c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1054
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Up to this point one complication in the problem of interest has been kept in the background. Although this complication does not invalidate any of the principles Edition: current; Page: [171] which have been developed, it seemed advisable not to distract attention from the essential features of the theory by introducing it prematurely. The complication referred to is, after all, more intricate than important. It consists in the fact that not only, as we have seen, does the choice between different optional income streams depend upon the rate of interest, but also that even the range of choice depends upon that rate. If the rate of interest is changed, a change is produced not only in the present values of the income items but in the income items themselves.
+
+The net income from any instrument or group of instruments of wealth is the difference between the total gross income and the outgo. But many of the elements, both of income and outgo, are materially dependent upon the rate of interest. This is especially true of those items of income and outgo which are not final but merely intermediate or interactions. In the case of interactions, a change in the rate of interest affects the income stream directly, because, as has been shown elsewhere, the valuation of an interaction (i.e., intermediate service) involves the discount process and is therefore dependent upon the rate of interest. Thus, the iron yielded by an iron mine has its value determined in part by the discounted value of the machinery to be made of it and therefore its value will be affected by a change in the rate by which this discount is reckoned.
+
+For present purposes, it is only necessary to emphasize the bare fact that the range of choice between different income streams is somewhat dependent upon the rate of interest. If the modification due to this fact were introduced Edition: current; Page: [172] into the tables previously given for the three different uses of land, we should find that the income streams from using the land for farming, forestry, and mining would differ according to the rate of interest.
+
+Thus, let us suppose, as before in Chapter VI, §2, that for a rate of interest of 5 per cent the three optional income streams are:
+
+In our previous discussion, when we changed the rate of interest from the 5 per cent of the foregoing table to 4 per cent, we supposed the items in the foregoing table to remain unchanged. The only change we had then to deal with was the change in their present values. Now, however, we admit the possibility of a change in the table items themselves. If the rate of interest falls to 4 per cent, the product of forest, farm, and mine will be more nearly equal to the value of the ultimate services to which they lead. The value of lumber will be more nearly equal to the value of the houses it makes, and these to the value of the shelter they give; the value of wheat from a farm will be nearer the value of the bread it will make; and the value of ore from a mine will be Edition: current; Page: [173] nearer the value of the steel it will become, and this, in turn, more nearly equal to the values of those innumerable satisfactions which come about through the use of steel. These shiftings forward of the values of the intermediate income of forest, farm and mine toward the values of the ultimate satisfactions to which they lead, combined with possible readjustments in the values of these satisfactions themselves—the values of house shelter, bread consumption, etc.—will result in a change, say, in the items in the foregoing table, where we were assuming a 5 per cent rate of interest, to the following table wherein the rate is 4 per cent.
+
+If, then, the rate is 5 per cent, the land owner will make the most of his opportunities by choosing that use among the three which, computing from the figures in the first table, has the greatest present value; while if the rate is 4 per cent, he will choose that which, computing from the figures in the second table, has the greatest present value. If, then, the rate is 5 per cent, he will choose mining, since, as we saw in Chapter VI, §4, the present values, when we compute at 5 per cent, are: forestry, $8820; Edition: current; Page: [174] farming, $9000; mining, $9110; but if the rate is 4 per cent, he will choose the highest from the present values at 4 per cent, computed from the second table. These present values now are: forestry, $13,520; farming, $12,500; mining, $10,100.
+
+Whatever the final outcome of all the readjustments, it is evident that the introduction of the influence of the rate of interest on the range of choice does not in any material way affect the reasoning already given in regard to the determination of the rate of interest. Since the rate of interest will itself fix the range of choice, it will still be true that, once the range of choice is fixed for a given rate of interest, the individual will choose, as before, that use which has the maximum present value. On the basis of this choice he is then led to borrow or lend in order to modify his income stream so that his degree of impatience may harmonize with the rate of interest. If, upon an assumed rate of interest, the borrowing and lending for different individuals actually cancel one another—in other words, clear the market—then the rate of interest assumed is clearly the one which solves the problem of interest; otherwise the borrowing and lending will not be in equilibrium, and some other rate of interest must be selected. By successively postulating different rates of interest, and remembering that each rate carries with it its own range of options and its own set of present values of those options, we finally obtain that rate which will clear the market.
+
+The rate which will clear the market, while drawing into equality with itself all marginal impatience rates and all marginal rates of return on cost, is the one which solves the problem of interest under the assumed conditions.

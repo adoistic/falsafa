@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-what-social-classes-owe-to-each--afdce7",
+  "work_title": "What Social Classes Owe to Each Other",
+  "chapter_number": 11,
+  "chapter_title": "X.: THE CASE OF THE FORGOTTEN MAN FARTHER CONSIDERED.",
+  "chapter_slug": "11-x-the-case-of-the-forgotten-man-farther-considered",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3703afad-c5e1-51a0-8326-eb5a5d977fbf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3917,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+    }
+  ]
+}

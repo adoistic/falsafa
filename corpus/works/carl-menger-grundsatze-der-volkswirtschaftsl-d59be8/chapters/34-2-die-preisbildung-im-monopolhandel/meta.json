@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 34,
+  "chapter_title": "§. 2.: Die Preisbildung im Monopolhandel.",
+  "chapter_slug": "34-2-die-preisbildung-im-monopolhandel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4174a5e5-49ad-57b3-ae72-147bc207ec75",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 602,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

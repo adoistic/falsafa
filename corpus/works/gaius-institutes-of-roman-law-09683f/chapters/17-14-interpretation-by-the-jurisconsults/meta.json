@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 17,
+  "chapter_title": "§ 14.: Interpretation by the jurisconsults.",
+  "chapter_slug": "17-14-interpretation-by-the-jurisconsults",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1faa0245-8c87-5428-8669-34cf0c9bdab6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1101,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

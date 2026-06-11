@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 37,
+  "chapter_title": "The recapitulation of the remedies against the vice of avarice.",
+  "chapter_slug": "37-the-recapitulation-of-the-remedies-against-the-vic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4d92f87-8980-5bcb-89fb-3f9e9da79abb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 278,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

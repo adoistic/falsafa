@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 3,
+  "chapter_title": "We must watch and look about us evermore while we be in this life.",
+  "chapter_slug": "03-we-must-watch-and-look-about-us-evermore-while-we-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "13bb5346-c9db-557f-b076-0afdeeb92137",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3760,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

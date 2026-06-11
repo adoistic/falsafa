@@ -1,0 +1,26 @@
+{
+  "work_slug": "jane-marcet-conversations-on-political-econo-b12c13",
+  "work_title": "Conversations on Political Economy",
+  "chapter_number": 21,
+  "chapter_title": "Continuation of FOREIGN TRADE.",
+  "chapter_slug": "21-continuation-of-foreign-trade",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "487f53a1-7f0f-503d-a28c-7bd82d41f827",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2830,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marcet-conversations-on-political-economy"
+    }
+  ]
+}

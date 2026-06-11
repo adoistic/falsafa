@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 140,
+  "chapter_title": "For the FORM or MODEL in Brief of a FREE STATE, or equal COMMONWEALTH. It hath been proposed in this Manner:",
+  "chapter_slug": "140-for-the-form-or-model-in-brief-of-a-free-state-or-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99d3d179-4f63-5af4-b250-49f844ec29cc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 455,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

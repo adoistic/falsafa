@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 31,
+  "chapter_title": "Advice of his Majesty’s Council of Trade, concerning the Exportation of Gold and Silver in Foreign Coins and Bullion. (C",
+  "chapter_slug": "31-advice-of-his-majesty-s-council-of-trade-concernin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a177bf91-1de9-5b2f-9eb4-447219c549e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 461,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

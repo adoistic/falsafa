@@ -1,0 +1,26 @@
+{
+  "work_slug": "simon-newcomb-the-a-b-c-of-finance-bf3de6",
+  "work_title": "The A B C of Finance",
+  "chapter_number": 16,
+  "chapter_title": "The Cause.",
+  "chapter_slug": "16-the-cause",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fbb7549-f291-5375-81c2-f7113f561974",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 661,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/newcomb-the-a-b-c-of-finance"
+    }
+  ]
+}

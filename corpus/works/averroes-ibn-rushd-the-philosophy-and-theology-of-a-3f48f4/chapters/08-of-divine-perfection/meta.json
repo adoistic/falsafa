@@ -1,0 +1,26 @@
+{
+  "work_slug": "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
+  "work_title": "The Philosophy and Theology of Averroes",
+  "chapter_number": 8,
+  "chapter_title": "OF DIVINE PERFECTION",
+  "chapter_slug": "08-of-divine-perfection",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6bd6084-e080-517e-9b6c-dbce1983bf49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2884,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rushd-the-philosophy-and-theology-of-averroes"
+    }
+  ]
+}

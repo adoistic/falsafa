@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 33,
+  "chapter_title": "I.: —Of the Deduction of the Fundamental Principles of the Pure Practical Reason.",
+  "chapter_slug": "33-i-of-the-deduction-of-the-fundamental-principles-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d8d2848f-5589-5355-883f-47866192c710",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3511,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

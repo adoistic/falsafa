@@ -1,0 +1,31 @@
+---
+work_id: "65c38856-6963-53d0-a517-e894e1b0a111"
+work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
+work_title: Proslogium; Monologium; and Cur Deus Homo
+author_name: Anselm of Canterbury
+chapter_number: 31
+chapter_title: CHAPTER XVIII.
+chapter_slug: 31
+variant_id: "00d3b5e6-ef8f-50b6-bcaf-e05f3be49377"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 538
+source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+translator: Online Library of Liberty edition
+---
+
+God is life, wisdom, eternity, and every true good.—Whatever is composed of parts is not wholly one; it is capable, either in fact or in concept, of dissolution. In God wisdom, eternity, etc., are not parts, but one, and the very whole which God is, or unity itself, not even in concept divisible.
+
+And lo, again confusion; lo, again grief and mourning meet him who seeks for joy and gladness. My Edition: current; Page: [24] soul now hoped for satisfaction; and lo, again it is overwhelmed with need. I desired now to feast, and lo, I hunger more. I tried to rise to the light of God, and I have fallen back into my darkness. Nay, not only have I fallen into it, but I feel that I am enveloped in it. I fell before my mother conceived me. Truly, in darkness I was conceived, and in the cover of darkness I was born. Truly, in him we all fell, in whom we all sinned. In him we all lost, who kept easily, and wickedly lost to himself and to us that which when we wish to seek it, we do not know; when we seek it, we do not find; when we find, it is not that which we seek.
+
+Do thou help me for thy goodness’ sake! Lord, I sought thy face; thy face, Lord, will I seek; hide not thy face far from me (Psalms xxvii. 8). Free me from myself toward thee. Cleanse, heal, sharpen, enlighten the eye of my mind, that it may behold thee. Let my soul recover its strength, and with all its understanding let it strive toward thee, O Lord. What art thou, Lord, what art thou? What shall my heart conceive thee to be?
+
+Assuredly thou art life, thou art wisdom, thou art truth, thou art goodness, thou art blessedness, thou art eternity, and thou art every true good. Many are these attributes: my straitened understanding cannot see so many at one view, that it may be gladdened by all at once. How, then, O Lord, art thou all these things? Are they parts of thee, or is each one of these rather the whole, which thou art? For, whatever is composed of parts is not altogether one, but is in some sort plural, and diverse from itself; and either in fact or in concept is capable of dissolution.
+
+But these things are alien to thee, than whom Edition: current; Page: [25] nothing better can be conceived of. Hence, there are no parts in thee, Lord, nor art thou more than one. But thou art so truly a unitary being, and so identical with thyself, that in no respect art thou unlike thyself; rather thou art unity itself, indivisible by any conception. Therefore, life and wisdom and the rest are not parts of thee, but all are one; and each of these is the whole, which thou art, and which all the rest are.
+
+In this way, then, it appears that thou hast no parts, and that thy eternity, which thou art, is nowhere and never a part of thee or of thy eternity. But everywhere thou art as a whole, and thy eternity exists as a whole forever.

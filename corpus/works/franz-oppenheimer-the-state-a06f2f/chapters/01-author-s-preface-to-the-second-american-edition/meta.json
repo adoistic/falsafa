@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-oppenheimer-the-state-a06f2f",
+  "work_title": "The State",
+  "chapter_number": 1,
+  "chapter_title": "AUTHOR’S PREFACE TO THE SECOND AMERICAN EDITION",
+  "chapter_slug": "01-author-s-preface-to-the-second-american-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fee516b6-9686-5466-ab2e-cc2e28b60c5b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3280,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/oppenheimer-the-state"
+    }
+  ]
+}

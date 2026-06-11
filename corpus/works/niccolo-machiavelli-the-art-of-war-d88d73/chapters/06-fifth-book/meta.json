@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-art-of-war-d88d73",
+  "work_title": "The Art of War",
+  "chapter_number": 6,
+  "chapter_title": "FIFTH BOOK",
+  "chapter_slug": "06-fifth-book",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2698b5a2-0458-5b3a-ae40-a55448cf5b8b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6815,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/machiavelli-the-art-of-war-neville-trans"
+    }
+  ]
+}

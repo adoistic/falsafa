@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 8,
+  "chapter_title": "extracts from some notes written to his mother from his prison, in january, 1796, mostly written in english, with a penc",
+  "chapter_slug": "08-extracts-from-some-notes-written-to-his-mother-fro",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b387263-c887-5bb5-bd18-b6c807087288",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 316,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

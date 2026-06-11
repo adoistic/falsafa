@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 6,
+  "chapter_title": "CHAPTER V: THE SITTING OF THE CHAMBER—MADAME LA DUCHESSE D’ORLÉANS—THE PROVISIONAL GOVERNMENT.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c5c557b-5ed2-554b-9c7f-976d0df4411e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5165,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

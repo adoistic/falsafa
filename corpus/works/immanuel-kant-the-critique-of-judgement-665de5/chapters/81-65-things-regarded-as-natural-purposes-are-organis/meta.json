@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 81,
+  "chapter_title": "§ 65.: Things regarded as natural purposes are organised beings",
+  "chapter_slug": "81-65-things-regarded-as-natural-purposes-are-organis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b998e64-3e75-5418-b928-5d8af357a73f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1462,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

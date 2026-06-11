@@ -1,0 +1,57 @@
+---
+work_id: "91a5c993-a93f-5eda-a64d-e315561c8d03"
+work_slug: "voltaire-toleration-and-other-essays-91a5c9"
+work_title: Toleration and Other Essays
+author_name: Voltaire
+chapter_number: 46
+chapter_title: Second Point
+chapter_slug: "46-second-point"
+variant_id: "a1b189fc-0845-50dd-8d08-c941737b9378"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1849
+source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+translator: Online Library of Liberty edition
+---
+
+O God, if thou thyself didst descend upon the earth, and didst command me to believe this tissue of murders, thefts, assassinations, and incests committed by thy order and in thy name, I should say to thee: No; thy sanctity cannot ask me to acquiesce in these horrible things that outrage thee. Thou seekest, no doubt, to try me.
+
+How, then, my virtuous and enlightened hearers, could we accept this frightful story on the wretched evidence which is offered in support of it?
+
+Run briefly over the books that have been falsely attributed to Moses. I say falsely, since it is not Edition: current; Page: [170] possible for Moses to have written about things that happened long after his time. None of us would believe that the memoirs of William, Prince of Orange, were written with his own hand if there were allusions in these memoirs to things that happened after his death. Let us see what is narrated in the name of Moses. First, God created the light, which he calls “day”; then the darkness, which he calls “night,” and it was the first day. Thus there were days before the sun was made.
+
+On the sixth day God makes man and woman; but the author, forgetting that woman has been made already, afterwards derives her from one of Adam’s ribs. Adam and Eve are put in a garden from which four rivers issue; and of these rivers there are two, the Euphrates and the Nile, which have their sources a thousand miles from each other. The serpent then spoke like a man; it was the most cunning of animals. It persuades the woman to eat an apple, and so has her driven from paradise. The human race increases, and the children of God fall in love with the daughters of men. There were giants on the earth, and God was sorry that he had made man. He determined to exterminate him by a flood; but wished to save Noah, and ordered him to make a vessel of poplar wood, three hundred cubits in length. Into this vessel were to be brought seven pairs of all the clean animals, and two pairs of the unclean. It was necessary to feed them during the ten months that the water covered the earth. You can imagine what would be needed to feed fourteen elephants, fourteen camels, fourteen buffaloes, and as many horses, asses, deer, serpents, Edition: current; Page: [171] ostriches—in a word, more than two thousand species. You will ask me whence came the water to cover the whole earth and rise fifteen cubits above the highest mountains? The text replies that it came from the cataracts of heaven. Heaven knows where these cataracts are. After the deluge God enters into an alliance with Noah and with all the animals; and in confirmation of this alliance he institutes the rainbow.
+
+Those who wrote these things were not, as you perceive, great physicists. However, here is Noah with a religion given to him by God, and this religion is neither Jewish nor Christian. The posterity of Noah seeks to build a tower that shall reach to heaven. A fine enterprise! But God fears it, and causes the workers suddenly to speak several different tongues, and they disperse. The whole is written in this ancient oriental vein.
+
+A rain of fire converts towns into a lake; Lot’s wife is changed into a salt statue; Jacob fights all night with an angel, and is hurt in the leg; Joseph, sold as a slave into Egypt, is made first minister because he explains a dream. Seventy members of the family settle in Egypt, and in two hundred and fifteen years, as we saw, multiply into two millions. It is these two million Hebrews who fly from Egypt, and go the longest way in order to have the pleasure of crossing the sea dry-shod.
+
+But there is nothing surprising about this miracle. Pharaoh’s magicians performed some very fine miracles. Like Moses, they changed a rod into Edition: current; Page: [172] a serpent, which is a very simple matter. When Moses changed water into blood, they did the same. When he brought frogs into existence, they imitated him. But they were beaten when it came to the plague of lice; on that subject the Jews knew more than other nations.
+
+In the end Adonai causes the death of each first-born in Egypt in order to allow his people to leave in peace. The sea divides to let them pass; it was the least that could be done on such an occasion. The remainer is on the same level. The people cry out in the desert. Some of the husbands complain of their wives; at once a water is found which causes any woman who has forfeited her honour to swell and burst. They have neither bread nor paste; quails and manna are rained on them. Their garments last forty years, and grow with the children. Apparently clothes descend from heaven for the new-born children.
+
+A prophet of the district seeks to curse the people, but his ass opposes the project, together with an angel, and the ass speaks very reasonably and at great length to the prophet.
+
+When they attack a town, the walls fall at the sound of trumpets; just as Amphion built walls to the sound of the flute. But the finest miracle is when five Amorite kings—that is to say, five village sheiks—attempt to oppose the ravages of Joshua. They are not merely vanquished and cut to pieces, but the Lord sends a great rain of stones upon the fugitives. Even that is not enough. A few escape, and, in order to give the Israelites time to pursue them, nature suspends its eternal laws. Edition: current; Page: [173] The sun halts at Gibeon, and the moon at Aijalon. We do not quite understand how the moon comes in, but the books of Joshua leave no room for doubt as to the fact. Now let us pass to other miracles, and go on to Samson, who is depicted as a famous plunderer, a friend of God. Samson routs a thousand Philistines with the jawbone of an ass, because he is not shaved, and ties by the tails three hundred foxes which he found in a certain place.
+
+There is hardly a page that does not contain similar stories. In one place it is the shade of Samuel appearing in response to the voice of a witch; in another it is the shadow on a sun-dial (assuming that these miserable folk had sun-dials) receding ten degrees at the prayer of Hezekiah, who prudently asks for this sign. God gives him the alternatives of advancing or retarding the hour, and Dr. Hezekiah thinks that it is not difficult to put the shadow on, but very difficult to put it back.
+
+Elias rises to heaven in a fiery chariot; children sing in a fiery furnace. I should never come to an end if I wished to enter into all the details of the unheard-of extravagances that swarm in this book. Never was common-sense assailed with such indecency and fury.
+
+Such is, from one end to the other, the Old Testament, the father of the New, a father who disavows his child and regards it as a rebellious bastard; for the Jews, faithful to the law of Moses, regard with detestation the Christianity that has been reared on the ruins of their law. The Christians, however, have with great subtlety sought to justify the New Testament by the Old. The two Edition: current; Page: [174] religions thus fight each other with the same weapons; they invoke the same prophets and appeal to the same predictions.
+
+Will the ages to come, which will have seen the passing of these follies, yet may, unhappily, witness the rise of others not less unworthy of God and men, believe that Judaism and Christianity based their claims on such foundations and such prophecies? What prophecies! Listen. The prophet Isaiah is summoned by Ahaz, king of Judah, to make certain predictions to him, in the vain and superstitious manner of the East. These prophets were, as you know, men who earned more or less of a living by divination; there were many like them in Europe in the last century, especially among the common people. King Ahaz, besieged in Jerusalem by Shalmaneser, who had taken Samaria, demanded of the soothsayer a prophecy and a sign. Isaiah said to him: This is the sign:
+
+“A girl will conceive, and will bear a child who shall be called Emmanuel. He shall eat butter and honey until the day when he shall reject evil and choose good; and before this child is of age, the land which thou detestest shall be forsaken by its two kings; and the Lord shall hiss for the flies that are on the banks of the streams of Egypt and Assyria; and the Lord will take a razor, and shave the King of Assyria; he will shave his head and the hair of his feet.”
+
+After this splendid prophecy, recorded in Isaiah, but of which there is not a word in Kings, the prophet orders him first to write on a large roll, which they hasten to seal. He urges the king to Edition: current; Page: [175] press to the plunder of his enemies, and then ensures the birth of the predicted child. Instead of calling it Emmanuel, however, he gives it the name of Maher Salabas. This, my brethren, is the passage which Christians have distorted in favour of their Christ; this is the prophecy that set up Christianity. The girl to whom the prophet ascribes a child is incontestably the Virgin Mary. Maher Salabas is Jesus Christ. As to the butter and honey, I am unaware what it means. Each soothsayer promises the Jews deliverance when they are captive; and this deliverance is, according to the Christians, the heavenly Jerusalem, and the Church of our time. Prophecy is everything with the Jews; with the Christians miracle is everything, and all the prophecies are figures of Jesus Christ.
+
+Here, my brethren, is one of these fine and striking prophecies. The great prophet Ezekiel sees a wind from the north, and four animals, and wheels of chrysolite full of eyes; and the Lord says to him: “Rise, eat a book, and then depart.”
+
+The Lord orders him to sleep three hundred and ninety days on the left side, and then forty on the right side. The Lord binds him with cords; he was certainly a man that needed binding. What follows in Ezekiel is very distasteful.
+
+But we need not waste our time in assailing all the disgusting and abominable dreams which are the subject of controversy between the Jews and Edition: current; Page: [176] Christians. We will be content to deplore the most pitiful blindness that has ever darkened the mind of man. Let us hope that this blindness will pass like so many others, and let us proceed to the New Testament, a worthy sequel to what has gone before.

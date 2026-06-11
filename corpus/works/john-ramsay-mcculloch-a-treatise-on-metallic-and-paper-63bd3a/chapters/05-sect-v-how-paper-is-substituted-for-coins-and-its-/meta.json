@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
+  "work_title": "A Treatise on Metallic and Paper Money and Banks",
+  "chapter_number": 5,
+  "chapter_title": "Sect. V.—: How Paper is substituted for Coins, and its value maintained.",
+  "chapter_slug": "05-sect-v-how-paper-is-substituted-for-coins-and-its-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10e466ee-d7b8-511f-9872-2da1a0880266",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2483,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858"
+    }
+  ]
+}

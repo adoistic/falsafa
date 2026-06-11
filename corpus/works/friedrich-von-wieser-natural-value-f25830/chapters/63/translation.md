@@ -1,0 +1,33 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 63
+chapter_title: "CHAPTER XII: the cost theories (continued). land rent as an element in cost"
+chapter_slug: 63
+variant_id: "a73bd085-fd36-5c33-916d-9a1ed86214c6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1027
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+Land— understanding the word in that familiar theoretical sense which refers to the indestructible part of land-—suffers no loss of substance in production. Among the costs of agricultural products, consequently, there is nothing to be calculated for what we may call the “substance-value” of land. Ricardo goes farther than this, and affirms that the rent of land, like the value of land, cannot enter into costs. This contention is entirely in harmony with his theory that rent is a net differential rent, only ascribable to the better classes of land employed, while the poorest classes, those which are available in superfluity, yield no rent. If the classes of land which are last employed are free and bear no rent, the determining costs will, as a matter of fact, be made up without consideration of rent, simply by the sum of costs in capital and labour which are applied to the poorest classes of land. The rent yielded by the better qualities of land originates, as we know, from the surplus return of products which they assure to equal costs of capital and labour and equal value of products. Rent is, therefore, derived from the return, without finding expression in the value of the products.
+
+It is otherwise if rent is not merely a differential but a general one. A general rent must enter into costs just as interest does. It must be included in the calculation if the determining amount of costs is to be obtained. Where all qualities of lands and all powers of the land, even those of the lowest class, are required to meet the demand, and all bear rent, the circumstance that classes of land of the poorest quality are devoted to a definite production, and so “tied up” throughout the duration of that production, is not a matter of economic indifference. For, so long as they remain tied up, their services are withheld from other productions to which they might have been devoted. In case of failure, their Edition: current; Page: [208] rent, which would otherwise have been obtained, is lost. Their rent consequently belongs to and must be included in the cost of the products.
+
+For Ricardo it is of primary importance to persist in maintaining the foregoing contention, that land rent is always differential. His economic system cannot dispense with the proposition depending upon it, that rent does not enter into the value of products. He imagines it possible to bring the value of products under a general law, and consider them simply as multiples of units of capital and units of labour. The intervention of interest already forms a disturbing element in his law, but he believes himself able to prove that the disturbing element thus introduced is of no great importance. But if, besides, the element of rent plays a part in the value, the whole laborious structure of his theory falls to the ground, and his attempt to derive the value of products from labour, and to unite empirical amounts of value with amounts philosophically demanded, is completely overturned.
+
+For the theory of value which we represent, on the other hand, it is a matter of entire indifference whether the circumstances are such that rent remains purely differential, and thus does not enter into the value of products, or are such as cause rent to become general, and thus to enter of necessity into the value of products. The one case fits into our system as well as the other.
+
+Further, there are certain exceptions to the proposition that a differential rent cannot enter into the value of products. Alongside of those employments of land which may be regarded as the principal ones, and of those forms of rent which might be called the original ones, there exist others which are secondary and derivative. The principal employment of fertile land is in agriculture, but the building of a factory upon land suitable for cultivation is an example of a secondary employment,—of an employment, to express it otherwise, for which land in general will be less required, and which in itself would never exhaust the available supply of lands, as the agricultural demand might easily do. If a fertile field is employed as site for a factory the agricultural rent which, in other circumstances, might be expected from it, will have to be surrendered. Edition: current; Page: [209] The sacrifice of this rent means an outlay of costs which cannot be neglected in calculating the costs of the factory's products. Whatever the amount of the rent, it must be deducted from the value of the products made on that building ground, and it is not till the remainder covers the costs of capital and labour that the calculation is complete.
+
+The case is similar with the ground-rents of dwelling-houses. Ground-rent in a large town is never a simple differential rent. At the periphery of the town, house-rent finds its measure in agricultural rent, and rises towards the business centre, according to desirability of situation. The more valuable for cultivation the land round about the town is, the dearer will be the houses in that town. To this extent agricultural rent acts as a universal element of costs in the calculation of house-rents. The differential rents received from favoured sites do not make houses dearer, but are rather a result of the high valuation placed upon houses in a favourable situation. And in so far as the need for dwelling-houses and the need for business premises compete with each other, does the one employment of land act upon the other as an element of costs.
+
+In following out this line of thought we see that Ricardo's proposition gradually loses its applicability almost entirely, as the cultivation of land becomes very artificial, and the uses of land multiply. The various employments begin to compete with each other, and one has always to make choice among several; thus the differential rents which are surrendered take effect as costs. Ricardo's preposition that the rent of land does not enter into costs, can be legitimately applied only to land devoted of necessity to one distinct use, such as mines, vineyards, and the like.

@@ -1,0 +1,21 @@
+---
+work_id: "65c38856-6963-53d0-a517-e894e1b0a111"
+work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
+work_title: Proslogium; Monologium; and Cur Deus Homo
+author_name: Anselm of Canterbury
+chapter_number: 10
+chapter_title: LOTZE.
+chapter_slug: "10-lotze"
+variant_id: "37c11b55-3a87-5d05-b56b-d37e0e02bcc6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 294
+source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+translator: Online Library of Liberty edition
+---
+
+“To conclude that because the notion of a most perfect Being includes reality as one of its perfections, therefore a most perfect Being necessarily exists, is so obviously to conclude falsely, that after Kant’s incisive refutation any attempt to defend such reasoning would be useless. Anselm, in his more free and spontaneous reflection, has here and there touched the thought that the greatest which we can think, if we think it as only thought, is less than the same greatest if we think it as existent. It is not possible that from this reflection either any one should develop a logically cogent proof, but the way in which it is put seems to reveal another fundamental thought which is seeking for expression. For what would it matter if that which is thought as most perfect were, as thought, less than the least reality? Why should this thought disturb us? Plainly for this reason, that it is an immediate certainty that what is greatest, most beautiful, most worthy is not a mere thought, but must be a reality, because it would be intolerable to believe of our ideal that it is an idea produced by the action of thought but having no existence, no power, and no validity in the world of reality. We do not from the perfection of that which is perfect immediately deduce its reality as a logical consequence; but without the circumlocution of a deduction we directly feel the impossibility of its non-existence, and all semblance of syllogistic proof only serves to make more clear the directness of this certainty. If what is greatest did not exist, then what is greatest would not be, and it is not impossible that that which is greatest of all conceivable things should not be.”

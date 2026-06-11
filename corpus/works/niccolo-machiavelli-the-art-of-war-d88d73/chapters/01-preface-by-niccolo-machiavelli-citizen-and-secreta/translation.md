@@ -1,0 +1,25 @@
+---
+work_id: "d88d730f-d874-5f51-b8a4-f081a21b7bcc"
+work_slug: "niccolo-machiavelli-the-art-of-war-d88d73"
+work_title: The Art of War
+author_name: Niccolò Machiavelli
+chapter_number: 1
+chapter_title: PREFACE BY NICCOLO MACHIAVELLI CITIZEN AND SECRETARY OF FLORENCE ON THE BOOKS ON THE ART OF WAR TO LORENZODI FILIPPO STR
+chapter_slug: "01-preface-by-niccolo-machiavelli-citizen-and-secreta"
+variant_id: "00cb6844-ef3e-5597-95b5-4fb9e27ec8d8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 752
+source_url: "https://oll.libertyfund.org/titles/machiavelli-the-art-of-war-neville-trans"
+translator: Online Library of Liberty edition
+---
+
+Many, Lorenzo, have held and still hold the opinion, that there is nothing which has less in common with another, and that is so dissimilar, as civilian life is from the military. Whence it is often observed, if anyone designs to avail himself of an enlistment in the army, that he soon changes, not only his clothes, but also his customs, his habits, his voice, and in the presence of any civilian custom, he goes to pieces; for I do not believe that any man can dress in civilian clothes who wants to be quick and ready for any violence; nor can that man have civilian customs and habits, who judges those customs to be effeminate and those habits not conducive to his actions; nor does it seem right to him to maintain his ordinary appearance and voice who, with his beard and cursing, wants to make other men afraid: which makes such an opinion in these times to be very true. But if they should consider the ancient institutions, they would not find matter more united, more in conformity, and which, of necessity, should be like to each other as much as these (civilian and military);for in all the arts that are established in a society for the sake of the common good of men, all those institutions created to (make people) live in fear of the laws and of God would be in vain, if their defense had not been provided for and which, if well arranged, will maintain not only these, but also those that are not well established. And so (on the contrary), good institutions without the help of the military are not much differently disordered than the habitation of a superb and regal palace, which, even though adorned with jewels and gold, if it is not roofed over will not have anything to protect it from the rain. And, if in any other institutions of a City and of a Republic every diligence is employed in keeping men loyal, peaceful, and full of the fear of God, it is doubled in the military; for in what man ought the country look for greater loyalty than in that man who has to promise to die for her? In whom ought there to be a greater love of peace, than in him who can only be injured by war? In whom ought there to be a greater fear of God than in him who, undergoing infinite dangers every day, has more need for His aid? If these necessities in forming the life of the soldier are well considered, they are found to be praised by those who gave the laws to the Commanders and by those who were put in charge of military training, and followed and imitated with all diligence by others.
+
+But because military institutions have become completely corrupt and far removed from the ancient ways, these sinister opinions have arisen which make the military hated and intercourse with those who train them avoided. And I, judging, by what I have seen and read, that it is not impossible to restore its ancient ways and return some form of past virtue to it, have decided not to let this leisure time of mine pass without doing something, to write what I know of the art of war, to the satisfaction of those who are lovers of the ancient deeds. And although it requires courage to treat of those matters of which others have made a profession, none the less, I do not believe that it is a mistake to occupy a position with words, which may, with greater presumption, have been occupied with deeds; for the errors which I should make in writing can be corrected without injury to anyone, but those which are made with deeds cannot be found out except by the ruin of the Commanders.
+
+You, Lorenzo, will therefore consider the quality of these efforts of mine, and will give in your judgement of them that censure or praise which will appear to you to be merited. I send you these, as much as to show myself grateful for all the benefits I have received from you, although I will not include in them the (review) of this work of mine, as well as also, because being accustomed to honor similar works of those who shine because of their nobility, wealth, genius, and liberality, I know you do not have many equals in wealth and nobility, few in ingenuity, and no one in liberality.

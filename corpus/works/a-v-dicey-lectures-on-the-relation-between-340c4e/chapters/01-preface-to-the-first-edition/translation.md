@@ -1,0 +1,35 @@
+---
+work_id: "340c4e80-aeeb-5b1e-bd41-c55cd662c112"
+work_slug: "a-v-dicey-lectures-on-the-relation-between-340c4e"
+work_title: Lectures on the Relation between Law and Public Opinion in England
+author_name: A. V. Dicey
+chapter_number: 1
+chapter_title: PREFACE TO THE FIRST EDITION
+chapter_slug: "01-preface-to-the-first-edition"
+variant_id: "df177598-8fcf-50bd-a9c3-0e80d89ecb88"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1125
+source_url: "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+translator: Online Library of Liberty edition
+---
+
+In 1898 I accepted an invitation to deliver to the students of the Harvard Law School a short course of lectures on the History of English Law during the last century. It occurred to me that this duty might best be performed by tracing out the relation during the last hundred years between the progress of English law and the course of public opinion in England. This treatment of my subject possessed two recommendations. It enabled me to survey the law of England as a whole, without any attempt to go through the whole of the law; it opened, as I hoped, to my hearers a novel and interesting view of modern legislation; a mass of irregular, fragmentary, ill expressed, and, as it might seem, illogical or purposeless enactments, gains a new meaning and obtains a kind of consistency when seen to be the work of permanent currents of opinion.
+
+The lectures delivered at Harvard were the basis of courses of lectures which, after having undergone sometimes expansion and sometimes curtailment, have Edition: current; Page: [viii] been during the last five years delivered at Oxford. Of the lectures originally given in America, and thus reconsidered and rewritten, this book is the outcome. To them it owes both its form and its character.
+
+The form of lectures has been studiously preserved, so that my readers may not forget that my book pretends to be nothing but a course of lectures, and that a lecture must from its very nature present a mere outline of the topic with which it deals, and ought to be the explanation and illustration of a few elementary principles underlying some subject of interest.
+
+The character of my book may require some explanation, since it may easily be misconceived. Even for the nineteenth century the book is not a history of English law; still less is it a history of English opinion. It is an attempt to follow out the connection or relation between a century of English legislation and successive currents of opinion. The book is, in fact, an endeavour to bring the growth of English laws during a hundred years into connection with the course of English thought. It cannot claim to be a work of research; it is rather a work of inference or reflection. It is written with the object, not of discovering new facts, but of drawing from some of the best known facts of political, social, and legal history certain conclusions which, though many of them obvious enough, are often overlooked, and are not Edition: current; Page: [ix] without importance. If these lectures should induce a student here and there to study the development of modern law in connection with the course of modern thought, and to realise that dry legal rules have a new interest and meaning when connected with the varying current of public opinion, they will have attained their object.
+
+If this end is to any extent reached its attainment will be due in no small measure to the aid I have received from two authors.
+
+To Sir Roland K. Wilson I am indebted for the conception of the way in which the growth of English law might during the last century be linked with and explained by the course of public opinion. Thirty years have passed since, on its appearance in 1875, I read with care his admirable little manual, The History of Modern English Law. From its pages I first gained an impression, which time and study have deepened, of the immense effect produced by the teaching of Bentham, and also a clear view of the relation between the Blackstonian age of optimism or, to use an expression of Sir Roland Wilson’s, of “stagnation,” and the Benthamite era of scientific law reform. In 1875 the progress of socialism or collectivism had hardly arrested attention. It had already begun, but had only begun, to enter the sphere of legislative opinion; Sir Roland Wilson could not, therefore, describe its Edition: current; Page: [x] effects. It would be a happy result of my book should it suggest to him to perform the public service of re-editing his treatise and bringing it up to date, or at any rate to the end of the nineteenth century.
+
+To my cousin, Leslie Stephen, I am under obligations of a somewhat different character. For years past I have studied all his writings with care and admiration, and, in common, no doubt, with hundreds of other readers, have derived from them invaluable suggestions as to the relation between the thought and the circumstances of every age. Ideas thus suggested have aided me in almost every page of my book. Of his English Utilitarians I have made the utmost use, but, as the book was published two years after my lectures at Harvard were written and delivered, and the lines of my work were finally laid down, I gained less direct help from his analysis of utilitarianism than I should have done had it appeared at an earlier date. The fact, however, that I found myself in substantial agreement with most of his views as to the utilitarian school, much strengthened my confidence in already-formed conclusions. There is a special satisfaction in dwelling on the help derived from Leslie Stephen’s thoughts, for I feel there is some danger lest his skill and charm as a biographer should for the moment conceal from the public his originality and Edition: current; Page: [xi] profundity as a thinker. But it is a pain to reflect that delays in the completion of my task have prevented me from expressing my obligation to him at a time when the expression might have given him pleasure.
+
+To the many persons who have in various ways furthered my work I tender my thanks. To one friend for the service rendered by reading the proofs of this work, and by the correction of errors and the suggestion of improvements, whilst it was going through the press, I owe an obligation which it was as pleasant to incur as it is impossible to repay. I have special reason to feel grateful to the kindness of Sir Alfred de Bock Porter for information, courteously given and hardly to be obtained from books, about the history and the working of the Ecclesiastical Commission; to my friend Mr. W. M. Geldart for reading pages of my work which refer to parts of the law of which he is in a special sense a master; to Mr. E. H. Pelham, of the Board of Education; to Mr. G. Holden, Assistant Librarian at All Souls; and to Mr. H. Tedder, Secretary and Librarian of the Athenæum Club, for the verification of references which during an absence from books I could not verify for myself.

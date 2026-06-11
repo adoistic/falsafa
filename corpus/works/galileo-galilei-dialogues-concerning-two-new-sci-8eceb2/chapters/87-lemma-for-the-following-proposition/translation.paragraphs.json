@@ -1,0 +1,12 @@
+[
+  {
+    "id": "p-17f0a3",
+    "offset": 0,
+    "text": "If a straight line be cut at any point whatever and mean proportionals between this line and each of its parts be taken, the sum of the squares of these mean proportionals is equal to the square of the entire line."
+  },
+  {
+    "id": "p-5cf6ba",
+    "offset": 216,
+    "text": "Let the line ab be cut at c. Then I say that the square of the mean proportional between ab and ac plus the square of the mean proportional between ab and cb is equal to the square of the whole line ab. This is evident as soon as we describe a semicircle upon the entire line ab, erect a perpendicular cd at c, and draw da and db. For da is a mean proportional between ab and ac whileEdition: NatlEd; Page: [299] db is a mean proportional between ab and bc: and since the angle adb, inscribed in a semicircle, is a right angle the sum of Edition: current; Page: [279] the squares of the lines da and db is equal to the square of the entire line ab. Hence follows the proposition."
+  }
+]

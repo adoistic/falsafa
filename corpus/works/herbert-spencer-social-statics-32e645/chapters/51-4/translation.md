@@ -1,0 +1,23 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 51
+chapter_title: § 4.
+chapter_slug: "51-4"
+variant_id: "4aaf8737-5bb9-5251-b8b5-c9e5aff18ec8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 489
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+But why, it may be asked, should there need any sentiment leading men to claim the liberty of action requisite for the due exercise of faculties, and prompting them to resist encroachments upon that liberty? Will not the several faculties themselves do this, by virtue of their desires for activity, which cannot otherwise be gratified? Surely there is no necessity for a special impulse to make a man do that which all his impulses conjointly tend to make him do.
+
+This is not so serious an objection as it appears to be. For although, were there no such sentiment as this supposed one, each faculty in turn might impel its possessor to oppose a diminution of its own sphere of action, yet, during the dormancy of that faculty, there would be nothing to prevent the freedom requisite for its future exercise from being infringed upon. It may, perhaps, be rejoined, that the mere consciousness that there must again occur occasions for the use of such freedom will constitute a sufficient incentive to defend it. But plausible as this supposition looks, it does not tally with facts. We do not find on inquiry, that each faculty has a special foresight—takes thought for its gratifications to come: we find, on the contrary, that to provide for the future gratification of the faculties at large, is the office of faculties appointed solely for that purpose. Thus, referring once more by way of illustration to the acquisitive instinct, we see that, when this is wanting, the desires for food, for clothing, for shelter, together with those many other desires which property minsters to, do not of themselves prompt that accumulation of property on which the continuance of their satisfaction depends. Each of them, when active, impels the individual to take means for its present fulfilment; but does not prompt him to lay by the means for its future fulfilment. To so prompt him there needs a certain amount of this acquisitive instinct, which, in pursuing its own gratification, incidentally secures to other instincts the means of their gratification. Edition: current; Page: [96] Similarly, then, with liberty of action. It is argued, that as each faculty does not look after its own particular fund of necessaries, so neither does it look after its own particular sphere of activity; and that as there is a special faculty to which the providing of a general fund of necessaries is consigned, so likewise is there a special faculty to which the maintenance of a general sphere of activity is consigned. Or perhaps we may most clearly express the relationship in which these two faculties stand to the rest, by saying, that whilst it is the function of the one to accumulate the matter on which the faculties at large are to be exercised, it is the function of the other to preserve the freedom of motion by which that matter is both obtained and made use of.

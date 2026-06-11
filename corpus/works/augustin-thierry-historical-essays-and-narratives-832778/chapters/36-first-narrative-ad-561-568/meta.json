@@ -1,0 +1,26 @@
+{
+  "work_slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "work_title": "Historical Essays and Narratives of the Merovingian Era",
+  "chapter_number": 36,
+  "chapter_title": "FIRST NARRATIVE. ad 561—568.",
+  "chapter_slug": "36-first-narrative-ad-561-568",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3e58985-2796-5b12-bbf5-8c536e67f73b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8225,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+    }
+  ]
+}

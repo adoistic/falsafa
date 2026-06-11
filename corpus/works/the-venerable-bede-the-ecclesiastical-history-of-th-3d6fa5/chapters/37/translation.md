@@ -1,0 +1,35 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 37
+chapter_title: CHAPTER XXXII
+chapter_slug: 37
+variant_id: "bd98ff4e-a109-57a0-b469-b18a22840695"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 893
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+pope gregory sends letters and presents to king ethelbert
+
+The same holy Pope Gregory, at the same time, sent a letter to King Ethelbert, with many presents of several sorts; being desirous to glorify the king with temporal honours, at the same time that he rejoiced that through his labour and zeal he had attained the knowledge of the heavenly glory. The copy of the said letter is as follows—
+
+“To the most glorious Lord, and his most excellent son, Ethelbert, king of the English, Bishop Gregory. Almighty God advances all good men to the government of nations, that He may by their means bestow the gifts of his mercy on those over whom they are placed. This we know to have been done in the English nation, over whom your glory was therefore placed, that by means of the goods which are granted to you, heavenly benefits might also be conferred on the nation that is subject to you. Therefore, my illustrious son, do you carefully preserve the grace which you have received from the Divine goodness, and hasten to promote the Christian faith, which you have embraced, among the people under your subjection; multiply the zeal of your uprightness in their conversion; suppress the worship of idols; overthrow the structures of the temples; edify the manners of your subjects by much cleanness of life, exhorting, terrifying, soothing, correcting, and giving examples of good works, that you may find Him your rewarder in heaven, whose name and knowledge you shall spread abroad upon earth. For He also will render the fame of your honour more glorious to posterity, whose honour you seek and maintain among the nations.
+
+“For even so Constantine, our most pious emperor, recovering the Roman commonwealth from the perverse worship of idols, subjected the same with himself to our Almighty God and Lord Jesus Christ, and was himself, with the people under his subjection, entirely converted to Him. Whence it followed, that his praises transcended the fame of former princes; and he as much excelled his predecessors in renown as he did in good works. Now, therefore, let your glory hasten to infuse into the kings and people that are subject to you, the knowledge of one God, Father, Son, and Holy Ghost; that you may both surpass the ancient kings of your nation in praise and merit, and become by so much the more secure against your own sins before the dreadful judgment of Almighty God, as you shall wipe away the sins of others in your subjects.
+
+“Willingly hear, devoutly perform, and studiously retain in your memory, whatsoever you shall be advised by our most reverend brother, Bishop Augustine, who is instructed in the monastical rule, full of the knowledge of the holy Scripture, and, by the help of God, endued with good works; for if you give ear to him in what he speaks for Almighty God, the same Almighty God will the sooner hear him praying for you. But if (which God avert!) you slight his words, how shall Almighty God hear him in your behalf, when you neglect to hear him for God? Unite yourself, therefore, to him with all your mind, in the fervour of faith, and further his endeavours, through the assistance of that virtue which the Divinity affords you, that He may make you partaker of his kingdom, whose faith you cause to be received and maintained in your own.
+
+“Besides, we would have your glory know, we find in the holy Scripture, from the words of the Almighty Lord, that the end of this present world, and the kingdom of the saints, is about to come, which will never terminate. But as the same end of the world approaches, many things are at hand which were not before, viz. changes of air, and terrors from heaven, and tempests out of the order of the seasons, wars, famines, plagues, earthquakes in several places; which things will not, nevertheless, happen in our days, but will all follow after our days. If you, therefore, find any of these things to happen in your country, let not your mind be in any way disturbed; for these signs of the Edition: current; Page: [57] end of the world are sent before, for this reason, that we may be solicitous for our souls, suspicious of the hour of death, and may be found prepared with good works to meet our Judge. Thus much, my illustrious son, I have said in few words, to the end that when the Christian faith shall increase in your kingdom, our discourse to you may also be more copious, and we may be pleased to say the more, in proportion as joy for the conversion of your nation is multiplied in our mind.
+
+“I have sent you some small presents, which will not appear small, when received by you with the blessing of the holy apostle, Peter. May Almighty God, therefore, perfect in you his grace which He has begun, and prolong your life here through a course of many years, and after a time receive you into the congregation of the heavenly country. May heavenly grace preserve your excellency in safety.
+
+“Given the 22nd day of June, in the nineteenth year of the reign of the most pious emperor, Mauritius Tiberius, in the eighteenth year after his consulship. Fourth indiction.”

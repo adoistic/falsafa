@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 61,
+  "chapter_title": "CHAPTER X: the cost theories (continued). capital as an element in cost",
+  "chapter_slug": "61",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e32bf47-4462-5d97-a3c1-191a7d61b4ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1530,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

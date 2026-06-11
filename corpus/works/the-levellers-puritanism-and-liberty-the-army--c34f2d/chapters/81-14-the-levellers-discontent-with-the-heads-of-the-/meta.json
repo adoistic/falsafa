@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 81,
+  "chapter_title": "14.: The Levellers’ Discontent with the Heads of the Proposals From [John Wildman], Putney Projects",
+  "chapter_slug": "81-14-the-levellers-discontent-with-the-heads-of-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b4f8069-bbfe-588a-8dbb-00790079a3ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1413,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

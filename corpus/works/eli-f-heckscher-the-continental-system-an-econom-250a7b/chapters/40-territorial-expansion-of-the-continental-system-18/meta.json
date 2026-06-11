@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 40,
+  "chapter_title": "TERRITORIAL EXPANSION OF THE CONTINENTAL SYSTEM (1807)",
+  "chapter_slug": "40-territorial-expansion-of-the-continental-system-18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "987aeed7-70de-545e-bb83-841a0e1dea7c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 401,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

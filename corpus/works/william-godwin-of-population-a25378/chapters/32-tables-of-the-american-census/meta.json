@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-godwin-of-population-a25378",
+  "work_title": "Of Population",
+  "chapter_number": 32,
+  "chapter_title": "TABLES of the AMERICAN CENSUS.",
+  "chapter_slug": "32-tables-of-the-american-census",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31475ced-7a5b-5877-bd55-79cdbff96309",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 76,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+    }
+  ]
+}

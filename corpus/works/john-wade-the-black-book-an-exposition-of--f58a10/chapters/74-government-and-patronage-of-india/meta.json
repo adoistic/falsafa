@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 74,
+  "chapter_title": "GOVERNMENT AND PATRONAGE OF INDIA.",
+  "chapter_slug": "74-government-and-patronage-of-india",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3fd83b1c-e9a1-5663-a0ea-d4cdcfcc1c32",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2803,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

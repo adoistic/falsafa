@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 58,
+  "chapter_title": "§ 44.: Of beautiful Art",
+  "chapter_slug": "58-44-of-beautiful-art",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9abdf066-60c1-52aa-92d5-2ff8f8c7b6ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 579,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

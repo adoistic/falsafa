@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-letters-to-the-right-honourable--7226ba",
+  "work_title": "Letters to the Right Honourable Edmund Burke",
+  "chapter_number": 10,
+  "chapter_title": "Of a civil Establishment being essential to Christianity.",
+  "chapter_slug": "10-of-a-civil-establishment-being-essential-to-christ",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37dee8ee-3a13-5a47-b43f-5002bf6790eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1413,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-letters-to-the-right-honourable-edmund-burke"
+    }
+  ]
+}

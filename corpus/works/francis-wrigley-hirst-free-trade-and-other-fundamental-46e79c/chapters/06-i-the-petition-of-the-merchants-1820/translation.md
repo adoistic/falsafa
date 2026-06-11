@@ -1,0 +1,63 @@
+---
+work_id: "46e79c88-4e0b-5d44-a6a6-718c87d0e434"
+work_slug: "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c"
+work_title: Free Trade and Other Fundamental Doctrines of the Manchester School
+author_name: Francis Wrigley Hirst
+chapter_number: 6
+chapter_title: "I.—: THE PETITION OF THE MERCHANTS (1820)"
+chapter_slug: "06-i-the-petition-of-the-merchants-1820"
+variant_id: "bd24ae7e-31f9-5293-944d-9c7d990a0004"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1592
+source_url: "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+translator: Online Library of Liberty edition
+---
+
+This memorable petition to the House of Commons was drafted by Thomas Tooke, and, having been signed by a number of London merchants, was afterwards supported by the Edinburgh and Manchester Chambers of Commerce in memorials to Parliament. It was not only in itself an admirable exposure of the evils of a protective system, but led to the appointment of a Parliamentary Committee, which, under the inspiration of Huskisson, Baring, Wallace, and others, reported in a sense favourable to Free Trade. Huskisson’s reforms followed, but his death, in 1830, again put a stop to financial progress. The burdens on the British consumer at this time (1820) were described by Sydney Smith, in the Edinburgh Review, in the following passage:—
+
+‘Taxes upon every article which enters into the mouth, or covers the back, or is placed under the foot. Taxes upon everything which it is pleasant to see, hear, feel, smell, or taste. Taxes upon warmth, light, and locomotion. Taxes on everything on earth or under the earth, on everything that comes from abroad or is grown at home. Taxes on the raw material, taxes on every fresh value that is added to it by the industry of man. Taxes on the sauce which pampers man’s appetite, and the drug which restores him to health; on the ermine which decorates the judge, and the rope which hangs the criminal; on the poor man’s salt and the rich man’s spice; on the brass nails of the coffin, and the ribbons of the bride; at bed or board; couchant or levant, we must pay. The schoolboy whips his taxed top; the beardless youth manages his taxed horse, with a taxed bridle, on a taxed road; and the dying Englishman, pouring his medicine, which has paid 7 per cent., into a spoon that has paid 15 per cent., flings himself back upon his chintz bed, which has paid 22 per cent., and expires in the arms of an apothecary who has paid a licence of a hundred pounds for the privilege of putting him to death. His whole property is then immediately taxed from 2 to 10 per cent. Besides the probate, large fees are demanded for burying him in the chancel. His virtues are handed down to posterity on Edition: current; Page: [118] taxed marble, and he will then be gathered to his fathers, to be taxed no more.’
+
+Under these circumstances, the London merchants approached the House of Commons.
+
+To the Honourable the Commons of Great Britain and Ireland:—
+
+The Petition of, etc.
+
+Humbly showeth,
+
+That foreign commerce is eminently conducive to the wealth and prosperity of a country, by enabling it to import the commodities for the production of which the soil, climate, capital, and industry of other countries are best calculated, and to export in payment those articles for which its own situation is better adapted.
+
+That freedom from restraint is calculated to give the utmost extension to foreign trade, and the best direction to the capital and industry of the country.
+
+That the maxim of buying in the cheapest market, and selling in the dearest, which regulates every merchant in his individual dealings, is strictly applicable as the best rule for the trade of the whole nation.
+
+That a policy founded on these principles would render the commerce of the world an interchange of mutual advantages, and diffuse an increase of wealth and enjoyments among the inhabitants of each State.
+
+That, unfortunately, a policy the very reverse of this has been, and is, more or less, adopted and acted upon by the Government of this and of every other country, each trying to exclude the productions of other countries, with the specious and well-meant design of encouraging its own productions, thus inflicting on the bulk of its subjects who are consumers, the necessity of submitting to privations in the quantity or quality of commodities, and thus rendering what ought to be the source of mutual benefit and of harmony among States, a constantly-recurring occasion of jealousy and hostility.
+
+That the prevailing prejudices in favour of the protective or restrictive system may be traced to the erroneous supposition that every importation of foreign commodities occasions a diminution or discouragement of our own productions to the same extent, whereas it may be clearly shown that although the particular description of production which could not stand against unrestrained foreign competition would be discouraged, yet, as no importation could be continued for any length of time without a corresponding exportation, direct or indirect, there would be an encouragement, for the purpose of that exportation, of some other production to which our situation might be better suited, thus affording at least an equal, and probably a greater, and certainly a more beneficial employment to our own capital and labour.
+
+That, of the numerous protective and prohibitory duties of our commercial code, it may be proved, that while all operate as a very heavy tax on the community at large, very few are of any ultimate benefit to the classes in whose favour they were originally instituted, and none to the extent of the loss occasioned by them to other classes.
+
+That, among the other evils of the restrictive or protective system, not the least is, that the artificial protection of one branch of industry, or source of production, against foreign competition, is set up as a ground of claim by other branches for similar protection, so that if the reasoning upon which these restrictive or prohibitory regulations are founded were followed out consistently, it would not stop short of excluding us from all foreign commerce whatsoever. And the same train of argument, which, with corresponding prohibitions and protective duties, should exclude us from foreign trade, might be brought forward to justify the re-enactment of restrictions upon the interchange of productions (unconnected with public revenue) among the kingdoms composing the union, or among the counties of the same kingdom.
+
+That an investigation of the effects of the restrictive system, at this time, is peculiarly called for, as it may, in the Edition: current; Page: [120] opinion of your petitioners, lead to a strong presumption that the distress which now so generally prevails is considerably aggravated by that system, and that some relief may be obtained by the earliest practicable removal of such of the restraints as may be shown to be most injurious to the capital and industry of the community, and to be attended with no compensating benefit to the public revenue.
+
+That a declaration against the anti-commercial principles of our restrictive system is of the more importance at the present juncture inasmuch as, in several instances of recent occurrence, the merchants and manufacturers in foreign States have assailed their respective Governments with applications for further protective or prohibitory duties and regulations, urging the example and authority of this country, against which they are almost exclusively directed, as a sanction for the policy of such measures. And certainly, if the reasoning upon which our restrictions have been defended is worth anything, it will apply in behalf of the regulations of foreign States against us. They insist upon our superiority in capital and machinery, as we do upon their comparative exemption from taxation, and with equal foundation.
+
+That nothing would more tend to counteract the commercial hostility of foreign States than the adoption of a more enlightened and more conciliatory policy on the part of this country.
+
+That although, as a matter of mere diplomacy, it may sometimes answer to hold out the removal of particular prohibitions, or high duties, as depending upon corresponding concessions by other States in our favour, it does not follow that we should maintain our restrictions in cases where the desired concessions on their part cannot be obtained. Our restrictions would not be the less prejudicial to our capital and industry because other Governments persisted in preserving impolitic regulations.
+
+That, upon the whole, the most liberal would prove to be the most politic course on such occasions.
+
+That, independent of the direct benefit to be derived by this country on every occasion of such concession or relaxation, a great incidental object would be gained by the recognition of a sound principle or standard to which all subsequent arrangements might be referred, and by the salutary influence which a promulgation of such just views by the legislature, and by the nation at large, could not fail to have on the policy of other States.
+
+That in thus declaring, as your petitioners do, their conviction of the impolicy and injustice of the restrictive system, and in desiring every practicable relaxation of it, they have in view only such parts of it as are not connected, or are only subordinately so, with the public revenue. As long as the necessity for the present amount of revenue subsists, your petitioners cannot expect so important a branch of it as the Customs to be given up, nor to be materially diminished, unless some substitute, less objectionable, be suggested. But it is against every restrictive regulation of trade, not essential to the revenue—against all duties merely protective from foreign competition—and against the excess of such duties as are partly for the purpose of revenue and partly for that of protection, that the prayer of the present petition is respectfully submitted to the wisdom of Parliament.
+
+Your petitioners therefore humbly pray that your honourable house will be pleased to take the subject into consideration, and to adopt such measures as may be calculated to give greater freedom to foreign commerce, and thereby to increase the resources of the State.

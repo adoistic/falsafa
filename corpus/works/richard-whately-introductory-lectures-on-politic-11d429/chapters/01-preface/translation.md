@@ -1,0 +1,33 @@
+---
+work_id: "11d42991-e13d-5b05-8d05-4606f753fa4c"
+work_slug: "richard-whately-introductory-lectures-on-politic-11d429"
+work_title: Introductory Lectures on Political Economy
+author_name: Richard Whately
+chapter_number: 1
+chapter_title: Preface
+chapter_slug: "01-preface"
+variant_id: "986ff158-d897-59ee-b0b9-84f56089e107"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 886
+source_url: "https://oll.libertyfund.org/titles/whately-introductory-lectures-on-political-economy"
+translator: Online Library of Liberty edition
+---
+
+The following pages are presented to the public, in compliance with a requisition of the Statute relative to the Professorship of Political-Economy, that one Lecture at least shall be published every year.
+
+Conceiving that one object of that provision must be, that the Public may have some knowledge of what sort of Lectures on the subject are annually delivered at Oxford, I have not thought myself at liberty to make any material alterations in the Lectures as they were delivered. Otherwise, I might, perhaps, have endeavoured, to change the method and the style, adopted with a view to oral delivery, for such as might be more suited to the closet. Perhaps, indeed, I might, but for that requisition, have hesitated as to the publication of such a Work at all. For the title of it is not unlikely to deter one class of readers, and to disappoint another. Those who have never applied themselves to the study, may perhaps be led to anticipate, from the title of Political-Economy, something dry, abstruse, and uninteresting; and those again who are, and have long been, conversant with it, may perhaps expect such discussions of various important questions, as I have thought it best not to enter on, in an introductory Course.
+
+It has been my first object, to combat the prevailing prejudices against the study; and especially those which represent it as unfavourable to Religion. Convinced as I am, that the world, as it always in fact has been governed by political-economists of some kind, must ultimately be under the guidance of such as have systematically applied themselves to the science, I could not but regard it as a point of primary importance, to remove the impression existing in the minds of many, both of the friends and the adversaries of Christianity, as to the hostility between that and the conclusions of Political-Economy.
+
+It was indeed, in great measure, this feeling, that induced me to offer myself as a candidate for the Professorship. I considered myself, in this, to be contributing, as far as lay in me, to second what has been done by the University of Oxford, towards counteracting the false and dangerous impressions to which I have alluded.
+
+By accepting the endowment of a Professorship of Political-Economy, the University may be regarded as having borne her public testimony against that prejudice; and as having thus rendered an important service to the Public, independently of the direct benefits resulting from the cultivation of the science. And subsequently, in appointing to the Professorship one of her members, who is not only professionally devoted to the Ministry of the Gospel, but whom she has judged worthy (in the office of Bampton Lecturer, and three times in that of Select Preacher,) to offer religious instruction to an academical audience, she has implied the full conviction of a Body which is above all suspicion of indifference to Christianity, that there is at least no discordancy between that and the pursuits of the political-economist. However slender may be my qualifications in the science, (a science which no one, I conceive, has as yet fully mastered,) the University has at least testified, in the appointment, the most complete dissent from the notion, that the studies of Political-Economy and of Theology are unfriendly to each other.
+
+It is unnecessary, I trust, to observe, that these circumstances relative to myself are not brought forward by way of testimonials or recommendations on my own behalf. One who has been ten years before the public as an author, must be very sure that, as an author, the public will judge of him for themselves, without seeking, or attending to, any testimonials from the Society he belongs to. But it is on account of the University herself that I mention these circumstances; as furnishing a full vindication of the Academical Body, as such, from all suspicion of participating in those narrow prejudices, which would set Science and Religion in array against each other.
+
+I trust that, before many years shall have elapsed, the views of the University in accepting, and of her public-spirited Benefactor in founding, the Professorship, will be to a considerable extent realized;—that idle prejudices against the Science will be done away by a distinct view of its real character;—and that there will be no one who will not be ashamed of employing, much more of deliberately recommending, (as some have ventured to do,) undefined language, and a loose style of reasoning, in a subject in which the most careful accuracy of expression is most especially called for. I trust that, while due encouragement shall still be afforded to those more strictly professional studies which conduce to the professional advancement in life of each individual, Political-Economy will, ere long, be enrolled in the list of those branches of knowledge, which more peculiarly demand the attention of an endowed University; those, namely, which, while the cultivation of them is highly important to the Public at large, are not likely to be forwarded by the stimulus of private interest operating on individuals. The time is not, I trust, far distant, when it will be regarded as discreditable not to have regularly studied those subjects, respecting which, even now, every one is expected to feel an interest—most are ready to adopt opinions—and many are called on to form practical decisions.

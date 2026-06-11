@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 10,
+  "chapter_title": "CHAP. VIII.: SOURCE OF THE EVILS OF SOCIETY.",
+  "chapter_slug": "10-chap-viii-source-of-the-evils-of-society",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b83adb30-7c4a-5e72-ab05-e81e7d3a7c7a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 625,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

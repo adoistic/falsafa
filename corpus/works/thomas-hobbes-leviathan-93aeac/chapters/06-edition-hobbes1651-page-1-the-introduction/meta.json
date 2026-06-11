@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 6,
+  "chapter_title": "Edition: Hobbes1651; Page: [1]THE INTRODUCTION.",
+  "chapter_slug": "06-edition-hobbes1651-page-1-the-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d2b0c4a0-f589-5fb4-8466-da5b3d137e66",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 830,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

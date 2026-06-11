@@ -1,0 +1,26 @@
+{
+  "work_slug": "nicholas-barbon-a-discourse-of-trade-e7c561",
+  "work_title": "A Discourse of Trade",
+  "chapter_number": 4,
+  "chapter_title": "|9| Of the Quantity and Quality of Wares.",
+  "chapter_slug": "04-9-of-the-quantity-and-quality-of-wares",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c86e2269-316d-503f-a7d0-e0de1c8327c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 581,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/barbon-a-discourse-of-trade"
+    }
+  ]
+}

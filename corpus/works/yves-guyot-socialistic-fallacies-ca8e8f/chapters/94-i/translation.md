@@ -1,0 +1,53 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 94
+chapter_title: I.
+chapter_slug: "94-i"
+variant_id: "e97d7199-c24a-5744-a3c1-e038bbe28d41"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1223
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+On Friday, March 8th, 1907, shortly after five o'clock in the afternoon, it was observed in parts of Paris that the supply of electricity had failed. Lifts stopped suddenly, cafés, restaurants and a portion of some of the great streets of Paris, to say nothing of private houses, were plunged in darkness.
+
+The President of the Council, M. Clemenceau, has told us that he felt the same surprise as the ordinary passer-by and that the existence of the strike was only revealed to him by the extinction of the lights in his study.
+
+How is this possible? We have a formidable Prefecture of Police, doubled in power by the detective service, and despite the millions which are spent upon these institutions and the numbers of agents employed by them, no one suspected an act which had been determined upon overnight at the Labour Exchange and had been the object of a circular addressed in the morning to some hundreds of men. Was there incapacity or complicity on the part of the police? This is the first problem to suggest itself.
+
+Paris remained in darkness during the Friday night. No effective measures were taken to make the generators work. M. Jaurès complained of M. Clemenceau's whims in sending soldiers to replace the defaulting electricians. But this was not Edition: current; Page: [285] the case; not a single soldier had been sent on the Friday evening, and it was on that evening that they ought to have been despatched to the generators, which ought to have been at work by eight o'clock.
+
+The majority of the workmen employed are not men with technical knowledge whom it would have been difficult to replace; they are merely stokers, and one is therefore entitled to ask why the authorities made no attempt to replace them. The answer is a simple one. They were afraid of being attacked, and they could not obtain workmen unless the latter felt themselves to be protected. Now, were the electrical works protected? Were they immediately occupied by troops? The night between the Friday and the Saturday remains full of obscurity.
+
+In the discussion which took place on March 11th between M. Jaures and M. Clemenceau, M. Jaurès declared that there was no question of a public service. Nevertheless in the strike of the Southern Tramways, the strikers relied upon the public character of the service to demand the forfeiture of the Company's concession. M. Jaurès seems to think that there can be no public service except on condition that the State or the Municipalities carry it on directly. He confounds the means and the object.
+
+M. Jaurès, who is a doctor of philosophy, is familiar with all the subtleties of the schoolmen which are useful for giving the go-by to questions of difficulty.
+
+But what was this strike all about? The strikers wanted to bring pressure to bear upon the administration and the Municipal Council in order to obtain more advantageous conditions of wages and of pensions from the holders of the concessions who employed them. Consequently the very motive of their strike implies a recognition by Edition: current; Page: [286] them of the character of the service in which they have a part to play.
+
+This strike at the same time shews the error committed by the administration in paying attention to questions of this kind. If an administration is willing to determine the wages and conditions of labour of the employees of a company which works a concession, why does it not also pay attention to the prices at which such a company ought to pay for its coal, machinery, raw material and tools? This would be all the more justifiable in that, by forcing them to pay higher prices for them, it would give a reason to the miners, mechanics and other workmen employed by the firms which supply the company for obtaining an increase of wages.
+
+All these proposals can have but one result—to make the taxpayer pay more dearly for a service of a public nature; and, if the end be attained, the result implies that a contribution is levied upon everyone for the benefit of a small body of wage-earners who become a privileged class. It is the organisation of privileges for the benefit of a few and to the detriment of all, while democracy must stand for equality, and imply government by all.
+
+Thus a form of oligarchy is introduced, and this fact alone demonstrates the flagrant contradiction which exists between Socialism and Democracy. In a Democracy, inasmuch as the administration and the Government represent the common interest, it is not for them to trouble themselves with the relations between the holders of concessions and their employees; they need have one preoccupation only—to secure a supply of electricity to the Municipality and the consumers at the lowest possible price. The Municipality only had the right to interfere in the fixing of this price in exchange for the wayleaves which it grants over the public highways.
+
+In his interpellation on March 11th, M. Jaurès Edition: current; Page: [287] repeated over and over again that the strike was legal and that its organisers had respected the law. Is this so? Did they not declare the strike without a moment's notice? Was not their going on strike done by surprise? Yet there is an obligation to give notice in the electrical, as in other industries. They paid no regard to it, and consequently did not respect the law in the manner attributed to them by M. Jaurès. One knows who were the organisers of the strike. MM. Griffuelhes, Yvetot, Passerieu, and some others proudly laid claim to the honour. They should also have borne the responsibility.
+
+The holders of the concessions ought to have brought actions against them and claimed damages. They did not do so, and thereby gave fresh strength to the organisers of “direct action,” since the latter have obtained fresh proof that they can with impunity persist in practices which, far from prejudicing them, increase their notoriety and importance.
+
+But employers of labour and traders, among those who suffered damage, ought to have brought actions against the holders of the concessions. The latter would have taken refuge in a plea of vis major, but would have been ordered to institute proceedings against the organisers of the strike without delay, and we should have seen what relief the law can give.
+
+When an event occurs such as the electricians' strike, people agitate and demand fresh legislation, and Parliament sometimes doubles the number of existing laws or manufactures bad ones. But one ought first to inquire whether legislation cannot force its authors to incur some responsibility. Speaking generally, it is not the laws which are wanting, but the moral energy of those who ought to apply them.
+
+In this connection, the General Confederation of Labour supplies a remarkable example. It knew Edition: current; Page: [288] how to act. It knew, down to the smallest detail, how to lead the electricians, but manufacturers and traders also have trade combinations. What advantage did they take of the fact? They remained passive, and the General Confederation of Labour was able to justify the strike by saying, “We had only to act in order to obtain what we wanted. Everyone capitulated before us.”
+
+If the law be insufficient, it must be amended.

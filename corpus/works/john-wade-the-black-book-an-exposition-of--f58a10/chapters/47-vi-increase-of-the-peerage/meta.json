@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 47,
+  "chapter_title": "VI.: INCREASE OF THE PEERAGE.",
+  "chapter_slug": "47-vi-increase-of-the-peerage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9f6789b-90f6-5e09-831b-1bf4d74065c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1145,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

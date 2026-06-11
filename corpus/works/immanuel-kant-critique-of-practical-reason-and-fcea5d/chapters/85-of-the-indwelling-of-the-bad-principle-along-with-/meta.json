@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 85,
+  "chapter_title": "OF THE INDWELLING of the BAD PRINCIPLE ALONG WITH THE GOOD; or, ON THE RADICAL EVIL IN HUMAN NATURE.",
+  "chapter_slug": "85-of-the-indwelling-of-the-bad-principle-along-with-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08fb827b-2999-5c73-a3ca-6b25eea5b185",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1056,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

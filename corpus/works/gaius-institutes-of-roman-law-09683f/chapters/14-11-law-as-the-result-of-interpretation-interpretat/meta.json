@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 14,
+  "chapter_title": "§ 11.: Law as the result of Interpretation.—Interpretation by the Magistrate.",
+  "chapter_slug": "14-11-law-as-the-result-of-interpretation-interpretat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99251450-5b03-537c-89b5-3f2e5a7b70d6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1387,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

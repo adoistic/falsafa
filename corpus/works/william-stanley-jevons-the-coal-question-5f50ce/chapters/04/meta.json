@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-coal-question-5f50ce",
+  "work_title": "The Coal Question",
+  "chapter_number": 4,
+  "chapter_title": "Chapter III: GEOLOGICAL ASPECTS OF THE QUESTION.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5c54a17-af47-5f44-a9e7-21b168f921af",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3620,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-coal-question"
+    }
+  ]
+}

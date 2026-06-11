@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 44,
+  "chapter_title": "IX.—: Grounds of Justification and Excuse.",
+  "chapter_slug": "44-ix-grounds-of-justification-and-excuse",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28c09cd0-843c-524d-84d9-97ab3ec1609e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5223,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

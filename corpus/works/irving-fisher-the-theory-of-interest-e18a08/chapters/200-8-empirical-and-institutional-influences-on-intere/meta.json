@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 200,
+  "chapter_title": "§8. Empirical and Institutional Influences on Interest Rates",
+  "chapter_slug": "200-8-empirical-and-institutional-influences-on-intere",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "175076c2-f1a2-5914-9e63-644b2ef4d432",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1004,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

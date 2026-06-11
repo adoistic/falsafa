@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 77,
+  "chapter_title": "SIX POLITICAL TRACTS WRITTEN ON SEVERAL OCCASIONS.",
+  "chapter_slug": "77-six-political-tracts-written-on-several-occasions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29672252-ccda-50a3-87ac-9be09b086b96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 68,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

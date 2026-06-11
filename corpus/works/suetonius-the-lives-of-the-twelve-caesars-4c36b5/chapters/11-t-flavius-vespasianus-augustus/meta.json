@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 11,
+  "chapter_title": "T. FLAVIUS VESPASIANUS AUGUSTUS.",
+  "chapter_slug": "11-t-flavius-vespasianus-augustus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba46f96c-2784-5195-baa1-0e534f1b08ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7240,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "bruce-smith-liberty-and-liberalism-163e57",
+  "work_title": "Liberty and Liberalism",
+  "chapter_number": 7,
+  "chapter_title": "Chapter V THE PRINCIPLES OF TRUE LIBERALISM.",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc078c8f-e93a-5e99-a58e-207d94b2174f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17325,
+      "paragraph_count": 118,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-liberty-and-liberalism-1888"
+    }
+  ]
+}

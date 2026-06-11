@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 60,
+  "chapter_title": "APPENDIX B THE GROWTH OF ECONOMIC SCIENCE.",
+  "chapter_slug": "60-appendix-b-the-growth-of-economic-science",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2c38fb7-daa2-5e82-bdb6-7b24a23379b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5990,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

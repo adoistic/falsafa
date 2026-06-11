@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 83,
+  "chapter_title": "CHAPTER XXXVII.: speech at rochdale—the land question—correspondence—last days and death.",
+  "chapter_slug": "83",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3cd5e03-dac8-5e3e-b5cc-0b6c02e0d5b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6454,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

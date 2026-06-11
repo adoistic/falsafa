@@ -1,0 +1,26 @@
+{
+  "work_slug": "thorstein-veblen-the-theory-of-the-leisure-class-fa79bc",
+  "work_title": "The Theory of the Leisure Class",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER XII: Devout Observances",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a78d34cb-a80e-5362-bc76-92ca5507b1aa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10566,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/veblen-the-theory-of-the-leisure-class-an-economic-study-of-institutions"
+    }
+  ]
+}

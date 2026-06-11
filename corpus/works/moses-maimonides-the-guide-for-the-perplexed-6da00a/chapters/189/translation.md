@@ -1,0 +1,21 @@
+---
+work_id: "6da00a83-f993-57d9-ba7d-256248f7a5ee"
+work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
+work_title: The Guide for the Perplexed
+author_name: Moses Maimonides
+chapter_number: 189
+chapter_title: CHAPTER XI
+chapter_slug: 189
+variant_id: "adec58ed-a07f-5835-880c-66aeae7993cf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 251
+source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+translator: Online Library of Liberty edition
+---
+
+All the great evils which men cause to each other because of certain intentions, desires, opinions, or religious principles, are likewise due to non-existence, because they originate in ignorance, which is absence of wisdom. A blind man, for example, who has no guide, stumbles constantly, because he cannot see, and causes injury and harm to himself and others. In the same manner various classes of men, each man in proportion to his ignorance, bring great evils upon themselves and upon other individual members of the species. If men possessed wisdom, which stands in the same relation to the form of man as the sight to the eye, they would not cause any injury to themselves or to others; for the knowledge of truth removes hatred and quarrels, and prevents mutual injuries. This state of society is promised to us by the prophet in the words: “And the wolf shall dwell with the lamb,” etc.; “and the cow and the bear shall feed together,” etc.; and “the sucking child shall play on the hole of the asp,” etc. (Isa. xi. 6 seq.). The prophet also points out what will be the cause of this change; for he says that hatred, quarrel, and fighting will come to an end, because men will then have a true knowledge of God. “They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea” (ibid. ver. 9). Note it.

@@ -1,0 +1,89 @@
+---
+work_id: "61088004-fe0b-5e6b-81df-ab5e37a33ff5"
+work_slug: "pelatiah-webster-political-essays-on-the-nature-a-610880"
+work_title: Political Essays on the Nature and Operation of Money
+author_name: Pelatiah Webster
+chapter_number: 13
+chapter_title: "STRICTURES ON A Publication in the Freeman’s Journal of May 16, 1781, signed TIMOLEON. [First published in Philadelphia,"
+chapter_slug: "13-strictures-on-a-publication-in-the-freeman-s-journ"
+variant_id: "9a345769-73be-5ccb-875c-fb3aac1d7c78"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3006
+source_url: "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+translator: Online Library of Liberty edition
+---
+
+IT is of no consequence to the public, whether Timoleon or myself have the blackest heart, the foulest mouth, or the most spiteful pen. I yield to him the palm in every article of personal abuse, sly innuendo, or gross scandal; I mean to consine myself to such particulars as the public have an interest in.
+
+In my Remarks on the Resolution for raising the Exchange, I observed that the Council, in their defence, had urged that both the laws of the State, and their oaths of office, required what they had done.
+
+I replied, that the exchange which they had published for several successive months, was not the true exchange; and therefore could not satisfy either the law or their oaths of office. Mr. T. seems to deny this, but says, the virtuous part of the community represented the exchange as various from 150 to 200 or 225. This I deny, and call on mr. T. to produce one virtuous person of the community, of Edition: current; Page: [[182]] knowledge sit to be consulted, who ever told the Council the exchange on the date of their resolution was 175; or one respectable merchant (as he goes on to assert) who ever said or agreed that the exchange in March or April last, was 75 for 1. The contrary of both is well known to every body in this city. Plain fact is here notoriously against mr. T.; for which I appeal to the whole city, who are the most competent judges.
+
+What mr. T. asserts, and I deny, is this, viz. that the exchange of hard money was here in February, March, and April last, at 75 for 1, and in May 2d, instant, at 175 for 1. I do not begrudge mr. T. the whole credit of his fetch, viz. “that the act of Assembly does not require the Council to publish the most current rate, but simply the rate of exchange;” but whatever credit this precious subtilty may give to his ingenuity, it can afford no help to his argument; because the exchange does mean the current or usual exchange, from the force of the particle the, for which I refer to the most common English Grammar of the schools. The words are not an exchange, or any exchange, but the exchange, which cannot with any propriety mean any but that particular one which was most current or usual at the time.
+
+But mr. T. cannot possibly understand this mystery, how a buyer can be a loser by the Council’s declaring the exchange 175. I can easily explain this matter of fact; before the date of that declaration, with 220 dollars the buyer could purchase candles or fish to the value of one hard Edition: current; Page: [[183]] dollar; but after that declaration, he must pay 500 of the same dollars for the same goods; his loss therefore is the difference between 220 and 500, i. e. 280, or something more than eleven shillings in the pound.
+
+This is a computation grown very familiar in the city; and I cannot but wonder it should remain so long a mystery to mr. T.; for this same reason, or to use the numerical figures of the resolution (to make the matter plainer to mr. T. who discovers much mystery, and some mystery of mysteries in the matter) because that 175 dollars bring no more after the resolution, than 75 would bring before, every possessor of Cnntinental money, and of course the public treasury, loses 4-7ths of all they have on hand, and all debts due and payable in that currency.
+
+This he confidently asserts to be a falsehood. I think he might be ashamed to deny a truth of public notoriety; but if he is really so dull as not to be able to see this, it is manifest the Council see it very plain, as is very evident by their attempt (tho’ a vain one) to obviate the mischiefs of it, in the payment of taxes, fines, &c. and which, he says, is the real and true cause of much of the clamor against the Council’s resolution.
+
+But in this he is very much mistaken, because the remedy adopted by the Council is void of effect, as it does not reach or remedy the mischief; for tho’ the tories and whigs too cannot pay their State money for taxes at more than 75, yet they can and daily do change their State money for Continental, and pay their taxes with much less than half the real value which those paid, who paid their taxes before the resolution was published, and this is publicly known to every body. Nor can I see any thing but personal honesty which prevents all our collectors from changing all the State money which they received before the resolution, for old Continental; Edition: current; Page: [[184]] and paying that into the treasury. This is the blessed way in which (it is the peculiar felicity of mr. T. to discover) our treasury has been enriched since the resolution.
+
+If it still does not appear to mr. T. that the old Continental money, either in his own desk or in the treasury, is reduced to less than half the value it had before the resolution, the best way I know of to satisfy himself is, to take some of it to buy any necessaries, and he will, I doubt not, have a practical proof too strong to admit a doubt; and if in this or any other way he should happen to be convinced, I shall expect that he will publicly acknowledge it, for his own sake.
+
+But to follow mr. T. a little further. I have said in my Remarks, that “the resolution of Council declares (if not expressly, at least in effect, and all the effect that it could in reason be supposed to have) that the exchange of old Continental to State money, is 175 for 1.” This mr. T. denies with great triumph. I must beg the reader’s attention here a moment; the words of the law are, that the Council are required to publish “the then rate of exchange between specie and Continental money, which exchange, so published, shall be the exchange of the Continental money and the State money,” &c. in which it is manifest, that the most express design of publishing the exchange of specie, was thereby to fix the exchange of the State money on a par with it; this was the effect which the legislature intended, and the very effect which the Council intended, as appears by their provision against the effects of it, in the case of taxes, fines, &c.
+
+Yet mr. T. with great assurance asks, “What has this to do with the Council’s publication, which has not State money in contemplation?” His law logic helps him out but poorly here, viz. that the operation of the law on this publication, and not this publication itself, produced the effect; he might as well deny that a miller grinds wheat, because the millstones grind it; or that a man travels a journey on horseback, because the horse only travels; for it is very plain, that the law, without this publication, would no Edition: current; Page: [[185]] more have raised the exchange of State money, than the mill would grind the wheat without the miller to set it agoing, or the horse perform the journey without the rider on his back. I therefore conclude, that every one will be convinced that my proposition is true; and if it is true, mr. T. acknowledges that “my observation will apply.”
+
+Mr. T. among other reasons why the Council did not raise the exchange last month, gives this one, viz. the speculation at Boston and Rhode-Island improved the credit of the old Continental money here, and therefore was not to be interrupted by any disadvantageous alteration of the exchange.
+
+This speculation was, to purchase Continental here at 220 for 1, and sell it at Boston for 75; but in the very next paragraph, he reprobates the same kind of speculation to the Jersies very severely, I suppose, because it was not so profitable. “Is this,” says he, “a traffic which public counsels are to promote and encourage?” I have no where said these speculations were good, I mentioned them as bad things; and all I said, and all my argument required, was, that they were but bubbles of a day, &c. and could not justify so dangerous and ruinous a measure, as raising the exchange to prevent their mischief, because this would make the remedy worse than the disease.
+
+I did oppose the tender-act, which is the act in question (see my Strictures on Tender-acts, p. 128) whilst it was under consideration, with all the power I was able, and in the most public way; and therefore, in mr. T.’s opinion, my indecency, Edition: current; Page: [[186]] as he calls it, may have some palliation But I can see no indecency in pointing out the evils or impracticabilities of a law, which the whole community must suffer; if this is done in such a way as tends to a remedy. The numberless instances of private distress, as well as the starving condition of all the public departments, and especially the unprovided state of the army, were my great inducements to write my Remarks, and thereby expose the errors which at least aggravated our calamities. I have no ill will to the Council, I have none to the Assembly; but I wish the wisdom of both may increase, and all their errors may be mended.
+
+I cannot forbear animadverting a little on the rancorous, malignant conclusion of mr. T. in his invective against some of our citizens. I think a little decency to the place which gives him bread, might have induced him to spare his black epithets. It is a foul bird that besmears his own nest. But if he intends (as perhaps he does) to apply any of his detestable characters to me personally, I have only to aver, they are sheer abuse, without the least foundation of truth.
+
+I did, indeed, on repeated advices of the great distress of Boston, for flour and iron, in 1777, load a vessel of my own with a cargo of both, and sailed for Boston, but was (on April 6) unfortunately taken on the passage, by the Orpheus, English frigate, and carried into Rhode-Island, where, after a month’s imprisonment, I was released on exchange, having lost my whole vessel and cargo, to the amount of about 2000l. hard money; for which I never had, nor do expect ever to have, the least compensation from them.
+
+I also did remain in the city when the British troops captured it, having, among other reasons, a child in the smallpox at the time, who could not be removed; but it is not true that I enjoyed the least friendly or considential intercourse with them or their adherents.
+
+I spent three months of the time in visiting the American prisoners in the gaols here, and procuring and carrying to their relief, such sood and clothing as I could collect, at a time when their distresses were beyond all description, and when it was deemed a crime to show compassion to Edition: current; Page: [[187]] them; and on the 6th of February, 1778 (long before there was any probability of an evacuation of the city) I was committed to gaol, and suffered not a collusive, but a most severe, confinement of 132 days, without being able, by every possible application, to obtain any knowledge of the cause of my confinement; but the presumption generally admitted was, that my constant and careful attendance on the American prisoners was thought to imply too strong an attachment to Americans, to be compatible with either the duty or protection of a British subject.
+
+As to what mr. T. very malignantly suggests about reviling government, evading resolutions of committees, and croaking discontent, I beg leave to observe, that I never have opposed either projects of committees, or measures of government, except such as have since, on the fullest experiment, and the plainest demonstration of fact, been reprobated Edition: current; Page: [[188]] by our gravest counsels, and condemned by the general consent of Americans as bad policy; such as limitations of prices, sorcing sales of private property, tender-acts, emitting deluges of paper currency, fixing the value of paper currency by law, and other absurdities which have involved America in greater calamities than the British arms.
+
+And I freely submit it to every found American, whether I may not, with good right, and without vanity, boast of it as an instance and proof of sound judgment and most genuine patriotism, that I have early discovered and opposed those ill-judged and pernicious expedients, which, by the general voice of America, are now execrated as the undoubted sources and causes of our present corrupted morality, enervated state of defence, ruin of public faith, prostitution of national character, loss of the confidence of our friends, contempt and disgrace abroad, and confusion at home.
+
+I have, indeed, with great reluctance, opposed popular prejudices, when they were incapable of being controlled. But I freely submit it to my fellow-citizens, whether time and fact have not ever justified my conclusions, with this only difference, that the consequences have been verified in fact in a much stronger degree, and more aggravated mischief, than I have delineated. If one material instance of my opposition to projects of committees, or measures of government, different from this, can be produced, I am content to stand corrected in the face of the public; and I am consident my fellow-citizens will not suffer me to be oppressed, because I have told them the truth before every one could see it.
+
+I never once expressed or selt any dissatisfaction to the great cause of American liberty, but ever wished and promoted its success, as far as was in my power. The truth of every part of this declaration I do aver on my honor, and have the fullest proof of the facts, and doubt not my fellow-citizens will consider me as a much-injured man, and give full credit to what I say.
+
+I do at least call on mr. T. to produce the least spark of proof of the contrary. However injurious I consider his malignity, I am yet less affected by his publication, than I Edition: current; Page: [[189]] should have been by his secret whispers, which I could have no opportunity to contradict.
+
+I humbly beg leave to suggest further here, that out of these very facts, so spitefully misrepresented by mr. T. when they are candidly considered, arises a stronger proof of my attachment to the American cause, than most whigs are able to exhibit, and a much stronger proof than any which I even heard mr. T. ever has exhibited of his whiggism.
+
+My writings on finance are open to every body, and have met the approbation of many of the greatest men in America; and I believe mr. T. begins to feel the force of them: for I find he begins to ‘hope we shall have spirit enough to enforce a hard money tax,’ which has long made a part of my scheme of finance, and which mr. T. has constantly reprobated, till now. But this does not flatter my vanity much; for I believe he might as well ‘jump out of the garret into the street,’ as write on the subject of finance at all.
+
+I have only to beg the reader to keep his eye steadily on the facts, not on the colorings, of mr. T. or myself, and from those facts to form his judgment. Facts are hardy, stubborn things, which mr. T. or I may color indeed, but neither of us can break or bend them; such as follow, viz.
+
+1. Was the current exchange of specie in February, March, and April last, 75 for 1; or was it 175 for 1 on the 2d instant, as declared by Council?
+
+2. Was the exchange required by law to be published, an or any exchange, and not the current exchange, as mr. T. quibbles?
+
+3. Did the Council’s declaring the exchange of specie at 175, produce the same effect as declaring the exchange of State money at 175 would have done?
+
+4. Did the Council’s declaring the exchange of 75 in February, March, and April, and 175 in May, which was not the then current rate of exchange, satisfy either the words of the law, or their oaths of office?
+
+5. Did any respectable merchants, on consultation, inform the Council that the current exchange in February, March, and April last, was 75, or 175 on the 2d instant?
+
+6. Did the declaration of the Council on the 2d instant so operate on the old Continental money, as to reduce the value of it to less than half, both in private hands and in the public treasury?
+
+7. Did the raising the exchange in the Jersies afford reasons by any means sufficient to justify our following so fatal an example?
+
+These are some of the principal facts contested between mr. T. and myself. They are all matters of public notoriety. The public are not all beholden either to mr. T. or myself, for the knowledge of any of them, except the 5th, of which we must depend on mr. T. for the necessary proof.
+
+If the above facts and reasonings are true, I think it will follow, that the poison which mr. T. is so much concerned to find an antidote for, will prove to be these poison truths, which he fears will have an operation to his disadvantage. I am sorry, too, that they ever were truths. I am quite of opinion they are a sort of poison truths, which have done, and I fear will do, much hurt; and therefore I hope I may be excused for putting my mark of disapprobation on them.

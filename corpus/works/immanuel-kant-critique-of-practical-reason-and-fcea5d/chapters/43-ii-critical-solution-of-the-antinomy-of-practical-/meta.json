@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 43,
+  "chapter_title": "II.: —Critical Solution of the Antinomy of Practical Reason.",
+  "chapter_slug": "43-ii-critical-solution-of-the-antinomy-of-practical-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a905df9-86d4-59a2-a7c0-f74232398d84",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2177,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

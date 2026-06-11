@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 99,
+  "chapter_title": "§ 83.: Of the ultimate purpose of nature as a teleological system",
+  "chapter_slug": "99-83-of-the-ultimate-purpose-of-nature-as-a-teleolog",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60a14971-584f-53aa-9ebc-305274d6948c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1769,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

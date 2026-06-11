@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-tyrrell-patriarcha-non-monarcha-2d1ee5",
+  "work_title": "Patriarcha non Monarcha",
+  "chapter_number": 1,
+  "chapter_title": "THE PREFACE To the Reader.",
+  "chapter_slug": "01-the-preface-to-the-reader",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48df4a07-e141-56f2-9e86-5305d63e797b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1955,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tyrrell-patriarcha-non-monarcha-the-patriarch-unmonarch-d"
+    }
+  ]
+}

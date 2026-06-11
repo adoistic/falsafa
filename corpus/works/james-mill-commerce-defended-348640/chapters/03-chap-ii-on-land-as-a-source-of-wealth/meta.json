@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-commerce-defended-348640",
+  "work_title": "Commerce Defended",
+  "chapter_number": 3,
+  "chapter_title": "CHAP. II.: On Land, as a Source of Wealth.",
+  "chapter_slug": "03-chap-ii-on-land-as-a-source-of-wealth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cedbe30a-d92b-59fb-9bb4-556194549b2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 854,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-commerce-defended-1808"
+    }
+  ]
+}

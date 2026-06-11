@@ -1,0 +1,77 @@
+---
+work_id: "542875eb-ff23-56e6-8c35-7901b25dd56b"
+work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
+work_title: The Purchasing Power of Money
+author_name: Irving Fisher
+chapter_number: 128
+chapter_title: II. The Complete Formula
+chapter_slug: "128-ii-the-complete-formula"
+variant_id: "e242589a-45e4-5f85-9b98-6c2056d3717f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1704
+source_url: "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+translator: Online Library of Liberty edition
+---
+
+We have, however, still to consider the correction to be made for the less important forms of monetary circulation excluded from Figure 18.
+
+In order to estimate the degree of accuracy of the first approximation just made for the circulation of money, we need to compare this approximation with a complete formula framed to include all possible transfers of money against goods.There are nine possible kinds of transfers, three being respectively within each one of the three groups C, O, and N, and six being between each pair of these three, in either direction.
+
+The exchanges possible within a class are (1) those between one "Commercial depositor" and another "Commercial depositor" (2) those between one "Other depositor" and another; and (3) those between one "Nondepositor" and another. The transfers possible between classes are (4 and 5) those between "Commercial depositors" and "Other depositors" in either direction; (6 and 7) those between " Other depositors" and "Nondepositors" in either direction; and (8 and 9) those between "Nondepositors" and "Commercial depositors" in either direction. Thus there are three interclass kinds and six interclass kinds of transfers of money against goods.
+
+Figure 19 gives a complete picture of all these nine flows of money in exchange for goods; that is, of the entire "circulation of money." The nine flows are represented in the diagram by the nine arrows about the triangle, six being along the three sides of the triangle and representing interclass circulation, and three (c, o, and n) at the corners to represent interclass circulation. The remaining six arrows on the horizontal lines represent, of course, mere banking operations. The total circulation or monetary flow (F) in exchange for Edition: current; Page: [456] goods is, therefore, the sum of the magnitudes represented by these nine arrows, viz.
+
+F = Oc + Co + Nc + Cn + On + No + c + o + n. (1)
+
+This is an exact formula for the circulation of money. We shall now compare it with the inexact first approximation, namely, "money deposited plus expenditures of 'Nondepositors.'" This comparison will express the error of the first approximation, and will suggest a method of transforming the exact formula (1) into a shape more suitable for statistical application. First, we need to express algebraically the first approximation. This may easily be done by inspecting Figure 19.
+
+The total money deposited is Cb + Ob + Nb, while the total expenditure of "Nondepositors" is Nc + No. The sum of these two expressions we shall call F'. It is:—
+
+F' = Cb + Ob + Nb + Nc + No, (2) Edition: current; Page: [457]
+
+which is, therefore, the algebraic expression for the first approximation.
+
+To obtain the difference, F - F', between the exact and the approximate formula, we subtract (2) from (1), canceling Nc and No and placing the negative terms first. We thus obtain for a remainder (r) the following:—
+
+r = F - F' = - Cb -Ob - Nb + Oc +Co + Cn +On + c + o + n.(3)
+
+That the value of F - F' is small may be seen clearly by transforming (3). We shall transform it by means of another equation (4) given below. In order to derive this new equation (4), we shall need to make a digression. This new equation is merely a special application of the general principle that the net outflow (i.e. outflow minus inflow) from the contents of any reservoir must equal the net decrease in its contents during the same time, or (algebraically expressed) that the net outflow (positive or negative) plus the net increase in contents (negative or positive) must be zero. We may apply this principle to any reservoir or store of money, but shall here find it most helpful to apply it to the reservoir of money contained among the "Commercial depositors" and "Nondepositors" taken together as one group. Let us designate the combination of these two as the "CN group." The total outflow indicated in the diagram from this "CN group" is evidently Cb + Co + Nb + No, and the total inflow Bc + Oc + Bn + On. Hence, the net outflow, so far as the diagram shows us, is:—
+
+Cb + Co + Nb + No - Bc - Oc - Bn - On.
+
+This, plus the net outflow not shown in the diagram, is the true net outflow. Since the diagram was constructed to show only flows against goods (monetary circulation), and flows to or from banks, we have still to take account of money flowing in the community in exchange for something else than goods, and that flowing without any exchange at all, as well as any net outflow outside of the community.
+
+We have thus to take account of three undiagramed flows. Edition: current; Page: [458] The first is the net outflow of money from the "CN group" to the "O group," which, though in exchange, is not in exchange for goods. This means simply cashed checks, for, according to the classification we are here using, "goods" are taken to include anything exchangeable, not either money or checks. Our first correction is, therefore, the net outflow of money from the "CN group" for cashing checks, i.e. the difference between the checks cashed by the "CN group" for the "O group" and those cashed in the opposite direction.
+
+It will be understood that we have nothing to do here with the cashing of checks at banks, for this is included in the diagram (Bo, Bn, and Bc). Moreover, we have nothing to do here with cashing of checks within the "CN group," as when a storekeeper cashes a check presented by a "Nondepositor." We have only to do with the net outflow for cashed checks from CN to O. This net outflow (which may be positive, negative, or zero) we shall designate by the letter a, to stand for "accommodation" checks.
+
+For the second correction, we have to designate the net outflow of money given away by the "CN group" in gifts, taxes, thefts, etc., for which no specific goods are received in return. This net outflow may be designated by g.
+
+We have, thirdly and lastly, the net outflow of money with respect to the "CN group" outside of the community, i.e. the net amount of money which is lost to the country by export, fire, shipwreck, melting, etc., in excess of that imported, minted, etc. This net outflow may be designated by e, to stand for "external" outflow. Adding the net undiagramed outflow (a + g + e) to the net diagramed outflow, we have, for the total net outflow,
+
+Cb + Co + Nb + No - Bc - Oc - Bn - On + a + g + e.
+
+Now, on the reservoir principle already explained, the algebraic sum of this net outflow from the "CN group" and the net increase of the money in that group must be zero. That is, representing this net increase by i, we have
+
+O = Cb + Co + Nb + No - Bc - Oc - Bn - On + a + g + e + i. (4)
+
+We now place this new equation (4) under the old equation (3), giving the value of r = F - F' in the following manner:—
+
+Adding and canceling the terms of (3) and (4) indicated in parentheses, and rearranging the remaining terms, we have
+
+The letters are grouped in parentheses forming six terms, arranged, as far as can be judged, in the order of descending importance.
+
+By using the expression just obtained for r, the complete formula (1) for the circulation of money may now be put in a form suitable for statistical application. Since r = F - F', then F = F' + r. Substituting for F' and r the expression already given in equations (2) and (3)', we have, as a transformation of (1),
+
+= (1) all money deposited + (2) money expenditures of "Nondepositors" + (3) C's money expenditures from tills (i.e. money expenditures in excess of money withdrawn from bank) + (4) O's money receipts pocketed (i.e. money receipts in excess of money deposited in bank) + (5) intraclass monetary circulation + (6) CN's undiagramed net outflow of money + (7) CN's net increase of money on hand - (8) N's withdrawals of money from bank.
+
+This is a complete and universal formula for the circulation of money in any community. Its first two terms Edition: current; Page: [460] constitute the first approximation, and the other six terms constitute r, which may be called the "remainder term."
+
+The first and second terms are by far the most important. The last three terms—sixth, seventh and eighth—are doubtless quite negligible under all circumstances actually met with. I am also reasonably confident that, in the United States, the 3d, 4th, and 5th terms amount to less than 10 per cent of the total and probably less than 5 per cent. Therefore, the complete omission of all except the first two terms would still give us a fairly good figure for the total F; for any one familiar with the inaccuracies of statistics knows that 5 or 10 per cent is a small error, especially for a magnitude which has hitherto eluded any attempt at measurement.
+
+We may, therefore, distinguish three successive stages in our approximations. The first approximation comprises only the first two terms, viz. money deposited plus expenditures of "Nondepositors"; the second includes, in addition, terms (3), (4), and (5), viz. till-paid money expenditures of C, pocketed money receipts of O, and intraclass circulation; while the third is rendered absolutely complete by including terms (6), (7), and (8), none of which has practical importance. The complete formula is presented in the hope of arousing discussion and investigation which will disclose in particular to what extent it may be applied in countries where data exist for the first two terms, viz. money deposited and expenditures of "Nondepositors." The former is to a large extent a matter of daily record in most civilized countries, and the latter consists chiefly of wages, a magnitude which has for long been a favorite subject for statistical estimate.

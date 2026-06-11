@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 23,
+  "chapter_title": "To M. Porcius Cato (at Rome) Cilicia (January)",
+  "chapter_slug": "23-to-m-porcius-cato-at-rome-cilicia-january",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36f30f29-4712-5209-ae98-66588d78159e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2740,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

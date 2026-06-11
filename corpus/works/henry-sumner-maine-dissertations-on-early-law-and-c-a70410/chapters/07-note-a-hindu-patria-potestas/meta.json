@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-dissertations-on-early-law-and-c-a70410",
+  "work_title": "Dissertations on Early Law and Custom",
+  "chapter_number": 7,
+  "chapter_title": "Note A.: HINDU PATRIA POTESTAS.",
+  "chapter_slug": "07-note-a-hindu-patria-potestas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a3003c0-26f0-59e2-a604-41f12c052d74",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 453,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-dissertations-on-early-law-and-custom"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 31,
+  "chapter_title": "VII.: trade unions and strikes.",
+  "chapter_slug": "31-vii-trade-unions-and-strikes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8db395e2-5f98-50d0-8891-d43ec343a558",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2854,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

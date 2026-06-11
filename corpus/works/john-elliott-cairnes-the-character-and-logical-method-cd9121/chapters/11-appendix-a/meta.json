@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-elliott-cairnes-the-character-and-logical-method-cd9121",
+  "work_title": "The Character and Logical Method of Political Economy",
+  "chapter_number": 11,
+  "chapter_title": "Appendix A",
+  "chapter_slug": "11-appendix-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "846d88fc-d191-57ba-9b29-56cfaca41b94",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1845,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cairnes-the-character-and-logical-method-of-political-economy"
+    }
+  ]
+}

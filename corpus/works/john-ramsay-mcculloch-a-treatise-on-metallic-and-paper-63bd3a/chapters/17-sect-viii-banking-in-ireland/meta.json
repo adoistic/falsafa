@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
+  "work_title": "A Treatise on Metallic and Paper Money and Banks",
+  "chapter_number": 17,
+  "chapter_title": "Sect. VIII.—: Banking in Ireland.",
+  "chapter_slug": "17-sect-viii-banking-in-ireland",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3f2dbaa9-cf94-5cd2-b2c5-480bc4514a34",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 954,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858"
+    }
+  ]
+}

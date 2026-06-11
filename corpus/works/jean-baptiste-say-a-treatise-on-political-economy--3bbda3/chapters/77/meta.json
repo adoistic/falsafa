@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 77,
+  "chapter_title": "BOOK III, CHAPTER VII: OF THE ACTUAL CONTRIBUTORS TO PUBLIC CONSUMPTION.",
+  "chapter_slug": "77",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "218d9708-6254-53a6-bf96-0e3e5aa43349",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 964,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

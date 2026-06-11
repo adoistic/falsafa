@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 50,
+  "chapter_title": "CHAP. V.: Whether the Chirotonia mention’d in the fourteenth of the Acts be indeed, as is pretended by Dr. Mammond, Dr. ",
+  "chapter_slug": "50-chap-v-whether-the-chirotonia-mention-d-in-the-fou",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ef45f70-22a1-5906-8f77-e9e19bc40cdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13001,
+      "paragraph_count": 83,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

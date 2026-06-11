@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 20,
+  "chapter_title": "§17. Confusions to be Avoided",
+  "chapter_slug": "20-17-confusions-to-be-avoided",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3b9dc187-7eac-596d-b9ab-d168c5aaeb19",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1030,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

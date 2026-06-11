@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 12,
+  "chapter_title": "CHAP. X.: GENERAL CAUSES OF THE PROSPERITY OF ANCIENT STATES.",
+  "chapter_slug": "12-chap-x-general-causes-of-the-prosperity-of-ancient",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec704972-a192-5a59-96c2-843ea763be95",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1234,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

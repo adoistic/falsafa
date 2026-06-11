@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 130,
+  "chapter_title": "§ 8 (TO CHAPTER XII, § 4) Interpolating Values of V for 1897-1908",
+  "chapter_slug": "130-8-to-chapter-xii-4-interpolating-values-of-v-for-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a54831bd-6c5d-5d1b-838e-93c125d7f0a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 320,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

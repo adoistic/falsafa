@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 2,
+  "chapter_title": "SECT. II.: Of the principles of Self-preservation.",
+  "chapter_slug": "02-sect-ii-of-the-principles-of-self-preservation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa7b79b9-b933-5c75-a466-2f8c2aa557c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2096,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

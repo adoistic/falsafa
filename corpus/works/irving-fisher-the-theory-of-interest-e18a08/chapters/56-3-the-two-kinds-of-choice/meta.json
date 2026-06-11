@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 56,
+  "chapter_title": "§3. The Two Kinds of Choice",
+  "chapter_slug": "56-3-the-two-kinds-of-choice",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfca8cea-795d-5c3e-91df-173e673478da",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1580,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

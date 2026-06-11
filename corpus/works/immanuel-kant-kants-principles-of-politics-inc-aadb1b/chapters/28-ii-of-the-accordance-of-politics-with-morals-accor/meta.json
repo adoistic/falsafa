@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 28,
+  "chapter_title": "II: Of the Accordance of Politics with Morals according to the Transcendental Conception of Public Right.",
+  "chapter_slug": "28-ii-of-the-accordance-of-politics-with-morals-accor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4779bef3-dc92-5f90-b62b-05604a5a39a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6703,
+      "paragraph_count": 248,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

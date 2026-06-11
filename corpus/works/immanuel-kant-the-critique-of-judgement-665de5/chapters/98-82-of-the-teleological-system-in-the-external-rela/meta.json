@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 98,
+  "chapter_title": "§ 82.: Of the teleological system in the external relations of organised beings",
+  "chapter_slug": "98-82-of-the-teleological-system-in-the-external-rela",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11b56996-4b5b-5015-974c-ca6d0f76d1d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1739,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

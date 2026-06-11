@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 28,
+  "chapter_title": "IV: MY CONVERSATION WITH BERRYER, ON THE 21ST OF JUNE, AT AN APPOINTMENT WHICH I HAD GIVEN HIM AT MY HOUSE. WE WERE BOTH",
+  "chapter_slug": "28-iv-my-conversation-with-berryer-on-the-21st-of-jun",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea17075b-fb68-5ea6-a38c-371e90da2750",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2692,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

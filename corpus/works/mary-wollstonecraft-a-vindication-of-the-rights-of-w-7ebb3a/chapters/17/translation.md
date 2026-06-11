@@ -1,0 +1,35 @@
+---
+work_id: "7ebb3a46-fbea-56ac-adda-292f9a2a4dc8"
+work_slug: "mary-wollstonecraft-a-vindication-of-the-rights-of-w-7ebb3a"
+work_title: A Vindication of the Rights of Woman
+author_name: Mary Wollstonecraft
+chapter_number: 17
+chapter_title: "CHAPTER X: parental affection"
+chapter_slug: 17
+variant_id: "b8d170bc-77fb-5dc7-9007-ef7dd5b63170"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1036
+source_url: "https://oll.libertyfund.org/titles/wollstonecraft-a-vindication-of-the-rights-of-woman"
+translator: Online Library of Liberty edition
+---
+
+Parental affection is, perhaps, the blindest modification of perverse self-love; for we have not, like the French, two terms to distinguish the pursuit of a natural and reasonable desire, from the ignorant calculations of weakness. Parents often love their children in the most brutal manner, and sacrifice every relative duty to promote their advancement in the world. – To promote, such is the perversity of unprincipled prejudices, the future welfare of the very beings whose present existence they imbitter by the most despotic stretch of power. Power, in fact, is ever true to its vital principle, for in every shape it would reign without controul or inquiry. Its throne is built across a dark abyss, which no eye must dare to explore, lest the baseless fabric should totter under investigation. Obedience, unconditional obedience, is the catch-word of tyrants of every description, and to render ‘assurance doubly sure,’b one kind of despotism supports another. Tyrants would have cause to tremble if reason were to become the rule of duty in any of the relations of life, for the light might spread till perfect day appeared. And when it did appear, how would men smile at the sight of the bugbears at which they started during the night of ignorance, or the twilight of timid inquiry.
+
+Parental affection, indeed, in many minds, is but a pretext to tyrannize where it can be done with impunity, for only good and wise men are content with the respect that will bear discussion. Convinced that they have a right to what they insist on, they do not fear reason, or dread the sifting of subjects that recur to natural justice: because they firmly believe that the Edition: current; Page: [243] more enlightened the human mind becomes the deeper root will just and simple principles take. They do not rest in expedients, or grant that what is metaphysically true can be practically false; but disdaining the shifts of the moment they calmly wait till time, sanctioning innovation, silences the hiss of selfishness or envy.
+
+If the power of reflecting on the past, and darting the keen eye of contemplation into futurity, be the grand privilege of man, it must be granted that some people enjoy this prerogative in a very limited degree. Every thing new appears to them wrong; and not able to distinguish the possible from the monstrous, they fear where no fear should find a place, running from the light of reason, as if it were a firebrand; yet the limits of the possible have never been defined to stop the sturdy innovator’s hand.
+
+Woman, however, a slave in every situation to prejudice, seldom exerts enlightened maternal affection; for she either neglects her children, or spoils them by improper indulgence. Besides, the affection of some women for their children is, as I have before termed it, frequently very brutish; for it eradicates every spark of humanity. Justice, truth, every thing is sacrificed by these Rebekah’s, and for the sake of their own children they violate the most sacred duties, forgetting the common relationship that binds the whole family on earth together.a Yet, reason seems to say, that they who suffer one duty, or affection, to swallow up the rest, have not sufficient heart or mind to fulfil that one conscientiously. It then loses the venerable aspect of a duty, and assumes the fantastic form of a whim.
+
+As the care of children in their infancy is one of the grand duties annexed to the female character by nature, this duty would afford many forcible arguments for strengthening the female understanding, if it were properly considered.
+
+The formation of the mind must be begun very early, and the temper, in particular, requires the most judicious attention – an attention which women cannot pay who only love their children because they are their children, and seek no further for the foundation of their duty, than in the feelings of the moment. It is this want of reason in their affections which makes women so often run into extremes, and either be the most fond or most careless and unnatural mothers.
+
+To be a good mother – a woman must have sense, and that independence of mind which few women possess who are taught to depend entirely on their husbands. Meek wives are, in general, foolish mothers; wanting their children to love them best, and take their part, in secret, against the father, who is held up as a scarecrow. When chastisement is necessary, though they have offended the mother, the father must inflict the punishment; he must be the judge in all disputes: but I shall more fully discuss this subject when I treat of private education,a I now only mean to insist, that unless the understanding of woman be enlarged, and her character rendered more firm, by being allowed to govern her own conduct, she will never have sufficient sense or command of temper to manage her children properly. Her parental affection, indeed, scarcely deserves the name, when it does not lead her to suckle her children, because the discharge of this duty is equally calculated to inspire maternal and filial affection: and it is the indispensable duty of men and women to fulfil the duties which give birth to affections that are the surest preservatives against vice. Natural affection, as it is termed, I believe to be a very faint tie, affections must grow out of the habitual exercise of a mutal sympathy; and what sympathy does a mother exercise who sends her babe to a nurse, and only takes it from a nurse to send it to a school?
+
+In the exercise of their maternal feelings providence has furnished women with a natural substitute for love, when the lover becomes only a friend, and mutual confidence takes place of overstrained admiration – a child then gently twists the relaxing cord, and a mutual care produces a new mutual sympathy. – But a child, though a pledge of affection, will not enliven it, if both father and mother be content to transfer the charge to hirelings; for they who do their duty by proxy should not murmur if they miss the reward of duty – parental affection produces filial duty.

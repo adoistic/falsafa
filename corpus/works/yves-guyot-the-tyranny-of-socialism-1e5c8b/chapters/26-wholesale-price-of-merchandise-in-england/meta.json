@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-the-tyranny-of-socialism-1e5c8b",
+  "work_title": "The Tyranny of Socialism",
+  "chapter_number": 26,
+  "chapter_title": "Wholesale Price of Merchandise in England.",
+  "chapter_slug": "26-wholesale-price-of-merchandise-in-england",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e632e230-a2fa-57bc-ac5e-e62cf7ad7346",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 179,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-the-tyranny-of-socialism"
+    }
+  ]
+}

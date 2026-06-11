@@ -1,0 +1,26 @@
+{
+  "work_slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "work_title": "Historical Essays and Narratives of the Merovingian Era",
+  "chapter_number": 6,
+  "chapter_title": "ESSAY III.: CONTINUATION OF THE SAME SUBJECT.—CHARACTER OF POLITICAL PARTIES.—THE DEISTS.—THE PRESBYTERIANS.—THE INDEPEN",
+  "chapter_slug": "06-essay-iii-continuation-of-the-same-subject-charact",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52415ef1-a4ab-52c3-998c-51cf55cf82a9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2122,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+    }
+  ]
+}

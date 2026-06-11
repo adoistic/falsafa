@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
+  "work_title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+  "chapter_number": 17,
+  "chapter_title": "XII.—: THE TAXES ON KNOWLEDGE",
+  "chapter_slug": "17-xii-the-taxes-on-knowledge",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec7b6649-cf28-5a29-9d47-0a11f84932f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10319,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+    }
+  ]
+}

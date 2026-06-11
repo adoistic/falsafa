@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-socialistic-fallacies-ca8e8f",
+  "work_title": "Socialistic Fallacies",
+  "chapter_number": 90,
+  "chapter_title": "CHAPTER II: The Sovereignty of the Strikers",
+  "chapter_slug": "90",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0fcbcf84-4b1b-5601-8831-d2d543df4a3e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 878,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+    }
+  ]
+}

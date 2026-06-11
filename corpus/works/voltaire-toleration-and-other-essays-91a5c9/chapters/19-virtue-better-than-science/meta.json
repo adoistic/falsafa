@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 19,
+  "chapter_title": "VIRTUE BETTER THAN SCIENCE",
+  "chapter_slug": "19-virtue-better-than-science",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e3467f7d-3fe4-5325-bdfc-5d6755b14d8b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 599,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

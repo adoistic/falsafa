@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-taylor-of-caroline-construction-construed-and-const-431e95",
+  "work_title": "Construction Construed and Constitutions Vindicated",
+  "chapter_number": 13,
+  "chapter_title": "SECTION. 11.: THE BANK DECISION.—PRECEDENTS.",
+  "chapter_slug": "13-section-11-the-bank-decision-precedents",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d2a04f7-a0b3-5a78-8897-0aed084326ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4011,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/taylor-construction-construed-and-constitutions-vindicated"
+    }
+  ]
+}

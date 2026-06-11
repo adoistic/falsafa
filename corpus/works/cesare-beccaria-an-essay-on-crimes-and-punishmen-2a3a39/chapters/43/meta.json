@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 43,
+  "chapter_title": "CHAPTER XLI.: OF THE MEANS OF PREVENTING CRIMES.",
+  "chapter_slug": "43",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2c53f245-3fe2-55fd-8bd5-8aae789579ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 517,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

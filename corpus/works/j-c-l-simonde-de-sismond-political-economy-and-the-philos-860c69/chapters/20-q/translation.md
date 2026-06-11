@@ -1,0 +1,41 @@
+---
+work_id: "860c6910-d683-518e-83a8-2122036b29a0"
+work_slug: "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69"
+work_title: Political Economy and the Philosophy of Government
+author_name: J. C. L. Simonde de Sismondi
+chapter_number: 20
+chapter_title: Q
+chapter_slug: "20-q"
+variant_id: "29b2d61a-70b1-51f0-aebc-c50f7cca6b5c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1133
+source_url: "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+translator: Online Library of Liberty edition
+---
+
+Independently of his immense work, the “History of the French,” (of which two or three volumes appeared alternately every two years,) Sismondi still connected himself by pamphlets, by frequent articles published in different periodicals, with the whole literary and political movement of France, Italy, and England. Everywhere misfortune found in him an advocate, liberty a support, moderation an organ.
+
+In the journey which he made into England, in 1826, before publishing the second edition of his “Nouveaux Principes,” he saw what he had foretold realized, and shuddered at the fatal effects of “that vital organization, which stripping the working man of all other property, but that of his hands, ends by taking that also from him, and replacing it by machines.” Witness of that “progress of industry which tends to increase the inequality of enjoyment among men,” recoiling from the aspect “of the hideous oonvulsions of wealth ill divided,” he cries: “No spectacle is more alarming than that which England presents, in the midst of that opulence, which at first dazzles the eye. The great roads are alternately traversed by troops of beggars dismissed from the manufactories, and by troops of ragged Irish, who offer themselves from farm to farm to perform agricultural labour. Both ask alms, only when they are refused work; but every nook is full. The field labourers see with bitterness strangers contending with them for work, which before was scarcely sufficient to maintain them.”
+
+“In the towns, in the capital, in Hyde Park, where the most sumptuous equipages succeed one another with the rapidity of lightning, bands of ten and twenty manufacturers, seated motionless, despair in their eyes, fever exhausting their limbs, do not excite a moment's attention. A third of the workshops are closed, another third must soon be closed, and all the shops are loaded; on every side manufactures are offered at a price which can only half pay the expense of production. In this universal distress, everywhere the working man is dismissed, and the English nation gives his place to steam engines.”
+
+In the face of such a state of things, “at a period when suffering humanity has the most need that the science which is the theory of the well being of all, should draw near to common intellects, and speak a popular language, political economy is lost in abstractions, and enveloped in calculations more and more difficult to follow.”
+
+“What,” cried Sismondi, answering Ricardo in a long conversa tion which they had together at Geneva, a short time before the death of the English writer, “What, is wealth then everything! are men absolutely nothing!”
+
+It was painful to Sismondi, after having repudiated the economical theories which England was teaching to France, still to have to repel the different systems which connected themselves with the demand for industrial organization. He rejected in turn the cooperative system of Owen, the Saint Simonians, the disciples of Fourier. “To attempt to suppress personal interest, and to think that the world can go on without it,” he said to some of them, “is sufficiently bold; but to imagine that all the labour of the community, the conducting of all its interests, can be determined at any moment of the day by the plurality of suffrages, is acting like a society of fools.” He accused others of ordering a body to walk, after having taken away all the muscles, all the stimulus of individual interest. “They take away from you hope, liberty, family affection,” cried he, sorrowfully, “all to make you happy! Alas! there is nothing true in their books but the evil they would remedy.”
+
+He stood alone between the masters and the disciples, both of whom he equally disavowed; those, because absorbed by the love of the science which they had created, they neglected the creation of Edition: current; Page: [44] God; man, the object and end of all science; these, because absorbed in the search of physical well-boing, they forget both our celestial origin, and our immortal tendencies; on both sides he repudiated the worship of matter.
+
+The Etudes were in great part written at Pescia, whither Sismondi went towards the end of August, 1835, drawn there by the desire to see those who remained of the family of his sister.
+
+The beautiful and fertile fields which had first awakened in him the love of nature, and of humanity, offered anew to the eyes of the economist that association which he continually demanded, that of the owner and the cultivator, the union of capital and handlabour. He again found the favourable results of the leases for ninety-nine years, the livelli which he had formerly studied, and which give to the farmer, married to his farm, as much love for the soil as if it were his complete property. He again entered the cheerful dwelling of the mezzaiuolo, the farmer who divides the produce, and who without possessing any thing, lives easy and content, and enjoys, what makes man moral, an assurance of the future, what renders him happy, security, liberty, variety, hope.
+
+This landscape of Tuscany, animated by cheerful labours, intermingled with songs, fêtes, and joy, like the small farms which have scattered over them elms, garlands of vines, nosegays of orange and citron trees, forms the most striking contrasts to the oceans of corn, and fields of potatoes of vast and beautiful Ireland; to those flourishing fields where the miserable farmers and the starving cottagers die of hunger in the bosom of abundance.
+
+But when, in 1837, Sismondi traversed the Campagna of Rome, which he had visited for the first time thirty years before, vain were the endeavours to make him taste those artistic pleasures which attract the aristocracy and the idle, from all parts of the globe. “Here,” cried Sismondi “I can only hear one voice, that of expiring society, contemplate one view, the decline and agony of Rome. The rapid decay of all I perceive, of all which constitutes a city, monuments, palaces, churches, houses, cottages, pavements, marks, in a fatal manner, the progress of time. The population of the country has disappeared; I cannot imagine how the population of the town can be long in disappearing also. This crowd of parasites, accustomed to live on the crumbs which fall from the tables of the prelates, of Edition: current; Page: [45] the ambassadors of the great, will find no nourishment when these tables are no longer covered. The fields, divided among only a hundred great proprietors, are doomed to become an unpeopled desert, and the wind will there pass over broom and immense briers. The workshops of the cities no longer offer any asylum to the indolent population, for the rich will not consume Roman productions, and the poor cannot buy them; how sorrowful is the spectacle of a great city dying of inanition!”

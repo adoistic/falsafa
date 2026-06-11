@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "work_title": "The Wages Question",
+  "chapter_number": 17,
+  "chapter_title": "Part II, Chapter XIII THE CAPITALIST CLASS: RETURNS OF CAPITAL: RENT AND INTEREST.",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1bf01b94-3d8e-5960-b27e-eedb835a092f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5618,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class"
+    }
+  ]
+}

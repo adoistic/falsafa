@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
+  "work_title": "The Old Regime and the Revolution",
+  "chapter_number": 20,
+  "chapter_title": "CHAPTER XIV.: HOW IRRELIGION BECAME A GENERAL RULING PASSION AMONG FRENCHMEN IN THE EIGHTEENTH CENTURY, AND OF THE INFLU",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2bfafd4-45d7-5759-bf45-f1f627407c44",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2596,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+    }
+  ]
+}

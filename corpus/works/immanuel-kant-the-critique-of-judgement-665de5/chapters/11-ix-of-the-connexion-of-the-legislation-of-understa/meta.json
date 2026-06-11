@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 11,
+  "chapter_title": "IX.: OF THE CONNEXION OF THE LEGISLATION OF UNDERSTANDING WITH THAT OF REASON BY MEANS OF THE JUDGEMENT",
+  "chapter_slug": "11-ix-of-the-connexion-of-the-legislation-of-understa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2bde7089-daa2-52c0-aa2c-40adb8747cd4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 799,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

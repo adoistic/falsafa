@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 19,
+  "chapter_title": "BOOK I, CHAPTER XVI: OF THE BENEFITS RESULTING FROM THE QUICK CIRCULATION OF MONEY AND COMMODITIES.",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a6ea9fe-777d-5bb3-95f9-896f5735b58c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1050,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

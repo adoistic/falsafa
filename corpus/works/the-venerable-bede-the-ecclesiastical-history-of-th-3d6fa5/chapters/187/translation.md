@@ -1,0 +1,23 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 187
+chapter_title: CHAPTER XLI
+chapter_slug: 187
+variant_id: "da38093e-3ef2-5182-be8b-e23033f7e999"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 562
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how a boy, who was possessed by a devil, was cured by some dirt, from the place where the water in which his corpse had been washed had been thrown
+
+But even when the servant of Christ was dead and buried, the miracles which he worked whilst alive did not cease. Edition: current; Page: [342] For a certain boy, in the territory of Lindisfarne, was vexed so terribly by an evil spirit, that he altogether lost his reason, and shouted and cried aloud, and tried to tear in pieces with his teeth his own limbs, or whatever came in his way. A priest from the monastery was sent to the sufferer; but, though he had been accustomed to exorcise and expel evil spirits, yet in this case he could not prevail: he therefore advised the lad’s father to put him into a cart and drive him to the monastery, and to pray to God in his behalf before the relics of the holy saints which are there. The father did as he was advised; but the holy saints, to show how high a place Cuthbert occupied amongst them, refused to bestow on him the benefit desired. The mad boy, therefore, by howling, groaning, and gnashing his teeth, filled the eyes and ears of all who were there with horror, and no one could think of any remedy; when, behold, one of the priests, being taught in spirit that by the aid of the holy father Cuthbert he might be cured, went privately to the place where he knew the water had been thrown, in which his dead body had been washed; and taking from thence a small portion of the dirt, he mixed it with some water, and carrying it to the sufferer, poured it into his open mouth, from which he was uttering the most horrible and lamentable cries. He instantly held his tongue, closed his mouth, and shutting his eyes also, which before were bloodshot and staring hideously, he fell back into a profound sleep. In this state he passed the night; and in the morning, rising up from his slumber, free from his madness, he found himself also, by the merits and intercession of the blessed Cuthbert, free from the evil spirit by which he had been afflicted. It was a marvellous sight, and delectable to all good men, to see the son sound in mind accompany his father to the holy places, and give thanks for the aid of the saints; although the day before, from the extremity of his madness, he did not know who or where he was. When, in the midst of the whole body of the brethren looking on and congratulating him, he had on his knees offered up before the relics of the martyrs praise to the Lord God and our Saviour Jesus Christ, he returned to his home, freed from the harassing of the foe, and confirmed in the faith which he before professed. They show to this day the pit into which that memorable water was thrown, of a square Edition: current; Page: [343] shape, surrounded with wood, and filled with little stones. It is near the church in which his body reposes, on the south side. From that time God permitted many other cures to be wrought by means of those same stones, and the dirt from the same place.

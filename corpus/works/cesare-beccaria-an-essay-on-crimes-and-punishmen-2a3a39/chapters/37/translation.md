@@ -1,0 +1,27 @@
+---
+work_id: "2a3a3942-8c47-5947-addf-a3a17979adcb"
+work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
+work_title: An Essay on Crimes and Punishments
+author_name: Cesare Beccaria
+chapter_number: 37
+chapter_title: "CHAPTER XXXV.: OF SANCTUARIES."
+chapter_slug: 37
+variant_id: "a337f470-8585-5900-8878-de77ef59b594"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 494
+source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+translator: Online Library of Liberty edition
+---
+
+Are sanctuaries just? Is a convention between nations, mutually to give up their criminals, useful?
+
+In the whole extent of a political state, there should be no place independent of the laws. Their power should follow every subject, as the shadow follows the body. Sanctuaries, and impunity, differ only in degree, and as the effect of punishment depends more on their certainty, than their greatness, men are more strongly invited to crimes by sanctuaries, than they are deterred by punishment. To increase the number of sanctuaries, is to erect so many little sovereignties; for, when the laws have no power, new bodies will be formed in opposition to the public good, and a spirit established contrary to that of the state. History informs us, that from the use of sanctuaries have arisen the greatest revolutions in kingdoms and in opinions.
+
+Some have pretended, that in whatever country Edition: current; Page: [134] a crime, that is, an action contrary to the laws of society, be committed, the criminal may be justly punished for it in any other; as if the character of subject were indelible, or synonimous with, or worse than that of slave; as if a man could live in one country, and be subject to the laws of another, or be accountable for his actions to two sovereigns, or two codes of laws, often contradictory. There are also who think, that an act of cruelty committed, for example, at Constantinople may be punished at Paris; for this abstracted reason, that he who offends humanity, should have enemies in all mankind, and be the object of universal execration; as if judges were to be the knights-errant of human nature in general, rather than guardians of particular conventions between men. The place of punishment can certainly be no other, than that where the crime was committed; for the necessity of punishing an individual for the general good subsists there, and there only. A villain, if he has not broke through the conventions of a society of which, by my supposition, he was not a member, may be feared, and by force banished and excluded from that society; but ought not to be formally punished by the laws, which were only intended to maintain the social compact, Edition: current; Page: [135] and not to punish the intrinsic malignity of actions.
+
+Whether it be useful that nations should mutually deliver up their criminals? Although the certainty of there being no part of the earth where crimes are not punished, may be a means of preventing them, I shall not pretend to determine this question, until, laws more conformable to the necessities and rights of humanity, and until milder punishments, and the abolition of the arbitrary power of opinion, shall afford security to virtue and innocence when oppressed; and until tyranny shall be confined to the plains of Asia, and Europe acknowledge the universal empire of reason, by which the interests of sovereigns and subjects are best united.

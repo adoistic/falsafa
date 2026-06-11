@@ -1,0 +1,27 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 35
+chapter_title: CHAPTER XXX
+chapter_slug: 35
+variant_id: "22744a63-2135-5d06-847d-ec60119759d2"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 577
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+a copy of the letter which pope gregory sent to the abbot mellitus, then going into britain. [ad 601.]
+
+The aforesaid messengers being departed, the holy father, Gregory, sent after them letters worthy to be preserved in memory, wherein he plainly shows what care he took of the salvation of our nation. The letter was as follows—
+
+“To his most beloved son, the Abbot Mellitus; Gregory, the servant of the servants of God. We have been much concerned, since the departure of our congregation that is with you, because we have received no account of the success of your journey. When, therefore, Almighty God shall bring you to the most reverend Bishop Augustine, our brother, tell him what I have, upon mature deliberation on the affair of the English, determined upon, viz., that the temples of the idols in that nation ought not to be destroyed; but let the idols that are in them be destroyed; let holy water be made and sprinkled in the said temples, let altars be erected, and relics placed. For if those temples are well built, it is requisite that they be converted from the worship of devils to the service of the true God; that the nation, seeing that their temples are not destroyed, Edition: current; Page: [53] may remove error from their hearts, and knowing and adoring the true God, may the more familiarly resort to the places to which they have been accustomed. And because they have been used to slaughter many oxen in the sacrifices to devils, some solemnity must be exchanged for them on this account, as that on the day of the dedication, or the nativities of the holy martyrs, whose relics are there deposited, they may build themselves huts of the boughs of trees, about those churches which have been turned to that use from temples, and celebrate the solemnity with religious feasting, and no more offer beasts to the Devil, but kill cattle to the praise of God in their eating, and return thanks to the Giver of all things for their sustenance; to the end that, whilst some gratifications are outwardly permitted them, they may the more easily consent to the inward consolations of the grace of God. For there is no doubt that it is impossible to efface every thing at once from their obdurate minds; because he who endeavours to ascend to the highest place, rises by degrees or steps, and not by leaps. Thus the Lord made Himself known to the people of Israel in Egypt; and yet He allowed them the use of the sacrifices which they were wont to offer to the Devil, in his own worship; so as to command them in his sacrifice to kill beasts, to the end that, changing their hearts, they might lay aside one part of the sacrifice, whilst they retained another; that whilst they offered the same beasts which they were wont to offer, they should offer them to God, and not to idols; and thus they would no longer be the same sacrifices. This it behoves your affection to communicate to our aforesaid brother, that he, being there present, may consider how he is to order all things. God preserve you in safety, most beloved son.
+
+“Given the 17th of June, in the nineteenth year of the reign of our lord, the most pious emperor, Mauritius Tiberius, the eighteenth year after the consulship of our said lord. The fourth indiction.”

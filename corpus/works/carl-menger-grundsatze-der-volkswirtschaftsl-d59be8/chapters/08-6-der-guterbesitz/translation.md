@@ -1,0 +1,29 @@
+---
+work_id: "d59be8b2-383b-5ef0-a32a-50c5bc935998"
+work_slug: "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8"
+work_title: Grundsätze der Volkswirtschaftslehre
+author_name: Carl Menger
+chapter_number: 8
+chapter_title: "§. 6.: Der Güterbesitz"
+chapter_slug: "08-6-der-guterbesitz"
+variant_id: "394389b6-94a0-5a58-9025-4b9349df2e8b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 493
+source_url: "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+translator: Online Library of Liberty edition
+---
+
+Die Bedürfnisse der Menschen sind mannigfach und das Leben und die Wohlfahrt derselben ist nicht gesichert, wenn ihrer Verfügung lediglich die Mittel zur Befriedigung irgend eines ihrer Bedürfnisse, wenn auch in noch so reichlichem Masse unterworfen sind. Die Art und Weise, in welcher die Menschen ihre Bedürfnisse befriedigen, kann demnach in Bezug auf Vollständigkeit im Grossen und Ganzen eine nahezu unbegrenzte Verschiedenheit aufweisen; eine gewisse Harmonie in der Befriedigung Edition: current; Page: [30] derselben ist indess bis zu einem gewissen Punkte zur Erhaltung ihres Lebens und ihrer Wohlfahrt geradezu unerlässlich. Der Eine mag Paläste bewohnen, die ausgesuchtesten Gerichte consumiren und sich mit den kostbarsten Gewändern bekleiden, der Andere den dunkeln Winkel einer elenden Hütte zu seinem Nachtlager aufsuchen, sich von Abfällen ernähren und in Lumpen hüllen—aber jeder von Beiden wird dahin streben müssen, sowohl sein Bedürfniss nach Wohnung und Kleidung, als auch jenes nach Nahrung zu befriedigen. Es ist nämlich klar, dass selbst die vollständigste Befriedigung eines einzelnen Bedürfnisses unser Leben und unsere Wohlfahrt nicht zu erhalten vermag.
+
+In diesem Sinne lässt sich nicht mit Unrecht sagen, dass die sämmtlichen, einem wirthschaftenden Subjecte verfügbaren Güter in ihrer Güterqualität gegenseitig bedingt sind, denn ein jedes einzelne derselben vermag den Gesammtzweck, dem sie alle dienen, die Erhaltung unseres Lebens und unserer Wohlfahrt, nicht für sich allein, sondern nur im Vereine mit den übrigen Gütern zu verwirklichen.
+
+In der isolirten Wirthschaft, und selbst noch überall dort, wo der Verkehr der Menschen ein geringfügiger ist, tritt uns diese Zusammengehörigkeit der zur Erhaltung des Lebens und der Wohlfahrt der Menschen erforderlichen Güter auch äusserlich in der Gesammtheit der den einzelnen wirthschaftenden Individuen verfügbaren Güter entgegen und selbst die Harmonie, mit welcher sie ihre Bedürfnisse zu befriedigen bemüht sind, wiederspiegelt sich in ihrem Güterbesitze. Bei höherer Cultur und zumal unter unseren entwickelten Verkehrsverhältnissen, wo der ausreichende Besitz einer Quantität irgend eines ökonomischen Gutes uns die Verfügung über entsprechende Quantitäten aller anderen verschafft, verwischt sich scheinbar das obige Bild bezüglich der Wirthschaft des Einzelnen, es tritt uns aber dann um so deutlicher in der Volkswirthschaft entgegen.
+
+Ueberall sehen wir, dass nicht einzelne Güter, sondern eine Gesammtheit von Gütern verschiedener Art den Zwecken der wirthschaftenden Menschen dienen, eine Gesammtheit von Edition: current; Page: [31] Gütern, welche entweder, gleich wie in der isolirten Wirthschaft direct, oder wie dies unter unseren entwickelten Verhältnissen der Fall ist, zum Theile in directer, zum Theile in indirecter Weise den einzelnen wirthschaftenden Individuen verfügbar ist, und nur in dieser Gesammtheit jenen Erfolg herbeiführt, den wir die Deckung des Bedarfs und in weiterer Folge die Sicherung des Lebens und der Wohlfahrt der Menschen nennen.
+
+Die Gesammtheit der einem wirthschaftenden individuum für die Befriedigung seiner Bedürfnisse verfügbaren Güter nennen wir seinen Güterbesitz, und stellt sich uns derselbe demnach nicht als eine willkürlich zusammengefügte Quantität von Gütern, sondern als das Spiegelbild seiner Bedürfnisse, als ein gegliedertes Ganzes dar, das in keinem wesentlichen Theil gemindert oder vermehrt werden kann, ohne dass die Verwirklichung des Gesammtzweckes, dem es dient, dadurch berührt würde.

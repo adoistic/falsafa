@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 13,
+  "chapter_title": "X: THE THIRTY YEARS’ WAR",
+  "chapter_slug": "13-x-the-thirty-years-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfb984c8-09a7-58f6-987b-2ddd344aa7de",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4598,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

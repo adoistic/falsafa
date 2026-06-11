@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 37,
+  "chapter_title": "To Atticus (at Rome) Astura, 13 June",
+  "chapter_slug": "37-to-atticus-at-rome-astura-13-june",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f305a004-1345-5741-a87e-6b1d1544db66",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 497,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

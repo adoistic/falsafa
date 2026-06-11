@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 31,
+  "chapter_title": "NOTE Q.: RES MANCIPI; ALIENATION IN EARLY LAW.",
+  "chapter_slug": "31-note-q-res-mancipi-alienation-in-early-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aed09239-2ee1-58de-a045-52589b2020cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 731,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

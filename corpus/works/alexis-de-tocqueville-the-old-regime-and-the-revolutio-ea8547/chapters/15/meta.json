@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
+  "work_title": "The Old Regime and the Revolution",
+  "chapter_number": 15,
+  "chapter_title": "CHAPTER IX.: THAT THESE MEN, WHO WERE SO ALIKE, WERE MORE DIVIDED THAN THEY HAD EVER BEEN INTO PETTY GROUPS, EACH INDEPE",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf0817f3-f423-5319-987b-84b33da03c97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4741,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+    }
+  ]
+}

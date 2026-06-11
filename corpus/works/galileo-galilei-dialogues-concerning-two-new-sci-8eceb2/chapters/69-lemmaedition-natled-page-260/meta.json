@@ -1,0 +1,26 @@
+{
+  "work_slug": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+  "work_title": "Dialogues Concerning Two New Sciences",
+  "chapter_number": 69,
+  "chapter_title": "LEMMAEdition: NatlEd; Page: [260]",
+  "chapter_slug": "69-lemmaedition-natled-page-260",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c16fdfb-cb89-57cc-a638-ac26513930b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 88,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+    }
+  ]
+}

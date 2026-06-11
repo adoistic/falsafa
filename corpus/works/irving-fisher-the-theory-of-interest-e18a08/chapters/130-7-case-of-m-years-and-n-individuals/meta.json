@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 130,
+  "chapter_title": "§7. Case of m Years and n Individuals",
+  "chapter_slug": "130-7-case-of-m-years-and-n-individuals",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f86e2e24-bd1d-5418-8477-817e328c6331",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 63,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

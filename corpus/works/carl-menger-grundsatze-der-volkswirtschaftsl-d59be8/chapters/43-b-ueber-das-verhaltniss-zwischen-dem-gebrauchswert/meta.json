@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 43,
+  "chapter_title": "b) Ueber das Verhältniss zwischen dem Gebrauchswerthe und Tauschwerthe der Güter.",
+  "chapter_slug": "43-b-ueber-das-verhaltniss-zwischen-dem-gebrauchswert",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8eeac643-813a-5848-a37b-755778179306",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 854,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

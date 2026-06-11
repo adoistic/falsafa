@@ -1,0 +1,29 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 98
+chapter_title: "§2. The Map of This Year's and Next Year's Income"
+chapter_slug: "98-2-the-map-of-this-years-and-next-years-income"
+variant_id: "28e54944-61ba-59dd-8ee4-b45417a239ad"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 692
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Expressing the problem with the aid of the graphic method, the determination of the rate of interest may Edition: current; Page: [232] be reduced to a simple problem of geometry, just as the problem of price may be shown by supply and demand curves.
+
+To depict adequately the elements of the interest problem, however, a new kind of chart is required. Our first task is to see the relation of this new kind of chart to those hitherto used in this book. First, then, let us recur to Charts 1, 2, and 3, in Chapter I, which picture a person's income stream over a period of years. This sort of chart consists of a row of vertical bars representing the real income, as measured by the cost of living in successive periods—days, months, or years. To prevent confusion, let us, for our present graphic purpose, shrink these vertical bars into mere vertical lines, without breadth. Then, each year's income may be pictured as if it were all concentrated at a point of time, say in the middle of the month or year concerned. Since the rate of interest is usually expressed in per annum terms, it will simplify the discussion if these lines are drawn, as in Chart 23, disregarding all time units other than years. To make our Edition: current; Page: [233] picture still more concrete, specific figures may be attached to specific years, the person's income for 1930 being set at $1000, that for 1931 at $1200, and so on.
+
+We are now ready to pass to the new and radically different method of representing the real income stream. In the chart just described, horizontal distance measures time, while vertical distance measures amount or size. The reader is now asked to shake off these conceptions. Moreover, throughout Chapters X and XI, he must be on his guard against their unconscious return. In the new charts there is no time scale; time is not measured at all; both axes measure amount of income. The horizontal axis represents the first year's income, the vertical, the second year's income. Thus the point P1 in Chart 24, through its latitude and longitude, stands in a sense for both years' incomes combined. It represents what may be called a given individual's income combination, income stream, income position, or income situation for the given pair of years. On Chart 24 may be shown a complete map of all possible income combinations, or income positions, so far as two years, or periods of time, are concerned. To represent the third year, so easily shown in Chart 23 under the old method, we should need in this new method a third dimension. The chart would then cease to be a chart and become a three dimensional model.
+
+If on the map for two years, we were to draw a straight line from the origin toward the "northeast", midway between the two axes, every point on it would have its longitude and latitude equal, that is, would represent different Edition: current; Page: [234] income situations in which the incomes of two years were equal. A poor man—poor in both years—would be situated near the origin, and a rich man far from the origin. A man who has less income this year than he expects to get next year would be situated above this midway line, his latitude (meaning next year's income) being more than his longitude (meaning this year's). If we move his position sufficiently to the left, so as to reduce his longitude (this year's income), he will be like a man stranded on a polar expedition—with rations run short, though he might be assured by radio of plentiful Edition: current; Page: [235] supplies next year. On the other hand, a man who is more abundantly provided with income this year than he expects to be next year would be situated below the midway line, his longitude being greater than his latitude.
+
+In this way, within the northeast quadrant (the only one shown in the charts) we can, by fixing the point P at all possible positions, represent all possible combinations of this year's and next year's income.

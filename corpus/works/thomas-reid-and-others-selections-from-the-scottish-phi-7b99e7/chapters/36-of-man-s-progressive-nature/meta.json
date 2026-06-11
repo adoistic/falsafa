@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 36,
+  "chapter_title": "OF MAN’S PROGRESSIVE NATURE",
+  "chapter_slug": "36-of-man-s-progressive-nature",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe50e267-8f1d-5fe2-88b9-a54a245b6207",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3892,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

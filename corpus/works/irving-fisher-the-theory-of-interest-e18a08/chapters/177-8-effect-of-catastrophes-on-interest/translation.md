@@ -1,0 +1,29 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 177
+chapter_title: §8. Effect of Catastrophes on Interest
+chapter_slug: "177-8-effect-of-catastrophes-on-interest"
+variant_id: "c0b259a9-36c6-5e8c-af08-dafe41aeda6b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 724
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+The time shape of an income stream is determined, however, in part by other causes than natural resources. Among these causes, misfortune holds a high place in causing temporary depressions in the income stream, that is, in giving to it a time shape which is at first descending and afterwards ascending. The effect of such temporary depression is to produce a high valuation of immediate income during the depression period, as compared with the valuation of the income expected after the depression is over. It is a matter of common observation in private life that loans often find their source in personal Edition: current; Page: [392] misfortune. Investigations of pawnbrokers and small loan conditions among the poor show that the chief causes for borrowing are a death or birth in the family, or a protracted illness, the expense of which even when amounting to only $10 or $20 would, without the loan, make serious inroads on the daily necessities.
+
+We may see the operation of the same principle on a larger scale in the examples of the San Francisco earthquake, the earthquake which wrecked Yokohama and Tokyo, the plague which destroyed whole communities in Russia, and the famines of China. Had it not been for the succor rendered by more fortunate communities and countries, the income stream of some of the stricken communities and provinces in Russia and China would have sunk so low that scarcely any would have been able to survive. In addition to the aid of tens of millions of dollars in gifts, large loans were made which enabled the afflicted communities to build themselves anew. Whether these loans were used to produce sustenance, which is direct income, or to offset the cost of rebuilding and replacing destroyed capital goods, which is outgo, the effect was the same; they were for the purpose of tiding over a temporary decline, or loss, in the income stream. The permanent effect of these catastrophes on the rate of interest was slight because of the opportunity to borrow heavily from outside. Had these opportunities not existed, the depression in the income stream could not have been mitigated, and the rate of interest would inevitably have risen to a level comparable with that which prevailed in primitive times or during a gold rush.
+
+In much the same way the income stream of a nation is affected by war. The effects in this case, however, are Edition: current; Page: [393] more complex, owing, first, to the element of uncertainty which war introduces until peace is declared, and secondly, to the fact that wars are likely to be more protracted than most other misfortunes. The effect, according to previous explanations, should be that at the beginning of the war the rates of interest on risky loans would be high. This would be especially true of the short term loans which do not outlast war. On the other hand, the rate of interest on safe loans should be lowered for short term loans, and raised for long term loans. Under the conditions of a war in its early stages, a short term loan relates to a descent in the income curve. It is repayable at a time when income is expected to be less than when the loan is contracted. The descent in the income curve, or the element of uncertainty, tends, as has been seen, to lower the rate of interest on safe loans. On the other hand, for long term loans intended to outlast the war, the rate of interest is likely to be high, for the income stream at the time of repayment may be expected to exceed the income stream at the time of contract.
+
+At the close of war, after peace is declared and the element of uncertainty introduced by it has disappeared, the rate of interest even on short term loans will, contrary to the common view, be high, for then the country is, as it were, beginning anew, and the same causes operate to make interest high as apply in the case of all new countries.
+
+When the effects of war include the issue of depreciated paper money, the rate of interest is affected in a somewhat more complex manner, being then subject to the influence of depreciation, according to the principles explained in Chapter II and statistically treated in Chapter XIX.

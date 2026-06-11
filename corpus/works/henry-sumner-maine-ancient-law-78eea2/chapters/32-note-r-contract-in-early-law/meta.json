@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 32,
+  "chapter_title": "NOTE R.: CONTRACT IN EARLY LAW.",
+  "chapter_slug": "32-note-r-contract-in-early-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a9c9aae-644f-548b-8b64-ae0748aeece7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 975,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

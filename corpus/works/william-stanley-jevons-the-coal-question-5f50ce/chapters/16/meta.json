@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-coal-question-5f50ce",
+  "work_title": "The Coal Question",
+  "chapter_number": 16,
+  "chapter_title": "Chapter XV: OF THE IRON TRADE.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5da2f22d-8573-5fa4-914d-d20b5b6afaca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6290,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-coal-question"
+    }
+  ]
+}

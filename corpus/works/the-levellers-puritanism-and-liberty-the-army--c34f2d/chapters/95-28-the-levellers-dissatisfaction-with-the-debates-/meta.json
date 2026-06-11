@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 95,
+  "chapter_title": "28.: The Levellers’ Dissatisfaction with the Debates From John Lilburne, A Plea for Common Right and Freedom (28th Dec. ",
+  "chapter_slug": "95-28-the-levellers-dissatisfaction-with-the-debates-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe341081-a9ea-5337-b2d2-f2f5f6592015",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1197,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

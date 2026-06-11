@@ -1,0 +1,35 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 74
+chapter_title: §2. Investment Opportunity Essential
+chapter_slug: "74-2-investment-opportunity-essential"
+variant_id: "3b524ced-13b9-582c-8eae-6fc1cb2ac343"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 681
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Some economists, however, still seem to cling to the idea that there can be no objective determinant of the rate of interest. If subjective impatience, or time preference, Edition: current; Page: [182] is a true principle, they conclude that because of that fact all productivity principles must be false. But they overlook two important points. One is that, obviously and as a matter of practical fact, the technique of production does affect the rate of interest, and therefore cannot be ignored; the other, that their proposed solutions are indeterminate—i.e., they have more unknown quantities than determining conditions.
+
+If, then, I am asked to which school I belong—subjective or objective, time preference or productivity—I answer "To both." So far as I have anything new to offer, in substance or manner of presentation, it is chiefly on the objective side.
+
+In my opinion minute differences of opinion as to the relative importance of human impatience and investment opportunity are of too little consequence to justify violent quarrels as to which of the two is the more fundamental, although I shall here and later, as occasion offers, note certain differences between them. The important point is that the two rates, that of marginal time preference and that of marginal return over cost, must be equal, granted continuity of variation, that is, variation by infinitesimal gradations. If, as Harry G. Brown, in a very interesting Robinson Crusoe phantasy, assumes as a theoretical possibility, the rate of return over cost is fixed immutably at 10 per cent, the rates of impatience must conform thereto and the rate of interest can only be 10 per cent. Later in this chapter an even simpler and more easily imagined case, while at the same time more Edition: current; Page: [183] startling in its conclusions, is presented in which the technical limitations impose a fixed rate of interest and of human impatience of zero per cent. There, investment opportunity dominates.
+
+On the other hand, we could also imagine the converse case; we could assume, as a theoretical possibility, a society of persons having an obstinate constancy in their rates of impatience, all being 10 per cent. In such a case, the marginal rate of return over cost would be adjusted thereto.
+
+A person's rate of impatience depends on the extent to which he modifies his income stream by loans or sales. It is evident that if loans can be used to any extent desired, impatience will vary continuously with them.
+
+The rate of return over cost, on the other hand, depends on the extent to which a person modifies his income stream by altering the way in which he utilizes his capital resources. Such alteration, while partly continuous, is partly discontinuous, as when new machinery, buildings, personnel or systems are introduced.
+
+It was to emphasize this distinction between impatience and opportunity that I chose to begin with the case of a supposedly rigid income stream, as in the first approximation, with no opportunity to substitute any other; then to proceed to the case of three optional uses of land (distinguished for convenience as farming, mining, forestry) affording opportunity to substitute for one of them either of the others and thus disclosing in such substitution two alternative rates of return over cost; and finally to reach the supposed case of an infinite variety of income streams differing from one another by infinitesimal gradations. Only in the last named case is the rate of return over cost as variable as the rate of impatience.
+
+It should be noted that in the first approximation, where the income stream is fixed or rigid and there is no alternative income stream, there can be no comparative cost or return and therefore no rate of return over cost. But we cannot so easily imagine a similar disappearance of impatience. It would be quite impossible to have any exchange between present and future—any rate of interest—without the existence of time preference, as it would be quite impossible to have any exchange whatever without human wants. They are an omnipresent and necessary condition of all exchange and valuation.

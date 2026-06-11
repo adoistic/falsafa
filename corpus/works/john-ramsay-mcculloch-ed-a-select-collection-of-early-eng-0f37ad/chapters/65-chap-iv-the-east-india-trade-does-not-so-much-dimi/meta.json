@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 65,
+  "chapter_title": "CHAP. IV.: The East-India Trade does not so much diminish the Riches of some private Persons, as it increases the Riches",
+  "chapter_slug": "65-chap-iv-the-east-india-trade-does-not-so-much-dimi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "477c264d-e46d-5690-82c7-ef5d03e21978",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 741,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

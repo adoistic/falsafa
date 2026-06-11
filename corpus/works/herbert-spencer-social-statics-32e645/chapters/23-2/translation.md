@@ -1,0 +1,23 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 23
+chapter_title: § 2.
+chapter_slug: "23-2"
+variant_id: "90217450-90df-5b9a-bafd-42ea4b956a7f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 602
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+As with the physical, so with the ethical. A belief, as yet fitful and partial, is beginning to spread amongst men, that here also there is an indissoluble bond between cause and consequence, an inexorable destiny, a “law which altereth not.” Confounded by the multiplied and ever-new aspects of human affairs, it is not perhaps surprising that men should fail duly to recognise the systematic character of the Divine rule. Yet in the moral as in the material world, accumulated evidence is Edition: current; Page: [41] gradually generating the conviction, that events are not at bottom fortuitous; but that they are wrought out in a certain inevitable way by unchanging forces. In all ages there has been some glimmering perception of this truth; and experience is ever giving to that perception increased distinctness. Indeed even now all men do, in one mode or other, testify of such a faith. Every known creed is an assertion of it. What are the moral codes of the Mahometan, the Brahmin, the Buddhist, but so many acknowledgments of the inseparable connection between conduct and its results? Do they not all say you shall not do this, and this, because they will produce evil; and you shall do that and that, because they will produce good? No matter that their founders erred in the attempt to refer each effect to its special cause, and so botched their systems of morality; notwithstanding this, they evinced the belief that there is an inevitable law of causation in human affairs, which it is for man to learn and conform to. And is not this the doctrine of the highest known religion? Does not Christianity also teach that such and such deeds shall surely end in such and such issues—evil-doing in punishment, well-doing in reward—and that these things are necessarily and indissolubly connected? We imply such a faith, too, in our every-day conversations; in our maxims and precepts, in our education of children, in our advice to friends. In judging men and things we instinctively refer them to some standard of ascertained principles. We predict good or evil of this or the other scheme, because of its accordance or discordance with certain perceived laws of life. Nay, even the pettifogging red-tapist, with his hand-to-mouth expediency, and professed contempt for “abstract principles,” has really a secret consciousness of some such invariable sequence of events—does really believe in the sway of that “beneficent necessity” which to a given act attaches a fixed result. For what is the true meaning of his “measures”—his “projects of law”? He does not think it a toss-up whether this, or that, effect will be produced by them. If he did, he would be as ready to adopt one plan as another. Evidently he Edition: current; Page: [42] sees that there are constant influences at work, which, from each circumstance, or set of circumstances, educe an unavoidable consequence; and that under like conditions like events will again follow.
+
+Surely, then, if all believe in the persistency of these secondary laws, much more should they believe in the persistency of those primary ones, which underlie human existence, and out of which our every-day truths grow. We cannot deny the root, if we recognise the branches. And if such is the constitution of things, we are compelled to admit this same “beneficent necessity.” There is no alternative. Either society has laws, or it has not. If it has not, there can be no order, no certainty, no system in its phenomena. If it has, then are they like the other laws of the universe—sure, inflexible, ever active, and having no exceptions.

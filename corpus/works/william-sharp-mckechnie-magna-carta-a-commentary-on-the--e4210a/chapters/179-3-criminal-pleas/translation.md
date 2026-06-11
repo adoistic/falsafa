@@ -1,0 +1,25 @@
+---
+work_id: "e4210a4a-f107-56e4-9d0c-e90e8ca0dccf"
+work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
+work_title: "Magna Carta: A Commentary on the Great Charter of King John"
+author_name: William Sharp McKechnie
+chapter_number: 179
+chapter_title: "(3): Criminal pleas."
+chapter_slug: "179-3-criminal-pleas"
+variant_id: "66012937-29bb-51b9-a64b-24c7b1eb2d12"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 483
+source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+translator: Online Library of Liberty edition
+---
+
+Offenders of the rank of barons partially made good their claim to a trial by equals; while ordinary freemen failed. A further distinction is thus necessary. (a) Crown tenants. The conflicting views held by King and baronage here resulted in a compromise. In criminal pleas, the Crown was obliged to recede from the high ground taken by Peter des Roches in 1233. Unwillingly, and with an attempt to disguise the fact of surrender by confusing the issue, Bracton in theory and Henry III. in practice admitted part of the barons’ demand, namely, “that in cases of alleged treason and felony, when Edition: current; Page: [391] forfeiture or escheat was involved, they should be judged only by earls and barons. Bracton does not admit that the King’s justices were not “peers” of barons; but deduces their disability from the narrower consideration that the King, through his officials, ought not to be judge in his own behalf, since his interests in escheats might bias his judgment. This explains why “privilege of peers” has never extended to misdemeanours, since these involved no forfeiture to the Crown.
+
+The judicium parium was secured to earls and barons in later reigns by bringing the case before the entire body of earls and barons in commune concilium. What the barons got at first was “judgment” by peers. The actual “trial” was the “battle,” the fellow–peers acting as umpires and enforcing fair play. Although new modes of procedure came to prevail, the Court of Peers continued its control, and the judgment of peers gradually passed into the modern trial by peers. The subject has been further complicated by the growth of the modern conception of a “peerage,” embracing various grades of “nobles.” In essentials, however, the rights of a baron accused of crime have remained unchanged from the days of Henry III. to our own. The privilege of “trial by peers” still extends to treason and felony, and is still excluded from misdemeanours. When competent, it still takes place before a “Court of Peers”—namely, the House of Lords, if Parliament is in session, and the Court of the Lord High Steward, if not. Under these limitations the privilege of a peer has been for centuries a reality in England for earls and barons, and also for members of those other ranks of the modern “peerage” unknown in 1215—dukes, marquesses, and viscounts.
+
+(b) For tenants of a mesne lord no similar privilege has been established, even in a restricted form. In charges of felony, as in those of misdemeanour, all freemen outside the peerage are tried, and have been tried for many centuries past, in the ordinary courts of law. There is no privileged treatment for knight or landed gentleman: private feudal courts never recovered from the wounds inflicted by Henry II. The clauses of Magna Carta which sought to revive them were rendered nugatory by legal fictions or simply by neglect.

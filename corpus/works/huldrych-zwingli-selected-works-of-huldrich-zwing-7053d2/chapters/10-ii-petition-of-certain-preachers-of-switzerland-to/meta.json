@@ -1,0 +1,26 @@
+{
+  "work_slug": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+  "work_title": "Selected Works of Huldrich Zwingli",
+  "chapter_number": 10,
+  "chapter_title": "II.: PETITION OF CERTAIN PREACHERS OF SWITZERLAND TO THE MOST REVEREND LORD HUGO, BISHOP OF CONSTANCE, THAT HE WILL NOT ",
+  "chapter_slug": "10-ii-petition-of-certain-preachers-of-switzerland-to",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca2b4020-57a2-55fe-91a7-51bd27698d4c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5552,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+    }
+  ]
+}

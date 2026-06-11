@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 5,
+  "chapter_title": "b. (Die Güter höherer Ordnung sind in ihrer Güterqualität durch jene der entsprechenden Güter niederer Ordnung bedingt.)",
+  "chapter_slug": "05-b-die-guter-hoherer-ordnung-sind-in-ihrer-guterqua",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "311c8063-80e1-54a2-9044-e879b5cf8e33",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1390,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

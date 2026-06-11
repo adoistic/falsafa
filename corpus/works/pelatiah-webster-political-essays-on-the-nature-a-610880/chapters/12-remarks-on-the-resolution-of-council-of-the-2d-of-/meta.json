@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 12,
+  "chapter_title": "REMARKS ON THE Resolution of Council, Of the 2d of May, 1781, for raising the Exchange to 175 Continental dollars for 1 ",
+  "chapter_slug": "12-remarks-on-the-resolution-of-council-of-the-2d-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "960e22d0-4555-56d9-bab8-18c1af568d04",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2224,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

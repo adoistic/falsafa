@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 34,
+  "chapter_title": "To Atticus (at Rome) Puteoli, 21 December",
+  "chapter_slug": "34-to-atticus-at-rome-puteoli-21-december",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5acbda24-46b9-58e1-9d4d-c566e3ba9468",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 367,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

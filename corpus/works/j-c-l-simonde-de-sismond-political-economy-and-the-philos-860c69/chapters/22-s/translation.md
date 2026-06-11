@@ -1,0 +1,79 @@
+---
+work_id: "860c6910-d683-518e-83a8-2122036b29a0"
+work_slug: "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69"
+work_title: Political Economy and the Philosophy of Government
+author_name: J. C. L. Simonde de Sismondi
+chapter_number: 22
+chapter_title: S
+chapter_slug: "22-s"
+variant_id: "e32f9045-fb79-50ef-b585-3b46f03cd314"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2662
+source_url: "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+translator: Online Library of Liberty edition
+---
+
+To elevate his soul still more towards the country to which it was tending, only one step was wanting, suffering, and he was not spared that. He endured it with that unshaken firmness which had been formed by the whole course of his life. A religion full of hope and love, which places prayer in the intimate relations of the creature with its Creator, and in the effort to conform to his mysterious will, added the heroic gentleness of resignation to the strength which had been developed in Sismondi, by the constant habit of making his actions agree with his principles and his writings.
+
+After a violent attack, his illness only left him short and incomplete respites, of which he took advantage to set himself to work again with inconceivable courage. At first living only on milk, his stomach torn by dreadful agony, he did not the tess persist in working; soon he dismissed his physicians, lest they should forbid his writing, and because he felt the insufficiency of their art. In 1840, volumes 23 and 24 of the History of the French appeared; in 1841 they were soon followed by the remainder Besides this, Sismondi gave to the Bibliothèque universelle Génève, the complete and striking article on penal colonies and punishment. The attention of one who had treated in so superior a manner the greater part of social questions, was awakened by the inquiries and successive reports on the exclusively material prosperity of Van Diemen's Land and Sydney, which was accompanied with its usual consequence, a gross and demoralized social condition. His powerful indignation was excited by the eloquent complaints of the Archbishop of Dublin, Richard Whately; and he treated the subject from a loftier point of view, embracing every kind of punishment, without excepting from the melancholy list, that most fearful of all for the judge—death.
+
+“It is a mournful subject, the evil which men do when they are endeavouring to do good,”as Sismondi says. First, he endeavours to discover what are the true conditions of punishment. “Punishment must intimidate, must correct, must reach the guilty, must reach him certainly, quickly, must reach only him; it must be rather intense than long, or else it ceases to be feared; it must not corrupt even the criminal, and must not demoralize society.”What then must be said of penal colonies, when the shame of the criminal Edition: current; Page: [47] colonist becomes, through destitution, an object of desire to the day-labourer and free workman; when from these sinks of the community arise new nations, which, born of vice, in the bosom of vies, organize an aristocracy of crime, and carry to a fearful perfection by uniting them together, the depravation of barbarism, and that of civilization. What can be said of penitentiaries, which, after a long and frightful punishment, “like a surgical operation, during which the patient utters an uninterrupted cry of pain,”give back the criminal to society, mutilated, not in his body, but his soul; from which has been cut off, by his lonely life, whatever crime had left of intelligence and human feeling.
+
+The profound pity of the historian for social wounds, for vice and misery, of which he had past his whole life in sounding the depths, and discovering the causes, because it is the causes which teach the remedies, found his heart neither contracted nor withered by personal suffering. Whilst in the classification of criminals, in the remuneration of labour, and even in physical suffering, but especially by a continual study of the question, which ought to be a subject of interest to every one, he sought for progressive amelioration, the sure and slow cure which is disdained by the inventors of universal specifics, Sismondi was himself a prey to sufferings of body and mind.
+
+Physical pain had robbed him of those recreations which he had formerly tasted with so much zest, in the rapid exchange of mind and thought. All visits, all society, were become a punishment. “My speech,”wrote he to a friend, “is so disturbed and interrupted by hiccough when I have talked a quarter of an hour, that I must be insupportable to others. Even when one writes with a bad pen, one loses half one's ideas, think then how a convulsion which interrupts every sentence two or three times, must hurt conversation.”It was only in fulfilling the mission which he pursued with unalterable energy, that he could for a moment escape from his fits of pain: “I forget my suffering when I am writing,”said he.
+
+Moral pains, most felt by a soul like his, sometimes softened his heart without lessening his resignation. “I give myself up,”he wrote in September, 1841, “to the melancholy which is inspired by a condition like ours, where nothing is renewed, where in one's self and around one, one remarks only decay. . . . Affections leave us, Edition: current; Page: [48] recollections are extinguished ”(he had just lost two of his best friends, the illustrious De Candolle, and almost at the same time Chateauvieux, whose funeral he followed, and which preceded his own so short a time). “How melancholy seems this solitude where I remain,”pursued he; “sometimes I ask myself what right have I to linger after them? ”
+
+It was in 1842, that the radical association, of the 3rd of March, which for nine months had threatened the government of Geneva, and kept Sismondi in anxiety, burst out in insurrections. The national representation was threatened with knives, poniards, firearms, and fire. The national guard deemed it prudent to lay down their arms, without having made use of them, the magistrates thought it wise to yield, without having resisted, and Sismondi dying, mounted the breach alone.
+
+On the 30th of March, 1842, he would pronounce, in the Constitutive Assembly, a member of which he had been elected, notwithstanding the alarming state of his health, the last words he uttered in public. This impromptu speech, full of good sense, of moderation, of power, was interrupted by painful convulsions, and he was carried home in a state of the greatest exhaustion. Even then he would not be cast down, and as his afflicted widow said, “Standing up as long as there was anything to be done, he lay down only to die.”
+
+The conclusion of his history, written on his birthday, five weeks before he breathed his last, is an adieu annexed to the legacy which he left us, to us Frenchmen, for whom he laboured twenty-four years.
+
+“It will soon be two years,”said he in his conclusion, “since I have enjoyed a single day of health. Every month, every week, I have perceived that my complaints grow worse, and the advance by which they must arrive at their termination, though slow, is not the less sure. They were not common efforts which have been required, not to be diverted one day from my work. that I might devote to it all my remaining strength; but now it is over; it would be impossible to take a step more.”
+
+“At the end of so long a task, placed on the threshold of that door which separates time from eternity, I may be forgiven for seeking some satisfaction, in considering what I have accomplished.”
+
+“Different powers have been given to different historians: I know what I want, and what have belonged to some of my contemporaries. But there is one testimony which I dare render to myself, and I have a firm confidence that posterity will confirm it; the work which I am finishing, and which I present to the public, is that of a con scientious writer; I have always sought for truth, and I have spared neither labour nor expense to discover it.”
+
+“My life has been divided between the study of political economy and that of history; thus, the economist must often appear in this long recital, by the side of the historian; I have endeavoured not to let those lessons be lost which are given by experience, as to what contributes to create and to maintain the prosperity of nations. But above all, I have always considered wealth as a means, not as an end. I hope it will be acknowledged by my constant solicitude for the cultivator, for the artisan, for the poor who gain their bread by the sweat of their brow, that all my sympathies are with the labouring and suffering classes.”
+
+“It was in the month of May, 1818, that I seriously began to work at the History of the French; it is in the month of May, 1842, that I lay down my pen, having gone as far as my strength would permit. In delivering this work to the public, terminated with the advantages which I have set forth, with the defects which I do not dissemble, I rest on the feeling that I have done a service to the French nation. I have given her what she had not, a complete picture of her existence, a conscientious picture, in which neither love nor hatred, neither fear nor flattery, have ever led me to disguise one truth; a moral picture in which she may always reeognize what bitter fruits are borne by vice, what excellent fruits are borne by virtue; and where, without being inflated by vain glory, she will learn, and may teach her children how to esteem, how to respect themselves.”
+
+This task finished, he had only one thought, to go to Pescia and to die beneath the beautiful sky of Tuscany, amidst the flowers, the fruite, the trees he had planted, and with the recollectiona of the mother who had watched ever, and matured the promise of his youth.
+
+But no, hie stomach torn by an ulcer, could no longer bear even cold water: nevertheless he corrected proofs, still wrote to his Edition: current; Page: [50] friends, answered historical questions addressed to him by indifferent persons; his patience increased with his tortures. He preserved his soul unchanged, his body was rapidly wearing out.
+
+On the 9th of May he wrote his conclusion; from the 29th to the 31st he drew up a detailed catalogue of his works, which in itself forms a work, the abridged history of his life. On the 7th of June he corrected the four sheets of proofs which terminated the twenty-seventh volume of the History of the French, and rectified the paging of the Index. On the 8th he looked over the four first sheets of the following volume, twenty-ninth and last. On the 10th he wrote two letters, one to the son of his old bailiff, at valchiusa, to remind him that a small pension which this peasant had engaged to pay to his mother, who was a widow, was due. The other letter, which gave to a Bordelais, employed on a History of the Vaudois, the list which he had asked him for, of the authors which he ought to read, finished with the words of the gladiator to Cæsar, Morituri te salutant. On the 13th the dying man still corrected proofs. On the 14th he added a codicil to his will, in which “acknowledging the blessings which Providence had heaped upon him, he surrenders his soul into the hands of God, and begs his wife and all those who bestowed their affection on him, to see him depart with love, but without regret, as he himself quits this world, and all in it which he held dear.”
+
+On the 25th of June he continued lying down, motionless, and without speaking till about one o'clock; then he asked to get up. He was dressed and laid on a sofa, where he remained quiet, and at three o'clock in the afternoon he ceased to breathe.
+
+His works remain to us. In one of those hours of moral agony which the most vigorous minds pass through, Sismondi had exclaimed with bitterness, “I shall leave this world without having made any impression, and nothing will be done.”He deceived himself. He had chosen France to make his ideas popular; France will apply them. He, whose mind was considered as retrograde, when he said that the opinion of the crowd is not the same as the opinion of the wisest; as a dreamer when he affirmed that the means by which hand-labour is spared should not force men to heavier labour, has done well not to be tired of swimming against the current. His observations, his ideas, have become so entirely a public possession, Edition: current; Page: [51] that those who proclaim them, clothing them in sounding words, often do not even know that they are the ideas of Sismondi which they are proclaiming; his opinions, his principles which they are making popular.
+
+Was it not Sismondi who was first indignant at the laissez faire, laissez passer, of political economy? It was only after him that his disciple Buvet repeated, “Laissez faire la misèrs; laissez passer la mort!” Let wretchedness do its work, do not interfere with death!
+
+It was Sismondi who was indignant at the system by which some labour, that others may enjoy.
+
+He it was who cried out that the time will come when our posterity will not deem us less barbarous for having left the labouring classes without any security, than we deem those nations who have reduced them to slavery.
+
+It was he who asked if it is not every where perceived that men are confiscated for the advantage of things? The working men are retrenched, sometimes in one business, sometimes in another. And what signifies the increase of wealth, if it does not serve to feed men?
+
+It was he who demanded for all a participation in the advantages of life: he, who refused to call that riches, which one member of the community took from another: he, who cried that the advantage of all ought to limit the rights of all: that property is the right to use, not to abuse.
+
+Before O'Connell, with as much boldness and more weight, Sismondi exclaimed, “The social order of Ireland is essentially bad; it must be changed from top to bottom. The question is not to give the bread of charity to the famished poor: it is to secure existence, property, to every man whose hands are his only wealth.”
+
+Who is the radical who has said with more vehement warmth than Sismondi, “There is spoliation, the rich man robs the poor, when this rich man draws from a fertile and easily cultivated soil his idle opulence, whilst he who has raised this income, who with his sweat bathes every production, dies of hunger without being able to touch it.”
+
+It was he who taught the people that the true Savings bank is the land; governors, that to raise the moral character of the people, the future must be given to them, for all our moral ideas are connected with foresight.
+
+He who has been accused of an aristocratic spirit, repeats in all his works, by the examples which he brings, and by the reflections which he makes on them, “that the day in which the aristocracy is uprooted from the country, the day in which it forsakes the soil by which it was nourished, it commits suicide.”
+
+It was he who continually repeated, “that all the efforts of charity are only palliatives: of what use are schools to him who has no time? Instruction, to him who sells the most painful bodily labour at the cheapest rate, without being able to get work? Savings banks, to him who has only potatoes? ”
+
+No, the persevering study, the warnings, which his heart prompted, are not lost. Facts have gone on; they bring that conviction which he complained of not being able to produce. The day will come when the experience which he laid up will bear fruit in the world; the day will come when both the operative and the labourer will obtain that just share of enjoyment which he never ceased soliciting for them.

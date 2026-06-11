@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 58,
+  "chapter_title": "I.—: Wages and the Cost of Food.",
+  "chapter_slug": "58-i-wages-and-the-cost-of-food",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a5733ddb-a01c-54d7-b135-7f69e107a16b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 418,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

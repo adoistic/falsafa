@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-the-theory-of-moral-sentiments-946468",
+  "work_title": "The Theory of Moral Sentiments",
+  "chapter_number": 49,
+  "chapter_title": "CONCLUSION OF THE SIXTH PART.",
+  "chapter_slug": "49-conclusion-of-the-sixth-part",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cf9c08b-eea7-51c3-a405-e0bacae238ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1241,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"
+    }
+  ]
+}

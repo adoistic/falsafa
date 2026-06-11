@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 12,
+  "chapter_title": "X: DÖLLINGER ON THE TEMPORAL POWER",
+  "chapter_slug": "12-x-dollinger-on-the-temporal-power",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e2205a5-f4a6-5afa-b3d1-e1195f4ee910",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 28227,
+      "paragraph_count": 106,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

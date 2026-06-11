@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc",
+  "work_title": "The History of Bimetallism in the United States",
+  "chapter_number": 22,
+  "chapter_title": "B. Ratios of Gold to Silver, given Yearly since 1687.",
+  "chapter_slug": "22-b-ratios-of-gold-to-silver-given-yearly-since-1687",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ebf1a0b6-20ea-5b87-8c96-c4e41d3fd094",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 478,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+    }
+  ]
+}

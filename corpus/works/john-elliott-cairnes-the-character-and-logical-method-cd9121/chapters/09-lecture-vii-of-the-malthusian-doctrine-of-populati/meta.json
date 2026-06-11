@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-elliott-cairnes-the-character-and-logical-method-cd9121",
+  "work_title": "The Character and Logical Method of Political Economy",
+  "chapter_number": 9,
+  "chapter_title": "Lecture VII: Of the Malthusian Doctrine of Population.",
+  "chapter_slug": "09-lecture-vii-of-the-malthusian-doctrine-of-populati",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64f6c870-67e0-59fb-a412-5e7a73cefe5a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6867,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cairnes-the-character-and-logical-method-of-political-economy"
+    }
+  ]
+}

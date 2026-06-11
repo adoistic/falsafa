@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 34,
+  "chapter_title": "(D): That Communities which Manufacture are More Prosperous than those which are Agricultural.",
+  "chapter_slug": "34-d-that-communities-which-manufacture-are-more-pros",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ab9e1d3-f198-5ee2-9043-4f8c4c2f2be4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 200,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

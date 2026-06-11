@@ -1,0 +1,41 @@
+---
+work_id: "b2e53d8f-9a78-5b15-9c53-4db14ec44da5"
+work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
+work_title: The Comedy of Protection
+author_name: George Hamilton
+chapter_number: 65
+chapter_title: CHAPTER I
+chapter_slug: 65
+variant_id: "86d1be5d-10c7-5ea7-a011-a8c8d865f279"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1046
+source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+translator: Online Library of Liberty edition
+---
+
+Article XIII. of the Declaration of the Rights of Man and Protection—Proposed amendment to the Constitution—The electors hoodwinked—Number of persons who gain by Protection, one in twenty.
+
+The duties on corn and bread filled the pockets of the great landowners owning the 138,000 great estates of more than 96 acres, and the 711,000 moderate estates of between 24 and 96 acres, who grew corn and reared cattle: nothing went to the peasant proprietors. All consumers of bread and meat were taxed for the benefit of a limited class of landowners, of whom I can speak without bias, as being one of their number, who have reconstituted a privileged order which, instead of being exempt from the payment of taxes, imposes private taxes on all its fellow-countrymen. And this is in a democratic country, and in defiance of Article XIII. of the Declaration of the Rights of Man, which provides “for the maintenance of the national army and for Edition: current; Page: [139] the expenses of government, all must contribute, each in proportion to his ability.” Now the tax imposed by Protection on every consumer of bread and meat is not devoted to the maintenance of the army or the expenses of government; it goes to swell the revenues of the propertied class: it is a private tax, a relic of the old feudal confusion between property and sovereignty according to which the lord laid dues upon the serf for his own and not the public advantage. It is all very well to read in the Citizenship Manuals, “Taxes are only due to the State.” French Customs legislation is a flat denial of this. M. Méline has not dared to express the creed, but every day the Protectionist majority puts in practice this amendment to the Constitution, “Every consumer may be taxed according to his needs by the agricultural and industrial interest.” And the overwhelming majority, without ever admitting that the rich should be exempt from taxation, pay their tribute in the form of Protection. Not through altruism: they had much rather keep the money for themselves; they consent to pay because they do not see that they are paying, since the taxes are included in the price of food. No doubt they find their bread and meat dear: they know that many things are dearer than in England or Belgium: but all the same, they pay, resignedly; proving once again that rights only exist for those who are conscious of them.
+
+The stupid elector helps to fleece himself by voting for members who pick his pockets and hand over the contents to the defenders of property, who accept without shame. In this way an infinitesimal majority Edition: current; Page: [140] profits at the expense of the great electoral majority, as can be shown.
+
+Industry represents 35 per cent. of the active part of the population: the subsidiary trades employed in the manufacture of partly-worked material depend on the capitalists for supplies: 85 per cent. of firms employ only one to four wage-earners.
+
+Trade represents 5 per cent.: together with banking, it requires freedom of exchange.
+
+The liberal professions represent 7 per cent.
+
+Whom does Protection assist? A certain number of manufacturers declare that they depend upon Protection for existence, and there is this element of truth, that their businesses have grown up and are carried on in an atmosphere of Protection. They tell their employés that without Protection they would have no work, and thus pretend that Protection is the right of labour. An instance is the cotton spinners, a group of 37,000 persons. It is to the interest of 121,800 textile hands to procure their yarn freely: but all the men and women employed in linen manufacture depend on the cotton spinners, to whom may be added 26,000 spinners of linen, jute, and hemp, &c. The plant of the woollen industry could supply the home demand twice over: dependent on exports its first necessity is cheap labour and cheap machinery. The silk trade needs cheap thrown silk.
+
+The most important of French industries—20 per cent. of the whole total—gives employment to 1,340,000 persons, on cloth and linen goods and clothing; and the whole group is exploited by the protected industries which supply its yarn and textile materials.
+
+All the great factories in the metal trade do not produce iron and steel; it is important for many of them to get their raw material as cheap as possible. Nevertheless the 50,000 producers may be taken as interested in Protection, although 650,000 workmen are employed in industries for which iron is the raw material; and smiths and wheelwrights are affected by Protection.
+
+All tanners and leather-dressers do not want Protection; admitting, however, that the 50,000 tanners and leather-dressers are interested in it, there are 335,000 tributary employés in the skin and leather trades. To go back—
+
+Say 200,000, and we have the maximum number, including employers and employed, interested in Protection. The industrial population is 6,374,000, giving a total benefited to a greater or less extent by Protection of less than 3 per cent. Then as to agriculture. I admit that all the owners of estates of more than 24 acres believe in Protection; there are 849,000 of them, the agricultural population being 5,982,000 according to the census returns; that is a proportion of 14 per cent. Adding together the industrial and agricultural populations, we have a total of 12,400,000 in round numbers. The number of those who believe that they are benefited by Protection is Edition: current; Page: [142] 849,000 + 200,000—i.e., 8 per cent. But if we extend our calculation to include the whole population, and take into account persons of independent means, retired officials, officers, and soldiers, this proportion must be decreased, to say nothing of the fact that many of those who believe that they are benefited by Protection are not so in fact. As a matter of fact, not 5 per cent. of the population is interested in Protection; not one in twenty. If any one were to dare to show the other 95 per cent. how they are hoodwinked into handing over their cash in the form of rent or profits to this little oligarchy, he would be regarded as an “enemy of the people,” like Dr. Stockmann in Ibsen’s play.

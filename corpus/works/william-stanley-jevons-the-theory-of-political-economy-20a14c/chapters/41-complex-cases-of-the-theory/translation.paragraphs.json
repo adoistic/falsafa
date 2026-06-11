@@ -1,0 +1,72 @@
+[
+  {
+    "id": "p-b20d89",
+    "offset": 0,
+    "text": "We have hitherto considered the Theory of Exchange as applying only to two trading bodies possessing and dealing in two commodities. Exactly the same principles hold true, however numerous and Edition: current; Page: [115] complicated may be the conditions. The main point to be remembered in tracing out the results of the theory is, that the same pair of commodities in the same market can have only one ratio of exchange, which must therefore prevail between each body and each other, the costs of conveyance being considered as nil. The equations become rapidly more numerous as additional bodies or commodities are considered; but we may exhibit them as they apply to the case of three trading bodies and three commodities."
+  },
+  {
+    "id": "p-e4deb3",
+    "offset": 730,
+    "text": "Thus, suppose that"
+  },
+  {
+    "id": "p-6d6d3b",
+    "offset": 750,
+    "text": "A possesses the stock a of cotton, and gives x1 of it to B, x2 to C."
+  },
+  {
+    "id": "p-238bb6",
+    "offset": 820,
+    "text": "B possesses the stock b of silk, and gives y1 to A, y2 to C."
+  },
+  {
+    "id": "p-72d6a0",
+    "offset": 882,
+    "text": "C possesses the stock c of wool, and gives z1 to A, z2 to B."
+  },
+  {
+    "id": "p-9dbf83",
+    "offset": 944,
+    "text": "We have here altogether six unknown quantities—x1, x2, y1, y2, z1, z2; but we have also sufficient means of determining them. They are exchanged as follows—"
+  },
+  {
+    "id": "p-b89c60",
+    "offset": 1102,
+    "text": "A gives x1 for y1, and x2 for z1."
+  },
+  {
+    "id": "p-0c21ec",
+    "offset": 1137,
+    "text": "B gives 'y1 for x1, and y2 for z2."
+  },
+  {
+    "id": "p-91fbdf",
+    "offset": 1173,
+    "text": "C gives z1 for x2, and z2 for y2."
+  },
+  {
+    "id": "p-a89105",
+    "offset": 1208,
+    "text": "These may be treated as independent exchanges; each body must be satisfied in regard to each of its exchanges, and we must therefore take into account the functions of utility or the final degrees of utility of each commodity in respect of each body. Let us express these functions as follows—"
+  },
+  {
+    "id": "p-924244",
+    "offset": 1503,
+    "text": "Now A, after the exchange, will hold a - x1 - x2 of cotton and y1 of silk; and B will hold x1 of cotton and b - y1 - y2 of silk: their ratio of exchange, y1 for x1, will therefore be governed by the following pair of equations:—"
+  },
+  {
+    "id": "p-804f7f",
+    "offset": 1733,
+    "text": "The exchange of A with C will be similarly determined by the ratio of the degrees of utility of wool and cotton on each side subsequent to the exchange; hence we have"
+  },
+  {
+    "id": "p-9ed331",
+    "offset": 1901,
+    "text": "There will also be interchange between B and C which will be independently regulated on similar principles, so that we have another pair of equations to complete the conditions, namely—"
+  },
+  {
+    "id": "p-f282cf",
+    "offset": 2088,
+    "text": "We might proceed in the same way to lay down the conditions of exchange between more numerous bodies, but the principles would be exactly the same. For every quantity of commodity which is given in exchange something must be received; and if portions of the same kind of commodity be received from several distinct parties, then we may conceive the Edition: current; Page: [117] quantity which is given for that commodity to be broken up into as many distinct portions. The exchanges in the most complicated case may thus always be decomposed into simple exchanges, and every exchange will give rise to two equations sufficient to determine the quantities involved. The same can also be done when there are two or more commodities in the possession of each trading body."
+  }
+]

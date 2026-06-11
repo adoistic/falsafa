@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
+  "work_title": "The Social Contract and Discourses",
+  "chapter_number": 61,
+  "chapter_title": "THE FIRST PART",
+  "chapter_slug": "61-the-first-part",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e30824d-73ba-5879-aa36-e730f5253672",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12087,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
+    }
+  ]
+}

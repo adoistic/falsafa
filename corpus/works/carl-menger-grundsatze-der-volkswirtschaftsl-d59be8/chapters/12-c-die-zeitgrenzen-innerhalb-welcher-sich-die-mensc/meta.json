@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 12,
+  "chapter_title": "c) Die Zeitgrenzen, innerhalb welcher sich die menschlichen Bedürfnisse geltend machen.",
+  "chapter_slug": "12-c-die-zeitgrenzen-innerhalb-welcher-sich-die-mensc",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20935228-eedf-5b02-a9b0-35865bc58507",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 594,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

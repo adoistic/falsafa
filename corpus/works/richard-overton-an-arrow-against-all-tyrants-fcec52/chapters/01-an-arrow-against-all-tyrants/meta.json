@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-overton-an-arrow-against-all-tyrants-fcec52",
+  "work_title": "An Arrow Against All Tyrants",
+  "chapter_number": 1,
+  "chapter_title": "An Arrow Against All Tyrants",
+  "chapter_slug": "01-an-arrow-against-all-tyrants",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1f972e4-15ca-5d9d-ad61-2e0f423d21ec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7138,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/overton-an-arrow-against-all-tyrants"
+    }
+  ]
+}

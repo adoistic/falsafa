@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 74,
+  "chapter_title": "EXPLANATION OF THE DIAGRAM.",
+  "chapter_slug": "74-explanation-of-the-diagram",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec6f4bf1-e29d-543a-9335-a0693e48b301",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 227,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

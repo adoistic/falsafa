@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 26,
+  "chapter_title": "II.: industrial co-operation.",
+  "chapter_slug": "26-ii-industrial-co-operation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b65bca1a-d7e8-5c1b-a871-e87241793fdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3497,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

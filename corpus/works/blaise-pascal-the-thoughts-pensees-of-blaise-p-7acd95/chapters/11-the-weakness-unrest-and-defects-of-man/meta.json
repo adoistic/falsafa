@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 11,
+  "chapter_title": "THE WEAKNESS UNREST AND DEFECTS OF MAN.",
+  "chapter_slug": "11-the-weakness-unrest-and-defects-of-man",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "505b6492-ccea-5461-9afe-a16911530cdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5206,
+      "paragraph_count": 86,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

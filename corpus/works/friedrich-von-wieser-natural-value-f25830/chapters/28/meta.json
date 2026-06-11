@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 28,
+  "chapter_title": "CHAPTER VII: the principle of solution (continued). the economic service of imputation",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94aa21ec-9eb8-5b5e-a838-3fd6aae53b2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1608,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

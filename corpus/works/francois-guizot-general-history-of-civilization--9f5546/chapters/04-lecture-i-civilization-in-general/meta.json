@@ -1,0 +1,26 @@
+{
+  "work_slug": "francois-guizot-general-history-of-civilization--9f5546",
+  "work_title": "General History of Civilization in Europe",
+  "chapter_number": 4,
+  "chapter_title": "LECTURE I.: CIVILIZATION IN GENERAL.",
+  "chapter_slug": "04-lecture-i-civilization-in-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb13cdaf-9530-5e7e-b014-e15f2ec4d5ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7276,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-general-history-of-civilization-in-europe"
+    }
+  ]
+}

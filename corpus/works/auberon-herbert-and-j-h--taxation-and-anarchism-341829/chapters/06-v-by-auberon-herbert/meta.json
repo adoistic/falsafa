@@ -1,0 +1,26 @@
+{
+  "work_slug": "auberon-herbert-and-j-h--taxation-and-anarchism-341829",
+  "work_title": "Taxation and Anarchism",
+  "chapter_number": 6,
+  "chapter_title": "V.—: By AUBERON HERBERT.",
+  "chapter_slug": "06-v-by-auberon-herbert",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0fc0a74-15fc-5793-8e9c-283ca5113dea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 342,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/levy-taxation-and-anarchism-a-discussion-between-the-hon-auberon-herbert-and-j-h-levy"
+    }
+  ]
+}

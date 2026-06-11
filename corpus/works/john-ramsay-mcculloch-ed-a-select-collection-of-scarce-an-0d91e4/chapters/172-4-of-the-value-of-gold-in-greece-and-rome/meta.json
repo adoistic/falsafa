@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 172,
+  "chapter_title": "§ 4.: Of the value of Gold in Greece and Rome.",
+  "chapter_slug": "172-4-of-the-value-of-gold-in-greece-and-rome",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d9e7bf5-6903-57f9-970e-6b7eea964d97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1338,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

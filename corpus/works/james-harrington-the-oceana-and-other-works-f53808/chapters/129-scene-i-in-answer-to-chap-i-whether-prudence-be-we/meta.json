@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 129,
+  "chapter_title": "Scene I. In Answer to Chap. I.: Whether Prudence be well distinguished into ancient and modern.",
+  "chapter_slug": "129-scene-i-in-answer-to-chap-i-whether-prudence-be-we",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "33bb3ded-ecd8-5f83-99cb-a9447bc8bc2e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2018,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

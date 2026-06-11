@@ -1,0 +1,41 @@
+---
+work_id: "65c38856-6963-53d0-a517-e894e1b0a111"
+work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
+work_title: Proslogium; Monologium; and Cur Deus Homo
+author_name: Anselm of Canterbury
+chapter_number: 133
+chapter_title: CHAPTER II
+chapter_slug: 133
+variant_id: "610a567f-4281-5a3a-9675-061efbba0c4f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 873
+source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+translator: Online Library of Liberty edition
+---
+
+How those things which are to be said should be received.
+
+As the right order requires us to believe the deep things of Christian faith before we undertake to discuss them by reason; so to my mind it appears a neglect if, after we are established in the faith, we do not seek to understand what we believe. Therefore, since I thus consider myself to hold the faith of our redemption, by the prevenient grace of God, so that, even were I unable in any way to understand what I believe, still nothing could shake my constancy; I desire that you should discover to me, what, as you know, many besides myself ask, for what necessity Edition: current; Page: [180] and cause God, who is omnipotent, should have assumed the littleness and weakness of human nature for the sake of its renewal?
+
+You ask of me a thing which is above me, and therefore I tremble to take in hand subjects too lofty for me, lest, when some one may have thought or even seen that I do not satisfy him, he will rather believe that I am in error with regard to the substance of the truth, than that my intellect is not able to grasp it.
+
+You ought not so much to fear this, because you should call to mind, on the other hand, that it often happens in the discussion of some question that God opens what before lay concealed; and that you should hope for the grace of God, because if you liberally impart those things which you have freely received, you will be worthy to receive higher things to which you have not yet attained.
+
+There is also another thing on account of which I think this subject can hardly, or not at all, be discussed between us comprehensively; since, for this purpose, there is required a knowledge of Power and Necessity and Will and certain other subjects which are so related to one another that none of them can be fully examined without the rest; and so the discussion of these topics requires a separate labor, which, though not very easy, in my opinion, is by no means useless; for ignorance of these subjects makes certain things difficult, which by acquaintance with them become easy.
+
+You can speak so briefly with regard to these things, each in its place, that we may both have all that is requisite for the present object, and what remains to be said we can put off to another time.
+
+This also much disinclines me from your request, not only that the subject is important, but as it is of a form fair above the sons of men, so is it of a wisdom fair above the intellect of men. On this account, I fear, lest, as I am wont to be incensed against sorry artists, when I see our Lord himself painted in an unseemly figure; so also it may fall out with me if I should undertake to exhibit so rich a theme in rough and vulgar diction.
+
+Even this ought not to deter you, because, as you allow any one to talk better if he can, so you preclude none from writing more elegantly if your language does not please him. But, to cut you off from all excuses, you are not to fulfil this request of mine for the learned but for me, and those asking the same thing with me.
+
+Since I observe your earnestness and that of those who desire this thing with you, out of love and pious zeal, I will try to the best of my ability (with the assistance of God and your prayers, which, when making this request, you have often promised me), not so much to make plain what you inquire about, as to inquire with you. But I wish all that I say to be received with this understanding, that, if I shall have said anything which higher authority does not corroborate, though I appear to demonstrate it by argument, yet it is not to be received with any further confidence, than as so appearing to me for the time, until God in some way make a clearer revelation to me. But if I am in any measure able to set your inquiry at rest, it should be concluded that a wiser than I will be able to do this more fully; nay, we must understand that for all that a man can say or Edition: current; Page: [182] know still deeper grounds of so great a truth lie concealed.
+
+Suffer me, therefore, to make use of the words of infidels; for it is proper for us when we seek to investigate the reasonableness of our faith to propose the objections of those who are wholly unwilling to submit to the same faith, without the support of reason. For although they appeal to reason because they do not believe, but we, on the other hand, because we do believe; nevertheless, the thing sought is one and the same. And if you bring up anything in reply which sacred authority seems to oppose, let it be mine to urge this inconsistency until you disprove it.
+
+Speak on according to your pleasure.

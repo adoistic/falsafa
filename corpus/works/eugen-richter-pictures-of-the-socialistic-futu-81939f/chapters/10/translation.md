@@ -1,0 +1,33 @@
+---
+work_id: "81939f1a-b5af-5797-ab79-a8204fd3b62e"
+work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
+work_title: Pictures of the Socialistic Future
+author_name: Eugen Richter
+chapter_number: 10
+chapter_title: "Chapter VII: NEWS FROM THE PROVINCES."
+chapter_slug: 10
+variant_id: "5d362894-54c2-5e31-8cd4-df899ec2714b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1042
+source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+translator: Online Library of Liberty edition
+---
+
+All young men of the age of twenty are required to enrol themselves within three days. Agnes' brother is among this number. The "National Bulwark," as it is called, is to be organised and armed with all speed. The spacious buildings of the War Ministry were to have been converted into a vast infant's school for the sake of the fine gardens adjoining. (This school was to have been, too, the scene of my wife's labours.) It is, however, now determined to leave things as they were.
+
+The internal affairs of the country render it necessary Edition: current; Page: [23] that the National Bulwark should be called out earlier than had been intended, and also that the organisation be on a far larger scale than had been at first contemplated. The New Provincial Councillors are constantly sending urgent requests for military assistance to aid them in the work of establishing the new laws in country districts and in small towns Hence, it has been decided to establish at convenient centres all over the country, a battalion of infantry, a squadron of cavalry, and a battery. In order to ensure better security the troops are composed of men chosen from districts lying far asunder.
+
+These country boors and louts must be brought to reason. They actually go the length of objecting to the nationalisation—or as the official term runs, the communalisation—of their private means, their possessions in the shape of acres, houses, cattle, farm stock and the like. Your small owner in the country will insist on remaining where he is, and sticking fast to what he has got, in spite of all you can tell him of the hard lot he has from sunrise to sunset. People of this sort could be left quietly where they are, but then the mischief is, it would greatly interfere with the vast scheme for the organisation of production. So there is no other way than to compel these thick-headed people by sheer force to see what is to their advantage. And when the whole organisation is once in full swing such persons will soon be convinced of the benefits that have been conferred upon them by Socialism.
+
+Upon its becoming known that all the big landed estates and large farms had been declared State property, all farm servants and agricultural labourers at once attached themselves zealously to our side. But Edition: current; Page: [24] these people are now no longer content to remain where they were. A great desire for a change has come over them, and they all make for the larger towns, chiefly for Berlin. Here, in Frederick St., and unter den Linden, may now be seen daily the most out-landish-looking individuals from the remotest parts of the country. Many of them arrive with wives and families, and with the scantiest means. But they nevertheless clamour for food and drink, clothing, boots, and what not of the best and dearest. They had been told, they say, that everybody in Berlin lived on the fat of the land. I wish such were only really the case!
+
+But, of course, we can't do with these backwoodsmen here, and they are to be bundled off back to where they came from, which will cause some little bitterness. It would be a pretty state of things if the magnificent scheme of the Government for regulating production and consumption were to be made sixes and sevens of in this fashion by a capricious wandering to and fro of people from the provinces. We should have them at one time swarming down like flights of locusts upon the stores accumulated here, to the neglect of necessary labours in their own parts; whilst at other times, when the fit took them not to come, we should behold all the stuff that had been got in in anticipation of their visit, spoiling on our hands.
+
+It would unquestionably have been better if those regulations which have only just been issued had been issued at the very first. According to these regulations no one can now temporarily leave his place of residence without first providing himself with a leave-of-absence ticket; and no one can make Edition: current; Page: [25] a permanent removal without receiving such directions from higher quarters. It is, of course, intended that Berlin shall still remain a much-visited capital; but people are not to come and go in a capricious, aimless way, but only, as the Onward simply and clearly sets forth, in a manner which shall accord with the carefully prepared calculations and plans of the Government. The socialistic State or, as we now say, the Community, is in earnest as respects the obligation on all persons alike to work; and it, therefore, is fully determined not to permit any vagabondism of any kind, not even any railway vagabondism.
+
+Yesterday the Chancellor made another telling speech in that convincing manner which, as the Onward truly remarks, is so peculiarly his own. The question had been raised in the House whether an attempt should not be made to tranquillise the disaffected country districts by aggregating local possessions into local groups, instead of impounding such possessions for the benefit of the whole Community? These detached groups were to be called Local Produce Associations, each inhabitant of a district being a unit of the local group. "It is high time," said the Chancellor, in his speech, "that errors such as these—errors which reach back to the time of Lassalle, and which were fully disposed of at the Erfurt Conference of 1891—should be set at rest for ever. It is evident that the results of the establishment of various Local Produce Associations would be to introduce competition between the several associations. Then, again, the varying nature of the quality of the land must inevitably tend to produce gradations of prosperity and non-prosperity, and in this way to open a kind of back-door to the return of capital Edition: current; Page: [26] A well-digested scheme for the regulation of production and consumption, and an intelligent distribution of the craftsmen in each several department over the whole State, are things which cannot admit of any individualism, any competition, any personal or local independence. Socialism can never consent to do things by halves." (Loud applause.)

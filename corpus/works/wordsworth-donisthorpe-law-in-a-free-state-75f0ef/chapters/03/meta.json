@@ -1,0 +1,26 @@
+{
+  "work_slug": "wordsworth-donisthorpe-law-in-a-free-state-75f0ef",
+  "work_title": "Law in a Free State",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER II: the limits of liberty",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3abf40e-4b29-5c70-b6d7-ab66e0cf4d26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 18626,
+      "paragraph_count": 104,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/donisthorpe-law-in-a-free-state"
+    }
+  ]
+}

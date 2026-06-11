@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-an-essay-on-the-principle-of-pop-b79da8",
+  "work_title": "An Essay on the Principle of Population (1st ed., 1798)",
+  "chapter_number": 10,
+  "chapter_title": "Chapter IX",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34877315-f577-5bb6-a11e-bf1fc860434d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2149,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-1798-1st-ed"
+    }
+  ]
+}

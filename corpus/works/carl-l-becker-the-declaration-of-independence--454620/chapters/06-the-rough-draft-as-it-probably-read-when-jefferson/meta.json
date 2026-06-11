@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-l-becker-the-declaration-of-independence--454620",
+  "work_title": "The Declaration of Independence: A Study in the History of Political Ideas",
+  "chapter_number": 6,
+  "chapter_title": "THE ROUGH DRAFT (as it probably read when Jefferson first submitted it to Franklin.)",
+  "chapter_slug": "06-the-rough-draft-as-it-probably-read-when-jefferson",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfd24280-c15a-551e-8543-8db546f29b56",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3625,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/becker-the-declaration-of-independence-a-study-on-the-history-of-political-ideas"
+    }
+  ]
+}

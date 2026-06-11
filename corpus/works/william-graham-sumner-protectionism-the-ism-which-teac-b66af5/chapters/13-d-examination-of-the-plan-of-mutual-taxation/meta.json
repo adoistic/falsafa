@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-protectionism-the-ism-which-teac-b66af5",
+  "work_title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+  "chapter_number": 13,
+  "chapter_title": "D.): Examination, of the plan of Mutual Taxation.",
+  "chapter_slug": "13-d-examination-of-the-plan-of-mutual-taxation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dda37bcf-92c7-5b51-920b-fe719166de5f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 644,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth"
+    }
+  ]
+}

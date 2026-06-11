@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 39,
+  "chapter_title": "XIV.: bi-metallism.",
+  "chapter_slug": "39-xiv-bi-metallism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5639eb9d-5528-5f6c-aba6-43fd249a4cbd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3993,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

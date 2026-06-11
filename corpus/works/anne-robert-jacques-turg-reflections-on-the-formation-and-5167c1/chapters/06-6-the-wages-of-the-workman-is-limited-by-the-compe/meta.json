@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 6,
+  "chapter_title": "6. The wages of the workman is limited by the competition among those who work for a subsistence. He only gains a liveli",
+  "chapter_slug": "06-6-the-wages-of-the-workman-is-limited-by-the-compe",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6371a643-d1d6-53a0-8cd2-9cbfea3576c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}
