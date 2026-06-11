@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8304
+word_count: 8220
 source_url: "https://www.gutenberg.org/ebooks/31796"
 translator: Project Gutenberg edition
 ---
@@ -95,8 +95,6 @@ While both CONTRARIES may be false, they cannot both be true.
 It is sometimes said that in the case of Singular propositions, the Contradictory and the Contrary coincide. A more correct doctrine is that in the case of Singular propositions, the distinction is not needed and does not apply. Put the question "Is Socrates wise?" or "Is this paper white?" and the answer "No" admits of only one interpretation, provided the terms remain the same. Socrates may become foolish, or this paper may hereafter be coloured differently, but in either case the subject term is not the same about which the question was asked. Contrary opposition belongs only to general terms taken universally as subjects. Concerning individual subjects an attribute must be either affirmed or denied simply: there is no middle course. Such a proposition as "Socrates is sometimes not wise," is not a true Singular proposition, though it has a Singular term as grammatical subject. Logically, it is a Particular proposition, of which the subject-term is the actions or judgments of Socrates.
 
 Opposition, in the ordinary sense, is the opposition of incompatible propositions, and it was with this only that Aristotle concerned himself. But from an early period in the history of Logic, the word was extended to cover mere differences in Quantity and Quality among the four forms A E I O, which differences have been named and exhibited symmetrically in a diagram known as: The Square of Opposition.
-
-A_____*Contraries*_____E |\ /| | \ s | | C e | | o i | | n r | | t o | S r t S u a c u b \ i b a \ d a l \/ l t /\ t e / d e r / i r n a c n s r t s | t o | | n r | | o i | | C e | | / s | |/ \| I___*Sub-contraries*___O
 
 The four forms being placed at the four corners of the Square, and the sides and diagonals representing relations between them thus separated, a very pretty and symmetrical doctrine is the result.
 

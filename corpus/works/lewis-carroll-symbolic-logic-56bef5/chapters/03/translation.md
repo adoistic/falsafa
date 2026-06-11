@@ -4,7 +4,7 @@ work_slug: "lewis-carroll-symbolic-logic-56bef5"
 work_title: Symbolic Logic
 author_name: Lewis Carroll
 chapter_number: 3
-chapter_title: Book III
+chapter_title: "Part II — ]"
 chapter_slug: 03
 variant_id: "6baf6e94-d933-5573-8873-922d9851c336"
 content_type: translation
@@ -13,335 +13,293 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 4575
+word_count: 2386
 source_url: "https://www.gutenberg.org/ebooks/28696"
 translator: Project Gutenberg edition
 ---
 
-THE BILITERAL DIAGRAM.
+The Genus, of which the two Terms are Specieses, is called the '=Universe of Discourse=,' or (more briefly) the '=Univ.='
 
-·-------------· | | | | xy | xy' | | | | |------|------| | | | | x'y | x'y' | | | | ·-------------·
+The Sign of Quantity is "Some" or "No" or "All".
 
-CHAPTER I.
+[Note that, though its Sign of Quantity tells us *how many* Members of its Subject are *also* Members of its Predicate, it does not tell us the *exact* number: in fact, it only deals with *three* numbers, which are, in ascending order, "0", "1 or more", "the total number of Members of the Subject".]
 
-*SYMBOLS AND CELLS.*
+It is called "a Proposition of Relation" because its effect is to assert that a certain *relationship* exists between its Terms.
 
-First, let us suppose that the above Diagram is an enclosure assigned to a certain Class of Things, which we have selected as our 'Universe of Discourse.' or, more briefly, as our 'Univ'.
+*Reduction of a Proposition of Relation to Normal form.*
 
-[For example, we might say "Let Univ. be 'books'"; and we might imagine the Diagram to be a large table, assigned to all "books."]
+The Rules, for doing this, are as follows:--
 
-[The Reader is strongly advised, in reading this Chapter, *not* to refer to the above Diagram, but to draw a large one for himself, *without any letters*, and to have it by him while he reads, and keep his finger on that particular *part* of it, about which he is reading.] pg023 Secondly, let us suppose that we have selected a certain Adjunct, which we may call "x," and have divided the large Class, to which we have assigned the whole Diagram, into the two smaller Classes whose Differentiæ are "x" and "not-x" (which we may call "x'"), and that we have assigned the *North* Half of the Diagram to the one (which we may call "the Class of x-Things," or "the x-Class"), and the *South* Half to the other (which we may call "the Class of x'-Things," or "the x'-Class").
+(1) Ascertain what is the *Subject* (i.e., ascertain what Class we are *talking about*);
 
-[For example, we might say "Let x mean 'old,' so that x' will mean 'new'," and we might suppose that we had divided books into the two Classes whose Differentiæ are "old" and "new," and had assigned the *North* Half of the table to "*old* books" and the *South* Half to "*new* books."]
+(2) If the verb, governed by the Subject, is *not* the verb "are" (or "is"), substitute for it a phrase beginning with "are" (or "is");
 
-Thirdly, let us suppose that we have selected another Adjunct, which we may call "y", and have subdivided the x-Class into the two Classes whose Differentiæ are "y" and "y'", and that we have assigned the North-*West* Cell to the one (which we may call "the xy-Class"), and the North-*East* Cell to the other (which we may call "the xy'-Class").
+(3) Ascertain what is the *Predicate* (i.e., ascertain what Class it is, which is asserted to contain *some*, or *none*, or *all*, of the Members of the Subject);
 
-[For example, we might say "Let y mean 'English,' so that y' will mean 'foreign'", and we might suppose that we had subdivided "old books" into the two Classes whose Differentiæ are "English" and "foreign", and had assigned the North-*West* Cell to "old *English* books", and the North-*East* Cell to "old *foreign* books."]
+(4) If the Name of each Term is *completely expressed* (i.e. if it contains a Substantive), there is no need to determine the 'Univ.'; but, if either Name is *incompletely expressed*, and contains *Attributes* only, it is then necessary to determine a 'Univ.', in order to insert its Name as the Substantive.
 
-Fourthly, let us suppose that we have subdivided the x'-Class in the same manner, and have assigned the South-*West* Cell to the x'y-Class, and the South-*East* Cell to the x'y'-Class.
+(5) Ascertain the *Sign of Quantity*;
 
-[For example, we might suppose that we had subdivided "new books" into the two Classes "new *English* books" and "new *foreign* books", and had assigned the South-*West* Cell to the one, and the South-*East* Cell to the other.]
+(6) Arrange in the following order:--
 
-It is evident that, if we had begun by dividing for y and y', and had then subdivided for x and x', we should have got the *same* four Classes. Hence we see that we have assigned the *West* Half to the y-Class, and the *East* Half to the y'-Class. pg024 [Thus, in the above Example, we should find that we had assigned the *West* Half of the table to "*English* books" and the *East* Half to "*foreign* books."
+Sign of Quantity, Subject, Copula, Predicate.
 
-·-------------------· | old | old | | English | foreign | | books | books | |---------|---------| | new | new | | English | foreign | | books | books | ·-------------------·
+[Let us work a few Examples, to illustrate these Rules.
 
-We have, in fact, assigned the four Quarters of the table to four different Classes of books, as here shown.]
+"Some apples are not ripe."
 
-The Reader should carefully remember that, in such a phrase as "the x-Things," the word "Things" means that particular *kind* of Things, to which the whole Diagram has been assigned.
+(1) The Subject is "apples."
 
-[Thus, if we say "Let Univ. be 'books'," we mean that we have assigned the whole Diagram to "books." In that case, if we took "x" to mean "old", the phrase "the x-Things" would mean "the old books."]
+(3) The Predicate is "not-ripe * * *." (As no Substantive is expressed, and we have not yet settled what the Univ. is to be, we are forced to leave a blank.)
 
-The Reader should not go on to the next Chapter until he is _quite familiar* with the *blank_ Diagram I have advised him to draw.
+(4) Let Univ. be "fruit."
 
-He ought to be able to name, *instantly*, the *Adjunct* assigned to any Compartment named in the right-hand column of the following Table.
+(5) The Sign of Quantity is "some."
 
-Also he ought to be able to name, *instantly*, the *Compartment* assigned to any Adjunct named in the left-hand column.
+(6) The Proposition now becomes
 
-To make sure of this, he had better put the book into the hands of some genial friend, while he himself has nothing but the blank Diagram, and get that genial friend to question him on this Table, *dodging* about as much as possible. The Questions and Answers should be something like this:--
+"Some | apples | are | not-ripe fruit."
 
-pg025 TABLE I.
+"None of my speculations have brought me as much as 5 per cent."
 
-·----------------------------------------· | *Adjuncts* | *Compartments, or Cells,* | | *of* | *assigned to them.* | | *Classes.* | | |------------|---------------------------| | x | North Half. | | x' | South " | | y | West " | | y' | East " | |------------|---------------------------| | xy | North-West Cell. | | xy' | " East " | | x'y | South-West " | | x'y' | " East " | ·----------------------------------------·
+(1) The Subject is "my speculations."
 
-Q. "Adjunct for West Half?" A. "y." Q. "Compartment for xy'?" A. "North-East Cell." Q. "Adjunct for South-West Cell?" A. "x'y." &c., &c.
+(2) The Verb is "have brought," for which we substitute the phrase "are * * * that have brought".
 
-After a little practice, he will find himself able to do without the blank Diagram, and will be able to see it *mentally* ("in my mind's eye, Horatio!") while answering the questions of his genial friend. When *this* result has been reached, he may safely go on to the next Chapter.
+(3) The Predicate is "* * * that have brought &c."
 
-pg026
+(4) Let Univ. be "transactions."
 
-CHAPTER II.
+(5) The Sign of Quantity is "none of."
 
-*COUNTERS.*
+(6) The Proposition now becomes
 
-Let us agree that a *Red* Counter, placed within a Cell, shall mean "This Cell is *occupied*" (i.e. "There is at least *one* Thing in it").
+"None of | my speculations | are | transactions that have brought me as much as 5 per cent."
 
-Let us also agree that a *Red* Counter, placed on the partition between two Cells, shall mean "The Compartment, made up of these two Cells, is *occupied*; but it is not known *whereabouts*, in it, its occupants are." Hence it may be understood to mean "At least *one* of these two Cells is occupied: possibly *both* are."
+"None but the brave deserve the fair."
 
-Our ingenious American cousins have invented a phrase to describe the condition of a man who has not yet made up his mind *which* of two political parties he will join: such a man is said to be "=sitting on the fence=." This phrase exactly describes the condition of the Red Counter.
+To begin with, we note that the phrase "none but the brave" is equivalent to "no *not*-brave."
 
-Let us also agree that a *Grey* Counter, placed within a Cell, shall mean "This Cell is *empty*" (i.e. "There is *nothing* in it").
+(1) The Subject has for its *Attribute* "not-brave." But no *Substantive* is supplied. So we express the Subject as "not-brave * * *."
 
-[The Reader had better provide himself with 4 Red Counters and 5 Grey ones.]
+(2) The Verb is "deserve," for which we substitute the phrase "are deserving of".
 
-pg027
+(3) The Predicate is "* * * deserving of the fair."
 
-CHAPTER III.
+(4) Let Univ. be "persons."
 
-*REPRESENTATION OF PROPOSITIONS.*
+(5) The Sign of Quantity is "no."
 
-*Introductory.*
+(6) The Proposition now becomes
 
-Henceforwards, in stating such Propositions as "Some x-Things exist" or "No x-Things are y-Things", I shall omit the word "Things", which the Reader can supply for himself, and shall write them as "Some x exist" or "No x are y".
+"No | not-brave persons | are | persons deserving of the fair."
 
-[Note that the word "Things" is here used with a special meaning, as explained at p. 23.]
+"A lame puppy would not say "thank you" if you offered to lend it a skipping-rope."
 
-A Proposition, containing only *one* of the Letters used as Symbols for Attributes, is said to be '=Uniliteral='.
+(1) The Subject is evidently "lame puppies," and all the rest of the sentence must somehow be packed into the Predicate.
 
-[For example, "Some x exist", "No y' exist", &c.]
+(2) The Verb is "would not say," &c., for which we may substitute the phrase "are not grateful for."
 
-A Proposition, containing *two* Letters, is said to be ='Biliteral'=.
+(3) The Predicate may be expressed as "* * * not grateful for the loan of a skipping-rope."
 
-[For example, "Some xy' exist", "No x' are y", &c.]
+(4) Let Univ. be "puppies."
 
-A Proposition is said to be '=in terms of=' the Letters it contains, whether with or without accents.
+(5) The Sign of Quantity is "all."
 
-[Thus, "Some xy' exist", "No x' are y", &c., are said to be _in terms of_ x and y.]
+(6) The Proposition now becomes
 
-pg028 § 2.
+"All | lame puppies | are | puppies not grateful for the loan of a skipping-rope."
 
-*Representation of Propositions of Existence.*
+"No one takes in the *Times*, unless he is well-educated."
 
-Let us take, first, the Proposition "Some x exist".
+(1) The Subject is evidently persons who are not well-educated ("no *one*" evidently means "no *person*").
 
-[Note that this Proposition is (as explained at p. 12) equivalent to "Some existing Things are x-Things."]
+(2) The Verb is "takes in," for which we may substitute the phrase "are persons taking in."
 
-This tells us that there is at least *one* Thing in the North Half; that is, that the North Half is *occupied*. And this we can evidently represent by placing a *Red* Counter (here represented by a *dotted* circle) on the partition which divides the North Half.
+(3) The Predicate is "persons taking in the *Times*."
 
-[In the "books" example, this Proposition would be "Some old books exist".]
+(4) Let Univ. be "persons."
 
-Similarly we may represent the three similar Propositions "Some x' exist", "Some y exist", and "Some y' exist".
+(5) The Sign of Quantity is "no."
 
-[The Reader should make out all these for himself. In the "books" example, these Propositions would be "Some new books exist", &c.]
+(6) The Proposition now becomes
 
-Let us take, next, the Proposition "No x exist".
+"No | persons who are not well-educated | are | persons taking in the *Times*."
 
-This tells us that there is *nothing* in the North Half; that is, that the North Half is *empty*; that is, that the North-West Cell and the North-East Cell are both of them *empty*. And this we can represent by placing *two Grey* Counters in the North Half, one in each Cell.
+"My carriage will meet you at the station."
 
-[The Reader may perhaps think that it would be enough to place a *Grey* Counter on the partition in the North Half, and that, just as a *Red* Counter, so placed, would mean "This Half is *occupied*", so a *Grey* one would mean "This Half is *empty*".
+(1) The Subject is "my carriage." This, being an 'Individual,' is equivalent to the Class "my carriages." (Note that this Class contains only *one* Member.)
 
-This, however, would be a mistake. We have seen that a *Red* Counter, so placed, would mean "At least *one* of these two Cells is occupied: possibly *both* are." Hence a *Grey* one would merely mean "At least *one* of these two Cells is empty: possibly *both* are". But what we have to represent is, that both Cells are *certainly* empty: and this can only be done by placing a *Grey* Counter in *each* of them.
+(2) The Verb is "will meet", for which we may substitute the phrase "are * * * that will meet."
 
-In the "books" example, this Proposition would be "No old books exist".] pg029 Similarly we may represent the three similar Propositions "No x' exist", "No y exist", and "No y' exist".
+(3) The Predicate is "* * * that will meet you at the station."
 
-[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No new books exist", &c.]
+(4) Let Univ. be "things."
 
-Let us take, next, the Proposition "Some xy exist".
+(5) The Sign of Quantity is "all."
 
-This tells us that there is at least *one* Thing in the North-West Cell; that is, that the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it.
+(6) The Proposition now becomes
 
-[In the "books" example, this Proposition would be "Some old English books exist".]
+"All | my carriages | are | things that will meet you at the station."
 
-Similarly we may represent the three similar Propositions "Some xy' exist", "Some x'y exist", and "Some x'y' exist".
+"Happy is the man who does not know what 'toothache' means!"
 
-[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "Some old foreign books exist", &c.]
+(1) The Subject is evidently "the man &c." (Note that in this sentence, the *Predicate* comes first.) At first sight, the Subject seems to be an '*Individual*'; but on further consideration, we see that the article "the" does *not* imply that there is only *one* such man. Hence the phrase "the man who" is equivalent to "all men who".
 
-Let us take, next, the Proposition "No xy exist".
+(5) The Sign of Quantity is "all."
 
-This tells us that there is *nothing* in the North-West Cell; that is, that the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it.
+(6) The Proposition now becomes
 
-[In the "books" example, this Proposition would be "No old English books exist".]
+"All | men who do not know what 'toothache' means | are | happy men."
 
-Similarly we may represent the three similar Propositions "No xy' exist", "No x'y exist", and "No x'y' exist".
+"Some farmers always grumble at the weather, whatever it may be."
 
-[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No old foreign books exist", &c.] pg030 We have seen that the Proposition "No x exist" may be represented by placing *two Grey* Counters in the North Half, one in each Cell.
+(1) The Subject is "farmers."
 
-We have also seen that these two *Grey* Counters, taken *separately*, represent the two Propositions "No xy exist" and "No xy' exist".
+(2) The Verb is "grumble," for which we substitute the phrase "are * * * who grumble."
 
-Hence we see that the Proposition "No x exist" is a *Double* Proposition, and is equivalent to the *two* Propositions "No xy exist" and "No xy' exist".
+(3) The Predicate is "* * * who always grumble &c."
 
-[In the "books" example, this Proposition would be "No old books exist".
+(4) Let Univ. be "persons."
 
-Hence this is a *Double* Proposition, and is equivalent to the *two* Propositions "No old *English* books exist" and "No old *foreign* books exist".]
+(5) The Sign of Quantity is "some."
 
-*Representation of Propositions of Relation.*
+(6) The Proposition now becomes
 
-Let us take, first, the Proposition "Some x are y".
+"Some | farmers | are | persons who always grumble at the weather, whatever it may be."
 
-This tells us that at least *one* Thing, in the *North* Half, is also in the *West* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it.
+"No lambs are accustomed to smoke cigars."
 
-[Note that the *Subject* of the Proposition settles which *Half* we are to use; and that the *Predicate* settles in which *portion* of it we are to place the Red Counter.
+(1) The Subject is "lambs."
 
-In the "books" example, this Proposition would be "Some old books are English".]
+(3) The Predicate is "* * * accustomed &c."
 
-Similarly we may represent the three similar Propositions "Some x are y'", "Some x' are y", and "Some x' are y'".
+(4) Let Univ. be "animals."
 
-[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "Some old books are foreign", &c.] pg031 Let us take, next, the Proposition "Some y are x".
+(5) The Sign of Quantity is "no."
 
-This tells us that at least *one* Thing, in the *West* Half, is also in the *North* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it.
+(6) The Proposition now becomes
 
-[In the "books" example, this Proposition would be "Some English books are old".]
+"No | lambs | are | animals accustomed to smoke cigars."
 
-Similarly we may represent the three similar Propositions "Some y are x'", "Some y' are x", and "Some y' are x'".
+"I ca'n't understand examples that are not arranged in regular order, like those I am used to."
 
-[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "Some English books are new", &c.]
+(1) The Subject is "examples that," &c.
 
-We see that this *one* Diagram has now served to represent no less than *three* Propositions, viz.
+(2) The Verb is "I ca'n't understand," which we must alter, so as to have "examples," instead of "I," as the nominative case. It may be expressed as "are not understood by me."
 
-(1) "Some xy exist; (2) Some x are y; (3) Some y are x".
+(3) The Predicate is "* * * not understood by me."
 
-Hence these three Propositions are equivalent.
+(4) Let Univ. be "examples."
 
-[In the "books" example, these Propositions would be
+(5) The Sign of Quantity is "all."
 
-(1) "Some old English books exist; (2) Some old books are English; (3) Some English books are old".]
+(6) The Proposition now becomes
 
-The two equivalent Propositions, "Some x are y" and "Some y are x", are said to be '=Converse=' to each other; and the Process, of changing one into the other, is called '=Converting=', or '=Conversion='.
+"All | examples that are not arranged in regular order like those I am used to | are | examples not understood by me."]
 
-[For example, if we were told to convert the Proposition
+_A Proposition of Relation, beginning with "All", is a Double Proposition._
 
-"Some apples are not ripe,"
+A Proposition of Relation, beginning with "All", asserts (as we already know) that "*All* Members of the Subject are Members of the Predicate". This evidently contains, as a *part* of what it tells us, the smaller Proposition "*Some* Members of the Subject are Members of the Predicate".
 
-we should first choose our Univ. (say "fruit"), and then complete the Proposition, by supplying the Substantive "fruit" in the Predicate, so that it would be
+[Thus, the Proposition "*All* bankers are rich men" evidently contains the smaller Proposition "*Some* bankers are rich men".]
 
-"Some apples are not-ripe fruit";
+The question now arises "What is the *rest* of the information which this Proposition gives us?"
 
-and we should then convert it by interchanging its Terms, so that it would be
+In order to answer this question, let us begin with the smaller Proposition, "*Some* Members of the Subject are Members of the Predicate," and suppose that this is *all* we have been told; and let us proceed to inquire what *else* we need to be told, in order to know that "*All* Members of the Subject are Members of the Predicate".
 
-"Some not-ripe fruit are apples".] pg032 Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--
+[Thus, we may suppose that the Proposition "*Some* bankers are rich men" is all the information we possess; and we may proceed to inquire what *other* Proposition needs to be added to it, in order to make up the entire Proposition "*All* bankers are rich men".]
 
-(1) "Some xy exist" = "Some x are y" = "Some y are x". (2) "Some xy' exist" = "Some x are y'" = "Some y' are x". (3) "Some x'y exist" = "Some x' are y" = "Some y are x'". (4) "Some x'y' exist" = "Some x' are y'" = "Some y' are x'".
+Let us also suppose that the 'Univ.' (i.e. the Genus, of which both the Subject and the Predicate are Specieses) has been divided (by the Process of *Dichotomy*) into two smaller Classes, viz.
 
-Let us take, next, the Proposition "No x are y".
+(1) the Predicate;
 
-This tell us that no Thing, in the *North* Half, is also in the *West* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it.
+(2) the Class whose Differentia is *contradictory* to that of the Predicate.
 
-[In the "books" example, this Proposition would be "No old books are English".]
+[Thus, we may suppose that the Genus "men," (of which both "bankers" and "rich men" are Specieses) has been divided into the two smaller Classes, "rich men", "poor men".] pg018 Now we know that *every* Member of the Subject is (as shown at p. 6) a Member of the Univ. Hence *every* Member of the Subject is either in Class (1) or else in Class (2).
 
-Similarly we may represent the three similar Propositions "No x are y'", and "No x' are y", and "No x' are y'".
+[Thus, we know that *every* banker is a Member of the Genus "men". Hence, *every* banker is either in the Class "rich men", or else in the Class "poor men".]
 
-[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No old books are foreign", &c.]
+Also we have been told that, in the case we are discussing, *some* Members of the Subject are in Class (1). What *else* do we need to be told, in order to know that *all* of them are there? Evidently we need to be told that *none* of them are in Class (2); i.e. that *none* of them are Members of the Class whose Differentia is *contradictory* to that of the Predicate.
 
-Let us take, next, the Proposition "No y are x".
+[Thus, we may suppose we have been told that *some* bankers are in the Class "rich men". What *else* do we need to be told, in order to know that *all* of them are there? Evidently we need to be told that *none* of them are in the Class "*poor* men".]
 
-This tells us that no Thing, in the *West* Half, is also in the *North* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. That is, the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it.
+Hence a Proposition of Relation, beginning with "All", is a *Double* Proposition, and is '=equivalent=' to (i.e. gives the same information as) the *two* Propositions
 
-[In the "books" example, this Proposition would be "No English books are old".]
+(1) "*Some* Members of the Subject are Members of the Predicate";
 
-Similarly we may represent the three similar Propositions "No y are x'", "No y' are x", and "No y' are x'".
+(2) "*No* Members of the Subject are Members of the Class whose Differentia is *contradictory* to that of the Predicate".
 
-[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No English books are new", &c.] pg033 ·-------· |( )| | |---|---| | | | ·-------·
+[Thus, the Proposition "*All* bankers are rich men" is a *Double* Proposition, and is equivalent to the *two* Propositions
 
-We see that this *one* Diagram has now served to present no less than *three* Propositions, viz.
+(1) "*Some* bankers are rich men";
 
-(1) "No xy exist; (2) No x are y; (3) No y are x."
+_What is implied, in a Proposition of Relation, as to the Reality of its Terms?_
 
-Hence these three Propositions are equivalent.
+Note that the rules, here laid down, are *arbitrary*, and only apply to Part I of my "Symbolic Logic."
 
-[In the "books" example, these Propositions would be
+A Proposition of Relation, beginning with "Some", is henceforward to be understood as asserting that there are *some existing Things*, which, being Members of the Subject, are also Members of the Predicate; i.e. that *some existing Things* are Members of *both* Terms at once. Hence it is to be understood as implying that *each* Term, taken by itself, is *Real*.
 
-(1) "No old English books exist; (2) No old books are English; (3) No English books are old".]
+[Thus, the Proposition "Some rich men are invalids" is to be understood as asserting that *some existing Things* are "rich invalids". Hence it implies that *each* of the two Classes, "rich men" and "invalids", taken by itself, is *Real*.]
 
-The two equivalent Propositions, "No x are y" and "No y are x", are said to be 'Converse' to each other.
+A Proposition of Relation, beginning with "No", is henceforward to be understood as asserting that there are *no existing Things* which, being Members of the Subject, are also Members of the Predicate; i.e. that _no existing Things* are Members of *both_ Terms at once. But this implies nothing as to the *Reality* of either Term taken by itself.
 
-[For example, if we were told to convert the Proposition
+[Thus, the Proposition "No mermaids are milliners" is to be understood as asserting that *no existing Things* are "mermaid-milliners". But this implies nothing as to the *Reality*, or the *Unreality*, of either of the two Classes, "mermaids" and "milliners", taken by itself. In this case as it happens, the Subject is *Imaginary*, and the Predicate *Real*.]
 
-"No porcupines are talkative",
+A Proposition of Relation, beginning with "All", contains (see § 3) a similar Proposition beginning with "Some". Hence it is to be understood as implying that *each* Term, taken by itself, is *Real*.
 
-we should first choose our Univ. (say "animals"), and then complete the Proposition, by supplying the Substantive "animals" in the Predicate, so that it would be
+[Thus, the Proposition "All hyænas are savage animals" contains the Proposition "Some hyænas are savage animals". Hence it implies that *each* of the two Classes, "hyænas" and "savage animals", taken by itself, is *Real*.]
 
-"No porcupines are talkative animals", and we should then convert it, by interchanging its Terms, so that it would be
+_Translation of a Proposition of Relation into one or more Propositions of Existence._
 
-"No talkative animals are porcupines".]
+We have seen that a Proposition of Relation, beginning with "Some," asserts that *some existing Things*, being Members of its Subject, are *also* Members of its Predicate. Hence, it asserts that some existing Things are Members of *both*; i.e. it asserts that some existing Things are Members of the Class of Things which have *all* the Attributes of the Subject and the Predicate.
 
-Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--
+Hence, to translate it into a Proposition of Existence, we take "existing Things" as the new *Subject*, and Things, which have *all* the Attributes of the Subject and the Predicate, as the new Predicate.
 
-(1) "No xy exist" = "No x are y" = "No y are x". (2) "No xy' exist" = "No x are y'" = "No y' are x". (3) "No x'y exist" = "No x' are y" = "No y are x'". (4) "No x'y' exist" = "No x' are y'" = "No y' are x'".
+Similarly for a Proposition of Relation beginning with "No".
 
-Let us take, next, the Proposition "All x are y".
+A Proposition of Relation, beginning with "All", is (as shown in § 3) equivalent to *two* Propositions, one beginning with "Some" and the other with "No", each of which we now know how to translate.
 
-We know (see p. 17) that this is a *Double* Proposition, and equivalent to the *two* Propositions "Some x are y" and "No x are y'", each of which we already know how to represent.
+[Let us work a few Examples, to illustrate these Rules.
 
-[Note that the *Subject* of the given Proposition settles which *Half* we are to use; and that its *Predicate* settles in which *portion* of that Half we are to place the Red Counter.]
+"Some apples are not ripe."
 
-pg034 TABLE II.
+Here we arrange thus:--
 
-·-----------------------------------------------------· | | ·-------· | | ·-------· | | | | (.) | | | |( )|( )| | | Some x exist | |---|---| | No x exist | |---|---| | | | | | | | | | | | | | | ·-------· | | ·-------· | |---------------|-----------|-------------|-----------| | | ·-------· | | ·-------· | | | | | | | | | | | | | Some x' exist | |---|---| | No x' exist | |---|---| | | | | (.) | | | |( )|( )| | | | ·-------· | | ·-------· | |---------------|-----------|-------------|-----------| | | ·-------· | | ·-------· | | | | | | | | |( )| | | | Some y exist | |(.)|---| | No y exist | |---|---| | | | | | | | | |( )| | | | | ·-------· | | ·-------· | |---------------|-----------|-------------|-----------| | | ·-------· | | ·-------· | | | | | | | | | |( )| | | Some y' exist | |---|(.)| | No y' exist | |---|---| | | | | | | | | | |( )| | | | ·-------· | | ·-------· | ·-----------------------------------------------------·
+"Some" *Sign of Quantity*. "existing Things" *Subject*. "are" *Copula*. "not-ripe apples" *Predicate*.
 
-Similarly we may represent the seven similar Propositions "All x are y'", "All x' are y", "All x' are y'", "All y are x", "All y are x'", "All y' are x", and "All y' are x'".
+or thus:--
 
-Let us take, lastly, the Double Proposition "Some x are y and some are y'", each part of which we already know how to represent.
+"Some | existing Things | are | not-ripe apples." pg021 (2)
 
-Similarly we may represent the three similar Propositions, "Some x' are y and some are y'", "Some y are x and some are x'", "Some y' are x and some are x'".
+"Some farmers always grumble at the weather, whatever it may be."
 
-The Reader should now get his genial friend to question him, severely, on these two Tables. The *Inquisitor* should have the Tables before him: but the *Victim* should have nothing but a blank Diagram, and the Counters with which he is to represent the various Propositions named by his friend, e.g. "Some y exist", "No y' are x", "All x are y", &c. &c.
+Here we arrange thus:--
 
-pg035 TABLE III.
+"Some | existing Things | are | farmers who always grumble at the weather, whatever it may be."
 
-·-------------------------------------------------------------· | | ·-------· | | ·-------· | | Some xy exist | |(.)| | | | |(.)|( )| | |  = Some x are y | |---|---| | All x are y | |---|---| | |  = Some y are x | | | | | | | | | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | Some xy' exist | | |(.)| | | |( )|(.)| | |  = Some x are y' | |---|---| | All x are y' | |---|---| | |  = Some y' are x | | | | | | | | | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | Some x'y exist | | | | | | | | | | |  = Some x' are y | |---|---| | All x' are y | |---|---| | |  = Some y are x' | |(.)| | | | |(.)|( )| | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | Some x'y' exist | | | | | | | | | | |  = Some x' are y'| |---|---| | All x' are y' | |---|---| | |  = Some y' are x'| | |(.)| | | |( )|(.)| | | | ·-------· | | ·-------· | ·-------------------------------------------------------------·
+"No lambs are accustomed to smoke cigars."
 
-·-------------------------------------------------------------· | | ·-------· | | ·-------· | | No xy exist | |( )| | | | |(.)| | | |  = No x are y | |---|---| | All y are x | |---|---| | |  = No y are x | | | | | | |( )| | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | No xy' exist | | |( )| | | |( )| | | |  = No x are y' | |---|---| | All y are x' | |---|---| | |  = No y' are x | | | | | | |(.)| | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | No x'y exist | | | | | | | |(.)| | |  = No x' are y | |---|---| | All y' are x | |---|---| | |  = No y are x' | |( )| | | | | |( )| | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | No x'y' exist | | | | | | | |( )| | |  = No x' are y' | |---|---| | All y' are x' | |---|---| | |  = No y' are x' | | |( )| | | | |(.)| | | | ·-------· | | ·-------· | ·-------------------------------------------------------------·
+Here we arrange thus:--
 
-·-------------------------------------------------------------· | | ·-------· | | ·-------· | | | |(.)|(.)| | | |(.)| | | | Some x are y, | |---|---| | Some y are x | |---|---| | | and some are y' | | | | | and some are x' | |(.)| | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | | | | | | | | |(.)| | | Some x' are y, | |---|---| | Some y' are x | |---|---| | | and some are y' | |(.)|(.)| | and some are x' | | |(.)| | | | ·-------· | | ·-------· | ·-------------------------------------------------------------·
+"No | existing Things |are | lambs accustomed to smoke cigars."
 
-pg036
+"None of my speculations have brought me as much as 5 per cent."
 
-CHAPTER IV.
+Here we arrange thus:--
 
-*INTERPRETATION OF BILITERAL DIAGRAM WHEN MARKED WITH COUNTERS.*
+"No | existing Things | are | speculations of mine, which have brought me as much as 5 per cent."
 
-The Diagram is supposed to be set before us, with certain Counters placed upon it; and the problem is to find out what Proposition, or Propositions, the Counters represent.
+"None but the brave deserve the fair."
 
-As the process is simply the reverse of that discussed in the previous Chapter, we can avail ourselves of the results there obtained, as far as they go.
+Here we note, to begin with, that the phrase "none but the brave" is equivalent to "no not-brave men." We then arrange thus:--
 
-First, let us suppose that we find a *Red* Counter placed in the North-West Cell.
+"No | existing Things | are | not-brave men deserving of the fair."
 
-We know that this represents each of the Trio of equivalent Propositions
+"All bankers are rich men."
 
-"Some xy exist" = "Some x are y" = "Some y are x".
+This is equivalent to the two Propositions "Some bankers are rich men" and "No bankers are poor men."
 
-Similarly we may interpret a *Red* Counter, when placed in the North-East, or South-West, or South-East Cell.
+Here we arrange thus:--
 
-Next, let us suppose that we find a *Grey* Counter placed in the North-West Cell.
-
-We know that this represents each of the Trio of equivalent Propositions
-
-"No xy exist" = "No x are y" = "No y are x".
-
-Similarly we may interpret a *Grey* Counter, when placed in the North-East, or South-West, or South-East Cell. pg037 Next, let us suppose that we find a *Red* Counter placed on the partition which divides the North Half.
-
-We know that this represents the Proposition "Some x exist."
-
-Similarly we may interpret a *Red* Counter, when placed on the partition which divides the South, or West, or East Half.
-
-Next, let us suppose that we find *two Red* Counters placed in the North Half, one in each Cell.
-
-We know that this represents the *Double* Proposition "Some x are y and some are y'".
-
-Similarly we may interpret *two Red* Counters, when placed in the South, or West, or East Half.
-
-Next, let us suppose that we find *two Grey* Counters placed in the North Half, one in each Cell.
-
-We know that this represents the Proposition "No x exist".
-
-Similarly we may interpret *two Grey* Counters, when placed in the South, or West, or East Half.
-
-Lastly, let us suppose that we find a *Red* and a *Grey* Counter placed in the North Half, the *Red* in the North-*West* Cell, and the *Grey* in the North-*East* Cell.
-
-We know that this represents the Proposition, "All x are y".
-
-[Note that the *Half*, occupied by the two Counters, settles what is to be the *Subject* of the Proposition, and that the *Cell*, occupied by the *Red* Counter, settles what is to be its *Predicate*.] pg038 Similarly we may interpret a *Red* and a *Grey* counter, when placed in any one of the seven similar positions
-
-Red in North-East, Grey in North-West; Red in South-West, Grey in South-East; Red in South-East, Grey in South-West; Red in North-West, Grey in South-West; Red in South-West, Grey in North-West; Red in North-East, Grey in South-East; Red in South-East, Grey in North-East.
-
-Once more the genial friend must be appealed to, and requested to examine the Reader on Tables II and III, and to make him not only *represent* Propositions, but also *interpret* Diagrams when marked with Counters.
-
-The Questions and Answers should be like this:--
-
-Q. Represent "No x' are y'." A. Grey Counter in S.E. Cell. Q. Interpret Red Counter on E. partition. A. "Some y' exist." Q. Represent "All y' are x." A. Red in N.E. Cell; Grey in S.E. Q. Interpret Grey Counter in S.W. Cell. A. "No x'y exist" = "No x' are y" = "No y are x'". &c., &c.
-
-At first the Examinee will need to have the Board and Counters before him; but he will soon learn to dispense with these, and to answer with his eyes shut or gazing into vacancy.
-
-[Work Examples § =1=, 5-8 (p. 97).]
-
-pg039
+"Some | existing Things | are | rich bankers"; and "No | existing Things | are | poor bankers."]

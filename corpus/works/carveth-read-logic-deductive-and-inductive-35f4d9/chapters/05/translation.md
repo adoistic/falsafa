@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5173
+word_count: 5133
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -72,8 +72,6 @@ It must be acknowledged that these four kinds of proposition recognised by Forma
 
 Those Logicians who explicitly quantify the predicate obtain, in all, eight forms of proposition according to Quantity and Quality:
 
-[Transcriber's Note: The Greek characters used in the original are represented below by the name of the character in square brackets.]
-
 U. Toto-total Affirmative -- All X is all Y. A. Toto-partial Affirmative -- All X is some Y. Y. Parti-total Affirmative -- Some X is all Y. I. Parti-partial Affirmative -- Some X is some Y. E. Toto-total Negative -- No X is any Y. [eta]. Toto-partial Negative -- No X is some Y. O. Parti-total Negative -- Some X is not any Y. [omega]. Parti-partial Negative -- Some X is not some Y.
 
 Here A. I. E. O. correspond with those similarly symbolised in the usual list, merely designating in the predicates the quantity which was formerly treated as implicit.
@@ -83,8 +81,6 @@ Here A. I. E. O. correspond with those similarly symbolised in the usual list, m
 A Conditional Proposition is so called because the predication is made under some limitation or condition not included in the subject, as _If a man live in England, he is secure of justice_. Here the limitation 'living in England' is put into a conditional sentence extraneous to the subject, 'he,' representing any man.
 
 Conditional propositions, again, are of two kinds--Hypothetical and Disjunctive. Hypothetical propositions are those that are limited by an explicit conditional sentence, as above, or thus: _If Joe Smith was a prophet, his followers have been unjustly persecuted_. Or in symbols thus:
-
-If A is, B is; If A is B, A is C; If A is B, C is D.
 
 Disjunctive propositions are those in which the condition under which predication is made is not explicit but only implied under the disguise of an alternative proposition, as _Joe Smith was either a prophet or an impostor_. Here there is no direct predication concerning Joe Smith, but only a predication of one of the alternatives conditionally on the other being denied, as, *If Joe Smith was not a prophet he was an impostor*; or, *If he was not an impostor, he was a prophet*. Symbolically, Disjunctives may be represented thus:
 

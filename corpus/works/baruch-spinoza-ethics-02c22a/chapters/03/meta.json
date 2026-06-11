@@ -2,7 +2,7 @@
   "work_slug": "baruch-spinoza-ethics-02c22a",
   "work_title": "Ethics",
   "chapter_number": 3,
-  "chapter_title": "Part IV",
+  "chapter_title": "Part III",
   "chapter_slug": "03",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 22339,
-      "paragraph_count": 283,
+      "word_count": 22696,
+      "paragraph_count": 298,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/3800"
     }

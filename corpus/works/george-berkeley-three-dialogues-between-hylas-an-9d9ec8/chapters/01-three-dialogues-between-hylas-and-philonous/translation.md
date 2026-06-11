@@ -13,18 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 36487
+word_count: 36475
 source_url: "https://www.gutenberg.org/ebooks/4724"
 translator: Project Gutenberg edition
 ---
 
-Produced by Col Choat. HTML version by Al Haines.
-
 THREE DIALOGUES BETWEEN HYLAS AND PHILONOUS, IN OPPOSITION TO SCEPTICS AND ATHEISTS
 
 by
-
-George Berkeley (1685-1753)
 
 THE FIRST DIALOGUE
 

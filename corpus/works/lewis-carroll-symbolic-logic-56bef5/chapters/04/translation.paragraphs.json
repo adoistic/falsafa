@@ -1,432 +1,732 @@
 [
   {
-    "id": "p-77f3b0",
+    "id": "p-8ee1d6",
     "offset": 0,
-    "text": "THE TRILITERAL DIAGRAM."
-  },
-  {
-    "id": "p-1f8940",
-    "offset": 25,
-    "text": "·-----------------· ·-----------------· | | | | xy | xy' | | | | | m' | m' | | xy | xy' | | ·----|----· | | | | | | xy | xy'| | | | | | | m | m | | |--------|--------| |---|----|----|---| | | | | |x'y |x'y'| | | | | | | m | m | | | x'y | x'y' | | ·----|----· | | | | | x'y | x'y' | | | | | m' | m' | ·-----------------· ·-----------------·"
+    "text": "THE BILITERAL DIAGRAM."
   },
   {
     "id": "p-4434d4",
-    "offset": 366,
+    "offset": 24,
     "text": "CHAPTER I."
   },
   {
     "id": "p-2a7e1f",
-    "offset": 378,
+    "offset": 36,
     "text": "*SYMBOLS AND CELLS.*"
   },
   {
-    "id": "p-5949a3",
-    "offset": 400,
-    "text": "First, let us suppose that the above *left*-hand Diagram is the Biliteral Diagram that we have been using in Book III., and that we change it into a *Triliteral* Diagram by drawing an *Inner Square*, so as to divide each of its 4 Cells into 2 portions, thus making 8 Cells altogether. The *right*-hand Diagram shows the result."
+    "id": "p-7048e7",
+    "offset": 58,
+    "text": "First, let us suppose that the above Diagram is an enclosure assigned to a certain Class of Things, which we have selected as our 'Universe of Discourse.' or, more briefly, as our 'Univ'."
   },
   {
-    "id": "p-cfd4ec",
-    "offset": 729,
-    "text": "[The Reader is strongly advised, in reading this Chapter, *not* to refer to the above Diagrams, but to make a large copy of the right-hand one for himself, *without any letters*, and to have it by him while he reads, and keep his finger on that particular *part* of it, about which he is reading.] pg040 Secondly, let us suppose that we have selected a certain Adjunct, which we may call \"m\", and have subdivided the xy-Class into the two Classes whose Differentiæ are m and m', and that we have assigned the N.W. *Inner* Cell to the one (which we may call \"the Class of xym-Things\", or \"the xym-Class\"), and the N.W. *Outer* Cell to the other (which we may call \"the Class of xym'-Things\", or \"the xym'-Class\")."
+    "id": "p-3b50a8",
+    "offset": 247,
+    "text": "[For example, we might say \"Let Univ. be 'books'\"; and we might imagine the Diagram to be a large table, assigned to all \"books.\"]"
   },
   {
-    "id": "p-dbe216",
-    "offset": 1443,
-    "text": "[Thus, in the \"books\" example, we might say \"Let m mean 'bound', so that m' will mean 'unbound'\", and we might suppose that we had subdivided the Class \"old English books\" into the two Classes, \"old English bound books\" and \"old English unbound books\", and had assigned the N.W. *Inner* Cell to the one, and the N.W. *Outer* Cell to the other.]"
+    "id": "p-8447a3",
+    "offset": 379,
+    "text": "[The Reader is strongly advised, in reading this Chapter, *not* to refer to the above Diagram, but to draw a large one for himself, *without any letters*, and to have it by him while he reads, and keep his finger on that particular *part* of it, about which he is reading.] pg023 Secondly, let us suppose that we have selected a certain Adjunct, which we may call \"x,\" and have divided the large Class, to which we have assigned the whole Diagram, into the two smaller Classes whose Differentiæ are \"x\" and \"not-x\" (which we may call \"x'\"), and that we have assigned the *North* Half of the Diagram to the one (which we may call \"the Class of x-Things,\" or \"the x-Class\"), and the *South* Half to the other (which we may call \"the Class of x'-Things,\" or \"the x'-Class\")."
   },
   {
-    "id": "p-5dc6bb",
-    "offset": 1789,
-    "text": "Thirdly, let us suppose that we have subdivided the xy'-Class, the x'y-Class, and the x'y'-Class in the same manner, and have, in each case, assigned the *Inner* Cell to the Class possessing the Attribute m, and the *Outer* Cell to the Class possessing the Attribute m'."
+    "id": "p-af352e",
+    "offset": 1152,
+    "text": "[For example, we might say \"Let x mean 'old,' so that x' will mean 'new',\" and we might suppose that we had divided books into the two Classes whose Differentiæ are \"old\" and \"new,\" and had assigned the *North* Half of the table to \"*old* books\" and the *South* Half to \"*new* books.\"]"
   },
   {
-    "id": "p-2636e9",
-    "offset": 2061,
-    "text": "[Thus, in the \"books\" example, we might suppose that we had subdivided the \"new English books\" into the two Classes, \"new English bound books\" and \"new English unbound books\", and had assigned the S.W. *Inner* Cell to the one, and the S.W. *Outer* Cell to the other.]"
+    "id": "p-6093b2",
+    "offset": 1439,
+    "text": "Thirdly, let us suppose that we have selected another Adjunct, which we may call \"y\", and have subdivided the x-Class into the two Classes whose Differentiæ are \"y\" and \"y'\", and that we have assigned the North-*West* Cell to the one (which we may call \"the xy-Class\"), and the North-*East* Cell to the other (which we may call \"the xy'-Class\")."
   },
   {
-    "id": "p-79b229",
-    "offset": 2330,
-    "text": "It is evident that we have now assigned the *Inner Square* to the m-Class, and the *Outer Border* to the m'-Class."
+    "id": "p-ebfc12",
+    "offset": 1786,
+    "text": "[For example, we might say \"Let y mean 'English,' so that y' will mean 'foreign'\", and we might suppose that we had subdivided \"old books\" into the two Classes whose Differentiæ are \"English\" and \"foreign\", and had assigned the North-*West* Cell to \"old *English* books\", and the North-*East* Cell to \"old *foreign* books.\"]"
   },
   {
-    "id": "p-9f12ca",
-    "offset": 2446,
-    "text": "[Thus, in the \"books\" example, we have assigned the _Inner Square* to \"bound books\" and the *Outer Border_ to \"unbound books\".]"
+    "id": "p-826d4a",
+    "offset": 2112,
+    "text": "Fourthly, let us suppose that we have subdivided the x'-Class in the same manner, and have assigned the South-*West* Cell to the x'y-Class, and the South-*East* Cell to the x'y'-Class."
   },
   {
-    "id": "p-f07835",
-    "offset": 2575,
-    "text": "When the Reader has made himself familiar with this Diagram, he ought to be able to find, in a moment, the Compartment assigned to a particular *pair* of Attributes, or the Cell assigned to a particular *trio* of Attributes. The following Rules will help him in doing this:--"
+    "id": "p-724a22",
+    "offset": 2298,
+    "text": "[For example, we might suppose that we had subdivided \"new books\" into the two Classes \"new *English* books\" and \"new *foreign* books\", and had assigned the South-*West* Cell to the one, and the South-*East* Cell to the other.]"
   },
   {
-    "id": "p-5d597c",
-    "offset": 2852,
-    "text": "(1) Arrange the Attributes in the order x, y, m. pg041 (2) Take the *first* of them and find the Compartment assigned to it."
+    "id": "p-c2a74d",
+    "offset": 2527,
+    "text": "It is evident that, if we had begun by dividing for y and y', and had then subdivided for x and x', we should have got the *same* four Classes. Hence we see that we have assigned the *West* Half to the y-Class, and the *East* Half to the y'-Class. pg024 [Thus, in the above Example, we should find that we had assigned the *West* Half of the table to \"*English* books\" and the *East* Half to \"*foreign* books.\""
   },
   {
-    "id": "p-7bd420",
-    "offset": 2978,
-    "text": "(3) Then take the *second*, and find what *portion* of that compartment is assigned to it."
+    "id": "p-16c5fa",
+    "offset": 2939,
+    "text": "We have, in fact, assigned the four Quarters of the table to four different Classes of books, as here shown.]"
   },
   {
-    "id": "p-4dfee6",
-    "offset": 3070,
-    "text": "(4) Treat the *third*, if there is one, in the same way."
+    "id": "p-adb64a",
+    "offset": 3050,
+    "text": "The Reader should carefully remember that, in such a phrase as \"the x-Things,\" the word \"Things\" means that particular *kind* of Things, to which the whole Diagram has been assigned."
   },
   {
-    "id": "p-bfed6a",
-    "offset": 3128,
-    "text": "[For example, suppose we have to find the Compartment assigned to ym. We say to ourselves \"y has the *West* Half; and m has the *Inner* portion of that West Half.\""
+    "id": "p-a82c20",
+    "offset": 3234,
+    "text": "[Thus, if we say \"Let Univ. be 'books',\" we mean that we have assigned the whole Diagram to \"books.\" In that case, if we took \"x\" to mean \"old\", the phrase \"the x-Things\" would mean \"the old books.\"]"
   },
   {
-    "id": "p-f62ad9",
-    "offset": 3293,
-    "text": "Again, suppose we have to find the Cell assigned to x'ym'. We say to ourselves \"x' has the *South* Half; y has the *West* portion of that South Half, i.e. has the *South-West Quarter*; and m' has the *Outer* portion of that South-West Quarter.\"]"
+    "id": "p-55f3ff",
+    "offset": 3435,
+    "text": "The Reader should not go on to the next Chapter until he is _quite familiar* with the *blank_ Diagram I have advised him to draw."
   },
   {
-    "id": "p-93da13",
-    "offset": 3540,
-    "text": "The Reader should now get his genial friend to question him on the Table given on the next page, in the style of the following specimen-Dialogue."
+    "id": "p-899b5b",
+    "offset": 3566,
+    "text": "He ought to be able to name, *instantly*, the *Adjunct* assigned to any Compartment named in the right-hand column of the following Table."
   },
   {
-    "id": "p-afbd56",
-    "offset": 3687,
-    "text": "Q. Adjunct for South Half, Inner Portion? A. x'm. Q. Compartment for m'? A. The Outer Border. Q. Adjunct for North-East Quarter, Outer Portion? A. xy'm'. Q. Compartment for ym? A. West Half, Inner Portion. Q. Adjunct for South Half? A. x'. Q. Compartment for x'y'm? A. South-East Quarter, Inner Portion. &c. &c."
+    "id": "p-61f9d8",
+    "offset": 3706,
+    "text": "Also he ought to be able to name, *instantly*, the *Compartment* assigned to any Adjunct named in the left-hand column."
   },
   {
-    "id": "p-22483a",
-    "offset": 4000,
-    "text": "pg042 TABLE IV."
+    "id": "p-127658",
+    "offset": 3827,
+    "text": "To make sure of this, he had better put the book into the hands of some genial friend, while he himself has nothing but the blank Diagram, and get that genial friend to question him on this Table, *dodging* about as much as possible. The Questions and Answers should be something like this:--"
   },
   {
-    "id": "p-de1597",
-    "offset": 4017,
-    "text": "·-----------------------------------------------· | Adjunct | | | of | Compartments, or Cells, assigned | | Classes. | to them. | |----------|------------------------------------| | x | North Half. | | x' | South \" | | y | West \" | | y' | East \" | | m | Inner Square. | | m' | Outer Border. | |----------|------------------------------------| | xy | North-West Quarter. | | xy' | \" East \" | | x'y | South-West \" | | x'y' | \" East \" | | xm | North Half, Inner Portion. | | xm' | \" \" Outer \" | | x'm | South \" Inner \" | | x'm' | \" \" Outer \" | | ym | West \" Inner \" | | ym' | \" \" Outer \" | | y'm | East \" Inner \" | | y'm' | \" \" Outer \" | |----------|------------------------------------| | xym | North-West Quarter, Inner Portion. | | xym' | \" \" \" Outer \" | | xy'm | \" East \" Inner \" | | xy'm' | \" \" \" Outer \" | | x'ym | South-West \" Inner \" | | x'ym' | \" \" \" Outer \" | | x'y'm | \" East \" Inner \" | | x'y'm' | \" \" \" Outer \" | ·-----------------------------------------------·"
+    "id": "p-59e8f9",
+    "offset": 4121,
+    "text": "pg025 TABLE I."
   },
   {
-    "id": "p-becd0a",
-    "offset": 4991,
-    "text": "pg043"
+    "id": "p-99324c",
+    "offset": 4137,
+    "text": "Q. \"Adjunct for West Half?\" A. \"y.\" Q. \"Compartment for xy'?\" A. \"North-East Cell.\" Q. \"Adjunct for South-West Cell?\" A. \"x'y.\" &c., &c."
+  },
+  {
+    "id": "p-024311",
+    "offset": 4275,
+    "text": "After a little practice, he will find himself able to do without the blank Diagram, and will be able to see it *mentally* (\"in my mind's eye, Horatio!\") while answering the questions of his genial friend. When *this* result has been reached, he may safely go on to the next Chapter."
   },
   {
     "id": "p-333fc7",
-    "offset": 4998,
+    "offset": 4559,
     "text": "CHAPTER II."
   },
   {
-    "id": "p-801688",
-    "offset": 5011,
-    "text": "*REPRESENTATION OF PROPOSITIONS IN TERMS OF x AND m, OR OF y AND m.*"
+    "id": "p-eee48e",
+    "offset": 4572,
+    "text": "*COUNTERS.*"
   },
   {
-    "id": "p-9e6637",
-    "offset": 5081,
-    "text": "_Representation of Propositions of Existence in terms of x and m, or of y and m._"
+    "id": "p-97994e",
+    "offset": 4585,
+    "text": "Let us agree that a *Red* Counter, placed within a Cell, shall mean \"This Cell is *occupied*\" (i.e. \"There is at least *one* Thing in it\")."
   },
   {
-    "id": "p-2745bb",
-    "offset": 5164,
-    "text": "Let us take, first, the Proposition \"Some xm exist\"."
+    "id": "p-c6836a",
+    "offset": 4726,
+    "text": "Let us also agree that a *Red* Counter, placed on the partition between two Cells, shall mean \"The Compartment, made up of these two Cells, is *occupied*; but it is not known *whereabouts*, in it, its occupants are.\" Hence it may be understood to mean \"At least *one* of these two Cells is occupied: possibly *both* are.\""
   },
   {
-    "id": "p-93dac9",
-    "offset": 5218,
-    "text": "[Note that the *full* meaning of this Proposition is (as explained at p. 12) \"Some existing Things are xm-Things\".]"
+    "id": "p-47881d",
+    "offset": 5049,
+    "text": "Our ingenious American cousins have invented a phrase to describe the condition of a man who has not yet made up his mind *which* of two political parties he will join: such a man is said to be \"=sitting on the fence=.\" This phrase exactly describes the condition of the Red Counter."
   },
   {
-    "id": "p-a86084",
-    "offset": 5335,
-    "text": "This tells us that there is at least *one* Thing in the Inner portion of the North Half; that is, that this Compartment is *occupied*. And this we can evidently represent by placing a *Red* Counter on the partition which divides it."
+    "id": "p-6340ab",
+    "offset": 5334,
+    "text": "Let us also agree that a *Grey* Counter, placed within a Cell, shall mean \"This Cell is *empty*\" (i.e. \"There is *nothing* in it\")."
   },
   {
-    "id": "p-befaf8",
-    "offset": 5569,
-    "text": "[In the \"books\" example, this Proposition would mean \"Some old bound books exist\" (or \"There are some old bound books\").]"
-  },
-  {
-    "id": "p-39be01",
-    "offset": 5692,
-    "text": "Similarly we may represent the seven similar Propositions, \"Some xm' exist\", \"Some x'm exist\", \"Some x'm' exist\", \"Some ym exist\", \"Some ym' exist\", \"Some y'm exist\", and \"Some y'm' exist\". pg044 Let us take, next, the Proposition \"No xm exist\"."
-  },
-  {
-    "id": "p-8a6783",
-    "offset": 5939,
-    "text": "This tells us that there is *nothing* in the Inner portion of the North Half; that is, that this Compartment is *empty*. And this we can represent by placing *two Grey* Counters in it, one in each Cell."
-  },
-  {
-    "id": "p-74e2d9",
-    "offset": 6143,
-    "text": "Similarly we may represent the seven similar Propositions, in terms of x and m, or of y and m, viz. \"No xm' exist\", \"No x'm exist\", &c."
-  },
-  {
-    "id": "p-66b8a1",
-    "offset": 6280,
-    "text": "These sixteen Propositions of Existence are the only ones that we shall have to represent on this Diagram."
-  },
-  {
-    "id": "p-0bdc05",
-    "offset": 6388,
-    "text": "_Representation of Propositions of Relation in terms of x and m, or of y and m._"
-  },
-  {
-    "id": "p-43341f",
-    "offset": 6470,
-    "text": "Let us take, first, the Pair of Converse Propositions"
-  },
-  {
-    "id": "p-8e26e2",
-    "offset": 6525,
-    "text": "\"Some x are m\" = \"Some m are x.\""
-  },
-  {
-    "id": "p-e58381",
-    "offset": 6559,
-    "text": "We know that each of these is equivalent to the Proposition of Existence \"Some xm exist\", which we already know how to represent."
-  },
-  {
-    "id": "p-ae5ac7",
-    "offset": 6690,
-    "text": "Similarly for the seven similar Pairs, in terms of x and m, or of y and m."
-  },
-  {
-    "id": "p-a0f309",
-    "offset": 6766,
-    "text": "Let us take, next, the Pair of Converse Propositions"
-  },
-  {
-    "id": "p-b130bc",
-    "offset": 6820,
-    "text": "\"No x are m\" = \"No m are x.\""
-  },
-  {
-    "id": "p-f4c079",
-    "offset": 6850,
-    "text": "We know that each of these is equivalent to the Proposition of Existence \"No xm exist\", which we already know how to represent."
-  },
-  {
-    "id": "p-a9f832",
-    "offset": 6979,
-    "text": "Similarly for the seven similar Pairs, in terms of x and m, or of y and m. pg045 Let us take, next, the Proposition \"All x are m.\""
-  },
-  {
-    "id": "p-40437f",
-    "offset": 7111,
-    "text": "We know (see p. 18) that this is a *Double* Proposition, and equivalent to the *two* Propositions \"Some x are m\" and \"No x are m' \", each of which we already know how to represent."
-  },
-  {
-    "id": "p-96b0be",
-    "offset": 7293,
-    "text": "Similarly for the fifteen similar Propositions, in terms of x and m, or of y and m."
-  },
-  {
-    "id": "p-3d896f",
-    "offset": 7378,
-    "text": "These thirty-two Propositions of Relation are the only ones that we shall have to represent on this Diagram."
-  },
-  {
-    "id": "p-87484d",
-    "offset": 7488,
-    "text": "The Reader should now get his genial friend to question him on the following four Tables."
-  },
-  {
-    "id": "p-a310e1",
-    "offset": 7579,
-    "text": "The Victim should have nothing before him but a blank Triliteral Diagram, a Red Counter, and 2 Grey ones, with which he is to represent the various Propositions named by the Inquisitor, *e.g.* \"No y' are m\", \"Some xm' exist\", &c., &c. pg046 TABLE V."
-  },
-  {
-    "id": "p-3ebae7",
-    "offset": 7830,
-    "text": "·---------------------------------------------------------· | ·---------------· Some xm exist | ·---------------· | | | | |  = Some x are m | | | | | | | ·---|---· |  = Some m are x | | ·---|---· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No xm exist | | | | | | | | ·---|---· | |  = No x are m | ·---|---· | | | | | | |  = No m are x | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some xm' exist | ·---------------· | | | (.) |  = Some x are m' | |( ) | ( )| | | | ·---|---· |  = Some m' are x | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No xm' exist | | | | | | | | ·---|---· | |  = No x are m' | ·---|---· | | | | | | |  = No m' are x | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some x'm exist | ·---------------· | | | | |  = Some x' are m | | | | | | | ·---|---· |  = Some m are x' | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | (.) | | | No x'm exist | |( )|( )| | | | | ·---|---· | |  = No x' are m | ·---|---· | | | | | | |  = No m are x' | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some x'm' exist | ·---------------· | | | | |  = Some x' are m'| | | | | | | ·---|---· |  = Some m' are x'| | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No x'm' exist | | | | | | | | ·---|---· | |  = No x' are m' | ·---|---· | | | | (.) | |  = No m' are x' |( ) | ( )| | | ·---------------· | ·---------------· | ·---------------------------------------------------------· pg047 TABLE VI."
-  },
-  {
-    "id": "p-ac5c6d",
-    "offset": 9741,
-    "text": "·---------------------------------------------------------· | ·---------------· Some ym exist | ·---------------· | | | | |  = Some y are m | | | | | | | ·---|---· |  = Some m are y | | ·---|---· | | | | | | | | | | |( )| | | | | |---|(.)|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No ym exist | |( )| | | | | | ·---|---· | |  = No y are m | ·---|---· | | | | | | |  = No m are y | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some ym' exist | ·---------------· | | | | |  = Some y are m' | |( ) | | | | | ·---|---· |  = Some m' are y | | ·---|---· | | | | | | | | | | | | | | | | |(.)|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No ym' exist | | | | | | | | ·---|---· | |  = No y are m' | ·---|---· | | | | | | |  = No m' are y |( ) | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some y'm exist | ·---------------· | | | | |  = Some y' are m | | | | | | | ·---|---· |  = Some m are y' | | ·---|---· | | | | | | | | | | | |( )| | | | |---|---|(.)|---| ·-----------------· |---|---|---|---| | | | | | | | | No y'm exist | | |( )| | | | | ·---|---· | |  = No y' are m | ·---|---· | | | | | | |  = No m are y' | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some y'm' exist | ·---------------· | | | | |  = Some y' are m'| | | ( )| | | | ·---|---· |  = Some m' are y'| | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|(.)| ·-----------------· |---|---|---|---| | | | | | | | | No y'm' exist | | | | | | | | ·---|---· | |  = No y' are m' | ·---|---· | | | | | | |  = No m' are y' | | ( )| | | ·---------------· | ·---------------· | ·---------------------------------------------------------· pg048 TABLE VII."
-  },
-  {
-    "id": "p-6425d6",
-    "offset": 11645,
-    "text": "·---------------------------------------------------------· | ·---------------· | ·---------------· | | |( ) | ( )| All x are m | | (.) | | | | ·---|---· | | | ·---|---· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | | | | | | | | | ·---|---· | | All x are m' | ·---|---· | | | | | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | | All x' are m | | | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | (.) | | | | |( )|( )| | | | | ·---|---· | | All x' are m' | ·---|---· | | | |( ) | ( )| | | (.) | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | | All m are x | | | | | | | ·---|---· | | | ·---|---· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | |( )|( )| | | | | (.) | | | | | ·---|---· | | All m are x' | ·---|---· | | | | | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | (.) | All m' are x | |( ) | ( )| | | | ·---|---· | | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | | | | | | | | | ·---|---· | | All m' are x' | ·---|---· | | | |( ) | ( )| | | (.) | | | ·---------------· | ·---------------· | ·---------------------------------------------------------· pg049 TABLE VIII."
-  },
-  {
-    "id": "p-6ec37b",
-    "offset": 13324,
-    "text": "·---------------------------------------------------------· | ·---------------· | ·---------------· | | |( ) | | All y are m | | | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | |( )| | | | | |---|(.)|---|---| ·-----------------· |(.)|---|---|---| | | | | | | | | | |( )| | | | | | ·---|---· | | All y are m' | ·---|---· | | | |( ) | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | ( )| All y' are m | | | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | | |( )| | | | |---|---|(.)|---| ·-----------------· |---|---|---|(.)| | | | | | | | | | | |( )| | | | | ·---|---· | | All y' are m' | ·---|---· | | | | | ( )| | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | | All m are y | | | | | | | ·---|---· | | | ·---|---· | | | | | |( )| | | | |( )| | | | | |---|(.)|---|---| ·-----------------· |---|---|(.)|---| | | | | |( )| | | | |( )| | | | | | ·---|---· | | All m are y' | ·---|---· | | | | | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | ( )| All m' are y | |( ) | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | | | | | | | |(.)|---|---|---| ·-----------------· |---|---|---|(.)| | | | | | | | | | | | | | | | | ·---|---· | | All m' are y' | ·---|---· | | | | | ( )| | |( ) | | | | ·---------------· | ·---------------· | ·---------------------------------------------------------·"
-  },
-  {
-    "id": "p-c1cf4d",
-    "offset": 14969,
-    "text": "pg050"
+    "id": "p-bab0cb",
+    "offset": 5467,
+    "text": "[The Reader had better provide himself with 4 Red Counters and 5 Grey ones.]"
   },
   {
     "id": "p-368057",
-    "offset": 14976,
+    "offset": 5545,
     "text": "CHAPTER III."
   },
   {
-    "id": "p-73139a",
-    "offset": 14990,
-    "text": "_REPRESENTATION OF TWO PROPOSITIONS OF RELATION, ONE IN TERMS OF x AND m, AND THE OTHER IN TERMS OF y AND m, ON THE SAME DIAGRAM._"
+    "id": "p-4a984d",
+    "offset": 5559,
+    "text": "*REPRESENTATION OF PROPOSITIONS.*"
   },
   {
-    "id": "p-4d7d1f",
-    "offset": 15122,
-    "text": "The Reader had better now begin to draw little Diagrams for himself, and to mark them with the Digits \"I\" and \"O\", instead of using the Board and Counters: he may put a \"I\" to represent a *Red* Counter (this may be interpreted to mean \"There is at least *one* Thing here\"), and a \"O\" to represent a *Grey* Counter (this may be interpreted to mean \"There is *nothing* here\")."
+    "id": "p-ae0d41",
+    "offset": 5594,
+    "text": "*Introductory.*"
   },
   {
-    "id": "p-01731d",
-    "offset": 15498,
-    "text": "The Pair of Propositions, that we shall have to represent, will always be, one in terms of x and m, and the other in terms of y and m."
+    "id": "p-f44daf",
+    "offset": 5611,
+    "text": "Henceforwards, in stating such Propositions as \"Some x-Things exist\" or \"No x-Things are y-Things\", I shall omit the word \"Things\", which the Reader can supply for himself, and shall write them as \"Some x exist\" or \"No x are y\"."
   },
   {
-    "id": "p-1eda38",
-    "offset": 15634,
-    "text": "When we have to represent a Proposition beginning with \"All\", we break it up into the *two* Propositions to which it is equivalent."
+    "id": "p-f98951",
+    "offset": 5841,
+    "text": "[Note that the word \"Things\" is here used with a special meaning, as explained at p. 23.]"
   },
   {
-    "id": "p-6da7b2",
-    "offset": 15767,
-    "text": "When we have to represent, on the same Diagram, Propositions, of which some begin with \"Some\" and others with \"No\", we represent the *negative* ones *first*. This will sometimes save us from having to put a \"I\" \"on a fence\" and afterwards having to shift it into a Cell."
+    "id": "p-bb9138",
+    "offset": 5932,
+    "text": "A Proposition, containing only *one* of the Letters used as Symbols for Attributes, is said to be '=Uniliteral='."
   },
   {
-    "id": "p-0adb8e",
-    "offset": 16039,
-    "text": "[Let us work a few examples."
+    "id": "p-2d93a9",
+    "offset": 6047,
+    "text": "[For example, \"Some x exist\", \"No y' exist\", &c.]"
   },
   {
-    "id": "p-1bfb4d",
-    "offset": 16069,
-    "text": "\"No x are m'; No y' are m\"."
+    "id": "p-d92b86",
+    "offset": 6098,
+    "text": "A Proposition, containing *two* Letters, is said to be ='Biliteral'=."
   },
   {
-    "id": "p-fcbcec",
-    "offset": 16098,
-    "text": "Let us first represent \"No x are m'\". This gives us Diagram a."
+    "id": "p-7ec795",
+    "offset": 6169,
+    "text": "[For example, \"Some xy' exist\", \"No x' are y\", &c.]"
   },
   {
-    "id": "p-3c1c3f",
-    "offset": 16162,
-    "text": "Then, representing \"No y' are m\" on the same Diagram, we get Diagram b. pg051 a b ·---------------· ·---------------· |(O) | (O)| |(O) | (O)| | ·---|---· | | ·---|---· | | | | | | | | |(O)| | |---|---|---|---| |---|---|---|---| | | | | | | | |(O)| | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------·"
+    "id": "p-6e6616",
+    "offset": 6222,
+    "text": "A Proposition is said to be '=in terms of=' the Letters it contains, whether with or without accents."
   },
   {
-    "id": "p-90b152",
-    "offset": 16489,
-    "text": "\"Some m are x; No m are y\"."
+    "id": "p-6bbfbd",
+    "offset": 6325,
+    "text": "[Thus, \"Some xy' exist\", \"No x' are y\", &c., are said to be _in terms of_ x and y.]"
   },
   {
-    "id": "p-5ce6d0",
-    "offset": 16518,
-    "text": "If, neglecting the Rule, we were begin with \"Some m are x\", we should get Diagram a."
+    "id": "p-7d8ca2",
+    "offset": 6410,
+    "text": "*Representation of Propositions of Existence.*"
   },
   {
-    "id": "p-f63f9c",
-    "offset": 16604,
-    "text": "And if we were then to take \"No m are y\", which tells us that the Inner N.W. Cell is *empty*, we should be obliged to take the \"I\" off the fence (as it no longer has the choice of *two* Cells), and to put it into the Inner N.E. Cell, as in Diagram c."
+    "id": "p-2fa87d",
+    "offset": 6458,
+    "text": "Let us take, first, the Proposition \"Some x exist\"."
   },
   {
-    "id": "p-6a1db1",
-    "offset": 16856,
-    "text": "This trouble may be saved by beginning with \"No m are y\", as in Diagram b."
+    "id": "p-ccb2d4",
+    "offset": 6511,
+    "text": "[Note that this Proposition is (as explained at p. 12) equivalent to \"Some existing Things are x-Things.\"]"
   },
   {
-    "id": "p-a0b2ee",
-    "offset": 16932,
-    "text": "And *now*, when we take \"Some m are x\", there is no fence to sit on! The \"I\" has to go, at once, into the N.E. Cell, as in Diagram c."
+    "id": "p-386bf5",
+    "offset": 6619,
+    "text": "This tells us that there is at least *one* Thing in the North Half; that is, that the North Half is *occupied*. And this we can evidently represent by placing a *Red* Counter (here represented by a *dotted* circle) on the partition which divides the North Half."
   },
   {
-    "id": "p-7dbd34",
+    "id": "p-92acf0",
+    "offset": 6882,
+    "text": "[In the \"books\" example, this Proposition would be \"Some old books exist\".]"
+  },
+  {
+    "id": "p-e3fe10",
+    "offset": 6959,
+    "text": "Similarly we may represent the three similar Propositions \"Some x' exist\", \"Some y exist\", and \"Some y' exist\"."
+  },
+  {
+    "id": "p-9df992",
+    "offset": 7072,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these Propositions would be \"Some new books exist\", &c.]"
+  },
+  {
+    "id": "p-7029c7",
+    "offset": 7205,
+    "text": "Let us take, next, the Proposition \"No x exist\"."
+  },
+  {
+    "id": "p-b8239d",
+    "offset": 7255,
+    "text": "This tells us that there is *nothing* in the North Half; that is, that the North Half is *empty*; that is, that the North-West Cell and the North-East Cell are both of them *empty*. And this we can represent by placing *two Grey* Counters in the North Half, one in each Cell."
+  },
+  {
+    "id": "p-f99fd7",
+    "offset": 7532,
+    "text": "[The Reader may perhaps think that it would be enough to place a *Grey* Counter on the partition in the North Half, and that, just as a *Red* Counter, so placed, would mean \"This Half is *occupied*\", so a *Grey* one would mean \"This Half is *empty*\"."
+  },
+  {
+    "id": "p-a95d26",
+    "offset": 7784,
+    "text": "This, however, would be a mistake. We have seen that a *Red* Counter, so placed, would mean \"At least *one* of these two Cells is occupied: possibly *both* are.\" Hence a *Grey* one would merely mean \"At least *one* of these two Cells is empty: possibly *both* are\". But what we have to represent is, that both Cells are *certainly* empty: and this can only be done by placing a *Grey* Counter in *each* of them."
+  },
+  {
+    "id": "p-c7d062",
+    "offset": 8197,
+    "text": "In the \"books\" example, this Proposition would be \"No old books exist\".] pg029 Similarly we may represent the three similar Propositions \"No x' exist\", \"No y exist\", and \"No y' exist\"."
+  },
+  {
+    "id": "p-554b0f",
+    "offset": 8383,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No new books exist\", &c.]"
+  },
+  {
+    "id": "p-bdbb3c",
+    "offset": 8520,
+    "text": "Let us take, next, the Proposition \"Some xy exist\"."
+  },
+  {
+    "id": "p-6dd430",
+    "offset": 8573,
+    "text": "This tells us that there is at least *one* Thing in the North-West Cell; that is, that the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it."
+  },
+  {
+    "id": "p-591eb4",
+    "offset": 8756,
+    "text": "[In the \"books\" example, this Proposition would be \"Some old English books exist\".]"
+  },
+  {
+    "id": "p-a16435",
+    "offset": 8841,
+    "text": "Similarly we may represent the three similar Propositions \"Some xy' exist\", \"Some x'y exist\", and \"Some x'y' exist\"."
+  },
+  {
+    "id": "p-0a74c0",
+    "offset": 8959,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"Some old foreign books exist\", &c.]"
+  },
+  {
+    "id": "p-b9772e",
+    "offset": 9106,
+    "text": "Let us take, next, the Proposition \"No xy exist\"."
+  },
+  {
+    "id": "p-929ee4",
+    "offset": 9157,
+    "text": "This tells us that there is *nothing* in the North-West Cell; that is, that the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it."
+  },
+  {
+    "id": "p-f42c08",
+    "offset": 9327,
+    "text": "[In the \"books\" example, this Proposition would be \"No old English books exist\".]"
+  },
+  {
+    "id": "p-39b0b3",
+    "offset": 9410,
+    "text": "Similarly we may represent the three similar Propositions \"No xy' exist\", \"No x'y exist\", and \"No x'y' exist\"."
+  },
+  {
+    "id": "p-cc9730",
+    "offset": 9522,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No old foreign books exist\", &c.] pg030 We have seen that the Proposition \"No x exist\" may be represented by placing *two Grey* Counters in the North Half, one in each Cell."
+  },
+  {
+    "id": "p-9b291c",
+    "offset": 9807,
+    "text": "We have also seen that these two *Grey* Counters, taken *separately*, represent the two Propositions \"No xy exist\" and \"No xy' exist\"."
+  },
+  {
+    "id": "p-fa407a",
+    "offset": 9943,
+    "text": "Hence we see that the Proposition \"No x exist\" is a *Double* Proposition, and is equivalent to the *two* Propositions \"No xy exist\" and \"No xy' exist\"."
+  },
+  {
+    "id": "p-42c70d",
+    "offset": 10096,
+    "text": "[In the \"books\" example, this Proposition would be \"No old books exist\"."
+  },
+  {
+    "id": "p-c48261",
+    "offset": 10170,
+    "text": "Hence this is a *Double* Proposition, and is equivalent to the *two* Propositions \"No old *English* books exist\" and \"No old *foreign* books exist\".]"
+  },
+  {
+    "id": "p-128143",
+    "offset": 10321,
+    "text": "*Representation of Propositions of Relation.*"
+  },
+  {
+    "id": "p-25a569",
+    "offset": 10368,
+    "text": "Let us take, first, the Proposition \"Some x are y\"."
+  },
+  {
+    "id": "p-957567",
+    "offset": 10421,
+    "text": "This tells us that at least *one* Thing, in the *North* Half, is also in the *West* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it."
+  },
+  {
+    "id": "p-5b3f02",
+    "offset": 10696,
+    "text": "[Note that the *Subject* of the Proposition settles which *Half* we are to use; and that the *Predicate* settles in which *portion* of it we are to place the Red Counter."
+  },
+  {
+    "id": "p-77a732",
+    "offset": 10868,
+    "text": "In the \"books\" example, this Proposition would be \"Some old books are English\".]"
+  },
+  {
+    "id": "p-863c08",
+    "offset": 10950,
+    "text": "Similarly we may represent the three similar Propositions \"Some x are y'\", \"Some x' are y\", and \"Some x' are y'\"."
+  },
+  {
+    "id": "p-08a341",
+    "offset": 11065,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"Some old books are foreign\", &c.] pg031 Let us take, next, the Proposition \"Some y are x\"."
+  },
+  {
+    "id": "p-dadacf",
+    "offset": 11267,
+    "text": "This tells us that at least *one* Thing, in the *West* Half, is also in the *North* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it."
+  },
+  {
+    "id": "p-b376b1",
+    "offset": 11542,
+    "text": "[In the \"books\" example, this Proposition would be \"Some English books are old\".]"
+  },
+  {
+    "id": "p-f3be25",
+    "offset": 11625,
+    "text": "Similarly we may represent the three similar Propositions \"Some y are x'\", \"Some y' are x\", and \"Some y' are x'\"."
+  },
+  {
+    "id": "p-886f5f",
+    "offset": 11740,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"Some English books are new\", &c.]"
+  },
+  {
+    "id": "p-74d238",
+    "offset": 11885,
+    "text": "We see that this *one* Diagram has now served to represent no less than *three* Propositions, viz."
+  },
+  {
+    "id": "p-69abe4",
+    "offset": 11985,
+    "text": "Hence these three Propositions are equivalent."
+  },
+  {
+    "id": "p-e72d2b",
+    "offset": 12033,
+    "text": "[In the \"books\" example, these Propositions would be"
+  },
+  {
+    "id": "p-c88e69",
+    "offset": 12087,
+    "text": "(1) \"Some old English books exist; (2) Some old books are English; (3) Some English books are old\".]"
+  },
+  {
+    "id": "p-3b438c",
+    "offset": 12189,
+    "text": "The two equivalent Propositions, \"Some x are y\" and \"Some y are x\", are said to be '=Converse=' to each other; and the Process, of changing one into the other, is called '=Converting=', or '=Conversion='."
+  },
+  {
+    "id": "p-8e552c",
+    "offset": 12395,
+    "text": "[For example, if we were told to convert the Proposition"
+  },
+  {
+    "id": "p-212bd6",
+    "offset": 12453,
+    "text": "\"Some apples are not ripe,\""
+  },
+  {
+    "id": "p-a369a1",
+    "offset": 12482,
+    "text": "we should first choose our Univ. (say \"fruit\"), and then complete the Proposition, by supplying the Substantive \"fruit\" in the Predicate, so that it would be"
+  },
+  {
+    "id": "p-2453e0",
+    "offset": 12641,
+    "text": "\"Some apples are not-ripe fruit\";"
+  },
+  {
+    "id": "p-2a9710",
+    "offset": 12676,
+    "text": "and we should then convert it by interchanging its Terms, so that it would be"
+  },
+  {
+    "id": "p-1b2fec",
+    "offset": 12755,
+    "text": "\"Some not-ripe fruit are apples\".] pg032 Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--"
+  },
+  {
+    "id": "p-da996b",
+    "offset": 12926,
+    "text": "Let us take, next, the Proposition \"No x are y\"."
+  },
+  {
+    "id": "p-9d92ff",
+    "offset": 12976,
+    "text": "This tell us that no Thing, in the *North* Half, is also in the *West* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it."
+  },
+  {
+    "id": "p-112abf",
+    "offset": 13244,
+    "text": "[In the \"books\" example, this Proposition would be \"No old books are English\".]"
+  },
+  {
+    "id": "p-40d1b1",
+    "offset": 13325,
+    "text": "Similarly we may represent the three similar Propositions \"No x are y'\", and \"No x' are y\", and \"No x' are y'\"."
+  },
+  {
+    "id": "p-51e5a7",
+    "offset": 13438,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No old books are foreign\", &c.]"
+  },
+  {
+    "id": "p-1dc267",
+    "offset": 13581,
+    "text": "Let us take, next, the Proposition \"No y are x\"."
+  },
+  {
+    "id": "p-17f906",
+    "offset": 13631,
+    "text": "This tells us that no Thing, in the *West* Half, is also in the *North* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. That is, the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it."
+  },
+  {
+    "id": "p-20499a",
+    "offset": 13903,
+    "text": "[In the \"books\" example, this Proposition would be \"No English books are old\".]"
+  },
+  {
+    "id": "p-d2301b",
+    "offset": 13984,
+    "text": "Similarly we may represent the three similar Propositions \"No y are x'\", \"No y' are x\", and \"No y' are x'\"."
+  },
+  {
+    "id": "p-2c9a23",
+    "offset": 14093,
+    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No English books are new\", &c.] pg033 ·-------· |( )| | |---|---| | | | ·-------·"
+  },
+  {
+    "id": "p-5c163d",
+    "offset": 14286,
+    "text": "We see that this *one* Diagram has now served to present no less than *three* Propositions, viz."
+  },
+  {
+    "id": "p-69abe4",
+    "offset": 14384,
+    "text": "Hence these three Propositions are equivalent."
+  },
+  {
+    "id": "p-e72d2b",
+    "offset": 14432,
+    "text": "[In the \"books\" example, these Propositions would be"
+  },
+  {
+    "id": "p-b5db85",
+    "offset": 14486,
+    "text": "(1) \"No old English books exist; (2) No old books are English; (3) No English books are old\".]"
+  },
+  {
+    "id": "p-5aadb6",
+    "offset": 14582,
+    "text": "The two equivalent Propositions, \"No x are y\" and \"No y are x\", are said to be 'Converse' to each other."
+  },
+  {
+    "id": "p-8e552c",
+    "offset": 14688,
+    "text": "[For example, if we were told to convert the Proposition"
+  },
+  {
+    "id": "p-99b908",
+    "offset": 14746,
+    "text": "\"No porcupines are talkative\","
+  },
+  {
+    "id": "p-5e28ec",
+    "offset": 14778,
+    "text": "we should first choose our Univ. (say \"animals\"), and then complete the Proposition, by supplying the Substantive \"animals\" in the Predicate, so that it would be"
+  },
+  {
+    "id": "p-e5d456",
+    "offset": 14941,
+    "text": "\"No porcupines are talkative animals\", and we should then convert it, by interchanging its Terms, so that it would be"
+  },
+  {
+    "id": "p-606cac",
+    "offset": 15060,
+    "text": "\"No talkative animals are porcupines\".]"
+  },
+  {
+    "id": "p-602a64",
+    "offset": 15101,
+    "text": "Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--"
+  },
+  {
+    "id": "p-9ee10b",
+    "offset": 15231,
+    "text": "Let us take, next, the Proposition \"All x are y\"."
+  },
+  {
+    "id": "p-7544d1",
+    "offset": 15282,
+    "text": "We know (see p. 17) that this is a *Double* Proposition, and equivalent to the *two* Propositions \"Some x are y\" and \"No x are y'\", each of which we already know how to represent."
+  },
+  {
+    "id": "p-e6db4f",
+    "offset": 15463,
+    "text": "[Note that the *Subject* of the given Proposition settles which *Half* we are to use; and that its *Predicate* settles in which *portion* of that Half we are to place the Red Counter.]"
+  },
+  {
+    "id": "p-9c8bb4",
+    "offset": 15649,
+    "text": "pg034 TABLE II."
+  },
+  {
+    "id": "p-eb2c00",
+    "offset": 15666,
+    "text": "Similarly we may represent the seven similar Propositions \"All x are y'\", \"All x' are y\", \"All x' are y'\", \"All y are x\", \"All y are x'\", \"All y' are x\", and \"All y' are x'\"."
+  },
+  {
+    "id": "p-00daca",
+    "offset": 15842,
+    "text": "Let us take, lastly, the Double Proposition \"Some x are y and some are y'\", each part of which we already know how to represent."
+  },
+  {
+    "id": "p-3ccf56",
+    "offset": 15972,
+    "text": "Similarly we may represent the three similar Propositions, \"Some x' are y and some are y'\", \"Some y are x and some are x'\", \"Some y' are x and some are x'\"."
+  },
+  {
+    "id": "p-9b55c2",
+    "offset": 16130,
+    "text": "The Reader should now get his genial friend to question him, severely, on these two Tables. The *Inquisitor* should have the Tables before him: but the *Victim* should have nothing but a blank Diagram, and the Counters with which he is to represent the various Propositions named by his friend, e.g. \"Some y exist\", \"No y' are x\", \"All x are y\", &c. &c."
+  },
+  {
+    "id": "p-aea1be",
+    "offset": 16485,
+    "text": "pg035 TABLE III."
+  },
+  {
+    "id": "p-b578ec",
+    "offset": 16503,
+    "text": "CHAPTER IV."
+  },
+  {
+    "id": "p-bb4bb9",
+    "offset": 16516,
+    "text": "*INTERPRETATION OF BILITERAL DIAGRAM WHEN MARKED WITH COUNTERS.*"
+  },
+  {
+    "id": "p-eeef92",
+    "offset": 16582,
+    "text": "The Diagram is supposed to be set before us, with certain Counters placed upon it; and the problem is to find out what Proposition, or Propositions, the Counters represent."
+  },
+  {
+    "id": "p-cf519d",
+    "offset": 16756,
+    "text": "As the process is simply the reverse of that discussed in the previous Chapter, we can avail ourselves of the results there obtained, as far as they go."
+  },
+  {
+    "id": "p-ec9088",
+    "offset": 16910,
+    "text": "First, let us suppose that we find a *Red* Counter placed in the North-West Cell."
+  },
+  {
+    "id": "p-0bc0c9",
+    "offset": 16993,
+    "text": "We know that this represents each of the Trio of equivalent Propositions"
+  },
+  {
+    "id": "p-2b430b",
     "offset": 17067,
-    "text": "a b c ·---------------· ·---------------· ·---------------· | | | | | | | | | | ·---|---· | | ·---|---· | | ·---|---· | | | (I) | | | |(O)| | | | |(O)|(I)| | |---|---|---|---| |---|---|---|---| |---|---|---|---| | | | | | | |(O)| | | | |(O)| | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | | | ·---------------· ·---------------· ·---------------·"
+    "text": "\"Some xy exist\" = \"Some x are y\" = \"Some y are x\"."
   },
   {
-    "id": "p-c1dbd6",
-    "offset": 17428,
-    "text": "\"No x' are m'; All m are y\"."
+    "id": "p-b7199d",
+    "offset": 17119,
+    "text": "Similarly we may interpret a *Red* Counter, when placed in the North-East, or South-West, or South-East Cell."
   },
   {
-    "id": "p-e54e11",
-    "offset": 17458,
-    "text": "Here we begin by breaking up the Second into the two Propositions to which it is equivalent. Thus we have *three* Propositions to represent, viz.--"
+    "id": "p-6857f8",
+    "offset": 17230,
+    "text": "Next, let us suppose that we find a *Grey* Counter placed in the North-West Cell."
   },
   {
-    "id": "p-86f074",
-    "offset": 17607,
-    "text": "(1) \"No x' are m'; (2) Some m are y; (3) No m are y'\"."
+    "id": "p-0bc0c9",
+    "offset": 17313,
+    "text": "We know that this represents each of the Trio of equivalent Propositions"
   },
   {
-    "id": "p-8ca62a",
-    "offset": 17663,
-    "text": "These we will take in the order 1, 3, 2."
+    "id": "p-9c5135",
+    "offset": 17387,
+    "text": "Similarly we may interpret a *Grey* Counter, when placed in the North-East, or South-West, or South-East Cell. pg037 Next, let us suppose that we find a *Red* Counter placed on the partition which divides the North Half."
   },
   {
-    "id": "p-45f622",
-    "offset": 17705,
-    "text": "First we take No. (1), viz. \"No x' are m'\". This gives us Diagram a. pg052 Adding to this, No. (3), viz. \"No m are y'\", we get Diagram b."
+    "id": "p-8133fa",
+    "offset": 17609,
+    "text": "We know that this represents the Proposition \"Some x exist.\""
   },
   {
-    "id": "p-558ddb",
-    "offset": 17844,
-    "text": "This time the \"I\", representing No. (2), viz. \"Some m are y,\" has to sit on the fence, as there is no \"O\" to order it off! This gives us Diagram c."
+    "id": "p-542474",
+    "offset": 17671,
+    "text": "Similarly we may interpret a *Red* Counter, when placed on the partition which divides the South, or West, or East Half."
   },
   {
-    "id": "p-97eb5e",
-    "offset": 17993,
-    "text": "a b c ·---------------· ·---------------· ·---------------· | | | | | | | | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | |(O)| | | | |(O)| | |---|---|---|---| |---|---|---|---| |---|(I)|---|---| | | | | | | | |(O)| | | | |(O)| | | ·---|---· | | ·---|---· | | ·---|---· | |(O) | (O)| |(O) | (O)| |(O) | (O)| ·---------------· ·---------------· ·---------------·"
+    "id": "p-ab3659",
+    "offset": 17793,
+    "text": "Next, let us suppose that we find *two Red* Counters placed in the North Half, one in each Cell."
   },
   {
-    "id": "p-065b93",
-    "offset": 18368,
-    "text": "\"All m are x; All y are m\"."
+    "id": "p-8bf99f",
+    "offset": 17891,
+    "text": "We know that this represents the *Double* Proposition \"Some x are y and some are y'\"."
   },
   {
-    "id": "p-a0a35d",
-    "offset": 18397,
-    "text": "Here we break up *both* Propositions, and thus get *four* to represent, viz.--"
+    "id": "p-fda4d4",
+    "offset": 17978,
+    "text": "Similarly we may interpret *two Red* Counters, when placed in the South, or West, or East Half."
   },
   {
-    "id": "p-451159",
-    "offset": 18477,
-    "text": "(1) \"Some m are x; (2) No m are x'; (3) Some y are m; (4) No y are m'\"."
+    "id": "p-56ea94",
+    "offset": 18075,
+    "text": "Next, let us suppose that we find *two Grey* Counters placed in the North Half, one in each Cell."
   },
   {
-    "id": "p-34509c",
-    "offset": 18550,
-    "text": "These we will take in the order 2, 4, 1, 3."
+    "id": "p-782907",
+    "offset": 18174,
+    "text": "We know that this represents the Proposition \"No x exist\"."
   },
   {
-    "id": "p-def614",
-    "offset": 18595,
-    "text": "First we take No. (2), viz. \"No m are x'\". This gives us Diagram a."
+    "id": "p-3c1396",
+    "offset": 18234,
+    "text": "Similarly we may interpret *two Grey* Counters, when placed in the South, or West, or East Half."
   },
   {
-    "id": "p-9817ab",
-    "offset": 18664,
-    "text": "To this we add No. (4), viz. \"No y are m'\", and thus get Diagram b."
+    "id": "p-ec1301",
+    "offset": 18332,
+    "text": "Lastly, let us suppose that we find a *Red* and a *Grey* Counter placed in the North Half, the *Red* in the North-*West* Cell, and the *Grey* in the North-*East* Cell."
   },
   {
-    "id": "p-266d09",
-    "offset": 18733,
-    "text": "If we were to add to this No. (1), viz. \"Some m are x\", we should have to put the \"I\" on a fence: so let us try No. (3) instead, viz. \"Some y are m\". This gives us Diagram c."
+    "id": "p-1acdeb",
+    "offset": 18501,
+    "text": "We know that this represents the Proposition, \"All x are y\"."
   },
   {
-    "id": "p-4824f0",
-    "offset": 18909,
-    "text": "And now there is no need to trouble about No. (1), as it would not add anything to our information to put a \"I\" on the fence. The Diagram *already* tells us that \"Some m are x\".]"
+    "id": "p-2664a5",
+    "offset": 18563,
+    "text": "[Note that the *Half*, occupied by the two Counters, settles what is to be the *Subject* of the Proposition, and that the *Cell*, occupied by the *Red* Counter, settles what is to be its *Predicate*.] pg038 Similarly we may interpret a *Red* and a *Grey* counter, when placed in any one of the seven similar positions"
   },
   {
-    "id": "p-6fcbb7",
-    "offset": 19089,
-    "text": "a b c ·---------------· ·---------------· ·---------------· | | | |(O) | | |(O) | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | | | | | |(I)| | | |---|---|---|---| |---|---|---|---| |---|---|---|---| | |(O)|(O)| | | |(O)|(O)| | | |(O)|(O)| | | ·---|---· | | ·---|---· | | ·---|---· | | | | |(O) | | |(O) | | ·---------------· ·---------------· ·---------------·"
+    "id": "p-382f11",
+    "offset": 18882,
+    "text": "Red in North-East, Grey in North-West; Red in South-West, Grey in South-East; Red in South-East, Grey in South-West; Red in North-West, Grey in South-West; Red in South-West, Grey in North-West; Red in North-East, Grey in South-East; Red in South-East, Grey in North-East."
   },
   {
-    "id": "p-e03fe1",
-    "offset": 19464,
-    "text": "[Work Examples § =1=, 9-12 (p. 97); § =2=, 1-20 (p. 98).]"
+    "id": "p-c8079d",
+    "offset": 19156,
+    "text": "Once more the genial friend must be appealed to, and requested to examine the Reader on Tables II and III, and to make him not only *represent* Propositions, but also *interpret* Diagrams when marked with Counters."
   },
   {
-    "id": "p-becf48",
-    "offset": 19523,
-    "text": "pg053"
+    "id": "p-bbf979",
+    "offset": 19372,
+    "text": "The Questions and Answers should be like this:--"
+  },
+  {
+    "id": "p-b820ed",
+    "offset": 19422,
+    "text": "Q. Represent \"No x' are y'.\" A. Grey Counter in S.E. Cell. Q. Interpret Red Counter on E. partition. A. \"Some y' exist.\" Q. Represent \"All y' are x.\" A. Red in N.E. Cell; Grey in S.E. Q. Interpret Grey Counter in S.W. Cell. A. \"No x'y exist\" = \"No x' are y\" = \"No y are x'\". &c., &c."
+  },
+  {
+    "id": "p-be3171",
+    "offset": 19707,
+    "text": "At first the Examinee will need to have the Board and Counters before him; but he will soon learn to dispense with these, and to answer with his eyes shut or gazing into vacancy."
   }
 ]

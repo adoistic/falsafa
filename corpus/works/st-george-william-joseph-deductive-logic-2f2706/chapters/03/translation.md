@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1573
+word_count: 1570
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -113,8 +113,6 @@ Again in IO or OI premisses there is only one term distributed, namely, the pred
 § 596. Proof of Rule 9.--*That*, *if* one _premiss be particular*, *the conclusion must be particular_.
 
 Two negative premisses being excluded by Rule 5, and two particular by Rule 8, the only pairs of premisses we can have are--
-
-AI, AO, EI.
 
 Of course the particular premiss may precede the universal, but the order of the premisses will not affect the reasoning.
 

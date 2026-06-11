@@ -24,13 +24,13 @@ Symbolic Logic, by Lewis Carroll (1832-1898), from Project Gutenberg's public-do
 
 01. [Chapter V](./chapters/01/) — prose, 1 variant
 02. [Book II](./chapters/02/) — prose, 1 variant
-03. [Book III](./chapters/03/) — prose, 1 variant
-04. [Book IV](./chapters/04/) — prose, 1 variant
-05. [Chapter IV](./chapters/05/) — prose, 1 variant
-06. [Book V](./chapters/06/) — prose, 1 variant
-07. [Book VI](./chapters/07/) — prose, 1 variant
-08. [Book VII](./chapters/08/) — prose, 1 variant
-09. [Chapter I](./chapters/09/) — prose, 1 variant
-10. [Chapter II](./chapters/10/) — prose, 1 variant
-11. [Chapter III](./chapters/11/) — prose, 1 variant
-12. [Part III — Transcendental. }                       [_In preparation._](./chapters/12/) — prose, 1 variant
+03. [Part II — ]](./chapters/03/) — prose, 1 variant
+04. [Book III](./chapters/04/) — prose, 1 variant
+05. [Book IV](./chapters/05/) — prose, 1 variant
+06. [Chapter IV](./chapters/06/) — prose, 1 variant
+07. [Book V](./chapters/07/) — prose, 1 variant
+08. [Book VI](./chapters/08/) — prose, 1 variant
+09. [Book VII](./chapters/09/) — prose, 1 variant
+10. [Chapter I](./chapters/10/) — prose, 1 variant
+11. [Chapter II](./chapters/11/) — prose, 1 variant
+12. [Chapter III](./chapters/12/) — prose, 1 variant

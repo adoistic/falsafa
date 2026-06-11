@@ -76,11 +76,11 @@ It is to be observed that we cannot give what may be called *absolute* dates, bu
 
 If we wish to assign a date exactly by means of events, how shall we proceed? If we take any one event, we cannot assign our date exactly, because the event is not instantaneous, that is to say, it may be simultaneous with two events which are not simultaneous with each other. In order to assign a date exactly, we must be able, theoretically, to determine whether any given event is before, at, or after this date, and we must know that any other date is either before or after this date, but not simultaneous with it. Suppose, now, instead of taking one event A, we take two events A and B, and suppose A and B partly overlap, but B ends before A ends. Then an event which is simultaneous with both A and B must exist during the time when A and B overlap; thus we have come rather nearer to a precise date than when we considered A and B alone. Let C be an event which is simultaneous with both A and B, but which ends before either A or B has ended. Then an event which is simultaneous with A and B and C must exist during the time when all three overlap, which is a still shorter time. Proceeding in this way, by taking more and more events, a new event which is dated as simultaneous with all of them becomes gradually more and more accurately dated. This suggests a way by which a completely accurate date can be defined.
 
-A____________________
+A
 
-B____________________
+B
 
-C________
+C
 
 Let us take a group of events of which any two overlap, so that there is some time, however short, when they all exist. If there is any other event which is simultaneous with all of these, let us add it to the group; let us go on until we have constructed a group such that no event outside the group is simultaneous with all of them, but all the events inside the group are simultaneous with each other. Let us define this whole group as an instant of time. It remains to show that it has the properties we expect of an instant.
 

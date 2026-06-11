@@ -11,8 +11,8 @@ language: English
 language_direction: ltr
 description: "Philosophy and Religion: Six Lectures Delivered at Cambridge, by Hastings Rashdall (1858-1924), from Project Gutenberg's public-domain text."
 difficulty: Advanced
-total_logical_chapters: 7
-total_variant_entries: 7
+total_logical_chapters: 6
+total_variant_entries: 6
 thothica_role: catalog
 ---
 
@@ -24,8 +24,7 @@ Philosophy and Religion: Six Lectures Delivered at Cambridge, by Hastings Rashda
 
 01. [Lecture I](./chapters/01-lecture-i/) — prose, 1 variant
 02. [Lecture II](./chapters/02-lecture-ii/) — prose, 1 variant
-03. [Chapter V — ; and Professor Ward's _Naturalism and Agnosticism_](./chapters/03/) — prose, 1 variant
-04. [Lecture III](./chapters/04-lecture-iii/) — prose, 1 variant
-05. [Lecture IV](./chapters/05-lecture-iv/) — prose, 1 variant
-06. [Lecture V](./chapters/06-lecture-v/) — prose, 1 variant
-07. [Lecture VI](./chapters/07-lecture-vi/) — prose, 1 variant
+03. [Lecture III](./chapters/03-lecture-iii/) — prose, 1 variant
+04. [Lecture IV](./chapters/04-lecture-iv/) — prose, 1 variant
+05. [Lecture V](./chapters/05-lecture-v/) — prose, 1 variant
+06. [Lecture VI](./chapters/06-lecture-vi/) — prose, 1 variant

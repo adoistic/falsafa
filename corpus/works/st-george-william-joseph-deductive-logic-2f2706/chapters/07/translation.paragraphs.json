@@ -35,348 +35,308 @@
     "text": "(1) Total inclusion (Barbara)."
   },
   {
-    "id": "p-c4147c",
-    "offset": 852,
-    "text": "All B is A. All C is B. .'. All C is A."
-  },
-  {
     "id": "p-942d25",
-    "offset": 893,
+    "offset": 852,
     "text": "(2) Partial inclusion (Darii)."
   },
   {
     "id": "p-ee8bd2",
-    "offset": 925,
+    "offset": 884,
     "text": "All B is A. Some C is B. .'. Some C is A."
   },
   {
     "id": "p-220767",
-    "offset": 968,
+    "offset": 927,
     "text": "(3) Total exclusion (Celarent)."
   },
   {
-    "id": "p-56d9be",
-    "offset": 1001,
-    "text": "No B is A. All C is B. .'. No C is A."
-  },
-  {
     "id": "p-5d1de5",
-    "offset": 1040,
+    "offset": 960,
     "text": "(4) Partial exclusion (Ferio)."
   },
   {
     "id": "p-de0e63",
-    "offset": 1072,
+    "offset": 992,
     "text": "No B is A. Some C is B. .'. Some C is not A."
   },
   {
     "id": "p-abcb76",
-    "offset": 1118,
+    "offset": 1038,
     "text": "FIGURE II."
   },
   {
     "id": "p-8550cb",
-    "offset": 1130,
+    "offset": 1050,
     "text": "§ 635. CANON. If one term is excluded from another, which wholly or partly includes a third, or is included in another from which a third is wholly or partly excluded, the first is excluded from the whole or part of the third."
   },
   {
     "id": "p-48ca2c",
-    "offset": 1358,
+    "offset": 1278,
     "text": "Here we have four cases, all of exclusion--"
   },
   {
     "id": "p-00758a",
-    "offset": 1403,
+    "offset": 1323,
     "text": "(1) Total exclusion on the ground of inclusion in an excluded term (Cesare)."
   },
   {
-    "id": "p-df846a",
-    "offset": 1481,
-    "text": "No A is B. All C is B. .'. No C is A."
-  },
-  {
     "id": "p-e631a5",
-    "offset": 1520,
+    "offset": 1401,
     "text": "(2) Partial exclusion on the ground of a similar partial inclusion (Festino)."
   },
   {
     "id": "p-f5dd74",
-    "offset": 1599,
+    "offset": 1480,
     "text": "No A is B. Some C is B. .'. Some C is not A."
   },
   {
     "id": "p-fcbe55",
-    "offset": 1645,
+    "offset": 1526,
     "text": "(3) Total exclusion on the ground of exclusion from an including term (Camestres)."
   },
   {
-    "id": "p-4c1c46",
-    "offset": 1729,
-    "text": "All A is B. No C is B. .'. No C is A."
-  },
-  {
     "id": "p-376119",
-    "offset": 1768,
+    "offset": 1610,
     "text": "(4) Partial exclusion on the ground of a similar partial exclusion (Baroko)."
   },
   {
     "id": "p-262494",
-    "offset": 1846,
+    "offset": 1688,
     "text": "All A is B. Some C is not B. .'. Some C is not A."
   },
   {
     "id": "p-573beb",
-    "offset": 1897,
+    "offset": 1739,
     "text": "FIGURE III."
   },
   {
     "id": "p-3b612b",
-    "offset": 1910,
+    "offset": 1752,
     "text": "§ 636. CANON. If two terms include another term in common, or if the first includes the whole and the second a part of the same term, or vice versâ, the first of these two terms partly includes the second; and if the first is excluded from the whole of a term which is wholly or in part included in the second, or is excluded from part of a term which is wholly included in the second, the first is excluded from part of the second."
   },
   {
     "id": "p-eb56cc",
-    "offset": 2344,
+    "offset": 2186,
     "text": "Here it is evident from the statement that six cases arise--"
   },
   {
     "id": "p-465bfd",
-    "offset": 2406,
+    "offset": 2248,
     "text": "(1) Total inclusion of the same term in two others (Darapti)."
   },
   {
     "id": "p-02de56",
-    "offset": 2469,
+    "offset": 2311,
     "text": "All B is A. All B is C. .'. some C is A."
   },
   {
     "id": "p-37d1e0",
-    "offset": 2511,
+    "offset": 2353,
     "text": "(2) Total inclusion in the first and partial inclusion in the second (Datisi)."
   },
   {
     "id": "p-6ca1ac",
-    "offset": 2591,
+    "offset": 2433,
     "text": "All B is A. Some B is C. .'. some C is A."
   },
   {
     "id": "p-b17436",
-    "offset": 2634,
+    "offset": 2476,
     "text": "(3) Partial inclusion in the first and total inclusion in the second (Disamis)."
   },
   {
     "id": "p-29503b",
-    "offset": 2715,
+    "offset": 2557,
     "text": "Some B is A. All B is C. .'. some C is A."
   },
   {
     "id": "p-c867aa",
-    "offset": 2758,
+    "offset": 2600,
     "text": "(4) Total exclusion of the first from a term which is wholly included in the second (Felapton)."
   },
   {
     "id": "p-df1fbc",
-    "offset": 2855,
+    "offset": 2697,
     "text": "No B is A. All B is C. .'. some C is not A."
   },
   {
     "id": "p-c4a1fb",
-    "offset": 2900,
+    "offset": 2742,
     "text": "(5) Total exclusion of the first from a term which is partly included in the second (Ferison)."
   },
   {
     "id": "p-d722ee",
-    "offset": 2996,
+    "offset": 2838,
     "text": "No B is A. Some B is C. .'. some C is not A."
   },
   {
     "id": "p-f96e30",
-    "offset": 3042,
+    "offset": 2884,
     "text": "(6) Exclusion of the first from part of a term which is wholly included in the second (Bokardo)."
   },
   {
     "id": "p-21ff5d",
-    "offset": 3140,
+    "offset": 2982,
     "text": "Some B is not A. All B is C. .'. Some C is not A."
   },
   {
     "id": "p-29ce7b",
-    "offset": 3191,
+    "offset": 3033,
     "text": "FIGURE IV."
   },
   {
     "id": "p-d4ca19",
-    "offset": 3203,
+    "offset": 3045,
     "text": "§ 637. CANON. If one term is wholly or partly included in another which is wholly included in or excluded from a third, the third term wholly or partly includes the first, or, in the case of total inclusion, is wholly excluded from it; and if a term is excluded from another which is wholly or partly included in a third, the third is partly excluded from the first."
   },
   {
     "id": "p-a14756",
-    "offset": 3571,
+    "offset": 3413,
     "text": "Here we have five cases--"
   },
   {
     "id": "p-e0b4f0",
-    "offset": 3598,
+    "offset": 3440,
     "text": "(1) Of the inclusion of a whole term (Bramsntip)."
   },
   {
-    "id": "p-51d985",
-    "offset": 3649,
-    "text": "All A is B. All B is C. .'. Some C is (all) A."
-  },
-  {
     "id": "p-6ff5bd",
-    "offset": 3697,
+    "offset": 3491,
     "text": "(2) Of the inclusion of part of a term (DIMARIS)."
   },
   {
     "id": "p-8ca736",
-    "offset": 3748,
+    "offset": 3542,
     "text": "Some A is B. All B is C. .'. Some C is (some) A,"
   },
   {
     "id": "p-0b772b",
-    "offset": 3798,
+    "offset": 3592,
     "text": "(3) Of the exclusion of a whole term (Camenes)."
   },
   {
-    "id": "p-b7576b",
-    "offset": 3847,
-    "text": "All A is B. No B is C. .'. No C is A."
-  },
-  {
     "id": "p-3f1dca",
-    "offset": 3886,
+    "offset": 3641,
     "text": "(4) Partial exclusion on the ground of including the whole of an excluded term (Fesapo)."
   },
   {
     "id": "p-ae425a",
-    "offset": 3976,
+    "offset": 3731,
     "text": "No A is B. All B is C. .'. Some C is not A."
   },
   {
     "id": "p-32fdab",
-    "offset": 4021,
+    "offset": 3776,
     "text": "(5) Partial exclusion on the ground of including part of an excluded term (Fresison)."
   },
   {
     "id": "p-abb334",
-    "offset": 4108,
+    "offset": 3863,
     "text": "No A is B. Some B is C. .'. Some C is not A."
   },
   {
     "id": "p-6a9d6a",
-    "offset": 4154,
+    "offset": 3909,
     "text": "§ 638. It is evident from the diagrams that in the subaltern moods the conclusion is not drawn directly from the premisses, but is an immediate inference from the natural conclusion. Take for instance AAI in the first figure. The natural conclusion from these premisses is that the minor term C is wholly contained in the major term A. But instead of drawing this conclusion we go on to infer that something which is contained in C, namely some C, is contained in A."
   },
   {
-    "id": "p-8acd41",
-    "offset": 4622,
-    "text": "All B is A. All C is B. .'. all C is A. .'. some C is A."
-  },
-  {
     "id": "p-e6007b",
-    "offset": 4680,
+    "offset": 4377,
     "text": "Similarly in EAO in figure 1, instead of arguing that the whole of C is excluded from A, we draw a conclusion which really involves a further inference, namely that part of C is excluded from A."
   },
   {
-    "id": "p-42dfa7",
-    "offset": 4876,
-    "text": "No B is A. All C is B. .'. no C is A. .'. some C is not A."
-  },
-  {
     "id": "p-3e7614",
-    "offset": 4936,
+    "offset": 4573,
     "text": "§ 639. The reason why the canons have been expressed in so cumbrous a form is to render the validity of all the moods in each figure at once apparent from the statement. For purposes of general convenience they admit of a much more compendious mode of expression."
   },
   {
     "id": "p-e67c6b",
-    "offset": 5201,
+    "offset": 4838,
     "text": "§ 640. The canon of the first figure is known as the Dictum de Omni et Nullo--"
   },
   {
     "id": "p-6a3178",
-    "offset": 5281,
+    "offset": 4918,
     "text": "What is true (distributively) of a whole term is true of all that it includes."
   },
   {
     "id": "p-e10e6d",
-    "offset": 5361,
+    "offset": 4998,
     "text": "§ 641. The canon of the second figure is known as the Dictum de Diverse--"
   },
   {
     "id": "p-be90f9",
-    "offset": 5436,
+    "offset": 5073,
     "text": "If one term is contained in, and another excluded from a third term, they are mutually excluded."
   },
   {
     "id": "p-485061",
-    "offset": 5534,
+    "offset": 5171,
     "text": "§ 642. The canon of the third figure is known as the Dictum de Exemplo et de Excepto--"
   },
   {
     "id": "p-f37cde",
-    "offset": 5622,
+    "offset": 5259,
     "text": "Two terms which contain a common part partly agree, or, if one contains a part which the other does not, they partly differ."
   },
   {
     "id": "p-3ec259",
-    "offset": 5748,
+    "offset": 5385,
     "text": "§ 643. The canon of the fourth figure has had no name assigned to it, and does not seem to admit of any simple expression. Another mode of formulating it is as follows:--"
   },
   {
     "id": "p-4a6e5f",
-    "offset": 5920,
+    "offset": 5557,
     "text": "Whatever is affirmed of a whole term may have partially affirmed of it whatever is included in that term (Bramantip, Dimaris), and partially denied of it whatever is excluded (Fesapo); whatever is affirmed of part of a term may have partially denied of it whatever is wholly excluded from that term (Fresison); and whatever is denied of a whole term may have wholly denied of it whatever is wholly included in that term (Camenes)."
   },
   {
     "id": "p-3033bc",
-    "offset": 6352,
+    "offset": 5989,
     "text": "§ 644. From the point of view of intension the canons of the first three figures may be expressed as follows."
   },
   {
     "id": "p-9154d8",
-    "offset": 6463,
+    "offset": 6100,
     "text": "§ 645. Canon of the first figure. Dictum de Omni et Nullo--"
   },
   {
     "id": "p-00e7f9",
-    "offset": 6524,
+    "offset": 6161,
     "text": "An attribute of an attribute of anything is an attribute of the thing itself."
   },
   {
     "id": "p-753292",
-    "offset": 6603,
+    "offset": 6240,
     "text": "§ 646. Canon of the second figure. Dictum de Diverso--"
   },
   {
     "id": "p-e3025c",
-    "offset": 6659,
+    "offset": 6296,
     "text": "If a subject has an attribute which a class has not, or vice versa, the subject does not belong to the class."
   },
   {
     "id": "p-5c17c3",
-    "offset": 6770,
+    "offset": 6407,
     "text": "§ 647. Canon of the third figure."
   },
   {
     "id": "p-6b4c0a",
-    "offset": 6805,
+    "offset": 6442,
     "text": "1. Dictum de Exemplo--"
   },
   {
     "id": "p-bdb0e1",
-    "offset": 6829,
+    "offset": 6466,
     "text": "If a certain attribute can be affirmed of any portion of the members of a class, it is not incompatible with the distinctive attributes of that class."
   },
   {
     "id": "p-8eb5ef",
-    "offset": 6981,
+    "offset": 6618,
     "text": "2. Dictum de Excepto--"
   },
   {
     "id": "p-1ee9a3",
-    "offset": 7005,
+    "offset": 6642,
     "text": "If a certain attribute can be denied of any portion of the members of a class, it is not inseparable from the distinctive attributes of that class."
   }
 ]

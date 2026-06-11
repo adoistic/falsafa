@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 941
+word_count: 918
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -21,8 +21,6 @@ translator: Project Gutenberg edition
 *Of Mood and Figure.*
 
 § 558. Syllogisms may differ in two ways--
-
-(1) in Mood;
 
 (2) in Figure.
 
@@ -53,8 +51,6 @@ When the middle term is subject in both premisses, we are said to have the Third
 When the middle term is predicate in the major premiss and subject in the minor, we are said to have the Fourth Figure.
 
 § 565. Let A be the major term; B the middle. C the minor.
-
-Figure I. Figure II. Figure III. Figure IV. B--A A--B B--A A--B C--B C--B B--C B--C C--A C--A C--A C--A
 
 All these figures are legitimate, though the fourth is comparatively valueless.
 

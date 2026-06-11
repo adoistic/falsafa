@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1412
+word_count: 1296
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -32,15 +32,11 @@ Here four cases arise--
 
 (1) Total inclusion (Barbara).
 
-All B is A. All C is B. .'. All C is A.
-
 (2) Partial inclusion (Darii).
 
 All B is A. Some C is B. .'. Some C is A.
 
 (3) Total exclusion (Celarent).
-
-No B is A. All C is B. .'. No C is A.
 
 (4) Partial exclusion (Ferio).
 
@@ -54,15 +50,11 @@ Here we have four cases, all of exclusion--
 
 (1) Total exclusion on the ground of inclusion in an excluded term (Cesare).
 
-No A is B. All C is B. .'. No C is A.
-
 (2) Partial exclusion on the ground of a similar partial inclusion (Festino).
 
 No A is B. Some C is B. .'. Some C is not A.
 
 (3) Total exclusion on the ground of exclusion from an including term (Camestres).
-
-All A is B. No C is B. .'. No C is A.
 
 (4) Partial exclusion on the ground of a similar partial exclusion (Baroko).
 
@@ -106,15 +98,11 @@ Here we have five cases--
 
 (1) Of the inclusion of a whole term (Bramsntip).
 
-All A is B. All B is C. .'. Some C is (all) A.
-
 (2) Of the inclusion of part of a term (DIMARIS).
 
 Some A is B. All B is C. .'. Some C is (some) A,
 
 (3) Of the exclusion of a whole term (Camenes).
-
-All A is B. No B is C. .'. No C is A.
 
 (4) Partial exclusion on the ground of including the whole of an excluded term (Fesapo).
 
@@ -126,11 +114,7 @@ No A is B. Some B is C. .'. Some C is not A.
 
 § 638. It is evident from the diagrams that in the subaltern moods the conclusion is not drawn directly from the premisses, but is an immediate inference from the natural conclusion. Take for instance AAI in the first figure. The natural conclusion from these premisses is that the minor term C is wholly contained in the major term A. But instead of drawing this conclusion we go on to infer that something which is contained in C, namely some C, is contained in A.
 
-All B is A. All C is B. .'. all C is A. .'. some C is A.
-
 Similarly in EAO in figure 1, instead of arguing that the whole of C is excluded from A, we draw a conclusion which really involves a further inference, namely that part of C is excluded from A.
-
-No B is A. All C is B. .'. no C is A. .'. some C is not A.
 
 § 639. The reason why the canons have been expressed in so cumbrous a form is to render the validity of all the moods in each figure at once apparent from the statement. For purposes of general convenience they admit of a much more compendious mode of expression.
 

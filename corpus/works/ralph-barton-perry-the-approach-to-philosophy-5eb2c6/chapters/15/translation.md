@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3778
+word_count: 3263
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -92,19 +92,11 @@ HOEFFDING: *History of Modern Philosophy.* Translation by Meyer, in two volumes.
 
 INDEX
 
-ABSOLUTE, the, 307, 309, 332, 391, 392, 400, 404; being, 308; substance, 312; ideal, 326; spirit, 349 (*note*), 358 ff.; mind, 349 (*note*), 358, 380, 322 ff.
-
-ABSOLUTE IDEALISM, chap. xi; general meaning, 177, 349 (*note*), 400; criticism of, 349, 365, 385, 411, 416; epistemology of, 368 ff.; as related to Kant, 380; direct argument for, 383; ethics of, 386 ff.; religion of, 390 ff.; of present day, 402 ff., 410.
-
 ABSOLUTE REALISM, chap. x; general meaning, 306 (*note*), 400; epistemology of, 339; ethics of, 342; religion of, 346; criticism of, 338, 416.
 
 ABSTRACT, the, 139.
 
-ACTIVITY, 209, 285, 295.
-
 ÆSTHETICS, 189.
-
-AGNOSTICISM, 168, 252 ff.
 
 ANAXAGORAS, 239; quoted, 162.
 
@@ -113,10 +105,6 @@ ANAXIMANDER, 224.
 ANSELM, SAINT, 200.
 
 ANTHROPOMORPHISM, 109.
-
-APPRECIATION, 25, 402.
-
-ARISTOTLE, in formal logic, 186; ethics of, 195, 345; psychology of, 208; philosophy of, 306, 332 ff.; and Plato, 333, 336; and Spinoza, 336; epistemology of, 339; religion of, 346, 429; on evil, 353.
 
 ATOMISM, 166, 229. Also see under LEUCIPPUS, and DEMOCRITUS.
 
@@ -134,23 +122,15 @@ BACON, FRANCIS, on thought and action, 430.
 
 BALFOUR, A. J., on materialism, 264.
 
-BEAUTY, in æsthetics, 189; in Plato, 327, 332.
-
 BEING, Eleatic conception of, 308 ff.
 
 BELIEF, key to definition of religion, 58; general characters applied to religion, 59 ff.; in persons and dispositions, 62; examples of religions, 66 ff.; object of religions, 65, 82, 97; relation to logic, 182, 183.
-
-BENTHAM, 262.
 
 BERKELEY, on idealism, 176; relation to common-sense, 267; his refutation of material substance, 275 ff.; epistemology of, 277, 296, 369; theory of mathematics, 279; his spiritualism, 280, 284, 292; his conception of God, 284, 293; ethics of, 302; religion of, 304.
 
 BUDDHISM, 78.
 
-CAUSE, in science, 131; God as first, 203; of motion, 231 ff.; spirit as, 293 ff.
-
 CHRISTIANITY, persistence of, 76; essence of, 86; development from Judaism, 94; ethics of, 195, 198, 386; idea of God in, 200 ff., 205; emphasis on self-consciousness in, 372.
-
-COMTE, 115.
 
 CONTEMPLATION, 428.
 
@@ -172,10 +152,6 @@ CYRENAICISM, 259.
 
 DANTE, as philosopher-poet, 42 ff.; general meaning of the *Divine Comedy*, 43; and Thomas Aquinas, 43, 46; his vision of the ways of God, 46; on contemplation, 428.
 
-DARWIN, 204.
-
-DEISM, 207.
-
 DEMOCRITUS, 247. Also see ATOMISM.
 
 DESCARTES, on function of philosophy, 154; dualism of, 272, 412; his theory of space and matter, 229; automatism of, 248; epistemology of, 341, 375; his conception of self, 374.
@@ -190,8 +166,6 @@ DOGMATISM, 167.
 
 DUALISM, general meaning, 162; of Descartes, 272, 412.
 
-DUTY, 196, 356, 360, 386.
-
 ECLECTICISM, contemporary, 398 ff., 413.
 
 ELEATICS. See under PARMENIDES, and ZENO.
@@ -202,27 +176,17 @@ EMPIRICISM, general meaning, 168; in logic, 187; in naturalism, 252 ff.; of Lock
 
 ENERGY, development of, conception of, 236 ff.
 
-EPISTEMOLOGY, relation to metaphysics, 150; definition of, 164; fundamental problems of, 168, 172; argument for God from, 202; of naturalism, 248, 252 ff., 257; of Descartes, 273, 341, 375; of Berkeley, 277, 296; of absolute realism, 339, 351; of Leibniz, 340, 341; of Plato, 340, 341; of Hume, 376; of Aristotle, 340, 341; of absolute idealism, 351, 368 ff.; of present day, 408 ff.
-
 ETERNAL, the, 309.
-
-ETHER, 230.
 
 ETHICS, relation to metaphysics, 151, 196 ff., 360; its origin in Socratic method, 181; definition of, 191; special problems and theories in, 191 ff.; of Socrates, 192, 194; of Aristotle, 195, 345; of naturalism, 258 ff.; of subjectivism, 298 ff.; of Schopenhauer, 299; argument for God from, 203; individualism in, 301; pluralism in, 302, 421; of Stoics and Spinoza, 342; Platonic, 342; of Kant, 386; of absolute idealism, 388.
 
 EUDÆMONISM, 195.
 
-EVIL, PROBLEM OF, 317, 336, 339, 352, 365 ff.; in Greek philosophy, 352; in absolute idealism, 367, 418.
-
 EVOLUTION, of cosmos, 242 ff.; of morality, 262.
-
-EXPERIENCE, 410, 411, 412; analysis of, by Kant, 354.
 
 FAITH, 424; special interests of, 199. See also RELIGION and BELIEF.
 
 FERGUSON, CHAS., quoted, 265.
-
-FICHTE, 360, 402.
 
 FIELDING, H., quoted on religion, 59, 74.
 
@@ -240,10 +204,6 @@ GOOD, the, theories of, in ethics, 191 ff.; and the real, 326 ff., 421 ff.
 
 GREEK, religion, in Homer and Lucretius, 89; ideals, 195, 198, 429.
 
-GREEN, T. H., quoted, 369, 385 (*note*).
-
-HAECKEL, quoted, 236, 266.
-
 HEDONISM, 192.
 
 HEGEL, on science, 129; philosophy of, 150, 361 ff.; relation to Kant, 381; on the absolute, 382; ethics of, 390.
@@ -254,15 +214,9 @@ HISTORY, philosophy of, in Hegel, 363.
 
 HOBBES, his misconception of relations of philosophy and science, 115; quoted on ethics, 261.
 
-Holbach, 251, 252.
-
 HOMER, on Greek religion, 90.
 
-HUMANISM, 320, 404, 405.
-
 HUME, positivism of, 115, 377; phenomenalism of, 283; and Descartes, 376.
-
-HUXLEY, quoted, 255, 266.
 
 HYLOZOISM, 225.
 
@@ -282,8 +236,6 @@ IMMANENCE THEORY, 412, 413.
 
 IMMORTALITY, 212.
 
-INDIVIDUALISM, 301, 320, 338, 404.
-
 INTUITIONISM, in ethics, 196.
 
 JAMES, WILLIAM, quoted on religion, 65, 71, 305.
@@ -297,8 +249,6 @@ KEPLER, quoted, 129.
 KNOWLEDGE, of the means in life, 8; of the end, 10; in poetry, 27 ff.; in religion, 82, 85, 97, 105; general theory of, on epistemology, 164 ff.; problem of source and criterion of, 168 ff.; problem of relation to its object, 172 ff., 277, 340, 351, 368 ff.; relation of logic to, 183 ff.; account of, in naturalism, 253 ff. Also see EPISTEMOLOGY.
 
 LA METTRIE, quoted, 250.
-
-LA PLACE, 242; quoted, 241.
 
 LEIBNIZ, on function of philosophy, 155; philosophy of, 333, 336 ff.; epistemology of, 339.
 
@@ -320,8 +270,6 @@ MALEBRANCHE, 376.
 
 MARCUS AURELIUS, 348.
 
-MATERIALISM, 254, 256; general meaning, 223, 414; development, 224 ff.; and science, 228; French, 249; theory of mind in, 250.
-
 MATHEMATICS, importance in science, 132; logic in, 188; Berkeley's conception of, 279; Plato's conception of, 329, 335; Spinoza's conception of, 311, 335.
 
 MATTER, 225, 228; and space, 229; Berkeley's refutation of, 275 ff.; in Plato and Aristotle, 334.
@@ -330,21 +278,13 @@ MECHANICAL THEORY, practical significance of its extension to the world at large
 
 METAPHYSICS, relation to epistemology, 150; relation to ethics, 151, 196 ff.; definition of, 158; relation to logic, 188; relation to theology, 207; present tendencies in, 399 ff., 408.
 
-MILL, J. S., 283 (*note*).
-
-MIND, explanation of in naturalism, 237, 247 ff.; of God, in Berkeley, 284, 294, 296; absolute, 349 (*note*), 358, 382 ff. Also see under SELF, and SOUL.
-
 MODE, in Spinoza, 313.
 
 MONADS, in Leibniz, 338.
 
-MONISM, 159, 163.
-
 MORALITY, and religion, 73; grounds of, according to Kant, 356; incentive to, 422.
 
 MYSTICISM, general account, 171; Schopenhauer's, 290; types of religions, 391.
-
-NAEGELI, C. v., quoted, 287.
 
 NATURAL SCIENCE, true relations of, with philosophy, 116; sphere of, with reference to philosophy, 117 ff.; philosophy of, its procedure, 121, 135, 142, 154, 401; origin of, as special interest, 123 ff.; human value of, 126, 127, 143; method and fundamental conceptions of, 406, 128 ff.; general development of, 134; limits of, because abstract, 136 ff., 414; validity of, 142; logic and, 188; development of conceptions in, 229 ff.; grounds of, according to Kant, 355, 377; Hume on, 377; permanence and progress in, 395 ff.
 
@@ -358,11 +298,7 @@ NEBULAR HYPOTHESIS, 242.
 
 NECESSITY, of will, 211; ethics of, 342; religion of, 393.
 
-NEO-FICHTEANS, 402, 403 (*note*).
-
 NEO-KANTIANS, 403.
-
-NEWTON, 232, 235, 242, 355, 377.
 
 NORMATIVE SCIENCES, the, 180.
 
@@ -371,10 +307,6 @@ OMAR KHAYYAM, quoted, 16; as a philosopher-poet, 36.
 ONTOLOGICAL PROOF, of God, 200.
 
 ONTOLOGY, 159.
-
-OPTIMISM, 104, 388, 422, 424.
-
-PANPSYCHISM, 176, 238, 285 ff.
 
 PANTHEISM, in primitive religion, 78; general meaning, 205; types of, 390.
 
@@ -396,8 +328,6 @@ PERSONALITY, of God, important in understanding of religion, 62; essential to re
 
 PERSONS, description of belief in, 62; imagination of, 101, 110.
 
-PESSIMISM, 104, 299, 424.
-
 PHENOMENALISM, general meaning, 176, 267 (*note*); of Berkeley, 272, 275 ff.; of Hume, 283; various tendencies in, 281.
 
 PHILOSOPHER, the practical man and the, chap. i; the rôle of the, 306, 426.
@@ -410,10 +340,6 @@ PHYSIOLOGY, 246.
 
 PIETY, description and interpretation of, 72; in ethics, 195.
 
-PLATO, on Protagoras, 167, 269, 270, 298; quoted, on Socrates, 170, 192, 194; historical preparation for, 324; psychology of, 209; philosophy of, 306, 318, 326 ff., 382; and Aristotle, 333; and Spinoza, 318, 335; epistemology of, 339; ethics of, 342; religion of, 346, 391, 393; on evil, 352; on spirit, 359; on reason and perception, 370; on the philosopher, 426.
-
-PLURALISM, general meaning of, 159, 163, 419; in ethics, 302, 421 ff.; in religion, 304.
-
 POETRY, relations with philosophy, chap. ii; as appreciation, 25; virtue of sincerity in, 27; the "barbarian" in, 28; constructive knowledge in, 30; difference between philosophy and, 48 ff.
 
 POSITIVISM, on relation of philosophy and science, 115, 122; general meaning of, 168, 234, 252 ff., 412.
@@ -421,10 +347,6 @@ POSITIVISM, on relation of philosophy and science, 115, 122; general meaning of,
 PRACTICAL KNOWLEDGE, of means, 8 ff.; of end or purpose, 10 ff.; implied in religion, 85, 97; philosophy as, 153.
 
 PRACTICAL MAN, the, and the philosopher, chap. i; his failure to understand philosophy, 3; his ideal, 14; virtually a philosopher, 22.
-
-PRAGMATISM, 151, 407, 408.
-
-PRAYER, 103.
 
 PREDICTION, in science, 130.
 
@@ -445,8 +367,6 @@ RATIONALISM, general meaning, 168, 416; in logic, 180, 184; in ethics, 193; of e
 REALISM, various meanings of term, 173 (*note*); meaning of, as theory of knowledge, 172; of Parmenides, 308 ff.; of Plato and Aristotle, 341; of present day, 409 ff.
 
 REASON, 370. See RATIONALISM.
-
-RELATIVISM, 166, 267 ff.; in ethics, 298.
 
 RELIGION, chaps. iii, iv; relation to poetry and philosophy, 49, 52; difficulty of defining, 53; possibility of defining, 54; profitableness of defining, 54; true method of defining, 56; misconceptions of, 56; as possessing the psychological character of belief, 59 ff.; degree of, in individuals and moods, 60, 61; definition of, as belief in disposition of universe, 64 ff., 82; and morality, 73; symbolism in, 75; prophet and preacher of, 75; conveyance of, 76; primitive, 77; Buddhism, 78; the critical or enlightened type of, 80; means to be true, 82 ff.; implies a practical truth, 85; cases of truth and error in, 88 ff.; of Baal, 88; Greek, 89; of Jews, its development, 92; Christian, 94; definition of cognitive factor in, 97; place of imagination in, 80, 97 ff.; special functions of imagination in, 101 ff.; relation of imagination and truth in, 105; philosophy implied in, 108 ff.; is personal god essential to, 108; compared with philosophy, 112; compared with science, 145; special philosophical problems of, 199 ff.; of naturalism, 263 ff.; of subjectivism and spiritualism, 302 ff.; of Plato and Aristotle, 346, 393; of Stoics and Spinoza, 348, 393; philosophy of, in Hegel, 365; of absolute idealism, 390 ff.
 
@@ -478,10 +398,6 @@ SELF, problem of, 216; proof of, in St. Augustine, 372; proof of, in Descartes, 
 
 SELF-CONSCIOUSNESS, essential to human life, 6; development of conception of, 371 ff.; in absolute idealism, 383; in idealistic ethics, 386.
 
-SENSATIONALISM, 247, 255, 269.
-
-SENSE-PERCEPTION, 168, 247, 269, 370; being as, in Berkeley, 281.
-
 SHAKESPEARE, general criticism of, 30 ff.; his universality, 31; lack of philosophy in, 33.
 
 SHELLEY, quoted on poetry, 50.
@@ -490,13 +406,9 @@ SOCIAL RELATIONS, belief inspired by, analogue of religion, 62; imagination of, 
 
 SOCRATES, rationalism of, 169; and normative science, 180; ethics of, 192, 194; method of, 321 ff.
 
-SOPHISTS, the, epistemology of, 165; scepticism of, 271, 320; ethics of, 298, 301; age of, 320.
-
 SOUL, the, in Aristotle, 208; in Plato, 209; as substance, 209; intellectualism and voluntarism in theory of, 210; immortality of, 212; Berkeley's theory of, 284. Also see under MIND, and SELF.
 
 SPACE, importance in science, 130; and matter, 229.
-
-SPENCER, 236 (*note*), 243, 265.
 
 SPINOZA, and Goethe, 51; quoted on philosophy and life, 153; philosophy of, 306, 311 ff.; criticism and estimate of, 315 ff.; and Plato, 318, 335; and Aristotle, 336; epistemology of, 339; ethics of, 342; religion of, 348, 392, 393.
 
@@ -516,8 +428,6 @@ SYMBOLISM, in religion, 75.
 
 TELEOLOGY, in cosmology, 161; proof of God from, 204; Spinoza on, 318; in Plato, 326 ff., 336; in Aristotle, 336.
 
-THEISM, 205.
-
 THEOLOGY, relation to religion, 98; in philosophy, 199 ff.; relation to metaphysics, 207.
 
 THOMSON, J., quoted, 104.
@@ -530,17 +440,11 @@ TIME, importance in science, 130.
 
 TRANSCENDENTALISM, 177, 349 (*note*), 356. See IDEALISM, absolute.
 
-TYNDALL, 115.
-
 UNIVERSAL, scientific knowledge as, 125, 139.
 
 UNIVERSE, the, as object of religious reaction, 64; common object of philosophy and religion, 112; as collective, 419.
 
 UTILITARIANISM, 261.
-
-VIRTUE, 198, 345.
-
-VOLTAIRE, quoted, 231, 251.
 
 VOLUNTARISM, in psychology, 210; in Schopenhauer, 285.
 
@@ -549,10 +453,6 @@ WHITMAN, WALT, 27 ff.
 WILL, in psychology, 210; freedom and determination of, 211; in Schopenhauer, 177; as cause, in Berkeley, 293 ff.; in pragmatism, 407.
 
 WORDSWORTH, as philosopher-poet, 38 ff.; his sense for the universal, 40; quoted on poetry and philosophy, 48, 50.
-
-ZENO, 337.
-
-TRANSCRIBER'S NOTES:
 
 Ellipses match the original.
 
@@ -595,5 +495,3 @@ Page 436: HUXLEY, T. H.: _Evolution and Ethics; Prolegomena._{original has Prolo
 [199:14] religion in these matters, cf.{original has Cf.} Descartes:
 
 [287:16] Translation by Haldane and Kemp{original has Komp}
-
-End of Project Gutenberg's The Approach to Philosophy, by Ralph Barton Perry

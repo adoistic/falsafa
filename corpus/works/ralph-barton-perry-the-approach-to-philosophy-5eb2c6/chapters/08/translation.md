@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 7796
+word_count: 7780
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -202,11 +202,7 @@ The standard literature of this movement is unfortunately not available in Engli
 
 [424:15] Cf. James: *The Will to Believe*, essay on _The Dilemma of Determinism, passim_.
 
-[425:16] *Essays, Second Series*, p. 75.
-
 [427:17] Plato: *Theætetus*, 174-175. Translation by Jowett.
-
-[428:18] E. Caird: *Literature and Philosophy*, Vol. I, pp. 218-219.
 
 [429:19] Translation by Jowett. Quoted by Laurie in his _Pre-Christian Education_, p. 213.
 

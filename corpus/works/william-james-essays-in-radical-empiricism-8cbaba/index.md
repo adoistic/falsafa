@@ -11,8 +11,8 @@ language: English
 language_direction: ltr
 description: "Essays in Radical Empiricism, by William James (1842-1910), from Project Gutenberg's public-domain text."
 difficulty: Advanced
-total_logical_chapters: 4
-total_variant_entries: 4
+total_logical_chapters: 1
+total_variant_entries: 1
 thothica_role: catalog
 ---
 
@@ -22,7 +22,4 @@ Essays in Radical Empiricism, by William James (1842-1910), from Project Gutenbe
 
 ## Chapters
 
-01. [Section VII — of [the first essay], I treated of this class of](./chapters/01/) — prose, 1 variant
-02. [Essay XII — _See also_ under](./chapters/02-essay-xii-see-also-under/) — prose, 1 variant
-03. [Essay XI](./chapters/03-essay-xi/) — prose, 1 variant
-04. [Essay III — , 148, 268. _See also_ under](./chapters/04-essay-iii-148-268-see-also-under/) — prose, 1 variant
+01. [Essays in Radical Empiricism](./chapters/01-essays-in-radical-empiricism/) — prose, 1 variant

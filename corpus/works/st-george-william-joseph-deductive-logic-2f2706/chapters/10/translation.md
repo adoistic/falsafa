@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5149
+word_count: 4362
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -56,39 +56,7 @@ Given any mood in one of the imperfect figures (II, III and IV) how to alter the
 
 § 680. k may be taken for the present to indicate that Baroko and Bokardo cannot be reduced ostensively.
 
-§ 681. FIGURE II.
-
-Cesare. \ / Celarent. No A is B. \ = / No B is A. All C is B. / \ All C is B. .'. No C is A. / \ .'. No C is A.
-
-Camestres. \ / Celarent. All A is B. \ = / No B is C. No C is B. / \ All A is B. .'. No C is A. / \ .'. No A is C. .'. No C is A.
-
-Festino. Ferio. No A is B. \ / No B is A. Some C is B. | = | Some C is B. .'. Some C is not A./ \ .'. Some C is not A. [Baroko]
-
-§ 682. FIGURE III.
-
-Darapti. \ / Darii. All B is A. \ = / All B is A. All B is C. / \ Some C is B. .'. Some C is A. / \ Some C is A.
-
-Disamis. \ / Darii. Some B is A. \ = / All B is C. All B is C. / \ Some A is B. .'. Some C is A. / \ .'. Some A is C. .'. Some C is A.
-
-Datisi. \ / Darii. All B is A. \ = / All B is A. Some B is C. / \ Some C is B. .'. Some C is A. / \ .'. Some C is A.
-
-Felapton. \ / Ferio. No B is A. \ = / No B is A. All B is C. / \ Some C is B. .'. Some C is not-A. / \ .'. Some C is not-A.
-
 [Bokardo].
-
-Ferison. \ / Ferio. No B is A. \ = / No B is A. Some B is C. / \ Some C is B .'. Some C is not A. / \ .'. Some C is not A.
-
-§ 683. FIGURE IV.
-
-Bramantip. \ / Barbara. All A is B. \ = / All B is C. All B is C. / \ All A is B. .. Some C is A. / \ .. All A is C. .'. Some C is A.
-
-Camenes Celarent All A is B \ / No B is C. No B is C. | = | All A is B. .. No C is A./ \ .'. No A is C. .'. No C is A.
-
-Dimaris. Darii. Some A is B. \ / All B is C. All B is C. | = | Some A is B. .'. Some C is A./ \ .'. Some A is C. .'. Some C is A.
-
-Fesapo. Ferio. No A is B. \ / No B is A. All B is C. | = | Some C is B. .'. Some C is not A./ \ .'. Some C is not A.
-
-Fresison. Ferio. No A is B. \ / No B is A. Some B is C. | = | Some C is B. .'. Some C is not A./ \ .'. Some C is not A.
 
 § 684. The reason why Baroko and Bokardo cannot be reduced ostensively by the aid of mere conversion becomes plain on an inspection of them. In both it is necessary, if we are to obtain the first figure, that the position of the middle term should be changed in one premiss. But the premisses of both consist of A and 0 propositions, of which A admits only of conversion by limitation, the effect of which would be to produce two particular premisses, while 0 does not admit of conversion at all,
 
@@ -105,14 +73,6 @@ It is clear then that the 0 proposition must cease to be 0 before we can get any
 Benare[pi], Cane[pi]e, Denilo[pi], Fano[pi]o secundae.
 
 § 687. The only other combination of mood and figure in which it will be found available is Camenes, whose name it changes to Canene.
-
-(Cesare) Benarea. Barbara. No A is B. \ / All B is not-A. All C is B. | = | All C is B. .'. No C is A. / \ .'. All C is not-A. .'. No C is A.
-
-(Camestres) Cane[pi]e. Celarent. All A is B. \ / No not-B is A. No C is B. | = | All C is not-B. .'. No C is A. / \ .'. No C is A.
-
-(Festino) Denilo[pi]. Darii. No A is B. \ / All B is not-A. Some C is B. | = | Some C is B. .'. Some C is not A./ \ .'. Some C is not-A. .'. Some C is not A.
-
-(Camenes) Canene. Celarent. All A is B. \ / No not-B is A. No B is C. | = | All C is not-B. .'. No C is A. / \ .'. No C is A.
 
 § 689. The following will serve as a concrete instance of Cane[pi]e reduced to the first figure.
 
@@ -214,8 +174,6 @@ All cases of A not being B are cases of C being D. (Every not-AB is a CD.)
 
 A / If A is B, C is always D. \ .'. If C is D, A is sometimes B.
 
-E / If A is B, C is never D. \ .'. If C is D, A is never B.
-
 I / If A is S, C is sometimes D. \ .'. If C is D, A is sometimes B.
 
 § 710. Exactly the same rules of conversion apply to conjunctive as to simple propositions.
@@ -239,8 +197,6 @@ which, when thrown back into the conjunctive form, becomes
 'If C is D, A is sometimes B.'
 
 § 712. This expression must not be misunderstood as though it contained any reference to actual existence. The meaning might be better conveyed by the form
-
-'If C is D, A may be B.'
 
 But it is perhaps as well to retain the other, as it serves to emphasize the fact that formal logic is concerned only with the connection of ideas.
 
@@ -270,10 +226,6 @@ it certainly does not follow that
 
 § 718. *Permutation of Complex Propositions*.
 
-(A) If A is B, C is always D. .'. If A is B, C is never not-D. (E)
-
-(E) If A is B, C is never D. .'. If A is B, C is always not-D. (A)
-
 (I) If A is B, C is sometimes D. .'. If A is B, C is sometimes not not-D. (O)
 
 (O) If A is B, C is sometimes not D. .'. If A is B, C is sometimes not-D. (I)
@@ -293,10 +245,6 @@ Either A is B or C is D. .'. Either A is B or C is not not-D.
 Either a sinner must repent or he will be damned. .'. Either a sinner must repent or he will not be saved.
 
 § 721. *Conversion by Negation of Complex Propositions.*
-
-(A) If A is B, C is always D. .'. If C is not-D, A is never B. (E)
-
-(E) If A is B, C is never D. .'. If C is D, A is always not-B. (A)
 
 (I) If A is B, C is sometimes D. .'. If C is D, A is sometimes not not-B. (O)
 
@@ -361,8 +309,6 @@ As applied to conjunctive propositions conversion by contraposition assumes the 
 (A) Either A is B or C is D. .'. Either C is D or A is B.
 
 For, when reduced to the conjunctive shape, the reasoning would run thus--
-
-If A is not B, C is D. .'. If C is not D, A is B.
 
 which is the same in form as
 

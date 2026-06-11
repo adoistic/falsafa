@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5459
+word_count: 5429
 source_url: "https://www.gutenberg.org/ebooks/5173"
 translator: Project Gutenberg edition
 ---
@@ -32,8 +32,6 @@ There are in the Buddhist doctrines, to state briefly, the five grades (of devel
 
 The Buddha, to meet temporarily the spiritual needs of the uninitiated, preached a doctrine concerning good or bad Karma as the cause, and its retribution as the effect, in the three existences (of the past, the present, and the future). That is, one who commits the tenfold sin[FN#324] must be reborn after death in hell, when these sins are of the highest grade;[FN#325] among Pretas,[FN#326] when of the middle grade; and among animals, when of the lowest grade.
 
-[FN#324] (1) Taking life, (2) theft, (3) adultery, (4) lying, (5) exaggeration, (6) abuse, (7) ambiguous talk, (8) coveting, (9) malice, (10) unbelief.
-
 [FN#325] There are three grades in each of the tenfold sin. For instance, the taking of the life of a Buddha, or of a sage, or of a parent, etc., is of the highest grade; while to kill fellow-men is of the middle; and to kill beasts and birds, etc., is of the lowest. Again, to kill any being with pleasure is of the highest grade; while to repent after killing is of the middle; and killing by mistake is of the lowest.
 
 [FN#326] Hungry spirits.
@@ -45,8 +43,6 @@ Therefore the Buddha for a temporary purpose made these (uninitiated) observe th
 VIRTUES.---PRECEPTS.
 
 1. Humanity.---1. Not to take life. 2. Uprightness.---2. Not to steal. 3. Propriety.---3. Not to be adulterous. 4. Wisdom.---4. Not to get drunk. 5. Sincerity.---5. Not to lie.
-
-[FN#328] (1) Hell, (2) Pretas, (3) Beasts.
 
 [FN#329] A. 'The Buddhist precepts are different from the Confucian teachings in the form of expression, but they agree in their warning against the evil and in encouraging the good. The moral conduct of the Buddhist can be secured by the cultivation of the five virtues of humanity, uprightness, etc., as though people in this country hold up their hands joined in the respectable salutation, while the same object is attained by those of The Fan, who stand with their bands hanging down. Not to kill is humanity. Not to steal is uprightness. Not to be adulterous is propriety. Not to lie is sincerity. Not to drink spirits nor eat meat is to increase wisdom, keeping mind pure.'
 

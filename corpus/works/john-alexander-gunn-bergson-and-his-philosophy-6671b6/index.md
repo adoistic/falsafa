@@ -11,8 +11,8 @@ language: English
 language_direction: ltr
 description: "Bergson and His Philosophy, by John Alexander Gunn (1896-1975), from Project Gutenberg's public-domain text."
 difficulty: Advanced
-total_logical_chapters: 16
-total_variant_entries: 16
+total_logical_chapters: 12
+total_variant_entries: 12
 thothica_role: catalog
 ---
 
@@ -34,7 +34,3 @@ Bergson and His Philosophy, by John Alexander Gunn (1896-1975), from Project Gut
 10. [Chapter X](./chapters/10/) — prose, 1 variant
 11. [Chapter XI](./chapters/11/) — prose, 1 variant
 12. [Chapter XII](./chapters/12/) — prose, 1 variant
-13. [Section I — Books directly on Bergson](./chapters/13/) — prose, 1 variant
-14. [Section II — Books dealing Indirectly with Bergson](./chapters/14/) — prose, 1 variant
-15. [Section III — English and American Articles](./chapters/15/) — prose, 1 variant
-16. [Section IV — The English Translations of Bergson's Works](./chapters/16/) — prose, 1 variant

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 10821
+word_count: 10795
 source_url: "https://www.gutenberg.org/ebooks/22283"
 translator: Project Gutenberg edition
 ---
@@ -96,8 +96,4 @@ According to the theory of Theism as sanctioned by Monism, what we apprehend as 
 
 FOOTNOTES:
 
-+-------------------------------------------------------------------+ |Transcriber's note: In this text this H_2O represents a subscript 2| +-------------------------------------------------------------------+
-
 Oxford HORACE HART, PRINTER TO THE UNIVERSITY
-
-End of Project Gutenberg's Mind and Motion and Monism, by George John Romanes

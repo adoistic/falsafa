@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6928
+word_count: 6925
 source_url: "https://www.gutenberg.org/ebooks/5246"
 translator: Project Gutenberg edition
 ---
@@ -51,8 +51,6 @@ This freedom is not always realised, for over against the tendency to action we 
 Such, in brief, is the outline of De Biran’s psychology. To his two stages, *vie sensitive* and *vie active* (*ou réflexive*), he added a third, *la vie divine*. In his religious psychology he upheld the great Christian doctrines of divine love and grace as against the less human attitude of the Stoics. He still insists upon the power of will and action and is an enemy of the religious vice of quietism. In his closing years De Biran penned his ideas upon our realisation of the divine love by intuition. His intense interest in the inner life of the spirit gives De Biran’s *Journal Intime* a rank among the illuminating writings upon religious psychology.
 
 Maine de Biran was nothing if not a psychologist. The most absurd statement ever made about him was that he was “the French Kant.” This is very misleading, for De Biran’s genius showed itself in his psychological power and not in critical metaphysics. The importance of his work and his tremendous influence upon our period, especially upon the new spiritualism, will be apparent. Indeed he himself foresaw the great possibilities which lay open to philosophy along the lines he laid down. “*Qui sait,*” he remarked, “_tout ce que peut la réflection concentrée et s’il n’y a pas un nouveau monde intérieur qui pourra être découvert un jour par quelque ‘Colomb métaphysicien.’_” With Maine de Biran began the movement in French philosophy which worked through the writings of Ravaisson, Lachelier, Guyau, Boutroux and particularly Bergson. A careful examination of the philosophy of this last thinker shows how great is his debt to Maine de Biran, whose inspiration he warmly acknowledges.
-
-Pensées, p. 213.
 
 But it is only comparatively recently that Maine de Biran has come to his own and that his real power and influence have been recognised. There are two reasons for this, firstly the lack of publication of his writings, and secondly his being known for long only through the work of Cousin and the Eclectics, who were imperfectly acquainted with his work. Upon this school of thought he had some little influence which was immediate and personal, but Cousin, although he edited some of his unpublished work, failed to appreciate its originality and value.
 

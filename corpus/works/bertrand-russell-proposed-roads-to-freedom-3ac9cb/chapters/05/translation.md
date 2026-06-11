@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6908
+word_count: 6906
 source_url: "https://www.gutenberg.org/ebooks/690"
 translator: Project Gutenberg edition
 ---
@@ -101,8 +101,6 @@ Majority rule, as it exists in large States, is subject to the fatal defect that
 Guild Socialists, as we have seen, have another suggestion, growing naturally out of the autonomy of industrial guilds, by which they hope to limit the power of the State and help to preserve individual liberty. They propose that, in addition to Parliament, elected (as at present) on a territorial basis and representing the community as consumers, there shall also be a ``Guild Congress,'' a glorified successor of the present Trade Union Congress, which shall consist of representatives chosen by the Guilds, and shall represent the community as producers.
 
 This method of diminishing the excessive power of the State has been attractively set forth by Mr. G. D. H. Cole in his ``Self-Government in Industry.'' ``Where now,'' he says, ``the State passes a Factory Act, or a Coal Mines Regulation Act, the Guild Congress of the future will pass such Acts, and its power of enforcing them will be the same as that of the State'' (p. 98). His ultimate ground for advocating this system is that, in his opinion, it will tend to preserve individual liberty: ``The fundamental reason for the preservation, in a democratic Society, of both the industrial and the political forms of Social organization is, it seems to me, that only by dividing the vast power now wielded by industrial capitalism can the individual hope to be free'' (p. 91).
-
-Bell, 1917.
 
 Will the system suggested by Mr. Cole have this result? I think it is clear that it would, in this respect, be an improvement on the existing system. Representative government cannot but be improved by any method which brings the representatives into closer touch with the interests concerned in their legislation; and this advantage probably would be secured by handing over questions of production to the Guild Congress. But if, in spite of the safeguards proposed by the Guild Socialists, the Guild Congress became all-powerful in such questions, if resistance to its will by a Guild which felt ill-used became practically hopeless, I fear that the evils now connected with the omnipotence of the State would soon reappear. Trade Union officials, as soon as they become part of the governing forces in the country, tend to become autocratic and conservative; they lose touch with their constituents and gravitate, by a psychological sympathy, into co-operation with the powers that be. Their formal installation in authority through the Guilds Congress would accelerate this process. They would soon tend to combine, in effect if not obviously, with those who wield authority in Parliament. Apart from occasional conflicts, comparable to the rivalry of opposing financiers which now sometimes disturbs the harmony of the capitalist world, there would, at most times, be agreement between the dominant personalities in the two Houses. And such harmony would filch away from the individual the liberty which he had hoped to secure by the quarrels of his masters.
 

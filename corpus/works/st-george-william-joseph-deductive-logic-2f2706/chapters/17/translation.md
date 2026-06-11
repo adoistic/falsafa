@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2273
+word_count: 2249
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -97,8 +97,6 @@ If A is B, C is D; and if E is F, G is H; and if K is L, M is N. Either A is B o
 § 788. Having seen what the true dilemma is, we shall now examine some forms of reasoning which resemble dilemmas without being so.
 
 § 789. This, for instance, is not a dilemma--
-
-If A is B or if E is F, C is D. But A is B and E is F. .'. C is D.
 
 If he observes the sabbath or if he refuses to eat pork, he is a Jew. But he both observes the sabbath and refuses to eat pork. .'. He is a Jew.
 

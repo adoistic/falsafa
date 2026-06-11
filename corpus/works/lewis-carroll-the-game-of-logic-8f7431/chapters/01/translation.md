@@ -13,14 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 7326
+word_count: 7013
 source_url: "https://www.gutenberg.org/ebooks/4763"
 translator: Project Gutenberg edition
 ---
 
 NEW LAMPS FOR OLD.
 
-"Light come, light go." _________
+"Light come, light go."
 
 1. Propositions.
 
@@ -134,8 +134,6 @@ This kind of Universal Proposition (where the Subject is a single Thing) is call
 
 Now let us take "NICE Cakes" as the Subject of Proposition: that is, let us fix our thoughts on the LEFT-HAND half of the cupboard, where all the Cakes have attribute y, that is, "nice."
 
------ Suppose we find it marked like this:-- | | | 1 | What would that tell us? | | ----- | | | | | | -----
-
 I hope that it is not necessary, after explaining the HORIZONTAL oblong so fully, to spend much time over the UPRIGHT one. I hope you will see, for yourself, that this means "some y are x", that is,
 
 "Some nice Cakes are new."
@@ -151,8 +149,6 @@ You will find it a good plan to examine yourself on this table, by covering up f
 Also you will do well to write out for yourself two other tables--one for the LOWER half of the cupboard, and the other for its RIGHT-HAND half.
 
 And now I think we have said all we need to say about the smaller Diagram, and may go on to the larger one.
-
-_________________________________________________ | Symbols. | Meanings. ______________*|*________________________________ ----- | | | | | | | Some y are x'; | | | i.e. Some nice are not-new. ----- | | | | | 1 | | | | | ----- | | ----- | | | | No y are x; | 0 | | i.e. No nice are new. | | | ----- | [Observe that this is merely another way of | | | expressing "No new are nice."] | | | | | | ----- | | ----- | | | | | | | No y are x'; | | | i.e. No nice are not-new. ----- | | | | | 0 | | | | | ----- | | ----- | | | | | 1 | | Some y are x, and some are x'; | | | i.e. Some nice are new, and some are ----- | not-new. | | | | 1 | | | | | ----- | | ----- | | | | | 0 | | No y are x, and none are x'; i.e. No y | | | exist; ----- | i.e. No Cakes are nice. | | | | 0 | | | | | ----- | | ----- | | | | | 1 | | All y are x; | | | i.e. All nice are new. ----- | | | | | 0 | | | | | ----- | | ----- | | | | | 0 | | All y are x'; | | | i.e. All nice are not-new. ----- | | | | | 1 | | | | | ----- | ______________*|*________________________________
 
 This may be taken to be a cupboard divided in the same way as the last, but ALSO divided into two portions, for the Attribute m. Let us give to m the meaning "wholesome": and let us suppose that all WHOLESOME Cakes are placed INSIDE the central Square, and all the UNWHOLESOME ones OUTSIDE it, that is, in one or other of the four queer-shaped OUTER compartments.
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+  "work_title": "An Introduction to Philosophy",
+  "chapter_number": 6,
+  "chapter_title": "Chapter VI",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00f59106-3c00-5a76-baef-2903cf5fa33b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5398,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/16406"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
   "work_title": "A System of Logic, Ratiocinative and Inductive",
   "chapter_number": 19,
-  "chapter_title": "Book V",
+  "chapter_title": "Book VI",
   "chapter_slug": "19",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 39947,
-      "paragraph_count": 225,
+      "word_count": 188,
+      "paragraph_count": 2,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/27942"
     }

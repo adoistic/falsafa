@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 7722
+word_count: 7715
 source_url: "https://www.gutenberg.org/ebooks/2529"
 translator: Project Gutenberg edition
 ---
@@ -115,8 +115,6 @@ In the case we have just been considering the objective consists of two parts wi
 To begin with, the simple type of correspondence we have been exhibiting can hardly occur when words are substituted for images, because, in word-propositions, relations are usually expressed by words, which are not themselves relations. Take such a proposition as "Socrates precedes Plato." Here the word "precedes" is just as solid as the words "Socrates" and "Plato"; it MEANS a relation, but is not a relation. Thus the objective which makes our proposition true consists of TWO terms with a relation between them, whereas our proposition consists of THREE terms with a relation of order between them. Of course, it would be perfectly possible, theoretically, to indicate a few chosen relations, not by words, but by relations between the other words. "Socrates-Plato" might be used to mean "Socrates precedes Plato"; "Plato-Socrates" might be used to mean "Plato was born before Socrates and died after him"; and so on. But the possibilities of such a method would be very limited. For aught I know, there may be languages that use it, but they are not among the languages with which I am acquainted. And in any case, in view of the multiplicity of relations that we wish to express, no language could advance far without words for relations. But as soon as we have words for relations, word-propositions have necessarily more terms than the facts to which they refer, and cannot therefore correspond so simply with their objectives as some image-propositions can.
 
 The consideration of negative propositions and negative facts introduces further complications. An image-proposition is necessarily positive: we can image the window to the left of the door, or to the right of the door, but we can form no image of the bare negative "the window not to the left of the door." We can DISBELIEVE the image-proposition expressed by "the window to the left of the door," and our disbelief will be true if the window is not to the left of the door. But we can form no image of the fact that the window is not to the left of the door. Attempts have often been made to deny such negative facts, but, for reasons which I have given elsewhere,* I believe these attempts to be mistaken, and I shall assume that there are negative facts.
-
-* "Monist," January, 1919, p. 42 ff.
 
 Word-propositions, like image-propositions, are always positive facts. The fact that Socrates precedes Plato is symbolized in English by the fact that the word "precedes" occurs between the words "Socrates" and "Plato." But we cannot symbolize the fact that Plato does not precede Socrates by not putting the word "precedes" between "Plato" and "Socrates." A negative fact is not sensible, and language, being intended for communication, has to be sensible. Therefore we symbolize the fact that Plato does not precede Socrates by putting the words "does not precede" between "Plato" and "Socrates." We thus obtain a series of words which is just as positive a fact as the series "Socrates precedes Plato." The propositions asserting negative facts are themselves positive facts; they are merely different positive facts from those asserting positive facts.
 

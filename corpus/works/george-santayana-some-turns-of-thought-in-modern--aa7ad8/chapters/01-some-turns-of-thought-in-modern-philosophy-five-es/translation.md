@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 23753
+word_count: 23728
 source_url: "https://www.gutenberg.org/ebooks/16712"
 translator: Project Gutenberg edition
 ---
@@ -70,17 +70,7 @@ All philosophies are frail, in that they are products of the human mind, in whic
 
 Paper read before the Royal Society of Literature on the occasion of the Tercentenary of the birth of John Locke.
 
-See note I, p. 26.
-
-See note II, p. 29.
-
 See note III, p. 35.
-
-See note IV, p. 36.
-
-See note V, p. 37.
-
-See note VI, p. 39.
 
 See note VII, p. 43.
 

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 27494
+word_count: 27475
 source_url: "https://www.gutenberg.org/ebooks/25012"
 translator: Project Gutenberg edition
 ---
@@ -97,8 +97,6 @@ In reality, therefore, Wagner the man and Wagner the artist were undoubtedly one
 Let anyone apply this point of view to Nietzsche’s life and theory. Let anyone turn his life inside out, not only as he gives it to us in his *Ecce Homo*, but as we find it related by all his biographers, friends and foes alike, and what will be the result? Even if we ignore his works—the blooms which blowed from time to time from his life—we absolutely cannot deny the greatness of the man’s *private practice*, and if we fully understand and appreciate the latter, we must be singularly deficient in instinct and in *flair* if we do not suspect that some of this greatness is reflected in his life-task.
 
 ANTHONY M. LUDOVICI
-
-London, *July 1911*.
 
 THE CASE OF WAGNER: A MUSICIAN’S PROBLEM
 
@@ -332,8 +330,6 @@ Oh, how much more repulsive pleasure now is to him, that coarse, heavy, buff-col
 
 SELECTED APHORISMS FROM NIETZSCHE’S RETROSPECT OF HIS YEARS OF FRIENDSHIP WITH WAGNER.
 
-(*Summer 1878.*)
-
 My blunder was this, I travelled to Bayreuth with an ideal in my breast, and was thus doomed to experience the bitterest disappointment. The preponderance of ugliness, grotesqueness and strong pepper thoroughly repelled me.
 
 I utterly disagree with those who were dissatisfied with the decorations, the scenery and the mechanical contrivances at Bayreuth. Far too much industry and ingenuity was applied to the task of chaining the imagination to matters which did not belie their *epic* origin. But as to the naturalism of the attitudes, of the singing, compared with the orchestra!! What affected, artificial and depraved tones, what a distortion of nature, were we made to hear!
@@ -502,13 +498,7 @@ FOOTNOTES
 
 1 It should be noted that the first and second editions of these essays on Wagner appeared in pamphlet form, for which the above first preface was written.
 
-2 Fisher Unwin, 1911.
-
-3 T. N. Foulis, 1910.
-
 4 See *Richard Wagner*, by Houston Stuart Chamberlain (translated by G. A. Hight), pp. 15, 16.
-
-5 Constable & Co., 1911.
 
 6 See Author’s Preface to “The Case of Wagner” in this volume.
 

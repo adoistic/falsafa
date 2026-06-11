@@ -4,7 +4,7 @@ work_slug: "lewis-carroll-symbolic-logic-56bef5"
 work_title: Symbolic Logic
 author_name: Lewis Carroll
 chapter_number: 8
-chapter_title: Book VII
+chapter_title: Book VI
 chapter_slug: 08
 variant_id: "a80304dd-4a39-525d-bb49-86c110947393"
 content_type: translation
@@ -13,275 +13,283 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3124
+word_count: 2722
 source_url: "https://www.gutenberg.org/ebooks/28696"
 translator: Project Gutenberg edition
 ---
 
-SORITESES.
+THE METHOD OF SUBSCRIPTS.
 
 CHAPTER I.
 
 *INTRODUCTORY.*
 
-When a Set of three or more Biliteral Propositions are such that all their Terms are Species of the same Genus, and are also so related that two of them, taken together, yield a Conclusion, which, taken with another of them, yields another Conclusion, and so on, until all have been taken, it is evident that, if the original Set were true, the last Conclusion would *also* be true.
+Let us agree that "x_{1}" shall mean "Some existing Things have the Attribute x", i.e. (more briefly) "Some x exist"; also that "xy_{1}" shall mean "Some xy exist", and so on. Such a Proposition may be called an '=Entity=.'
 
-Such a Set, with the last Conclusion tacked on, is called a '=Sorites='; the original Set of Propositions is called its '=Premisses='; each of the intermediate Conclusions is called a '=Partial Conclusion=' of the Sorites; the last Conclusion is called its '=Complete Conclusion=,' or, more briefly, its '=Conclusion='; the Genus, of which all the Terms are Species, is called its '=Universe of Discourse=', or, more briefly, its '=Univ.='; the Terms, used as Eliminands in the Syllogisms, are called its '=Eliminands='; and the two Terms, which are retained, and therefore appear in the Conclusion, are called its '=Retinends='.
+[Note that, when there are *two* letters in the expression, it does not in the least matter which stands *first*: "xy_{1}" and "yx_{1}" mean exactly the same.]
 
-[Note that each *Partial* Conclusion contains one or two *Eliminands*; but that the *Complete* Conclusion contains *Retinends* only.]
+Also that "x_{0}" shall mean "No existing Things have the Attribute x", i.e. (more briefly) "No x exist"; also that "xy_{0}" shall mean "No xy exist", and so on. Such a Proposition may be called a '=Nullity='.
 
-The Conclusion is said to be '=consequent=' from the Premisses; for which reason it is usual to prefix to it the word "Therefore" (or the symbol ".'.").
+Also that "+" shall mean "and".
 
-[Note that the question, whether the Conclusion is or is not *consequent* from the Premisses, is not affected by the *actual* truth or falsity of any one of the Propositions which make up the Sorites, by depends entirely on their _relationship to one another_. pg086 As a specimen-Sorites, let us take the following Set of 5 Propositions:--
+[Thus "ab*{1} + cd*{0}" means "Some ab exist and no cd exist".]
 
-(1) "No a are b'; (2) All b are c; (3) All c are d; (4) No e' are a'; (5) All h are e'".
+Also that "¶" shall mean "would, if true, prove".
 
-Here the first and second, taken together, yield "No a are c'".
+[Thus, "x*{0} ¶ xy*{0}" means "The Proposition 'No x exist' would, if true, prove the Proposition 'No xy exist'".]
 
-This, taken along with the third, yields "No a are d'".
-
-This, taken along with the fourth, yields "No d' are e'".
-
-And this, taken along with the fifth, yields "All h are d".
-
-Hence, if the original Set were true, this would *also* be true.
-
-Hence the original Set, with this tacked on, is a *Sorites*; the original Set is its *Premisses*; the Proposition "All h are d" is its *Conclusion*; the Terms a, b, c, e are its *Eliminands*; and the Terms d and h are its *Retinends*.
-
-Hence we may write the whole Sorites thus:--
-
-"No a are b'; All b are c; All c are d; No e' are a'; All h are e'. .'. All h are d".
-
-In the above Sorites, the 3 Partial Conclusions are the Positions "No a are e'", "No a are d'", "No d' are e'"; but, if the Premisses were arranged in other ways, other Partial Conclusions might be obtained. Thus, the order 41523 yields the Partial Conclusions "No c' are b'", "All h are b", "All h are c". There are altogether *nine* Partial Conclusions to this Sorites, which the Reader will find it an interesting task to make out for himself.]
-
-pg087
+When two Letters are both of them accented, or both *not* accented, they are said to have '=Like Signs=', or to be '=Like=': when one is accented, and the other not, they are said to have '=Unlike Signs=', or to be '=Unlike='.
 
 CHAPTER II.
 
-*PROBLEMS IN SORITESES.*
+*REPRESENTATION OF PROPOSITIONS OF RELATION.*
 
-*Introductory.*
+Let us take, first, the Proposition "Some x are y".
 
-The Problems we shall have to solve are of the following form:--
+This, we know, is equivalent to the Proposition of Existence "Some xy exist". (See p. 31.) Hence it may be represented by the expression "xy_{1}".
 
-"Given three or more Propositions of Relation, which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them."
+The Converse Proposition "Some y are x" may of course be represented by the *same* expression, viz. "xy_{1}".
 
-We will limit ourselves, at present, to Problems which can be worked by the Formulæ of Fig. I. (See p. 75.) Those, that require *other* Formulæ, are rather too hard for beginners.
+Similarly we may represent the three similar Pairs of Converse Propositions, viz.--
 
-Such Problems may be solved by either of two Methods, viz.
+Let us take, next, the Proposition "No x are y".
 
-(1) The Method of Separate Syllogisms; (2) The Method of Underscoring.
+This, we know, is equivalent to the Proposition of Existence "No xy exist". (See p. 33.) Hence it may be represented by the expression "xy_{0}".
 
-These shall be discussed separately.
+The Converse Proposition "No y are x" may of course be represented by the *same* expression, viz. "xy_{0}".
 
-pg088 § 2.
+Similarly we may represent the three similar Pairs of Converse Propositions, viz.--
 
-*Solution by Method of Separate Syllogisms.*
+Now it is evident that the Double Proposition of Existence "Some x exist and no xy' exist" tells us that *some* x-Things exist, but that *none* of them have the Attribute y': that is, it tells us that *all* of them have the Attribute y: that is, it tells us that "All x are y".
 
-The Rules, for doing this, are as follows:--
+Also it is evident that the expression "x*{1} + xy'*{0}" represents this Double Proposition.
 
-(1) Name the 'Universe of Discourse'.
+Hence it also represents the Proposition "All x are y".
 
-(2) Construct a Dictionary, making a, b, c, &c. represent the Terms.
+[The Reader will perhaps be puzzled by the statement that the Proposition "All x are y" is equivalent to the Double Proposition "Some x exist and no xy' exist," remembering that it was stated, at p. 33, to be equivalent to the Double Proposition "Some x are y and no x are y'" (i.e. "Some xy exist and no xy' exist"). The explanation is that the Proposition "Some xy exist" contains *superfluous information*. "Some x exist" is enough for our purpose.]
 
-(3) Put the Proposed Premisses into subscript form.
+This expression may be written in a shorter form, viz. "x*{1}y'*{0}", since *each* Subscript takes effect back to the *beginning* of the expression.
 
-(4) Select two which, containing between them a pair of codivisional Classes, can be used as the Premisses of a Syllogism.
+Similarly we may represent the seven similar Propositions "All x are y'", "All x' are y", "All x' are y'", "All y are x", "All y are x'", "All y' are x", and "All y' are x'".
 
-(5) Find their Conclusion by Formula.
+[The Reader should make out all these for himself.]
 
-(6) Find a third Premiss which, along with this Conclusion, can be used as the Premisses of a second Syllogism.
+It will be convenient to remember that, in translating a Proposition, beginning with "All", from abstract form into subscript form, or _vice versâ*, the Predicate *changes sign_ (that is, changes from positive to negative, or else from negative to positive).
 
-(7) Find a second Conclusion by Formula.
+[Thus, the Proposition "All y are x'" becomes "y*{1}x*{0}", where the Predicate changes from x' to x.
 
-(8) Proceed thus, until all the proposed Premisses have been used.
+Again, the expression "x'*{1}y'*{0}" becomes "All x' are y", where the Predicate changes for y' to y.]
 
-(9) Put the last Conclusion, which is the Complete Conclusion of the Sorites, into concrete form.
+CHAPTER III.
 
-[As an example of this process, let us take, as the proposed Set of Premisses,
+*SYLLOGISMS.*
 
-(1) "All the policemen on this beat sup with our cook; (2) No man with long hair can fail to be a poet; (3) Amos Judd has never been in prison; (4) Our cook's 'cousins' all love cold mutton; (5) None but policemen on this beat are poets; (6) None but her 'cousins' ever sup with our cook; (7) Men with short hair have all been in prison."
+*Representation of Syllogisms.*
 
-Univ. "men"; a = Amos Judd; b = cousins of our cook; c = having been in prison; d = long-haired; e = loving cold mutton; h = poets; k = policemen on this beat; l = supping with our cook pg089 We now have to put the proposed Premisses into *subscript* form. Let us begin by putting them into *abstract* form. The result is
+We already know how to represent each of the three Propositions of a Syllogism in subscript form. When that is done, all we need, besides, is to write the three expressions in a row, with "+" between the Premisses, and "¶" before the Conclusion.
 
-(1) "All k are l; (2) No d are h'; (3) All a are c'; (4) All b are e; (5) No k' are h; (6) No b' are l; (7) All d' are c."
+[Thus the Syllogism
 
-And it is now easy to put them into *subscript* form, as follows:--
+may be represented thus:--
 
-(1) k*{1}l'*{0} (2) dh'_{0} (3) a*{1}c*{0} (4) b*{1}e'*{0} (5) k'h_{0} (6) b'l_{0} (7) d'*{1}c'*{0}
+When a Proposition has to be translated from concrete form into subscript form, the Reader will find it convenient, just at first, to translate it into *abstract* form, and *thence* into subscript form. But, after a little practice, he will find it quite easy to go straight from concrete form to subscript form.]
 
-We now have to find a pair of Premisses which will yield a Conclusion. Let us begin with No. (1), and look down the list, till we come to one which we can take along with it, so as to form Premisses belonging to Fig. I. We find that No. (5) will do, since we can take k as our Eliminand. So our first syllogism is
+*Formulæ for solving Problems in Syllogisms.*
 
-(1) k*{1}l'*{0} (5) k'h_{0} .'. l'h_{0} ... (8)
+When once we have found, by Diagrams, the Conclusion to a given Pair of Premisses, and have represented the Syllogism in subscript form, we have a *Formula*, by which we can at once find, without having to use Diagrams again, the Conclusion to any *other* Pair of Premisses having the *same* subscript forms.
 
-We must now begin again with l'h_{0} and find a Premiss to go along with it. We find that No. (2) will do, h being our Eliminand. So our next Syllogism is
+[Thus, the expression
 
-(8) l'h_{0} (2) dh'_{0} .'. l'd_{0} ... (9)
+is a Formula, by which we can find the Conclusion to any Pair of Premisses whose subscript forms are
 
-We have now used up Nos. (1), (5), and (2), and must search among the others for a partner for l'd_{0}. We find that No. (6) will do. So we write
+For example, suppose we had the Pair of Propositions
 
-(9) l'd_{0} (6) b'l_{0} .'. db'_{0} ... (10)
+"No gluttons are healthy; No unhealthy men are strong".
 
-Now what can we take along with db'_{0}? No. (4) will do.
+proposed as Premisses. Taking "men" as our 'Universe', and making m = healthy; x = gluttons; y = strong; we might translate the Pair into abstract form, thus:--
 
-(10) db'_{0} (4) b*{1}e'*{0} .'. de'_{0} ... (11) pg090 Along with this we may take No. (7).
+These, in subscript form, would be
 
-(11) de'_{0} (7) d'*{1}c'*{0} .'. c'e'_{0} ... (12)
+which are identical with those in our *Formula*. Hence we at once know the Conclusion to be
 
-And along with this we may take No. (3).
+that is, in abstract form,
 
-(12) c'e'_{0} (3) a*{1}c*{0} .'. a*{1}e'*{0}
+that is, in concrete form,
 
-This Complete Conclusion, translated into *abstract* form, is
+"No gluttons are strong".]
 
-"All a are e";
+I shall now take three different forms of Pairs of Premisses, and work out their Conclusions, once for all, by Diagrams; and thus obtain some useful Formulæ. I shall call them "Fig. I", "Fig. II", and "Fig. III". pg075 Fig. I.
 
-and this, translated into *concrete* form, is
+This includes any Pair of Premisses which are both of them Nullities, and which contain Unlike Eliminands.
 
-"Amos Judd loves cold mutton."
+The simplest case is
 
-In actually *working* this Problem, the above explanations would, of course, be omitted, and all, that would appear on paper, would be as follows:--
+In this case we see that the Conclusion is a Nullity, and that the Retinends have kept their Signs.
 
-(1) k*{1}l'*{0} (2) dh'_{0} (3) a*{1}c*{0} (4) b*{1}e'*{0} (5) k'h_{0} (6) b'l_{0} (7) d'*{1}c'*{0}
+And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions.
 
-(1) k*{1}l'*{0} (5) k'h_{0} .'. l'h_{0} ... (8)
+[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as
 
-(8) l'h_{0} (2) dh'_{0} .'. l'd_{0} ... (9)
+If either Retinend is asserted in the *Premisses* to exist, of course it may be so asserted in the *Conclusion*.
 
-(9) l'd_{0} (6) b'l_{0} .'. db'_{0} ... (10)
+Hence we get two *Variants* of Fig. I, viz.
 
-(10) db'_{0} (4) b*{1}e'*{0} .'. de'_{0} ... (11)
+(a) where *one* Retinend is so asserted;
 
-(11) de'_{0} (7) d'*{1}c'*{0} .'. c'e'_{0} ... (12)
+(b) where *both* are so asserted.
 
-(12) c'e'_{0} (3) a*{1}c*{0} .'. a*{1}e'*{0}
+[The Reader had better work out, on Diagrams, examples of these two Variants, such as
 
-Note that, in working a Sorites by this Process, we may begin with *any* Premiss we choose.]
+The Formula, to be remembered, is
 
-pg091 § 3.
+with the following two Rules:--
 
-*Solution by Method of Underscoring.*
+(1) _Two Nullities, with Unlike Eliminands, yield a Nullity, in which both Retinends keep their Signs._ pg076 (2) _A Retinend, asserted in the Premisses to exist, may be so asserted in the Conclusion._
 
-Consider the Pair of Premisses
+[Note that Rule (1) is merely the Formula expressed in words.]
 
-xm*{0} + ym'*{0}
+Fig. II.
 
-which yield the Conclusion xy_{0}
+This includes any Pair of Premisses, of which one is a Nullity and the other an Entity, and which contain Like Eliminands.
 
-We see that, in order to get this Conclusion, we must eliminate m and m', and write x and y together in one expression.
+The simplest case is
 
-Now, if we agree to *mark* m and m' as eliminated, and to read the two expressions together, as if they were written in one, the two Premisses will then exactly represent the *Conclusion*, and we need not write it out separately.
+In this case we see that the Conclusion is an Entity, and that the Nullity-Retinend has changed its Sign.
 
-Let us agree to mark the eliminated letters by *underscoring* them, putting a *single* score under the *first*, and a *double* one under the *second*.
+And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions.
 
-The two Premisses now become
+[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as
 
-xm*{0} + ym'*{0} - =
+The Formula, to be remembered, is,
 
-which we read as "xy_{0}".
+with the following Rule:--
 
-In copying out the Premisses for underscoring, it will be convenient to *omit all subscripts*. As to the "0's" we may always *suppose* them written, and, as to the "1's", we are not concerned to know *which* Terms are asserted to *exist*, except those which appear in the *Complete* Conclusion; and for *them* it will be easy enough to refer to the original list. pg092 [I will now go through the process of solving, by this method, the example worked in § 2.
+_A Nullity and an Entity, with Like Eliminands, yield an Entity, in which the Nullity-Retinend changes its Sign._
 
-The Data are
+[Note that this Rule is merely the Formula expressed in words.]
 
-1 2 3 4 k*{1}l'*{0} + dh'*{0} + a*{1}c*{0} + b*{1}e'_{0} +
+This includes any Pair of Premisses which are both of them Nullities, and which contain Like Eliminands asserted to exist.
 
-5 6 7 k'h*{0} + b'l*{0} + d'*{1}c'*{0}
+The simplest case is
 
-The Reader should take a piece of paper, and write out this solution for himself. The first line will consist of the above Data; the second must be composed, bit by bit, according to the following directions.
+[Note that "m*{1}" is here stated *separately_, because it does not matter in which of the two Premisses it occurs: so that this includes the *three* forms "m*{1}x*{0} + ym*{0}", "xm*{0} + m*{1}y*{0}", and "m*{1}x*{0} + m*{1}y*{0}".]
 
-We begin by writing down the first Premiss, with its numeral over it, but omitting the subscripts.
+In this case we see that the Conclusion is an Entity, and that *both* Retinends have changed their Signs.
 
-We have now to find a Premiss which can be combined with this, *i.e.*, a Premiss containing either k' or l. The first we find is No. 5; and this we tack on, with a +.
+And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions.
 
-To get the *Conclusion* from these, k and k' must be eliminated, and what remains must be taken as one expression. So we *underscore* them, putting a *single* score under k, and a *double* one under k'. The result we read as l'h.
+[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as
 
-We must now find a Premiss containing either l or h'. Looking along the row, we fix on No. 2, and tack it on.
+The Formula, to be remembered, is
 
-Now these 3 Nullities are really equivalent to (l'h + dh'), in which h and h' must be eliminated, and what remains taken as one expression. So we *underscore* them. The result reads as l'd.
+with the following Rule (which is merely the Formula expressed in words):--
 
-We now want a Premiss containing l or d'. No. 6 will do.
+_Two Nullities, with Like Eliminands asserted to exist, yield an Entity, in which both Retinends change their Signs._
 
-These 4 Nullities are really equivalent to (l'd + b'l). So we underscore l' and l. The result reads as db'.
+In order to help the Reader to remember the peculiarities and Formulæ of these three Figures, I will put them all together in one Table. pg078 TABLE IX.
 
-We now want a Premiss containing d' or b. No. 4 will do.
+| | | Fig. I. | | | | xm*{0} + ym'*{0} ¶ xy_{0} | | | | Two Nullities, with Unlike Eliminands, yield a | | Nullity, in which both Retinends keep their Signs. | | | | A Retinend, asserted in the Premisses to exist, may | | be so asserted in the Conclusion. | | | | | | Fig. II. | | | | xm*{0} + ym*{1} ¶ x'y_{1} | | | | A Nullity and an Entity, with Like Eliminands, | | yield an Entity, in which the Nullity-Retinend | | changes its Sign. | | | | | | Fig. III. | | | | xm*{0} + ym*{0} + m*{1} ¶ x'y'*{1} | | | | Two Nullities, with Like Eliminands asserted | | to exist, yield an Entity, in which both Retinends | | change their Signs. | | |
 
-Here we underscore b' and b. The result reads as de'.
+I will now work out, by these Formulæ, as models for the Reader to imitate, some Problems in Syllogisms which have been already worked, by Diagrams, in Book V., Chap. II.
 
-We now want a Premiss containing d' or e. No. 7 will do.
+"No son of mine is dishonest; People always treat an honest man with respect."
 
-Here we underscore d and d'. The result reads as c'e'.
+Univ. "men"; m = honest; x = my sons; y = treated with respect.
 
-We now want a Premiss containing c or e. No. 3 will do--in fact *must* do, as it is the only one left.
+*i.e.* "No son of mine ever fails to be treated with respect." pg079 (2) [see p. 64]
 
-Here we underscore c' and c; and, as the whole thing now reads as e'a, we tack on e'a*{0} as the *Conclusion_, with a ¶.
+"All cats understand French; Some chickens are cats."
 
-We now look along the row of Data, to see whether e' or a has been given as *existent*. We find that a has been so given in No. 3. So we add this fact to the Conclusion, which now stands as ¶ e'a*{0} + a*{1}, *i.e.* ¶ a*{1}e'*{0}; i.e. "All a are e."
+Univ. "creatures"; m = cats; x = understanding French; y = chickens.
 
-If the Reader has faithfully obeyed the above directions, his written solution will now stand as follows:--
+*i.e.* "Some chickens understand French."
 
-1 2 3 4 k*{1}l'*{0} + dh'*{0} + a*{1}c*{0} + b*{1}e'_{0} +
+"All diligent students are successful; All ignorant students are unsuccessful."
 
-5 6 7 k'h*{0} + b'l*{0} + d'*{1}c'*{0}
+Univ. "students"; m = successful; x = diligent; y = ignorant.
 
-1 5 2 6 4 7 3 kl' + k'h + dh' + b'l + be' + d'c' + ac -- = - -= - = = = - =
+*i.e.* "All diligent students are learned; and all ignorant students are idle."
 
-¶ e'a*{0} + a*{1}
+"All soldiers are strong; All soldiers are brave. Some strong men are brave."
 
-*i.e.* ¶ a*{1}e'*{0};
+Univ. "men"; m = soldiers; x = strong; y = brave.
 
-*i.e.* "All a are e." pg093 The Reader should now take a second piece of paper, and copy the Data only, and try to work out the solution for himself, beginning with some other Premiss.
+Hence proposed Conclusion is right.
 
-If he fails to bring out the Conclusion a*{1}e'*{0}, I would advise him to take a third piece of paper, and *begin again*!]
+"I admire these pictures; When I admire anything, I wish to examine it thoroughly. I wish to examine some of these pictures thoroughly."
 
-I will now work out, in its briefest form, a Sorites of 5 Premisses, to serve as a model for the Reader to imitate in working examples.
+Univ. "things"; m = admired by me; x = these; y = things which I wish to examine thoroughly.
 
-(1) "I greatly value everything that John gives me; (2) Nothing but this bone will satisfy my dog; (3) I take particular care of everything that I greatly value; (4) This bone was a present from John; (5) The things, of which I take particular care, are things I do *not* give to my dog".
+Hence proposed Conclusion, xy*{1}, is *incomplete*, the *complete_ one being "I wish to examine *all* these pictures thoroughly." pg080 (6) [see p. 67]
 
-Univ. "things"; a = given by John to me; b = given by me to my dog; c = greatly valued by me; d = satisfactory to my dog; e = taken particular care of by me; h = this bone.
+"None but the brave deserve the fair; Some braggarts are cowards. Some braggarts do not deserve the fair."
 
-1 2 3 4 5 a*{1}c'*{0} + h'd*{0} + c*{1}e'*{0} + h*{1}a'*{0} + e*{1}b_{0}
+Univ. "persons"; m = brave; x = deserving of the fair; y = braggarts.
 
-1 3 4 2 5 ac' + ce' + ha' + h'd + eb ¶ db_{0} -- =- -= = =
+Hence proposed Conclusion is right.
 
-i.e. "Nothing, that I give my dog, satisfies him," or, "My dog is not satisfied with *anything* that I give him!"
+"No one, who means to go by the train and cannot get a conveyance, and has not enough time to walk to the station, can do without running;
 
-[Note that, in working a Sorites by this process, we may begin with *any* Premiss we choose. For instance, we might begin with No. 5, and the result would then be
+This party of tourists mean to go by the train and cannot get a conveyance, but they have plenty of time to walk to the station.
 
-5 3 1 4 2 eb + ce' + ac' + ha' + h'd ¶ bd_{0}] - -= -= -= =
+This party of tourists need not run."
 
-[Work Examples § =4=, 25-30 (p. 100); § =5=, 25-30 (p. 102); § =6=, 13-15 (p. 106); § =7=, 13-15 (p. 108); § =8=, 1-4, 13, 14, 19, 24 (pp. 110, 111); § =9=, 1-4, 26, 27, 40, 48 (pp. 112, 116, 119, 121).]
+Univ. "persons meaning to go by the train, and unable to get a conveyance"; m = having enough time to walk to the station; x = needing to run; y = these tourists.
 
-pg094 The Reader, who has successfully grappled with all the Examples hitherto set, and who thirsts, like Alexander the Great, for "more worlds to conquer," may employ his spare energies on the following 17 Examination-Papers. He is recommended not to attempt more than *one* Paper on any one day. The answers to the questions about words and phrases may be found by referring to the Index at p. 197.
+m'x'*{0} + y*{1}m'_{0} do not come under any of the three Figures. Hence it is necessary to return to the Method of Diagrams, as shown at p. 69.
 
-I. § =4=, 31 (p. 100); § =5=, 31-34 (p. 102); § =6=, 16, 17 (p. 106); § =7=, 16 (p. 108); § =8=, 5, 6 (p. 110); § =9=, 5, 22, 42 (pp. 112, 115, 119). What is 'Classification'? And what is a 'Class'?
+Hence there is no Conclusion.
 
-II. § =4=, 32 (p. 100); § =5=, 35-38 (pp. 102, 103); § =6=, 18 (p. 107); § =7=, 17, 18 (p. 108); § =8=, 7, 8 (p. 110); § =9=, 6, 23, 43 (pp. 112, 115, 119). What are 'Genus', 'Species', and 'Differentia'?
+*Fallacies.*
 
-III. § =4=, 33 (p. 100); § =5=, 39-42 (p. 103); § =6=, 19, 20 (p. 107); § =7=, 19 (p. 109); § =8=, 9, 10 (p. 111); § =9=, 7, 24, 44 (pp. 113, 116, 120). What are 'Real' and 'Imaginary' Classes?
+Any argument which *deceives* us, by seeming to prove what it does not really prove, may be called a '=Fallacy=' (derived from the Latin verb *fallo* "I deceive"): but the particular kind, to be now discussed, consists of a Pair of Propositions, which are proposed as the Premisses of a Syllogism, but yield no Conclusion.
 
-IV. § =4=, 34 (p. 100); § =5=, 43-46 (p. 103); § =6=, 21 (p. 107); § =7=, 20, 21 (p. 109); § =8=, 11, 12 (p. 111); § =9=, 8, 25, 45 (pp. 113, 116, 120). What is 'Division'? When are Classes said to be 'Codivisional'?
+When each of the proposed Premisses is a Proposition in *I*, or *E*, or *A*, (the only kinds with which we are now concerned,) the Fallacy may be detected by the 'Method of Diagrams,' by simply setting them out on a Triliteral Diagram, and observing that they yield no information which can be transferred to the Biliteral Diagram.
 
-V. § =4=, 35 (p. 100); § =5=, 47-50 (p. 103); § =6=, 22, 23 (p. 107); § =7=, 22 (p. 109); § =8=, 15, 16 (p. 111); § =9=, 9, 28, 46 (pp. 113, 116, 120). What is 'Dichotomy'? What arbitrary rule does it sometimes require? pg095 VI. § =4=, 36 (p. 100); § =5=, 51-54 (p. 103); § =6=, 24 (p. 107); § =7=, 23, 24 (p. 109); § =8=, 17 (p. 111); § =9=, 10, 29, 47 (pp. 113, 117, 120). What is a 'Definition'?
+But suppose we were working by the 'Method of *Subscripts*,' and had to deal with a Pair of proposed Premisses, which happened to be a 'Fallacy,' how could we be certain that they would not yield any Conclusion?
 
-VII. § =4=, 37 (p. 100); § =5=, 55-58 (pp. 103, 104); § =6=, 25, 26 (p. 107); § =7=, 25 (p. 109); § =8=, 18 (p. 111); § =9=, 11, 30, 49 (pp. 113, 117, 121). What are the 'Subject' and the 'Predicate' of a Proposition? What is its 'Normal' form?
+Our best plan is, I think, to deal with *Fallacies* in the same was as we have already dealt with *Syllogisms*: that is, to take certain forms of Pairs of Propositions, and to work them out, once for all, on the Triliteral Diagram, and ascertain that they yield *no* Conclusion; and then to record them, for future use, as *Formulæ for Fallacies*, just as we have already recorded our three *Formulæ for Syllogisms*. pg082 Now, if we were to record the two Sets of Formulæ in the *same* shape, viz. by the Method of Subscripts, there would be considerable risk of confusing the two kinds. Hence, in order to keep them distinct, I propose to record the Formulæ for *Fallacies* in *words*, and to call them "Forms" instead of "Formulæ."
 
-VIII. § =4=, 38 (p. 100); § =5=, 59-62 (p. 104); § =6=, 27 (p. 107); § =7=, 26, 27 (p. 109); § =8=, 20 (p. 111); § =9=, 12, 31, 50 (pp. 113, 117, 121). What is a Proposition 'in *I*'? 'In *E*'? And 'in *A*'?
+Let us now proceed to find, by the Method of Diagrams, three "Forms of Fallacies," which we will then put on record for future use. They are as follows:--
 
-IX. § =4=, 39 (p. 100); § =5=, 63-66 (p. 104); § =6=, 28, 29 (p. 107); § =7=, 28 (p. 109); § =8=, 21 (p. 111); § =9=, 13, 32, 51 (pp. 114, 117, 121). What is the 'Normal' form of a Proposition of Existence?
+(1) Fallacy of Like Eliminands not asserted to exist. (2) Fallacy of Unlike Eliminands with an Entity-Premiss. (3) Fallacy of two Entity-Premisses.
 
-X. § =4=, 40 (p. 100); § =5=, 67-70 (p. 104); § =6=, 30 (p. 107); § =7=, 29, 30 (p. 109); § =8=, 22 (p. 111); § =9=, 14, 33, 52 (pp. 114, 117, 122). What is the 'Universe of Discourse'?
+These shall be discussed separately, and it will be seen that each fails to yield a Conclusion.
 
-XI. § =4=, 41 (p. 100); § =5=, 71-74 (p. 104); § =6=, 31, 32 (p. 107); § =7=, 31 (p. 109); § =8=, 23 (p. 111); § =9=, 15, 34, 53 (pp. 114, 118, 122). What is implied, in a Proposition of Relation, as to the Reality of its Terms?
+(1) *Fallacy of Like Eliminands not asserted to exist.*
 
-XII. § =4=, 42 (p. 100); § =5=, 75-78 (p. 105); § =6=, 33 (p. 107); § =7=, 32, 33 (pp. 109, 110); § =8=, 25 (p. 111); § =9=, 16, 35, 54 (pp. 114, 118, 122). Explain the phrase "sitting on the fence".
+It is evident that neither of the given Propositions can be an *Entity*, since that kind asserts the *existence* of both of its Terms (see p. 20). Hence they must both be *Nullities*.
 
-XIII. § =5=, 79-83 (p. 105); § =6=, 34, 35 (p. 107); § =7=, 34 (p. 110); § =8=, 26 (p. 111); § =9=, 17, 36, 55 (pp. 114, 118, 122). What are 'Converse' Propositions?
+Hence the given Pair may be represented by (xm*{0} + ym*{0}), with or without x*{1}, y*{1}.
 
-XIV. § =5=, 84-88 (p. 105); § =6=, 36 (p. 107); § =7=, 35, 36 (p. 110); § =8=, 27 (p. 111); § =9=, 18, 37, 56 (pp. 114, 118, 123). What are 'Concrete' and 'Abstract' Propositions? pg096 XV. § =5=, 89-93 (p. 105); § =6=, 37, 38 (p. 107); § =7=, 37 (p. 110); § =8=, 28 (p. 111); § =9=, 19, 38, 57 (pp. 115, 118, 123). What is a 'Syllogism'? And what are its 'Premisses' and its 'Conclusion'?
+These, set out on Triliteral Diagrams, are
 
-XVI. § =5=, 94-97 (p. 106); § =6=, 39 (p. 107); § =7=, 38, 39 (p. 110); § =8=, 29 (p. 111); § =9=, 20, 39, 58 (pp. 115, 119, 123). What is a 'Sorites'? And what are its 'Premisses', its 'Partial Conclusions', and its 'Complete Conclusion'?
+Here the given Pair may be represented by (xm*{0} + ym'*{1}) with or without x*{1} or m*{1}.
 
-XVII. § =5=, 98-101 (p. 106); § =6=, 40 (p. 107); § =7=, 40 (p. 110); § =8=, 30 (p. 111); § =9=, 21, 41, 59, 60 (pp. 115, 119, 124). What are the 'Universe of Discourse', the 'Eliminands', and the 'Retinends', of a Syllogism? And of a Sorites?
+These, set out on Triliteral Diagrams, are
 
-pg097
+(3) *Fallacy of two Entity-Premisses.*
+
+Here the given Pair may be represented by either (xm*{1} + ym*{1}) or (xm*{1} + ym'*{1}).
+
+These, set out on Triliteral Diagrams, are
+
+*Method of proceeding with a given Pair of Propositions.*
+
+Let us suppose that we have before us a Pair of Propositions of Relation, which contain between them a Pair of codivisional Classes, and that we wish to ascertain what Conclusion, if any, is consequent from them. We translate them, if necessary, into subscript-form, and then proceed as follows:--
+
+(1) We examine their Subscripts, in order to see whether they are
+
+(a) a Pair of Nullities; or (b) a Nullity and an Entity; or (c) a Pair of Entities.
+
+(2) If they are a Pair of Nullities, we examine their Eliminands, in order to see whether they are Unlike or Like.
+
+If their Eliminands are *Unlike*, it is a case of Fig. I. We then examine their Retinends, to see whether one or both of them are asserted to *exist*. If one Retinend is so asserted, it is a case of Fig. I (a); if both, it is a case of Fig. I (b).
+
+If their Eliminands are Like, we examine them, in order to see whether either of them is asserted to exist. If so, it is a case of Fig. III.; if not, it is a case of "Fallacy of Like Eliminands not asserted to exist."
+
+(3) If they are a Nullity and an Entity, we examine their Eliminands, in order to see whether they are Like or Unlike.
+
+If their Eliminands are Like, it is a case of Fig. II.; if *Unlike*, it is a case of "Fallacy of Unlike Eliminands with an Entity-Premiss."
+
+(4) If they are a Pair of Entities, it is a case of "Fallacy of two Entity-Premisses."

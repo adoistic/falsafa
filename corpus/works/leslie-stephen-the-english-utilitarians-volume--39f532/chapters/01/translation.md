@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 12978
+word_count: 12944
 source_url: "https://www.gutenberg.org/ebooks/27597"
 translator: Project Gutenberg edition
 ---
@@ -34,10 +34,6 @@ One obvious remark is that, on the whole, the system was a very good one--as sys
 
 NOTES:
 
-22 George III. c. 82.
-
-*Parl. Hist.* xxx. 787.
-
 *State Trials*, xxiv. 382.
 
 II. THE RULING CLASS
@@ -47,8 +43,6 @@ Thus, however anomalous the constitution of parliament, there was no thought of 
 This implies an essential characteristic of the time. A familiar topic of the admirers of the British Constitution was the absence of the sharp lines of demarcation between classes and of the exclusive aristocratic privileges which, in France, provoked the revolution. In England the ruling class was not a 'survival': it had not retained privileges without discharging corresponding functions. The essence of 'self-government,' says its most learned commentator, is the organic connection 'between State and society.' On the Continent, that is, powers were intrusted to a centralised administrative and judicial hierarchy, which in England were left to the class independently strong by its social position. The landholder was powerful as a product of the whole system of industrial and agricultural development; and he was bound in return to perform arduous and complicated duties. How far he performed them well is another question. At least, he did whatever was done in the way of governing, and therefore did not sink into a mere excrescence or superfluity. I must try to point out certain results which had a material effect upon English opinion in general and, in particular, upon the Utilitarians.
 
 NOTES:
-
-*Parl. Hist.* xxv. 472.
 
 The country-gentlemen, said Wilberforce in 1800, are the 'very nerves and ligatures of the body politic.'--*Correspondence*, i. 219.
 
@@ -96,8 +90,6 @@ See *Military Forces of the Crown*, by Charles M. Clode (1869), for a full accou
 
 Debate in *Parl. Hist.* xiii. 1382, etc., and see Walpole's *Correspondence*, i. 400, for some characteristic comments.
 
-Clode, ii. 86.
-
 See the famous case in 1778 in which Erskine made his first appearance, in *State Trials*, xxi. Lord St. Vincent's struggle against the corruption of his time is described by Prof. Laughton in the *Dictionary of National Biography*, (*s.v.* Sir John Jervis). In 1801 half a million a year was stolen, besides all the waste due to corruption and general muddling.
 
 V. THE CHURCH
@@ -116,8 +108,6 @@ NOTES:
 
 The list, checked from other sources of information, is as follows:--Manners Sutton, archbishop of Canterbury, was grandson of the third duke of Rutland; Edward Vernon, archbishop of York, was son of the first Lord Vernon and cousin of the third Lord Harcourt, whose estates he inherited; Shute Barrington, bishop of Durham, was son of the first and brother of the second Viscount Barrington; Brownlow North, bishop of Winchester, was uncle to the earl of Guildford; James Cornwallis, bishop of Lichfield, was uncle to the second marquis, whose peerage he inherited; George Pelham, bishop of Exeter, was brother of the earl of Chichester; Henry Bathurst, bishop of Norwich, was nephew of the first earl; George Henry Law, bishop of Chester, was brother of the first Lord Ellenborough; Edward Legge, bishop of Oxford, was son of the second earl of Dartmouth; Henry Ryder, bishop of Gloucester, was brother to the earl of Harrowby; George Murray, bishop of Sodor and Man, was nephew-in-law to the duke of Athol and brother-in-law to the earl of Kinnoul. Of the fourteen tutors, etc., mentioned above, William Howley, bishop of London, had been tutor to the prince of Orange at Oxford; George Pretyman Tomline, bishop of Lincoln, had been Pitt's tutor at Cambridge; Richard Beadon, bishop of Bath and Wells, had been tutor to the duke of Gloucester at Cambridge; Folliott Cornewall, bishop of Worcester, had been made chaplain to the House of Commons by the influence of his cousin, the Speaker; John Buckner, bishop of Chichester, had been tutor to the duke of Richmond; Henry William Majendie, bishop of Bangor, was the son of Queen Charlotte's English master, and had been tutor to William IV.; George Isaac Huntingford, bishop of Hereford, had been tutor to Addington, prime minister; Thomas Burgess, bishop of St. David's, was a personal friend of Addington; John Fisher, bishop of Salisbury, had been tutor to the duke of Kent; John Luxmoore, bishop of St. Asaph, had been tutor to the duke of Buccleugh; Samuel Goodenough, bishop of Carlisle, had been tutor to the sons of the third duke of Portland and was connected with Addington; William Lort Mansel, bishop of Bristol, had been tutor to Perceval at Cambridge, and owed to Perceval the mastership of Trinity; Walter King, bishop of Rochester, had been secretary to the duke of Portland; and Bowyer Edward Sparke, bishop of Ely, had been tutor to the duke of Rutland. The two remaining bishops were Herbert Marsh, bishop of Peterborough, who had established a claim by defending Pitt's financial measures in an important pamphlet; and William Van Mildert, bishop of Llandaff, who had been chaplain to the Grocers' Company and became known as a preacher in London.
 
-*Travels in France* (1892), p. 327.
-
 See *A Country Clergyman of the Eighteenth Century* (Thomas Twining), 1882, for a pleasant picture of the class.
 
 VI. THE UNIVERSITIES
@@ -135,10 +125,6 @@ NOTES:
 At Cambridge subscription was abolished for undergraduates in 1775; and bachelors of arts had only to declare themselves '*bona-fide* members of the church of England.'
 
 Gilbert Wakefield's *Memoirs*, ii. 149.
-
-De Quincey, *Works* (1863), ii. 106.
-
-Wordsworth's *University Life, etc.* (1874), 83-87.
 
 VII. THEORY
 

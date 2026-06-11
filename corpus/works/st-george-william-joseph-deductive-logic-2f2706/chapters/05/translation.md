@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 884
+word_count: 872
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -66,8 +66,6 @@ FIGURE 1.
 
 § 608. Proof of Rule 1.--*The minor premiss must be affirmative*.
 
-B--A C--B C--A
-
 If possible, let the minor premiss be negative. Then the major must be affirmative (by Rule 5), and the conclusion must be negative (by Rule 6). But the major being affirmative, its predicate is undistributed; and the conclusion being negative, its predicate is distributed. Now the major term is in this figure predicate both in the major premiss and in the conclusion. Hence there results illicit process of the major term. Therefore the minor premiss must be affirmative.
 
 § 609. Proof of Rule 2.--*The major premiss must be universal.*
@@ -77,8 +75,6 @@ Since the minor premiss is affirmative, the middle term, which is its predicate,
 FIGURE II.
 
 § 610. Proof of Rule 1,--*One or other premiss must be negative*.
-
-A--B C--B C--A
 
 The middle term being predicate in both premisses, one or other must be negative; else there would be undistributed middle.
 
@@ -94,8 +90,6 @@ FIGURE III.
 
 § 613. Proof of Rule 1.--*The minor premiss must be affirmative.*
 
-B--A B--C C--A
-
 The proof of this rule is the same as in the first figure, the two figures being alike so far as the major term is concerned.
 
 § 614. Proof of Rule 2.--*The conclusion must be particular*.
@@ -109,8 +103,6 @@ FIGURE IV.
 If the minor were particular, there would be undistributed middle.
 
 § 616. Proof of Rule 2.--_When the minor premiss is particular, the major must be negative._
-
-A--B B--C C--A
 
 This rule is the converse of the preceding, and depends upon the same principle.
 

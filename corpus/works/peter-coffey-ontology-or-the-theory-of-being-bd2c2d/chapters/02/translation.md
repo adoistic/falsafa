@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 9422
+word_count: 9218
 source_url: "https://www.gutenberg.org/ebooks/35722"
 translator: Project Gutenberg edition
 ---
@@ -42,7 +42,7 @@ But all other power, all activity of created causes, does require some such actu
 
 The *natural* passive potentiality of things is, moreover, limited in reference to the active powers of the created universe. These, for example, can educe life from the passive potentiality of inorganic matter, but only by assimilating this matter into a living organism: they cannot restore life to a human corpse; yet the latter has in it the capacity to be restored to life by the direct influence of the Author of Nature. This special and supernatural potentiality in created things, under the influence of Omnipotence, is known as *potentia obedientalis*.(72)
 
-This consideration will help us to realize that all reality which is produced by change, and subject to change, is essentially a mixture of *becoming* and *being*, of *potential* and *actual*. The reality of such being is not *tota simul*. Only immutable being, whose duration is *eternal*, has its reality *tota simul*: it alone is *purely actual*, the “*Actus Purus*”; and its duration is one eternal “*now*,” without beginning, end, or succession. But mutable being, whose duration in actual existence is measured by *time*, is actualized only successively: its actuality at any particular instant does not embody the whole of its reality: this latter includes also a “*was*” and “*will be*”; the thing was *potentially* what it now is *actually*, and it will become actually something which it now is only potentially; nor shall we have understood even moderately the nature or essence of any mutable being—an oak-tree, for example—until we have grasped the fact that the whole reality of its nature embraces more than what we find of it actually existing at any given instant of its existence. In other words, we have to bear in mind that the reality of such a being is not pure actuality but a mixture of potential and actual: that it is an *actus non-purus*, or an _actus mixtus_.
+This consideration will help us to realize that all reality which is
 
 We have to note well that the *potential being* of a thing is something *real*—that it is not merely a *modus loquendi*, or a _modus intelligendi_. The oak is in the acorn in some true and real sense: the potentiality of the oak is something real in the acorn: if it were not so, if it were nothing real in the acorn, we could say with equal truth that a man or a horse or a house is potentially in the acorn; or, again with equal truth, that the oak is potentially in a mustard-seed, or a grain of corn, or a pebble, or a drop of water. Therefore the oak is *really* in the acorn—not actually but potentially, *potentia passiva*.
 

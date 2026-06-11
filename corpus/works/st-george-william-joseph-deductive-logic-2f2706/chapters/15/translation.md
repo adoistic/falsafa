@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 559
+word_count: 511
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -28,8 +28,6 @@ Either A is B or C is D. A is not B. .'.C is D
 
 is equal to
 
-If A is not B, C is D. A is not B. .'. C is D.
-
 is equal to
 
 All cases of A not being B are cases of C being D. This is a case of A not being B. .'. This is a case of C being D.
@@ -39,8 +37,6 @@ All cases of A not being B are cases of C being D. This is a case of A not being
 Either A is E or C is D. C is not D. .'. A is B.
 
 is equal to
-
-If A is not B, C is D. C is not D. .'. A is B.
 
 is equal to
 
@@ -57,8 +53,6 @@ Affirmation of the consequent of a disjunctive is equivalent to the same fallacy
 Either A is B or C is D. A is B. .'. C is not D.
 
 is equal to
-
-If A is not B, C is D. A is B. .'. C is not D.
 
 is equal to
 

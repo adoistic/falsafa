@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 70846
+word_count: 70573
 source_url: "https://www.gutenberg.org/ebooks/25447"
 translator: Project Gutenberg edition
 ---
@@ -218,8 +218,6 @@ Whinfield's translation of the *Masnavi* (Trübner, 1887), p. 34.
 
 *Ethics*, Bk. IV, Prop. LXII.
 
-Ib., Pt. IV, Df. I.
-
 *Ethics*. Pt. II. Df. VI.
 
 II
@@ -414,8 +412,6 @@ The philosophy of the infinitesimal, as we have just seen, is mainly negative. P
 
 The maxim in question is, that if one collection is part of another, the one which is a part has fewer terms than the one of which it is a part. This maxim is true of finite numbers. For example, Englishmen are only some among Europeans, and there are fewer Englishmen than Europeans. But when we come to infinite numbers, this is no longer true. This breakdown of the maxim gives us the precise definition of infinity. A collection of terms is infinite when it contains as parts other collections which have just as many terms as it has. If you can take away some of the terms of a collection, without diminishing the number of terms, then there are an infinite number of terms in the collection. For example, there are just as many even numbers as there are numbers altogether, since every number can be doubled. This may be seen by putting odd and even numbers together in one row, and even numbers alone in a row below:--
 
-1, 2, 3, 4, 5, *ad infinitum*. 2, 4, 6, 8, 10, *ad infinitum*.
-
 There are obviously just as many numbers in the row below as in the row above, because there is one below for each one above. This property, which was formerly thought to be a contradiction, is now transformed into a harmless definition of infinity, and shows, in the above case, that the number of finite numbers is infinite.
 
 But the uninitiated may wonder how it is possible to deal with a number which cannot be counted. It is impossible to count up *all* the numbers, one by one, because, however many we may count, there are always more to follow. The fact is that counting is a very vulgar and elementary way of finding out how many terms there are in a collection. And in any case, counting gives us what mathematicians call the *ordinal* number of our terms; that is to say, it arranges our terms in an order or series, and its result tells us what type of series results from this arrangement. In other words, it is impossible to count things without counting some first and others afterwards, so that counting always has to do with order. Now when there are only a finite number of terms, we can count them in any order we like; but when there are an infinite number, what corresponds to counting will give us quite different results according to the way in which we carry out the operation. Thus the ordinal number, which results from what, in a general sense may be called counting, depends not only upon how many terms we have, but also (where the number of terms is infinite) upon the way in which the terms are arranged.
@@ -549,8 +545,6 @@ Let us begin with the word "real." There certainly are objects of perception, an
 The adoption of scientific method in philosophy, if I am not mistaken, compels us to abandon the hope of solving many of the more ambitious and humanly interesting problems of traditional philosophy. Some of these it relegates, though with little expectation of a successful solution, to special sciences, others it shows to be such as our capacities are essentially incapable of solving. But there remain a large number of the recognised problems of philosophy in regard to which the method advocated gives all those advantages of division into distinct questions, of tentative, partial, and progressive advance, and of appeal to principles with which, independently of temperament, all competent students must agree. The failure of philosophy hitherto has been due in the main to haste and ambition: patience and modesty, here as in other sciences, will open the road to solid and durable progress.
 
 FOOTNOTES:
-
-Bosanquet, *Logic*, ii, p. 211.
 
 *Some Problems of Philosophy*, p 124.
 
@@ -832,8 +826,6 @@ I conclude, therefore, that no valid objection exists to the view which regards 
 
 FOOTNOTES:
 
-*Proc. Arist. Soc.*, 1909-1910, pp. 191-218.
-
 On this subject, compare *A Theory of Time and Space*, by Mr. A.A. Robb (Camb. Univ. Press), which first suggested to me the views advocated here, though I have, for present purposes, omitted what is most interesting and novel in his theory. Mr. Robb has given a sketch of his theory in a pamphlet with the same title (Heffer and Sons, Cambridge, 1913).
 
 "Natural Realism and Present Tendencies in Philosophy," _Proc. Arist. Soc._, 1908-1909, p. 165.
@@ -970,8 +962,6 @@ The essential function which causality has been supposed to perform is the possi
 
 A system is said to be "deterministic" when, given certain data, [Math: e*{1}, e*{2}, ..., e*{n}, at times t*{1}, t_{2}, ..., t*{n}] respectively, concerning this system, if [Math: E*{t}] is the state of the system at any time *t*, there is a functional relation of the form
 
-[Math: E*{t} = f (e*{1}, t*{1}, e*{2}, t*{2}, ..., e*{n}, t_{n}, t)]. (A)
-
 The system will be "deterministic throughout a given period" if *t*, in the above formula, may be any time within that period, though outside that period the formula may be no longer true. If the universe, as a whole, is such a system, determinism is true of the universe; if not, not. A system which is part of a deterministic system I shall call "determined"; one which is not part of any such system I shall call "capricious."
 
 The events [Math: e*{1}, e*{2}, ..., e_{n}] I shall call "determinants" of the system. It is to be observed that a system which has one set of determinants will in general have many. In the case of the motions of the planets, for example, the configurations of the solar system at any two given times will be determinants.
@@ -987,8 +977,6 @@ There is, in all these questions, a very great difficulty in avoiding confusion 
 Although the sense of "determined" in which the future is determined by the mere fact that it will be what it will be is sufficient (at least so it seems to me) to refute some opponents of determinism, notably M. Bergson and the pragmatists, yet it is not what most people have in mind when they speak of the future as determined. What they have in mind is a formula by means of which the future can be exhibited, and at least theoretically calculated, as a function of the past. But at this point we meet with a great difficulty, which besets what has been said above about deterministic systems, as well as what is said by others.
 
 If formulæ of any degree of complexity, however great, are admitted, it would seem that any system, whose state at a given moment is a function of certain measurable quantities, must be a deterministic system. Let us consider, in illustration, a single material particle, whose co-ordinates at time *t* are [Math: x*{t}, y*{t}, z_{t}]. Then, however, the particle moves, there must be, theoretically, functions [Math: f*{1}, f*{2}, f_{3}], such that
-
-[Math: x*{t} = f*{t}(t), y*{t} = f*{2}(t), z*{t} = f*{3}(t).]
 
 It follows that, theoretically, the whole state of the material universe at time *t* must be capable of being exhibited as a function of *t*. Hence our universe will be deterministic in the sense defined above. But if this be true, no information is conveyed about the universe in stating that it is deterministic. It is true that the formulæ involved may be of strictly infinite complexity, and therefore not practically capable of being written down or apprehended. But except from the point of view of our knowledge, this might seem to be a detail: in itself, if the above considerations are sound, the material universe *must* be deterministic, *must* be subject to laws.
 
@@ -1018,13 +1006,9 @@ FOOTNOTES:
 
 A propositional function is an expression containing a variable, or undetermined constituent, and becoming a proposition as soon as a definite value is assigned to the variable. Examples are: "A is A," "*x* is a number." The variable is called the *argument* of the function.
 
-*Logic*, Bk. III, Chap. V, § 2.
-
 *Time and Free Will*, p. 199.
 
 *Time and Free Will.* p. 202.
-
-*Loc. cit.*, § 6
 
 X
 
@@ -1104,10 +1088,6 @@ I should now exclude "I" from proper names in the strict sense, and retain only 
 
 Meinong, *Ueber Annahmen*, 2nd ed., Leipzig, 1910, p. 141.
 
-*Mind*, July, 1910, p. 380.
-
-*Mind*, July, 1910, p. 379.
-
 The theory which I am advocating is set forth fully, with the logical grounds in its favour, in *Principia Mathematica*, Vol. I. Introduction, Chap. III; also, less fully, in *Mind*, October, 1905.
 
 I use this phrase merely to denote the something psychological which enters into judgment, without intending to prejudge the question as to what this something is.
@@ -1122,57 +1102,31 @@ Alexander, 125
 
 American Realists, the, 134
 
-Aristotle, 42, 76, 97
-
 Bacon, 41
-
-Bergson, 14 ff, 22, 105, 128, 185 ff, 203
-
-Berkeley, 97, 132
 
 Blake, 1
 
 Bosanquet, 99
 
-Broad, 89 *n*
-
 Calculus, the, 82
-
-Cantor, Georg, 64, 81 ff, 85, 91
-
-Carlyle, 50, 82
 
 Cause, the conception of, 135 *n*, 180 ff
 
 Christianity and renunciation, 51
 
-Chuang Tz[)u], 106
-
 Construction of permanent things and matter, 169 ff
 
 Constructions, logical, 155 ff
-
-Darwin, 15, 23, 43
-
-Dedekind, 64, 81 ff, 85
-
-Descartes, 97, 126
 
 Descriptions, 175, 214 ff
 
 Education, 37 ff
 
-Euclid, 62, 92, 94
-
 Evolutionism, 23 ff, 28
-
-Fano, 93
 
 Faraday, 34
 
 Free will, 205 ff
-
-Frege, 78 *n*
 
 Galileo, 42
 
@@ -1180,33 +1134,19 @@ Gladstone, 177
 
 Good and evil, 26 ff
 
-Hegel, 8, 10, 18, 85, 97, 105 ff
-
-Heine, 113
-
 Heraclitus, 1 ff, 10
 
 Hertz, 34
-
-Holt, 177 *n*
-
-Hume, 1, 97
 
 Infinite, the mathematical, 84 ff
 
 James, William, 100
 
-Jones, Miss E.E.C., 224 *n*, 225
-
 Judgment, 219 ff
-
-Kant, 85, 96, 97, 99, 118 ff
 
 Knowledge by acquaintance, 209 ff; by description, 214 ff
 
 Laplace, 23
-
-Leibniz, 76, 79, 82 ff, 97, 126, 144, 160
 
 Locke, 97
 
@@ -1224,25 +1164,13 @@ Maxwell, 34
 
 Meaning and denotation, 223 ff
 
-Meinong, 174, 220 *n*, 225
-
 Militarism, 50
-
-Mill, 185, 193 ff
 
 Mysticism and logic, 1 ff
 
 Necessity, the notion of, 207 ff
 
-Nietzsche, 22, 50
-
-Nunn, 125, 137 *n*, 153
-
-Parmenides, 7 ff, 18, 21
-
 Particulars, awareness of, 210 ff
-
-Peano, 78 ff, 93 ff
 
 Perspectives, 139 ff; the space of, 158 ff
 
@@ -1250,23 +1178,13 @@ Philosophy and logic, 111
 
 Physics, sense-data and, 145 ff
 
-Pierce, 76 *n*
-
-Plato, 1 ff, 10, 30, 60, 97
-
-Pragmatism, 22, 105
-
 Realism and the analytic method, 120 ff
 
 Reason and intuition, 12 ff
 
 Relatives, the logic of, 76
 
-Robb, 167 *n*
-
 Santayana, 20
-
-Sense-data, 147, 210 ff; and physics, 145 ff
 
 Sensibilia, 148 ff
 
@@ -1274,28 +1192,14 @@ Space, 138 ff; private, 158 ff; the logical problem, 114 ff; the problem in phys
 
 Systems, deterministic, 199; practically isolated, 198; relatively isolated, 197; mechanical, 201
 
-Time, 10, 21 ff, 141 ff, 167 ff
-
 Tristram Shandy, the paradox of, 90 ff
 
 Unity and Plurality, 18 ff
 
 Universals, awareness of, 212 ff
 
-Ward, 180
-
-Weierstrass, 80, 82, 95
-
-Whitehead, 117, 157, 175
-
-Wolf, 173
-
-Zeno the Eleatic, 64, 80, 84, 89 ff
-
 GEORGE ALLEN & UNWIN LTD
 
 *London: 40 Museum Street, W.C. 1*
 
 *Auckland: 24 Wyndham Street* *Bombay: 15 Graham Road, Ballard Estate, Bombay 1* *Calcutta: 17 Chittaranjan Avenue, Calcutta 13* *Cape Town: 109 Long Street* *Karachi: Metherson's Estate, Wood Street, Karachi 2* *New Delhi: 13-14 Ajmeri Gate Extension, New Delhi 1* *São Paulo: Avenida 9 de Julho 1138--Ap. 51* *Singapore, South East Asia and Far East, 36c, Prinsep Street* *Sydney, N.S.W.: Bradbury House, 55 York Street* *Toronto: 91 Wellington Street West*
-
-+-----------------------------------------------------------+ | Typographical errors corrected in text: | | | | Page 111: charateristic replaced with characteristic | | Page 71: inexpugnable replaced with inexpungable | | | +-----------------------------------------------------------+

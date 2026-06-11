@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5547
+word_count: 5545
 source_url: "https://www.gutenberg.org/ebooks/690"
 translator: Project Gutenberg edition
 ---
@@ -105,8 +105,6 @@ Kropotkin has devoted much of his writing to technical questions of production. 
 The system at which Kropotkin aims, whether or not it be possible, is certainly one which demands a very great improvement in the methods of production above what is common at present. He desires to abolish wholly the system of wages, not only, as most Socialists do, in the sense that a man is to be paid rather for his willingness to work than for the actual work demanded of him, but in a more fundamental sense: there is to be no obligation to work, and all things are to be shared in equal proportions among the whole population. Kropotkin relies upon the possibility of making work pleasant: he holds that, in such a community as he foresees, practically everyone will prefer work to idleness, because work will not involve overwork or slavery, or that excessive specialization that industrialism has brought about, but will be merely a pleasant activity for certain hours of the day, giving a man an outlet for his spontaneous constructive impulses. There is to be no compulsion, no law, no government exercising force; there will still be acts of the community, but these are to spring from universal consent, not from any enforced submission of even the smallest minority. We shall examine in a later chapter how far such an ideal is realizable, but it cannot be denied that Kropotkin presents it with extraordinary persuasiveness and charm.
 
 We should be doing more than justice to Anarchism if we did not say something of its darker side, the side which has brought it into conflict with the police and made it a word of terror to ordinary citizens. In its general doctrines there is nothing essentially involving violent methods or a virulent hatred of the rich, and many who adopt these general doctrines are personally gentle and temperamentally averse from violence. But the general tone of the Anarchist press and public is bitter to a degree that seems scarcely sane, and the appeal, especially in Latin countries, is rather to envy of the fortunate than to pity for the unfortunate. A vivid and readable, though not wholly reliable, account, from a hostile point of view, is given in a book called ``Le Peril Anarchiste,'' by Felix Dubois, which incidentally reproduces a number of cartoons from anarchist journals. The revolt against law naturally leads, except in those who are controlled by a real passion for humanity, to a relaxation of all the usually accepted moral rules, and to a bitter spirit of retaliatory cruelty out of which good can hardly come.
-
-Paris, 1894.
 
 One of the most curious features of popular Anarchism is its martyrology, aping Christian forms, with the guillotine (in France) in place of the cross. Many who have suffered death at the hands of the authorities on account of acts of violence were no doubt genuine sufferers for their belief in a cause, but others, equally honored, are more questionable. One of the most curious examples of this outlet for the repressed religious impulse is the cult of Ravachol, who was guillotined in 1892 on account of various dynamite outrages. His past was dubious, but he died defiantly; his last words were three lines from a well-known Anarchist song, the ``Chant du Pere Duchesne'':--
 

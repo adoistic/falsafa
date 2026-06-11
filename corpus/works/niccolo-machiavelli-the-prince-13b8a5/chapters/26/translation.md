@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 14292
+word_count: 14274
 source_url: "https://www.gutenberg.org/ebooks/1232"
 translator: Project Gutenberg edition
 ---
@@ -35,8 +35,6 @@ With us there is great justice, because that war is just which is necessary, and
 And it is not to be wondered at if none of the above-named Italians have been able to accomplish all that is expected from your illustrious house; and if in so many revolutions in Italy, and in so many campaigns, it has always appeared as if military virtue were exhausted, this has happened because the old order of things was not good, and none of us have known how to find a new one. And nothing honours a man more than to establish new laws and new ordinances when he himself was newly risen. Such things when they are well founded and dignified will make him revered and admired, and in Italy there are not wanting opportunities to bring such into use in every form.
 
 Here there is great valour in the limbs whilst it fails in the head. Look attentively at the duels and the hand-to-hand combats, how superior the Italians are in strength, dexterity, and subtlety. But when it comes to armies they do not bear comparison, and this springs entirely from the insufficiency of the leaders, since those who are capable are not obedient, and each one seems to himself to know, there having never been any one so distinguished above the rest, either by valour or fortune, that others would yield to him. Hence it is that for so long a time, and during so much fighting in the past twenty years, whenever there has been an army wholly Italian, it has always given a poor account of itself; the first witness to this is Il Taro, afterwards Allesandria, Capua, Genoa, Vaila, Bologna, Mestri.
-
-The battles of Il Taro, 1495; Alessandria, 1499; Capua, 1501; Genoa, 1507; Vaila, 1509; Bologna, 1511; Mestri, 1513.
 
 If, therefore, your illustrious house wishes to follow these remarkable men who have redeemed their country, it is necessary before all things, as a true foundation for every enterprise, to be provided with your own forces, because there can be no more faithful, truer, or better soldiers. And although singly they are good, altogether they will be much better when they find themselves commanded by their prince, honoured by him, and maintained at his expense. Therefore it is necessary to be prepared with such arms, so that you can be defended against foreigners by Italian valour.
 

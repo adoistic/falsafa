@@ -55,918 +55,673 @@
     "text": "7. The Things in each compartment possess TWO Attributes, whose symbols will be found written on two of the EDGES of that compartment."
   },
   {
-    "id": "p-7d098e",
-    "offset": 1720,
-    "text": "8. \"One or more.\""
-  },
-  {
     "id": "p-ac21d2",
-    "offset": 1739,
+    "offset": 1720,
     "text": "9. As a name of the class of Things to which the whole Diagram is assigned."
   },
   {
     "id": "p-f8df24",
-    "offset": 1816,
+    "offset": 1797,
     "text": "10. A Proposition containing two statements. For example, \"some new Cakes are nice and some are not-nice.\""
   },
   {
     "id": "p-96b7fd",
-    "offset": 1924,
+    "offset": 1905,
     "text": "11. When the whole class, thus divided, is \"exhausted\" among the sets into which it is divided, there being no member of it which does not belong to some one of them. For example, the class \"new Cakes\" is \"exhaustively\" divided into \"nice\" and \"not-nice\" since EVERY new Cake must be one or the other."
   },
   {
     "id": "p-e73f39",
-    "offset": 2227,
+    "offset": 2208,
     "text": "12. When a man cannot make up his mind which of two parties he will join, he is said to be \"sitting on the fence\"--not being able to decide on which side he will jump down."
   },
   {
-    "id": "p-46ce30",
-    "offset": 2401,
-    "text": "13. \"Some x are y\" and \"no x are y'\"."
-  },
-  {
     "id": "p-252a25",
-    "offset": 2440,
+    "offset": 2382,
     "text": "14. A Proposition, whose Subject is a single Thing, is called 'Individual'. For example, \"I am happy\", \"John is not at home\". These are Universal Propositions, being the same as \"all the I's that exist are happy\", \"ALL the Johns, that I am now considering, are not at home\"."
   },
   {
     "id": "p-8f09e3",
-    "offset": 2716,
+    "offset": 2658,
     "text": "15. Propositions beginning with \"some\" or \"all\"."
   },
   {
     "id": "p-0a4ad1",
-    "offset": 2766,
+    "offset": 2708,
     "text": "16. When they begin with \"some\" or \"no\". For example, \"some abc are def\" may be re-arranged as \"some bf are acde\", each being equivalent to \"some abcdef exist\"."
   },
   {
     "id": "p-2ab7f2",
-    "offset": 2928,
+    "offset": 2870,
     "text": "17. Some tigers are fierce, No tigers are not-fierce."
   },
   {
     "id": "p-86d833",
-    "offset": 2983,
+    "offset": 2925,
     "text": "18. Some hard-boiled eggs are unwholesome, No hard-boiled eggs are wholesome."
   },
   {
     "id": "p-69d55b",
-    "offset": 3062,
+    "offset": 3004,
     "text": "19. Some I's are happy, No I's are unhappy."
   },
   {
     "id": "p-c8ffc8",
-    "offset": 3107,
+    "offset": 3049,
     "text": "20. Some Johns are not at home, No Johns are at home."
   },
   {
     "id": "p-b3a3c8",
-    "offset": 3162,
+    "offset": 3104,
     "text": "21. The Things, in each compartment of the larger Diagram, possess THREE Attributes, whose symbols will be found written at three of the CORNERS of the compartment (except in the case of m', which is not actually inserted in the Diagram, but is SUPPOSED to stand at each of its four outer corners)."
   },
   {
     "id": "p-39bb45",
-    "offset": 3462,
+    "offset": 3404,
     "text": "22. If the Universe of Things be divided with regard to three different Attributes; and if two Propositions be given, containing two different couples of these Attributes; and if from these we can prove a third Proposition, containing the two Attributes that have not yet occurred together; the given Propositions are called 'the Premisses', the third one 'the Conclusion', and the whole set 'a Syllogism'. For example, the Premisses might be \"no m are x'\" and \"all m' are y\"; and it might be possible to prove from them a Conclusion containing x and y."
   },
   {
     "id": "p-30d180",
-    "offset": 4017,
+    "offset": 3959,
     "text": "23. If an Attribute occurs in both Premisses, the Term containing it is called 'the Middle Term'. For example, if the Premisses are \"some m are x\" and \"no m are y'\", the class of \"m-Things\" is 'the Middle Term.'"
   },
   {
     "id": "p-de156d",
-    "offset": 4230,
+    "offset": 4172,
     "text": "If an Attribute occurs in one Premiss, and its contradictory in the other, the Terms containing them may be called 'the Middle Terms'. For example, if the Premisses are \"no m are x'\" and \"all m' are y\", the two classes of \"m-Things\" and \"m'-Things\" may be called 'the Middle Terms'."
   },
   {
     "id": "p-77e2c7",
-    "offset": 4514,
+    "offset": 4456,
     "text": "24. Because they can be marked with CERTAINTY: whereas AFFIRMATIVE Propositions (that is, those that begin with \"some\" or \"all\") sometimes require us to place a red counter 'sitting on a fence'."
   },
   {
     "id": "p-be0dd9",
-    "offset": 4710,
+    "offset": 4652,
     "text": "25. Because the only question we are concerned with is whether the Conclusion FOLLOWS LOGICALLY from the Premisses, so that, if THEY were true, IT also would be true."
   },
   {
     "id": "p-3d811e",
-    "offset": 4878,
+    "offset": 4820,
     "text": "26. By understanding a red counter to mean \"this compartment CAN be occupied\", and a grey one to mean \"this compartment CANNOT be occupied\" or \"this compartment MUST be empty\"."
   },
   {
     "id": "p-af063d",
-    "offset": 5056,
+    "offset": 4998,
     "text": "27. 'Fallacious Premisses' and 'Fallacious Conclusion'."
   },
   {
     "id": "p-e2d01c",
-    "offset": 5113,
+    "offset": 5055,
     "text": "28. By finding, when we try to transfer marks from the larger Diagram to the smaller, that there is 'no information' for any of its four compartments."
   },
   {
     "id": "p-f1b6fe",
-    "offset": 5265,
+    "offset": 5207,
     "text": "29. By finding the correct Conclusion, and then observing that the Conclusion, offered to us, is neither identical with it nor a part of it."
   },
   {
     "id": "p-f6f8ab",
-    "offset": 5407,
+    "offset": 5349,
     "text": "30. When the offered Conclusion is PART of the correct Conclusion. In this case, we may call it a 'Defective Conclusion'."
   },
   {
     "id": "p-5bef9a",
-    "offset": 5530,
+    "offset": 5472,
     "text": "2. Half of Smaller Diagram."
   },
   {
     "id": "p-8bb3b6",
-    "offset": 5559,
+    "offset": 5501,
     "text": "Propositions represented."
   },
   {
     "id": "p-b7d40c",
-    "offset": 5586,
+    "offset": 5528,
     "text": "------- | | | 7. | 1 | 1 | It might be thought that the proper | | | ------- ------- | | | Diagram would be | 1 1 |, in order to express \"some | | | ------- x exist\": but this is really contained in \"some x are y'.\" To put a red counter on the division-line would only tell us \"ONE OF THE compartments is occupied\", which we know already, in knowing that ONE is occupied. ------- | | | 8. No x are y. i.e. | 0 | | | | | -------"
   },
   {
-    "id": "p-605950",
-    "offset": 6015,
-    "text": "------- | | | 9. Some x are y'. i.e. | | 1 | | | | -------"
-  },
-  {
-    "id": "p-3ec6f7",
-    "offset": 6075,
-    "text": "------- | | | 10. All x are y. i.e. | 1 | 0 | | | | -------"
-  },
-  {
-    "id": "p-68c0fc",
-    "offset": 6136,
-    "text": "------- | | | 11. Some x are y. i.e. | 1 | | | | | -------"
-  },
-  {
-    "id": "p-bfedc9",
-    "offset": 6196,
-    "text": "------- | | | 12. No x are y. i.e. | 0 | | | | | -------"
-  },
-  {
-    "id": "p-636f8c",
-    "offset": 6254,
-    "text": "------- | | | 13. Some x are y, and some are y'. i.e. | 1 | 1 | | | | -------"
-  },
-  {
-    "id": "p-367409",
-    "offset": 6333,
-    "text": "------- | | | 14. All x are y'. i.e. | 0 | 1 | | | | ------- --- | | 15. No y are x'. i.e. |---| | 0 | ---"
-  },
-  {
-    "id": "p-f36f0b",
-    "offset": 6441,
-    "text": "--- | 1 | 16. All y are x. i.e. |---| | 0 | ---"
-  },
-  {
-    "id": "p-51a530",
-    "offset": 6490,
-    "text": "--- | 0 | 17. No y exist. i.e. |---| | 0 | ---"
-  },
-  {
-    "id": "p-4a2d19",
-    "offset": 6538,
-    "text": "--- | | 18. Some y are x'. i.e. |---| | 1 | ---"
-  },
-  {
-    "id": "p-1c9b38",
-    "offset": 6587,
-    "text": "--- | | 15. Some y exist. i.e. |-1-| | | ---"
-  },
-  {
     "id": "p-66aa7f",
-    "offset": 6633,
+    "offset": 5957,
     "text": "3. Half of Smaller Diagram."
   },
   {
     "id": "p-e44e14",
-    "offset": 6662,
+    "offset": 5986,
     "text": "Symbols interpreted."
   },
   {
-    "id": "p-a96c18",
-    "offset": 6684,
-    "text": "1. No x are y'."
-  },
-  {
     "id": "p-9990f2",
-    "offset": 6701,
+    "offset": 6008,
     "text": "2. No x exist."
   },
   {
     "id": "p-486195",
-    "offset": 6717,
+    "offset": 6024,
     "text": "3. Some x exist."
   },
   {
-    "id": "p-135703",
-    "offset": 6735,
-    "text": "4. All x are y'."
-  },
-  {
     "id": "p-e54221",
-    "offset": 6753,
+    "offset": 6042,
     "text": "5. Some x are y. i.e. Some good riddles are hard."
   },
   {
     "id": "p-0f3e06",
-    "offset": 6804,
+    "offset": 6093,
     "text": "6. All x are y. i.e. All good riddles are hard."
   },
   {
     "id": "p-1f219d",
-    "offset": 6853,
+    "offset": 6142,
     "text": "7. No x exist. i.e. No riddles are good."
   },
   {
     "id": "p-825a6d",
-    "offset": 6895,
+    "offset": 6184,
     "text": "8. No x are y. i.e. No good riddles are hard."
   },
   {
     "id": "p-ecb80f",
-    "offset": 6942,
+    "offset": 6231,
     "text": "9. Some x are y'. i.e. Some lobsters are unselfish."
   },
   {
     "id": "p-4f4a1a",
-    "offset": 6995,
+    "offset": 6284,
     "text": "10. No x are y. i.e. No lobsters are selfish."
   },
   {
     "id": "p-57ec09",
-    "offset": 7042,
+    "offset": 6331,
     "text": "11. All x are y'. i.e. All lobsters are unselfish."
   },
   {
     "id": "p-6406ac",
-    "offset": 7094,
+    "offset": 6383,
     "text": "12. Some x are y, and some are y'. i.e. Some lobsters are selfish, and some are unselfish."
   },
   {
     "id": "p-2c851a",
-    "offset": 7186,
+    "offset": 6475,
     "text": "13. All y' are x'. i.e. All invalids are unhappy."
   },
   {
     "id": "p-1b64d2",
-    "offset": 7237,
+    "offset": 6526,
     "text": "14. Some y' exist. i.e. Some people are unhealthy."
   },
   {
     "id": "p-9efb54",
-    "offset": 7289,
+    "offset": 6578,
     "text": "15. Some y' are x, and some are x'. i.e. Some invalids are happy, and some are unhappy."
   },
   {
     "id": "p-de73f0",
-    "offset": 7378,
+    "offset": 6667,
     "text": "16. No y' exist. i.e. Nobody is unhealthy."
   },
   {
     "id": "p-0d3ed8",
-    "offset": 7422,
+    "offset": 6711,
     "text": "4. Smaller Diagram."
   },
   {
     "id": "p-8bb3b6",
-    "offset": 7443,
+    "offset": 6732,
     "text": "Propositions represented."
   },
   {
-    "id": "p-dd8047",
-    "offset": 7470,
-    "text": "------- | | | 13. No x' are y. i.e. |---|---| | 0 | | -------"
-  },
-  {
-    "id": "p-767e52",
-    "offset": 7533,
-    "text": "------- | | 0 | 14. All y' are x'. i.e. |---|---| | | 1 | -------"
-  },
-  {
-    "id": "p-64e645",
-    "offset": 7600,
-    "text": "------- | | | 15. Some y' exist. i.e. |---|-1-| | | | -------"
-  },
-  {
-    "id": "p-a544de",
-    "offset": 7663,
-    "text": "------- | 1 | 0 | 16. All y are x, and all x are y. i.e. |---|---| | 0 | | ------- ------- | | | 17. No x' exist. i.e. |---|---| | 0 | 0 | -------"
-  },
-  {
-    "id": "p-bc14f7",
-    "offset": 7811,
-    "text": "------- | 0 | 1 | 18. All x are y'. i.e. |---|---| | | | -------"
-  },
-  {
-    "id": "p-513f8e",
-    "offset": 7877,
-    "text": "------- | 0 | | 19. No x are y. i.e. |---|---| | | | -------"
-  },
-  {
-    "id": "p-00db7e",
-    "offset": 7939,
-    "text": "------- | | | 20. Some x' are y, and some are y'. i.e. |---|---| | 1 | 1 | -------"
-  },
-  {
-    "id": "p-108a32",
-    "offset": 8023,
-    "text": "------- | 0 | 1 | 21. No y exist, and some x exist. i.e. |---|---| | 0 | | -------"
-  },
-  {
-    "id": "p-e9eecf",
-    "offset": 8107,
-    "text": "------- | | 1 | 22. All x' are y, and all y' are x. i.e. |---|---| | 1 | 0 | -------"
-  },
-  {
-    "id": "p-f82a2f",
-    "offset": 8193,
-    "text": "------- | 1 | | 17. Some x are y, and some x' are y'. i.e. |---|---| | | 1 | -------"
-  },
-  {
     "id": "p-a2f0a4",
-    "offset": 8279,
+    "offset": 6759,
     "text": "5. Smaller Diagram."
   },
   {
     "id": "p-e44e14",
-    "offset": 8300,
+    "offset": 6780,
     "text": "Symbols interpreted."
   },
   {
     "id": "p-1d0e30",
-    "offset": 8322,
+    "offset": 6802,
     "text": "1. Some y are not-x, or, Some not-x are y."
   },
   {
     "id": "p-51908d",
-    "offset": 8366,
+    "offset": 6846,
     "text": "2. No not-x are not-y, or, No not-y are not-x."
   },
   {
     "id": "p-8c9776",
-    "offset": 8414,
+    "offset": 6894,
     "text": "3. No not-y are x."
   },
   {
     "id": "p-1bcf59",
-    "offset": 8434,
+    "offset": 6914,
     "text": "4. No not-x exist. i.e. No Things are not-x."
   },
   {
     "id": "p-a0d9fe",
-    "offset": 8480,
+    "offset": 6960,
     "text": "5. No y exist. i.e. No houses are two-storied."
   },
   {
     "id": "p-bd5b2d",
-    "offset": 8528,
+    "offset": 7008,
     "text": "6. Some x' exist. i.e. Some houses are not built of brick."
   },
   {
     "id": "p-b9e3e3",
-    "offset": 8588,
+    "offset": 7068,
     "text": "7. No x are y'. Or, no y' are x. i.e. No houses, built of brick, are other than two-storied. Or, no houses, that are not two-storied, are built of brick."
   },
   {
     "id": "p-e8d2e0",
-    "offset": 8743,
+    "offset": 7223,
     "text": "8. All x' are y'. i.e. All houses, that are not built of brick, are not two-storied."
   },
   {
     "id": "p-53d6da",
-    "offset": 8829,
+    "offset": 7309,
     "text": "9. Some x are y, and some are y'. i.e. Some fat boys are active, and some are not."
   },
   {
     "id": "p-8bf39a",
-    "offset": 8913,
+    "offset": 7393,
     "text": "10. All y' are x'. i.e. All lazy boys are thin."
   },
   {
     "id": "p-99e4b6",
-    "offset": 8962,
+    "offset": 7442,
     "text": "11. All x are y', and all y' are x. i.e. All fat boys are lazy, and all lazy ones are fat."
   },
   {
     "id": "p-3e2dd2",
-    "offset": 9054,
+    "offset": 7534,
     "text": "12. All y are x, and all x' are y. i.e. All active boys are fat, and all thin ones are lazy."
   },
   {
     "id": "p-59145e",
-    "offset": 9148,
+    "offset": 7628,
     "text": "13. No x exist, and no y' exist. i.e. No cats have green eyes, and none have bad tempers."
   },
   {
     "id": "p-a9de8c",
-    "offset": 9239,
+    "offset": 7719,
     "text": "14. Some x are y', and some x' are y. Or some y are x', and some y' are x. i.e. Some green-eyed cats are bad-tempered, and some, that have not green eyes, are good-tempered. Or, some good-tempered cats have not green eyes, and some bad-tempered ones have green eyes."
   },
   {
     "id": "p-9eb132",
-    "offset": 9507,
+    "offset": 7987,
     "text": "15. Some x are y, and no x' are y'. Or, some y are x, and no y' are x'. i.e. Some green-eyed cats are good-tempered, and none, that are not green-eyed, are bad-tempered. Or, some good-tempered cats have green eyes, and none, that are bad-tempered, have not green eyes."
   },
   {
     "id": "p-cb1fc5",
-    "offset": 9777,
+    "offset": 8257,
     "text": "16. All x are y', and all x' are y. Or, all y are x', and all y' are x. i.e. All green-eyed cats are bad-tempered and all, that have not green eyes, are good-tempered. Or, all good-tempered ones have eyes that are not green, and all bad-tempered ones have green eyes."
   },
   {
     "id": "p-415695",
-    "offset": 10046,
+    "offset": 8526,
     "text": "6. Larger Diagram."
   },
   {
     "id": "p-8bb3b6",
-    "offset": 10066,
+    "offset": 8546,
     "text": "Propositions represented."
   },
   {
-    "id": "p-5f72c8",
-    "offset": 10093,
-    "text": "--------------- | | | | ---|--- | | | 0 | 0 | | 9. No x are m. i.e. |---|---|---|---| | | 0 | | | | ---|--- | | | | ---------------"
-  },
-  {
-    "id": "p-9663e5",
-    "offset": 10226,
-    "text": "--------------- | | | | ---|--- | | | | | | 10. Some m' are y. i.e. |-1-|---|---|---| | | | | | | ---|--- | | | | ---------------"
-  },
-  {
-    "id": "p-981c28",
-    "offset": 10357,
-    "text": "--------------- | | | | ---|--- | | | | 0 | | 11. All y' are m'. i.e. |---|---|---|-1-| | | | 0 | | | ---|--- | | | | ---------------"
-  },
-  {
-    "id": "p-8e7554",
-    "offset": 10492,
-    "text": "--------------- | | | | ---|--- | | | 0 | 0 | | 12. All m are x'. i.e. |---|---|---|---| | | 1 | | | ---|--- | | | | ---------------"
-  },
-  {
-    "id": "p-df956c",
-    "offset": 10626,
-    "text": "--------------- | 0 | | | ---|--- | | | 0 | 0 | | 13. No x are m; i.e. |---|---|---|---| All y are m. | | 1 | | | | ---|--- | | 0 | | ---------------"
-  },
-  {
-    "id": "p-ef9827",
-    "offset": 10777,
-    "text": "--------------- | 0 | 0 | | ---|--- | | | | | | 14. All m' are y; i.e. |---|---|---|---| No x are m'. | | | | | | ---|--- | | 1 | 0 | ---------------"
-  },
-  {
-    "id": "p-a56b7c",
-    "offset": 10928,
-    "text": "--------------- | 0 | 0 | | ---|--- | | | 1 | 0 | | 15. All x are m; i.e. |---|---|---|---| No m are y'. | | | 0 | | | ---|--- | | | | ---------------"
-  },
-  {
-    "id": "p-7a9d1b",
-    "offset": 11080,
-    "text": "--------------- | 0 | 0 | | ---|--- | | | | | | 16. All m' are y'; i.e. |---|---|---|---| No x are m'. | | | | | | ---|--- | | 0 | 1 | ---------------"
-  },
-  {
-    "id": "p-3b4a38",
-    "offset": 11232,
-    "text": "--------------- | 0 | 0 | | ---|--- | | | 1 | 0 | | 17. All x are m; i.e. |---|---|---|---| All m are y. | | | 0 | | | ---|--- | [See remarks on No. 7, p. 60.] | | | ---------------"
-  },
-  {
-    "id": "p-60e2c4",
-    "offset": 11415,
-    "text": "--------------- | 0 | | | ---|--- | | | | | | 18. No x' are m; i.e. |---|---|---|---| No m' are y. | | 0 | 0 | | | ---|--- | | 0 | | ---------------"
-  },
-  {
-    "id": "p-275050",
-    "offset": 11565,
-    "text": "--------------- | | | | ---|--- | | | 1 | 0 | | 19. All m are x; i.e. |---|---|---|---| All m are y. | | 0 | 0 | | | ---|--- | | | | ---------------"
-  },
-  {
     "id": "p-203e6c",
-    "offset": 11715,
+    "offset": 8573,
     "text": "20. We had better take \"persons\" as Universe. We may choose \"myself\" as 'Middle Term', in which case the Premisses will take the form"
   },
   {
     "id": "p-841832",
-    "offset": 11850,
+    "offset": 8708,
     "text": "I am a-person-who-sent-him-to-bring-a-kitten; I am a-person-to-whom-he-brought-a-kettle-by-mistake."
   },
   {
     "id": "p-17b370",
-    "offset": 11951,
+    "offset": 8809,
     "text": "Or we may choose \"he\" as 'Middle Term', in which case the Premisses will take the form"
   },
   {
     "id": "p-a100c0",
-    "offset": 12039,
+    "offset": 8897,
     "text": "He is a-person-whom-I-sent-to-bring-me-a-kitten; He is a-person-who-brought-me-a-kettle-by-mistake."
   },
   {
     "id": "p-7ed594",
-    "offset": 12140,
+    "offset": 8998,
     "text": "The latter form seems best, as the interest of the anecdote clearly depends on HIS stupidity--not on what happened to ME. Let us then make m = \"he\"; x = \"persons whom I sent, &c.\"; and y = \"persons who brought, &c.\""
   },
   {
     "id": "p-a3e5df",
-    "offset": 12357,
+    "offset": 9215,
     "text": "Hence, All m are x; All m are y. and the required Diagram is"
   },
   {
     "id": "p-cf6357",
-    "offset": 12419,
+    "offset": 9277,
     "text": "7. Both Diagrams employed."
   },
   {
-    "id": "p-188826",
-    "offset": 12447,
-    "text": "------- | 0 | | 1. |---|---| i.e. All y are x'. | 1 | | -------"
-  },
-  {
-    "id": "p-2932ad",
-    "offset": 12512,
-    "text": "------- | | 1 | 2. |---|---| i.e. Some x are y'; or, Some y' are x. | | | -------"
-  },
-  {
-    "id": "p-64a729",
-    "offset": 12595,
-    "text": "------- | | | 3. |---|---| i.e. Some y are x'; or, Some x' are y. | 1 | | -------"
-  },
-  {
-    "id": "p-ddd506",
-    "offset": 12678,
-    "text": "------- | | | 4. |---|---| i.e. No x' are y'; or, No y' are x'. | | 0 | -------"
-  },
-  {
-    "id": "p-32dbbe",
-    "offset": 12759,
-    "text": "------- | 0 | | 5. |---|---| i.e. All y are x'. i.e. All black rabbits | 1 | | are young. -------"
-  },
-  {
-    "id": "p-642263",
-    "offset": 12858,
-    "text": "------- | | | 6. |---|---| i.e. Some y are x'. i.e. Some black | 1 | | rabbits are young. -------"
-  },
-  {
-    "id": "p-6e05f1",
-    "offset": 12957,
-    "text": "------- | 1 | 0 | 7. |---|---| i.e. All x are y. i.e. All well-fed birds | | | are happy. -------"
-  },
-  {
-    "id": "p-da34f5",
-    "offset": 13056,
-    "text": "------- | | | i.e. Some x' are y'. i.e. Some birds, 8. |---|---| that are not well-fed, are unhappy; | | 1 | or, Some unhappy birds are not ------- well-fed."
-  },
-  {
-    "id": "p-6ef51d",
-    "offset": 13215,
-    "text": "------- | 1 | 0 | 9. |---|---| i.e. All x are y. i.e. John has got a | | | tooth-ache. -------"
-  },
-  {
-    "id": "p-ff6766",
-    "offset": 13311,
-    "text": "------- | | | 10. |---|---| i.e. No x' are y. i.e. No one, but John, | 0 | | has got a tooth-ache. -------"
-  },
-  {
-    "id": "p-9c773e",
-    "offset": 13419,
-    "text": "------- | 1 | | 11. |---|---| i.e. Some x are y. i.e. Some one, who | | | has taken a walk, feels better. -------"
-  },
-  {
-    "id": "p-6dc6b3",
-    "offset": 13534,
-    "text": "------- | 1 | | i.e. Some x are y. i.e. Some one, 12. |---|---| whom I sent to bring me a kitten, | | | brought me a kettle by mistake. -------"
-  },
-  {
     "id": "p-2c9a87",
-    "offset": 13679,
+    "offset": 9305,
     "text": "Let \"books\" be Universe; m=\"exciting\", x=\"that suit feverish patients\"; y=\"that make one drowsy\"."
   },
   {
     "id": "p-81ea41",
-    "offset": 13778,
+    "offset": 9404,
     "text": "No m are x; &there4 No y' are x. All m' are y."
   },
   {
     "id": "p-ab74ce",
-    "offset": 13826,
+    "offset": 9452,
     "text": "i.e. No books suit feverish patients, except such as make one drowsy."
   },
   {
     "id": "p-958bb1",
-    "offset": 13897,
+    "offset": 9523,
     "text": "Let \"persons\" be Universe; m=\"that deserve the fair\"; x=\"that get their deserts\"; y=\"brave\"."
   },
   {
     "id": "p-4eb0ba",
-    "offset": 13991,
+    "offset": 9617,
     "text": "Some m are x; &there4 Some y are x. No y' are m."
   },
   {
     "id": "p-44d90e",
-    "offset": 14041,
+    "offset": 9667,
     "text": "i.e. Some brave persons get their deserts."
   },
   {
     "id": "p-dff0e0",
-    "offset": 14085,
+    "offset": 9711,
     "text": "Let \"persons\" be Universe; m=\"patient\"; x=\"children\"; y=\"that can sit still\"."
   },
   {
     "id": "p-447cef",
-    "offset": 14164,
+    "offset": 9790,
     "text": "No x are m; &there4 No x are y. No m' are y."
   },
   {
     "id": "p-e7c301",
-    "offset": 14210,
+    "offset": 9836,
     "text": "i.e. No children can sit still."
   },
   {
     "id": "p-2d65ad",
-    "offset": 14243,
+    "offset": 9869,
     "text": "Let \"things\" be Universe; m=\"fat\"; x=\"pigs\"; y=\"skeletons\"."
   },
   {
     "id": "p-22363e",
-    "offset": 14304,
+    "offset": 9930,
     "text": "All x are m; &there4 All x are y'. No y are m."
   },
   {
     "id": "p-660299",
-    "offset": 14352,
+    "offset": 9978,
     "text": "i.e. All pigs are not-skeletons."
   },
   {
     "id": "p-41031d",
-    "offset": 14386,
+    "offset": 10012,
     "text": "Let \"creatures\" be Universe; m=\"monkeys\"; x=\"soldiers\"; y=\"mischievous\"."
   },
   {
     "id": "p-49b1f8",
-    "offset": 14460,
+    "offset": 10086,
     "text": "No m are x; &there4 Some y are x'. All m are y."
   },
   {
     "id": "p-b8b2c7",
-    "offset": 14509,
+    "offset": 10135,
     "text": "i.e. Some mischievous creatures are not soldiers."
   },
   {
     "id": "p-967225",
-    "offset": 14560,
+    "offset": 10186,
     "text": "Let \"persons\" be Universe; m=\"just\"; x=\"my cousins\"; y=\"judges\"."
   },
   {
     "id": "p-7b3a8c",
-    "offset": 14626,
+    "offset": 10252,
     "text": "No x are m; &there4 No x are y. No y are m'."
   },
   {
     "id": "p-e2d1e7",
-    "offset": 14672,
+    "offset": 10298,
     "text": "i.e. None of my cousins are judges."
   },
   {
     "id": "p-c94726",
-    "offset": 14709,
+    "offset": 10335,
     "text": "Let \"periods\" be Universe; m=\"days\"; x=\"rainy\"; y=\"tiresome\"."
   },
   {
     "id": "p-388075",
-    "offset": 14772,
+    "offset": 10398,
     "text": "Some m are x; &there4 Some x are y. All xm are y."
   },
   {
     "id": "p-7f9361",
-    "offset": 14823,
+    "offset": 10449,
     "text": "i.e. Some rainy periods are tiresome."
   },
   {
     "id": "p-b1fb98",
-    "offset": 14862,
+    "offset": 10488,
     "text": "N.B. These are not legitimate Premisses, since the Conclusion is really part of the second Premiss, so that the first Premiss is superfluous. This may be shown, in letters, thus:--"
   },
   {
     "id": "p-b61039",
-    "offset": 15044,
+    "offset": 10670,
     "text": "\"All xm are y\" contains \"Some xm are y\", which contains \"Some x are y\". Or, in words, \"All rainy days are tiresome\" contains \"Some rainy days are tiresome\", which contains \"Some rainy periods are tiresome\"."
   },
   {
     "id": "p-de9e70",
-    "offset": 15252,
+    "offset": 10878,
     "text": "Moreover, the first Premiss, besides being superfluous, is actually contained in the second; since it is equivalent to \"Some rainy days exist\", which, as we know, is implied in the Proposition \"All rainy days are tiresome\"."
   },
   {
     "id": "p-ea46bb",
-    "offset": 15477,
+    "offset": 11103,
     "text": "Altogether, a most unsatisfactory Pair of Premisses!"
   },
   {
     "id": "p-019ed8",
-    "offset": 15531,
+    "offset": 11157,
     "text": "Let \"things\" be Universe; m=\"medicine\"; x=\"nasty\"; y=\"senna\"."
   },
   {
     "id": "p-77183e",
-    "offset": 15594,
+    "offset": 11220,
     "text": "All m are x; &there4 All y are x. All y are m."
   },
   {
     "id": "p-f72ee8",
-    "offset": 15642,
+    "offset": 11268,
     "text": "i.e. Senna is nasty."
   },
   {
-    "id": "p-c321ac",
-    "offset": 15664,
-    "text": "[See remarks on No. 7, p 60.]"
-  },
-  {
     "id": "p-d66028",
-    "offset": 15695,
+    "offset": 11290,
     "text": "Let \"persons\" be Universe; m=\"Jews\"; x=\"rich\"; y=\"Patagonians\"."
   },
   {
     "id": "p-f0fc28",
-    "offset": 15760,
+    "offset": 11355,
     "text": "Some m are x; &there4 Some x are y'. All y are m'."
   },
   {
     "id": "p-82531b",
-    "offset": 15812,
+    "offset": 11407,
     "text": "i.e. Some rich persons are not Patagonians."
   },
   {
     "id": "p-f14683",
-    "offset": 15857,
+    "offset": 11452,
     "text": "Let \"creatures\" be Universe; m=\"teetotalers\"; x=\"that like sugar\"; y=\"nightingales\"."
   },
   {
     "id": "p-e2b9ed",
-    "offset": 15943,
+    "offset": 11538,
     "text": "All m are x; &there4 No y are x'. No y are m'."
   },
   {
     "id": "p-f8699a",
-    "offset": 15991,
+    "offset": 11586,
     "text": "i.e. No nightingales dislike sugar."
   },
   {
     "id": "p-f12970",
-    "offset": 16028,
+    "offset": 11623,
     "text": "Let \"food\" be Universe; m=\"wholesome\"; x=\"muffins\"; y=\"buns\"."
   },
   {
     "id": "p-f24d21",
-    "offset": 16091,
+    "offset": 11686,
     "text": "No x are m; All y are m."
   },
   {
     "id": "p-18bda8",
-    "offset": 16117,
+    "offset": 11712,
     "text": "There is 'no information' for the smaller Diagram; so no Conclusion can be drawn."
   },
   {
     "id": "p-eccf1a",
-    "offset": 16200,
+    "offset": 11795,
     "text": "Let \"creatures\" be Universe; m=\"that run well\"; x=\"fat\"; y=\"greyhounds\"."
   },
   {
     "id": "p-8e3a22",
-    "offset": 16274,
+    "offset": 11869,
     "text": "No x are m; &there4 Some y are x'. Some y are m."
   },
   {
     "id": "p-30179e",
-    "offset": 16324,
+    "offset": 11919,
     "text": "i.e. Some greyhounds are not fat."
   },
   {
     "id": "p-973aa9",
-    "offset": 16359,
+    "offset": 11954,
     "text": "Let \"persons\" be Universe; m=\"soldiers\"; x=\"that march\"; y=\"youths\"."
   },
   {
     "id": "p-3a6197",
-    "offset": 16429,
+    "offset": 12024,
     "text": "All m are x; Some y are m'."
   },
   {
     "id": "p-18bda8",
-    "offset": 16458,
+    "offset": 12053,
     "text": "There is 'no information' for the smaller Diagram; so no Conclusion can be drawn."
   },
   {
     "id": "p-0c095e",
-    "offset": 16541,
+    "offset": 12136,
     "text": "Let \"food\" be Universe; m=\"sweet\"; x=\"sugar\"; y=\"salt\"."
   },
   {
     "id": "p-3f386b",
-    "offset": 16598,
+    "offset": 12193,
     "text": "All x are m; &there4 All x are y'. All y are m'. All y are x'."
   },
   {
     "id": "p-71cfb5",
-    "offset": 16662,
+    "offset": 12257,
     "text": "i.e. Sugar is not salt. Salt is not sugar."
   },
   {
     "id": "p-387e1f",
-    "offset": 16706,
+    "offset": 12301,
     "text": "Let \"Things\" be Universe; m=\"eggs\"; x=\"hard-boiled\"; y=\"crackable\"."
   },
   {
     "id": "p-7ddada",
-    "offset": 16775,
+    "offset": 12370,
     "text": "Some m are x; &there4 Some x are y. No m are y'."
   },
   {
     "id": "p-007920",
-    "offset": 16825,
+    "offset": 12420,
     "text": "i.e. Some hard-boiled things can be cracked."
   },
   {
     "id": "p-f91dd8",
-    "offset": 16871,
+    "offset": 12466,
     "text": "Let \"persons\" be Universe; m=\"Jews\"; x=\"that are in the house\"; y=\"that are in the garden\"."
   },
   {
     "id": "p-8a606a",
-    "offset": 16964,
+    "offset": 12559,
     "text": "No m are x; &there4 No x are y. No m' are y."
   },
   {
     "id": "p-89451d",
-    "offset": 17010,
+    "offset": 12605,
     "text": "i.e. No persons, that are in the house, are also in the garden."
   },
   {
     "id": "p-35f51b",
-    "offset": 17075,
+    "offset": 12670,
     "text": "Let \"Things\" be Universe; m=\"noisy\"; x=\"battles\"; y=\"that may escape notice\"."
   },
   {
     "id": "p-318aaf",
-    "offset": 17154,
+    "offset": 12749,
     "text": "All x are m; &there4 Some x' are y. All m' are y."
   },
   {
     "id": "p-41f160",
-    "offset": 17205,
+    "offset": 12800,
     "text": "i.e. Some things, that are not battles, may escape notice."
   },
   {
     "id": "p-791b17",
-    "offset": 17265,
+    "offset": 12860,
     "text": "Let \"persons\" be Universe; m=\"Jews\"; x=\"mad\"; y=\"Rabbis\"."
   },
   {
     "id": "p-d6dd76",
-    "offset": 17324,
+    "offset": 12919,
     "text": "No m are x; &there4 All y are x'. All y are m."
   },
   {
     "id": "p-14c610",
-    "offset": 17372,
+    "offset": 12967,
     "text": "i.e. All Rabbis are sane."
   },
   {
     "id": "p-6ceca3",
-    "offset": 17399,
+    "offset": 12994,
     "text": "Let \"Things\" be Universe; m=\"fish\"; x=\"that can swim\"; y=\"skates\"."
   },
   {
     "id": "p-b6806a",
-    "offset": 17467,
+    "offset": 13062,
     "text": "No m are x'; &there4 Some y are x. Some y are m."
   },
   {
     "id": "p-efb179",
-    "offset": 17517,
+    "offset": 13112,
     "text": "i.e. Some skates can swim."
   },
   {
     "id": "p-d40bef",
-    "offset": 17545,
+    "offset": 13140,
     "text": "Let \"people\" be Universe; m=\"passionate\"; x=\"reasonable\"; y=\"orators\"."
   },
   {
     "id": "p-d17067",
-    "offset": 17617,
+    "offset": 13212,
     "text": "All m are x'; &there4 Some y are x'. Some y are m."
   },
   {
     "id": "p-54d87e",
-    "offset": 17669,
+    "offset": 13264,
     "text": "i.e. Some orators are unreasonable."
-  },
-  {
-    "id": "p-513a4e",
-    "offset": 17706,
-    "text": "[See remarks on No. 7, p. 60.]"
   }
 ]

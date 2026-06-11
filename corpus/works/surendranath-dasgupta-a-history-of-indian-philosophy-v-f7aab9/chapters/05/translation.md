@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 32806
+word_count: 32791
 source_url: "https://www.gutenberg.org/ebooks/12956"
 translator: Project Gutenberg edition
 ---
@@ -505,8 +505,6 @@ is termed ropa@na because the regulation is placed on the opponent. Next:
 "If *D* be derived of *C*. Then *B* should have been derived of *A*. But you affirmed *B* of *A*. (therefore) That *B* can be affirmed of *A* but not of *D* or *C* is wrong."
 
 This is the pa@tiloma, inverse or indirect method, as contrasted with the former or direct method, anuloma. In both methods the consequent is derived. But if we reverse the hypothetical major in the latter method we get
-
-"If *A* is *B* *C* is *D*. But *A* is *B*. Therefore *C* is *D*.
 
 By this indirect method the opponent's second answer is reestablished ."
 

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3444
+word_count: 3428
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -64,21 +64,13 @@ When we are told that logical propositions are to be considered as equations, we
 
 According to this system, universal propositions are to be regarded as not necessarily implying the existence of their terms; and therefore, instead of giving them a positive form, they are translated into symbols that express what they deny. For example, the proposition _All devils are ugly_ need not imply that any such things as 'devils' really exist; but it certainly does imply that _Devils that are not ugly do not exist*. Similarly, the proposition *No angels are ugly_ implies that *Angels that are ugly do not exist*. Therefore, writing *x* for 'devils,' *y* for 'ugly,' and *[y]* for 'not-ugly,' we may express A., the universal affirmative, thus:
 
-A. *x[y]* = 0.
-
 That is, *x that is not y is nothing*; or, _Devils that are not-ugly do not exist*. And, similarly, writing *x* for 'angels' and *y_ for 'ugly,' we may express E., the universal negative, thus:
-
-E. *xy* = 0.
 
 That is, *x that is y is nothing*; or, _Angels that are ugly do not exist_.
 
 On the other hand, particular propositions are regarded as implying the existence of their terms, and the corresponding equations are so framed as to express existence. With this end in view, the symbol v is adopted to represent 'something,' or indeterminate reality, or more than nothing. Then, taking any particular affirmative, such as _Some metaphysicians are obscure*, and writing *x_ for 'metaphysicians,' and *y* for 'obscure,' we may express it thus:
 
-I. *xy* = v.
-
 That is, *x that is y is something*; or, _Metaphysicians that are obscure do occur in experience_ (however few they may be, or whether they all be obscure). And, similarly, taking any particular negative, such as *Some giants are not cruel*, and writing *x* for 'giants' and *y* for 'not-cruel,' we may express it thus:
-
-O. *x[y]* = v.
 
 That is, *x that is not y is something*; or, _giants that are not-cruel do occur_--in romances, if nowhere else.
 

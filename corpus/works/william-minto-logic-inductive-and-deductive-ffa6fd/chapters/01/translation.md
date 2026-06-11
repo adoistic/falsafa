@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 9637
+word_count: 9619
 source_url: "https://www.gutenberg.org/ebooks/31796"
 translator: Project Gutenberg edition
 ---
@@ -63,8 +63,6 @@ In the graded divisions of Natural History genus and species are fixed names for
 Vertebrates (division). | Mammals, Birds, Reptiles, etc. (class). | Rodents, Ruminants, Carnivors, etc. (order). | Rats, Squirrels, Beavers, etc. (genus). | Brown rats, Mice, etc. (species).
 
 If we subdivide a large class into smaller classes, and, again, subdivide these subdivisions, we come at last to single objects.
-
-Men | ------------ Europeans, Asiatics, etc. | ------------- Englishmen, Frenchmen, etc. | --------------------- John Doe, Richard Roe, etc.
 
 A table of higher and lower classes arranged in order has been known from of old as a *tree* of division or classification. The following is Porphyry's "tree":--
 

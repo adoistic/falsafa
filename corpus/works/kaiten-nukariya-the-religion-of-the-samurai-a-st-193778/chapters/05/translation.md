@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2085
+word_count: 2083
 source_url: "https://www.gutenberg.org/ebooks/5173"
 translator: Project Gutenberg edition
 ---
@@ -81,8 +81,6 @@ The outside scholars might ask, by way of objection, if one live as a spirit aft
 If it be the will of Heaven to bless so limited a number of persons at all, and to curse so many, why is Heaven so partial? Even more than that! Are there not many who hold a high position without any meritorious conduct, while some are placed in a low one in spite of their keeping to (the rules of) conduct? Are there not many who are rich without any virtues, while some are poor in spite of their virtues? Are there not the unjust who are fortunate, while the just are unfortunate? Are there not the humane, who die young, while the inhuman enjoy long lives? In short, the righteous (are doomed) to perish, while the unrighteous prosper! Thus (we must infer) that all this depends on the heavenly will, which causes the unrighteous to prosper and the righteous to perish. How can there be reward for the good (as it is taught in your sacred books),[FN#315] that Heaven blesses the good and shows grace to the humble? How can there be punishment for the bad (as it is taught in your holy books),[FN#316] that Heaven curses the evil and inflicts punishment on the proud?
 
 [FN#315] Shu King and I King.
-
-[FN#316] Ibid.
 
 Again, if even all such evils as wars, treacheries, and rebellions depend on the heavenly will, those Sages would be in the wrong who, in the statement of their teaching, censure or chastise men, but not Heaven or the heavenly will. Therefore, even if Shi[FN#317] is full of reproofs against maladministration, while Shu[FN#318] of eulogies for the reigns of the wisest monarchs-even if Propriety[FN#319] is recommended as a most effectual means of creating peace between the governors and the governed, while Music[FN#320] (is recommended as a means of) ameliorating the customs and manners of the people--still, they can hardly be said to realize the Will on High or to conform to the wishes of the Creator. Hence you must acknowledge that those who devote themselves to the study of these doctrines are not able to trace man to his origin.
 

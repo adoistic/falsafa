@@ -13,12 +13,10 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6882
+word_count: 6860
 source_url: "https://www.gutenberg.org/ebooks/4754"
 translator: Project Gutenberg edition
 ---
-
-Produced by David A. Schwan. HTML version by Al Haines.
 
 The Philosophy of Despair
 
@@ -231,5 +229,3 @@ In the same way we must read with the rising inflection the lines of Tennyson:
 "I falter when I firmly trod, And falling with my weight of cares, Upon the World's great altar-stairs That slope through darkness, up to god!"
 
 Read these words with courage, and with the upward turn of the voice at the end. It is no longer in the darkness that we falter. The great altar-stairs of which no man knows the beginning nor the end, do not spring from the mire nor end in the mists. They "slope through darkness up to God," and no one could ask a stronger expression of that robust optimism which must be the mainspring of successful life.
-
-End of Project Gutenberg's The Philosophy of Despair, by David Starr Jordan

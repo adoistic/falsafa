@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 10666
+word_count: 10655
 source_url: "https://www.gutenberg.org/ebooks/25172"
 translator: Project Gutenberg edition
 ---
@@ -197,5 +197,3 @@ BETT'S New Ideals in Rural Schools. BLOOMFIELD'S The Vocational Guidance of Yout
 ANDRESS'S The Teaching of Hygiene in the Grades. ATWOOD'S The Theory and Practice of the Kindergarten. BAILEY'S Art Education. BETTS'S The Recitation. COOLEY'S Language Teaching in the Grades. DOUGHERTY'S How to Teach Phonics. EARHART'S Teaching Children to Study. EVANS'S The Teaching of High School Mathematics. FAIRCHILD'S The Teaching of Poetry in the High School. FREEMAN'S The Teaching of Handwriting. HALIBURTON and SMITH'S Teaching Poetry in the Grades. HARTWELL'S The Teaching of History. HAWLEY'S Teaching English in Junior High Schools. HAYNES'S Economics in the Secondary School. HILL'S The Teaching of Civics. JENKINS'S Reading in the Primary Grades. KENDALL and STRYKER'S History in the Elementary School. KILPATRICK'S The Montessori System Examined. LEONARD'S English Composition as a Social Problem. LOSH and WEEKS'S Primary Number Projects. PALMER'S Self-Cultivation in English. RIDGLEY'S Geographic Principles. RUEDIGER'S Vitalized Teaching. SHARP'S Teaching English in High Schools. STOCKTON'S Project Work in Education. SUZZALLO'S The Teaching of Primary Arithmetic. SUZZALLO'S The Teaching of Spelling. SWIFT'S Speech Defects in School Children. TUELL'S The Study of Nations. WILSON's What Arithmetic Shall We Teach?
 
 HOUGHTON MIFFLIN COMPANY
-
-End of Project Gutenberg's Moral Principles in Education, by John Dewey

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 26406
+word_count: 26170
 source_url: "https://www.gutenberg.org/ebooks/27597"
 translator: Project Gutenberg edition
 ---
@@ -56,11 +56,7 @@ Preface to *Morals and Legislation*.
 
 Epistle iv., opening lines.
 
-*Works*, vii. 82.
-
 *Works* ('Constitutional Code'), ix. 123.
-
-*Works* ('Fragment'), i. 287.
 
 *Works* ('Morals and Legislation'), i. 8-10. Mill quotes this passage in his essay on Bentham in the first volume of his *Dissertations*. This essay, excellent in itself must be specially noticed as an exposition by an authoritative disciple.
 
@@ -68,47 +64,19 @@ Epistle iv., opening lines.
 
 *Works* ('Morals and Legislation'), i. v.
 
-*Works* ('Evidence'), vi. 261.
-
-*Works* ('Evidence'), vii. 116.
-
 *Ibid.* ('Morals and Legislation'), i. 14, etc.; *Ibid.* vi. 260. In *Ibid.* ('Evidence') vii. 116, 'humanity,' and in 'Logical Arrangements,' *Ibid.* ii. 290, 'sympathy' appears as a fifth sanction. Another modification is suggested in *Ibid.* i. 14 *n.*
 
 *Ibid.* ('Morals and Legislation'), i. 67.
 
 *Works* ('Morals and Legislation'), i. 96 *n.*
 
-See especially *Ibid.* viii. 104, etc.; 253, etc.; 289, etc.
-
-*Ibid.* viii. 106.
-
 'Codify' was one of Bentham's successful neologisms.
 
-*Works* ('Logic'), viii. 220.
-
 Here Bentham coincides with Horne Tooke, to whose 'discoveries' he refers in the *Chrestomathia* (*Works*, viii. 120, 185, 188).
-
-*Works*, iii. 286; viii. 119.
-
-*Ibid.* ('Ontology') viii. 196 *n.*
-
-*Ibid.* viii, 197 *n.*
-
-*Ibid.* viii. 263.
-
-*Works* ('Ontology'), viii. 119.
-
-*Ibid.* viii. 198.
-
-*Ibid.* viii. 199.
-
-*Ibid.* viii. 206, 247.
 
 Helvétius adds to this that the only real pains and pleasures are the physical, but Bentham does not follow him here. See Helvétius, *OEuvres* (1781), ii. 121, etc.
 
 *Works*, i. 211 ('Springs of Action').
-
-*Ibid.* i. 206.
 
 II. SPRINGS OF ACTION
 
@@ -138,8 +106,6 @@ It is not worth while to consider this at length; but I give the following conje
 
 *Works* ('Morals and Legislation'), i. 22 etc.
 
-*Ibid.* i. 33.
-
 *Morals and Legislation*, ch. vii. to xi.
 
 III. THE SANCTIONS
@@ -158,17 +124,9 @@ NOTES:
 
 *Works* ('Morals and Legislation'), i. 46.
 
-*Ibid.* i. 48.
-
 *Works* ('Morals and Legislation'), i. 56.
 
-*Ibid.* i. 56.
-
 *Works* ('Morals and Legislation'), i. 60.
-
-*Ibid.* i. 62.
-
-*Ibid.* i. 65.
 
 These are the two classes of 'springs of action' omitted in the *Table*.
 
@@ -196,13 +154,7 @@ NOTES:
 
 *Works* ('Morals and Legislation'), i. p. 86.
 
-*Ibid.* i. 144.
-
-*Ibid.* i. 145.
-
 *Works* ('Morals and Legislation'), i. 143.
-
-*Ibid.* i. 147-48.
 
 *Works* ('Morals and Legislation'), i 406 *n.*
 
@@ -224,43 +176,13 @@ Yet Eldon was but the head of a band. Judges, barristers, and solicitors were al
 
 NOTES:
 
-*Works*, iii. 267.
-
-*Ibid.* x. 569
-
 *Autobiography*, p. 116.
 
 The subject is again treated in Book v. on 'Circumstantial Evidence.'
 
-*Works*, vi. 204.
-
-*Works*, vii. 391.
-
 *Works*, vii. 321-25. Court-martials are hardly a happy example now.
 
-'Truth *v.* Ashhurst' (1792), *Works*, v. 235.
-
 *Works* ('Codification Petition'), v. 442.
-
-*Ibid.* vi. 11.
-
-*Ibid.* v. 92.
-
-*Works*, vii. 204, 331; ix. 143.
-
-*Ibid.* vii. 214.
-
-*Ibid.* v. 349.
-
-*Ibid.* v. 364.
-
-*Works*, v. 371.
-
-*Ibid.* v. 375.
-
-*Ibid.* vii. 188.
-
-*Ibid.* v. 370.
 
 VI. RADICALISM
 
@@ -300,51 +222,19 @@ Mill's criticism of Bentham suggests the consequences. There are, he says, three
 
 NOTES:
 
-*Works*, v. 97, etc.
-
 See preface to *Constitutional Code* in vol. ix.
 
 Bentham's nephew, George, who died when approaching his eighty-fourth birthday, devoted the last twenty-five years of his life with equal assiduity to his *Genera Plantarum*. See a curious anecdote of his persistence in the *Dictionary of National Biography*.
-
-*Works*, iii. 573.
-
-*Works*, ix. 5, 8.
 
 The theory, as Mill reminds us, had been very pointedly anticipated by Helvétius. Bentham's practical experience, however, had forced it upon his attention.
 
 *Works*, ix. 141. The general principle, however, is confirmed by the case of George III.
 
-*Ibid.* ix. 45.
-
-*Ibid.* ix. 98.
-
-*Works*, ix. 98.
-
-e.g. *Ibid.* ix. 38, 50, 63, 99, etc.
-
 *Ibid.* ('Plan of Parliamentary Reform,') iii. 463.
-
-*Works*, ix. 594.
-
-*Ibid.* ix. 62.
-
-*Ibid.* ix. 24.
-
-*Ibid.* ix. 48.
 
 *Dissertations*, i. 377.
 
-*Works*, ii. 497.
-
-*Ibid.* ii. 501.
-
-*Ibid.* ii. 503.
-
 *Justice*, p. 264; so Price, in his *Observations on Liberty*, lays it down that government is never to entrench upon private liberty, 'except so far as private liberty entrenches on the liberty of others.'
-
-*Works*, ii. 506.
-
-*Works*, ii. 401.
 
 *Autobiography*, p. 274.
 
@@ -353,8 +243,6 @@ Hobbes, in the *Leviathan* (chap. xiii.), has in the same way to argue for the *
 *Dissertations*, i. 375.
 
 I remark by anticipation that this expression implies a reference to Mill's *Ethology*, of which I shall have to speak.
-
-*Works*, ix. 96, 113.
 
 *Dissertations*, i. 376.
 
@@ -378,29 +266,7 @@ NOTES:
 
 *Works*, 'Civil Code' (from Dumont), i. 302, 305; *Ibid.* ('Principles of Constitutional Code') ii. 271; *Ibid.* ('Constitutional Code') ix. 15-18.
 
-*Works*, i. 306 *n.*
-
-*Ibid.* ix. 15.
-
 *Ibid.* ('Principles of Penal Code') i. 311.
-
-*Ibid.* i. 312.
-
-*Works*, x. 440.
-
-*Ibid.* iii. 33, etc.
-
-*Ibid.* iii. 35.
-
-*Works*, ix. 5.
-
-*Ibid.* ix. 192.
-
-*Ibid.* ix. 7.
-
-*Works*, i. 212.
-
-*Ibid.* ix. 192.
 
 See, *e.g.*, i. 83, where sympathy seems to be taken as an ultimate pleasure; and ii. 133, where he says 'dream not that men will move their little finger to serve you unless their advantage in so doing be obvious to them.' See also the apologue of 'Walter Wise,' who becomes Lord Mayor, and 'Timothy Thoughtless,' who ends at Botany Bay (i. 118), giving the lowest kind of prudential morality. The manuscript of the *Deontology*, now in University College, London, seems to prove that Bentham was substantially the author, though the Mills seem to have suspected Bowring of adulterating the true doctrine. He appears to have been an honest if not very intelligent editor; though the rewriting, necessary in all Bentham's works, was damaging in this case; and he is probably responsible for some rhetorical amplification, especially in the later part.
 

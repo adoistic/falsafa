@@ -13,12 +13,10 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 17831
+word_count: 17803
 source_url: "https://www.gutenberg.org/ebooks/7514"
 translator: Project Gutenberg edition
 ---
-
-Produced by Charles Franks, Ted Garvin, S. R. Ellison and the Online Distributed Proofreading Team.
 
 A GUIDE TO STOICISM
 
@@ -353,5 +351,3 @@ M Aurelius Antoninus Emperor ... 161-180 Wrote the book commonly called his "Med
 Three later authorities for the Stoic teaching are-- Diogenes Laertius ... 200? Sextus Empiricus ... 225? Stobaeus ... 500?
 
 Modern works-- Von Arnim's edition of the "Fragmenta Stoicorum Veterum" Pearson's "Fragments of Zeno and Cleanthes" Pitt Press Remains of C Musonius Rufus in the Teubner series Zeller's "Stoics and Epicureans." Sir Alexander Grant, "Ethics of Aristotle" Essay VI on the Ancient Stoics Lightfoot on the Philippians, Dissertation II, "St. Paul and Seneca."
-
-End of Project Gutenberg's A Little Book of Stoicism, by St. George Stock

@@ -115,93 +115,73 @@
     "text": "According to this system, universal propositions are to be regarded as not necessarily implying the existence of their terms; and therefore, instead of giving them a positive form, they are translated into symbols that express what they deny. For example, the proposition _All devils are ugly_ need not imply that any such things as 'devils' really exist; but it certainly does imply that _Devils that are not ugly do not exist*. Similarly, the proposition *No angels are ugly_ implies that *Angels that are ugly do not exist*. Therefore, writing *x* for 'devils,' *y* for 'ugly,' and *[y]* for 'not-ugly,' we may express A., the universal affirmative, thus:"
   },
   {
-    "id": "p-30d151",
-    "offset": 13861,
-    "text": "A. *x[y]* = 0."
-  },
-  {
     "id": "p-8d128a",
-    "offset": 13877,
+    "offset": 13861,
     "text": "That is, *x that is not y is nothing*; or, _Devils that are not-ugly do not exist*. And, similarly, writing *x* for 'angels' and *y_ for 'ugly,' we may express E., the universal negative, thus:"
   },
   {
-    "id": "p-b6d245",
-    "offset": 14072,
-    "text": "E. *xy* = 0."
-  },
-  {
     "id": "p-42f4d8",
-    "offset": 14086,
+    "offset": 14056,
     "text": "That is, *x that is y is nothing*; or, _Angels that are ugly do not exist_."
   },
   {
     "id": "p-ce057f",
-    "offset": 14163,
+    "offset": 14133,
     "text": "On the other hand, particular propositions are regarded as implying the existence of their terms, and the corresponding equations are so framed as to express existence. With this end in view, the symbol v is adopted to represent 'something,' or indeterminate reality, or more than nothing. Then, taking any particular affirmative, such as _Some metaphysicians are obscure*, and writing *x_ for 'metaphysicians,' and *y* for 'obscure,' we may express it thus:"
   },
   {
-    "id": "p-f58b6c",
-    "offset": 14623,
-    "text": "I. *xy* = v."
-  },
-  {
     "id": "p-9ec3a9",
-    "offset": 14637,
+    "offset": 14593,
     "text": "That is, *x that is y is something*; or, _Metaphysicians that are obscure do occur in experience_ (however few they may be, or whether they all be obscure). And, similarly, taking any particular negative, such as *Some giants are not cruel*, and writing *x* for 'giants' and *y* for 'not-cruel,' we may express it thus:"
   },
   {
-    "id": "p-58c74c",
-    "offset": 14958,
-    "text": "O. *x[y]* = v."
-  },
-  {
     "id": "p-c2342a",
-    "offset": 14974,
+    "offset": 14914,
     "text": "That is, *x that is not y is something*; or, _giants that are not-cruel do occur_--in romances, if nowhere else."
   },
   {
     "id": "p-cca9a7",
-    "offset": 15088,
+    "offset": 15028,
     "text": "Clearly, these equations are, like Hamilton's, concerned with denotation. A. and E. affirm that the compound terms x[y] and xy have no denotation; and I. and O. declare that x[y] and xy have denotation, or stand for something. Here, however, the resemblance to Hamilton's system ceases; for the Symbolic Logic, by operating upon more than two terms simultaneously, by adopting the algebraic signs of operations, +,-, ×, ÷ (with a special signification), and manipulating the symbols by quasi-algebraic processes, obtains results which the common Logic reaches (if at all) with much greater difficulty. If, indeed, the value of logical systems were to be judged of by the results obtainable, formal deductive Logic would probably be superseded. And, as a mental discipline, there is much to be said in favour of the symbolic method. But, as an introduction to philosophy, the common Logic must hold its ground. (Venn: *Symbolic Logic*, c. 7.)"
   },
   {
     "id": "p-219ce3",
-    "offset": 16031,
+    "offset": 15971,
     "text": "§ 4. Does Formal Logic involve any general assumption as to the real existence of the terms of propositions?"
   },
   {
     "id": "p-63d886",
-    "offset": 16141,
+    "offset": 16081,
     "text": "In the first place, Logic treats primarily of the *relations* implied in propositions. This follows from its being the science of proof for all sorts of (qualitative) propositions; since all sorts of propositions have nothing in common except the relations they express."
   },
   {
     "id": "p-a6a518",
-    "offset": 16413,
+    "offset": 16353,
     "text": "But, secondly, relations without terms of some sort are not to be thought of; and, hence, even the most formal illustrations of logical doctrines comprise such terms as S and P, X and Y, or x and y, in a symbolic or representative character. Terms, therefore, of some sort are assumed to exist (together with their negatives or contradictories) _for the purposes of logical manipulation_."
   },
   {
     "id": "p-c9358d",
-    "offset": 16803,
+    "offset": 16743,
     "text": "Thirdly, however, that Formal Logic cannot as such directly involve the existence of any particular concrete terms, such as 'man' or 'mountain,' used by way of illustration, is implied in the word 'formal,' that is, 'confined to what is common or abstract'; since the only thing common to all terms is to be related in some way to other terms. The actual existence of any concrete thing can only be known by experience, as with 'man' or 'mountain'; or by methodically justifiable inference from experience, as with 'atom' or 'ether.' If 'man' or 'mountain,' or 'Cuzco' be used to illustrate logical forms, they bring with them an existential import derived from experience; but this is the import of language, not of the logical forms. 'Centaur' and 'El Dorado' signify to us the non-existent; but they serve as well as 'man' and 'London' to illustrate Formal Logic."
   },
   {
     "id": "p-dc05db",
-    "offset": 17671,
+    "offset": 17611,
     "text": "Nevertheless, fourthly, the existence or non-existence of particular terms may come to be implied: namely, wherever the very fact of existence, or of some condition of existence, is an hypothesis or datum. Thus, given the proposition *All S is P*, to be P is made a condition of the existence of S: whence it follows that an S that is not P does not exist (*x[y]* = 0). On the further hypothesis that S exists, it follows that P exists. On the hypothesis that S does not exist, the existence of P is problematic; but, then, if P does exist we cannot convert the proposition; since *Some P is S* (P existing) would involve the existence of S; which is contrary to the hypothesis."
   },
   {
     "id": "p-be772f",
-    "offset": 18351,
+    "offset": 18291,
     "text": "Assuming that Universals *do not*, whilst Particulars *do*, imply the existence of their subjects, we cannot infer the subalternate (I. or O.) from the subalternans (A. or E.), for that is to ground the actual on the problematic; and for the same reason we cannot convert A. _per accidens_."
   },
   {
     "id": "p-4d65ff",
-    "offset": 18643,
+    "offset": 18583,
     "text": "Assuming, again, a certain *suppositio* or universe, to which in a given discussion every argument shall refer, then, any propositions whose terms lie outside that *suppositio* are irrelevant, and for the purposes of that discussion are sometimes called \"false\"; though it seems better to call them irrelevant or meaningless, seeing that to call them false implies that they might in the same case be true. Thus propositions which, according to the doctrine of Opposition, appear to be Contradictories, may then cease to be so; for of Contradictories one is true and the other false; but, in the case supposed, both are meaningless. If the subject of discussion be Zoology, all propositions about centaurs or unicorns are absurd; and such specious Contradictories as _No centaurs play the lyre--Some centaurs do play the lyre*; or *All unicorns fight with lions--Some unicorns do not fight with lions_, are both meaningless, because in Zoology there are no centaurs nor unicorns; and, therefore, in this reference, the propositions are not really contradictory. But if the subject of discussion or *suppositio* be Mythology or Heraldry, such propositions as the above are to the purpose, and form legitimate pairs of Contradictories."
   },
   {
     "id": "p-986ab0",
-    "offset": 19878,
+    "offset": 19818,
     "text": "In Formal Logic, in short, we may make at discretion any assumption whatever as to the existence, or as to any condition of the existence of any particular term or terms; and then certain implications and conclusions follow in consistency with that hypothesis or datum. Still, our conclusions will themselves be only hypothetical, depending on the truth of the datum; and, of course, until this is empirically ascertained, we are as far as ever from empirical reality. (Venn: *Symbolic Logic*, c. 6; Keynes: *Formal Logic*, Part II. c. 7: *cf.* Wolf: *Studies in Logic*.)"
   }
 ]

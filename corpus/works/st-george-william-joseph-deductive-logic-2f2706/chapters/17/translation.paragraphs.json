@@ -200,118 +200,113 @@
     "text": "§ 789. This, for instance, is not a dilemma--"
   },
   {
-    "id": "p-792033",
-    "offset": 5294,
-    "text": "If A is B or if E is F, C is D. But A is B and E is F. .'. C is D."
-  },
-  {
     "id": "p-ecca3c",
-    "offset": 5362,
+    "offset": 5294,
     "text": "If he observes the sabbath or if he refuses to eat pork, he is a Jew. But he both observes the sabbath and refuses to eat pork. .'. He is a Jew."
   },
   {
     "id": "p-b2f2a3",
-    "offset": 5508,
+    "offset": 5440,
     "text": "What we have here is a combination of two partly conjunctive syllogisms with the same conclusion, which would have been established by either of them singly. The proof is redundant."
   },
   {
     "id": "p-b22f0a",
-    "offset": 5691,
+    "offset": 5623,
     "text": "§ 790. Neither is the following a dilemma--"
   },
   {
     "id": "p-855e9b",
-    "offset": 5736,
+    "offset": 5668,
     "text": "If A is B, C is D and E is F. Neither C is D nor E is F. .'. A is not B."
   },
   {
     "id": "p-dd5c00",
-    "offset": 5810,
+    "offset": 5742,
     "text": "If this triangle is equilateral, its sides and its angles will be equal. But neither its sides nor its angles are equal. .'. It is not equilateral."
   },
   {
     "id": "p-042076",
-    "offset": 5959,
+    "offset": 5891,
     "text": "This is another combination of two conjunctive syllogisms, both pointing to the same conclusion. The proof is again redundant. In this case we have the consequent denied in both, whereas in the former we had the antecedent affirmed. It is only for convenience that such arguments as these are thrown into the form of a single syllogism. Their real distinctness may be seen from the fact that we here deny each proposition separately, thus making two independent statements--C is not D and E is not F. But in the true instance of the simple destructive dilemma, what we deny is not the truth of the two propositions contained in the consequent, but their compatibility; in other words we make a disjunctive denial."
   },
   {
     "id": "p-2141d1",
-    "offset": 6674,
+    "offset": 6606,
     "text": "§ 791. Nor yet is the following a dilemma--"
   },
   {
     "id": "p-11733e",
-    "offset": 6719,
+    "offset": 6651,
     "text": "If A is B, either C is D or E is F. Neither C is D nor E is F. .'. A is not B."
   },
   {
     "id": "p-0f19fb",
-    "offset": 6799,
+    "offset": 6731,
     "text": "If the barometer falls there will be either wind or rain. There is neither wind nor rain. .'. The barometer has not fallen."
   },
   {
     "id": "p-56d9a6",
-    "offset": 6924,
+    "offset": 6856,
     "text": "What we have here is simply a conjunctive major with the consequent denied in the minor. In the consequent of the major it is asserted that the two propositions, 'C is D' and 'E is F' cannot both be false; and in the minor this is denied by the assertion that they are both false."
   },
   {
     "id": "p-44e4ff",
-    "offset": 7206,
+    "offset": 7138,
     "text": "§ 792. A dilemma is said to be rebutted or retorted, when another dilemma is made out proving an opposite conclusion. If the dilemma be a sound one, and its premisses true, this is of course impossible, and any appearance of contradiction that may present itself on first sight must vanish on inspection. The most usual mode of rebutting a dilemma is by transposing and denying the consequents in the major--"
   },
   {
     "id": "p-a36dac",
-    "offset": 7616,
+    "offset": 7548,
     "text": "If A is B, C is D; and if E is F, G is H. Either A is B or E is F. .'. Either C is D or G is H."
   },
   {
     "id": "p-61d60e",
-    "offset": 7713,
+    "offset": 7645,
     "text": "The same rebutted--"
   },
   {
     "id": "p-2ce9f6",
-    "offset": 7734,
+    "offset": 7666,
     "text": "If A is B, G is not H; and if E is F, C is not D. Either A is B or E is F. .'. Either G is not H or C is not D. = Either C is not D or G is not H."
   },
   {
     "id": "p-dbab74",
-    "offset": 7882,
+    "offset": 7814,
     "text": "§ 793. Under this form comes the dilemma addressed by the Athenian mother to her son--'Do not enter public life: for, if you say what is just, men will hate you; and, if you say what is unjust, the gods will hate you' to which the following retort was made--'I ought to enter public life: for, if 1 say what is just, the gods will love me; and, if 1 say what is unjust, men will love me.' But the two conclusions here are quite compatible. A man must, on the given premisses, be both hated and loved, whatever course he takes. So far indeed are two propositions of the form"
   },
   {
     "id": "p-fd6d6f",
-    "offset": 8457,
+    "offset": 8389,
     "text": "Either C is D or G is H, and Either C is not D or G is not H,"
   },
   {
     "id": "p-249769",
-    "offset": 8520,
+    "offset": 8452,
     "text": "from being incompatible, that they express precisely the same thing when contradictory alternatives have been selected, e.g.--"
   },
   {
     "id": "p-dd941d",
-    "offset": 8648,
+    "offset": 8580,
     "text": "Either a triangle is equilateral or non-equilateral. Either a triangle is non-equilateral or equilateral."
   },
   {
     "id": "p-b4b668",
-    "offset": 8755,
+    "offset": 8687,
     "text": "§ 794. Equally illusory is the famous instance of rebutting a dilemma contained in the story of Protagoras and Euathlus (Aul. Gell. Noct. Alt. v. 10), Euathlus was a pupil of Protagoras in rhetoric. He paid half the fee demanded by his preceptor before receiving lessons, and agreed to pay the remainder when he won his first case. But as he never proceeded to practise at the bar, it became evident that he meant to bilk his tutor. Accordingly Protagoras himself instituted a law-suit against him, and in the preliminary proceedings before the jurors propounded to him the following dilemma--'Most foolish young man, whatever be the issue of this suit, you must pay me what I claim: for, if the verdict be given in your favour, you are bound by our bargain; and if it be given against you, you are bound by the decision of the jurors.' The pupil, however, was equal to the occasion, and rebutted the dilemma as follows. 'Most sapient master, whatever be the issue of this suit, I shall not pay you what you claim: for, if the verdict be given in my favour, I am absolved by the decision of the jurors; and, if it be given against me, I am absolved by our bargain.' The jurors are said to have been so puzzled by the conflicting plausibility of the arguments that they adjourned the case till the Greek Kalends. It is evident, however, that a grave injustice was thus done to Protagoras. His dilemma was really invincible. In the counter-dilemma of Euathlus we are meant to infer that Protagoras would actually lose his fee, instead of merely getting it in one way rather than another. In either case he would both get and lose his fee, in the sense of getting it on one plea, and not getting it on another: but in neither case would he actually lose it."
   },
   {
     "id": "p-807f9b",
-    "offset": 10511,
+    "offset": 10443,
     "text": "§ 795. If a dilemma is correct in form, the conclusion of course rigorously follows: but a material fallacy often underlies this form of argument in the tacit assumption that the alternatives offered in the minor constitute an exhaustive division. Thus the dilemma 'If pain is severe, it will be brief; and if it last long it will be slight,' &c., leaves out of sight the unfortunate fact that pain may both be severe and of long continuance. Again the following dilemma--"
   },
   {
     "id": "p-5ecc7b",
-    "offset": 10985,
+    "offset": 10917,
     "text": "If students are idle, examinations are unavailing; and, if they are industrious, examinations are superfluous, Students are either idle or industrious, .'. Examinations are either unavailing or superfluous,"
   },
   {
     "id": "p-bcb20f",
-    "offset": 11193,
+    "offset": 11125,
     "text": "is valid enough, so far as the form is concerned. But the person who used it would doubtless mean to imply that students could be exhaustively divided into the idle and the industrious. No deductive conclusion can go further than its premisses; so that all that the above conclusion can in strictness be taken to mean is that examinations are unavailing, when students are idle, and superfluous, when they are industrious--which is simply a reassertion as a matter of fact of what was previously given as a pure hypothesis."
   }
 ]

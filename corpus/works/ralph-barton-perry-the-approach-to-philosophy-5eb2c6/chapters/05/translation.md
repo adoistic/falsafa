@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8149
+word_count: 8105
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -170,15 +170,7 @@ Under these several divisions, then, we shall meet once more with the special pr
 
 FOOTNOTES:
 
-[180:1] Cf. § 68.
-
 [182:2] The Socratic distinction between the logical and the psychological treatment of belief finds its best expression in Plato's *Gorgias*, especially, 454, 455. Cf. also § 29.
-
-[182:3] Thus, e. g. Hegel. See § 179. Cf. also §§ 199, 200.
-
-[183:4] Cf. § 84.
-
-[184:5] See § 69, *note*.
 
 [184:6] The reader will find a good illustration of eristic in Plato's *Euthydemus*, 275.
 
@@ -192,17 +184,11 @@ FOOTNOTES:
 
 [195:11] Quoted by Paulsen in his *System of Ethics*. Translation by Thilly, p. 69.
 
-[198:12] Cf. § 160.
-
-[198:13] Cf. § 177.
-
 [199:14] Concerning the duty of philosophy to religion in these matters, cf. Descartes: *Meditations*, *Dedication*. Translation by Veitch, p. 81.
 
 [201:15] The school-philosophy that flourished from the eleventh to the fifteenth century, under the authority of the church.
 
 [209:16] Especially in the *Phædo*.
-
-[211:17] Schopenhauer is a notable exception. Cf. §§ 135, 138.
 
 [213:18] It is interesting, however, to observe that current spiritualistic theories maintain a naturalistic theory of immortality, verifiable, it is alleged, in certain extraordinary empirical observations.
 

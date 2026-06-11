@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6830
+word_count: 6749
 source_url: "https://www.gutenberg.org/ebooks/12956"
 translator: Project Gutenberg edition
 ---
@@ -68,13 +68,9 @@ changing colors like a suitor, equally beautiful on all sides, he presents to al
 
 "All-searching is his beam, the gleaming of his light, His, the all-beautiful, of beauteous face and glance, The changing shimmer like that floats upon the stream, So Agni's rays gleam over bright and never cease."
 
-R.V.I. 143. 3.
-
 They would describe the wind (Vâta) and adore him and say
 
 "In what place was he born, and from whence comes he? The vital breath of gods, the world's great offspring, The God where'er he will moves at his pleasure: His rushing sound we hear--what his appearance, no one."
-
-R.V.X. 168. 3, 4.
 
 It was the forces of nature and her manifestations, on earth here, the atmosphere around and above us, or in the Heaven beyond the vault of the sky that excited the devotion and imagination of the Vedic poets. Thus with the exception of a few abstract gods of whom we shall presently speak and some dual divinities, the gods may be roughly classified as the terrestrial, atmospheric, and celestial.
 
@@ -84,11 +80,9 @@ The plurality of the Vedic gods may lead a superficial enquirer to think the fai
 
 "Undropped beneath, not fastened firm, how comes it That downward turned he falls not downward? The guide of his ascending path,--who saw it?"
 
-R.V. IV. 13. 5.
-
 The sages wonder how "the sparkling waters of all rivers flow into one ocean without ever filling it." The minds of the Vedic
 
-people as we find in the hymns were highly impressionable and fresh. At this stage the time was not ripe enough for them to accord a consistent and well-defined existence to the multitude of gods nor to universalize them in a monotheistic creed. They hypostatized unconsciously any force of nature that overawed them or filled them with gratefulness and joy by its beneficent or aesthetic character, and adored it. The deity which moved the devotion or admiration of their mind was the most supreme for the time. This peculiar trait of the Vedic hymns Max Muller has called Henotheism or Kathenotheism: "a belief in single gods, each in turn standing out as the highest. And since the gods are thought of as specially ruling in their own spheres, the singers, in their special concerns and desires, call most of all on that god to whom they ascribe the most power in the matter,--to whose department if I may say so, their wish belongs. This god alone is present to the mind of the suppliant; with him for the time being is associated everything that can be said of a divine being;--he is the highest, the only god, before whom all others disappear, there being in this, however, no offence or depreciation of any other god ." "Against this theory it has been urged," as Macdonell rightly says in his _Vedic Mythology_ , "that Vedic deities are not represented as 'independent of all the rest,' since no religion brings its gods into more frequent and varied juxtaposition and combination, and that even the mightiest gods of the Veda are made dependent on others. Thus Varu@na and Sûrya are subordinate to Indra (I. 101), Varu@na and the As'vins submit to the power of Vi@s@nu (I. 156)....Even when a god is spoken of as unique or chief (*eka*), as is natural enough in laudations, such statements lose their temporarily monotheistic force, through the modifications or corrections supplied by the context or even by the same verse . "Henotheism is therefore an appearance," says Macdonell, "rather than a reality, an appearance produced by the indefiniteness due to undeveloped anthropomorphism, by the lack of any Vedic god occupying the position of a Zeus as the constant head of the pantheon, by the natural tendency of the priest or singer in extolling a particular god to exaggerate his greatness and to ignore other gods, and by the
+people as we find in the hymns were highly impressionable and fresh. At this stage the time was not ripe enough for them to accord a consistent and well-defined existence to the multitude of gods nor to universalize them in a monotheistic creed. They hypostatized unconsciously any force of nature that overawed them or filled them with gratefulness and joy by its beneficent or aesthetic character, and adored it. The deity which moved the devotion or admiration of their mind was the most supreme for the time. This peculiar trait of the Vedic hymns Max Muller has called Henotheism or Kathenotheism: "a belief in single gods, each in turn standing out as the highest. And since the gods are thought of as specially ruling in their own spheres, the singers, in their special concerns and desires, call most of all on that god to whom they ascribe the most power in the matter,--to whose department if I may say so, their wish belongs. This god alone is present to the mind of the suppliant; with him for the time being is associated everything that can be said of a divine being;--he is the highest, the only god, before whom all others disappear, there being in this, however, no offence or depreciation of any other god ." "Against this theory it has been urged," as Macdonell rightly says in his _Vedic Mythology_ , "that Vedic deities are not represented as 'independent of all the rest,' since no religion brings its gods into more frequent and varied juxtaposition and combination, and that even the mightiest gods of the Veda are made dependent on others. Thus Varu@na and Sûrya are subordinate to Indra (I. 101), Varu@na and the As'vins submit to the power of Vi@s@nu (I. 156)....Even when a god is spoken of as unique or chief (*eka*), as is natural enough in laudations, such statements lose their temporarily monotheistic force, through the modifications or corrections supplied by the context or even by the same verse . "Henotheism is therefore an appearance," says Macdonell, "rather than a reality, an appearance
 
 growing belief in the unity of the gods (cf. the refrain of 3, 35) each of whom might be regarded as a type of the divine ." But whether we call it Henotheism or the mere temporary exaggeration of the powers of the deity in question, it is evident that this stage can neither be properly called polytheistic nor monotheistic, but one which had a tendency towards them both, although it was not sufficiently developed to be identified with either of them. The tendency towards extreme exaggeration could be called a monotheistic bias in germ, whereas the correlation of different deities as independent of one another and yet existing side by side was a tendency towards polytheism.
 
@@ -149,7 +143,5 @@ more often of the nature of sacrificial duties than ordinary good works. These i
 Conclusion.
 
 Looking at the advancement of thought in the @Rg-Veda we find first that a fabric of thought was gradually growing which not only looked upon the universe as a correlation of parts or a
-
-[Footnote 2: R.V.i. 164. 4 and Deussen's article on Âtman in *Encyclopaedia of Religion and Ethics*.
 
 construction made of them, but sought to explain it as having emanated from one great being who is sometimes described as one with the universe and surpassing it, and at other times as being separate from it; the agnostic spirit which is the mother of philosophic thought is seen at times to be so bold as to express doubts even on the most fundamental questions of creation--"Who knows whether this world was ever created or not?" Secondly the growth of sacrifices has helped to establish the unalterable nature of the law by which the (sacrificial) actions produced their effects of themselves. It also lessened the importance of deities as being the supreme masters of the world and our fate, and the tendency of henotheism gradually diminished their multiple character and advanced the monotheistic tendency in some quarters. Thirdly, the soul of man is described as being separable from his body and subject to suffering and enjoyment in another world according to his good or bad deeds; the doctrine that the soul of man could go to plants, etc., or that it could again be reborn on earth, is also hinted at in certain passages, and this may be regarded as sowing the first seeds of the later doctrine of transmigration. The self (*âtman*) is spoken of in one place as the essence of the world, and when we trace the idea in the Brâhma@nas and the Âra@nyakas we see that âtman has begun to mean the supreme essence in man as well as in the universe, and has thus approached the great Âtman doctrine of the Upani@sads.

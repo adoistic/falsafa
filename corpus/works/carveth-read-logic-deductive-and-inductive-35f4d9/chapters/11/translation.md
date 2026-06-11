@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2539
+word_count: 2513
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -107,8 +107,6 @@ The cost of labour depends on the efficiency of labour; The rate of profits depe
 Had it occurred to Mill to construct this Sorites, he would have modified his doctrine of the wages-fund, and would have spared many critics the malignant joy of refuting him.
 
 § 6. The Antinomy is a combination of arguments by which contradictory attributes are proved to be predicable of the same subject. In symbols, thus:
-
-All M is P; All N is p; All S is M: All S is N: .'. All S is P. .'. All S is p.
 
 Now, by the principle of Contradiction, S cannot be P and p (not-P): therefore, if both of the above syllogisms are sound, S, as the subject of contradictory attributes, is logically an impossible thing. The contradictory conclusions are called, respectively, Thesis and Antithesis.
 

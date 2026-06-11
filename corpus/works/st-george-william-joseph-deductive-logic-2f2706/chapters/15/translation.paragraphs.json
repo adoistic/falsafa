@@ -25,128 +25,113 @@
     "text": "is equal to"
   },
   {
-    "id": "p-806e86",
-    "offset": 497,
-    "text": "If A is not B, C is D. A is not B. .'. C is D."
-  },
-  {
     "id": "p-7e2e68",
-    "offset": 545,
+    "offset": 497,
     "text": "is equal to"
   },
   {
     "id": "p-095f58",
-    "offset": 558,
+    "offset": 510,
     "text": "All cases of A not being B are cases of C being D. This is a case of A not being B. .'. This is a case of C being D."
   },
   {
     "id": "p-ab616a",
-    "offset": 676,
+    "offset": 628,
     "text": "*Denial of Consequent* = Camestres."
   },
   {
     "id": "p-466a8e",
-    "offset": 713,
+    "offset": 665,
     "text": "Either A is E or C is D. C is not D. .'. A is B."
   },
   {
     "id": "p-7e2e68",
-    "offset": 763,
+    "offset": 715,
     "text": "is equal to"
   },
   {
-    "id": "p-fdf8ed",
-    "offset": 776,
-    "text": "If A is not B, C is D. C is not D. .'. A is B."
-  },
-  {
     "id": "p-7e2e68",
-    "offset": 824,
+    "offset": 728,
     "text": "is equal to"
   },
   {
     "id": "p-bafe24",
-    "offset": 837,
+    "offset": 741,
     "text": "All cases of A not being B are cases of C being D. This is not a case of C being D. .'. This is not a case of A being B."
   },
   {
     "id": "p-caa45a",
-    "offset": 959,
+    "offset": 863,
     "text": "§ 767. The other moods of the first and second figures can be obtained by varying the quality of the antecedent and consequent in the major premiss and reducing the quantity of the minor."
   },
   {
     "id": "p-65131b",
-    "offset": 1148,
+    "offset": 1052,
     "text": "§ 768. The invalid destructive moods correspond with the two invalid types of the partly conjunctive syllogism, and have the same fallacies of simple syllogism underlying them. Affirmation of the antecedent of a disjunctive is equivalent to the semi-conjunctive fallacy of denying the antecedent, and therefore involves the ordinary syllogistic fallacy of illicit process of the major."
   },
   {
     "id": "p-faa2b0",
-    "offset": 1535,
+    "offset": 1439,
     "text": "Affirmation of the consequent of a disjunctive is equivalent to the same fallacy in the semi-conjunctive form, and therefore involves the ordinary syllogistic fallacy of undistributed middle."
   },
   {
     "id": "p-d0784c",
-    "offset": 1728,
+    "offset": 1632,
     "text": "*Affirmation of Antecedent* = *Illicit Major*."
   },
   {
     "id": "p-a7c998",
-    "offset": 1776,
+    "offset": 1680,
     "text": "Either A is B or C is D. A is B. .'. C is not D."
   },
   {
     "id": "p-7e2e68",
-    "offset": 1826,
+    "offset": 1730,
     "text": "is equal to"
   },
   {
-    "id": "p-7a0a57",
-    "offset": 1839,
-    "text": "If A is not B, C is D. A is B. .'. C is not D."
-  },
-  {
     "id": "p-7e2e68",
-    "offset": 1887,
+    "offset": 1743,
     "text": "is equal to"
   },
   {
     "id": "p-b8ec36",
-    "offset": 1900,
+    "offset": 1756,
     "text": "All cases of A not being B are cases of C being D. This is not a case of A not being B. .'. This is not a case of C not being D."
   },
   {
     "id": "p-59986a",
-    "offset": 2030,
+    "offset": 1886,
     "text": "*Affirmation of Consequent* = *Undistributed Middle*."
   },
   {
     "id": "p-6922c8",
-    "offset": 2085,
+    "offset": 1941,
     "text": "Either A is B or C is D. C is D."
   },
   {
     "id": "p-7e2e68",
-    "offset": 2119,
+    "offset": 1975,
     "text": "is equal to"
   },
   {
     "id": "p-4a285e",
-    "offset": 2132,
+    "offset": 1988,
     "text": "If A is not B, C is D. C is D."
   },
   {
     "id": "p-7e2e68",
-    "offset": 2164,
+    "offset": 2020,
     "text": "is equal to"
   },
   {
     "id": "p-aa56f4",
-    "offset": 2177,
+    "offset": 2033,
     "text": "All cases of A not being B are cases of C being D. This is a case of C being D."
   },
   {
     "id": "p-6d96c4",
-    "offset": 2258,
+    "offset": 2114,
     "text": "§ 769. So far as regards the consequent, the two species of complex reasoning hitherto discussed are identical both in appearance and reality. The apparent difference of procedure in the case of the antecedent, namely, that it is affirmed in the partly conjunctive, but denied in the disjunctive syllogism, is due merely to the fact that in the disjunctive proposition the truth of the consequent is involved in the falsity of the antecedent, so that the antecedent being necessarily negative, to deny it in appearance is in reality to assert it."
   }
 ]

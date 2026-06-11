@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 505
+word_count: 480
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -25,8 +25,6 @@ translator: Project Gutenberg edition
 § 600. By the application of the preceding rules we are enabled to reduce the 64 possible moods to 11 valid ones. This may be done by a longer or a shorter method. The longer method, which is perhaps easier of comprehension, is to write down the 64 possible moods, and then strike out such as violate any of the rules of syllogism.
 
 AAA -AEA- -AIA- -AOA- -AAE- AEE -AIE- -AOE- AAI -AEI- AII -AOI- -AAO- AEO -AIO- AOO
-
--EAA- -EEA- -EIA- -EOA- EAE -EEE- -EIE- -EOE- -EAI- -EEI- -EII- -EOI- EAO -EEO- EIO -EOO-
 
 § 601. The batches which are crossed are those in which the premisses can yield no conclusion at all, owing to their violating Rule 6 or 9; in the rest the premises are legitimate, but a wrong conclusion is drawn from each of them as are translineated.
 
@@ -41,8 +39,6 @@ AAA. AAI. AEE. AEO. AII. AOO. EAE. EAO. EIO. IAI. OAO.
 § 604. We will now arrive at the same result by a shorter and more scientific method. This method consists in first determining what pairs of premisses are valid in accordance with Rules 6 and g, and then examining what conclusions may be legitimately inferred from them in accordance with the other rules of syllogism.
 
 § 605. The major premiss may be either A, E, I or O. If it is A, the minor also may be either A, E, I or O. If it is E, the minor can only be A or I. If it is I, the minor can only be A or E. If it is O, the minor can only be A. Hence there result 9 valid pairs of premisses.
-
-AA. AE. AI. AO. EA. EI. IA. IE. OA.
 
 Three of these pairs, namely AA, AE, EA, yield two conclusions apiece, one universal and one particular, which do not violate any of the rules of syllogism; one of them, IE, yields no conclusion at all; the remaining five have their conclusion limited to a single proposition, on the principle that the conclusion must follow the weaker part. Hence we arrive at the same result as before, of II legitimate moods--
 

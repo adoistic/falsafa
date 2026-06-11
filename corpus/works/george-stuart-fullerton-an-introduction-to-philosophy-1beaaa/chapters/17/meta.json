@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+  "work_title": "An Introduction to Philosophy",
+  "chapter_number": 17,
+  "chapter_title": "Chapter XVII",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f774e5e-d648-5c4a-a78c-46d0d4ac9ca3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1733,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/16406"
+    }
+  ]
+}

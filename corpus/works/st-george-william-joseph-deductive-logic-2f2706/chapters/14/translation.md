@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 617
+word_count: 549
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -30,15 +30,11 @@ A complex syllogism, which has for its major premiss a disjunctive proposition, 
 
 *Constructive Moods.*
 
-(1) Either A is B or C is D. (2) Either A is B or C is D. A is not B. C is not D. .'. C is D. .'. A is B.
-
 Either death is annihilation or we are immortal. Death is not annihilation. .'. We are immortal.
 
 Either the water is shallow or the boys will be drowned. The boys are not drowned. .'. The water is shallow.
 
 *Destructive Moods*.
-
-(3) Either A is B or C is D. (4) Either A is B or C is D. A is B. C is D. .'. C is not D. .'. A is not B.
 
 § 763. Of these four, however, it is only the constructive moods that are formally conclusive. The validity of the two destructive moods is contingent upon the kind of alternatives selected. If these are such as necessarily to exclude one another, the conclusion will hold, but not otherwise. They are of course mutually exclusive whenever they embody the result of a correct logical division, as 'Triangles are either equilateral, isosceles or scalene.' Here, if we affirm one of the members, we are justified in denying the rest. When the major thus contains the dividing members of a genus, it may more fitly be symbolized under the formula, 'A is either B or C.' But as this admits of being read in the shape, 'Either A is B or A is C,' we retain the wider expression which includes it. Any knowledge, however, which we may have of the fact that the alternatives selected in the major are incompatible must come to us from material sources; unless indeed we have confined ourselves to a pair of contradictory terms (A is either B or not-B). There can be nothing in the form of the expression to indicate the incompatibility of the alternatives, since the same form is employed when the alternatives are palpably compatible. When, for instance, we say, 'A successful student must be either talented or industrious,' we do not at all mean to assert the positive incompatibility of talent and industry in a successful student, but only the incompatibility of their negatives--in other words, that, if both are absent, no student can be successful. Similarly, when it is said, 'Either your play is bad or your luck is abominable,' there is nothing in the form of the expression to preclude our conceiving that both may be the case.
 

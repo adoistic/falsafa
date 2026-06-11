@@ -13,12 +13,10 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 12442
+word_count: 12435
 source_url: "https://www.gutenberg.org/ebooks/12956"
 translator: Project Gutenberg edition
 ---
-
-THE EARLIER UPANI@SADS . (700 B.C.-600 B.C.)
 
 The place of the Upani@sads in Vedic literature.
 

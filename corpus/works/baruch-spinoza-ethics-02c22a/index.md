@@ -22,8 +22,8 @@ Ethics, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain te
 
 ## Chapters
 
-01. [Part II](./chapters/01/) — prose, 1 variant
-02. [Part III](./chapters/02/) — prose, 1 variant
-03. [Part IV](./chapters/03/) — prose, 1 variant
-04. [Part V](./chapters/04/) — prose, 1 variant
-05. [Part I — I showed in general terms, that all things (and](./chapters/05/) — prose, 1 variant
+01. [Part I — CONCERNING GOD](./chapters/01/) — prose, 1 variant
+02. [Part II](./chapters/02/) — prose, 1 variant
+03. [Part III](./chapters/03/) — prose, 1 variant
+04. [Part IV](./chapters/04/) — prose, 1 variant
+05. [Part V](./chapters/05/) — prose, 1 variant

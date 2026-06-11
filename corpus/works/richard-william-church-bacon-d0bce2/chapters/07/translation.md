@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6439
+word_count: 6433
 source_url: "https://www.gutenberg.org/ebooks/13888"
 translator: Project Gutenberg edition
 ---
@@ -55,8 +55,6 @@ But the tide had turned against him for good. A few fair words, a few grudging d
 Bacon was undoubtedly an impoverished man, and straitened in his means; but this must be understood as in relation to the rank and position which he still held, and the work which he wanted done for the *Instauratio*. His will, dated a few months before his death, shows that it would be a mistake to suppose that he was in penury. He no doubt often wanted ready money, and might be vexed by creditors. But he kept a large household, and was able to live in comfort at Gray's Inn or at Gorhambury. A man who speaks in his will of his "four coach geldings and his best caroache," besides many legacies, and who proposes to found two lectures at the universities, may have troubles about debts and be cramped in his expenditure, but it is only relatively to his station that he can be said to be poor. And to subordinate officers of the Treasury who kept him out of his rights, he could still write a sharp letter, full of his old force and edge. A few months before his death he thus wrote to the Lord Treasurer Ley, who probably had made some difficulty about a claim for money:
 
 "MY LORD,--I humbly entreat your Lordship, and (if I may use the word) advise your Lordship to make me a better answer. Your Lordship is interested in honour, in the opinion of all that hear how I am dealt with. If your Lordship malice me for Long's cause, surely it was one of the justest businesses that ever was in Chancery. I will avouch it; and how deeply I was tempted therein, your Lordship knoweth best. Your Lordship may do well to think of your grave as I do of mine; and to beware of hardness of heart. And as for fair words, it is a wind by which neither your Lordship nor any man else can sail long. Howsoever, I am the man that shall give all due respects and reverence to your great place.
-
-"20th June, 1625. FR. ST. ALBAN."
 
 Bacon always claimed that he was not "vindicative." But considering how Bishop Williams, when he was Lord Keeper, had charged Bacon with "knavery" and "deceiving his creditors" in the arrangements about his fine, it is not a little strange to find that at the end of his life Bacon had so completely made friends with him that he chose him as the person to whom he meant to leave his speeches and letters, which he was "willing should not be lost," and also the charge of superintending two foundations of £200 a year for Natural Science at the universities. And the Bishop accepted the charge.
 

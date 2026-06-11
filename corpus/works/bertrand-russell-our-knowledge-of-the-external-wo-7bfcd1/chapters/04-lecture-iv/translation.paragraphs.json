@@ -145,148 +145,148 @@
     "text": "If we wish to assign a date exactly by means of events, how shall we proceed? If we take any one event, we cannot assign our date exactly, because the event is not instantaneous, that is to say, it may be simultaneous with two events which are not simultaneous with each other. In order to assign a date exactly, we must be able, theoretically, to determine whether any given event is before, at, or after this date, and we must know that any other date is either before or after this date, but not simultaneous with it. Suppose, now, instead of taking one event A, we take two events A and B, and suppose A and B partly overlap, but B ends before A ends. Then an event which is simultaneous with both A and B must exist during the time when A and B overlap; thus we have come rather nearer to a precise date than when we considered A and B alone. Let C be an event which is simultaneous with both A and B, but which ends before either A or B has ended. Then an event which is simultaneous with A and B and C must exist during the time when all three overlap, which is a still shorter time. Proceeding in this way, by taking more and more events, a new event which is dated as simultaneous with all of them becomes gradually more and more accurately dated. This suggests a way by which a completely accurate date can be defined."
   },
   {
-    "id": "p-97cf58",
+    "id": "p-c40bf6",
     "offset": 31827,
-    "text": "A____________________"
+    "text": "A"
   },
   {
-    "id": "p-53e386",
-    "offset": 31850,
-    "text": "B____________________"
+    "id": "p-c70bfb",
+    "offset": 31830,
+    "text": "B"
   },
   {
-    "id": "p-67485a",
-    "offset": 31873,
-    "text": "C________"
+    "id": "p-c60bf9",
+    "offset": 31833,
+    "text": "C"
   },
   {
     "id": "p-855a0b",
-    "offset": 31884,
+    "offset": 31836,
     "text": "Let us take a group of events of which any two overlap, so that there is some time, however short, when they all exist. If there is any other event which is simultaneous with all of these, let us add it to the group; let us go on until we have constructed a group such that no event outside the group is simultaneous with all of them, but all the events inside the group are simultaneous with each other. Let us define this whole group as an instant of time. It remains to show that it has the properties we expect of an instant."
   },
   {
     "id": "p-7fe6d5",
-    "offset": 32415,
+    "offset": 32367,
     "text": "What are the properties we expect of instants? First, they must form a series: of any two, one must be before the other, and the other must be not before the one; if one is before another, and the other before a third, the first must be before the third. Secondly, every event must be at a certain number of instants; two events are simultaneous if they are at the same instant, and one is before the other if there is an instant, at which the one is, which is earlier than some instant at which the other is. Thirdly, if we assume that there is always some change going on somewhere during the time when any given event persists, the series of instants ought to be compact, *i.e.* given any two instants, there ought to be other instants between them. Do instants, as we have defined them, have these properties?"
   },
   {
     "id": "p-8a2087",
-    "offset": 33230,
+    "offset": 33182,
     "text": "We shall say that an event is \"at\" an instant when it is a member of the group by which the instant is constituted; and we shall say that one instant is before another if the group which is the one instant contains an event which is earlier than, but not simultaneous with, some event in the group which is the other instant. When one event is earlier than, but not simultaneous with another, we shall say that it \"wholly precedes\" the other. Now we know that of two events which are not simultaneous, there must be one which wholly precedes the other, and in that case the other cannot also wholly precede the one; we also know that, if one event wholly precedes another, and the other wholly precedes a third, then the first wholly precedes the third. From these facts it is easy to deduce that the instants as we have defined them form a series."
   },
   {
     "id": "p-f396eb",
-    "offset": 34080,
+    "offset": 34032,
     "text": "We have next to show that every event is \"at\" at least one instant, *i.e.* that, given any event, there is at least one class, such as we used in defining instants, of which it is a member. For this purpose, consider all the events which are simultaneous with a given event, and do not begin later, *i.e.* are not wholly after anything simultaneous with it. We will call these the \"initial contemporaries\" of the given event. It will be found that this class of events is the first instant at which the given event exists, provided every event wholly after some contemporary of the given event is wholly after some *initial* contemporary of it."
   },
   {
     "id": "p-5f4686",
-    "offset": 34726,
+    "offset": 34678,
     "text": "Finally, the series of instants will be compact if, given any two events of which one wholly precedes the other, there are events wholly after the one and simultaneous with something wholly before the other. Whether this is the case or not, is an empirical question; but if it is not, there is no reason to expect the time-series to be compact."
   },
   {
     "id": "p-698cdf",
-    "offset": 35072,
+    "offset": 35024,
     "text": "The assumptions made concerning time-relations in the above are as follows:--"
   },
   {
     "id": "p-a40453",
-    "offset": 35151,
+    "offset": 35103,
     "text": "I. In order to secure that instants form a series, we assume:"
   },
   {
     "id": "p-e47b17",
-    "offset": 35214,
+    "offset": 35166,
     "text": "(a) No event wholly precedes itself. (An \"event\" is defined as whatever is simultaneous with something or other.)"
   },
   {
     "id": "p-db2021",
-    "offset": 35329,
+    "offset": 35281,
     "text": "(b) If one event wholly precedes another, and the other wholly precedes a third, then the first wholly precedes the third."
   },
   {
     "id": "p-9bd408",
-    "offset": 35453,
+    "offset": 35405,
     "text": "(c) If one event wholly precedes another, it is not simultaneous with it."
   },
   {
     "id": "p-34d533",
-    "offset": 35528,
+    "offset": 35480,
     "text": "(d) Of two events which are not simultaneous, one must wholly precede the other."
   },
   {
     "id": "p-07738a",
-    "offset": 35610,
+    "offset": 35562,
     "text": "II. In order to secure that the initial contemporaries of a given event should form an instant, we assume:"
   },
   {
     "id": "p-2f9a0d",
-    "offset": 35718,
+    "offset": 35670,
     "text": "(e) An event wholly after some contemporary of a given event is wholly after some *initial* contemporary of the given event."
   },
   {
     "id": "p-324b7f",
-    "offset": 35844,
+    "offset": 35796,
     "text": "III. In order to secure that the series of instants shall be compact, we assume:"
   },
   {
     "id": "p-858711",
-    "offset": 35926,
+    "offset": 35878,
     "text": "(f) If one event wholly precedes another, there is an event wholly after the one and simultaneous with something wholly before the other."
   },
   {
     "id": "p-17ffe7",
-    "offset": 36065,
+    "offset": 36017,
     "text": "This assumption entails the consequence that if one event covers the whole of a stretch of time immediately preceding another event, then it must have at least one instant in common with the other event; *i.e.* it is impossible for one event to cease just before another begins. I do not know whether this should be regarded as inadmissible. For a mathematico-logical treatment of the above topics, *cf.* N. Wilner, \"A Contribution to the Theory of Relative Position,\" _Proc. Camb. Phil. Soc._, xvii. 5, pp. 441-449."
   },
   {
     "id": "p-a4e7f8",
-    "offset": 36583,
+    "offset": 36535,
     "text": "Thus our definition of instants secures all that mathematics requires, without having to assume the existence of any disputable metaphysical entities."
   },
   {
     "id": "p-19b07d",
-    "offset": 36735,
+    "offset": 36687,
     "text": "Instants may also be defined by means of the enclosure-relation, exactly as was done in the case of points. One object will be temporally enclosed by another when it is simultaneous with the other, but not before or after it. Whatever encloses temporally or is enclosed temporally we shall call an \"event.\" In order that the relation of temporal enclosure may be a \"point-producer,\" we require (1) that it should be transitive, *i.e.* that if one event encloses another, and the other a third, then the first encloses the third; (2) that every event encloses itself, but if one event encloses another different event, then the other does not enclose the one; (3) that given any set of events such that there is at least one event enclosed by all of them, then there is an event enclosing all that they all enclose, and itself enclosed by all of them; (4) that there is at least one event. To ensure infinite divisibility, we require also that every event should enclose events other than itself. Assuming these characteristics, temporal enclosure is an infinitely divisible point-producer. We can now form an \"enclosure-series\" of events, by choosing a group of events such that of any two there is one which encloses the other; this will be a \"punctual enclosure-series\" if, given any other enclosure-series such that every member of our first series encloses some member of our second, then every member of our second series encloses some member of our first. Then an \"instant\" is the class of all events which enclose members of a given punctual enclosure-series."
   },
   {
     "id": "p-3efd7c",
-    "offset": 38303,
+    "offset": 38255,
     "text": "The correlation of the times of different private worlds so as to produce the one all-embracing time of physics is a more difficult matter. We saw, in Lecture III., that different private worlds often contain correlated appearances, such as common sense would regard as appearances of the same \"thing.\" When two appearances in different worlds are so correlated as to belong to one momentary \"state\" of a thing, it would be natural to regard them as simultaneous, and as thus affording a simple means of correlating different private times. But this can only be regarded as a first approximation. What we call one sound will be heard sooner by people near the source of the sound than by people further from it, and the same applies, though in a less degree, to light. Thus two correlated appearances in different worlds are not necessarily to be regarded as occurring at the same date in physical time, though they will be parts of one momentary state of a thing. The correlation of different private times is regulated by the desire to secure the simplest possible statement of the laws of physics, and thus raises rather complicated technical problems; but from the point of view of philosophical theory, there is no very serious difficulty of principle involved."
   },
   {
     "id": "p-27ab0d",
-    "offset": 39571,
+    "offset": 39523,
     "text": "The above brief outline must not be regarded as more than tentative and suggestive. It is intended merely to show the kind of way in which, given a world with the kind of properties that psychologists find in the world of sense, it may be possible, by means of purely logical constructions, to make it amenable to mathematical treatment by defining series or classes of sense-data which can be called respectively particles, points, and instants. If such constructions are possible, then mathematical physics is applicable to the real world, in spite of the fact that its particles, points, and instants are not to be found among actually existing entities."
   },
   {
     "id": "p-2d46ef",
-    "offset": 40230,
+    "offset": 40182,
     "text": "The problem which the above considerations are intended to elucidate is one whose importance and even existence has been concealed by the unfortunate separation of different studies which prevails throughout the civilised world. Physicists, ignorant and contemptuous of philosophy, have been content to assume their particles, points, and instants in practice, while conceding, with ironical politeness, that their concepts laid no claim to metaphysical validity. Metaphysicians, obsessed by the idealistic opinion that only mind is real, and the Parmenidean belief that the real is unchanging, repeated one after another the supposed contradictions in the notions of matter, space, and time, and therefore naturally made no endeavour to invent a tenable theory of particles, points, and instants. Psychologists, who have done invaluable work in bringing to light the chaotic nature of the crude materials supplied by unmanipulated sensation, have been ignorant of mathematics and modern logic, and have therefore been content to say that matter, space, and time are \"intellectual constructions,\" without making any attempt to show in detail either how the intellect can construct them, or what secures the practical validity which physics shows them to possess. Philosophers, it is to be hoped, will come to recognise that they cannot achieve any solid success in such problems without some slight knowledge of logic, mathematics, and physics; meanwhile, for want of students with the necessary equipment, this vital problem remains unattempted and unknown."
   },
   {
     "id": "p-a4a0e5",
-    "offset": 41790,
+    "offset": 41742,
     "text": "There are, it is true, two authors, both physicists, who have done something, though not much, to bring about a recognition of the problem as one demanding study. These two authors are Poincare and Mach, Poincare especially in his *Science and Hypothesis*, Mach especially in his *Analysis of Sensations*. Both of them, however, admirable as their work is, seem to me to suffer from a general philosophical bias. Poincare is Kantian, while Mach is ultra-empiricist; with Poincare almost all the mathematical part of physics is merely conventional, while with Mach the sensation as a mental event is identified with its object as a part of the physical world. Nevertheless, both these authors, and especially Mach, deserve mention as having made serious contributions to the consideration of our problem."
   },
   {
     "id": "p-14479a",
-    "offset": 42595,
+    "offset": 42547,
     "text": "When a point or an instant is defined as a class of sensible qualities, the first impression produced is likely to be one of wild and wilful paradox. Certain considerations apply here, however, which will again be relevant when we come to the definition of numbers. There is a whole type of problems which can be solved by such definitions, and almost always there will be at first an effect of paradox. Given a set of objects any two of which have a relation of the sort called \"symmetrical and transitive,\" it is almost certain that we shall come to regard them as all having some common quality, or as all having the same relation to some one object outside the set. This kind of case is important, and I shall therefore try to make it clear even at the cost of some repetition of previous definitions."
   },
   {
     "id": "p-af137c",
-    "offset": 43402,
+    "offset": 43354,
     "text": "A relation is said to be \"symmetrical\" when, if one term has this relation to another, then the other also has it to the one. Thus \"brother or sister\" is a \"symmetrical\" relation: if one person is a brother or a sister of another, then the other is a brother or sister of the one. Simultaneity, again, is a symmetrical relation; so is equality in size. A relation is said to be \"transitive\" when, if one term has this relation to another, and the other to a third, then the one has it to the third. The symmetrical relations mentioned just now are also transitive--provided, in the case of \"brother or sister,\" we allow a person to be counted as his or her own brother or sister, and provided, in the case of simultaneity, we mean complete simultaneity, *i.e.* beginning and ending together."
   },
   {
     "id": "p-6a4007",
-    "offset": 44195,
+    "offset": 44147,
     "text": "But many relations are transitive without being symmetrical--for instance, such relations as \"greater,\" \"earlier,\" \"to the right of,\" \"ancestor of,\" in fact all such relations as give rise to series. Other relations are symmetrical without being transitive--for example, difference in any respect. If A is of a different age from B, and B of a different age from C, it does not follow that A is of a different age from C. Simultaneity, again, in the case of events which last for a finite time, will not necessarily be transitive if it only means that the times of the two events overlap. If A ends just after B has begun, and B ends just after C has begun, A and B will be simultaneous in this sense, and so will B and C, but A and C may well not be simultaneous."
   },
   {
     "id": "p-d3276b",
-    "offset": 44961,
+    "offset": 44913,
     "text": "All the relations which can naturally be represented as equality in any respect, or as possession of a common property, are transitive and symmetrical--this applies, for example, to such relations as being of the same height or weight or colour. Owing to the fact that possession of a common property gives rise to a transitive symmetrical relation, we come to imagine that wherever such a relation occurs it must be due to a common property. \"Being equally numerous\" is a transitive symmetrical relation of two collections; hence we imagine that both have a common property, called their number. \"Existing at a given instant\" (in the sense in which we defined an instant) is a transitive symmetrical relation; hence we come to think that there really is an instant which confers a common property on all the things existing at that instant. \"Being states of a given thing\" is a transitive symmetrical relation; hence we come to imagine that there really is a thing, other than the series of states, which accounts for the transitive symmetrical relation. In all such cases, the class of terms that have the given transitive symmetrical relation to a given term will fulfil all the formal requisites of a common property of all the members of the class. Since there certainly is the class, while any other common property may be illusory, it is prudent, in order to avoid needless assumptions, to substitute the class for the common property which would be ordinarily assumed. This is the reason for the definitions we have adopted, and this is the source of the apparent paradoxes. No harm is done if there are such common properties as language assumes, since we do not deny them, but merely abstain from asserting them. But if there are not such common properties in any given case, then our method has secured us against error. In the absence of special knowledge, therefore, the method we have adopted is the only one which is safe, and which avoids the risk of introducing fictitious metaphysical entities."
   }
 ]

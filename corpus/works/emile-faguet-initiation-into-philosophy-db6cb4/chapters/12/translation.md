@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2380
+word_count: 2370
 source_url: "https://www.gutenberg.org/ebooks/9304"
 translator: Project Gutenberg edition
 ---
@@ -151,5 +151,3 @@ Xenocrates Xenophanes Xenophon
 Z
 
 Zeno (of Citium) Zeno (of Elea) Zoroaster
-
-End of Project Gutenberg's Initiation into Philosophy, by Emile Faguet

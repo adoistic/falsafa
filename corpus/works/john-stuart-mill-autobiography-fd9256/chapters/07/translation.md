@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 22874
+word_count: 22872
 source_url: "https://www.gutenberg.org/ebooks/10378"
 translator: Project Gutenberg edition
 ---
@@ -145,8 +145,6 @@ The steps in my mental growth for which I was indebted to her were far from bein
 The only person from whom I received any direct assistence in the preparation of the *System of Logic* was Mr. Bain, since so justly celebrated for his philosophical writings. He went carefully through the manuscript before it was sent to the press, and enriched it with a great number of additional examples and illustrations from science; many of which, as well as some detached remarks of his own in confirmation of my logical views, I inserted nearly in his own words.
 
 A few dedicatory lines acknowledging what the book owed to her, were prefixed to some of the presentation copies of the *Political Economy* on iets first publication. Her dislike of publicity alone prevented their insertion in the other copies of the work. During the years which intervened between the commencement of my married life and the catastrophe which closed it, the principal occurrences of my outward existence (unless I count as such a first attack of the family disease, and a consequent journey of more than six months for the recovery of health, in Italy, Sicily, and Greece) had reference to my position in the India House. In 1856 I was promoted to the rank of chief of the office in which I had served for upwards of thirty-three years. The appointment, that of Examiner of India Correspondence, was the highest, next to that of Secretary, in the East India Company's home service, involving the general superintendence of all the correspondence with the Indian Governments, except the military, naval, and financial. I held this office as long as it continued to exist, being a little more than two years; after which it pleased Parliament, in other words Lord Palmerston, to put an end to the East india Company as a branch of the government of India under the Crown, and convert the administration of that country into a thing to be scrambled for by the second and third class of English parliamentary politicians. I was the chief manager of the resistance which the Company made to their own political extinction, and to the letters and petitions I wrote for them, and the concluding chapter of my treatise on Representative Government, I must refer for my opinions on the folly and mischief of this ill-considered change. Personally I considered myself a gainer by it, as I had given enough of my life to india, and was not unwilling to retire on the liberal compensation granted. After the change was consummated, Lord Stanley, the first Secretary of State for India, made me the honourable offer of a seat in the Council, and the proposal was subsequently renewed by the Council itself, on the first occasion of its having to supply a vacancy in its own body. But the conditions of Indian government under the new system made me anticipate nothing but useless vexation and waste of effort from any participation in it: and nothing that has since happened has had any tendency to make me regret my refusal.
-
-In 1869.
 
 The saying of this true hero, after his capture, that he was worth more for hanging than any other purpose, reminds one, by its combination of wit, wisdom, and self-devotion, of Sir Thomas More.
 

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1209
+word_count: 1200
 source_url: "https://www.gutenberg.org/ebooks/1232"
 translator: Project Gutenberg edition
 ---
@@ -35,5 +35,3 @@ It is necessary, therefore, if we desire to discuss this matter thoroughly, to i
 If Moses, Cyrus, Theseus, and Romulus had been unarmed they could not have enforced their constitutions for long—as happened in our time to Fra Girolamo Savonarola, who was ruined with his new order of things immediately the multitude believed in him no longer, and he had no means of keeping steadfast those who believed or of making the unbelievers to believe. Therefore such as these have great difficulties in consummating their enterprise, for all their dangers are in the ascent, yet with ability they will overcome them; but when these are overcome, and those who envied them their success are exterminated, they will begin to be respected, and they will continue afterwards powerful, secure, honoured, and happy.
 
 To these great examples I wish to add a lesser one; still it bears some resemblance to them, and I wish it to suffice me for all of a like kind: it is Hiero the Syracusan. This man rose from a private station to be Prince of Syracuse, nor did he, either, owe anything to fortune but opportunity; for the Syracusans, being oppressed, chose him for their captain, afterwards he was rewarded by being made their prince. He was of so great ability, even as a private citizen, that one who writes of him says he wanted nothing but a kingdom to be a king. This man abolished the old soldiery, organized the new, gave up old alliances, made new ones; and as he had his own soldiers and allies, on such foundations he was able to build any edifice: thus, whilst he had endured much trouble in acquiring, he had but little in keeping.
-
-Hiero II, born about 307 B.C., died 216 B.C.

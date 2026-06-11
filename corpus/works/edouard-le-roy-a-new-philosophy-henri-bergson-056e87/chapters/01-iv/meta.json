@@ -1,0 +1,26 @@
+{
+  "work_slug": "edouard-le-roy-a-new-philosophy-henri-bergson-056e87",
+  "work_title": "A New Philosophy: Henri Bergson",
+  "chapter_number": 1,
+  "chapter_title": "IV",
+  "chapter_slug": "01-iv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ad3535e-9597-5908-85b5-409fb69674cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4748,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1347"
+    }
+  ]
+}

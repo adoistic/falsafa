@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 54833
+word_count: 54079
 source_url: "https://www.gutenberg.org/ebooks/32168"
 translator: Project Gutenberg edition
 ---
@@ -386,10 +386,6 @@ Bibliography
 
 LECTURE I
 
-Plato (B. C. 427-347), Republic.
-
-----, Laws.
-
 Translations in Jowett's Plato. The translation of the Republic is published separately.
 
 Pseudo-Plato, Minos.
@@ -400,13 +396,9 @@ Aristotle (B. C. 384-322), Nicomachean Ethics.
 
 Convenient translation by Browne in Bohn's Libraries.
 
-----, Politics.
-
 Translation by Jowett should be used.
 
 Reference may be made to Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, §§ 13-16 (World's Legal Philosophies, 46-77); Hildenbrand, Geschichte und System der Rechts- und Staatsphilosophie, §§ 1-121.
-
-Cicero (B. C. 106-43), De Legibus.
 
 Reference may be made to Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, §§ 17-20 (World's Legal Philosophies, 78-92); Hildenbrand, Geschichte und System der Rechts- und Staatsphilosophie, §§ 131-135, 143-147; Voigt, Das Ius Naturale, aequum et bonum und Ius Gentium der Römer, I, §§ 16, 35-41, 44-64, 89-96.
 
@@ -474,8 +466,6 @@ A convenient reprint is published by the Clarendon Press.
 
 ----, Theory of Legislation. (Originally published in French, 1820). Translated by Hildreth (1864), and in many editions.
 
-Mill, On Liberty (1859).
-
 Courtney's edition (1892) is convenient.
 
 Reference may be made to Duff, Spinoza's Political and Ethical Philosophy; Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, § 28 (World's Legal Philosophies, 134-141); Dicey, Law and Public Opinion in England, Lect. 6; Albee, History of English Utilitarianism; Stephen, The English Utilitarians; Solari, L'idea individuale e l'idea sociale nel diritto privato, §§ 31-36.
@@ -516,8 +506,6 @@ Reference may be made to the appendices to Jhering, Law as a Means to an End, tr
 
 Stammler, Ueber die Methode der geschichtlichen Rechtstheorie (1888).
 
-----, Wirthschaft und Recht (1896, 2 ed. 1905).
-
 ----, Die Gesetzmässigkeit in Rechtsordnung und Volkswirthschaft (1902).
 
 ----, Lehre von dem rechtigen Rechte (1902).
@@ -557,8 +545,6 @@ Duguit, L'état, le droit objectif et la loi positive (1901).
 ----, Le droit social, le droit individuel et la transformation de l'état (2 ed. 1911).
 
 ----, Les transformations générales du droit privé (1912). Translated in Continental Legal History Series, Vol. XI, ch. 3.
-
-----, Law and the State (1917).
 
 Reference may be made to Modern French Legal Philosophy (1916) in the Modern Legal Philosophy Series; Jung, Das Problem des natürlichen Rechts (1912).
 
@@ -754,8 +740,6 @@ See Kohler, Lehrbuch des bürgerlichen Rechts, I, §§ 38-40; Austin, Jurisprude
 
 LECTURE IV
 
-Holmes, Collected Papers, 49-116 (1920).
-
 Baty, Vicarious Liability (1916).
 
 Hasse, Die Culpa des römischen Rechts (2 ed. 1838).
@@ -790,13 +774,9 @@ Maine, Ancient Law, ch. 8.
 
 ----, Early History of Institutions (American ed.), 98-118.
 
-----, Early Law and Custom (American ed.), 335-361.
-
 Duguit, in Progress of the Law in the Nineteenth Century (Continental Legal History Series, Vol. XI), 129-146.
 
 Wagner, Volkswirthschaft und Recht, besonders Vermögensrecht (1894).
-
-Perreau, Cours d'économie politique, II, §§ 623-695 (1916).
 
 De la Grasserie, Les principes sociologiques du droit civil, ch. 3.
 
@@ -832,8 +812,6 @@ Piccione, Concetto positivo del diritto di proprietà (1890).
 
 Velardita, La proprietà secondo la sociologia (1898).
 
-Grotius, De jure belli et pacis, II, 3, 1-5, II, 6, 1 and 14, § 1.
-
 Pufendorf, De jure naturae et gentium, IV, 4, §§ 2-6, 14.
 
 Locke, On Government, ch. 5.
@@ -865,8 +843,6 @@ Kant, Metaphysische Anfangsgründe der Rechtslehre (2 ed.), §§ 18-21.
 Hegel, Grundlinien der Philosophie des Rechts, §§ 71-81.
 
 Richte, Grundlage des Naturrechts, §§ 18-20.
-
-Williston, Contracts, I, §§ 99-204.
 
 Ames, The History of Assumpsit, 2 Harvard Law Review, 1, 53.
 
@@ -914,39 +890,21 @@ Anglo-Saxon Law 148
 
 Application of Law 100 ff. agencies of individualizing 129-138 analytical 123-125 equitable 122, 126-129 historical 125-126 latitude of 120, 129 margin of 112 rules 142 theories of 123-129
 
-Aquilian *culpa* 156, 159, 162
-
 Aquinas, St. Thomas 25-26
 
 Aristotle 25, 38, 76, 82, 138 on application of law 109-110 threefold classification of governmental powers 15
 
-Austin, John 172-174, 259
-
 Bacon 258
-
-Bailment 170, 270, 275
 
 Bartolus 37
 
-Baty, T. 166
-
-Bentham 54, 84
-
 Bergson 141
 
-Bills of Rights 43, 53, 216
-
 Binding 164
-
-Blackstone 26, 180, 208, 268, 278
-
-Buckland, W. W. 161
 
 Callings, restrictions on engaging in 88
 
 Camden, Lord 119
-
-Canon law 252, 254
 
 Carrier, liability of 186
 
@@ -954,23 +912,11 @@ Casuists 254
 
 Catholic jurist-theologians 39
 
-*Causa* 259 *civilis* 248, 250, 251 *debendi* 251, 254, 255
-
-Causation 162, 164
-
-Certainty 142-143
-
 Change, reconciliation with stability 30, 38
-
-Cicero 27, 30, 31, 117
 
 Civilization, as a measure of value 98 jural postulates of, 56, 169-179, 284
 
-Civil law, 237-240
-
 Classes, social, 91
-
-Codification, 46-47, 139-140
 
 Coke, Sir Edward, 133
 
@@ -979,8 +925,6 @@ Commentators, the, 37
 Common Law, the, and legislation, 139-140 professional view as to, 278 types of delictal liability in, 168
 
 Community property, 229
-
-Composition, 149, 241-242
 
 Compromises, 94-95
 
@@ -991,8 +935,6 @@ Conditions "implied in law", 259
 Conduct, application of law to, 137-139 expectations arising from, 189
 
 Consciousness, as starting point, 84
-
-Consideration, 240, 258-259, 267, 268, 271-273, 278-279 adequacy of, 273-274 circumstances keeping doctrine alive, 278-282 in equity, 258-259, 277 meanings of, 276-277 meritorious, 259
 
 Contract analogy of real transactions, 242 Anglo-American law of, 257-259 anomalies in law of, 282 bargain theory of, 269, 271-273 by estoppel, 187 categories of, 248 civil-law enforcement of, 238-240 common-law categories of, 274-275 common-law enforcement of, 240 consensual, 249 equivalent theory of, 255-256, 257-259, 269, 273-277 Fichte's theory of, 261-262 formal, 245-271 Hegel's theory of, 263 historical background of law of, 241 ff. historical category of, 172 historical theory of, 266-269 injurious-reliance theory of, 261 innominate, 249, 261 Kant's theory of, 261 metaphysical theories of, 260-265 natural-law theory of, 260 "natural principle of", 45-46 objective theory of, 264-265 oral, 282 philosophy of, 253 philosophical theories of, 241 positive theory of, 265 real, 249, 275 religious origins of, 242-247, 252 Roman categories of, 45, 253, 260, 266 Romanist theory of, 263-265 simple, 275 specific enforcement of, 238-240 Spencer's theory of, 265 subjective theory of, 271 theory of basis in personality, 263-265 theory of inherent moral force, 259-260, 261 third-party beneficiaries of, 273 will theory of, 264-265, 269-271, 281-282
 
@@ -1006,13 +948,7 @@ Courts, contest with Crown, 53
 
 Culpability 158 as basis of liability 184 fiction of 158, 178
 
-Custody 222-223
-
 D'Aguesseau 254
-
-Debt 174, 244, 275
-
-Defamation 280, 281
 
 Delicts, equitable 159 historical category of 172 nominate 162, 169-170, 175
 
@@ -1024,31 +960,15 @@ Derivative acquisition 207
 
 Derry v. Peek 281
 
-Dicey, A. V. 184
-
 Digest of Justinian 107
-
-Discovery 195, 201
-
-Discretion 117, 119, 129 margin of 132 of the chancellor 130-133 relation of to rule 112, 141-143
 
 Dispensing power 113
 
 Distributions, Statute of 142
 
-Division of labor 56, 176, 191
-
 Doctor and Student 252, 259
 
 Doe, Chief Justice 185
-
-*Dolus* 156, 159, 169, 175
-
-*Dominium* 199, 225
-
-Due care 170, 175 standard of 119-120
-
-Duguit, L. 98, 232
 
 Dumoulin 39
 
@@ -1078,25 +998,15 @@ Equitable application of law 122, 126-129
 
 Equities 121
 
-Equity 28, 47, 57, 59, 117, 130-133, 137-138, 258-259, 271 and natural law 41, 102, 112, 114, 153, 178 of the tribunal 102 provision for a child as consideration in 272, 274 securing a creditor as consideration in 272 settlement on a wife as consideration in 272, 274 will not aid a volunteer 272
-
 Ethical interpretation 266
 
-*Familia* 200
-
 Fichte, theory of contract 261-262
-
-Fictions 102-108, 115 dogmatic 179, 180, 274 of culpability 178-179 of negligence 179 of representation 166, 179 of undertaking 171
 
 *Fiducia cum amico* 249
 
 Fifth Amendment 51
 
-Finding law 100, 104-105
-
 Form and intention 154-155
-
-Formal contracts, 245, 271, 275 historical origin of, 245-247
 
 Formal undertaking, 155
 
@@ -1108,8 +1018,6 @@ Fortescue, 38
 
 Fourteenth Amendment, 51
 
-Freedom of contract, 191, 265, 267-269
-
 Freedom of industry, 191
 
 French Civil Code, 48, 162, 163 law of delictal liability, 167-168 monarchy, legal theory under, 64
@@ -1118,37 +1026,21 @@ Functional attitude, 91
 
 Generalizations, 145
 
-General security, 72, 96, 149-150, 171, 175, 176, 179, 193, 282 how infringed, 177
-
-Germanic law, 36, 41, 79, 251, 254
-
 Gifts, reformation of, 273
 
 Gloss, The, 37
 
 Glossators, 40
 
-Good faith, 153, 155, 157, 170 corollaries of, 188-189
-
-Gray, J. C., 102
-
 Greek city, problem of order in, 75 security of social institutions in, 75
 
-Greek law, 20-27, 151, 175
-
 Greek philosophers, conception of the end of law, 35, 74-77 conception of the nature of law, 81 conception of the general security, 74 on subjects of litigation, 97, 241
-
-Grotius, 196, 205-207, 260
 
 Hammurapi, 60
 
 Hard bargains, 132
 
-Hegel, 84, 216, 274 theory of contract, 262 theory of property, 214-216
-
 Heraditus, 76
-
-Hindu law, 226-227, 243-245
 
 Hippodamus, 241
 
@@ -1164,13 +1056,9 @@ Household, partition of, 226-227
 
 Husband and wife, 188 matrimonial property regime, 229
 
-*Hybris*, 77
-
 Idealism, juridical, 41-42, 91
 
 Idealistic interpretation, 266
-
-*Imperium*, 199
 
 "Implied" undertakings, 158, 171
 
@@ -1183,8 +1071,6 @@ Individual life, 96
 Inheritance, 139
 
 Innkeeper, liability of, 186
-
-Insult, 151
 
 Intention, 189 as source of liability, 157
 
@@ -1200,8 +1086,6 @@ Jessel, Sir George 268
 
 Judicial, contrasted with administrative 108
 
-Jural postulates 169-179, 188, 192-193, 193-194, 237, 249, 284
-
 Juridical idealism 41-42, 91
 
 Jurisconsults 30, 43-44
@@ -1214,10 +1098,6 @@ Jurists, metaphysical 52, 68 search for the more inclusive order 145 seventeenth
 
 Jurist-theologians 39 Spanish 81-82, 83
 
-Jury 129, 133-134 lawlessness of 138
-
-*Jus* 31
-
 *Jus disponendi* 221
 
 Just, the, by nature or by convention 25, 27, 31, 55
@@ -1226,29 +1106,19 @@ Justice, Aristotle on 25, 77 definition of in the Institutes 77 executive 137 id
 
 Justinian, Institutes of 77-78
 
-Kant 84, 202, 219, 260 theory of contract 260-261 theory of property 210-214
-
 Kenyon, Lord 47
 
 Kin organization 74
 
 *Laesio enormis* 274
 
-Langdell, C. C. 259
-
 Law, adjustment with administration 137 and morals 27, 30, 41, 111, 112 application of 100 ff. as an aggregate of rules 110 as a body of agreements 63 as a body of commands 64 as a body of divinely ordained rules 60 as a keeping of the peace 72-74 as a reflection of divine reason 63 as a system of principles 62, 66 as custom 61, 62 as declaratory of economic or social laws 67-68 as precepts discovered by experience 65 as recorded traditional wisdom 61 as restraint on liberty 60 as rules imposed by dominant class 66 as standing between the individual and society 53 as unfolding an idea of right 65 basis of authority of 19, 23-24, 27, 28-29, 38, 69-72 Byzantine theory of 110 distinguished from rules of law 24 elements of 115-116 end of 35-36, 59 ff. effectiveness of 193 finding 100, 104-105 forms of 27-28 government of 136 historical theory of 65, 68 how far made 107-108 idea of self-sufficiency of 17, 67 judge made 35 jurist made 35 maturity of 48, 59, 102 merchant 155, 271, 275 nature of 59, 91, 111 nature of theories of 68-69 political theory of 68 restatement of the 282 science of 101 soft spots in the 282 theories of the nature of 60-68
 
 Law making, judicial 105 presuppositions of 59
 
-Legal standards 51, 114, 116-120, 129, 141
-
 Legal transactions 153 *bonae fidei* 248 categories of 247 formal 249 *stricti iuris* 248
 
 Lending 150
-
-Letters of credit 275, 276-277
-
-*Lex* 31
 
 *Lex Aquilia* 159
 
@@ -1270,29 +1140,17 @@ Maine, Sir Henry 208
 
 Mandate 272
 
-Mansfield, Lord 47, 260, 262, 273
-
 Manu 60
-
-Maturity of law 48, 59, 102
 
 Maxims 34
 
 Metaphysical jurists 92
 
-*Metus* 159
-
 Middle Ages, conception of end of law in 78-80 idea of law in 77-81 juristic need in 36
-
-Miller, W. G. 216-217
-
-Mining customs 195 law 201, 222
 
 Minos (pseudo-Platonic dialogue) 24
 
 Mosaic law 60
-
-*Mutuum* 249
 
 Narada 244
 
@@ -1300,13 +1158,9 @@ Nationalism in law 39
 
 Natural, meaning of in philosophy of law 31-32
 
-Natural law 25, 31, 35, 40, 41, 45-52, 55, 154, 166, 209, 253, 278, 280 American variant of 50 as a theory of growth 33-34 as deduced from "a free government" 52 as ideal critique 52 economic 205 theory of 42
-
 Natural obligation 250
 
 Natural reason 202
-
-Natural rights 15, 42-43, 55, 83, 92-93, 146, 204, 205 historical-metaphysical theory of 52 theories of 44-45 to produce of labor 209
 
 Nature, meaning of in Greek philosophy 31-32 state of 45
 
@@ -1314,21 +1168,15 @@ Necessary distinctions 172, 174
 
 Negative community 207
 
-Negligence 119-120, 165, 168, 177, 179, 270, 280 fiction of 179, 180 in speaking 280, 281 *per se* 179
-
 Neo-Hegelians 94, 98
 
 Neo-Kantians 93, 98
 
 New York, Code of Civil Procedure 105
 
-*Nexum* 249
-
 *Nomos*, meanings of 22
 
 Noxal liability 159
-
-*Nudum pactum* 246, 254, 273, 280
 
 Oaths and vows 251
 
@@ -1338,21 +1186,11 @@ Occupation 196, 211 as a legal transaction 213-214
 
 Office or calling, duties attached to 173
 
-Options 272, 274
-
 Ownership, analytical theory of 222-224 development of the idea of 221-231 dogma that everything must be owned 199 things excluded from 199
 
 *Pacta donationis* 272
 
-Pacts 248, 250, 261, 275
-
-Partition 226-227, 228
-
 Part performance 282
-
-Paul, St. 77
-
-*Peculium* 227-228
 
 *Pecunia credita* 249
 
@@ -1368,13 +1206,9 @@ Personality 191
 
 Pessimism, juristic 57
 
-Petty courts 130, 138
-
 Philosophers, attempt to unify law and law making 19 attempt to reconcile authority with need of change 19 quest for an ultimate solving idea 19
 
 Philosophical thinking, achievements of in law 16-18 as a force in administration of justice 16 needs determining as to law 18 possibilities of in law of contracts 284
-
-Plato 24, 76
 
 Pledge 251
 
@@ -1392,8 +1226,6 @@ Primitive law 72-74 faith of in verbal formulas 154
 
 Primogeniture 50
 
-Principles 34, 53, 116
-
 Procedure 111
 
 Proculians 196
@@ -1402,23 +1234,15 @@ Promised advantages 191
 
 Promises, abstract 255, 262, 263 an element in wealth 236 exchange of 254 "from ostentation" 256, 280, 281 moral duty to keep 262 philosophical theory of enforcing 283 simple 275 theories of enforcing 269-276 theory of inherent force of 259-260
 
-Promissory oath 150-151, 251
-
 Property, acquisition of 194-200, 204 analytical theory of 221-224 basis in creation 209 basis in division by agreement 205 basis in economic nature of man 205, 209 community 229 effectiveness of law as to 193 Grotius' theory of 205-207 Hegel's theory of 214-216 historical development of law of 224-232 historical theory of 219, 221-232 household 226-227, 229 inequalities in 215, 221 in natural media of life 201-202 jural postulates of 193, 194 Kant's theory of 210-214 law of 141 Lorimer's theory of 218 medieval theory of 202 metaphysical theories of 210-218 modes of acquiring 194-202 "natural" acquisition of 195 natural-law theories of 204-210 natural limits of right of 195 negative community in 207 philosophical theories of 194 ff. positive theory of 219-221 psychological theory of 209, 23, 234 restrictions on appropriation of 88 restrictions on use and disposition of 87-88 self-acquired 227-228 seventeenth-century theory of 202 socialization of 233 social-utilitarian theory of 225 sociological theories of 232 Spencer's theory of 219 theories of 202-225 theory of in Anglo-American law 208 theory of in antiquity 202 things not subject to 197 titles to 195-197, 211 twentieth-century theories of 232
 
 Protestant jurist-theologians 39
-
-Psychology 90, 94, 279-280
 
 Publicists, French 110
 
 Public utilities 117, 136 exemption of from competition 88-89 power to contract 187
 
-Pufendorf 207-208
-
 Punitive justice 111 individualization of 134-135
-
-Quasi-delict 161, 162
 
 *Ratio legis*, doctrine of 32, 46
 
@@ -1428,15 +1252,11 @@ Reform movement, legislative 47, 85
 
 Relations 171 duties attached to 173 economic value of 192 interference with 192 legal protection of 193
 
-Release 272, 274
-
 Religion 242 ff.
 
 Reparation 149
 
 Representation 179
-
-*Res communes* 197, 198, 199, 207, 210 *extra commercium* 197, 201, 216, 217 *ipsa loquitur* 180, 185-186 *nullius* 199, 205 *publicae* 198, 210 *religipsae* 198 *ruinosa* 162-163 *sacrae* 198 *sanctae* 198
 
 Responsibility at one's peril 167
 
@@ -1446,25 +1266,15 @@ Rights, *in personam* 146 *in rem* 147
 
 Roman conception of end of law 77-78 jurisconsults 30, 43
 
-Roman law 26, 36, 41, 45, 105-106, 145, 151, 155, 170, 173-174, 195, 199, 200, 225, 228, 245-250, 254, 275 as basis of medieval law 40 as basis of law in XVII and XVIII centuries 41 contribution of to legal philosophy 36
-
 Rousseau 214
 
 Rules 115-116 adapted to commercial transactions 141 adapted to property 141 and discretion 141-143 application of 142 as guides 121 mechanical application of 142-143
 
-Rylands v. Fletcher 168, 182-186
-
 Sabinians 196
-
-Sale 249
 
 Satisfaction of wants, as an ideal 98-99
 
-Savigny, F. C. von 213
-
 Scholastic philosophy 36 permanent contribution of 38
-
-Seals 240, 271, 275 contract under seal 255
 
 Security of transactions 193, 237
 
@@ -1473,10 +1283,6 @@ Seisin 225
 Self help 73
 
 Seller's talk 280
-
-Separation of powers 102-103, 107
-
-Set off 250
 
 Social contract 204
 
@@ -1512,13 +1318,9 @@ Sovereignty, Byzantine theory of 40
 
 Specification 195
 
-Specific performance 131-132, 238-240
-
 Spencer, Herbert 84, 97, 201, 265 his law of equal freedom 219 his theory of property 219-221
 
 Spirit and letter 154
-
-Standards, legal 51, 114, 116-120, 129, 141
 
 *Stare decisis* 140
 
@@ -1531,8 +1333,6 @@ Statute of Uses 277
 Stipulation 246 of counsel 273, 274
 
 Stoics 197
-
-Strict law 33, 101, 112-113, 153, 155, 165, 280
 
 Substance, interests of 139, 225
 
@@ -1550,8 +1350,6 @@ Title, by creation 195 by discovery 195 by occupation 196, 211 "natural" 195
 
 "Tort of negligence" 105
 
-Torts 283 development of liability for 164-167 generalization of liability for 167 law of 117, 167 nominate 164, 165, 170, 175, 283
-
 *Traditio* 249
 
 Trust, constructive 173 gratuitous declaration of 272, 274
@@ -1564,15 +1362,9 @@ Utilitarians 267, 268
 
 Utility 53
 
-Value, criteria of 89, 95-99
-
 Vrihaspati 243
 
-Waiver 272, 274
-
 Wants, as juristic starting point 89-90 limitations on satisfaction of 97-98 satisfaction of 89-90
-
-Warranties 174, 249
 
 Whale fishing 195
 
@@ -1582,8 +1374,6 @@ Will theory 189 of contract 264-265
 
 Williston, S. 282
 
-Wills, harmonizing of 84, 90, 92-93
-
 Workman's compensation 167
 
 STORRS LECTURES
@@ -1591,8 +1381,6 @@ STORRS LECTURES
 PUBLISHED BY YALE UNIVERSITY PRESS
 
 THE REFORM OF LEGAL PROCEDURE. By Moorfield Storey. THE JUDICIARY AND THE PEOPLE. By Frederick N. Judson. CONCERNING JUSTICE. By Lucilius A. Emery. WOMAN'S SUFFRAGE BY CONSTITUTIONAL AMENDMENT. By Henry St. George Tucker. THE NATURE OF THE JUDICIAL PROCESS. By Benjamin N. Cardozo.
-
-TRANSCRIBER'S NOTES
 
 1. Passages in italics are surrounded by *underscores*.
 

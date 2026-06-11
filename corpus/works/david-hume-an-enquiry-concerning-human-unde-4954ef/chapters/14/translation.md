@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5424
+word_count: 5313
 source_url: "https://www.gutenberg.org/ebooks/9662"
 translator: Project Gutenberg edition
 ---
@@ -48,8 +48,6 @@ Abstraction not source of ideas of primary qualities, 122.
 
 Academic philosophy, 34.
 
-Action and philosophy, 1, 4, 34, 128;
-
 Addition 4.
 
 Analogy a species of, the foundation of all reasoning about matter of fact, 82;
@@ -60,8 +58,6 @@ Antiquity 62.
 
 Appearances to senses must be corrected by reason, 117.
 
-A priori 25, 36 n, 89 n, 132, 132 n.
-
 Aristotle 4.
 
 Association of ideas, three principles of, 18-19, 41-44 (v. *Cause* C).
@@ -69,8 +65,6 @@ Association of ideas, three principles of, 18-19, 41-44 (v. *Cause* C).
 Atheism 116.
 
 Bacon 99.
-
-Belief (v. *Cause* C, 39-45); and chance, 46.
 
 Berkeley really a sceptic, 122 n.
 
@@ -98,8 +92,6 @@ C. *Belief*, 39-45. Belief differs from fiction or the loose reveries of the fan
 
 Belief produced by a majority of chances by an inexplicable contrivance of Nature, 46 (cf. 87-8); probability of causes: the failure of a cause ascribed to a secret counteracting cause, 47 (cf. 67); it is universally allowed that chance when strictly examined is a mere negative word, 74.
 
-D. *Power*, 49-57.
-
 Power, force, energy, necessary connexion must either be defined by analysis or explained by production of the impression from which they are copied, 49; from the first appearance of an object we cannot foretell its effect: we cannot see the power of a single body: we only see sequence, 50.
 
 Is the idea of power derived from an internal impression and is it an idea of reflection? 51; it is not derived, as Locke said, from reasoning about power of production in nature, 50 n; nor from consciousness of influence of will over bodily organs, 52; nor from effort to overcome resistance, 52 n (cf. 60 n); nor from influence of will over mind, 53; many philosophers appeal to an invisible intelligent principle, to a volition of the supreme being, and regard causes as only occasions and our mental conceptions as revelations, 54-5; thus diminishing the grandeur of God, 56; this theory too bold and beyond verification by our faculties, and is no explanation, 57; vis inertiae, 57 n.
@@ -109,8 +101,6 @@ In single instances we only see sequence of loose events which are conjoined and
 E. *Reasoning from effect to cause and conversely*, 105-115 (v. *Providence*).
 
 In arguing from effect to cause we must not infer more qualities in the cause than are required to produce the effect, nor reason backwards from an inferred cause to new effects, 105-8; we can reason back from cause to new effects in the case of human acts by analogy which rests on previous knowledge, 111-2; when the effect is entirely singular and does not belong to any species we cannot infer its cause at all, 115.
-
-F. *Definitions of Cause*, 60 (cf. 74 n).
 
 Ceremonies 41.
 
@@ -135,8 +125,6 @@ Contrary of matter of fact always possible, 21, 132.
 Creation 132 n.
 
 Criticism 132.
-
-Cudworth 57 n, 158 n.
 
 Custom when strongest conceals itself, 24; an ultimate principle of all conclusions from experience, 36, 127; and belief, 39-45; gives rise to inferences of animals, 84.
 
@@ -172,8 +160,6 @@ Infallible, may be regarded as proof, 87 (v. *Miracles*); all the philosophy and
 
 Extension 50; a supposed primary quality, 122.
 
-Faith 101, 132.
-
 Fiction and fact (v. *Cause* C), 39 f.
 
 Future inference to, from past, 29 (v. *Cause* A).
@@ -190,8 +176,6 @@ Veracity of, appealed to, 120.
 
 And creation of matter, 132 n.
 
-v. *Providence*, 102-115; *Scepticism*, 116-132.
-
 Golden age, 107.
 
 Gravity 26.
@@ -202,11 +186,7 @@ History use of, 65.
 
 Human nature, inconstancy a constant character of, 68.
 
-Ideas A. *Origin of*, 11-17.
-
 Perceptions divided into impressions and ideas, 11-12; the mind can only compound the materials derived from outward or inward sentiment, 13 (cf. 53); all ideas resolvable into simple ideas copied from precedent feelings, 14; deficiency in an organ of sensation produces deficiency in corresponding idea, 15-16; suspected ideas to be tested by asking for the impression from which it is derived, 17 (cf. 49); idea of reflection, 51; general ideas, 135 n; innate ideas, 19 n; power of will over ideas, 53.
-
-B. *Association of*, 18-19.
 
 Ideas introduce each other with a certain degree of method and regularity, 18; only three principles of association, viz. Resemblance, Contiguity, and Cause or Effect, 19; contrariety, 19 n; production of belief by these principles, 41-43.
 
@@ -256,11 +236,7 @@ Metaphysics not a science, 5-6; how inferior and superior to mathematics, 48.
 
 Mind mental geography, 8; secret springs and principles of, 9; can only mix and compound materials given by inward and outward sentiment, 13; power of will over, 53.
 
-Miracles. 86-101.
-
 Belief in human evidence diminishes according as the event witnessed is unusual or extraordinary, 89; difference between extraordinary and miraculous, 89 n; if the evidence for a miracle amounted to proof we should have one proof opposed by another proof, for the proof against a miracle is as complete as possible; an event is not miraculous unless there is a uniform experience, that is a proof, against it, 90; definition of miracle, 90 n; hence no testimony is sufficient to establish a miracle unless its falsehood would be more miraculous than the event it establishes, 91; as a fact the evidence for a miracle has never amounted to proof, 92; the passion for the wonderful in human nature, 93; prevalence of miracles in savage and early periods and their diminution with civilization, 94; the evidence for miracles in matters of religion opposed by the almost infinite number of witnesses for rival religions, 95; value of human testimony diminished by temptation to pose as a prophet or apostle, 97; no testimony for a miracle has ever amounted to a probability, much less to a proof, and if it did amount to a proof it would be opposed by another perfect proof, 98; so a miracle can never be proved so as to be the foundation of a system of religion, 99; a conclusion which confounds those who base the Christian religion on reason, not on faith, 100; the Christian religion cannot be believed without a miracle which will subvert the principle of a man's understanding and give him a determination to believe what is most contrary to custom and experience, 101.
-
-Moral evil (q.v.) 80.
 
 Moral science 30; inferior to mathematics, 48; sceptical objections to, 126-7.
 
@@ -285,8 +261,6 @@ Objection that doctrine of necessity and of a regular chain of causes either mak
 Negative inconceivability of, 132.
 
 Newton 57 n.
-
-Nisus 52 n, 60 n.
 
 Number the object of demonstration, 131.
 
@@ -314,8 +288,6 @@ Happiness of, to have originated in an age and country of freedom and toleration
 
 Points physical, indivisible, 124 n.
 
-Power 50 f, 60 n. (v. *Cause* D).
-
 Probability 46 f. (v. *Cause*, B).
 
 Probable arguments, 38, 46 n.
@@ -323,10 +295,6 @@ Probable arguments, 38, 46 n.
 Production 50 n.
 
 Promises not the foundation of justice, 257.
-
-Proof 46 n, 86-101 (v. *Miracles*, *Demonstrative*).
-
-Providence 102-115 (v. *God*).
 
 The sole argument for a divine existence is from the marks of design in nature; must not infer greater power in the cause than is necessary to produce the observed effects, nor argue from such an inferred cause to any new effects which have not been observed, 105; so must not infer in God more power, wisdom, and benevolence than appears in nature, 106; so it is unnecessary to try and save the honour of the Gods by assuming the intractability of matter or the observance of general laws, 107; to argue from effects to unknown causes, and then from these causes to unknown effects, is a gross sophism, 108.
 
@@ -360,8 +328,6 @@ Of men and animals, 84 n.
 
 Two kinds of, demonstrative and moral, 30, 46 n, 132; moral, divided into general and particular, 132; produces demonstrations, proofs, and probabilities, 46 n.
 
-Probable (v. *Cause*, 28-32).
-
 Relations of ideas, discoverable by the mere operation of thought, independently of the existence of any object, 20.
 
 Religion a kind of philosophy, 113 (v. *Miracles, Providence*).
@@ -374,13 +340,9 @@ Scepticism A. antecedent to study and philosophy, such as Descartes' universal d
 
 No such absurd creature as a man who has no opinion about anything at all, 116; admits of no answer and produces no conviction, 122 n. (cf. 34, 126, 128).
 
-B. *As to the Senses*, 117-123.
-
 The ordinary criticisms of our senses only show that they have to be corrected by Reason, 117; more profound arguments show that the vulgar belief in external objects is baseless, and that the objects we see are nothing but perceptions which are fleeting copies of other existences, 118; even this philosophy is hard to justify; it appeals neither to natural instinct, nor to experience, for experience tells nothing of objects which perceptions resemble, 119; the appeal to the *veracity of God* is useless, 120; and scepticism is here triumphant, 121.
 
 *The distinction between primary and secondary qualities* is useless, for the supposed primary qualities are only perceptions, 122; and Berkeley's theory that ideas of primary qualities are obtained by abstraction is impossible, 122, 122 n; if matter is deprived of both primary and secondary qualities there is nothing left except a mere something which is not worth arguing about, 123.
-
-C. *As to Reason*, 124-130.
 
 Attempt to destroy Reason by reasoning extravagant, 124; objection to *abstract reasoning* because it asserts infinite divisibility of extension which is shocking to common sense, 124, and infinite divisibility of time, 125; yet the ideas attacked are so clear and distinct that scepticism becomes sceptical about itself, 125.
 
@@ -408,8 +370,6 @@ Space and time, 124 f.
 
 Species an effect which belongs to no species does not admit of inference to its cause, 115 (cf. 113).
 
-Stoics 34, 79.
-
 Superstition 6 (v. *Providence*).
 
 Theology science of, 132 (v. *God*, *Providence*).
@@ -417,8 +377,6 @@ Theology science of, 132 (v. *God*, *Providence*).
 Tillotson argument against real presence, 86.
 
 Time and space, 124 f.
-
-Truth 8, 17 (v. *Scepticism*).
 
 Understanding limits of human, 7; operations of, to be classified, 8; opp. experience, 28; weakness of, 126 (v. *Reason*, *Scepticism*).
 

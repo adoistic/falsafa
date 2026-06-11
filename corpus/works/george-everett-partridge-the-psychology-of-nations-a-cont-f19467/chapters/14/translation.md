@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 4097
+word_count: 3761
 source_url: "https://www.gutenberg.org/ebooks/20814"
 translator: Project Gutenberg edition
 ---
@@ -246,11 +246,7 @@ The following list contains the titles of a few books and articles that have con
 
 99. H.A. Gibbons, The New Map of Europe.
 
-100. F.C. Howe, Why War?
-
 INDEX
-
-AEsthetic, elements in war, 70-77; in education, 230, 315-318
 
 Aggressive instinct, 40-45
 
@@ -260,37 +256,19 @@ Anger, 14
 
 Autocracy and democracy, 104
 
-Bergson, 36, 101, 110
-
 Biological principles, 3 ff.
-
-Bourdon, 90, 129
-
-Boutroux, 55, 101, 236
 
 Boy Scouts, 198
 
 British Labor Party, 273
 
-Burnet, 311
-
 Cannibalism, 13-14
-
-Causes in war, 97-109
 
 Chapman, 52
 
 Christianity, 307
 
-City, moods, 188, 278; school, 190
-
-Civics, 264
-
-Claes, 129
-
 Cleveland, 260
-
-Cobden, 137
 
 Collier, 90
 
@@ -302,21 +280,11 @@ Conscientious objectors, 200
 
 Consciousness of kind, 8
 
-Cramb, 75, 256
-
 Creative activity, 283
-
-Darwin, 111
 
 Death, 71
 
-Democracy, 232, 253 ff.; spirit of, 185-191
-
 Dickinson, 261
-
-Dide, 52
-
-Dillon, 102, 272
 
 Display, 74
 
@@ -332,15 +300,7 @@ Economic factors, 128-141
 
 Economy, 275
 
-Ecstasy, 23, 64
-
 Educational problems, 161-167
-
-Empire, 148
-
-England, 123, 244
-
-Fear, 14, 41
 
 Ferrero, 52
 
@@ -348,23 +308,13 @@ Feudalism, 35
 
 Finance, 134
 
-French, The, 24, 55, 244
-
 Freudians, 20
 
 Future, The, viii
 
-Germany, 34, 43, 50, 55, 89, 98, 106, 115, 124, 126, 198, 239, 245
-
 Gibbs, 54
 
 Government, 242 ff.; functions of, 251
-
-Hatred, 46-52
-
-Herd, The, 4, 10, 18, 57, 62
-
-Heroes, 234
 
 Hintze, 99
 
@@ -376,27 +326,15 @@ History, teaching of, 173, 266
 
 Hobhouse, 101
 
-Hobson, 260
-
 Hocking, 167
-
-Home-love, 81, 216
 
 Homogeneity of species, 60
 
-Howe, 135, 136
-
 Hullquist, 137
-
-Humanism, 309, 314
 
 Humanities, 312
 
-Industrialism, 33, 134, 220
-
 Industry, and education, 269-289; the higher, 184
-
-Instincts, 4-5, 28, 38-69
 
 Institutional factors in war, 125
 
@@ -406,33 +344,17 @@ Internationalism, 168-196
 
 Intoxication motive, 31
 
-James, 266
-
-Japanese, 90, 119
-
 Jones, 21
-
-Justice, 205, 311
 
 Lamprecht, 34
 
 Land hunger, 131
-
-Leadership, 84, 142, 176
-
-Le Bon, 3, 18, 102, 111, 119, 129, 135, 244
 
 Lehmann, 237
 
 Loyalty, 228; to leaders, 231
 
 M'Cabe, 9
-
-MacCurdy, 48, 56, 58, 201
-
-Mach, 135
-
-Marot, 284
 
 Militarism, 197 ff.
 
@@ -454,19 +376,11 @@ National, character study, 224; desires, 175; honor, 88-96
 
 Nationalism, 79-96; and internationalism, 105
 
-Nicolai, 3, 19, 56, 70, 78, 129, 217
-
 Nietzsche, 110
-
-Novicow, 19, 137
-
-Noyes, 271
 
 Nusbaum, 45
 
 Nutritional motive, 38
-
-Objectives, 140, 143
 
 O'Ryan and Anderson, 45
 
@@ -474,23 +388,11 @@ Ostwald, 98
 
 Pacifists, 200
 
-Patriotism, 79-96, 211-241; elements of, 80, 215
-
-Patten, 115
-
-Peace, 197 ff.; ideals of, vi, 205
-
 Pessimism, 43
 
 Pfister, 45
 
 Philosophical, attitude, 194; influences in war, 110-116
-
-Political, education, 242-268; factors, 142-152; ideals, 235
-
-Power, motive of, 29, 130
-
-Powers, 130
 
 Practical interests, 180-183
 
@@ -526,17 +428,11 @@ Religion and education, 305-308
 
 Religious influences in war, 117-127
 
-Reproductive motive, 38, 66, 73, 76
-
 Reuter, Frau, 51
 
 Reversion theories of war, 17-23
 
-Russell, 17, 167, 246, 305
-
 Savorgnan, 201
-
-Scheler, 7, 47
 
 Sciences, 314
 
@@ -544,11 +440,7 @@ Scientific movement, 112
 
 Selection, 5 ff.
 
-Sexes, 299
-
 Smith, 51
-
-Social, education, 282 ff. 290-304; feeling, 82; history, 301; instincts, 58; solidarity, 63
 
 Socialism, 259
 
@@ -556,36 +448,22 @@ Specialization, 281
 
 Stevens, 138
 
-Sumner, 121, 132
-
 Synthesis of causes, 153-157
 
 Thayer, 56
-
-Thrift, 285
 
 Tower, 98
 
 Tragedy, 71
 
-Trotter, 9, 18, 58, 233, 291, 295
-
 Unconscious motives, 17 ff.
 
 Universal language, 193
-
-Veblen, 46, 78, 137
 
 Venezelos, 151
 
 Von Buelow, 115
 
-War, as dramatic story, 22; motives of, vii, 13, 15; moods, 25 ff., 70 ff.; origin of, 3 ff.
-
 World, idea, 170; organization, 191
 
 Wundt, 90
-
-+-----------------------------------------------------------+ | Typographical errors corrected in text: | | | | Page 53: cooperative replaced with cooeperative | | Page 230: cooperation replaced with cooeperation | | Page 252: artistocratic replaced with aristocratic | | Page 272: cooperation replaced with cooeperation | | | | The author's inconsistent spelling of 'aesthetic' (70) | | versus 'aesthetic' (39) has been retained. | | | +-----------------------------------------------------------+
-
-End of Project Gutenberg's The Psychology of Nations, by G.E. Partridge

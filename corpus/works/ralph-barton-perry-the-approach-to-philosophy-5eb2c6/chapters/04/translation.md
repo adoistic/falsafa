@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6716
+word_count: 6673
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -140,12 +140,6 @@ FOOTNOTES:
 
 [150:1] The post-Kantian movement in Germany--especially in so far as influenced by Hegel. See Chap. XII.
 
-[151:2] Cf. § 203.
-
-[152:3] *E. g.*, the system of Fichte. Cf. § 177.
-
-[153:4] See Chap. XI.
-
 [153:5] Spinoza: *On the Improvement of the Understanding*. Translation by Elwes, p. 3.
 
 [154:6] Spinoza: *Ethics*, Part V, Proposition XLII. Translation by Elwes, p. 270.
@@ -158,13 +152,7 @@ FOOTNOTES:
 
 [159:10] No little ambiguity attaches to the term "monism" in current usage, because of its appropriation by those who maintain that the universe is unitary and homogeneous in *physical terms* (cf. § 108). It should properly be used to emphasize the unity of the world in any terms.
 
-[161:11] Burnet: *Op. cit.*, p. 358.
-
-[162:12] Burnet: *Op. cit.*, p. 284.
-
 [167:13] Plato: *Theætetus*, 161. Translation by Jowett. References to Plato are to the marginal paging.
-
-[168:14] Burnet: *Early Greek Philosophy*, pp. 184, 187.
 
 [171:15] Plato: *Theætetus*, 150 B. Translation by Jowett.
 
@@ -173,8 +161,6 @@ FOOTNOTES:
 The term *idealism* is sometimes applied to Plato on account of his designation of ideas as the ultimate realities. This would be a natural use of the term, but in our own day it has become inseparably associated with the doctrine which attributes to being a dependence upon the activity of mind. It is of the utmost importance to keep these two meanings clear. In the preferred sense Plato is a realist, and so opposed to idealism.
 
 The term *idealism* is further confused on account of its employment in literature and common speech to denote the control of ideals. Although this is a kindred meaning, the student of philosophy will gain little or no help from it, and will avoid confusion if he distinguishes the term in its technical use and permits it in that capacity to acquire an independent meaning.
-
-[175:17] See *note*, p. 173.
 
 [176:18] Berkeley: *Principles of Human Knowledge*, Part I, Fraser's edition, p. 259.
 

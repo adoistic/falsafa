@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 10859
+word_count: 10848
 source_url: "https://www.gutenberg.org/ebooks/4363"
 translator: Project Gutenberg edition
 ---
@@ -133,5 +133,3 @@ Midday of life! My second youth's delight! My summer's park! Unrestful joy to lo
 This song is done,--the sweet sad cry of rue Sang out its end; A wizard wrought it, he the timely friend, The midday-friend,--no, do not ask me who; At midday 'twas, when one became as two.
 
 We keep our Feast of Feasts, sure of our bourne, Our aims self-same: The Guest of Guests, friend Zarathustra, came! The world now laughs, the grisly veil was torn, And Light and Dark were one that wedding-morn.
-
-End of Project Gutenberg's Beyond Good and Evil, by Friedrich Nietzsche

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 145451
+word_count: 145441
 source_url: "https://www.gutenberg.org/ebooks/6798"
 translator: Project Gutenberg edition
 ---
@@ -1851,5 +1851,3 @@ Yet it is not rare for intelligent perversity to secure our favor by being the m
 Yet this propriety in vice can never be the source of a perfect pleasure, except when it is humiliated by morality. In that case it is an essential part of our pleasure, because it brings moral sense into stronger relief. The last impression left on us by the author of Clarissa is a proof of this. The intellectual propriety in the plan of Lovelace is greatly surpassed by the rational propriety of Clarissa. This allows us to feel in full the satisfaction caused by both.
 
 When the tragic poet has for object to awaken in us the feeling of moral propriety, and chooses his means skilfully for that end, he is sure to charm doubly the connoisseur, by moral and by natural propriety. The first satisfies the heart, the second the mind. The crowd is impressed through the heart without knowing the cause of the magic impression. But, on the other hand, there is a class of connoisseurs on whom that which affects the heart is entirely lost, and who can only be gained by the appropriateness of the means; a strange contradiction resulting from over-refined taste, especially when moral culture remains behind intellectual. This class of connoisseurs seek only the intellectual side in touching and sublime themes. They appreciate this in the justest manner, but you must beware how you appeal to their heart! The over-culture of the age leads to this shoal, and nothing becomes the cultivated man so much as to escape by a happy victory this twofold and pernicious influence. Of all other European nations, our neighbors, the French, lean most to this extreme, and we, as in all things, strain every nerve to imitate this model.
-
-End of Project Gutenberg's The Aesthetical Essays, by Frederich Schiller

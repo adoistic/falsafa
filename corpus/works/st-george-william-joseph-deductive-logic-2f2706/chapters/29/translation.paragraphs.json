@@ -405,753 +405,663 @@
     "text": "Argumentum ad hominem, etc., 867."
   },
   {
-    "id": "p-171afb",
-    "offset": 9037,
-    "text": "Art, 20."
-  },
-  {
     "id": "p-0db1a6",
-    "offset": 9047,
+    "offset": 9037,
     "text": "Attribute, 81 sqq. Essential and non-essential, 320."
   },
   {
     "id": "p-8ac505",
-    "offset": 9101,
+    "offset": 9091,
     "text": "Attributives, 88 sqq."
   },
   {
     "id": "p-479398",
-    "offset": 9124,
+    "offset": 9114,
     "text": "Basis of Division, 391."
   },
   {
     "id": "p-749cd4",
-    "offset": 9149,
+    "offset": 9139,
     "text": "Categorematic words, 71."
   },
   {
     "id": "p-0180a5",
-    "offset": 9175,
+    "offset": 9165,
     "text": "Circulus in definiendo, 382."
   },
   {
     "id": "p-d73acb",
-    "offset": 9205,
+    "offset": 9195,
     "text": "Common Terms, 105. how formed, 99. nature of, 48."
   },
   {
     "id": "p-bce2d1",
-    "offset": 9256,
+    "offset": 9246,
     "text": "Complex Proposition, 209. conversion of, 709. conversion by contraposition of, 728. conversion by negation of, 721. divided into conjunctive and disjunctive, 214. permutation of, 718."
   },
   {
     "id": "p-42ecb5",
-    "offset": 9441,
+    "offset": 9431,
     "text": "Complex Syllogism, 731. mixed form of, 778."
   },
   {
     "id": "p-081ca8",
-    "offset": 9486,
+    "offset": 9476,
     "text": "Composition, Fallacy of, 849."
   },
   {
-    "id": "p-e45245",
-    "offset": 9517,
-    "text": "Concept, 36, 40 sqq."
-  },
-  {
     "id": "p-8a374d",
-    "offset": 9539,
+    "offset": 9507,
     "text": "Conception, 33."
   },
   {
     "id": "p-2ba96f",
-    "offset": 9556,
+    "offset": 9524,
     "text": "Conceptualists, 51."
   },
   {
     "id": "p-7a344e",
-    "offset": 9577,
+    "offset": 9545,
     "text": "Conclusion, 540. predicate of, 542. subject of, 542."
   },
   {
     "id": "p-7e8e60",
-    "offset": 9631,
+    "offset": 9599,
     "text": "Conjunctive Syllogisms, 733. canon of, 742. reduction of partly, 744. partly conjunctive syllogisms as an immediate inference, 753."
   },
   {
     "id": "p-812770",
-    "offset": 9764,
+    "offset": 9732,
     "text": "Connotation of Terms, 148."
   },
   {
     "id": "p-3982d0",
-    "offset": 9792,
+    "offset": 9760,
     "text": "Consequent of a complex proposition, 213. of an inference, 428."
   },
   {
     "id": "p-d99017",
-    "offset": 9857,
+    "offset": 9825,
     "text": "Consequent, Fallacy of, 873."
   },
   {
     "id": "p-ddf513",
-    "offset": 9887,
+    "offset": 9855,
     "text": "Contingent, 17."
   },
   {
     "id": "p-b9bbfc",
-    "offset": 9904,
+    "offset": 9872,
     "text": "Contradiction, Law of, 25 sqq."
   },
   {
     "id": "p-cea4c6",
-    "offset": 9936,
+    "offset": 9904,
     "text": "Contradictory Propositions, 458. Terms, 129."
   },
   {
     "id": "p-464b44",
-    "offset": 9982,
+    "offset": 9950,
     "text": "Contrary Propositions, 458. Terms, 130."
   },
   {
     "id": "p-fe367f",
-    "offset": 10023,
+    "offset": 9991,
     "text": "Converse, 480."
   },
   {
     "id": "p-32b2e7",
-    "offset": 10039,
+    "offset": 10007,
     "text": "Conversion, 479. of complex propositions, 709. by contraposition, 516. illative, 481. by negation, 504. per accidens, 487. simple, 486. rules of, 482."
   },
   {
     "id": "p-8bc6eb",
-    "offset": 10191,
+    "offset": 10159,
     "text": "Convertend, 480."
   },
   {
-    "id": "p-57724e",
-    "offset": 10209,
-    "text": "Copula, 58, 64, 186 sqq. modality of, 196."
-  },
-  {
     "id": "p-da21d5",
-    "offset": 10253,
+    "offset": 10177,
     "text": "Correlatives, 142."
   },
   {
     "id": "p-627930",
-    "offset": 10273,
+    "offset": 10197,
     "text": "Deduction and Induction, difference of, 431 sqq."
   },
   {
     "id": "p-5f93a3",
-    "offset": 10323,
+    "offset": 10247,
     "text": "Deductive Inference, 442."
   },
   {
     "id": "p-bea58a",
-    "offset": 10350,
+    "offset": 10274,
     "text": "Deductive Logic, definition of, 4."
   },
   {
     "id": "p-b846bd",
-    "offset": 10386,
+    "offset": 10310,
     "text": "Definition of Terms, 347 sqq. of Aristotle ([Greek: òrismós]), 336. final, 374. nominal, 375. provisional, 374. real, 375. rules of, 378."
   },
   {
     "id": "p-995a3c",
-    "offset": 10525,
+    "offset": 10449,
     "text": "Denotation of Terms, 152."
   },
   {
     "id": "p-d6c64c",
-    "offset": 10552,
+    "offset": 10476,
     "text": "Description, 360."
   },
   {
     "id": "p-541db0",
-    "offset": 10571,
+    "offset": 10495,
     "text": "Designations, 112."
   },
   {
     "id": "p-ae4399",
-    "offset": 10591,
+    "offset": 10515,
     "text": "Determination, 167."
   },
   {
     "id": "p-d72846",
-    "offset": 10612,
+    "offset": 10536,
     "text": "Dictum de omni et nullo, 569. de diverso, 641. de exemplo et excepto, 642."
   },
   {
-    "id": "p-d50b19",
-    "offset": 10688,
-    "text": "Difference, 318, 358. generic, 410. specific, 409."
-  },
-  {
     "id": "p-98fcdf",
-    "offset": 10740,
+    "offset": 10612,
     "text": "Dilemma, 732, 779. rebutted, 792. reduction of, 796. regarded as an immediate inference, 798."
   },
   {
     "id": "p-7bbcac",
-    "offset": 10835,
+    "offset": 10707,
     "text": "Disjunctive Syllogism, 760. canon of, 765. reduction of, 766. regarded as an immediate inference, 770."
   },
   {
     "id": "p-43b4ed",
-    "offset": 10939,
+    "offset": 10811,
     "text": "Distinction, 424."
   },
   {
     "id": "p-9abbb5",
-    "offset": 10958,
+    "offset": 10830,
     "text": "Distribution of Terms, 274. four rules for, 293."
   },
   {
     "id": "p-6d5c17",
-    "offset": 11008,
+    "offset": 10880,
     "text": "Divided whole, 393."
   },
   {
     "id": "p-9cd464",
-    "offset": 11029,
+    "offset": 10901,
     "text": "Dividing members, 394."
   },
   {
     "id": "p-f543ac",
-    "offset": 11053,
+    "offset": 10925,
     "text": "Division, 385 sqq. by dichotomy, 412. rules of, 395."
   },
   {
     "id": "p-4a0bec",
-    "offset": 11107,
+    "offset": 10979,
     "text": "Division, Fallacy of, 851."
   },
   {
     "id": "p-8da06c",
-    "offset": 11135,
+    "offset": 11007,
     "text": "Division of Propositions, 206. of terms, 86. of things, 77."
   },
   {
     "id": "p-917662",
-    "offset": 11196,
+    "offset": 11068,
     "text": "Enthymeme, incorrectly so-called, 557."
   },
   {
-    "id": "p-ef3336",
-    "offset": 11236,
-    "text": "Enumeration, 387, 422."
-  },
-  {
     "id": "p-cd0362",
-    "offset": 11260,
+    "offset": 11108,
     "text": "Epicheirema, 803."
   },
   {
     "id": "p-514737",
-    "offset": 11279,
+    "offset": 11127,
     "text": "Episyllogism, 802."
   },
   {
     "id": "p-441840",
-    "offset": 11299,
+    "offset": 11147,
     "text": "'E' Propositions, 260. conversion of, 490."
   },
   {
     "id": "p-eabc46",
-    "offset": 11343,
+    "offset": 11191,
     "text": "Equivocation, Fallacy of, 845."
   },
   {
     "id": "p-5e23d0",
-    "offset": 11375,
+    "offset": 11223,
     "text": "Excluded Middle, Law of, 25 sqq., 502."
   },
   {
     "id": "p-d4e2d8",
-    "offset": 11415,
+    "offset": 11263,
     "text": "Extension of Terms, 149 sqq., 166 sqq."
   },
   {
     "id": "p-cbdf00",
-    "offset": 11455,
+    "offset": 11303,
     "text": "Fallacy, 827 sqq. of ambiguity, 831. definition of, 828. formal, 838. logical, 836. material, 831, 836. of undisturbed middle, 585."
   },
   {
     "id": "p-747259",
-    "offset": 11588,
+    "offset": 11436,
     "text": "Figure of Speech, Fallacy of, 857."
   },
   {
     "id": "p-0cf874",
-    "offset": 11624,
+    "offset": 11472,
     "text": "Figures, of a Syllogism, 558. special canons of, 633. special rules of, 606. special uses of, 648."
   },
   {
     "id": "p-7f3a0b",
-    "offset": 11724,
+    "offset": 11572,
     "text": "Formal Logic, 16."
   },
   {
     "id": "p-d17e4e",
-    "offset": 11743,
+    "offset": 11591,
     "text": "Four Terms, Fallacy of, 840."
   },
   {
     "id": "p-ffc93b",
-    "offset": 11773,
+    "offset": 11621,
     "text": "Fundamentum Divisionis, 391."
   },
   {
     "id": "p-e98b71",
-    "offset": 11803,
+    "offset": 11651,
     "text": "Generalisation, 168."
   },
   {
-    "id": "p-ba1e79",
-    "offset": 11825,
-    "text": "Genus, 318. as used by Aristotle, 336. cognate, 408. proximate, 420. subaltern, 406. summum, 167, 404."
-  },
-  {
     "id": "p-963dba",
-    "offset": 11929,
+    "offset": 11673,
     "text": "Heads of Predicables, 313. as given by Aristotle, 336."
   },
   {
     "id": "p-7c6ad4",
-    "offset": 11985,
+    "offset": 11729,
     "text": "'Ideas' of Plato, 52."
   },
   {
     "id": "p-44e939",
-    "offset": 12008,
+    "offset": 11752,
     "text": "Identity, Law of, 25 sqq."
   },
   {
     "id": "p-98ed00",
-    "offset": 12035,
+    "offset": 11779,
     "text": "Ignoratio Elenchi, Fallacy of, 865."
   },
   {
     "id": "p-33e62e",
-    "offset": 12072,
+    "offset": 11816,
     "text": "Ignotum per ignotius, 383."
   },
   {
     "id": "p-50eda6",
-    "offset": 12100,
+    "offset": 11844,
     "text": "Illicit Process, Fallacy of, 586."
   },
   {
     "id": "p-e1aaed",
-    "offset": 12135,
+    "offset": 11879,
     "text": "Immediate Inference, 442 sqq. by added determinants, 535. by complex conception, 537. applied to complex propositions, 701."
   },
   {
     "id": "p-81d425",
-    "offset": 12260,
+    "offset": 12004,
     "text": "Immediate Inference, compound forms of, 503. partly conjunctive syllogisms regarded as, 753. by conversion, 479. disjunctive syllogisms regarded as, 770. by opposition, 462. by permutation, 496."
   },
   {
     "id": "p-4d0174",
-    "offset": 12456,
+    "offset": 12200,
     "text": "Induction, differing from Deduction, 430 sqq."
   },
   {
     "id": "p-179276",
-    "offset": 12503,
+    "offset": 12247,
     "text": "Inductive Logic, 2, 204."
   },
   {
     "id": "p-fe706f",
-    "offset": 12529,
+    "offset": 12273,
     "text": "Inferences in general, 426. classification of, 441. deductive, 442. inductive, 430."
   },
   {
     "id": "p-198451",
-    "offset": 12614,
+    "offset": 12358,
     "text": "Intimae species, 405."
   },
   {
     "id": "p-948ffc",
-    "offset": 12637,
+    "offset": 12381,
     "text": "Intension of Terms, 150, 166."
   },
   {
     "id": "p-460fdb",
-    "offset": 12668,
+    "offset": 12412,
     "text": "Intuition, 232."
   },
   {
     "id": "p-637932",
-    "offset": 12685,
+    "offset": 12429,
     "text": "Inverse Variation, Law of, 166."
   },
   {
     "id": "p-b7bccb",
-    "offset": 12718,
+    "offset": 12462,
     "text": "'I' Propositions, 260. conversion of, 490."
   },
   {
     "id": "p-42de49",
-    "offset": 12762,
+    "offset": 12506,
     "text": "'Judgement,' various meanings of, 32, 36."
   },
   {
     "id": "p-4d9557",
-    "offset": 12805,
+    "offset": 12549,
     "text": "'Law,' ambiguities of the word, 7 sqq."
   },
   {
     "id": "p-6fb947",
-    "offset": 12845,
+    "offset": 12589,
     "text": "Major Premiss, 544."
   },
   {
     "id": "p-abd60d",
-    "offset": 12866,
+    "offset": 12610,
     "text": "Major Term, 542."
   },
   {
     "id": "p-0a10c2",
-    "offset": 12884,
+    "offset": 12628,
     "text": "Many Questions, Fallacy of, 884."
   },
   {
     "id": "p-53864e",
-    "offset": 12918,
+    "offset": 12662,
     "text": "Mediate Inferences or Syllogisms, 444, 540 sqq. axioms of, 576."
   },
   {
     "id": "p-25ef88",
-    "offset": 12983,
+    "offset": 12727,
     "text": "Membra Dividentia, 394."
   },
   {
     "id": "p-76efde",
-    "offset": 13008,
+    "offset": 12752,
     "text": "Middle Term, 541. position of, in a syllogism, 563."
   },
   {
     "id": "p-38f6c8",
-    "offset": 13061,
+    "offset": 12805,
     "text": "Minor Premiss, 545."
   },
   {
     "id": "p-a67ffa",
-    "offset": 13082,
+    "offset": 12826,
     "text": "Minor Term, 542."
   },
   {
     "id": "p-e11d2a",
-    "offset": 13100,
+    "offset": 12844,
     "text": "Modality, Question of, 196."
   },
   {
-    "id": "p-f6b873",
-    "offset": 13129,
-    "text": "Mode, the, 196."
-  },
-  {
     "id": "p-5c1611",
-    "offset": 13146,
+    "offset": 12873,
     "text": "Moods of a Syllogism, 558. determination of the legitimate, 599. subaltern, 628. valid in the Four Figures, 621. mnemonics of, valid in Four Figures, 629."
   },
   {
     "id": "p-979cda",
-    "offset": 13302,
+    "offset": 13029,
     "text": "Name, definition of, 61."
   },
   {
     "id": "p-b1e553",
-    "offset": 13328,
+    "offset": 13055,
     "text": "Negative Premisses and Conclusion, Fallacy of, 842."
   },
   {
     "id": "p-e87c95",
-    "offset": 13381,
+    "offset": 13108,
     "text": "Nominalists, 50, 54."
   },
   {
     "id": "p-fb36a2",
-    "offset": 13403,
+    "offset": 13130,
     "text": "Non causa pro causa, Fallacy of, 883."
   },
   {
-    "id": "p-9502d3",
-    "offset": 13442,
-    "text": "Nouns, 62."
-  },
-  {
     "id": "p-3fc95c",
-    "offset": 13454,
+    "offset": 13169,
     "text": "Opposition, 449 sqq. contradictory, 457. contrary, 454. laws of, 464. subaltern, 456. sub-contrary, 455."
   },
   {
     "id": "p-2356e9",
-    "offset": 13560,
+    "offset": 13275,
     "text": "'O' Propositions, 260. conversion of, 491."
   },
   {
     "id": "p-29f1c8",
-    "offset": 13604,
+    "offset": 13319,
     "text": "Partition, 423."
   },
   {
     "id": "p-7a15b7",
-    "offset": 13621,
+    "offset": 13336,
     "text": "Permutation, 496 sqq. of Complex Propositions, 718."
   },
   {
     "id": "p-500df2",
-    "offset": 13674,
+    "offset": 13389,
     "text": "Petitio Principii, Fallacy of, 874."
   },
   {
     "id": "p-373f07",
-    "offset": 13711,
+    "offset": 13426,
     "text": "Predicable, 314."
   },
   {
     "id": "p-d9f40d",
-    "offset": 13729,
+    "offset": 13444,
     "text": "Predicate of a Proposition, 58, 184. read in extension, 307. quantification of, 295 sqq. quantity of, 281, 494."
   },
   {
     "id": "p-3ad735",
-    "offset": 13842,
+    "offset": 13557,
     "text": "Predication, 194. in quid or in quale, 332."
   },
   {
-    "id": "p-6f0447",
-    "offset": 13887,
-    "text": "Premisses, 540. major, 544. minor, 545."
-  },
-  {
     "id": "p-ee4ec5",
-    "offset": 13928,
+    "offset": 13602,
     "text": "Primary Existences, 55."
   },
   {
     "id": "p-5f56b2",
-    "offset": 13953,
+    "offset": 13627,
     "text": "Problema, the, 556."
   },
   {
     "id": "p-30c812",
-    "offset": 13974,
+    "offset": 13648,
     "text": "Proper Names, 113."
   },
   {
-    "id": "p-c8c5e5",
-    "offset": 13994,
-    "text": "Property, 318. generic, 411. specific, 411."
-  },
-  {
     "id": "p-75b829",
-    "offset": 14039,
+    "offset": 13668,
     "text": "Proposition, 172 sqq. accidental, 238. affirmative, 258. complex or conditional, 209. conjunctive or hypothetical, 214, 704. conversion of, 479. definition of, 178. disjunctive, 214. divisions of, 206. essential, 238. exceptive, 270. exclusive, 266. extensive, 264. general, 251. indefinite, 244. intensive, 264. modal, 205. negative, 258. particular, 240. pure, 205. quality of, 258. quantity of, 246. real or synthetical, 227. simple or categorical, 207. singular, 250. tautologous or identical, 273. universal, 239. verbal or analytical, 224."
   },
   {
     "id": "p-3c21b8",
-    "offset": 14586,
+    "offset": 14215,
     "text": "Proprium, 336."
   },
   {
     "id": "p-3228c6",
-    "offset": 14602,
+    "offset": 14231,
     "text": "Pro-syllogism, 802."
   },
   {
     "id": "p-e4ddcf",
-    "offset": 14623,
+    "offset": 14252,
     "text": "Quaestio, the, 556."
   },
   {
-    "id": "p-3f1bbd",
-    "offset": 14644,
-    "text": "Quality, a, 82."
-  },
-  {
     "id": "p-ebbbbf",
-    "offset": 14661,
+    "offset": 14273,
     "text": "Quality of the matter, 204. of propositions, 258."
   },
   {
     "id": "p-ff9910",
-    "offset": 14712,
+    "offset": 14324,
     "text": "Quantification of the Predicate, 295 sqq., 493."
   },
   {
     "id": "p-a143b4",
-    "offset": 14761,
+    "offset": 14373,
     "text": "Quantity of propositions, 258. of terms, 148."
   },
   {
     "id": "p-d976b1",
-    "offset": 14808,
+    "offset": 14420,
     "text": "Realists, 49."
   },
   {
     "id": "p-679dbe",
-    "offset": 14823,
+    "offset": 14435,
     "text": "Real Kinds, 371."
   },
   {
     "id": "p-fddacd",
-    "offset": 14841,
+    "offset": 14453,
     "text": "Reasoning or Inference, 35. the canon of, 560. trains of, 800."
   },
   {
     "id": "p-f05b52",
-    "offset": 14905,
+    "offset": 14517,
     "text": "Reduction of propositions, 667. of the dilemma, 796. of disjunctive syllogisms, 766. indirect, 691. mnemonics for, 697. ostensive or direct, 673. of partly conjunctive syllogisms, 744."
   },
   {
-    "id": "p-add824",
-    "offset": 15091,
-    "text": "Relation, a, 83, 144."
-  },
-  {
     "id": "p-4651f6",
-    "offset": 15114,
+    "offset": 14703,
     "text": "Relation, immediate inference by, 462. compatible and incompatible, 462."
   },
   {
     "id": "p-592e40",
-    "offset": 15188,
+    "offset": 14777,
     "text": "Science, 20."
   },
   {
     "id": "p-0cc9f4",
-    "offset": 15202,
+    "offset": 14791,
     "text": "Secondary Existences, 55."
   },
   {
     "id": "p-861297",
-    "offset": 15229,
+    "offset": 14818,
     "text": "Simple Apprehension, 33."
   },
   {
     "id": "p-8eefdc",
-    "offset": 15255,
+    "offset": 14844,
     "text": "Sorites, the, 807 sqq."
   },
   {
     "id": "p-e59961",
-    "offset": 15279,
+    "offset": 14868,
     "text": "Specialisation, 167."
   },
   {
-    "id": "p-06fa84",
-    "offset": 15301,
-    "text": "Species, 318. cognate, 407. infimae, 405. subaltern, 406."
-  },
-  {
     "id": "p-36c6cc",
-    "offset": 15360,
+    "offset": 14890,
     "text": "Subalternant, 458."
   },
   {
     "id": "p-468a0f",
-    "offset": 15380,
+    "offset": 14910,
     "text": "Subalternate, 458."
   },
   {
     "id": "p-08693b",
-    "offset": 15400,
+    "offset": 14930,
     "text": "Subalternation, 458."
   },
   {
     "id": "p-ee2c4a",
-    "offset": 15422,
+    "offset": 14952,
     "text": "Subalterns, 458."
   },
   {
     "id": "p-ccd6f5",
-    "offset": 15440,
+    "offset": 14970,
     "text": "Sub-contraries, 458."
   },
   {
     "id": "p-b6c458",
-    "offset": 15462,
+    "offset": 14992,
     "text": "Sub-division, 401."
   },
   {
-    "id": "p-876b4c",
-    "offset": 15482,
-    "text": "Subject, 58, 183. how used, 264. quantity of, 279."
-  },
-  {
-    "id": "p-9c4a0f",
-    "offset": 15534,
-    "text": "Substance, 80, 84."
-  },
-  {
-    "id": "p-138c66",
-    "offset": 15554,
-    "text": "Summum Genus, 167, 404."
-  },
-  {
     "id": "p-b104d8",
-    "offset": 15579,
+    "offset": 15012,
     "text": "Suppositio Materialis, 76."
   },
   {
     "id": "p-1654a8",
-    "offset": 15607,
+    "offset": 15040,
     "text": "Syllogism, 546 sqq. complex, 731. in common discourse, 557. conjunctive, 733. definition of, 552. disjunctive, 760. general rules of, 582. figures of, 560, 563. with three figures, 656. legitimate moods of, 599 sqq. mnemonics for, 598. moods of, 559, 562."
   },
   {
     "id": "p-6b4afd",
-    "offset": 15864,
+    "offset": 15297,
     "text": "Syncntegorematic words, 70."
   },
   {
-    "id": "p-cf07a2",
-    "offset": 15893,
-    "text": "Synonym, 345."
-  },
-  {
     "id": "p-26b757",
-    "offset": 15908,
+    "offset": 15326,
     "text": "Term, 57 sqq. absolute, 140. abstract, 95. analogous, 139. attributive, 88. collective, 118. common, 105. concrete, 96. connotative, 147. contradictory, 129. contrary, 130. definition of, 347."
   },
   {
     "id": "p-56388e",
-    "offset": 16102,
+    "offset": 15520,
     "text": "Terms, distribution of, 275. distributive and collective use of, 119. division of, 86. equivocal, 137. incompatible, 135. individual, 121. major, middle, and minor, 542. negative, 126. non-connotative, 147. positive, 126. privative, 126. quantity of, 148."
   },
   {
     "id": "p-12d5dc",
-    "offset": 16359,
+    "offset": 15777,
     "text": "Terms, relative, 141. repugnant, 135. singular, 43, 104. subject, 87. undistributed, 277. univocal, 137."
   },
   {
     "id": "p-2ffbb5",
-    "offset": 16465,
+    "offset": 15883,
     "text": "Universals, nature of, 48, 55."
   },
   {
     "id": "p-703034",
-    "offset": 16497,
+    "offset": 15915,
     "text": "'U' Propositions, 297."
   },
   {
-    "id": "p-943ec2",
-    "offset": 16521,
-    "text": "Verb, 64."
-  },
-  {
     "id": "p-e64fb4",
-    "offset": 16532,
+    "offset": 15939,
     "text": "Words, their relation to terms, 65 sqq,"
   },
   {
     "id": "p-012211",
-    "offset": 16573,
+    "offset": 15980,
     "text": "THE END."
   }
 ]

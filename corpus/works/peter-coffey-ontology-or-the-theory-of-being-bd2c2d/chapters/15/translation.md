@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 42067
+word_count: 38511
 source_url: "https://www.gutenberg.org/ebooks/35722"
 translator: Project Gutenberg edition
 ---
@@ -80,7 +80,7 @@ From our analysis of final causality it will be seen that the “end” becomes 
 
 The final cause, the end as intended, is extrinsic to the effect. It is intrinsic to the efficient cause. It is a “*forma*” or determinative principle of the latter: a *forma intentionalis* in conscious agents, a *forma naturalis* in unconscious agents.
 
-109. NATURE AND THE LAWS OF NATURE. CHARACTER AND GROUNDS OF THEIR NECESSITY AND UNIVERSALITY. SCIENTIFIC DETERMINISM AND PHILOSOPHIC FATALISM.—By the term *nature* we have seen that Aristotle and the scholastics meant the essence or substance of an agent regarded as inner principle of the latter’s normal activities, as determining the bent or inclination of these, and therefore as in a real sense their final cause. Hence Aristotle’s definition of *nature* as _a certain principle or cause of the motion and rest of the thing in which that principle is rooted fundamentally and essentially and not merely accidentally_.(508) The scholastics, recognizing that this *intentio naturae*, this subjection to finality, in *unconscious* agencies must be the work and the index of intelligence, in other words that this *analogical* finality in inanimate things must connote a *proper* finality, a properly purposive mode of action, in the author of these things, conceived this *nature* or *intentio naturae* as the impression of a divine art or plan upon the very being of all creatures by the Creator Himself. Hence St. Thomas’s profound and well-known description of *nature* as “_the principle of a divine art impressed upon things, in virtue of which they move towards determinate ends*”. Defining *art* as *the just conception __ of external works to be accomplished_,(509) he observes that nature is a sort of art: “as if a ship-builder were to endow his materials with the power of moving and adapting themselves so as to form or construct a ship”.(510) And elsewhere he remarks that nature differs from art only in this that the former is an intrinsic, the latter an extrinsic, principle of the work which is accomplished through its influence: so that if the art whereby a ship is constructed were intrinsic to the materials, the ship would be constructed by nature as it actually is by art.(511)
+109. NATURE AND THE LAWS OF NATURE. CHARACTER AND GROUNDS OF THEIR NECESSITY AND UNIVERSALITY. SCIENTIFIC DETERMINISM AND PHILOSOPHIC FATALISM.—By the term *nature* we have seen that Aristotle and the scholastics meant the essence or substance of an agent regarded as inner principle of the latter’s normal activities, as determining the bent or inclination of these, and therefore as in a real sense their final cause. Hence Aristotle’s definition of *nature* as _a certain principle or cause of the motion and rest of the thing in which that principle is rooted fundamentally and essentially and not merely accidentally_.(508) The scholastics, recognizing that this *intentio naturae*, this subjection to finality, in *unconscious* agencies must be the work and the index of intelligence, in other words that this *analogical* finality in inanimate things must connote a *proper* finality, a properly purposive mode of action, in the author of these things, conceived this *nature* or *intentio naturae* as the impression of a divine art or plan upon the very being of all creatures by the Creator Himself. Hence St. Thomas’s profound and well-known description of *nature* as “_the principle of a divine art impressed upon things, in virtue of which they move towards determinate ends*”. Defining *art* as *the just conception of external works to be accomplished_,(509) he observes that nature is a sort of art: “as if a ship-builder were to endow his materials with the power of moving and adapting themselves so as to form or construct a ship”.(510) And elsewhere he remarks that nature differs from art only in this that the former is an intrinsic, the latter an extrinsic, principle of the work which is accomplished through its influence: so that if the art whereby a ship is constructed were intrinsic to the materials, the ship would be constructed by nature as it actually is by art.(511)
 
 Such, then, is the teleological conception of the nature of each individual agency in the universe. When we speak of “universal *nature*,” “external *nature*,” “physical *nature*,” “the course of *nature*,” “the laws of *nature*,” etc. we are using the term in a collective sense to signify the sum-total of all the agencies which constitute the whole physical universe; and furthermore in all such contexts we usually understand by *nature* the world of *corporeal* things as distinct from the domain of *mind* or *spirit*.
 
@@ -176,13 +176,9 @@ INDEX.
 
 Absolute, the, 47 *sq.*; and relative, 332 *sqq.*
 
-Accidents, individuation of, 133 *sqq.*; causes of, 235-6; divisions of, 237 *sqq.*; existence and relation to substance, 232 *sqq.*, 240 *sqq.*, 243, 247 *n.*, 249, 313.
-
 *Actio et passio*, *v.* causality, causes.
 
 *Actio intentionalis*, 378.
-
-*Actio in distans*, 395-6.
 
 Action, immanent and transitive, 73, 369, 391-2.
 
@@ -190,59 +186,23 @@ Actual and potential, 52 *sqq.* and *passim*.
 
 Actuality, goodness and perfection, 173 *sqq.*
 
-*Actus Purus*, 54, 58.
-
-AEGIDIUS, 108 *n.*
-
 *Aeveternitas*, *aevum*, 230.
 
-Agnosticism, 96, 97, 335, 383, 409, 414, 427.
-
-ALBERTUS MAGNUS, 108 *n.*, 201 *n.*, 288.
-
-ALEXANDER OF HALES, 110 *n.*, 112 *n.*
-
-Analogy, analogical predication, 36 *sqq.*, 122 *n.*, 212, 240, 272, 330; a. inference, 386-7, 391.
-
 ANDRONICUS OF RHODES, 17.
-
-*Anima mundi*, 284.
-
-ANSELM, ST., 353 *n.*
 
 Anthropology, 19.
 
 Appetite, 167 *sqq.*
 
-*Appetitus naturalis*, 409-10, 413-15.
-
-ARISTOTLE, on philosophy, 5; on esthetics, 13; on theology, 15, 16; on special sciences, 16; on analogy, 40; on change, 51, 56, 68 *sqq.*; on essence, 75; on individual, 120-1; on the good, 167 *sqq.*; on beauty, 200 *n.*, 201 *n.*; on substance and accident, 209, 249; on “first” and “second” substances, 252-3; on quality, 287, 290-2; on habits, 293-6; on quantity, 311 *n.*; on place, 318; on time, 342; on relation, 337 *n.*, 346-8; on principles, 358 *n.*; on causes, 361 *sqq.*, 367; on final causes, 406 *sqq.*; on “nature,” 416 *sqq.*, 422-4, 426; on order of the universe, 433.
-
-Art, and nature, 416-17.
-
-Arts, fine and mechanical, 13, 14, 430; and science, 194-5; scope of, 204 *sqq.*; and morals, 205-6.
-
 Atomism, *v.* Mechanism.
-
-AUGUSTINE, ST., on basis of possible essences, 89 *n.*, 94; on evil, 185 *n.*; on beauty, 198, 200 *n.*, 202 *n.*; on time, 322; on order, 429.
-
-AUREOLUS, 110 *n.*
 
 AVERROÏSM, 284.
 
-BALMES, 89 *n.*, 90 *n.*, 93.
-
-BAÑEZ, D., 108 *n.*, 350 *n.*
-
 BAUMGARTEN, 192 *n.*
-
-*Beatitudo*, 175 *n.*, 411.
 
 Beauty, the Beautiful, 13, 14; analysis of, 192 *sqq.*; definitions of, 201 *sqq.*
 
 Being, concept analysed, 32 *sqq.*; real being and logical being, 10, 42 *sqq.*, 85, 140.
-
-— and Ideal Being, 45 *sqq.*, 85.
 
 — fundamental distinction in, 46 *sqq.*
 
@@ -250,35 +210,13 @@ Being, concept analysed, 32 *sqq.*; real being and logical being, 10, 42 *sqq.*,
 
 — potential and actual, 51 *sqq.*
 
-BERGSON, 30, 289 *n.*, 303.
-
-BERKELEY, 215, 221, 350 *n.*, 400.
-
-BIEL, G., 110 *n.*
-
-BILLOT, 266 *n.*
-
 Bilocation, 322.
 
-BOËTIUS, 329.
-
-BOIRAC, 343.
-
 BONAVENTURE, ST., on distinction of soul and faculties, 247-8.
-
-BOSSUET, 196, 360.
 
 BROWNING, 432.
 
 BRUNETIÈRE, 196.
-
-BULLIAT, 130 *n.*
-
-CAJETAN, 24, 38 *n.*, 108 *n.*, 350 *n.*
-
-CAPREOLUS, 87 *n.*, 108 *n.*, 350 *n.*
-
-CARY, 434 *n.*
 
 Categories, ultimate, analysis of, 208 *sqq.*; not adequately distinct as modes, 210-11, 350; but exhaustive, 211-12.
 
@@ -286,35 +224,17 @@ Categories, ultimate, analysis of, 208 *sqq.*; not adequately distinct as modes,
 
 *Causalitas* “*intentionalis*,” 413.
 
-Causality, causes, notion analysed, 357 *sqq.*; classification, 361 *sqq.*; principle of C., 369 *sqq.*, 384-5; “plurality” of causes, 380; causality and uniformity, 377, 381, 382; “physical” cause, 382, 419; phenomenist view of, 382 *sqq.*; and inductive science, 359, 379, 381, 382 *n.*; and determinism, 377; and creation, 391, 400-1.
-
 Causality, efficient, as index of real distinction, 148; classification of efficient causes, 372 *sqq.*; instrumental, 373-6; objective validity of concept, 382 *sqq.*; origin of concept, 385 *sqq.*; analysis of, 366 *sqq.*, 388 *sqq.*; erroneous theories of, 392-6; and occasionalism, 396 *sqq.*, 400 *sqq.*
 
 — final (*v.* purpose), 361, 368; intrinsic and extrinsic finality, 404 *sqq.*, 426; all-pervading influence of, 409; divisions of, 409 *sqq.*; analysis of, 411*sqq.*; as implying intelligence, 409, 414-15, 426.
 
-— formal, 361, 364-5.
-
-— material, 361, 364-6.
-
-Chance, 423 *sqq.*
-
-Change, 61 *sqq.*, 302-5; and time, 323; and causality, 367, 389-96.
-
 CICERO, 1.
-
-CLARKE, 135.
 
 *Cognitio* “*vulgaris*,” 2.
 
 Composition, logical and metaphysical, 34; essential and integral, 311, 314-16; as index of finiteness, 248.
 
-COMTE, 30, 334.
-
 Conceptualism, 24, 125.
-
-*Concursus Divinus*,66, 329, 348, 375 *n.*, 388 *sqq.*; necessity of, 389-91, 401-3.
-
-Condition, and cause, 358-9, 419.
 
 Consciousness, and personality, 273, 277 *sqq.*; “subliminal,” 282 sqq.
 
@@ -328,27 +248,11 @@ Correlatives, 388.
 
 *Corruptio et generatio*, 71, 186.
 
-Cosmology, 16, 19, 285, 309, 364, 388, 393.
-
-COUSIN, 301, 387.
-
-*Creatio ab aeterno*, 89, 328.
-
 Criteriology, *v.* Knowledge, theory of.
-
-DANTE, 434 n.
 
 DAVID OF DINANT, 125 *n.*
 
-DE MUNNYNCK, 84 *n.*, 89 *n.*, 91 *n.*, 94 *n.*, 95 *n.*
-
-DE SAN, 241 *n.*, 327 *n.*, 331 *n.*
-
-DESCARTES, on basis of essences, 96, 97; on substance, 214, 226-8, 230, 241 *n.*; on accidents, 244; on corporeal substance, 312-13, 315, 397.
-
 Design, *v.* purpose and final cause.
-
-DE WULF, 6 *n.*, 27 *n.*, 29 *n.*, 156 *n.*, 195 *n.*, 284.
 
 Disposition, *v.* habit.
 
@@ -356,21 +260,13 @@ Disposition, *v.* habit.
 
 Disorder, fact of, 431-2.
 
-Distinctions, doctrine of, 105 *sqq.*, 139 *sqq.*, 242-3, 249-51, 301-5.
-
 DOMET DE VORGES, 387 *n.*
 
 “Double law” in man, 176.
 
 “Double personality,” 282-4.
 
-DRISCOLL, 89 *n.*
-
 DUPASQUIER, 99 *n.*
-
-DURANDUS, 110 *n.*
-
-Duration, 322, 325 *n.*, 328 *sqq.*
 
 Education, and habits, 298.
 
@@ -378,13 +274,7 @@ Efficiency, concept of, *v.* cause (efficient).
 
 Ego, *v.* person.
 
-ELEATICS, 51, 125, 303.
-
-End (*v.* purpose), 406.
-
 Energies, equivalence of, 395.
-
-*Ens a se*, *ab alio*, 47; and *ens in se*, 230-1, 334.
 
 *Ens rationis*, *v.* Being.
 
@@ -392,27 +282,9 @@ Entitative habit, 292 *n.*
 
 Epistemology, *v.* Knowledge, theory of.
 
-*Esse* “*intentionale*,” 45, 46, 412.
-
 Essence, analysis of, 75 *sqq.*; and nature and substance, 79, 258.
 
-Esthetics, 13, 14, 192 sqq.
-
-Eternity, 328 *sqq.*; of essences, 80 *sqq.*
-
-Ether, hypothesis of, 317, 395.
-
-Ethics, 11-12, 296-7, 428-9.
-
-Eucharist, and substance and accidents, 223 *n.*, 233, 243 *n.*; and quantity, 312-16; 319 *n.*, 322, 345 *n.*
-
-EUCKEN, 28.
-
 Evil, analysis of, 182 *sqq.*
-
-Exemplarism, 98, 100, 161-2.
-
-Existence, and essence, 101-13; of accidents, 243-61; and subsistence, 266, 269; and action, 301.
 
 Extension, *v.* quantity.
 
@@ -422,17 +294,9 @@ Faculties, 298 *sqq.*; and substance, 300 *sqq.*
 
 Faith and reason, 5.
 
-Fatalism, 424 *n.*
-
 Figure, or form, as indicative of nature, 292-3.
 
 *Finis*, finality, *v.* purpose and final causes.
-
-Finite and Infinite, 47, 301-3.
-
-FONSECA, 113 n.
-
-“*Forma*” as essence or nature, 78-9, 130.
 
 *Formae subsistentes*, 129.
 
@@ -444,8 +308,6 @@ Formative principles, simplicity of, 317-18; plurality in the individual, 365 (*
 
 FRANCIS OF VITTORIA, 113 *n.*
 
-FRANZELIN, 110 *n.*, 267 *n.*
-
 Free causes, 376-7; and occasionalism, 398.
 
 Freedom of thought, 6.
@@ -454,15 +316,9 @@ Freedom of thought, 6.
 
 Genuensis, 98 *n.*
 
-“*Genus*” and “*differentia*” as “*materia*” and “*forma*,” 79 *n.*, 365 (*n.* 4).
-
 GEULINCX, 397.
 
 GIOBERTI, 94.
-
-Good, analysis of the, 167 *sqq.*; divisions of the, 175 *sqq.*; and being, 177 *sqq.*; and beauty, 193.
-
-GOUDIN, 108 *n.*
 
 Graceful, elegant, the, 199 *n.*
 
@@ -470,33 +326,9 @@ GREGORY OF VALENTIA, 110 *n.*
 
 Habit, analysis of, 292 *sqq.*
 
-*Haecceitas*, 125, 132.
-
-HARPER, 99 *n.*
-
-HEGEL, Hegelianism, 30, 33, 46, 49, 67-8, 97, 208, 335.
-
-HENRY OF GHENT, 87 *n.*, 113 *n.*
-
-HERACLITUS, 51, 303.
-
-HICKEY, 89 *n.*
-
-HOBBES, 334.
-
-HÖFFDING, 230 *n.*
-
-HUME, 213; on substance, 215, 217, 221; on cause, 370 *n.*, 385.
-
-HUNLEY, 219 *n.*
-
 *Hypostasis*, 265.
 
 Hypostatic Union, 267-71.
-
-Idealism, 214, 334-6, 341, 343, 400.
-
-Identity, 135 *sqq.*; and change, 139, 226, 241, 278; personal, 276, 277 *sqq.*
 
 Immaterial, positively and negatively, 16.
 
@@ -508,77 +340,31 @@ Impenetrability, 309, 322.
 
 Indiscernibles, identity of, 135.
 
-Individuation, 120, 123 *sqq.*, 148, 261.
-
 Infinite and Finite, 47; and categories, 212.
 
 Infinite regress in causation, 373.
 
 Inherence, *v.* accident.
 
-*Intentio mentis*, 10, 43, 144 *n.*, 145, 211, 339.
-
-“*Intentio naturae*,” 414 *n.*, 416, 423.
-
 “Intentional” causality, 413.
 
 JAMES, 30; on personal identity, 283-4.
-
-JOHN OF ST. THOMAS, 108 *n.*, 350 *n.*
 
 JOSEPH, on meanings of “cause,” 379-80.
 
 JOUFFROY, 275.
 
-KANT, 21, 30, 121, 145, 201, 208, 228, 334, 335, 343, 385, 393, 394, 430.
-
-KAPPES, M., 75 *n.*
-
-KLEUTGEN, 38, 39, 40, 43, 87 *n.*, 103 *n.*, 142 *n.*; on accidents, 242, 247 *n.*, 267 *n.*, 330 *n.*
-
-KLIMKE, 67 *n.*
-
 Knowledge, relativity of, 335 *sqq.*
 
 —scientific, 2.
-
-—theory of, 11, 20, 23, 45, 46, 70, 108; and doctrine of distinctions, 143-6, 151-3; and categories of being, 207 *sqq.*, 285, 289; and category of relation, 332 *sqq.*, 385; and causality, 393; and order, 430-1.
 
 *Lacensis, Philosophia*, 21.
 
 LACORDAIRE, 89 *n.*
 
-LADD, 24, 27.
-
-LAHOUSSE, 99 *n.*
-
-LAMINNE, 60 *n.*, 371 *n.*
-
-Law, of nature, 418 *sqq.*
-
-LEIBNIZ, 21, 98 *n.*, 135, 182, 227, 298, 387, 406.
-
-LEO XIII, 7, 26.
-
 LIBERATORE, 99 *n.*
 
-LITTRÉ, 213.
-
-LOCKE, on substance, 214, 221; on personality, 277-84, 334.
-
-Logic, 10.
-
-MAHER, 223 *n.*, 230 *n.*, 273 *n.*; on consciousness of self, 274-6, 282 *n.*; on theories of self, 283-4, 289 *n.*; on perception of time, 324 *n.*, 326-7; on relativity of knowledge, 336 *n.*; on cause, 386 *n.*
-
-MALEBRANCHE, 397-400.
-
-Manicheism, 182, 189-91.
-
-MASTRIUS, 99 *n.*
-
 *Materia prima*, Aristotle on, 71-2.
-
-*Materia signata*, 127, 129, 131, 135.
 
 Mathematical unity, 116, 119.
 
@@ -590,11 +376,7 @@ Matter, and evil, 190.
 
 Measurement, relativity of, 325-7.
 
-Mechanism, mechanical conception of universe, 69, 265, 289, 393-6, 404, 409, 413, 414, 424-9.
-
 Memory, and personality, 276-84.
-
-MENDIVE, 99 *n.*
 
 MERCIER, on division of metaphysics, 21; on scholasticism, 26-7; on characteristics of essences, 83, 93-4; on analogical concept of God, 97; on distinction, 107; on phenomenism, 213, 224 *n.*, 269 *n.*; on faculty and substance, 305 *n.*; on interaction, 391; on efficient cause, 393 *n.*; on occasionalism, 398 *n.*; on mechanism, 426 *n.*, 429 *n.*
 
@@ -602,23 +384,13 @@ Metaphor, and analogy, 39.
 
 Metaphysics, division of, 15 *sqq.*; etymology of, 17, 18; scope of, 24, 25, 27; and physics, *v.* physics.
 
-MILL, 213, 220, 334, 343; on causes, 382.
-
 Modal distinction, 150, 245 *sqq.*
 
-Modes, accidental and substantial, 150-1, 239, 245 *sqq.*, 270, 325 *n.*, 330-1.
-
-MOLINA, 113 *n.*
-
 Monadology, of Leibniz, 227.
-
-Monism, 46, 97, 103, 125, 230, 284, 350 *n.*, 399. 409.
 
 Monophysites, 268.
 
 Monopsychism, 284.
-
-Moral cause, 377-8.
 
 Morality and art, 205-6.
 
@@ -632,8 +404,6 @@ Necessary and Contingent Being, 47.
 
 Necessity of essences, 81 *sqq.*
 
-— of physical laws, 419-28.
-
 NEWMAN, on scope of philosophy, 22, 31; on causality, 377, 387.
 
 NIETZSCHE, 431.
@@ -644,33 +414,13 @@ Nominalism, 125.
 
 *Notas individuantes*, 124, 131.
 
-NYS, 309 *n.*, 311 *n.*, 321 *n.*, 327 *n.*, 328 *n.*, 395 *n.*
-
 Occasion, and cause, 359.
-
-Occasionalism, 226, 387, 388; examined, 396-403.
-
-Ontology, 21, 23.
-
-Ontologism, 95, 350 *n.*
-
-Optimism, 181-2, 432.
-
-Older, static and dynamic, 199, 428; and beauty, 194, 199, 428; natural and artificial, 428; and relation, 342; and final cause, 428; and formal cause, 429; and intelligent purpose, 417, 429-30, 433.
 
 Panpsychism, 250.
 
 Pantheism, *v.* monism.
 
-PAULSEN, 213, 226-7.
-
-Perfection, analysis of, 171 *sqq.*; and beauty, 201; grades of, 59, 172-3; in substances, 134, 255; and distinction, 142 *n.*; and habit, 297; and relation, 342.
-
 Person, personality, 262 *sqq.*; definition of, 265, 270 *n.*; distinction from individual nature, 266 *sqq.*; false theories of, 276 *sqq.*; “subconscious,” 283-4.
-
-PESCH, 99 *n.*
-
-Pessimism, 181-2, 431.
 
 Phenomenism, and substance, 213 *sqq.*, 223; substantializes accidents, 215; substantializes consciousness, 281, 282-4; and causality, 382 *sqq.*, 398, 421.
 
@@ -678,13 +428,7 @@ Philosophy, notion of, 2 *sqq.*; divisions of, 7 *sqq.*; and special sciences, 2
 
 Place, analysis of, 318 *sqq.*
 
-PLATO, 93, 94, 95, 167, 200 *n.*, 201.
-
 Pleasure, sensible and esthetic, 196-7, 205-6.
-
-POINCARÉ, 199 *n.*
-
-Positivism, 214, 334, 383, 409, 421.
 
 Possible, the, 52 *sqq.*, 82 *sqq.*; and intelligible, 97; and passive potentiality, 109.
 
@@ -700,13 +444,7 @@ Prime mover, necessity of, 65-7.
 
 Principle, notion of, 357-8.
 
-*Privatio*, 62, 358.
-
 Providence, and chance, 424.
-
-Psychology, 19, 296.
-
-Purpose, and the good, 169, 405 *sqq.*; and perfection, 408; and order, 429.
 
 PYTHAGORAS, 1.
 
@@ -714,33 +452,9 @@ QUALITY, analysis of, 286 *sqq.*; divisions of, 288 *sqq.*; characteristics of, 
 
 Quantity, and individuation, 133; analysis of, 309 *sqq.*; and corporeal substance, 311 *sqq.*; internal and external, 309-10, 314.
 
-Rate, notion of, 325 *n.*, 327 *n.*
-
-RADA, 99 *n.*
-
-Realism, moderate, 23, 125, 133, 242-3, 320.
-
-— extreme, 46, 156-7.
-
-Reason, and cause, 359-60.
-
-— “sufficient,” 135, 182, 360.
-
 REINSTADLER, 106 *n.*
 
-Relation, analysis of, 336 *sqq.*; logical, 338 *sqq.*; real, 341 *sqq.*; transcendental, 345; predicamental, 346 *sqq.* ; reality of the “*esse ad*,” 350-6.
-
-Relative, the, 47 *sqq.*, 332 *sqq.*
-
 RENOUVIER, 335.
-
-Revelation, 4 *sqq.*, 12, 25, 189, 233, 247, 252, 263, 265, 267, 312-15, 328, 358 *n.*
-
-RICKABY, 276 *n.*
-
-ROSCOE, 83 *n.*
-
-ROYCE, 25.
 
 SCHIFFINI, 99 *n.*
 
@@ -752,49 +466,25 @@ Science, *v.* knowledge.
 
 Sciences, special, 16, 27; at Louvain and Maynooth, 29 *n.*
 
-SCOTUS, 34, 39 *sqq.*, 99, 113, 125, 132, 153 *sqq.*, 247, 267 *n.*
-
 Self, consciousness of, 274 *sqq.* (*v.* person.)
 
-SENECA, 424 *n.*
-
 *Sensibilia propria et communia*, objectivity of, 70; *per se et per accidens*, 218, 260.
-
-Sensism, 334, 383 *n.*, 394 *n.*
 
 Similarity, and identity, 137, 306; and distinction, 153.
 
 Simplicity, and quantity, 307 *n.*
 
-*Situs*, category of, 309, 319 *n.*
-
 SOCRATES, 167.
 
 Solipsism, 86.
-
-SONCINAS, 108 *n.*
-
-SOTO, D. DE, 113 *n.*
-
-Space, analysis of, 319 *sqq.*; problems on, 321-2.
 
 Specialists, scientific, and metaphysics, 27-28.
 
 *Species expressa*, 46; *sensibilis*, 313.
 
-SPENCER, 30, 213, 228, 229, 335.
-
-SPINOZA, on substance, 230-2, 334, 399.
-
 Spirits, individuation of, 129, 131.
 
 STORCHENAU, 98 *n.*
-
-SUAREZ, 41, 44, 110 *n.*, 111 *n.*, 267 *n.*
-
-Sublime, the, 199 *n.*
-
-*Subsistentia*, 131, 261 *sqq.* (*v.* person), 271-3.
 
 Substance, category of, undeniable in thought, 209, 215, 220, 281, 282-4; reality of, 213 *sqq.*; cognoscibility of, 213 *sqq.*, 219 *sqq.*; plurality of, 221; distinction from accidents, 224 *sqq.*, 301-5; erroneous notions of, 225 *sqq.*; permanence of, 229, 277; divisions of, 252 *sqq.*; complete and incomplete, 254 *sqq.*; corporeal and spiritual, 253-4, 315-6; relation to space, 319.
 
@@ -804,23 +494,13 @@ SULLY-PRUDHOMME, 203 *n.*
 
 Supernatural theology, 5, 12, 13.
 
-— end, 411.
-
 *Suppositum, suppositalitas*, *v.* person, personality.
-
-TAINE, 213.
 
 Taste, esthetic, 197.
 
 Teleology, *v.* purpose and final cause.
 
-TENNYSON, 31, 431.
-
 Theodicy, 21.
-
-Theology, natural, 15, 19, 182, 189, 285, 334, 438, 430.
-
-THOMAS, ST., on division of philosophy, 9, 18, 26; on analogy, 36; on absolute being, 49; on action, 60, 64; on essences, 76, 79, 92; on existence and essences, 102 *n.*, 110 *n.*, 112 *n.*; on unity, 116 *n.*, 117 *n.*, 119 *n.*, 120 *n.*, 156 *n.*, 250; on individuation, 127 *n.*; on ontological truth, 162-3, and falsity, 165 *n.*; on the good, 169 *n.*, 174 *n.*, 176 *n.*, 180 *n.*; on evil, 183 *n.*, 184 *n.*; on the beautiful, 193 *n.*, 194 *n.*, 200 *n.*; on Aristotle’s categories, 210, 211 *n.*; on substance and accident, 209 *n.*, 223 *n.*, 231 *n.*, 232 *n.*, 234 *n.*, 241 *n.*, 243 *n.*, 248; on essence as nature, 258-61; on subsistence and personality, 263 *n.*, 266 *n.*, 269; on quality, 283, 290, 293; on habits, 294-6; on power and substance, 300 *sqq.*; on grades in quality, 307-8; on quantity and corporeal substance, 311 *sqq.*; on body and spirit, 314-6; on time, 323-4; on *creatio ab aeterno*, 328; on duration, 330 *n.*; on relations, 339-40, 341 *n.*, 342 *n.*, 344 *n.*, 347, 348 *n.*, 351 *n.*, 353 *n.*, 354 *n.*, 355 *n.*, 356 *n.*; on classification of causes, 362 *n.*; on material and formal causes, 365 *n.*; on action, 367-8; on instrumental cause, 375; on created causes, 388 *n.*, 389 *n.*; on occasionalism, 400 *n.*; on final causality, 408 *n.*, 412 *n.*, 415 *n.*; on nature and art, 417, 428 *n.*; on order, 428, 432 *n.*, 433.
 
 Thought and imagery, 392-6.
 
@@ -834,37 +514,21 @@ Transubstantiation, 233.
 
 Truth, ontological, 158 *sqq.*
 
-TURNER, 21 *n.*
-
-*Ubi*, category of, 309, 319.
-
 Ubiquity, Divine, 319.
 
 Uniformity of Nature, 377; and law, 418; and inductive science, 419; degrees of, 422 *sqq.*
 
 Union, substantial and personal, 268.
 
-Unity, doctrine of, 114 *sqq.*, 242-3; “organic” and “mechanical,” 249-51, 260-1, 278; of living individual, 280-1, 301-5; conceptual, 337.
-
 Universal and individual (*v.* individuation), 252-3.
 
 Univocal, *v.* analogical.
 
-URRABURU, 35, 87 *n.*, 88 *n.*, 99 *n.*, 124 *n.*; on modes, 245 *n.*; on nature and person, 267-8, 270 *n.*, 288 *n.*, 345 *n.*, 355 *n.*; on instrumental causes, 374 *n.*; on cause, 393 *n.*
-
 Vacuum, and motion, 321.
-
-VALLET, 201.
 
 Variety, and beauty, 200.
 
-VASQUEZ, 110 *n.*
-
-VEITCH, 334 *n.*
-
 Vital change, 64-5.
-
-— acts, 246 *n.*
 
 Voluntarism, 96-7.
 
@@ -872,17 +536,7 @@ Weltanschauung, World-view, 4, 29, 30.
 
 WILLIAM OF OCKAM, 95.
 
-WINDELBAND, 7, 208 *n.*
-
-WOLFF, 21, 98.
-
-WUNDT, 213, 226, 267 *n.*
-
-ZIGLIARA, 64 *n.*, 107 *n.*, 156 *n.*, 301 *n.*, 320 *n.*, 398 *n.*
-
 FOOTNOTES
-
-1 2 vols. Longmans, 1912.
 
 _ 2 Institutions Metaphysica, quas Roma, in Pontificia Universitate Gregoriana tradiderat_ P. JOANNES JOSEPHUS URRABURU, S.J. Volumen Secundum: *Ontologia* (Rome, 1891).
 
@@ -908,15 +562,9 @@ _ 2 Institutions Metaphysica, quas Roma, in Pontificia Universitate Gregoriana t
 
 13 ARISTOTLE and the scholastics distinguished between the domain of the practical (πρᾶσσω, πρᾶξις, *agere*, *agibilia*) and the operative or productive (ποιεῖν, ποίησις, *facere*, *factibilia*).
 
-* 14 Cf.* *Science of Logic*, i., § 8.
-
 15 “Quædam igitur sunt *speculabilium* quæ dependent a materia secundum esse, quia non nisi in materia esse possunt, et hæc distinguuntur quia dependent quædam a materia secundum esse et intellectum, sicut illa in quorum definitione ponitur materia sensibilis: unde sine materia sensibili intelligi non possunt; ut in definitione hominis oportet accipere carnem et ossa: et de his est *physica* sive scientia naturalis. Quædam vero sunt quæ, quamvis dependeant a materia sensibili secundum esse, non tamen secundum intellectum, quia in eorum definitionibus non ponitur materia sensibilis, ut linea et numerus: et de his est *mathematica*. Quædam vero sunt speculabilia quæ non dependent a materia secundum esse, quia sine materia esse possunt: sive nunquam sint in materia, sicut Deus et angelus, sive in quibusdam sint in materia et in quibusdam non, ut substantia, qualitas, potentia et actus, unum et multa, etc., de quibus omnibus est *theologia*, id est scientia divina, quia præcipuum cognitorum in ea est Deus. Alio nomine dicitur *metaphysica*, id est, transphysica, quia post physicam dicenda occurrit nobis, quibus ex sensibilibus competit in insensibilia devenire. Dicitur etiam *philosophia prima*, in quantum scientiae aliæ ab ea principia sua accipientes eam sequuntur.”—ST. THOMAS, _In lib. Boetii de Trinitate_, q. 5, a. 1.
 
 16 Ἐττιν ἐπιστήμη τις ἤ θεωοεῖ τὸ ὄν και τούτῳ ὑπάρχοντα καθ᾽ ἁυτό.—*Metaph.* III., I (ed. Didot).
-
-* 17 Metaph.* X., ch. vii., 5 and 6.
-
-* 18 Cf.* *Science of Logic*, ii., §§ 251-5.
 
 19 When the term “science” is used nowadays in contradistinction to “philosophy,” it usually signifies the knowledge embodied in what are called the special, or positive, or inductive sciences—a knowledge which Aristotle would not regard as strictly or fully scientific.
 
@@ -934,33 +582,15 @@ _ 2 Institutions Metaphysica, quas Roma, in Pontificia Universitate Gregoriana t
 
 26 MERCIER, *Logique*, Introd., § 9.
 
-27 pp. 45, 51.
-
-* 28 Cf.* *Science of Logic*, i., § 17.
-
-* 29 Cf.* *ibid.* i., Introd., ch. i.
-
 30 CAJETAN, *In 2 Post Anal.*, ch. xiii.
-
-* 31 Cf.* MERCIER, *Ontologie*, §§ 6-13; LADD, *A Theory of Reality*, ch. i.
-
-* 32 infra*, ch. viii.; *Cf.* *Science of Logic*, ii., Part IV., ch. iii.-vi.; Part V., ch. i.
 
 33 p. 18—in which context will be found a masterly analysis and criticism of current prejudices and objections against systematic metaphysics.
 
-* 34 ibid.* pp. 19-20.
-
 35 ROYCE, *The Conception of God*, p. 207.
-
-36 MERCIER, *Logique*, Introd., § 14.
 
 37 Encyclical, *Aeterni Patris*, on philosophical studies.
 
-* 38 Summa Theologica*, 1, q. 1, a. 8, ad. 2.
-
 * 39 Cf.* MERCIER, *Origines de la psychologie contemporaine*, ch. viii.; DE WULF, *Scholasticism Old and New* (*passim*).
-
-* 40 Cf.* LADD, *op. cit.*, pp. 9, 10.
 
 41 EUCKEN, *Gesammelte Aufsaetze zur Philosophie und Lebensanschauung*, § 157 (Leipzig, 1903).
 
@@ -970,65 +600,23 @@ _ 2 Institutions Metaphysica, quas Roma, in Pontificia Universitate Gregoriana t
 
 44 “We may mention it in passing,” writes Mercier in his general introduction to philosophy (*Logique*, § 1, p. 6)—“it was this feeling of individual impotence in face of the task confronting the philosopher at the present day, that inspired the foundation of the Philosophical Institute at the University of Louvain”. He had previously outlined the project in his _Rapport sur les études philosophiques_ at the Congress of Mechlin in 1891. Here are a few brief extracts from that memorable document: “Since individual effort feels itself well nigh powerless in the presence of the field of observation which goes on widening day by day, association must make up for the insufficiency of the isolated worker; men of analysis and men of synthesis must come together and form, by their daily intercourse and united action, an atmosphere suited to the harmonious development of science and philosophy alike....” “Man has multiplied his power of vision; he enters the world of the infinitely small; he fixes his scrutinizing gaze upon regions where our most powerful telescopes discern no limits. Physics and Chemistry progress with giant strides in the study of the properties of matter and of the combinations of its elements. Geology and Astronomy reconstruct the history of the origin and formation of our planet. Biology and the natural sciences study the minute structure of living organisms, their distribution in space and succession in time; and Embryology explores their origin. The archæological, philological and social sciences reconstruct the past ages of our history and civilizations. What an inexhaustible mine is here to exploit, what regions to explore and materials to analyse and interpret; finally what pioneers we must engage in the work if we are to have a share in garnering those treasures!”
 
-* 45 Grammar of Assent*, p. 229.
-
 46 Lucerna pedibus meis verbum tuum, et lumen semitis meis.—Ps. cxviii., 105.
 
 47 TENNYSON, *In Memoriam*.
 
-* 48 Cf.* *Logic*, i., § 123.
-
-* 49 Cf.* *Logic*, i., pp. 204-6.
-
 * 50 Cf.* SCOTUS, *Summa Theologica*, edit. by Montefortino (Rome, 1900), i., p. 106, *Ad tertium*.
-
-* 51 Cf.* *Logic*, i., pp. 119-20.
-
-* 52 Cf.* SCOTUS, *op. cit.*, i., pp. 104, 129; also URRABURU, *Ontologia*, Disp. III., Cap. II., Art. III., p. 155.
 
 53 Hence St. Thomas calls the things about which a generic or specific concept is predicated “analoga secundum esse et non secundum intentionem” (*In 1 Sent.*, Dist. xix., q. 5, a. 2, ad a am): we bring them under the same notion or “intentio” (*e.g.* “living being”), but the content of this notion is realized in the various things (*e.g.* in Socrates, this horse, that rose-tree, etc.) in varying and unequal degrees of perfection. Hence, too, this univocal relation of the genus to its subordinate subjects is sometimes (improperly) called “analogy of inequality”.
 
-* 54 Cf.* *infra*, ch. viii.
-
-* 55 Cf.* KLEUTGEN, *Philosophie der Vorzeit*, §§ 599, 600.
-
 56 This, of course, is the proper sort of analogical predication: the predication based upon similarity of proportions or relations. Etymologically, analogy means equality of proportions (*Cf.* *Logic*, ii., p. 160). On the whole subject the student may consult with profit Cajetan’s *Opusculum de Nominum Analogia*, published as an appendix to vol. iv. of St. Thomas’ *Quæstiones Disputatæ* in De Maria’s edition (1883).
-
-* 57 Cf.* KLEUTGEN, *op. cit.*, §§ 40-42.
-
-* 58 Cf.* SCOTUS, *op. cit.*, i., pp. 318-22, 125-131, 102-7 (especially p. 128, *Ad tertium*); p. 131, *Ad sextum*; p. 321, *Ad tertium*.
-
-59 KLEUTGEN, *op. cit.*, § 599.
-
-* 60 ibid.*, § 600.
-
-61 SUAREZ, *Metaph.*, Dist. xxviii., § 3; Dist. xxxii., § 2.
-
-62 SCOTUS, *op. cit.*, i., pp. 106-7, 128-9.
-
-* 63 ibid.*, p. 107.
 
 * 64 Cf.* KLEUTGEN, *La philosophie scolastique* (“_Die Philosophie der Vorzeit_”). Fr. trans. by Sierp (Paris, 1868), vol. i., p. 66, § 35.
 
 65 The logical copula, which expresses this relation and asserts the truth of the judgment, expresses, of course, a logical entity, an *ens rationis*. True judgments may be stated about logical entities as well as about realities. But since the former can be conceived only after the manner of the latter, the appropriateness of using the verb which expresses existence or reality, as the logical copula, will be at once apparent. *Cf.* *Logic*, i., p. 249, n. 1.
 
-66 SUAREZ, *Metaph.*, Dist. 54, § i., 6.
-
-* 67 Cf.* *Logic*, i., pp. 28-9.
-
-* 68 Cf.* KLEUTGEN, *op. cit.*, §§ 551-2.
-
-* 69 Cf.* *Logic*, i., pp. 70-1.
-
 70 “Esse actum quondam nominat: non enim dicitur esse aliquid ex hoc, quod est in potentia, sed ex hoc, quod est in actu.”—ST. THOMAS, *Contra Gent.* i., c. xxii., 4.
 
 71 Certain medieval philosophers had made the same mistake. St. Thomas points out their error frequently. *Cf.* *Contra Gentes*, i., c. xxvi: “Quia id, quod commune est, per additionem specificatur vel individuatur, æstimaverunt, divinum esse, cui nulla fit additio, non esse aliquid proprium, sed esse commune omnium: non considerantes, quod id, quod commune est, vel universale, sine additione esse non potest, sed sine additione consideratur. Non enim animal potest esse absque rationali vel irrationali differentia, quamvis sine his differentiis consideretur; licet enim cogitetur universale absque additione, non tamen absque receptibilitate additionis est. Nam si animali nulla differentia addi posset, genus non esset; et similiter est de omnibus aliis nominibus. Divinum autem esse est absque additione, non solum cogitatione, sed etiam in rerum natura; et non solum absque additione, sed absque receptibilitate additionis. Unde ex hoc ipso quod additionem non recipit, nec recipere potest, magis concludi potest quod Deus non sit esse commune, sed esse proprium. Etenim ex hoc ipso suum esse ab omnibus aliis distinguitur, quia nihil ei addi potest.”
-
-* 72 Cf.* ST. THOMAS, QQ. DD. *De Potentia*, q. i. art. 1, ad. 18.
-
-73 ARISTOTLE, *Metaph.*, c. iv., v., *apud* KLEUTGEN, *op. cit.*, iii., p. 60.
-
-* 74 Contra Gentes*, II., c. vii.
 
 * 75 Cf.* LAMINNE, *Cause et Effet*—*Revue neo-scolastique*, February, 1914, p. 38.
 
@@ -1039,8 +627,6 @@ _ 2 Institutions Metaphysica, quas Roma, in Pontificia Universitate Gregoriana t
 78 KLIMKE, *Der Monismus und seine philosophischen Grundlagen*, p. 185. *Cf.* *Irish Theological Quarterly*, vol. vii. (April, 1912), p. 157 *sqq.*, art. *Reflections on Some Forms of Monism*.
 
 79 For relations of *potentia* and *actus*, *cf.* MERCIER, *Ontologie*, § 214.
-
-* 80 Cf.* *Physics*, v., 1; *De Anima*, i., 3.
 
 81 Λεγώ δ᾽ ὕλην, ἢ καθ᾽ ἁυτὴν μήτε τὶ, μήτε ποσὸν, μήτε ποίον, μήτε ἄλλο μεδὲν λέγεται οἶς ὤρισται τὸ ὄν.—*Metaph.* vi., c. iii.
 
@@ -1058,17 +644,11 @@ _ 2 Institutions Metaphysica, quas Roma, in Pontificia Universitate Gregoriana t
 
 88 Et ex hoc patet ratio, writes St. Thomas, quare genus et species et differentia se habeant proportionaliter ad materiam, formam et compositum in natura, quamvis non sint idem cum illis; quia neque genus est materia, sed sumitur a materia ut significans totum; nec differentia est forma, sed sumitur a forma ut significans totum. Unde dicimus hominem esse *animal rationale*, et non _ex animali et rationali_; sicut dicimus eum esse ex corpore et anima. Ex corpore enim et anima dicitur esse homo, sicut ex duabus rebus quædam tertia res constituta, quæ neutra illarum est: homo enim nec est anima neque corpus; sed si homo aliquo modo ex animali et rationali dicatur esse, non erit sicut res tertia ex duabus rebus sed sicut intellectus [conceptus] tertius ex duobus intellectibus. Intellectus enim *animalis* est sine determinatione formae specialis naturam exprimens rei, ex eo quod est materiale respectu ultimae perfectionis. Intellectus autem hujus differentiae, *rationalis*, consistit in determinatione formae specialis: ex quibus duobus intellectibus constituitur intellectus speciei vel definitionis. Et ideo sicut res constituta ex aliquibus non recipit prædicationem earum rerum ex quibus constituitur; ita nec intellectus recipit prædicationem eorum intellectuum ex quibus constituitur; non enim dicimus, quod definitio sit genus vel differentia.—_De Ente et Essentia_, cap. iii.
 
-* 89 Cf.* MERCIER, *Psychologie*, vol. ii., § 169 (6th edit., 1903, pp. 24-5).
-
-* 90 Cf.* ARISTOTLE, *Metaph.*, L. viii., 10; ST. THOMAS, *In* viii., *Metaph.*, Lect. iii., par. i.
-
 * 91 Cf.* MERCIER, *Ontologie*, pp. 42-3. How do we know that not only water (H2O) is a possible essence but also hydrogen di-oxide (H2O2)? Because the latter substance has been *actually formed* by chemists (*Cf.* ROSCOE, *Elementary Chemistry*, Lesson VI.). Is hydrogen tri-oxyde (H2O3) a possible substance? We may ask chemists,—and they may not be able to tell us with any certainty whether it is or not.
 
 92 The actual existence of a thinking mind is of course a necessary condition, in the actual order, for the apprehension of objects in this abstract way. But such existence is no part of the apprehended object. That the human mind, which is itself finite, contingent, allied with matter, and dependent on the activity of corporeal sense organs for the objects of its knowledge, should nevertheless have the power to apprehend contingent realities apart from their contingent actual existence in time and space,—is a fact of the greatest significance as regards the nature of the mind itself. But if we try to prove the existence of God from a consideration of the nature and powers of the human mind, our argument proceeds from the actual, and is distinct from any argument based exclusively on the nature and properties of possible essences as such. St. Augustine’s argument assumes as a fact that the human mind represents to itself possible essences as having reality independently both of its own thought and of any actual existence of such essences (*Cf.* DE MUNNYNCK, *Praelectiones de Dei Existentia*, p. 23). But *is* this a fact? This is the really debatable point.
 
 93 Among others Henry of GHENT († 1293; *Cf.* DE WULF, _History of Medieval Philosophy*, pp. 364-6; KLEUTGEN, *Philosophie der Vorzeit_, Dissert, vi., cap. ii., 2 §§ 581-5), Capreolus (1380-1444), certain Scotists, and certain theosophists of the thirteenth and fourteenth centuries, are credited with this peculiar view. For numerous references, *Cf.* URRABURU, *Ontologia*, Disp. iii., cap. ii., art. v. pp. 650-63.
-
-* 94 Cf.* URRABURU, *op. cit.*, pp. 652-3, for references; among others, to ST. THOMAS, *De Potentia*, q. 3, art. 1, ad 2um; art. 7, ad 10um; art. 5, argum. 2o; *ibid.*, ad 2um. *Summa Theol.*, i., q. 14, art. 9; q. 45, art. 1; *ibid.* , art. 2, ad 2um; q. 61, art. 2, corp.
 
 95 Among others, BALMES (*Fundamental Philosophy*, bk. iv., ch. xxvi.), LEPIDI (*Ontologia*, quoted by DE MUNYNCK, _Praelectiones de Dei Existentia*, Louvain, 1904, p. 19); DE MUNYNCK (*ibid._, pp. 19-23, 46-7, 75); HICKEY (*Theologia Naturalis*, pp. 31-4); DRISCOLL (*God*, pp. 72 sqq.); LACORDAIRE (*God*, p. 21); KLEUTGEN, *Philosophie der Vorzeit*, Dissert. iv., § 476.
 
@@ -1096,21 +676,9 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 101 “Unde, etiamsi intellectus humanus non esset, adhuc res dicerentur verae in ordine ad intellectum divinum. Sed si uterque intellectus, quod est impossibile, intelligeretur auferri, nullo modo ratio veritatis remaneret.”—ST. THOMAS, *De Veritate*, q. i., art. ii.
 
-* 102 Phædo*, 100, C. ff.
-
-103 MERCIER, *Ontologie*, pp. 45-7.
-
-* 104 Cf*. DE MUNNYNCK, *op. cit.*, pp. 24-5.
-
-* 105 Cf.* DE MUNNYNCK, *op. cit.*, pp. 24-5.
-
-* 106 ibid.*, pp. 22, 24.
-
 107 “Quæ objecta non divina esse, luce clarius apparet. Attamen ilia ponderando, _modumque inspiciendo quo representantur a mente humana_, atque praesupponendo valorem objectivum intellectus, concludimus ex ideis ad realitates illas quæ in Esse divino fundantur ... ratione horum [objectorum *scil.* idearum nostrarum] percipimus, ope ratiocinii, illa positive aeterna et immutabilia, quæ reapse in Deitate fundantur, atque sunt ipse Deus quatenus imitabilis.”—*ibid.*, pp. 24-5. *Cf.* extract quoted above, p. 91 n.
 
 108 “Non ideo voluit Deus mundum creare in tempore, quia vidit melius sic fore, quam si creasset ab æterno; _nec voluit tres angulos trianguli æquales esse duobus rectis, quia cognovit aliter fieri non posse_. Sed contra, quia voluit creare mundum in tempore, ideo sic melius est, quam si creatus fuisset ab æterno, _et quia voluit tres angulos trianguli necessario æquales esse duobus rectis, idcirco jam verum est, et aliter fieri non potest_, atque ita de reliquis.”—DESCARTES, in *Resp. ad Sext. Objectiones*, ad 6um scrupulum.
-
-109 MERCIER, *op. cit.*, pp. 58-60.
 
 110 URRABURU (*op. cit.* Disp. iii., cap. ii., § iii., p. 671) mentions Wolff, Leibniz, Genuensis and Storchenau as holding this view.
 
@@ -1120,8 +688,6 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 113 Urraburu, Schiffini, Mendive. *Cf.* URRABURU, *op. cit.*, *ibid.*, p. 671.
 
-114 1 Cor. xiii. 12.
-
 115 “Ex hoc ipso quod quidditati esse attribuitur, non solum esse, sed ipsa quidditas creari dicitur: quia antequam esse habeat, nihil est, nisi forte in intellectu creantis, ubi non est creatura, sed creatrix essentia.”—ST. THOMAS, *De Potentia*, q. iii., art. v., ad 2 um.
 
 116 “Ipsum esse competit primo agenti secundum propriam naturam: esse enim Dei est ejus substantia, ut ostensum est (*C. G.*, Lib. i., c. 22). Quod autem competit alicui secundum naturam suam, non convenit aliis nisi per modum participationis, sicut calor aliis corporibus ab igne [*i.e.* as caused or produced in them. *Cf.* Kleutgen, _op. cit._, Dissert., i., c. iii., § 61]. Ipsum igitur esse competit aliis omnibus a primo agente per participationem quamdam. Quod autem alicui competit per participationem, non est substantia ejus. Impossibile est igitur quod substantia alterius entis praeter agens primum sit ipsum esse. Hinc est quod Exod. iii., proprium nomen Dei ponitur esse *qui est*, quia ejus solius proprium est, quod sua substantia non sit aliud quam suum esse.”—ST. THOMAS, _Contra Gentes_, L. ii., cap. 52, n. 7.
@@ -1130,23 +696,11 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 “Omne quod recipit aliquid ab alio, est in potentia respectu illius: et hoc quod receptum est in eo, est actus ejus; ergo oportet, quod ipsa forma vel quidditas, quæ est intelligentia [*i.e.* a pure spirit], sit in potentia respectu esse, quod a Deo recipit, et illud esse receptum est per modum actus, et ita invenitur actus et potentia in intelligentiis [*i.e.* pure spirits], non tamen forma et materia nisi aequivoce.”—*De Ente et Essentia*, cap. v. *Cf.* also *Summa Theol.*, P. i., q. iii., art. 4; q. xiii., art. 11; q. lxxv., art. 5, ad 4 um. *Quodlibeta*, ii., art. 3; ix., art. 6. _De Potentia*, q. vii., art. 2. *In Metaph._, iii., Dist. vi., q. 2, art. 2. *Contra Gentes*, L. ii., cap. 54, 68. St. Thomas is usually interpreted as teaching that the distinction between essence and existence in created things is a real distinction. But there are some who have been unable to convince themselves that the Angelic Doctor has made his mind entirely clear on the subject. Kleutgen, for instance, writes (*op. cit.*, Dissert. vi., c. ii., § 574, n. 2): “In the extracts quoted above St. Thomas clearly states that the distinction made by our thought is based on the nature of created things, but not that this distinction is that which exists between different parts, dependent on one another, each having its own proper being or reality.”
 
-* 117 Cf.* URRABURU, *op. cit.*, § 249, 5o.
-
-* 118 Cf.* REINSTADLER, *Ontologia*, lib. ii., cap. i., art. ii., § 2.
-
 119 Zigliara (*Ontologia* (14), iii. iv.) gives the virtual distinction as a sub-class of the real distinction; adding, however (according to Goudin, *Metaph.*, Disp. i., q. iii. art. ii., § i) that “this virtual distinction is not so much a [real] distinction as the basis of a [mental] distinction”.
-
-* 120 op. cit.*, p. 110.
 
 121 These may be seen in abundance in the works of any of the scholastic writers, medieval or modern, who discuss the question. *Cf.*, *e.g.* URRABURU, *op. cit.*, §§ 251-4.
 
 122 Besides St. Thomas (*cf.* *supra*, p. 102, n. 2), Albertus Magnus (1193-1280), Aegidius Romanus († *circa* 1300), Capreolus (1380-1444), Soncinas († 1494), Cajetan (1468-1534), Sylvester Ferrariensis (1474-1528), Dominicus Bañez (1528-1604), John of St. Thomas (1589-1644), Goudin (1639-95), are among the most noted scholastics to hold this view. It is supported by the members of the Dominican Order generally; and by not a few Jesuits among recent scholastic writers; also by MERCIER, *op. cit.*, §§ 48-51.
-
-* 123 Cf.* KLEUTGEN, *op. cit.*, § 575.
-
-* 124 ibid.*, § 577.
-
-* 125 Cf.* URRABURU, *op. cit.*, Disp. iv., cap. i., art. 2, pp. 730-31.
 
 126 “Esse rei quamvis sit aliud ab ejus essentia, non tamen est intelligendum, quod sit aliquod superadditum, ad modum accidentis, sed quasi constituitur per principia essentiae. Et ideo hoc nomen, quod imponitur ab esse (ens) significat idem cum nomine quod imponitur ab ipsa essentia.”—ST. THOMAS, *In Metaph.*, L. iv., l. 2.
 
@@ -1157,10 +711,6 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 129 When we speak of an essence as *receiving* existence, we do not necessarily imply a real distinction between receiver and received: “Non est imaginandum quod una res sit, quae participat sicut essentia, et alia quae participatur sicut esse, sed quia una et eadem res est realitas modo participato et per vim alterius sicut per vim agentis: haec enim realitas de se non est nisi sub modo possibili; quod autem sit et vocari possit actus, hoc habet per vim agentis.”—ALEXANDER OF HALES, *In Metaph.*, L. vii., text 22. “Non omne acceptum,” writes St. Thomas, “est receptum in aliquo subjecto; alioquin non posset dici quod tota substantia rei creatae sit accepta a Deo, cum totius substantiae non sit aliquod subjectum receptivum”—*Summa Theol.*, I., q. xxvii., art. ii., ad. 3um.
 
 * 130 Cf.* MERCIER, *op. cit.*, § 49. Some of these doctrines we shall examine later, by way of illustration, in connexion with the *Unity* of being.
-
-* 131 Cf.* URRABURU, *ibid.*, art. iii., Obj. 9, Resp.
-
-132 This view is advocated by, among others, Duns Scotus (1266-1308), Henry of Ghent († 1293), Francis de Vittoria (1480-1566), Dominicus de Soto (1496-1560), Molina (1535-1600), Fonseca (1548-97), and Scotists generally.
 
 133 ARISTOTLE, *Metaph.*, lib. 5, text ii., cap. 6; ST. THOMAS, _in loc._ et alibi.
 
@@ -1190,8 +740,6 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 146 Materia ... dupliciter accipitur, scilicet, ut signata et non signata. Et dicitur signata, secundum quod consideratur cum determinatione dimensionum harum scilicet vel illarum; non signata autem, quæ sine determinatione dimensionum consideratur. Secundum hoc igitur est sciendum, quod materia signata est individuationis principium.—ST. THOMAS, *De Veritate*, q. ii., art. 6, ad. 7am.
 
-* 147 Cf.* URRABURU, *op. cit.*, Disp. ii., cap. 2, § iii., pp. 271-3.
-
 148 These will easily be found in any of the fuller scholastic treatises. *Cf.* URRABURU, *op. cit.*, Disp. ii., cap. 2, art. 4. *Philosophia Lacencis, Logica*, §§ 1282 *sqq.*; MERCIER, *Ontologie*, §§ 36-42; KLEUTGEN, *Philosophie Scolastique*, §§ 610 *sqq.*; BULLIAT, *Thæsaurus Philosophiae Thomisticae* (Nantes, 1899), pp. 171 *sqq.*—a useful book of reference for the teaching of St. Thomas.
 
 149 A kindred view to this is the view that subsistence (“*subsistentia*,” “*suppositalitas*”) or personality (“*personalitas*”) is the principle of individuation. We shall see later in what subsistence or personality is supposed to consist. Here it is sufficient to observe that the individual nature as such has not necessarily subsistence or personality; hence it cannot be individuated by this latter.
@@ -1199,8 +747,6 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 150 The consistent attitude for the Thomist here would, however, appear to be a denial that such a thing would be intrinsically possible.
 
 151 Hujusmodi relatio non potest consistere nisi in quodam ordine, quem ratio adinvenit alicujus ad seipsum secundum aliquas ejus duas considerationes.—ST. THOMAS, *Summa Theol.*, i., q. xxviii., art. 3, ad. 2am.
-
-* 152 Cf.* *Science of Logic*, vol. i., § 59.
 
 153 It is only the concrete and individual that as such can exist actually; the abstract and universal as such cannot exist actually: abstractness and universality are mental modes—_entia rationis_—annexed by the mind to the real content of its concepts: considered as thought-objects they are themselves not real entities: they do not affect reality as given to us in our experience. But perhaps concreteness and individuality are also mere mental modes, affecting reality not as given to us in our experience but only as subjected to the process of intellectual conception, or at least as subjected to the process of sense perception? This would appear to be part of the general Kantian theory of knowledge: that we can apprehend reality as concrete and individual only because space and time, which characterize the concrete and individual mode of being, are mental modes which must be applied to reality as a prerequisite condition for rendering the latter capable of apprehension in our experience. This contention is examined in another context. *Cf.* *infra*, pp. 145, 147, 151.
 
@@ -1210,41 +756,21 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 156 It is not necessary of course that this implicit embodiment of all the others, by any one of them, be seen to be *mutual*. It is sufficient, for instance, that of the concepts *a*, *b*, *c* and *d*, *a* be seen implicitly to involve *b*, *b* to involve *c*, etc., though not *vice versa*. However, it must be remarked that in the exercise of *thought* upon its *abstract* objects we feel something wanting to our intellectual insight as long as the relations we apprehend are not *reciprocal*. In the sciences of abstract quantity we approximate to the ideal of establishing reciprocal relations throughout the whole system of the concepts analysed. But abstract thought does not give us an adequate apprehension of the real: it represents reality only under the *static* aspect, and as *abstract*, *i.e.* apart from the individualizing conditions of time and space which affect its *concrete, actual existence* as revealed in sense experience. Were we to neglect the latter, and consider merely what abstract thought gives us, we should regard as *really one* what is _one for thought*. But what is one for thought is *the universal_; and the logical issue of holding the universal as such to be real is monism. Or again, to put the matter in another way, in so far as intellect sees the objects of its various abstract concepts to involve one another necessarily, it has no reason—as long as it ignores the verdict of sense experience on the real manifoldness of actually existing being—to abstain from attributing a *real unity* to the whole system of abstract thought-objects which it contemplates as reciprocally and necessarily interrelated. On the contrary, it should pronounce that whatever plurality can be unified by the dialectically necessary relations discovered by thought, is _really one*, and must be regarded as *one reality_: which, again, is monism. But a philosophy which thus ignores sense experience must be one-sided and misleading.
 
-* 157 Cf.* URRABURU, *op. cit.*, Disp. ii., cap. ii., art. 5 (p. 319).
-
-* 158 Cf.* *infra*, § 83.
-
-* 159 Cf.* URRABURU, *op. cit.*, *ibid.* p. 322.
-
 160 ST. THOMAS, *De Ente et Essentia*, cap. iv.: “Ideo, si quaeratur utrum ista natura possit dici una vel plures, neutrum concedendum est: quia utrumque est extra intellectum [conceptum] humanitatis, et utrumque potest sibi accidere. Si enim pluralitas esset de ratione ejus, nunquam posset esse una: cum tamen una sit secundum quod est in Sorte. Similiter si unitas esset de intellectu et ratione ejus, tunc esset una et eadem natura Sortis et Platonis, nec posset in pluribus plurificari.” *Cf.* ZIGLIARA, *Summa Philos.*, *Ontologia* (1), iv., v.; (3) iv.
 
 161 “Licet enim (natura) nunquam sit sine aliquo istorum, non tamen est de se aliquod istorum, ita etiam in rerum natura secundum illam entitatem habet verum ‘esse’ extra animam reale: et secundum illam entitatem habet unitatem sibi proportionabilem, quae est indifferens ad singularitatem, ita quod non, repugnat illi unitati de se, quod cum quacumque unitate singularitatis ponatur.”—SCOTUS, _In L. Sent.*, 2, dist. iii., q. 7.—*Cf.* DE WULF, *History of Medieval Philosophy_, p. 372.
 
 * 162 Cf.* *Science of Logic*, ii., § 248. *Moral* truth or veracity—the conformity of language with thought—is treated in Ethics.
 
-* 163 Cf.* MERCIER, *Ontologie*, P. ii., § 4, i.
-
-* 164 Cf.* *Science of Logic*, ii., §§ 252-4.
-
 165 “Si omnis intellectus (quod est impossibile) intelligeretur auferri, nullo modo ratio veritatis remaneret.”—ST. THOMAS, *De Veritate*, q. i., art 1, 2 in fine.
-
-* 166 Cf.* ST. THOMAS, *De Veritate*, q. i., and *passim*.
-
-167 ST. THOMAS, *De Veritate*, q. i., art. 2.
-
-168 ST. THOMAS, *De Veritate*, q. i., art. 4; *Summa Theol.*, i., q. 16, art. 6.
 
 169 “Si intellectus humanus non esset, adhuc res dicerentur veræ in ordine ad intellectum divinum. Sed si uterque intellectus, quod est impossibile, intelligeretur auferri, nullo modo ratio veritatis remaneret.”—ST. THOMAS, *De Veritate*, q. i., art. 2.
 
 170 “Si ergo accipiatur veritas *rei* secundum ordinem ad intellectum divinum, tunc quidem mutatur veritas rei mutablis in aliam veritatem, non in falsitatem.”—ST. THOMAS, *ibid.* q. i., art. 6.
 
-* 171 Cf.* ARISTOTLE, *De Anima*, iii.; ST. THOMAS, *De Veritate*, q. i., art. 1.
-
 172 “Res per se non fallunt, sed per accidens. Dant enim occasionem falsitatis; eo quod similitudinem eorum gerunt quorum non habent existentiam.... Res notitiam sui facit in anima per ea quae de ipsa exterius apparent ... et ideo quando in aliqua re apparent sensibiles qualitates demonstrantes naturam quae eis non subest, dicitur res illa esse falsa.... Nec tamen res est hoc modo causa falsitatis in anima, quod necessario falsitatem causat.”—ST. THOMAS, *Summa Theol.*, i., q. 17, art. 1, ad. 2; *De Veritate*, q. i., art. 10, c.
 
 173 Καλῶς ἀπεφήναντο τἀγαθὸν, οὖ πάντα ἐφίεται.—ARISTOTLE, *Eth.*, i.
-
-* 174 Cf.* *Science of Logic*, ii., § 217.
 
 175 “Bonum autem, cum habeat notionem appetibilis, importat habitudinem causæ finalis.”—ST. THOMAS, *Summa Theol.*, i., q. 5, art. 2, ad. 1.
 
@@ -1264,15 +790,11 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 183 “Eorum quae propter se apprehenduntur, quaedam apprehenduntur solum propter se, et nunquam propter aliud, sicut felicitas, quae est ultimus finis; quaedam vero apprehenduntur et propter se, in quantum habent in seipsis aliquam rationem bonitatis, etiamsi nihil aliud boni per ea nobis accideret, et tamen sunt appetibilia propter aliud, in quantum scilicet perducunt nos in aliquod bonum perfectius: et hoc modo virtutes sunt propter se apprehendendae.”—*ibid.*, ad I.
 
-* 184 Cf.* MERCIER, *op. cit.*, p. 236.
-
 185 “Omnia ... quae jam habent esse, illud esse suum naturaliter amant, et ipsam tota virtute conservant.... Ipsum igitur esse habet rationem boni. Unde sicut impossibile est quod sit aliquod ens quod non habeat esse, ita necesse est quod omne ens sit bonum ex hoc ipso quod habet esse.”—ST. THOMAS, *De Veritate*, q. 21, art. 2, c.
 
 186 “Non-esse secundum se non est appetibile, sed per accidens, inquantum scilicet ablatio alicujus mali est appetibilis; quod malum quidem aufertur per non-esse; ablatio vero mali non est appetibilis, nisi inquantum per malum privatur quoddam esse. Illud igitur, quod per se est appetibile, est esse; non-esse vero, per accidens tantum, inquantum scilicet quoddam esse appetitur, quo homo non sustinet privari; et sic etiam per accidens non-esse dicitur bonum.”—ST. THOMAS, *Summa Theol.*, i., q. 5, art. 2, ad. 3.
 
 187 “Malum est defectus boni quod natum est et debet haberi.”—ST. THOMAS, *Summa Theol.*, i., q. 49, art. 1, c.
-
-* 188 ibid.*
 
 189 “Causam formalem malum non habet, sed est magis privatio formae.”—St. THOMAS, *Summa Theol.*, i., q. 49, art. 1, c.
 
@@ -1294,11 +816,7 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 * 198 Cf.* DE WULF, *La Valeur esthétique de la moralité dans l’art*, pp. 28-9.
 
-* 199 L’Art et la Morale*, p. 29.
-
 * 200 De la connaissance de Dieu et de soi-même*, ch. i., § 8.
-
-* 201 De Vera Religione*, c. 32.
 
 * 202 Cf.* POINCARÉ, _Conférence sur les rapports de l’analyse et de la physique mathematique*.—*apud* MERCIER, *Ontologie_, § 274, pp. 546-7 n.
 
@@ -1322,31 +840,11 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 212 At the same time it must be borne in mind that many of the judgments by which things are pronounced “ugly” or “commonplace” are erroneous. This is partly because they are based on first and superficial sense impressions: beauty must be apprehended and judged by the *intellect*, and by the intellect “informed” with genuine knowledge; to the eye of enlightened intelligence there are beauties of structure and organization in the beetle or the tadpole as well as in the peacock or the spaniel. It is partly, too, because we unconsciously or semi-consciously apply standards of human beauty to beings that are merely animal: “To know really whether there are ugly monkeys we should have to consult a monkey; for the beauty we unconsciously look for, and certainly do not find, in the monkey, is the beauty of the human form; and when we declare the monkey ugly what we really mean is that it would be ugly if it were a human being; which is undeniable.”—SULLY-PRUDHOMME, _L’Expression dans les beaux arts_, p. 104.
 
-213 Proverbs, xxxi. 30.
-
-214 ST. THOMAS, *Summa Theol.*, ia, iiae, q. 57, art. 3, c.
-
-* 215 Cf.* *Science of Logic*, i., §§ 70 *sqq.*
-
 * 216 Cf.* WINDELBAND, *History of Philosophy* (tr. Tufts), *Introduction*.
-
-* 217 Cf.* *Science of Logic*, ii. P. iv., ch. v.
-
-* 218 Metaph.*, vi., 1.
 
 * 219 Cf.* ST. THOMAS, *Summa Theol.*, i., q. 90, art. 2: “Illud proprie dicitur esse quod ipsum habet esse quasi in suo esse subsistens. Unde *solæ substantiæ proprie et vere dicuntur entia*; accidens vero non habet esse sed eo aliquid est, et hac ratione ens dicitur ... accidens dicitur *magis entis quam ens*.”
 
-* 220 In Metaph.*, L. v., lect. 9; cf. *In Physic.*, L. iii., lect. 5.
-
-* 221 Science of Logic*, i., §§ 71, 73-76.
-
-* 222 ibid.*, §§ 74, 76.
-
-* 223 Cf.* URRABURU, *op. cit.*, § 268 (p. 668); MERCIER, *Logique*, § 33 (4th edit., p. 99).
-
 * 224 Cf.* ST. THOMAS, *In Metaph.*, L. xi., lect. 9: “Sed sciendum est quod prædicamenta diversificantur secundum diversos modos prædicandi. Unde idem, secundum quod diversimode de diversis prædicatur, ad diversa prædicamenta pertinet.... Similiter motus secundum quod prædicatur de subjecto in quo est, constituit prædicamentum passionis. Secundum autem quod prædicatur de eo a quo est, constituit prædicamentum actionis.”
-
-* 225 Ontologie*, § 138 (3rd edit., p. 263).
 
 * 226 Cf.* *Essay concerning Human Understanding*, book iv., ch. vi., § 11: “Had we such ideas of substances, as to know what real constitutions produce those sensible qualities we find in them, and how these qualities flowed from thence, we could, by the specific ideas of their real essences in our own minds, more certainly find out their properties, and discover what properties they had or had not, than we can now by our senses: and to know the properties of gold, it would be no more necessary that gold should exist, than it is necessary for the knowing the properties of a triangle, that the triangle should exist in any matter; the idea in our minds would serve for the one as well as the other.”
 
@@ -1358,21 +856,13 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 230 Of the definition of a substance as _something which may exist by itself_, he says: “this definition agrees to everything that can possibly be conceiv’d; and will never serve to distinguish substance from accident, or the soul from its perceptions.... Since all our perceptions are different from each other, and from everything else in the universe, they are also distinct and separable, and may be consider’d as separately existent, and may exist separately, and have no need of anything else to support their existence. They are, therefore, substances, as far as this definition explains a substance.”—*ibid.*, § v. “We have no perfect idea of substance, but ... taking it for *something that can exist by itself*, ’tis evident every perception is a substance, and every distinct part of a perception a distinct substance.”—*ibid.*
 
-* 231 Cf.* MERCIER, *op. cit.*, § 142 (p. 272).
-
-* 232 Cf.* KLEUTGEN, *op. cit.*, Dissert. vi., ch. iii., li, § 592.
-
 233 Assuming for the moment that we can know substance to be not *one* but *manifold*: that experience reveals to us a plurality of numerically or *really*, and even specifically and generically, distinct substances. *Cf.* *infra*, p. 221.
 
 * 234 Cf.* HUXLEY, *Hume*, bk. ii., ch. ii. TAINE, *De L’Intelligence*, t. i., Preface, and *passim*.
 
-* 235 Cf.* § 65, *infra*.
-
 236 Such terms as “corruptible,” “destructible,” etc., imply certain attributes *of a thing* which can be corrupted, destroyed. Conceiving this attribute in the abstract we form the terms “corruptibility,” “destructibility,” etc. So, too, the term “possibility” formed from the adjective “possible,” simply implies in the abstract what the latter implies in the concrete—an active or passive power *of a thing* to cause or to become something; or else the mind’s conception of the non-repugnance of this something. To substantialize a possibility, therefore, is sufficiently absurd; but to speak of a possibility as real and at the same time to deny the reality of any subject in which it would have its reality, is no less so.
 
 237 except in the Blessed Eucharist: here we know from Divine Revelation that the accidents of bread and wine exist apart from their connatural substance. We cannot, by the light of reason, prove *positively* the possibility of such separate existence of accidents; at the most, men of the supreme genius of an Aristotle may have strongly suspected such possibility, and may have convinced themselves of the futility of all attempts to prove in any way the impossibility of such a condition of things. Nor can we, even with the light of Revelation, do any more than show the futility of such attempts, thus *negatively* defending the possibility of what we know from Revelation to be a fact.
-
-* 238 Cf.* n. 1.
 
 * 239 Cf.* MAHER, *Psychology*, ch. xxii., for a full analysis and refutation of phenomenist theories that would deny the substantiality of the human person.
 
@@ -1384,41 +874,17 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 243 and also *appetitive*; as in mental life appetition is a natural consequent of perception. It is in accordance with this latter idea that Wundt conceives all reality as being in its ultimate nature appetitive activity: the *Ego* is a “volitional unit” and the universe a “collection of volitional units”.—*Cf.* WUNDT, _System der Philosophie_, Leipzig, 1889, S. 415-421.
 
-* 244 Principles of Psychology*, Pt. ii., ch. i., § 59.
-
 245 But from Descartes’ doctrine of two passive substances so antithetically opposed to each other the transition to Spinozism was easy and obvious. If mind and matter are so absolutely opposed as thought and extension, how can they unite to form one human individual in man? If both are purely passive, and if God alone puts into them their conscious states and their mechanical movements respectively, what remains proper to each but a pure passivity that would really be common to both? Would it not be more consistent then to refer this thought-essence or receptivity of conscious activities, and this extension-essence or receptivity of mechanical movements, to God as their proper source, to regard them as two attributes of His unique and self-existent substance, and thus to regard God as substantially immanent in all phenomena, and these as only different expressions of His all-pervading essence? This is what Spinoza did; and his monism in one form or other is the last word of many contemporary philosophers on the nature of the universe which constitutes the totality of human experience.—*Cf.* HÖFFDING, *Outlines of Psychology*, ch. ii., and criticism of same *apud* MAHER, *Psychology*, ch. xxiii.
 
 246 “Esse substantiæ non dependet ab esse alterius sicut ei inhærens, licet omnia dependeant a Deo sicut a causa prima.”—ST. THOMAS, _De Causa Materiæ_, cap. viii.
-
-* 247 Cf.* KLEUTGEN, *op. cit.* § 594.
-
-* 248 Ibid.*, §§ 597-600.
 
 249 “Illud proprie dicitur esse, quod ipsum habet esse, quasi in suo esse subsistens. Unde solæ substantiæ proprie et vere dicuntur entia; accidens vero non habet esse, sed eo aliquid est, et hac ratione ens dicitur: sicut albedo dicitur ens quia ea aliquid est album. Et propter hoc dicitur in *Metaph.*, l. 7 [al. 6], c. i. [Arist.], quod accidens dicitur magis entis quam ens.”—ST. THOMAS, *Summa Theol.*, i. q. 90, art. 2. “Illud cui advenit accidens, est ens in se completum consistens in suo esse, quod quidem esse naturaliter præcedit accidens, quod supervenit: et ideo accidens superveniens, ex conjunctione sui cum eo, cui supervenit, non causat illud esse in quo res subsistit per quod res est ens per se: sed causat quoddam esse secundum, sine quo res subsistens intelligi potest esse, sicut primum potest intelligi sine secundo, vel prædicatum sine subjecto. Unde ex accidente et subjecto non fit unum per se, sed unum per accidens, et ideo ex eorum conjunctione non resultat essentia quædam, sicut ex conjunctione formæ cum materia: propter quod accidens neque rationem completæ essentiæ habet, neque pars completæ essentiæ est, sed sicut est ens secundum quid, ita et essentiam secundum quid habet.”—*De Ente et Essentia*, ch. vii.
 
 250 “Non est definitio substantiæ, ens per se sine subjecto, nec definitio accidentis, ens in subjecto; sed quidditati seu essentiæ substantiæ *competit* habere *esse* non in subjecto; quidditati autem sive essentiæ accidentis *competit* habere *esse* in subjecto.”—ST. THOMAS, *Summa Theol.*, iii., q. 77, art. 1, ad. 2.
 
-* 251 Cf.* KLEUTGEN, *op. cit.*, §§ 595-596.
-
-* 252 ibid.*, § 619.
-
-* 253 Cf.* URRABURU, *op. cit.*, §§ 320-325.
-
-254 KLEUTGEN, *op. cit.*, §§ 618, 624.
-
 255 This logical usage is applied equally to attributes of a logical subject which is not itself a substance but an accident; it turns solely on the point whether the concept of the logical predicate of a judgment is or is not connected by an absolute logical connexion, a connexion of thought, with the concept of the logical subject.
 
-* 256 Cf.* ST. THOMAS, *Quaest. Disp.*, *De Spir. Creat.*, art. 11, ad. 7.
-
-* 257 Cf.*, however, § 68, p. 246, n. 2, *infra*.
-
 258 St. Thomas, whose language is usually so moderate, thus expresses his view of the doctrine afterwards propounded by Descartes when the latter declared the essence of the soul to be thought: “Quidquid dicatur de potentiis animae, tamen nullus unquam opinatur, nisi insanus, quod habitus et actus animae sint ipsa ejus essentia.”—*Quaest. Disp., De Spir. Creat.*, art. 11, ad 1. For a very convincing treatment of this question, *cf.* KLEUTGEN, _op. cit._, §§ 625-626.
-
-259 DE SAN, *Cosmologia*, § 323, *apud* MERCIER, *op. cit.*, § 158.
-
-* 260 op. cit.*, § 625.
-
-261 ST. THOMAS, *Summa Theol.*, iii., q. 17, art. 2, c.
 
 262 Hence St. Thomas says, in regard to the Blessed Eucharist, that the accidents of bread and wine had not an existence of their own as long as the substance of bread and wine was there; that this is true of accidents generally; that it is not they that exist, but rather their subjects; that their function is to determine these subjects to exist as characterized in a certain way, as whiteness gives snow a white existence: “Dicendum quod accidentia panis et vini, manente substantia panis et vini non habebant ipsa *esse* sicut nec alia accidentia, sed subjecta eorum habebant hujusmodi *esse* per ea, sicut nix est alba per albedinem.”—*Summa Theol.*, iii., q. 77, art. 1, ad. 4.
 
@@ -1426,17 +892,11 @@ Balmes, therefore, does not mean that we could continue to see essences as possi
 
 * 264 Cf.* URRABURU’S definition: “entitas vel realitas a subjecto realiter distincta, cujus totum esse consistit in ultima determinatione rei ad aliquod munus obeundum, vel ad aliquam realem denominationem actu habendam, sine qua, saltem in individuo sumpta, res eadem potest existere absolute”.—*op. cit.*, § 120 (p. 380).
 
-* 265 Cf.* URRABURU, *op. cit.*, § 291 (p. 854, *quarta opinio*), p. 854.
-
 266 Whether immanent vital acts—especially of the spiritual faculties in man: thoughts, volitions, etc.—are mere modes, or whether they are absolute accidents, having their own proper and positive reality which perfects their subject by affecting it, is a disputed question. Habits, acquired by repetition of such acts, *e.g.* knowledge and virtue, belonging as they do to the category of quality, are more than mere modalities of the human subject: they have an absolute, positive entity, whereby they add to the total perfection of the latter.
-
-* 267 Cf.* URRABURU, *op. cit.*, § 121 (pp. 386 *sqq.*).
 
 268 The fact that Aristotle [*Metaph.*, lib. vii. (al. vi.), ch. iii.] seems to have placed a *real distinction* between extension and corporeal substance, while he could not have suspected the absolute *separability* of the former from the latter, would go to show that he did not regard separability as the only test of a real distinction. *Cf.* KLEUTGEN, *op. cit.*, *ibid.*
 
 269 Obviously we are not concerned herewith *all* the attributes which by a necessity of thought we ascribe to an essence, *e.g.* the *corruptibility* of a corporeal substance, or the *immortality* of a spiritual substance. These are not entities really distinct from the substance, but only aspects which we recognize to be necessary corollaries of its nature. We are concerned only with properties which are real powers, faculties, forces, aptitudes of things.—*Cf.* KLEUTGEN, *op. cit.*, § 627.
-
-* 270 op. cit.*, § 628.
 
 271 “Tertii sunt, qui dicunt, quod potentiae animae nec adeo sunt idem ipsi animae, sicut sunt ejus principia intrinsica et essentialia, nec adeo diversae, ut cedant in aliud genus, sicut accidentia; sed in genere substantiae sunt per reductionem ... et ideo quasi medium tenentes inter utramque opinionem dicunt, quasdam animae potentias sic differre ad invicem, ut nullo modo dici possint una potentia: non tamen concedunt, eas simpliciter diversificari secundum essentiam, ita ut dicantur diversae essentiae, sed differre essentialiter in genere potentiae, ita ut dicantur diversa instrumenta ejusdem substantiae.”—*In lib.* ii., dist. xxiv., p. 1, art. 2, q. 1.
 
@@ -1446,27 +906,15 @@ In the same context he explains what we are to understand by referring anything 
 
 273 The student will find in MAHER’S *Psychology* (ch. iii.) a clear and well-reasoned exposition of the inconsistency and groundlessness of such attacks on the doctrine of faculties.
 
-* 274 Cf.* KLEUTGEN, *op. cit.*, § 636-637.
-
 275 “Cum corpus hominis aut cujuslibet alterius animalis sit quoddam totum naturale, dicit unum ex eo quod unam formam habeat qua perficitur non solum secundum aggregationem aut compositionem, ut accidit in domo et in aliis hujusmodi. Unde opportet quod quaelibet pars hominis et animalis recipiat esse [*i.e.* sibi proprium] et speciem ab anima sicut a propria forma. Unde Philosophus dicit (l. ii. de anima, text. 9), quod recedente anima neque oculus neque caro neque aliqua pars manet nisi aequivoce.”—ST. THOMAS, _Quaest. Disp. de anima*, art. 10—*apud* KLEUTGEN, *op. cit._, § 632.
 
 276 The most perfect real unity is of course that which includes all perfection in the simplicity of its actual essence, without any dispersion or plurality of its being, without any admixture of accident or potentiality. Such is the unity of the Infinite Being alone. No finite being possesses its actuality *tota simul*. And the creature falls short of perfect unity in proportion as it attains to this actuality only by a multiplicity of real changes, by a variety of really distinct principles and powers, essential and accidental, in its concrete mode of being. In proportion as created things are higher or lower in the scale of being (47), they realize a higher or a lower grade of unity in their mode of individual existence.
 
 277 We are concerned here only with finite, created substances, as distinct from the Divine Uncreated Substance on whom these depend (64).
 
-278 ARISTOTLE, *Categ.* ch. iii., *passim*; *Metaph.*, l. v. (al. vi.), ch. viii.; ST. THOMAS, *In Metaph.*, l. v. lect. 10; KLEUTGEN, _op. cit._, § 589-591.
-
-* 279 Cf.* KLEUTGEN, *op. cit.*, §§ 587, 602-603.
-
-* 280 Cf.* URRABURU, *op. cit.*, §§ 277, 279.
-
-* 281 Cf.* *Science of Logic*, ii., § 217 (pp. 66 *sqq.*).
-
 282 Sciendum est quod nomen naturae significat quodlibet principium intrinsicum motus; secundum quod Philosophus dicit quod _natura est principium motus in eo in quo est per se, et non secundum accidens*.—ST. THOMAS, *Summa Theol._, iii., q. 2, art. 1 in c.
 
 283 And here we are reminded of the view of many medieval scholastics of high authority, that the same material entity can have at the same time a plurality of formative principles or *substantial forms* of different grades of perfection.
-
-* 284 Cf.* URRABURU, *op. cit.*, § 282 (p. 825).
 
 285 For want of a more appropriate rendering we translate the Latin term *suppositum* (Gr. ὑπόστασις) by the phrase “subsisting thing”; though the classical terms are really generic: *suppositum* being a genus of which there are two species, *suppositum irrationale* (“*thing*” or “subsisting *thing*”) and *suppositum rationale* (“*person*”).—*Cf.* *infra*, pp. 265-6.
 
@@ -1476,31 +924,19 @@ In the same context he explains what we are to understand by referring anything 
 
 * 288 Cf.* preceding note. St. Thomas continues: “Potest igitur dici quod anima intelligit, sicut oculus videt, sed magis proprie dicitur quod homo intelligat per animam” (ibid.); and elsewhere he writes: “Dicendum quod anima est pars humanae speciei [*i.e.* naturae]. Et ideo, licet sit separata, quia tamen retinet naturam unibilitatis, non potest dici substantia individua quae est hypostasis vel substantia prima, sicut nec manus, nec quaecumque alia partium hominis; et sic non competit ei neque definitio personae, neque nomen.”—*Summa Theol.*, i., q. 29, art. 1, ad. 5.
 
-* 289 Cf.* *Science of Logic*, i., §§ 54-5.
-
 290 All *created* subsisting things and persons depend, of course, essentially on the Necessary Being for their existence and for their activity. This Necessary Being we know from Revelation to be *Triune*, Three in Persons, One in Nature. The subsistence of each Divine Person of the Blessed Trinity excludes *all* modes of dependence.
 
 291 “Hoc ... quod est per se agere, excellentiori modo convenit substantiis rationalis naturae quam aliis. Nam solae substantiae rationales habent dominium sui actus, ita quod in eis est agere et non agere; aliae vero substantiae magis aguntur quam agunt. Et ideo conveniens fuit ut substantia individua *rationalis* naturae speciale nomen haberet.”—ST. THOMAS, *Quaest. Disp. de Potentia*, q. ix., art. 1, ad. 3.
-
-* 292 Cf.* BILLOT, *De Verbo Incarnato*, q. ii.—*apud* MERCIER, _op. cit._, § 151 (pp. 299-300).
 
 * 293 Cf.* URRABURU, *op. cit.*, § 291, for an exhaustive list of the authorities in favour of each of the various views propounded in this present context.
 
 294 “Natura singularis et integra per se consituitur in sua independentia, non aliquo positivo addito ultra illam entitatem positivam, qua est haec natura.”—SCOTUS, iii., Dist. i. q. 1, n. 9 and n. 11, ad. 3. *Cf.* SUAREZ, *Metaph.*, Disp. xxxiv. § 2; KLEUTGEN, *op. cit.*, § 616; FRANZELIN, *De verbo Incarnato*, Th. xxix.
 
-* 295 op. cit.*, § 293 (p. 861).
-
 296 Neither is it a *natural* union in the sense of being *due* to the human nature; it is wholly *undue* to the latter, and is in this sense *supernatural*.
-
-* 297 op. cit.*, § 293 (p. 861).
 
 * 298 ibid.* Farther on (p. 863) he says it is certain that the Divine Nature of the Word is *substantially* united with humanity in a unity of person or subsistence: “certum est eamdem [naturam divinam] substantialiter uniri cum humanitate in unitate suppositi;” and for this he considers that the human nature must be incomplete “in ratione personae”. But this proves nothing; for of course the human nature must be wanting in personality. But it is complete _as a nature_. Nor does the aphorism he quotes—“Quidquid substantiae in sua specie completae accedit, accidens est,”—apply to subsistence or personality supervening on a complete substance.
 
 299 “Humanitas illa [*scil.* Christi], quamvis completa in *esse* naturae, non tamen habet ultimum complementum in genere substantiae cum in se non subsistat.”—*ibid.*, § 296 (p. 866).
-
-300 This view, which has many supporters, is clearly explained and ably defended by MERCIER in his *Ontologie*, § 151 (pp. 298-302), § 52 (pp. 134-5), § 49 (p. 127, n. 1).
-
-* 301 Cf.* MERCIER, *op. cit.*, § 49 (p. 127, n. 1).
 
 302 Hence Urraburu gives this *real* definition of subsistence: _ultimus naturae terminus in ordine substantiali_ sive in ratione existentis per se: the ultimate term (or determination) of a nature in the order of substantiality or of “existing by itself”—*op. cit.*, § 296 (p. 866).
 
@@ -1510,15 +946,7 @@ In the same context he explains what we are to understand by referring anything 
 
 * 305 Cf.* MAHER, *Psychology*, ch. xvii.
 
-* 306 ibid.*, p. 365.
-
-* 307 Cf.* MAHER, *Psychology*, p. 363.
-
 * 308 Cf.* MAHER, *Psychology*, p. 365 (italics in last sentence ours).
-
-* 309 Cf.* RICKABY, *First Principles*, p. 370.
-
-* 310 Cf.* MAHER, *ibid.*, pp. 487-92; MERCIER, *Psychologie*, ii., pp. 197-224 (6th edit.); *Ontologie*, § 153 (p. 304).
 
 311 There are cogent theological reasons also against the view that consciousness constitutes personality. For instance, the human nature of our Divine Lord has its own proper consciousness, which, nevertheless, does not constitute this nature a person.
 
@@ -1532,21 +960,13 @@ In the same context he explains what we are to understand by referring anything 
 
 * 314 Essay Concerning Human Understanding*, bk. ii., ch. xxvii., § 7. Names do not stand for ideas or concepts but for *conceived* realities; and the question here is: What is the conceived reality (in the existing human individual) for which the term “person” stands?
 
-* 315 ibid.*, § 9.
-
 * 316 Essay Concerning Human Understanding*, bk. ii., ch. xxvii., §§ 13, 14.
 
 * 317 Essay Concerning Human Understanding*, bk. ii., ch. xxvii., § 13.
 
 318 For a searching criticism of such theories of the Ego or human person, *cf.* MAHER, *Psychology*, ch. xxii.
 
-* 319 ibid.*, § 19.
-
-320 p. 276.
-
 * 321 Cf.* MAHER’S criticism of Professor James’ theory on double personality (*op. cit.*, ch. xxii., pp. 491-2): “Professor James devotes much space to these ’mutations’ of the Ego, yet overlooks the fact that they are peculiarly fatal, not to his adversaries, but to his own theory that ‘the present thought is the only thinker,’ and that seeming identity is sufficiently preserved by each thought ’appropriating’ and ‘inheriting’ the contents of its predecessor. The difficulties presented to this process of inheritance by such facts as sleep and swooning have been already dwelt upon [*cf.* *ibid.*, p. 480 (c)]; but here they are if possible increased. The last conscious thought of, say, Felida 2 has to transmit its gathered experience not to its *proximate* conscious successor, which is Felida 1, but across seven months of vacuum until on the extinction of Felida 1 the next conscious thought which constitutes Felida 2 is born into existence. If the single personality is hard for Mr. James to explain, ‘double-personality’ at least doubles his difficulties.”
-
-* 322 Cf.* *infra*, § 82.
 
 323 Ποιότητα δὲ λέγω, καθ᾽ ἤν ποιοί τινες εἰναι λέγονται.—*Categ.*, ch. iv. *Cf.* ST. THOMAS: “Haec est ratio formalis qualitatis, per quam respondemus interroganti qualis res sit.”
 
@@ -1558,23 +978,17 @@ In the same context he explains what we are to understand by referring anything 
 
 * 327 Metaph.* V., ch. xiv., where the four groups are finally reduced to two.
 
-* 328 Summa Theol.*, ia, iiae, q. 49, art. 2.
-
 329 To be distinguished from the *passio* which is correlative of *actio* and which consists in the actual undergoing of the latter, the actual reception of the accidental form which is the term of the latter.
 
 330 “Inter omnes qualitates, figurae maxime sequuntur et demonstrant speciem rerum. Quod maxime in plantis et animalibus patet, in quibus nullo certiori indicio diversitas specierum dijudicari potest, quam diversitate figurae.”—ST. THOMAS, *In* VII. *Physic*, lect. 5.
 
 331 Every natural habit, as we have just seen, has an essential relation to *activity*. Every such habit inheres immediately in some operative faculty, as science in the intellect, or justice in the will. All natural habits are *operative*. There is, however, as we know from Divine Revelation, an “entitative” habit, a _habitus entitativus_, which affects the substance itself of the human soul, ennobling its natural mode of being and so perfecting it as to raise it to a higher or supernatural plane of being, to an order of existence altogether undue to its nature: the _supernaturally infused* habit of *sanctifying grace_.
 
-* 332 Eth. Eud.*, ii., 2.
-
 333 “Vires naturales non agunt operationes suas mediantibus aliquibus habitibus, quia secundum seipsas sunt determinatae ad unum.”—_Summa Theol._, ia iiæ, q. 49, art. 4, ad 2.
 
 334 “Intellectus ... est subjectum habitus. Illi enim competit esse subjectum habitus quod est in potentia ad multa; et hoc maxime competit intellectui....”—ST. THOMAS, *Summa Theol.*, ia, iie, q. 50, art. 4, ad. 1. “Omnis potentia quae diversimode potest ordinari ad agendum, indiget habitu, quo bene disponatur ad suum actum. Voluntas autem cum sit potentia rationalis, diversimode potest ad agendum ordinari: et ideo oportet in voluntate aliquem habitum ponere, quo bene disponatur ad suum actum ...,”—*ibid.* art. 5, in c.
 
 335 “Habitualis dispositio requiritur ubi subjectum est in potentia ad multa. Operationes vero quae sunt ab anima per corpus, principaliter quidem sunt ipsius animae, secundario vero ipsius corporis. Habitus autem proportionantur operationibus; unde ex similibus actibus similes habitus causantur, ut dicitur in 2 Ethic., cap. 1 et 2; in corpore vero possunt esse secundario, inquantum scilicet corpus disponitur et habilitatur ad prompte deserviendum operationibus animae.”—*Summa Theol.*, ia iiæ, q. 49, art. 1, in c.
-
-* 336 Cf.* ST. THOMAS, *ibid.*, q. 50, art. 1.—MERCIER, *Ontologie*, § 164.
 
 337 According to the scholastic theory of matter and form the matter must be predisposed by certain qualities for the reception of a given substantial form. The chemical elements which form a compound will not do so in any and every condition, but only when definitely disposed and brought together under favourable conditions. These elementary qualities, considered in themselves, are not habits or dispositions: “Unde qualitates simplices elementorum, quae secundum unum modum determinatum naturis elementorum conveniunt, non dicimus *dispositiones* vel *habitus*, sed *simplices qualitates*.”—ST. THOMAS, *ibid.*, q. 49, art. 4, in C. They are natural qualities and not dispositions produced by disposing causes.
 
@@ -1594,21 +1008,9 @@ In the same context he explains what we are to understand by referring anything 
 
 345 As we shall see later, action as such does not perfect or change the *agens*, unless when, as in immanent action, the *agens* is identical with the *patiens*. Action formally actualizes or perfects the *patiens*: *actio fit in passo*. But the exercise of any activity by an agent undoubtedly connotes or implies a perfection of this agent. It is not, however, that the actual operation as such (unless it is immanent) adds a new perfection to the agent. Rather the agent’s *power* of acting, revealed to us in its exercise, is for us a measure of the actual perfection of the agent. But the question remains: Is this power or perfection, so far as we know it, a *substantial* perfection? Is it _the very perfection itself of the agent’s substance or nature_ as known to us? Or is it an *accidental* perfection which is for us an index of a corresponding degree of substantial perfection? In getting our knowledge of the nature of a substance from a consideration of its *sensible* accidents, its *phenomena*, its *operations*—according to the rule, *Operari sequitur esse: qualis est operatio talis est natura*—can we use a *single* inference, from *action* to *nature*, or must we use a *double* inference, from action to power, and from power to nature? But even if we have to make the double inference, this _of itself_ does not prove any more than a conceptual distinction between *power* and *nature*.
 
-* 346 Cf.*. ST. THOMAS, *Q. Disp. de spir. creat.*, art. 11, in c.—MAHER, *Psychology* ch. iii.
-
-* 347 Cf.* MERCIER, *Ontologie*, § 168.
-
-* 348 Cf.* *ibid.*, *op. cit.*, § 169; MAHER, *Psychology*, ch. iii. (p. 29, n. 3.)
-
 349 Of course all accidents are “forms” in the sense of being *determining principles* of their subjects, these being considered as *determinable* or *receptive* principles. Even quantity is a form in this sense. But quantity itself does not appear to be a “simple” principle in the sense of being “indivisible”: its very function is to make the corporeal substance divisible into integral parts. What then of all those qualities which inhere *immediately* in the quantity of corporeal substances? They are determinations or affections of a composite, extended, divisible subject. Conceived in the abstract they have, of course, the attributes of indivisibility, immutability, etc., characteristic of all *abstract* essences (14). But in their physical actuality in what intelligible sense can they be said to be simple, indivisible entities?
 
 * 350 Summa Theol.*, ia, iiae, q. 52, art. 2; iia, iiae, q. 24, art. 4, 5.—*Q. Disp. de Virtutibus in communi*, q. i, art. 11, in c.—I. _In Sentent.*, *Dist.*, 17, q. 2, art. 2.—*Cf.* URRABURU, *op. cit._, §§ 329-332, for arguments and authorities. The author himself defends the former view, according to which alteration takes place by a real addition or substraction of grades of the same quality.
-
-351 I. *In Sentent.*, *Dist.*, 17, q. 2, art. 2.
-
-352 iia, iiae, q. 24, art. 4, ad. 3.
-
-* 353 Q. Disp. de Virtut.*, q. 1, art. 11, in c.
 
 354 The scientific concept of “volume” is identical with the common and philosophical concept of “external, actual, local, or spatial extension”. The functions ascribed by physics and mechanics to the “mass” of a body have no other source, in the body, than what philosophers understand by the “internal extension” or “quantity” of the body.—*Cf.* Nys, *Cosmologie* (Louvain, 1903), §§ 192-203.
 
@@ -1617,12 +1019,6 @@ In the same context he explains what we are to understand by referring anything 
 356 Hence Aristotle’s definition in *Metaph.*, iv.: “Quantum dicitur, quod [est] in insita divisibile, quorum utrumque aut singula unum quid et hoc quid apta sunt esse”: a quantified substance is one which is divisible into parts that are really in it [*i.e.* _partes integrantes_], parts each of which is capable of becoming a distinct subsisting individual thing.—*Cf.* NYS, *Cosmologie*, § 154.
 
 357 “Longitudo, latitudo et profunditas quantitates quaedam, sed non substantiae sunt. Quantitas enim non est substantia, sed magis cui haec ipsa primo insunt illud est substantia.”—*Metaph.*, L. vii., ch. iii.
-
-* 358 Physic*, L. i., ch. ii.
-
-359 L. ii., ch. iv.
-
-* 360 Cf.* § 62 *supra*.
 
 361 “Propria ... totalitas substantiae continetur indifferenter in parva vel magna quantitate; sicut ... tota natura hominis in magno, vel parvo homine.”—*Summa Theol.*, iii., q. 76, art. 1, ad. 3.
 
@@ -1642,19 +1038,9 @@ In the same context he explains what we are to understand by referring anything 
 
 368 A body deprived of its connatural extension exists in space in a manner analogous to that in which the soul is in the body. The Body of our Divine Lord is in the Eucharist in this manner—“*sacramentaliter*”.
 
-* 369 Cf.* KLEUTGEN, *op. cit.*, § 624.
-
-* 370 Cf.* ZIGLIARA, *Ontologia* (35), iv.
-
-* 371 Cf.* NYS, *La Notion d’Espace* (Louvain, 1901), pp. 95 *sqq.*—_La Notion de Temps* (Louvain, 1898), pp. 123 *sqq._
-
 372 “Quid est ergo tempus? Si nemo ex me quaerat, scio; si quaerenti explicare velim, nescio.”—*Confess*. L. xi., ch. xiv.
 
 373 “Cum enim intelligimus extrema diversa alicujus medii, et anima dicat, illa esse duo *nunc*, hoc *prius*, illud *posterius* quasi numerando *prius* et *posterius* in motu, tunc hoc dicimus esse tempus.”—ST. THOMAS, in *Phys.*, L. iv. lect. 17a.
-
-* 374 Sentent.*, Dist. xix., q. ii., art. 1.—*Cf.* Lect. xxiii. in iv. *Physic.*
-
-* 375 Physic.*, iv., ch. xi.—*Cf.* ST. THOMAS *in loc*.
 
 376 “The conception of variation united with sameness is not, however, the whole cognition of time. For this the mind must be able to combine in thought two different movements or pulsations of consciousness, so as to represent an interval between them. It must hold together two *nows*, conceiving them, in succession, yet uniting them through that intellectual synthetic activity by which we *enumerate* a collection of objects—a process or act which carries concomitantly the consciousness of its own continuous unity.”—MAHER, *Psychology*, ch. xvii.
 
@@ -1662,49 +1048,21 @@ In the same context he explains what we are to understand by referring anything 
 
 378 This is true on the assumption that the intrinsic *time-duration* of a successive, continuous change, its divisibility into distinct “nows” related as “before” and “after,” is *really identical with* the continuous, successive *states constituting the change* itself, and is not *a really distinct mode* superadded to this change, a continuous series of “*quandocationes*,” distinct from the change, and giving the latter its temporal duration. But many philosophers hold that in all creatures *duration* is a mode of their existence really distinct from the creatures themselves that have this duration or continued existence.—*Cf.* *infra*, § 86.
 
-* 379 Cf.* *Science of Logic*, ii., § 246, pp. 201 *sqq.*
-
-* 380 op. cit.*, c. xvii.
-
-* 381 op. cit.*, c. xvii.
-
-* 382 Cf.* NYS, *La Notion de Temps* (Lovain, 1898), p. 104.
-
 383 The fact that we can perceive and estimate temporal duration only *extrinsically*, and in ultimate analysis by comparison with the flow of our own conscious states, and that therefore we can have no perception or conception of the intrinsic time duration of any change, seems to have been overlooked by DE SAN *(Cosmologia*, pp. 528-9) when he argues from our perception of different *rates* of motion, in favour of the view that time *duration* is not really identical with motion or change, but a superadded mode, really distinct from the latter.
-
-* 384 Cf.* NYS, *La Notion de Temps*, pp. 85 *sqq.*
 
 * 385 Cf.* NYS, *op. cit.*, pp. 120 *sqq.*, for a defence of the view that an actually infinite multitude involves no contradiction.
 
-* 386 ibid.*, pp. 162-9.
-
-* 387 De Consolatione*, L. v., *pr. ult.*
-
-* 388 Cf.* KLEUTGEN, *op. cit.*, § 624.
-
 389 “Est ergo dicendum, quod, cum aeternitas sit mensura esse permanentis secundum quod aliquid recedit a permanentia essendi, secundum hoc recedit ab aeternitate. Quaedam autem sic recedunt a permanentia essendi, quod esse eorum est subjectum transmutationis, vel in transmutatiose consistit; et hujusmodi mensurantur *tempore*, sicut omnis motus, et etiam esse omnium corruptibilium. Quaedam vero recedunt minus a permanentia essendi, quia esse eorum nec in transmutatione consistit nec est subjectum transmutationis; tamen habent transmutationem adjunctam vel in actu vel in potentia ... patet de angelis, quod scilicet habent esse intransmutabile cum transmutabilitate secundum electionem, quantum ad eorum naturam pertinet, et cum transmutabilitate intelligentiarum, et affectionum, et locorum suo modo. Et ideo hujusmodi mensurantur *aevo*, quod est medium inter aeternitatem et tempus. Esse autem quod mensurat *aeternitas*, nec est mutabile nec mutabilitati adjunctum. Sic ergo tempus habet prius et posterius, aevum non habet in se prius et posterius, sed ei conjungi possunt; aeternitas autem non habet prius neque posterius, neque ea compatitur.”—ST. THOMAS, *Summa Theol.*, i., q. x., art. 5, in c.
-
-390 pp. 517-57.
 
 _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellecta, conspiciuntur, sempiterna quoque ejus virtus et divinitas, ita ut [qui veritatem Dei in injustitia detinent] sint inexcusabiles._—Rom. ii. 20 .
 
-* 392 Cf.* MAHER, *Psychology* (4th edit.), pp. 90-2.
-
 393 For a clear and trenchant criticism of modern relativist theories, *cf.* VEITCH, *Knowing and Being*, especially ch. iv., “Relation,” pp. 129 *sqq.*
-
-* 394 Cf.* MERCIER, *op. cit.*, §§ 179-80.
-
-* 395 Principles of Psychology*, P. ii., ch. iii., § 88.
-
-* 396 Cf.* MAHER, *Psychology*, pp. 157-9.
 
 397 “We cannot of course *perceive* an *unperceived* world, nor can we conceive a world the conception of which is not in the mind; but there is no contradiction or absurdity in the proposition: ‘A material world of three dimensions has existed for a time unperceived and unthought of by any created being, and then revealed itself to human minds’.”—MAHER, *Psychology*, p. iii, n.
 
 398 “I do not pretend to demonstrate anything, nor do I feel much concern, about any unknowable *noumenon* which never reveals itself in my consciousness. If there be in existence an inscrutable ‘transcendental Ego,’ eternally screened from my ken by this self-asserting ‘empirical Ego,’ I confess I feel very little interest in the nature or the welfare of the former. _The only soul about which I care is that which immediately presents itself in its acts, which thinks, wills, remembers, believes, loves, repents, and hopes.*”—MAHER, *op. cit.*, p. 475. *Cf.* MERCIER, *op. cit._, § 180, pp. 363.
 
 399 Πρός τι δὲ τὰ τοιαῦτα λέγεται, ὅσα αὐτά, ἄπερ ἐστὶν, ἑτέρων εἶναι λέγεται, ἢ ὁπωσοῦν ἄλλως πρὸς ἕτερον.—*Categ.* v. 1.
-
-400 I *Sentent.*, Dist. xxvi., q. 2, art. 1.
 
 401 “Sicut realis relatio consistit in ordine rei ad rem, ita relatio rationis consistit in ordine intellectuum [ordination of concepts]; quod quidem dupliciter potest contingere. Uno modo secundum quod iste ordo est adinventus per intellectum, et attributus ei, quod relative dicitur; et hujusmodi sunt relationes quae attribuuntur ab intellectu rebus intellectis, prout sunt intellectae, sicut relatio generis et speciei; has enim relationes ratio adinvenit considerando ordinem ejus, quod est in intellectu ad res, quae sunt extra, vel etiam ordinem intellectuum ad invicem. Alio modo secundum quod hujusmodi relationes consequuntur modum intelligendi, videlicet quod intellectus intelligit aliquid in ordine ad aliud; licet illum ordinem intellectus non adinveniat, sed magis ex quadam necessitate consequatur modum intelligendi. Et hujusmodi relationes intellectus non attribuit ei, quod est in intellectu, sed ei, quod est in re. Et hoc quidem contingit secundum quod aliqua non habentia secundum se ordinem, ordinate intelliguntur; licet intellectus non intelligit ea habere ordinem, quia sic esset falsus. Ad hoc autem quod aliqua habeant ordinem, oportet quod utrumque sit ens, et utrumque ordinabile ad aliud. Quandoque autem intellectus accipit aliqua duo ut entia, quorum alterum tantum vel neutrum est ens; sicut cum accipit duo futura, vel unum praesens et aliud futurum, et intelligit unum cum ordine ad aliud, dicit alterum esse prius altero; unde istae relationes sunt rationis tantum, utpote modum intelligendi consequentes. Quandoque vero accipit unum ut duo, et intelligit ea cum quodam ordine; sicut cum dicitur aliquid esse idem sibi: et sic talis relatio est rationis tantum. Quandoque vero accipit aliqua duo ut ordinabilia ad invicem, inter quae non est ordo medius, immo alterum ipsorum essentialiter est ordo; sicut cum dicit relationem accidere subjecto; unde talis relatio relationis ad quodcumque aliud est rationis tantum. Quandoque vero accipit aliquid cum ordine ad aliud, inquantum est terminus ordinis alterius ad ipsum, licet ipsum non ordinetur ad aliud: sicut accipiendo scibile ut terminum ordinis scientiae ad ipsum.”—*De Potentia*, q. vii., art. 11; *cf.* *ibid.* art. 10.
 
@@ -1716,29 +1074,17 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 * 404 Kritik der reinen Vernunft*, bk. i., Hauptst. ii., Abschn. ii., § 26.
 
-* 405 Logic*, bk. i., ch. iii., § 10.
-
-* 406 L’Idée du phénomène*, p. 181—*apud* MERCIER, *op. cit.*, § 173.
-
 407 “Quaedam vero relationes sunt quantum ad utrumque extremum res naturae, quando scilicet est habitudo inter aliqua duo secundum aliquid realiter conveniens utrique; sicut patet de omnibus relationibus quae consequuntur quantitatem, ut magnum et parvum, duplum et dimidium, et hujusmodi; nam quantitas est in utroque extremorum: et simile est de relationibus quae consequuntur actionem et passionem, ut motivum et mobile, pater et filius, et similia.”—ST. THOMAS, *Summa Theol.*, i., q. xiii., art. 7.
 
 408 “Quandoque vero relatio in uno extremorum est res naturae, et in altero est res rationis tantum: et hoc contingit quandocunque duo extrema non sunt unius ordinis; sicut sensus et scientia referuntur ad sensibile et scibile; quae quidem, inquantum sunt res quaedam in esse naturale existentes, sunt extra ordinem esse sensibilis et intelligibilis. Et ideo in scientia quidem et sensu est relatio realis, inquantum ordinantur ad sciendum vel sentiendum res; sed res ipsae in se consideratae sunt extra ordinem hujusmodi; unde in eis non est aliqua relatio realiter ad scientiam et sensum, sed secundum rationem tantum, inquantum intellectus apprehendit ea ut terminos relationum scientiae et sensus. Unde Philosophus dicit in 5 Metaph., text. 20, quod non dicuntur relative, eo quod ipsa referantur ad alia, sed quia alia referantur ad ipsa.”—*ibid.*
 
 409 Being really and adequately identical with its foundation, which is the essence of its subject, this relation does not necessarily need the *actual* existence of its term. Thus actual knowledge or science, which is a habit of the mind, has a transcendental relation to its object even though this latter be not actual but only a pure possibility. Similarly the accident of quantity sustained without its connatural substance in the Eucharist, retains its transcendental relation to the latter.—*Cf.* URRABURU, *op. cit.*, § 335 (p. 997).
 
-* 410 Cf.* URRABURU, *op. cit.*, § 336 (p. 990).
-
 * 411 Metaph.*, L. v., ch. xv. *Cf.* ST. THOMAS, *in loc.*, lect. 17, where, approving of this triple division, he writes: “Cum enim relatio quae est in rebus, consistat in ordine unius rei ad aliam, oportet tot modis hujusmodi relationes esse, quot modis contingit unam rem ad aliam ordinari. Ordinatur autem una res ad aliam, vel secundum esse, prout esse unius rei dependet ab alia, et sic est tertius modus. Vel secundum virtutem activam et passivam, secundum quod una res ab alia recipit, vel alteri confert aliquid; et sic est secundus modus. Vel secundum quod quantitas unius rei potest mensurari per aliam; et sic est primus modus.”
-
-* 412 Cf.* MERCIER, *op. cit.*, § 175. For transcendental and predicamental unity, *cf.* *supra*, §§ 26, 28.
 
 * 413 Cf.* *infra*, p. 355. Some authors hold that the relation in question is predicamental. *Cf.* URRABURU, *op. cit.*, p. 987. The nature or essence of any individual would seem to imply in its very concept a transcendental relation of specific identity with all other actual and possible individual embodiments of this essence. The point is one of secondary importance.
 
 414 Even virtually, though not formally. The creative act is not formally transitive; it is virtually so: and in the creature it grounds the latter’s relation of real dependence on the Creator.
-
-415 Cf. URRABURU, *op. cit.*, § 336 (p. 989), § 341 (p. 1011); ST. THOMAS, iii. *Sentent.*, Dist., viii., q. i., art. 5.
-
-416 MERCIER, *op. cit.*, § 175.
 
 417 MERCIER, *ibid.*
 
@@ -1747,8 +1093,6 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 419 Among others Cajetan, Ferriariensis, Capreolus, Bañez, Joannes a St. Thoma. *Cf.* URRABURU, *op. cit.*, § 338 (p. 994); MERCIER, _op. cit._, § 174. It would be interesting to know how precisely those authors conceived this “relative” entity, this “*esse ad*” as a reality independent of their own thought-activity. *Cf.* art. by the present writer in the *Irish Theological Quarterly* (vol. vii., April, 1912: “Reflections on some Forms of Monism,” pp. 167-8): “The whole universe of direct experience displays a unity of order or design which pervades it through and through; it is a revelation of intelligent purpose. Now a *Cosmos*, an orderly universe—which is intelligible only as the expression of intelligent purpose, and not otherwise—is a system of *interrelated* factors. But *relating* is unintelligible except as an expression of the activity of mind or spirit, that is, of something at least analogous to our mental activity of comparing and judging. Scholastic philosophers, as we know, discuss the question whether or how far the exact object of our ‘relation’ concept is real; that is, whether this object is, in itself and apart from the terms related [and the foundation], a mere *ens rationis*, a product of our thought, or whether it is in itself something more than this; and some of them hold that there are relations which, in themselves and formally as relations, *are* something more than mere products of our thought. Now if there be such relations, since they are not products of *our* thought, we may fairly ask: Must they be the product of *some* thought? And from our analysis of our very notion of what a relation is, it would seem that they must be in some sort or other a product or expression of some thought-activity: even relations between *material* things. It is in determining how precisely this is, or can be, that the theist and the monist differ. The theist regards all material things, with their real relations—and all our finite human minds, which apprehend the material world and its relations and themselves and one another—as being indeed in a true sense terms or objects of the Thought of God; not, however, as therefore identical or consubstantial with the Divine Spirit, but as distinct from It though dependent on It: inasmuch as he holds the Divine Thought to be creative, and regards all these things as its *created* terms. The kinship he detects between matter and spirit lies precisely in this, that matter is for him a created term of the Divine Thought. For him too, therefore, matter can have no existence except as a term of thought—the creative Thought of God.” Not that “the intelligible relations apprehended by us in matter are ... identical in reality with the thought-activity of the Divine Mind,” as Ontologists have taught [*cf.* *supra*, 14, 18, 19]; nor that we can directly infer the existence of a Supreme Spirit from the existence of matter, as Berkeley tried to do by erroneously regarding the latter merely as an essentially mind-dependent phenomenon; because “for the orthodox theist matter is in its own proper nature not spiritual, mental, psychical; not anything after the manner of a thought-process, or endowed with the spirit-mode of being”. If predicamental relations, such as *quality* or *similarity* of material things, are, as those medieval scholastics contended, real entities, “relative” in their nature, and really distinct from their extremes and foundations, did those scholastics conceive such “relative entities” as essentially mind-dependent entities? If they did they would probably have conceived them in the sense of Berkeley, as created terms of the Divine Thought, rather than in the Ontologist sense which would identify them with the Divine Thought itself. But it is not likely that they conceived such relative entities as essentially thought-dependent, any more than the absolute material realities related to one another by means of these relative entities. On the other hand it is not easy to see how such relative entities can be anything more than mere products of some thought-activity or other.
 
 420 They rely especially on this text from the *De Potentia* (q. vii., art. 9): “Relatio est debilioris esse inter omnia praedicamenta; ideo putaverunt quidam eam esse ex secundis intellectibus. Secundum ergo hanc positionem sequeretur quod relatio non sit in rebus extra animam sed in solo intellectu, sicut intentio generis et speciei, et secundarum substantiarum. Hoc autem esse non potest. In nullo enim praedicamento ponitur aliquid nisi res praeter animam existens. Nam ens rationis dividitur contra ens divisum per decem praedicamenta.... Si autem relatio non est in rebus extra animam non poneretur *ad aliquid* unum genus praedicamenti.”
-
-* 421 Cf.* ST. ANSELM, *Monolog.*, ch. xxvi.
 
 422 “Relatio habet quod sit res naturae ex sua causa per quam una res naturalem ordinem habet ad alteram.”—*Quodl.* 1, art. 2.
 
@@ -1762,17 +1106,9 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 * 427 Cf.* *supra*, p. 351, n. 1; in which context we may reasonably suppose him to be arguing that relation *considered adequately* is not a *mere logical entity*, “ex secundis intellectibus,” inasmuch as, having *a real foundation* in things outside the mind, it is in this respect real, independently of our thought.
 
-* 428 Cf.* URRABURU, *op. cit.*, § 341 (p. 1008).
-
-* 429 ibid.*, p. 1007; *cf.* *supra*, p. 347.
-
-430 In i. *Sentent.*, Dist. iv., q. 1, art. 1, ad. 3.
-
 * 431 Cf.* URRABURU, *ibid.*, pp. 1006-7: “Deinde _nullam relationem esse substantiam_ scripsit [S. Thomas] vel quia plerumque ratio fundandi non est substantia ... vel potius quia semper relatio, etiam cum in substantia fundatur, aliquid addit supra substantiam cujuslibet extremi relati singillatim sumpti, quia non identificatur cum fundamento prout se tenet ex parte solius subjecti, vel solius termini, sed prout se tenet ea parte utriusque. Quare relatio ... semper exprimit denominationem contingentem et accidentaliter supervenientem subjecto, utpote quae adesse vel abesse potest, prout adsit vel deficiat terminus.”
 
 432 “Illi enim [the reference is to certain medieval idealists] quamvis agnoscerent duo alba existentia negabant dari actu in rebus formalem similaritatem [*i.e.* even after the comparative activity of thought], sed formalem similitudinem, et aliam quamvis relationem, reponebant in actu intellectus unum cum alio comparantis; nos vero ante actum intellectus agnoscimus in rebus, quidquid sufficit ad constituendam relationem similitudinis, diversitatis, paternitatis, etc., ita ut hujusmodi denominationes non verificentur de actu intellectus unum cum alio comparantis, sed plenam habeant in rebus ipsis verificationem.”—URRABURU, *op. cit.*, p. 1010.
-
-433 In what sense “extramental”?—*Cf.* *supra*, p. 350, n. 1 (end).
 
 * 434 Cf.* *Science of Logic*, ii., § 218. For the concepts of “cause” and “causality” in the inductive sciences, as well as for much that cannot be repeated here, the student may consult with advantage vol. ii., p. iv., ch. iii., iv. and vi. of the work referred to.
 
@@ -1782,19 +1118,9 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 437 A *cause* must be prior *in nature* to its effect, but not necessarily prior *in time*. In fact the *action* of the cause and the *production* of the effect must be simultaneous. *Cf.* _Science of Logic_, ii., § 220. Considered formally as correlatives they are *simul natura*. A *principle* must likewise be in some sense *prior* to what proceeds from it, not necessarily, however, by priority of time, nor by priority of nature involving real dependence. The Christian Revelation regarding the Blessed Trinity involves that the First Divine Person is the “principle” from which the Second proceeds, and the First and the Second the “principle” from which the Third proceeds; yet here there is no dependence or inequality, or any priority except the “relation of origin” be called priority.
 
-* 438 Cf.* *Science of Logic*, ii., § 216.
-
-* 439 Cf.* *Science of Logic*, i., § 16; ii., §§ 214, 224 (p. 113).
-
-* 440 Cf.* MERCIER, *op. cit.*, § 252.
-
-* 441 Cf.* *Physic.*, Lib. ii., cap. 3; *Metaph.*, Lib. i., cap. 3; v., cap. 2.
-
 * 442 i.e.* from the effect considered *formally* as a term of the activity; in the case of *immanent* activity, as, *e.g.* thought or volition, where the effect remains within the agent (as a _verbum mentale_ or other mental term), uniting with the concrete reality of the latter, the effect is not adequately distinct from the agent as affected by this term or product.
 
 * 443 Cf.* ST. THOMAS, *In Physic.*, ii., lect. 10: “Necesse est quatuor esse causas: quia cum causa sit, ad quam sequitur esse alterius, esse ejus quod habet causam potest considerari dupliciter: uno modo absolute, et sic causa essendi est forma per quam aliquid est ens in actu; alio modo secundum quod de potentia ente fit actu ens: et quia omne quod est in potentia, reducitur ad actum per id quod est actu ens, ex hoc necesse est esse duas alias causas, scilicet materiam, et agentem quod reducit materiam de potentia in actum. Actio autem agentis ad aliquod determinatum tendit, sicut ab aliquo determinato principio procedit; nam omne agens agit quod est sibi conveniens. Id autem ad quod intendit actio agentis dicitur causa finalis. Sic igitur necesse est esse causas quatuor.”
-
-* 444 Cf.* MERCIER, *op. cit.*, §§ 247-8.
 
 445 Certain medieval scholastics, especially of the Franciscan School, regarded spiritual substances as having in their constitution a certain potential, determinable principle, which they called “*materia*”. St. Thomas, without objecting to the designation, insisted that such potential principle cannot be the same as the *materia prima* of corporeal substances (*cf.* _De Substantis Separatis_, ch. vii.).
 
@@ -1816,10 +1142,6 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 454 Thus, for instance, man, elevated by sanctifying grace, can perform acts which merit the supernatural reward of the Beatific Vision.
 
-* 455 Cf.* *Science of Logic*, ii., § 231.
-
-* 456 Cf.* ARISTOTLE, *Metaph.*, ii., cap. 2.
-
 * 457 Cf.* URRABURU, *op. cit.*, § 392 (p. 1123): “Unde adaequata virtus instrumentalis videtur conflari ex naturali instrumenti virtute vel efficacitate et ex virtute causae principalis sibi transeunter addita, docente S. Thoma: _Instrumentum virtutem instrumentalem acquirit dupliciter scilicet quando accipit formam instrumenti et quando movetur a principali agente ad effectum* (*Summa Theol._, iii., q. xix., art. 3, ad. 2).”
 
 458 “Ad aliquem effectum aliquid operatur dupliciter. Uno modo sicut per se agens; et dicitur per se agere quod agit per aliquam formam sibi inhaerentem per modum naturae completae, sive habeat illam formam a se, sive ab alio.... Alio modo aliquid operatur ad effectum aliquem instrumentaliter, quod quidem non operatur ad effectum per formam sibi inhaerentem, sed solum inquantum est motum a per se agente. Haec est ratio instrumenti, inquantum est instrumentum, ut moveat motum; unde sicut se habet forma completa ad per se agentem, ita se habet motus, quo movetur a principale agente, ad instrumentum, sicut serra operatur ad scamnum. Quamvis enim serra habeat aliquam actionem quae sibi competit secundum propriam formam, ut dividere; tamen aliquem effectum habet qui sibi non competit, nisi inquantum est mota ab artifice, scilicet facere rectam incisionem, et convenientem formae artis: et sic instrumentum habet duas operationes; unam quae competit ei secundam rationem propriam; aliam quae competit ei secundam quod est motum a per se agente, quae transcendit virtutem propriae formae.”—*De Veritate*, q. xxvii., art. 4. It is not clear, however, that St. Thomas regarded these two “*operationes*” of the instrumental cause as really distinct, for he says that it acts as an instrument (*i.e.* modifies the efficiency of the principal cause) only by exercising its own proper function: “Omne agens instrumentale exsequitur actionem principalis agentis per aliquam operationem propriam, et connaturalem sibi, sicut calor naturalis generat carnem dissolvendo et digerendo, et serra operatur ad factionem scamni secando” (*Contra Gentes*, ii., ch. xxi.): from which he goes on to argue that no creature can act even as an instrumental cause *in creating*.—*Cf.* iv. *Sent.*, Dist. i., q. i., art. 4, sol. 2.—*De Potentia*, q. iii., art. 7.—*Summa Theol.*, iii., q. lxii., art. 1, ad. 2.
@@ -1830,35 +1152,15 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 461 For a fuller treatment of this whole subject, *cf.* _Science of Logic_, ii., Part iv., chs. iii., iv.; Part v., ch. i.—MAHER, *Psychology*, ch. xix., pp. 423-4.
 
-* 462 Cf.* NEWMAN, *Grammar of Assent*, Part i., ch. iv., § 1 (5), (6); § 2, remark 1.
-
-* 463 Cf.* *Science of Logic*, ii., §§ 216, 218, 219.
-
-* 464 ibid.*, § 216.
-
-* 465 ibid.*, § 220.
-
-* 466 Introduction to Logic*, pp. 64-5.
-
 * 467 Cf.* what was said above (32) about the causal or extrinsic, as distinct from the intrinsic, principle of individuation.
 
 468 “Whenever science tries to find the cause not of a particular event, such as the French Revolution (whose cause must be as unique as that event itself is), but of an event of a kind, such as consumption, or commercial crises, it looks in the last resort for a *commensurate* cause. What is that exact state or condition of the body, given which it must and without which it cannot be in consumption? What are those conditions in a commercial community, given which there must and without which there cannot be a commercial crisis?”—JOSEPH, *op. cit.*, p. 65. *Cf.* *Science of Logic*, ii., § 221.
 
-* 469 System of Logic*, iii., v., § 2.
-
 470 For instance: (*a*) The “ontological” or “true” cause, which “actually produces” the effect, need not necessarily be the “ultimate” cause of the latter. (*b*) A “physical fact” can be the cause of another in the sense of being the invariable antecedent (or *physical* cause) of the latter, but not “in that sense alone”; it may also be an *efficient* cause of the latter by exerting an active influence on the happening of this latter. (*c*) Whether or not efficiency is “a mysterious and most powerful tie,” at any rate it does exist between “physical facts” in the universe. (*d*) Its analysis reveals not a “supposed necessity of ascending ... to ... the true cause, ... which ... produces the effect,” as if the proximate causes did not also truly produce the latter; but a real necessity of ascending to a First Cause as the source and support and complement of the real efficiency of these proximate causes. (*e*) A merely *logical* theory of Induction does not indeed demand any inquiry either into the efficiency of natural agencies, or into the nature and grounds of the “invariability” or “necessity” or “law” whereby these are connected with their effects. But a *philosophical* theory of Induction does imply such inquiries. And here phenomenist writers like Mill have laid themselves open to two accusations. For while professing merely to abstract from the problem of *efficiency* they have tried equivalently to deny its existence by proclaiming it superfluous and insoluble, besides consciously or unconsciously misrepresenting it. And similarly, in dealing with the *invariability* of causal sequences in the universe, with the *necessary* character of its physical laws, they have misconceived this necessity as being mechanical, fatal, absolutely inviolable; and have wrongly proclaimed its ultimate grounds to be unknowable (Agnosticism). Cf. *infra*, § 104; _Science of Logic_, ii., Part IV., chs. iii., iv., and v.; Part V., ch. i. Thus, while eschewing the genuine Metaphysics, which seeks the real nature and causes of the world of our experience, as superfluous and futile, they have substituted for it a masked and spurious metaphysics which they have wrongly fathered on Physical Science: a mass of more or less superficial speculations which have not even the merit of consistency. No philosopher, starting with their views on the nature of the human mind, can consistently claim for the latter any really valid or reliable knowledge of *laws*, any more than of causes. For the knowledge of a *law*, even as a *generalized* fact, is a knowledge that claims to pass beyond the limits of the individual’s present and remembered experiences. But there can be no rational justification, whether psychological or ontological, for the certain reliability of such a step, in the philosophy which logically reduces all certain knowledge to the mere awareness of a flow of successive sensations supposed to constitute the total content of the individual consciousness and the total reality of human experience.
-
-* 471 Cf.* MAHER, *Psychology*, ch. xvii., pp. 368-70.—MERCIER, _op. cit._, § 229.
 
 472 “When an *effort* of attention combines two ideas, when one billiard ball moves another, when a steam hammer flattens out a lump of solid iron, when a blow on the head knocks a man down, in all these cases there is something more than, and essentially different from, the mere *sequence* of two phenomena: there is *effective force*—_causal action* of an agent endowed with *real energy*.”—MAHER, *op. cit._, *ibid.*, p. 370.
 
-* 473 Grammar of Assent*, p. 66.
-
 * 474 Cf.* DOMET DE VORGES, *Cause efficiente et cause finale*, p. 39. Volitional activity is no doubt the most prominent type of efficient causality in our mental life. But it is not the only type; we have direct conscious experience of intellectual effort, of the work of the imagination, of the exercise of organic and muscular energy. There is no warrant therefore for conceiving all efficient power or energy, after the model of will-power, as Newman among others appears to have done when he wrote in these terms: “Starting, then, from experience, I consider a cause to be an effective will: and by the doctrine of causation, I mean the notion, or first principle, that all things come of effective will” (*ibid.*, p. 68). No doubt, all things do come ultimately from the effective will of God. This, however, is not a first principle, but a remote philosophical conclusion.
-
-* 475 ibid.*, p. 66.
-
-476 ST. THOMAS, *QQ. Disp. De Potentia*, q. iii., art. 7, in c.
 
 477 “Nulla res per seipsam movet vel agit, nisi sit movens non motum.... Et quia natura inferior agens non agit nisi mota ... et hoc non cessat quousque perveniatur ad Deum, sequitur de necessitate quod Deus sit causa actionis cujuslibet rei naturalis, ut movens et applicans virtutem ad agendum.”—ST. THOMAS, *De Potentia Dei*, q. iii., art. 7.
 
@@ -1874,19 +1176,13 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 483 At the same time it must be noted that organic vital activity is transitive in the sense that no part or member of the organism acts upon itself, but only on other parts, in the production of the local, quantitative and qualitative changes involved in nutrition. It is subject to the inductively established law which seems to regulate all *corporeal* action: that all such action involves *reaction* of the *patiens* on the *agens*. Mental activity is outside this law. Cognitive and appetitive faculties do not react on the objects which reduce these faculties to act, thus arousing their immanent activity.—*Cf.* MERCIER, *op. cit.*, § 227.
 
-* 484 Cf.* MERCIER, *op. cit.*
-
 * 485 Cf.* MAHER, *Psychology*, chs. xiii. and xiv.
 
 * 486 Cf.* URRABURU: “Vel, si mavis, dic causam efficientem esse causam, a qua fit aliquid, vel a quo proprie oritur actio, intelligendo per actionem emanationem et fluxum ac dependentiam effectus a causa.”—*op. cit.*, § 389 (p. 1112).
 
 * 487 Cf.* MERCIER, *op. cit.*, § 229: “L’action, l’efficience, qu’est elle, en quoi consiste-t-elle? Est-ce une sorte d’écoulement de la cause dans l’effet? Évidemment non. Lorsque nous voulons nous élever à une conception métaphysique, nous nous raccrochons à une image sensible, et nous nous persuadons volontiers, que la netteté de la première répond à la facilité avec laquelle nous nous figurons la seconde. Il faut se défier de cette illusion. Puisque l’action, même corporelle, ne modifie point l’agent, la causalité efficiente ne peut consister dans un influx physique, qui passerait de la cause dans l’effet.”
 
-* 488 Cf.* *Science of Logic*, ii., §§ 228-9.
-
 489 We might add this other fact: that *all* kinds of corporeal activity and change (11) seem to involve *motion* or local change. This does not prove that they all *are* motion or local change. The significance of the fact lies probably in this, that local motion is necessary for procuring and continuing physical contact between the interacting physical agencies.—*Cf.* NYS, *Cosmologie*, §§ 227-9.
-
-* 490 Cf.* ST. THOMAS, *Contra Gentes*, iii., 69.
 
 491 “Une cause véritable est une cause, entre laquelle et son effet l’esprit aperçoit une liaison nécessaire: c’est ainsi que je l’entendes. [This is ambiguous.] Or il n’y a que l’être infiniment parfait entre la volonté duquel et les effets l’esprit aperçoive une liaison nécessaire. Il n’y a donc que Dieu qui soit véritable cause, et il semble même qu’il y ait contradiction à dire que les hommes puissent l’être”—*De la récherche de la vérité*, Liv. 6me, 2e partie, ch. iii.
 
@@ -1896,21 +1192,13 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 494 “J’ai toujours soutenue que l’âme était l’unique cause de ses actes, c’est à dire de ses déterminations libres ou de ses actes bons ou mauvais.... J’ai toujours soutenu que l’âme était active, mais que ses actes ne produisaient rien de physique.”—_Réflexions sur la prémotion physique*. “Je crois que la volonté est une *puissance active_, qu’elle a un véritable pouvoir de se déterminer; mais son action est *immanente*; c’est une action qui ne produit rien par son efficace propre, pas même le mouvement de son bras.”—_Réponse à la 3_*me** lettre d’Arnauld*.
 
-* 495 Cf.* MERCIER, *op. cit.*, §§ 230-2; ZIGLIARA, *Ontologia* (45); URRABURU, *op. cit.*, §§ 393 *sqq.*
-
 496 We may reasonably ask the occasionalist to suppose for the moment that we are efficient causes of our mental processes and to tell us what better proof of it could he demand, or what better proof could be forthcoming, than this proof from consciousness.
-
-497 MAHER, *Psychology*, ch. x., p. 220.
 
 498 Should anyone doubt that consciousness does testify to this fact, we may prove it inductively from the constant correlation between the mental state and the bodily movement: “I will to move my arm, it moves; I will that it remain at rest, it does not move; I will that its movement be more or less strong and rapid, the strength and rapidity vary with the determination of my will. What more complete inductive proof can we have of the efficiency of our will-action on the external world?”—MERCIER, *op. cit.*, § 231.
 
 499 “Si effectus non producuntur ex actione rerum creatarum, sed solum ex actione Dei, impossibile est quod per effectus manifestetur virtus alicujus causae creatae: non enim effectus ostendit virtutem causae nisi ratione actionis, quae a virtute procedens ad effectum terminatur. Natura autem causae non cognoscitur per effectum, nisi inquantum per ipsum cognoscitur virtus, quae naturam consequitur. Si igitur res creatae non habent actiones ad producendum effectum, sequitur, quod nunquam naturam alicujus rei creatae poterit cognosci per effectum; et sic subtrahitur nobis omnis cognitio scientiae naturalis, in qua praecipuae demonstrationes per effectum sequuntur.”—ST. THOMAS, *Contra Gentes*, L. iii., cap. 69.
 
 500 “Je demeure d’accord que la foi oblige à croire qu’il y a des corps; mais, pour l’évidence, il me semble qu’elle n’est point entière, et que nous ne sommes point invinciblement portés à croire qu’il y ait quelqu’autre chose que Dieu et notre esprit.”—_Récherche de la vérite_, 6me éclaircissement.
-
-* 501 Cf.* *Science of Logic*, ii., § 217.
-
-* 502 Metaph.*, v., 17.
 
 503 “Quaedam vero ad bonum inclinantur cum aliqua cognitione; non quidem sic quod cognoscant ipsam rationem boni, sed cognoscunt aliquod bonum particulare.... Inclinatio autem hanc cognitionem sequens dicitur appetitus *sensitivus*. Quaedam vero inclinantur ad bonum cum cognitione qua cognoscant ipsam boni rationem; et haec inclinatio dicitur *voluntas*.”—ST. THOMAS, *Summa Theol.*, i., q. xlix., art. 1.
 
@@ -1936,35 +1224,13 @@ _ 391 Invisibilia enim ipsius a creatura mundi, per ea quae facta sunt intellect
 
 511 “In nullo enim alio natura ab arte videtur differre, nisi quia natura est principium intrinsecum, et ars est principium extrinsicum. Si enim ars factiva navis esset intrinseca ligno, facta fuisset navis a natura, sicut modo fit ab arte.”—*In II. Phys.*, lect. 13.
 
-* 512 Cf.* *Science of Logic*, ii., § 217.
-
-* 513 Cf.* *Science of Logic*, ii, § 227.
-
-* 514 Cf.* *Science of Logic*, ii., §§ 226-31.
-
-515 ARISTOTLE, *Metaph.*, iv., ch. v.
-
-* 516 Physic.*, ii., ch. v.
-
-* 517 ibid.*
-
-* 518 Cf.* *Science of Logic*, ii., §§ 264, 268-9.
-
-519 Οὐδὲν γὰρ ὤς ἔτυχε ποιεῖ ἡ φυσις.—*De Coelo*, ii., 8.
-
 520 Fatalism is the view that all things happen by a blind, inevitable, eternally foredoomed and unintelligible necessity. Thus SENECA (*Nat. Quaest.*, L. III., cap. 36) describes *fatum* as _necessitas omnium rerum actionumque, quam nulla vis rumpat*. This *necessitas ineluctabilis_ is totally different from the conditional physical necessity of the course of Nature dependently on the *Fiat* of a Supreme Free Will guided by Supreme Intelligence (*Cf.* _Science of Logic_, §§ 224, 249, 253, 257). If the necessity of actual occurrences is not ultimately traceable to the *Fiat* of an Intelligent Will—and mechanists deny that it can be so traced—it is rightly described as fatalistic, blind, purposeless, unintelligible.
 
-* 521 Cf.* MERCIER, *op. cit.*, §§ 259, 260.
-
 522 “Expliquer par une rencontre fortuite, la convergence d’éléments, dont chacun a sa poussée propre, c’est rendre raison de la *convergence* par des principes de *divergence*.... Il est donc contradictoire d’attribuer au hasard la raison explicative de l’ordre.”—MERCIER, *op. cit.*, § 260.
-
-* 523 Cf.* *Science of Logic*, ii., §§ 224, 250, and *passim*.
 
 524 “Similiter ex prioribus pervenitur ad posteriora in arte et in natura: unde si artificialia, ut domus, fierent a natura, hoc ordine fierent, quo nunc fiunt per artem: scilicet prius institueretur fundamentum, et postea erigerentur parietes, et ultimo supponeretur tectum.... Et similiter si ea quae fiunt a natura fierent ab arte, hoc modo fierent sicut apta nata sunt fieri a natura; ut patet in sanitate, quam contigit fieri, et ab arte et a natura.... Unde manifestum est quod in natura est alterum propter alterum, scilicet priora propter posteriora, sicut et in arte.”—ST. THOMAS, _In II. Phys.*, lect. 13.—*Cf.* *supra_, p. 417, n. 3.
 
 525 “Ordo est parium dispariumque rerum sua cuique loca tribuens dispositio.”—*De Civ. Dei*, xix., 13.
-
-* 526 Cf.* MERCIER, *op. cit.*, §§ 257-61.
 
 527 “_La convergence de causes indifférentes qui réalisent d’une manière harmonieuse et persistante un même objet ordonné, ne s’explique point par des coincidences fortuites; elle réclame un principe interne de convergence.*”—*Ibid._, § 260.
 

@@ -13,12 +13,10 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 22502
+word_count: 22478
 source_url: "https://www.gutenberg.org/ebooks/6799"
 translator: Project Gutenberg edition
 ---
-
-Produced by Tapio Riikonen and David Widger
 
 SCHILLER'S PHILOSOPHICAL LETTERS.
 
@@ -238,8 +236,6 @@ ON THE CONNECTION BETWEEN THE ANIMAL AND THE SPIRITUAL NATURE IN MAN.
 
 INTRODUCTION.
 
-S 1.
-
 Many philosophers have asserted that the body is, as it were, the prison-house of the spirit, holding it only too firmly to what is earthly, and checking its so-called flight towards perfection. On the other hand, it has been held by another philosophic school that knowledge and virtue are not so much an end as a means towards happiness, and that the whole perfection of man culminates in the amelioration of his body.
 
 Both opinions , methinks, are one-sided. The latter system has almost entirely disappeared from our schemes of ethics and philosophy, and is, I am inclined to think, not seldom cast out with over-fanatical zeal--(nothing assuredly is so dangerous to truth as when one-sided opinions meet with one-sided opponents). The former system has on the whole been more patiently endured, since it has the greatest capacity for warming the heart towards virtue, and has already justified its value in the case of truly great souls. Who is there that does not admire the strength of mind of a Cato, the lofty virtue of a Brutus and Aurelius, the equanimity of an Epictetus and a Seneca? But, in spite of all this, the system in question is nothing more than a beautiful aberration of the understanding, a real extreme, which in its wild enthusiasm underrates one part of our human nature, and desires to raise us into the order of ideal beings without at the same time relieving us of our humanity,--a system which runs directly contrary to all that we historically know or philosophically can explain either of the evolution of the single man or of that of the entirer race, and can in no way be reconciled with the limitations of our human soul. It is therefore here, as ever, the wisest plan to hold the balance between the two opinions, and thus reach with greater certainty the middle line of truth. But, inasmuch as a mistake has very often been committed by treating the mental powers in an exclusive way, that is, in so far as they can be considered in independence of the body, and through an intentional subordination of this same body, the aim of this present essay will be to bring into a clearer light the remarkable contributions made by the body to the workings of the soul, and the great and real influence of the animal system of sensations upon the spiritual. But this is as like the philosophy of Epicurus as the holding of virtue to be the summum bonum is stoicism.
@@ -263,8 +259,6 @@ But matter is spoil stolen from the eternal change, and wears itself away, even 
 Still further. After a short period of activity, when the equal balance of loss and reparation is once removed, man quits the stage of life, and the law of mortality depopulates the earth. There is not room enough for the multitude of sentient beings, whom eternal love and wisdom seemed to have called to a happy existence, to live side by side within the narrow boundaries of our world, and the life of one generation shuts out the life of another. Therefore was it necessary that new men should appear, to take the place of those who had departed, and that life should be kept up in unbroken succession. But of creation there is no longer any trace; what now becomes new becomes so only by development. The development of man must come to pass through man, if it is to bear a proportion to the original number, if man is to be cultivated into man. On this account a new system of organic powers was added to the two that had preceded it, which had for its object to quicken and to develop the seed of humanity. This is the organism of generation.
 
 These three organisms, brought into the most thorough connection, local and real, go to form the human body.
-
-S 3.--The Body.
 
 The organic powers of the human body naturally divide themselves into two principal classes. The first class embraces those which no known laws and phenomena of the physical world enable us to comprehend; and to these belong the sensibility of the nerves and the irritability of the muscles. Inasmuch as it has hitherto been impossible to penetrate the economy of the invisible, men have sought to interpret this unknown mechanism through that with which they were already familiar, and have considered the nerves as a canal conducting an excessively fine, volatile, and active fluid, which in rapidity of motion and fineness was held to excel ether and the electric spark. This fluid was held to be the principle and author of our sensibility and power of motion, and hence received the name of the spirit of life. Further, the irritability of the muscles was held to consist, in a certain effort to contract themselves on the touch of some external provocation. These two principles go to form the specific character of animal organism.
 
@@ -357,8 +351,6 @@ Our intention was to show the influence upon the perfecting of the soul through 
 We may, then, repeat: Man needed to be an animal before he knew that he was a spirit; he needed to crawl in the dust before he ventured on a Newtonian flight through the universe. The body, therefore, is the first spur to action; sense the first step on the ladder to perfection.
 
 ANIMAL SENSATIONS ACCOMPANY MENTAL SENSATIONS.
-
-S 12.--Law.
 
 The understanding of man is extremely limited, and, therefore, all sensations resulting from its action must of necessity be also limited. In order, therefore, to give these sensations greater impulse, and with redoubled force to attract the will to good and restrain it from evil, both natures, the spiritual and the animal, are so intimately connected with each other that their modifications, being mutually interchanged, impart strength to one another. Hence arises a fundamental law of mixed natures, which, being reduced to its primary divisions, runs thus: the activities of the body correspond to the activities of the mind; that is, any overstraining of a mental activity is necessarily followed by an overstraining of certain bodily actions,--just as the equilibrium, or harmonious action, of the mental powers is associated with that of the bodily powers in perfect accord. Further: mental indolence induces indolence in the bodily actions; mental inaction causes them to cease altogether. Thus, as perfection is ever accompanied by pleasure, imperfection by the absence of pleasure, this law may be thus expressed: Mental pleasure is invariably attended by animal pleasure, mental pain by animal pain. [Complacency and Displacency perhaps more aptly express the meaning of Lust and Unlust, which we translate by pleasure and pain.]
 
@@ -501,5 +493,3 @@ S 27.--Severing of the Connection.
 At length arrived at the point in the circle where the mind has fulfilled the aim of its being, an internal, unaccountable mechanism has, at the same time, made the body incapable of being any longer its instrument. All care for the well-being of the bodily state seems to reach but to this epoch. It appears to me that, in the formation of our physical nature, wisdom has shown such parsimony, that notwithstanding constant compensations, decline must always keep in the ascendancy, so that freedom misuses the mechanism, and death is germinated in life as out of its seed. Matter dissolves again into its last elements, which travel through the kingdom of nature in other forms and relations, to serve other purposes. The mind continues to practise its thinking powers in other circles, and to observe the universe from other sides.
 
 We may truly say that it has not by any means exhausted this actual sphere, that it might have left this sphere itself more perfect; but do we know that this sphere is lost to it? We lay many a book aside which we do not understand, but perhaps in a few years we shall understand it better.
-
-End of Project Gutenberg's The Philosophical Letters, by Frederich Schiller

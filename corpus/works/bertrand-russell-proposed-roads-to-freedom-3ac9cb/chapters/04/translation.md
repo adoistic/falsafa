@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6123
+word_count: 6120
 source_url: "https://www.gutenberg.org/ebooks/690"
 translator: Project Gutenberg edition
 ---
@@ -39,8 +39,6 @@ Kropotkin, ``Fields, Factories and Workshops,'' p. 74.
 As regards cattle, he mentions that Mr. Champion at Whitby grows on each acre the food of two or three head of cattle, whereas under ordinary high farming it takes two or three acres to keep each head of cattle in Great Britain. Even more astonishing are the achievements of the Culture Maraicheres round Paris. It is impossible to summarize these achievements, but we may note the general conclusion:--
 
 There are now practical Maraichers who venture to maintain that if all the food, animal and vegetable, necessary for the 3,500,000 inhabitants of the Departments of Seine and Seine-et-Oise had to be grown on their own territory (3250 square miles), it could be grown without resorting to any other methods of culture than those already in use--methods already tested on a large scale and proved successful.
-
-Ib. p. 81.
 
 It must be remembered that these two departments include the whole population of Paris.
 

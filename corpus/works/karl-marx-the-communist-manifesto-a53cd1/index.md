@@ -24,4 +24,4 @@ The Communist Manifesto, by Karl Marx (1818-1883), from Project Gutenberg's publ
 
 01. [II](./chapters/01-ii/) — prose, 1 variant
 02. [III](./chapters/02-iii/) — prose, 1 variant
-03. [Section II — has made clear the relations of the Communists to the](./chapters/03/) — prose, 1 variant
+03. [IV](./chapters/03-iv/) — prose, 1 variant

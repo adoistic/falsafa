@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 14855
+word_count: 14882
 source_url: "https://www.gutenberg.org/ebooks/12956"
 translator: Project Gutenberg edition
 ---
@@ -33,6 +33,8 @@ Tîrtha@nkaras have reached mok@sa at their death, and they neither care for nor
 Two Sects of Jainism .
 
 There are two main sects of Jains, S'vetâmbaras (wearers of white cloths) and Digambaras (the naked). They are generally agreed on all the fundamental principles of Jainism. The tenets peculiar to the Digambaras are firstly that perfect saints such as the Tîrtha@nkaras live without food, secondly that the embryo of Mahâvîra was not removed from the womb of Devanandâ to that of Tris'alâ as the S'vetâmbaras contend, thirdly that a monk who owns any property and wears clothes cannot reach Mok@sa, fourthly that no woman can reach Mok@sa . The Digambaras deny the canonical works of the S'vetâmbaras and assert that these had been lost immediately after Mahâvîra. The origin of the Digambaras is attributed to S'ivabhûti (A.D. 83) by the S'vetâmbaras as due to a schism in the old S'vetâmbara church, of which there had already been previous to that seven other schisms. The Digambaras in their turn deny this, and say that they themselves alone have preserved the original practices, and that under Bhadrabâhu, the eighth sage after Mahâvîra, the last Tîrtha@nkara, there rose the sect of Ardhaphâlakas with laxer principles, from which developed the present sect of S'vetâmbaras (A.D. 80). The Digambaras having separated in early times from the S'vetâmbaras developed peculiar religious ceremonies of their own, and have a different ecclesiastical and literary history, though there is practically no difference about the main creed. It may not be out of place here to mention that the Sanskrit works of the Digambaras go back to a greater antiquity than those of the S'vetâmbaras, if we except the canonical books of the latter. It may be noted in this connection that there developed in later times about 84 different schools of Jainism differing from one another only in minute details of conduct. These were called *gacchas*, and the most important of these is the Kharatara Gaccha, which had split into many minor gacchas. Both sects of Jains have
+
+p. 459" of J. Burgess, and Bûhler's "Specimens of Jina sculptures from Mathurâ," in *Epigraphica Indica*, II. pp. 311 etc. See also Jacobi's article on Jainism, *E.R.E.*]
 
 preserved a list of the succession of their teachers from Mahâvîra (*sthavirâvali, pa@t@tâvali, gurvâvali*) and also many legends about them such as those in the *Kalpasûtra*, the *Paris'i@s@ta-parvan* of Hemacandra, etc.
 

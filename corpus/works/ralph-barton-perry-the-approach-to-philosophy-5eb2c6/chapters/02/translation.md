@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6260
+word_count: 6219
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -132,19 +132,7 @@ FOOTNOTES:
 
 [58:2] Cf. Leuba: *Introduction to a Psychological Study of Religion*, *Monist*, Vol. XI, p. 195.
 
-[58:3] Cf. Leuba: *Ibid.*
-
-[59:4] Cf. § 29.
-
-[59:5] P. 322.
-
-[64:6] Rousseau: *Confessions*, Book IV, p. 125.
-
 [65:7] William James: *The Varieties of Religious Experience*, p. 35. The italics are mine. I am in the present chapter under constant obligation to this wonderfully sympathetic and stimulating book.
-
-[67:8] Chadwick: *Theodore Parker*, p. 18.
-
-[67:9] Stevenson: *Letters*, Vol. I, p. 229.
 
 [68:10] Thomas à Kempis: *Imitation of Christ*, Chap. XIX. Translation by Stanhope, p. 44.
 
@@ -152,8 +140,4 @@ FOOTNOTES:
 
 [71:12] James: *Varieties of Religious Experience*, p. 203.
 
-[74:13] Fielding: *op. cit.*, p. 152.
-
 [78:14] Warren: *Buddhism in Translations*, p. 14.
-
-[78:15] *Ibid.*, p. 83.

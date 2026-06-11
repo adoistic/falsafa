@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 938
+word_count: 881
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -32,7 +32,7 @@ translator: Project Gutenberg edition
 
 The chief instance of the third kind is that known as the Dilemma.
 
-Syllogism __________________*|*______________ | | Simple Complex (Categorical) (Conditional) ____________________*|*______________ | | | Conjunctive Disjunctive Dilemma (Hypothetical)
+Syllogism *|* | | Simple Complex (Categorical) (Conditional) *|* | | | Conjunctive Disjunctive Dilemma (Hypothetical)
 
 *The Conjunctive Syllogism*.
 
@@ -47,8 +47,6 @@ Syllogism __________________*|*______________ | | Simple Complex (Categorical) (
 § 736. Wholly conjunctive syllogisms do not differ essentially from simple ones, to which they are immediately reducible. They admit of being constructed in every mood and figure, and the moods of the imperfect figures may be brought into the first by following the ordinary rules of reduction. For instance--
 
 Cesare. Celarent.
-
-If A is B, C is never D. \ / If C is D, A is never B. If E is F, C is always D. | = | If E is F, C is always D. .'. If E is F, A is never B. / \ .'. If E is F, A is never B.
 
 If it is day, the stars never shine.\ /If the stars shine, it is never day. If it is night, the stars always \=/ If it is night, the stars always shine. / \ shine. .'. If it is night, it is never day / \.'. If it is night, it is never day.
 

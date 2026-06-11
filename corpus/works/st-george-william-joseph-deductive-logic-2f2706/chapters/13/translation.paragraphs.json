@@ -15,138 +15,123 @@
     "text": "§ 754. The constructive mood will then be read in this way--"
   },
   {
-    "id": "p-d777c1",
-    "offset": 474,
-    "text": "If A is B, C is D, .'. A being B, C is D."
-  },
-  {
     "id": "p-c61d2c",
-    "offset": 517,
+    "offset": 474,
     "text": "reducing itself to an instance of immediate inference by subaltern opposition--"
   },
   {
     "id": "p-7a7839",
-    "offset": 598,
+    "offset": 555,
     "text": "Every case of A being B, is a case of C being D. .'. Some particular case of A being B is a case of C being D."
   },
   {
     "id": "p-134f9c",
-    "offset": 710,
+    "offset": 667,
     "text": "§ 755. Again, the destructive conjunctive will read as follows--"
   },
   {
     "id": "p-f6bdec",
-    "offset": 776,
+    "offset": 733,
     "text": "If A is B, C is D, .'. C not being D, A is not B."
   },
   {
     "id": "p-eab4dd",
-    "offset": 827,
+    "offset": 784,
     "text": "which is equivalent to"
   },
   {
     "id": "p-d284de",
-    "offset": 851,
+    "offset": 808,
     "text": "All cases of A being B are cases of C being D. .'. Whatever is not a case of C being D is not a case of A being B. .'. Some particular case of C not being D is not a case of A being B."
   },
   {
     "id": "p-edd991",
-    "offset": 1037,
+    "offset": 994,
     "text": "But what is this but an immediate inference by contraposition, coming under the formula"
   },
   {
     "id": "p-910a3d",
-    "offset": 1126,
+    "offset": 1083,
     "text": "All A is B, .'. All not-B is not-A,"
   },
   {
     "id": "p-99b5a7",
-    "offset": 1163,
+    "offset": 1120,
     "text": "and followed by Subalternation?"
   },
   {
     "id": "p-b60f04",
-    "offset": 1196,
+    "offset": 1153,
     "text": "§ 756. The fallacy of affirming the consequent becomes by this mode of treatment an instance of the vice of immediate inference known as the simple conversion of an A proposition. 'If A is B, C is D' is not convertible with 'If C is D, A is B' any more than 'All A is B' is convertible with 'All B is A.'"
   },
   {
     "id": "p-24733f",
-    "offset": 1502,
+    "offset": 1459,
     "text": "§ 757. We may however argue in this way"
   },
   {
-    "id": "p-111a5d",
-    "offset": 1543,
-    "text": "If A is B, C is D, C is D, .'. A may be B,"
-  },
-  {
     "id": "p-09e984",
-    "offset": 1587,
+    "offset": 1500,
     "text": "which is equivalent to saying,"
   },
   {
     "id": "p-1c4182",
-    "offset": 1619,
+    "offset": 1532,
     "text": "When A is B, C is always D, .'. When C is D, A is sometimes B,"
   },
   {
     "id": "p-7f21e3",
-    "offset": 1683,
+    "offset": 1596,
     "text": "and falls under the legitimate form of conversion of A per accidens--"
   },
   {
     "id": "p-7ebc77",
-    "offset": 1754,
+    "offset": 1667,
     "text": "All cases of A being B are cases of C being D. .'. Some cases of C being D are cases of A being B."
   },
   {
     "id": "p-6ab7e7",
-    "offset": 1854,
+    "offset": 1767,
     "text": "§ 758. The fallacy of denying the antecedent assumes the following form--"
   },
   {
-    "id": "p-317883",
-    "offset": 1929,
-    "text": "If A is B, C is D, .'. If A is not B, C is not D,"
-  },
-  {
     "id": "p-3df8f1",
-    "offset": 1980,
+    "offset": 1842,
     "text": "equivalent to--"
   },
   {
     "id": "p-c61a95",
-    "offset": 1997,
+    "offset": 1859,
     "text": "All cases of A being B are cases of C being D. .'. Whatever is not a case of A being B is not a case of C being D."
   },
   {
     "id": "p-03be2d",
-    "offset": 2113,
+    "offset": 1975,
     "text": "This is the same as to argue--"
   },
   {
     "id": "p-da43e2",
-    "offset": 2145,
+    "offset": 2007,
     "text": "All A is B, .'. All not-A is not-B,"
   },
   {
     "id": "p-bfd230",
-    "offset": 2182,
+    "offset": 2044,
     "text": "an erroneous form of immediate inference for which there is no special name, but which involves the vice of simple conversion of A, since 'All not-A is not-B' is the contrapositive, not of 'All A is B,' but of its simple converse 'All B is A.'"
   },
   {
     "id": "p-a0672a",
-    "offset": 2427,
+    "offset": 2289,
     "text": "§ 759. The above-mentioned form of immediate inference, however (namely, the employment of contraposition without conversion), is valid in the case of the U proposition; and so also is simple conversion. Accordingly we are able, as we have seen, in dealing with a proposition of that form, both to deny the antecedent and to assert the consequent with impunity--"
   },
   {
     "id": "p-36044b",
-    "offset": 2791,
+    "offset": 2653,
     "text": "If A is B, then only C is D, .'. A not being B, C is not D;"
   },
   {
     "id": "p-e41a06",
-    "offset": 2852,
+    "offset": 2714,
     "text": "and again, C being D, A must be B."
   }
 ]

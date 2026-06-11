@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2696
+word_count: 2604
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -180,8 +180,6 @@ Arguing in a circle, 882.
 
 Argumentum ad hominem, etc., 867.
 
-Art, 20.
-
 Attribute, 81 sqq. Essential and non-essential, 320.
 
 Attributives, 88 sqq.
@@ -199,8 +197,6 @@ Complex Proposition, 209. conversion of, 709. conversion by contraposition of, 7
 Complex Syllogism, 731. mixed form of, 778.
 
 Composition, Fallacy of, 849.
-
-Concept, 36, 40 sqq.
 
 Conception, 33.
 
@@ -230,8 +226,6 @@ Conversion, 479. of complex propositions, 709. by contraposition, 516. illative,
 
 Convertend, 480.
 
-Copula, 58, 64, 186 sqq. modality of, 196.
-
 Correlatives, 142.
 
 Deduction and Induction, difference of, 431 sqq.
@@ -252,8 +246,6 @@ Determination, 167.
 
 Dictum de omni et nullo, 569. de diverso, 641. de exemplo et excepto, 642.
 
-Difference, 318, 358. generic, 410. specific, 409.
-
 Dilemma, 732, 779. rebutted, 792. reduction of, 796. regarded as an immediate inference, 798.
 
 Disjunctive Syllogism, 760. canon of, 765. reduction of, 766. regarded as an immediate inference, 770.
@@ -273,8 +265,6 @@ Division, Fallacy of, 851.
 Division of Propositions, 206. of terms, 86. of things, 77.
 
 Enthymeme, incorrectly so-called, 557.
-
-Enumeration, 387, 422.
 
 Epicheirema, 803.
 
@@ -301,8 +291,6 @@ Four Terms, Fallacy of, 840.
 Fundamentum Divisionis, 391.
 
 Generalisation, 168.
-
-Genus, 318. as used by Aristotle, 336. cognate, 408. proximate, 420. subaltern, 406. summum, 167, 404.
 
 Heads of Predicables, 313. as given by Aristotle, 336.
 
@@ -358,8 +346,6 @@ Minor Term, 542.
 
 Modality, Question of, 196.
 
-Mode, the, 196.
-
 Moods of a Syllogism, 558. determination of the legitimate, 599. subaltern, 628. valid in the Four Figures, 621. mnemonics of, valid in Four Figures, 629.
 
 Name, definition of, 61.
@@ -369,8 +355,6 @@ Negative Premisses and Conclusion, Fallacy of, 842.
 Nominalists, 50, 54.
 
 Non causa pro causa, Fallacy of, 883.
-
-Nouns, 62.
 
 Opposition, 449 sqq. contradictory, 457. contrary, 454. laws of, 464. subaltern, 456. sub-contrary, 455.
 
@@ -388,15 +372,11 @@ Predicate of a Proposition, 58, 184. read in extension, 307. quantification of, 
 
 Predication, 194. in quid or in quale, 332.
 
-Premisses, 540. major, 544. minor, 545.
-
 Primary Existences, 55.
 
 Problema, the, 556.
 
 Proper Names, 113.
-
-Property, 318. generic, 411. specific, 411.
 
 Proposition, 172 sqq. accidental, 238. affirmative, 258. complex or conditional, 209. conjunctive or hypothetical, 214, 704. conversion of, 479. definition of, 178. disjunctive, 214. divisions of, 206. essential, 238. exceptive, 270. exclusive, 266. extensive, 264. general, 251. indefinite, 244. intensive, 264. modal, 205. negative, 258. particular, 240. pure, 205. quality of, 258. quantity of, 246. real or synthetical, 227. simple or categorical, 207. singular, 250. tautologous or identical, 273. universal, 239. verbal or analytical, 224.
 
@@ -405,8 +385,6 @@ Proprium, 336.
 Pro-syllogism, 802.
 
 Quaestio, the, 556.
-
-Quality, a, 82.
 
 Quality of the matter, 204. of propositions, 258.
 
@@ -422,8 +400,6 @@ Reasoning or Inference, 35. the canon of, 560. trains of, 800.
 
 Reduction of propositions, 667. of the dilemma, 796. of disjunctive syllogisms, 766. indirect, 691. mnemonics for, 697. ostensive or direct, 673. of partly conjunctive syllogisms, 744.
 
-Relation, a, 83, 144.
-
 Relation, immediate inference by, 462. compatible and incompatible, 462.
 
 Science, 20.
@@ -435,8 +411,6 @@ Simple Apprehension, 33.
 Sorites, the, 807 sqq.
 
 Specialisation, 167.
-
-Species, 318. cognate, 407. infimae, 405. subaltern, 406.
 
 Subalternant, 458.
 
@@ -450,19 +424,11 @@ Sub-contraries, 458.
 
 Sub-division, 401.
 
-Subject, 58, 183. how used, 264. quantity of, 279.
-
-Substance, 80, 84.
-
-Summum Genus, 167, 404.
-
 Suppositio Materialis, 76.
 
 Syllogism, 546 sqq. complex, 731. in common discourse, 557. conjunctive, 733. definition of, 552. disjunctive, 760. general rules of, 582. figures of, 560, 563. with three figures, 656. legitimate moods of, 599 sqq. mnemonics for, 598. moods of, 559, 562.
 
 Syncntegorematic words, 70.
-
-Synonym, 345.
 
 Term, 57 sqq. absolute, 140. abstract, 95. analogous, 139. attributive, 88. collective, 118. common, 105. concrete, 96. connotative, 147. contradictory, 129. contrary, 130. definition of, 347.
 
@@ -473,8 +439,6 @@ Terms, relative, 141. repugnant, 135. singular, 43, 104. subject, 87. undistribu
 Universals, nature of, 48, 55.
 
 'U' Propositions, 297.
-
-Verb, 64.
 
 Words, their relation to terms, 65 sqq,
 

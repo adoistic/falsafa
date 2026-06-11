@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 124
+word_count: 118
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -39,9 +39,5 @@ translator: Project Gutenberg edition
 (9) The square of three is nine.
 
 (10) All cannot receive this saying.
-
-(11) P struck Q.
-
-(12) Amas.
 
 2. 'More things may be contained in my philosophy than exist in heaven or earth: but the converse proposition is by no means true.' Is the term converse here used in its logical meaning?

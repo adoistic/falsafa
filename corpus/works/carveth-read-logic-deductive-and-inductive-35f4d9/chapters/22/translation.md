@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6734
+word_count: 6672
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -102,8 +102,6 @@ Whilst in Botany and Zoology the species is fixed at the lowest step of the clas
 
 "Porphyry's tree" is used to illustrate this doctrine. It begins with a *summum genus*, 'Substance,' and descends by adding differences, step by step, to the *infima species*, 'Man.' It also illustrates Division by Dichotomy.
 
-SUBSTANCE / \ CORPOREAL || INCORPOREAL || BODY / \ ANIMATE || INANIMATE || LIVING BODY / \ SENSIBLE || INSENSIBLE || ANIMAL / \ RATIONAL || IRRATIONAL || MAN //||\\ // || \\ // || \\ // || \\ // || \\ // || \\ // || \\ *Socrates* *Plato* *Aristotle*
-
 Beginning with 'Substance,' as *summum genus*, and adding the difference 'Corporeal,' we frame the species 'Body.' Taking 'Body' as the genus and adding the difference 'Animate,' we frame the species 'Living Body;' and so on till 'Man' is reached; which, being _infima species_, is only subdivisible into individuals. But the division of Man into individuals involves a change of principle; it is a division of the denotation, not an increase of the connotation as in the earlier steps. Only one side of each dichotomy is followed out in the 'tree': if the other side had been taken, Incorporeal Substance would be 'Spirit'; which might be similarly subdivided.
 
 Genus and species, then, have a double relation. In denotation the genus includes the species; in connotation the species includes the genus. Hence the doctrine that by increasing the connotation of a name we decrease its denotation: if, for example, to the definition of 'lion' we add 'inhabiting Africa,' Asiatic lions are no longer denoted by it. On the other hand, if we use a name to denote objects that it did not formerly apply to, some of the connotation must be dropped: if, for example, the name 'lion' be used to include 'pumas,' the tufted tail and mane can no longer be part of the meaning of the word; since pumas have not these properties.
@@ -139,8 +137,6 @@ Such questions belong to Metaphysics rather than to Logic; and the foregoing is 
 § 10. The doctrine of the Predicaments, or Categories, is so interwoven with the history of speculation and especially of Logic that, though its vitality is exhausted, it can hardly be passed over unmentioned. The predicaments of Aristotle are the heads of a classification of terms as possible predicates of a particular thing or individual. Hamilton (*Logic*: Lect. xi.) has given a classification of them; which, if it cannot be found in Aristotle, is an aid to the memory, and may be thrown into a table thus:
 
 Substance [Greek: ousia] (1) {Quantity [Greek: poson] (2) Attribute {Quality [Greek: poion] (3) {Relation [Greek: pros ti] (4)
-
-{ Where [Greek: pou] (5) { When [Greek: pote] (6)
 
 { Action [Greek: poiein] (7) Modes of Relation { Passion [Greek: paschein] (8)
 

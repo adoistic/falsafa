@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 24011
+word_count: 24005
 source_url: "https://www.gutenberg.org/ebooks/23422"
 translator: Project Gutenberg edition
 ---
@@ -571,8 +571,6 @@ FOOTNOTES:
 *BY THE SAME AUTHOR*
 
 THE DYNAMIC FOUNDATION OF KNOWLEDGE
-
-*Crown 8vo. 330 pp. 6s. net*
 
 "Mr. Philip, a thinker of considerable acuteness, expounds further the dynamic theory of knowledge which he propounded in 'Matter and Energy' and the 'Doctrine of Energy.' What we are really sensible of in the external world is mutation; but the consciousness of our own activity suggests the existence of something behind phenomena. The reality which sustains experience is found to be, in essence, power--power conceived as an energy containing within itself the principle of its own evolution; an energy constantly transmuting itself, and in its transmutations furnishing the entire presentation of sense. The universal application of this concept unifies science or the knowledge of nature; and the dynamic theory is applied by Mr. Philip to life, economics, and education." *Times.*
 

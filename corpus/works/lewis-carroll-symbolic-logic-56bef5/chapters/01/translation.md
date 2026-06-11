@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 296
+word_count: 295
 source_url: "https://www.gutenberg.org/ebooks/28696"
 translator: Project Gutenberg edition
 ---
@@ -57,5 +57,3 @@ or else
 [Note that we here use the article "the" instead of "a", because we happen to know that there is only *one* such Thing.
 
 The Reader can set himself any number of Examples of this Process, by simply choosing the Name of any common Thing (such as "house," "tree," "knife"), making a Definition for it, and then testing his answer by referring to any English Dictionary.]
-
-pg008

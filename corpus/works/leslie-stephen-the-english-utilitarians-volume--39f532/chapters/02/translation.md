@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8212
+word_count: 8115
 source_url: "https://www.gutenberg.org/ebooks/27597"
 translator: Project Gutenberg edition
 ---
@@ -78,69 +78,21 @@ NOTES:
 
 Young's *Travels in France* was republished in 1892, with a preface and short life by Miss Betham Edwards. She has since (1898) published his autobiography. See also the autobiographical sketch in the _Annals of Agriculture*, xv. 152-97. Young's *Farmer's Letters_ first appeared in 1767; his *Tours* in the Southern, Northern, and Eastern Counties in 1768, 1770, and 1771; his *Tour in Ireland* in 1780; and his _Travels in France_ in 1792. A useful bibliography, containing a list of his many publications, is appended to the edition of the *Tour in Ireland* edited by Mr. A. W. Hutton in 1892.
 
-*Annals*, xv. 166.
-
-*Travels in France* (1892), p. 184 *n.*
-
 *Travels in France*, p. 54.
-
-*Ibid.* p. 109.
-
-*Ibid.* p. 61.
-
-*Ibid.* p. 70.
-
-*Ibid.* p. 279.
 
 *Travels in France*, p. 125.
 
-*Ibid.* p. 131.
-
-*Ibid.* pp. 198, 298.
-
-*Ibid.* pp. 55, 193, 199, 237.
-
-*Ibid.* p. 43.
-
-*Travels in France*, pp. 291-92.
-
-*Ibid.* p. 132.
-
-*Ibid.* p. 66.
-
-*Ibid.* p. 131.
-
 e.g. *Southern Tour*, p. 103; *Northern Tour*, p. 180 (York Cathedral).
-
-*Northern Tour*, iv. 344, 377.
-
-*Irish Tour*, ii. 114.
-
-*Southern Tour*, p. 326.
 
 *Southern Tour*, p. 22.
 
-*Annals*, i. 380.
-
-*Ibid.* vol, x.
-
-*Ibid.* iv. 17.
-
-*Southern Tour*, p. 262; *Northern Tour*, ii. 412.
-
 *Northern Tour*, iv. 410, etc.
 
-*Irish Tour*, ii. 118-19.
-
 *Memoirs of Sir John Sinclair*, by his son. 2 vols., 1837.
-
-*Memoirs*, i. 338.
 
 *A New Statistical Account*, replacing this, appeared in twenty-four volumes from 1834 to 1844.
 
 He was president for the first five years, and again, from 1806 till 1813. For an account of this, see Sir Ernest Clarke's _History of the Board of Agriculture_, 1898.
-
-*Northern Tour*, i. 222-32.
 
 *Northern Tour*, ii. 186.
 
@@ -149,7 +101,5 @@ He was president for the first five years, and again, from 1806 till 1813. For a
 *Northern Tour*, iii. 365.
 
 Arthur Young had a low opinion of Sinclair, whom he took to be a pushing and consequential busybody, more anxious to make a noise than to be useful. See Young's *Autobiography* (1898), pp. 243, 315, 437. Sir Ernest Clarke points out the injury done by Sinclair's hasty and blundering extravagance; but also shows that the board did great service in stimulating agricultural improvement.
-
-Scott's *Letters*, i. 202.
 
 Essay on 'Turgot.' See, in Daire's Collection of the *Économistes*, the arguments of Quesnay (p. 81), Dupont de Nemours (p. 360), and Mercier de la Rivière in favour of a legal (as distinguished from an 'arbitrary') despotism.

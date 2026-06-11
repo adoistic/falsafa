@@ -315,298 +315,288 @@
     "text": "Primarily, the Five Predicables or Heads of Predicables--Genus, Species, Differentia, Proprium, and Accidens--are not predicables at all, but merely a list or enumeration of terms used in dividing and defining on the basis of attributes. They have no meaning except in connexion with a fixed scheme of division. Given such a scheme, and we can distinguish in it the whole to be divided (the *genus*), the subordinate divisions (the *species*), the attribute or combination of attributes on which each species is constituted (the *differentia*), and other attributes, which belong to some or all of the individuals but are not reckoned for purposes of division and definition (*Propria* and *Accidentia*). The list is not itself a logical division: it is heterogeneous, not homogeneous; the two first are names of classes, the three last of attributes. But corresponding to it we might make a homogeneous division of attributes, as follows:--"
   },
   {
-    "id": "p-876f58",
+    "id": "p-ef54cc",
     "offset": 37128,
-    "text": "Attributes __________*|*___________ | | Defining Non-defining ____*|*____* *__*|*_________ | | | | Generic Specific Proprium Accidens (Differentia)"
+    "text": "Attributes *|* | | Defining Non-defining *|* * * *|* | | | | Generic Specific Proprium Accidens (Differentia)"
   },
   {
     "id": "p-011b44",
-    "offset": 37277,
+    "offset": 37239,
     "text": "The origin of the title Predicables as applied to these five terms is curious, and may be worth noting as an instance of the difficulty of keeping names precise, and of the confusion arising from forgetting the purpose of a name. Porphyry in his [Greek: eisagoge] or Introduction explains the five words ([Greek: phonai]) simply as terms that it is useful for various purposes to know, expressly mentioning definition and division. But he casually remarks that Singular names, \"This man,\" \"Socrates,\" can be predicated only of one individual, whereas *Genera*, *Species*, *Differentiae*, etc., are predicables of many. That is to say he describes them as Predicables simply by contradistinction from Singular names. A name, however, was wanted for the five terms taken all together, and since they are not a logical division, but merely a list of terms used in dividing and defining, there was no apt general designation for them such as would occur spontaneously. Thus it became the custom to refer to them as the Predicables, a means of reference to them collectively being desiderated, while the meaning of this descriptive title was forgotten."
   },
   {
     "id": "p-962f34",
-    "offset": 38426,
+    "offset": 38388,
     "text": "To call the five divisional elements or *Divisoria* Predicables is to present them as a division of Predicate Terms on the basis of their relation to the Subject Term: to suggest that every Predicate Term must be either a Genus or a Species, or a Differentia, or a Proprium, or an Accidens of the Subject Term. They are sometimes criticised as such, and it is rightly pointed out that the Predicate is never a species of or with reference to the Subject. But, in truth, the five so-called Predicables were never meant as a division of predicates in relation to the subject: it is only the title that makes this misleading suggestion."
   },
   {
     "id": "p-a0c448",
-    "offset": 39061,
+    "offset": 39023,
     "text": "To complete the confusion it so happens that Aristotle used three of the Five terms in what was virtually a division of Predicates inasmuch as it was a division of Problems or Questions. In expounding the methods of Dialectic in the Topica he divided Problems into four classes according to the relation of the Predicate to the Subject. The Predicate must either be simply convertible with the subject or not. If simply convertible, the two must be coextensive, and the Predicate must be either a Proprium or the Definition. If not simply convertible, the Predicate must either be part of the Definition or not. If part of the Definition it must be either a Generic Property or a Differentia (both of which in this connexion Aristotle includes under Genus): if not part of the Definition, it is an Accident. Aristotle thus arrives at a fourfold division of Problems or Predicates:--[Greek: genos] (*Genus*, including *Differentia*, [Greek: diaphora]); [Greek: horos] (Definition); [Greek: to idion] (*Proprium*); and [Greek: to symbebekos] (*Accidens*). The object of it was to provide a basis for his systematic exposition; each of the four kinds admitted of differences in dialectic method. For us it is a matter of simple curiosity and ingenuity. It serves as a monument of how much Greek dialectic turned on Definition, and it corresponds exactly to the division of attributes into Defining and Non-defining given above. It is sometimes said that Aristotle showed a more scientific mind than Porphyry in making the Predicables four instead of five. This is true if Porphyry's list had been meant as a division of attributes: but it was not so meant."
   },
   {
     "id": "p-4deb75",
-    "offset": 40716,
+    "offset": 40678,
     "text": "The distinction between VERBAL or ANALYTIC and REAL or SYNTHETIC Predication corresponds to the distinction between Defining and Non-defining attributes, and also has no significance except with reference to some scheme of Division, scientific and precise or loose and popular."
   },
   {
     "id": "p-907658",
-    "offset": 40995,
+    "offset": 40957,
     "text": "When a proposition predicates of a subject something contained in the full notion, concept, or definition of the subject term, it is called Verbal, Analytic, or Explicative: *verbal*, inasmuch as it merely explains the meaning of a name; *explicative* for the same reason; *analytic*, inasmuch as it unties the bundle of attributes held together in the concept and pays out one, or all one by one."
   },
   {
     "id": "p-1b27d7",
-    "offset": 41394,
+    "offset": 41356,
     "text": "When the attributes of the Predicate are not contained in the concept of the Subject, the proposition is called *Real*, *Synthetic*, or *Ampliative*, for parallel reasons."
   },
   {
     "id": "p-52bdeb",
-    "offset": 41567,
+    "offset": 41529,
     "text": "Thus: \"A triangle is a three-sided rectilinear figure\" is Verbal or Analytic; \"Triangles have three angles together equal to two right angles,\" or \"Triangles are studied in schools,\" is Real or Synthetic."
   },
   {
     "id": "p-ed967b",
-    "offset": 41773,
+    "offset": 41735,
     "text": "According to this distinction, predications of the whole Definition or of a Generic attribute or of a Specific attribute are Verbal; predications of Accident are Real. A nice point is whether Propria are Verbal or Real. They can hardly be classed with Verbal, inasmuch as one may know the full meaning of the name without knowing them: but it might be argued that they are Analytic, inasmuch as they are implicitly contained in the defining attributes as being deducible from them."
   },
   {
     "id": "p-6748cf",
-    "offset": 42256,
+    "offset": 42218,
     "text": "Observe, however, that the whole distinction is really valid only in relation to some fixed or accepted scheme of classification or division. Otherwise, what is Verbal or Analytic to one man may be Real or Synthetic to another. It might even be argued that every proposition is Analytic to the man who utters it and Synthetic to the man who receives it. We must make some analysis of a whole of thought before paying it out in words: and in the process of apprehending the meaning of what we hear or read we must add the other members of the sentence on to the subject. Whether or not this is super-subtle, it clearly holds good that what is Verbal (in the sense defined) to the learned man of science may be Real to the learner. That the horse has six incisors in each jaw or that the domestic dog has a curly tail, is a Verbal Proposition to the Natural Historian, a mere exposition of defining marks; but the plain man has a notion of horse or dog into which this defining attribute does not enter, and to him accordingly the proposition is Real."
   },
   {
     "id": "p-c8747d",
-    "offset": 43307,
+    "offset": 43269,
     "text": "But what of propositions that the plain man would at once recognise as Verbal? Charles Lamb, for example, remarks that the statement that \"a good name shows the estimation in which a man is held in the world\" is a verbal proposition. Where is the fixed scheme of division there? The answer is that by a fixed scheme of division we do not necessarily mean a scheme that is rigidly, definitely and precisely fixed. To make such schemes is the business of Science. But the ordinary vocabulary of common intercourse as a matter of fact proceeds upon schemes of division, though the names used in common speech are not always scientifically accurate, not always the best that could be devised for the easy acquisition and sure transmission of thorough knowledge. The plain man's vocabulary, though often twisted aside by such causes as we have specified, is roughly moulded on the most marked distinguishing attributes of things. This was practically recognised by Aristotle when he made one of his modes of definition consist in something like what we have called verifying the meaning of a name, ascertaining the attributes that it signifies in common speech or in the speech of sensible men. This is to ascertain the essence, [Greek: ousia], or *Substantia*, of things, the most salient attributes that strike the common eye either at once or after the closer inspection that comes of long companionship, and form the basis of the ordinary vocabulary. \"Properly speaking,\" Mansel says, \"All Definition is an inquiry into *Attributes*. Our complex notions of Substances can only be resolved into various Attributes, with the addition of an unknown *substratum*: a something to which we are compelled to regard these attributes as belonging. *Man*, for example, is analysed into Animality, Rationality, and the something which exhibits these phenomena. Pursue the analysis and the result is the same. We have a something corporeal, animated, sensible, rational. An unknown constant must always be added to complete the integration.\" This \"unknown constant\" was what Locke called the *Real* Essence, as distinguished from the *Nominal* Essence, or complex of attributes. It is upon this nominal essence, upon divisions of things according to attributes, that common speech rests, and if it involves many cross-divisions, this is because the divisions have been made for limited and conflicting purposes."
   },
   {
     "id": "p-368057",
-    "offset": 45707,
+    "offset": 45669,
     "text": "CHAPTER III."
   },
   {
     "id": "p-3f3f61",
-    "offset": 45721,
+    "offset": 45683,
     "text": "ARISTOTLE'S CATEGORIES."
   },
   {
     "id": "p-a7dd59",
-    "offset": 45746,
+    "offset": 45708,
     "text": "In deference to tradition a place must be found in every logical treatise for Aristotle's Categories. No writing of the same length has exercised a tithe of its influence on human thought. It governed scholastic thought and expression for many centuries, being from its shortness and consequent easiness of transcription one of the few books in every educated man's library. It still regulates the subdivisions of Parts of Speech in our grammars. Its universality of acceptance is shown in the fact that the words *category* ([Greek: kategoria]) and *predicament*, its Latin translation, have passed into common speech."
   },
   {
     "id": "p-0ef1d4",
-    "offset": 46367,
+    "offset": 46329,
     "text": "The Categories have been much criticised and often condemned as a division, but, strange to say, few have inquired what they originally professed to be a division of, or what was the original author's basis of division. Whether the basis is itself important, is another question: but to call the division imperfect, without reference to the author's intention, is merely confusing, and serves only to illustrate the fact that the same objects may be differently divided on different principles of division. Ramus was right in saying that the Categories had no logical significance, inasmuch as they could not be made a basis for departments of logical method; and Kant and Mill in saying that they had no philosophical significance, inasmuch as they are founded upon no theory of Knowing and Being: but this is to condemn them for not being what they were never intended to be."
   },
   {
     "id": "p-162956",
-    "offset": 47246,
+    "offset": 47208,
     "text": "The sentence in which Aristotle states the objects to be divided, and his division of them is so brief and bold that bearing in mind the subsequent history of the Categories, one first comes upon it with a certain surprise. He says simply:--"
   },
   {
     "id": "p-a18d2e",
-    "offset": 47489,
+    "offset": 47451,
     "text": "\"Of things expressed without syntax (*i.e.*, single words), each signifies either substance, or quantity, or quality, or relation, or place, or time, or disposition (*i.e.*, attitude or internal arrangement), or appurtenance, or action (doing), or suffering (being done to).\""
   },
   {
     "id": "p-6aba13",
-    "offset": 47766,
+    "offset": 47728,
     "text": "The objects, then, that Aristotle proposed to classify were single words (the *themata simplicia* of the Schoolmen). He explains that by \"out of syntax\" ([Greek: aneu symplokes]) he means without reference to truth or falsehood: there can be no declaration of truth or falsehood without a sentence, a combination, or syntax: \"man runs\" is either true or false, \"man\" by itself, \"runs\" by itself, is neither. His division, therefore, was a division of single words according to their differences of signification, and without reference to the truth or falsehood of their predication."
   },
   {
     "id": "p-f37797",
-    "offset": 48350,
+    "offset": 48312,
     "text": "Signification was thus the basis of division. But according to what differences? The Categories themselves are so abstract that this question might be discussed on their bare titles interminably. But often when abstract terms are doubtful, an author's intention may be gathered from his examples. And when Aristotle's examples are ranged in a table, certain principles of subdivision leap to the eyes. Thus:--"
   },
   {
-    "id": "p-103f62",
-    "offset": 48761,
-    "text": "Substance Man } COMMON { Substance ([Greek: ousia]) ([Greek: anthropos]) } NOUN { (*Substantia*) -------------------------------------------------------------- Quantity Five-feet-five } { ([Greek: poson]) ([Greek: tripechu]) } { (*Quantitas*) } { Quality Scholarly } { Permanent ([Greek: poion]) ([Greek: grammatikon])} ADJECTIVE { Attribute (*Qualitas*) } { Relation Bigger } { ([Greek: pros ti]) ([Greek: meizon]) } { (*Relatio*) } { -------------------------------------------------------------- Place In-the-Lyceum } { ([Greek: pou]) ([Greek: en Lykeio]) } { (*Ubi*) } ADVERB { Temporary Time Yesterday } { Attribute ([Greek: pote]) ([Greek: chthes]) } { (*Quando*) } { -------------------------------------------------------------- Disposition Reclines } { ([Greek: keisthai]) ([Greek: anakeitai]) } { (*Positio*) } { Appurtenance Has-shoes-on } { ([Greek: echein]) ([Greek: hypodedetai])} { (*Habitus*) } VERB { Action Cuts } { Temporary ([Greek: poiein]) ([Greek: temnei]) } { Attribute (*Actio*) } { Passion Is cut } { ([Greek: paschein]) ([Greek: temnetai]) } { (*Passio*) } {"
-  },
-  {
     "id": "p-33ad89",
-    "offset": 49848,
+    "offset": 48723,
     "text": "In looking at the examples, our first impression is that Aristotle has fallen into a confusion. He professes to classify words out of syntax, yet he gives words with the marks of syntax on them. Thus his division is accidentally grammatical, a division of parts of speech, parts of a sentence, into Nouns, Adjectives, Adverbs, and Verbs. And his subdivisions of these parts are still followed in our grammars. But really it is not the grammatical function that he attends to, but the signification: and looking further at the examples, we see what differences of signification he had in his mind. It is differences relative to a concrete individual, differences in the words applied to him according as they signify the substance of him or his attributes, permanent or temporary."
   },
   {
     "id": "p-709492",
-    "offset": 50629,
+    "offset": 49504,
     "text": "Take any concrete thing, Socrates, this book, this table. It must be some kind of a thing, a man, a book. It must have some size or quantity, six feet high, three inches broad. It must have some quality, white, learned, hard. It must have relations with other things, half this, double that, the son of a father. It must be somewhere, at some time, in some attitude, with some \"havings,\" appendages, appurtenances, or belongings, doing something, or having something done to it. Can you conceive any name (simple or composite) applicable to any object of perception, whose signification does not fall into one or other of these classes? If you cannot, the categories are justified as an exhaustive division of significations. They are a complete list of the most general resemblances among individual things, in other words, of the *summa genera*, the _genera generalissima_ of predicates concerning this, that or the other concrete individual. No individual thing is *sui generis*: everything is like other things: the categories are the most general likenesses."
   },
   {
     "id": "p-be7c6b",
-    "offset": 51694,
+    "offset": 50569,
     "text": "The categories are exhaustive, but do they fulfil another requisite of a good division--are they mutually exclusive? Aristotle himself raised this question, and some of his answers to difficulties are instructive. Particularly his discussion of the distinction between Second Substances or Essences and Qualities. Here he approximates to the modern doctrine of the distinction between Substance and Attribute as set forth in our quotation from Mansel at p. 110. Aristotle's Second Essences ([Greek: deuterai ousiai]) are common nouns or general names, Species and Genera, *man*, *horse*, *animal*, as distinguished from Singular names, *this man*, *this horse*, which he calls First Substances ([Greek: protai ousiai]), essences *par excellence*, to which real existence in the highest sense is attributed. Common nouns are put in the First Category because they are predicated in answer to the question, What is this? But he raises the difficulty whether they may not rather be regarded as being in the Third Category, that of Quality ([Greek: to poion]). When we say, \"This is a man,\" do we not declare what sort of a thing he is? do we not declare his Quality? If Aristotle had gone farther along this line, he would have arrived at the modern point of view that a man is a man in virtue of his possessing certain attributes, that general names are applied in virtue of their connotation. This would have been to make the line of distinction between the First Category and the Third pass between First Essence and Second, ranking the Second Essences with Qualities. But Aristotle did not get out of the difficulty in this way. He solved it by falling back on the differences in common speech. \"Man\" does not signify the quality simply, as \"whiteness\" does. \"Whiteness\" signifies nothing but the quality. That is to say, there is no separate name in common speech for the common attributes of man. His further obscure remark that general names \"define quality round essence\" [Greek: peri ousian], inasmuch as they signify what sort a certain essence is, and that genera make this definition more widely than species, bore fruit in the mediaeval discussions between Realists and Nominalists by which the signification of general names was cleared up."
   },
   {
     "id": "p-7085f7",
-    "offset": 53947,
+    "offset": 52822,
     "text": "Another difficulty about the mutual exclusiveness of the Categories was started by Aristotle in connexion with the Fourth Category, Relation ([Greek: pros ti] *Ad aliquid*, *To something*). Mill remarks that \"that could not be a very comprehensive view of the nature of Relation which would exclude action, passivity, and local situation from that Category,\" and many commentators, from Simplicius down to Hamilton, have remarked that all the last six Categories might be included under Relation. This is so far correct that the word Relation is one of the vaguest and most extensive of words; but the criticism ignores the strictness with which Aristotle confined himself in his Categories to the forms of common speech. It is clear from his examples that in his Fourth Category he was thinking only of \"relation\" as definitely expressed in common speech. In his meaning, any word is a relative which is joined with another in a sentence by means of a preposition or a case-inflection. Thus \"disposition\" is a relative: it is the disposition *of* something. This kind of relation is perfect when the related terms reciprocate grammatically; thus \"master,\" \"servant,\" since we can say either \"the master of the servant,\" or \"the servant of the master\". In mediaeval logic the term *Relata* was confined to these perfect cases, but the Category had a wider scope with Aristotle. And he expressly raised the question whether a word might not have as much right to be put in another Category as in this. Indeed, he went further than his critics in his suggestions of what Relation might be made to include. Thus: \"big\" signifies Quality; yet a thing is big with reference to something else, and is so far a Relative. Knowledge must be knowledge of something, and is a relative: why then should we put \"knowing\" (*i.e.*, learned) in the Category of Quality. \"Hope\" is a relative, as being the hope *of* a man and the hope of something. Yet we say, \"I have hope,\" and there hope would be in the category of Having, Appurtenance. For the solution of all such difficulties, Aristotle falls back upon the forms of common speech, and decides the place of words in his categories according to them. This was hardly consistent with his proposal to deal with separate words out of syntax, if by this was meant anything more than dealing with them without reference to truth or falsehood. He did not and could not succeed in dealing with separate words otherwise than as parts of sentences, owing their signification to their position as parts of a transient plexus of thought. In so far as words have their being in common speech, and it is their being in this sense that Aristotle considers in the Categories, it is a transient being. What being they represent besides is, in the words of Porphyry, a very deep affair, and one that needs other and greater investigation."
   },
   {
-    "id": "p-b4ae1d",
-    "offset": 56808,
-    "text": "(Categ. ii. 5.)]"
-  },
-  {
     "id": "p-df7bc6",
-    "offset": 56826,
+    "offset": 55683,
     "text": ", translated substantia, covered the word as well as the thing signified, and that his Categories are primarily classes of words. The union between names and things would seem to have been closer in the Greek mind than we can now realise. To get at it we must note that every separate word [Greek: to legomenon] is conceived as having a being or thing [Greek: to on] corresponding to it, so that beings or things [Greek: ta onta] are coextensive with single words: a being or thing is whatever receives a separate name. This is clear and simple enough, but perplexity begins when we try to distinguish between this nameable being and concrete being, which last is Aristotle's category of [Greek: ousia], the being signified by a Proper or a Common as distinguished from an Abstract Noun. As we shall see, it is relatively to the highest sense of this last kind of being, namely, the being signified by a Proper name, that he considers the other kinds of being.]"
   },
   {
     "id": "p-b578ec",
-    "offset": 57789,
+    "offset": 56646,
     "text": "CHAPTER IV."
   },
   {
     "id": "p-f8d66c",
-    "offset": 57802,
+    "offset": 56659,
     "text": "THE CONTROVERSY ABOUT UNIVERSALS.--DIFFICULTIES CONCERNING THE RELATION OF GENERAL NAMES TO THOUGHT AND TO REALITY."
   },
   {
     "id": "p-a23d47",
-    "offset": 57919,
+    "offset": 56776,
     "text": "In the opening sentences of his Isagoge, before giving his simple explanation of the Five Predicables, Porphyry mentions certain questions concerning Genera and Species, which he passes over as being too difficult for the beginner. \"Concerning genera and species,\" he says, \"the question whether they subsist (*i.e.*, have real substance), or whether they lie in the mere thoughts only, or whether, granting them to subsist, they are corporeal or incorporeal, or whether they subsist apart, or in sensible things and cohering round them--this I shall pass over, such a question being a very deep affair and one that needs other and greater investigation.\""
   },
   {
     "id": "p-02c561",
-    "offset": 58576,
+    "offset": 57433,
     "text": "This passage, written about the end of the third century, A.D., is a kind of isthmus between Greek Philosophy and Mediaeval: it summarises questions which had been turned over on every side and most intricately discussed by Plato and Aristotle and their successors, and the bald summary became a starting-point for equally intricate discussions among the Schoolmen, among whom every conceivable variety of doctrine found champions. The dispute became known as the dispute about Universals, and three ultra-typical forms of doctrine were developed, known respectively as Realism, Nominalism, and Conceptualism. Undoubtedly the dispute, with all its waste of ingenuity, had a clearing effect, and we may fairly try now what Porphyry shrank from, to gather some simple results for the better understanding of general names and their relations to thoughts and to things. The rival schools had each some aspect of the general name in view, which their exaggeration served to render more distinct."
   },
   {
     "id": "p-e450c6",
-    "offset": 59569,
+    "offset": 58426,
     "text": "What does a general name signify? For logical purposes it is sufficient to answer--the points of resemblance as grasped in the mind, fixed by a name applicable to each of the resembling individuals. This is the signification of the general name *logically*, its connotation or concept, the identical element of objective reference in all uses of a general name."
   },
   {
     "id": "p-65f71b",
-    "offset": 59932,
+    "offset": 58789,
     "text": "But other questions may be asked that cannot be so simply answered. What is this concept in thought? What is there in our minds corresponding to the general name when we utter it? How is its signification conceived? What is the signification *psychologically*?"
   },
   {
     "id": "p-ed5311",
-    "offset": 60194,
+    "offset": 59051,
     "text": "We may ask, further, What is there in nature that the general name signifies? What is its relation to reality? What corresponds to it in the real world? Has the unity that it represents among individuals no existence except in the mind? Calling this unity, this one in the many, the Universal (*Universale*, [Greek: to pan]), what is the Universal *ontologically*?"
   },
   {
     "id": "p-7ceee2",
-    "offset": 60560,
+    "offset": 59417,
     "text": "It was this ontological question that was so hotly and bewilderingly debated among the Schoolmen. Before giving the ultra-typical answers to it, it may be well to note how this question was mixed up with still other questions of Theology and Cosmogony. Recognising that there is a unity signified by the general name, we may go on to inquire into the ground of the unity. Why are things essentially like one another? How is the unity maintained? How is it continued? Where does the common pattern come from? The question of the nature of the Universal thus links itself with metaphysical theories of the construction of the world, or even with the Darwinian theory of the origin of species."
   },
   {
     "id": "p-a705eb",
-    "offset": 61252,
+    "offset": 60109,
     "text": "Passing by these remoter questions, we may give the answers of the three extreme schools to the ontological question, What is a Universal?"
   },
   {
     "id": "p-ed8644",
-    "offset": 61392,
+    "offset": 60249,
     "text": "The answer of the Ultra-Realists, broadly put, was that a Universal is a substance having an independent existence in nature."
   },
   {
     "id": "p-4e327d",
-    "offset": 61519,
+    "offset": 60376,
     "text": "Of the Ultra-Nominalists, that the Universal is a name and nothing else, *vox et praeterea nihil*; that this name is the only unity among the individuals of a species, all that they have in common."
   },
   {
     "id": "p-fa642f",
-    "offset": 61718,
+    "offset": 60575,
     "text": "Of the Ultra-Conceptualists, that the individuals have more in common than the name, that they have the name plus the meaning, *vox* + *significatio*, but that the Universals, the genera and species, exist only in the mind."
   },
   {
     "id": "p-127263",
-    "offset": 61943,
+    "offset": 60800,
     "text": "Now these extreme doctrines, as literally interpreted by opponents, are so easily refuted and so manifestly untenable, that it may be doubted whether they were ever held by any thinker, and therefore I call them Ultra-Realism, Ultra-Nominalism, and Ultra-Conceptualism. They are mere exaggerations or caricatures, set up by opponents because they can be easily knocked down."
   },
   {
     "id": "p-b32b3b",
-    "offset": 62319,
+    "offset": 61176,
     "text": "To the Ultra-Realists, it is sufficient to say that if there existed anywhere a substance having all the common attributes of a species and only these, having none of the attributes peculiar to any of the individuals of that species, corresponding to the general name as an individual corresponds to a Proper or Singular name, it would not be the Universal, the unity pervading the individuals, but only another individual."
   },
   {
     "id": "p-81c1d3",
-    "offset": 62744,
+    "offset": 61601,
     "text": "To the Ultra-Nominalists, it is sufficient to say that the individuals must have more in common than the name, because the name is not applied arbitrarily, but on some ground. The individuals must have in common that on account of which they receive the common name: to call them by the same name is not to make them of the same species."
   },
   {
     "id": "p-4b5be1",
-    "offset": 63083,
+    "offset": 61940,
     "text": "To the Ultra-Conceptualists, it is sufficient to say that when we employ a general name, as when we say \"Socrates is a man,\" we do not refer to any passing thought or state of mind, but to certain attributes independent of what is passing in our minds. We cannot make a thing of this or that species by merely thinking of it as such."
   },
   {
     "id": "p-ec7b0a",
-    "offset": 63418,
+    "offset": 62275,
     "text": "The ultra-forms of these doctrines are thus easily shown to be inadequate, yet each of the three, Realism, Nominalism, and Conceptualism, represents a phase of the whole truth."
   },
   {
     "id": "p-3cffc8",
-    "offset": 63596,
+    "offset": 62453,
     "text": "Thus, take Realism. Although it is not true that there is anything in reality corresponding to the general name such as there is corresponding to the singular name, the general name merely signifying attributes of what the singular name signifies, it does not follow, as the opponents of Ultra-Realism hastily assume, that there is nothing in the real world corresponding to the general name. Three senses may be particularised in which Realism is justified."
   },
   {
     "id": "p-fac9ee",
-    "offset": 64056,
+    "offset": 62913,
     "text": "(1) The points of resemblance from which the concept is formed are as real as the individuals themselves. It is true in a sense that it is our thought that gives unity to the individuals of a class, that gathers the many into one, and so far the Conceptualists are right. Still we should not gather them into one if they did not resemble one another: that is the reason why we think of them together: and the respects in which they resemble one another are as much independent of us and our thinking as the individuals themselves, as much beyond the power of our thought to change. We must go behind the activity of the mind in unifying to the reason for the unification: and the ground of unity is found in what really exists. We do not confer the unity: we do not make all men or all dogs alike: we find them so. The curly tails in a thousand domestic dogs, which serve to distinguish them from wolves and foxes, are as real as the thousand individual domestic dogs. In this sense the Aristotelian doctrine, *Universalia in re*, expresses a plain truth."
   },
   {
     "id": "p-a1a711",
-    "offset": 65113,
+    "offset": 63970,
     "text": "(2) The Platonic doctrine, formulated by the Schoolmen as _Universalia ante rem_, has also a plain validity. Individuals come and go, but the type, the Universal, is more abiding. Men are born and die: man remains throughout. The snows of last year have vanished, but snow is still a reality to be faced. Wisdom does not perish with the wise men of any generation. In this plain sense, at least, it is true that Universals exist before Individuals, have a greater permanence, or, if we like to say so, a higher, as it is a more enduring, reality."
   },
   {
     "id": "p-12c4ce",
-    "offset": 65661,
+    "offset": 64518,
     "text": "(3) Further, the \"idea,\" concept, or universal, though it cannot be separated from the individual, and whether or not we ascribe to it the separate suprasensual existence of the archetypal forms of Plato's poetical fancy, is a very potent factor in the real world. Ideals of conduct, of manners, of art, of policy, have a traditional life: they do not pass away with the individuals in whom they have existed, in whom they are temporarily materialised: they survive as potent influences from age to age. The \"idea\" of Chaucer's Man of Law, who always \"seemed busier than he was,\" is still with us. Mediaeval conceptions of chivalry still govern conduct. The Universal enters into the Individual, takes possession of him, makes of him its temporary manifestation."
   },
   {
     "id": "p-36cf8d",
-    "offset": 66425,
+    "offset": 65282,
     "text": "Nevertheless, the Nominalists are right in insisting on the importance of names. What we call the real world is a common object of perception and knowledge to you and me: we cannot arrive at a knowledge of it without some means of communication with one another: our means of communication is language. It may be doubted whether even thinking could go far without symbols with the help of which conceptions may be made definite. A concept cannot be explained without reference to a symbol. There is even a sense in which the Ultra-Nominalist doctrine that the individuals in a class have nothing in common but the name is tenable. Denotability by the same name is the only respect in which those individuals are absolutely identical: in this sense the name alone is common to them, though it is applied in virtue of their resemblance to one another."
   },
   {
     "id": "p-1f4731",
-    "offset": 67276,
+    "offset": 66133,
     "text": "Finally, the Conceptualists are right in insisting on the mind's activity in connexion with general names. Genera and species are not mere arbitrary subjective collections: the union is determined by the characters of the things collected. Still it is with the concept in each man's mind that the name is connected: it is by the activity of thought in recognising likenesses and forming concepts that we are able to master the diversity of our impressions, to introduce unity into the manifold of sense, to reduce our various recollections to order and coherence."
   },
   {
     "id": "p-7f5242",
-    "offset": 67841,
+    "offset": 66698,
     "text": "So much for the Ontological question. Now for the PSYCHOLOGICAL. What is in the mind when we employ a general name? What is the Universal psychologically? How is it conceived?"
   },
   {
     "id": "p-e2ad5a",
-    "offset": 68018,
+    "offset": 66875,
     "text": "What breeds confusion in these subtle inquiries is the want of fixed unambiguous names for the things to be distinguished. It is only by means of such names that we can hold on to the distinctions, and keep from puzzling ourselves. Now there are three things to be distinguished in this inquiry, which we may call the Concept, the Conception, and the Conceptual or Generic Image. Let us call them by these names, and proceed to explain them."
   },
   {
     "id": "p-7622e5",
-    "offset": 68461,
+    "offset": 67318,
     "text": "By the Concept, I understand the meaning of the general name, what the general name signifies: by the Conception, the mental act or state of him who conceives this meaning. The concept of \"triangle,\" *i.e.*, what you and I mean by the word, is not my act of mind or your act of mind when we think or speak of a triangle. The Conception, which is this act, is an event or incident in our mental history, a psychical act or state, a distinct occurrence, a particular fact in time as much as the battle of Waterloo. The concept is the objective reference of the name, which is the same, or at least is understood to be the same, every time we use it. I make a figure on paper with ink or on a blackboard with chalk, and recognise or conceive it as a triangle: you also conceive it as such: we do the same to-morrow: we did the same yesterday: each act of conception is a different event, but the concept is the same throughout."
   },
   {
     "id": "p-1c5fde",
-    "offset": 69387,
+    "offset": 68244,
     "text": "Now the psychological question about the Universal is, What is this conception? We cannot define it positively further than by saying that it consists in realising the meaning of a general name: the act being unique, we can only make it intelligible by producing an example of it. But we may define it negatively by distinguishing it from the conceptual image. Whenever we conceive anything, \"man,\" \"horse,\" there is generally present to our minds an image of a man or horse, with accidents of size, colour, position or other categories. But this conceptual image is not the concept, and the mental act of forming it is not conception."
   },
   {
     "id": "p-22e192",
-    "offset": 70024,
+    "offset": 68881,
     "text": "This distinction between mental picturing or imaging and the conception of common attributes is variously expressed. The correlative terms *Intuitive* and *Symbolical* Thinking, *Presentative* and *Representative* Knowledge have been employed. But whatever terms we use, the distinction itself is vital, and the want of it leads to confusion."
   },
   {
     "id": "p-9c67dd",
-    "offset": 70368,
+    "offset": 69225,
     "text": "Thus the fact that we cannot form a conceptual image composed solely of common attributes has been used to support the argument of Ultra-Nominalism, that the individuals classed under a common name have nothing in common but the name. What the word \"dog\" signifies, *i.e.*, the \"concept\" of dog, is neither big nor little, neither black nor tan, neither here nor there, neither Newfoundland, nor Retriever, nor Terrier, nor Greyhound, nor Pug, nor Bulldog. The concept consists only of the attributes common to all dogs apart from any that are peculiar to any variety or any individual. Now we cannot form any such conceptual image. Our conceptual image is always of some definite size and shape. Therefore, it is argued, we cannot conceive what a dog means, and dogs have nothing in common but the name. This, however, does not follow. The concept is not the conceptual image, and forming the image is not conception. We may even, as in the case of a chiliagon, or thousand-sided figure, conceive the meaning without being able to form any definite image."
   },
   {
     "id": "p-e4dc39",
-    "offset": 71426,
+    "offset": 70283,
     "text": "How then, do we ordinarily proceed in conceiving, if we cannot picture the common attributes alone and apart from particulars? We attend, or strive to attend, only to those aspects of an image which it has in common with the individual things denoted. And if we want to make our conception definite, we pass in review an indefinite number of the individuals, case after case."
   },
   {
     "id": "p-6fc640",
-    "offset": 71803,
+    "offset": 70660,
     "text": "A minor psychological question concerns the nature of the conceptual image. Is it a copy of some particular impression, or a confused blur or blend of many? Possibly neither: possibly it is something like one of Mr. Galton's composite photographs, photographs produced by exposing the same surface to the impressions of a number of different photographs in succession. If the individuals are nearly alike, the result is an image that is not an exact copy of any one of the components and yet is perfectly distinct. Possibly the image that comes into our mind's eye when we hear such a word as \"horse\" or \"man\" is of this character, the result of the impressions of a number of similar things, but not identical with any one. As, however, different persons have different conceptual images of the same concept, so we may have different conceptual images at different times. It is only the concept that remains the same."
   },
   {
     "id": "p-f40fc2",
-    "offset": 72723,
+    "offset": 71580,
     "text": "But how, it may be asked, can the concept remain the same? If the universal or concept psychologically is an intellectual act, repeated every time we conceive, what guarantee have we for the permanence of the concept? Does this theory not do away with all possibility of defining and fixing concepts?"
   },
   {
     "id": "p-545aaf",
-    "offset": 73025,
+    "offset": 71882,
     "text": "This brings us back to the doctrine already laid down about the truth of Realism. The theory of the concept is not exhausted when it is viewed only psychologically, as a psychic act. If we would understand it fully, we must consider the act in its relations to the real experience of ourselves and others. To fix this act, we give it a separate name, calling it the conception: and then we must go behind the activity of the mind to the objects on which it is exercised. The element of fixity is found in them. And here also the truth of Nominalism comes in. By means of words we enter into communication with other minds. It is thus that we discover what is real, and what is merely personal to ourselves."
   }
 ]

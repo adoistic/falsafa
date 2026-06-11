@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 13936
+word_count: 13808
 source_url: "https://www.gutenberg.org/ebooks/27597"
 translator: Project Gutenberg edition
 ---
@@ -44,11 +44,7 @@ NOTES:
 
 See *Dictionary of National Biography*.
 
-*Works*, i. 255.
-
 See Sir G. Nicholls's *History of the Poor-law*, 1854. A new edition, with life by H. G. Willink, appeared in 1898.
-
-*History*, i. 175.
 
 M'Culloch's note to *Wealth of Nations*, p. 65. M'Culloch in his appendix makes some sensible remarks upon the absence of any properly constituted parochial 'tribunal.'
 
@@ -58,17 +54,9 @@ See passage quoted in Eden's *History*, i. 347.
 
 Thomas Firmin (1632-1677), a philanthropist, whose Socinianism did not exclude him from the friendship of such liberal bishops as Tillotson and Fowler, started a workhouse in 1676.
 
-Nicholls (1898), ii. 14.
-
-*Ibid.* (1898), ii. 123.
-
-*Report*, p. 67.
-
 William Hay, for example, carried resolutions in the House of Commons in 1735, but failed to carry a bill which had this object. See Eden's *History*, i. 396. Cooper in 1763 proposed to make the hundred the unit.--Nicholls's *History*, i. 58. Fielding proposes a similar change in London. Dean Tucker speaks of the evil of the limited area in his *Manifold Causes of the Increase of the Poor* (1760).
 
 Nicholls, ii. 88.
-
-*Parl. Hist.* xxxii. 710.
 
 A full abstract is given in Edens *History*, iii. ccclxiii. etc.
 
@@ -77,10 +65,6 @@ Bentham observes (*Works*, viii. 448) that the cow will require the three acres 
 Cobbett's *Political Works*, vi. 64
 
 I need only note here that the first edition of Malthus's *Essay* appeared in 1798, the year after Eden's publication.
-
-Eden's *History*, i. 583.
-
-*Ibid.* i. 587.
 
 Maseres, an excellent Whig, a good mathematician, and a respected lawyer, is perhaps best known at present from his portrait in Charles Lamb's *Old Benchers*.
 
@@ -112,32 +96,6 @@ The first edition, 1795, the sixth, from which I quote, in 1800. In Benthams *Wo
 
 In 1814 Colquhoun published an elaborate account of the _Resources of the British Empire_, showing similar qualities.
 
-*Police*, p. 310.
-
-*Police*, p. 105.
-
-*Ibid.* p. 13.
-
-*Ibid.* p. 211.
-
-*Ibid.* p. 136.
-
-*Police*, p. 60.
-
-*Ibid.* p. 481.
-
-*Ibid.* p. 7.
-
-*Ibid.* p. 298.
-
-*Police*, p. 99.
-
-Bentham's *Works*, x. 329 *seq.*
-
-*Ibid.* v. 335.
-
-Bentham's *Works*, iv. 3, 121.
-
 Cobbett's *State Trials*, xvii. 297-626.
 
 III. EDUCATION
@@ -146,11 +104,7 @@ Another topic treated by Colquhoun marks the initial stage of controversies whic
 
 NOTES:
 
-*Police*, p. 340.
-
 Wilberforce started on this plan a 'society for enforcing the king's proclamation' in 1786, which was supplemented by the society for 'the Suppression of Vice' in 1802. I don't suppose that vice was much suppressed. Sydney Smith ridiculed its performances in the *Edinburgh* for 1809. The article is in his works. A more interesting society was that for 'bettering the condition of the poor,' started by Sir Thomas Bernard and Wilberforce in 1796.
-
-*Biographia Literaria* (1847), ii. 327.
 
 IV. THE SLAVE-TRADE
 
@@ -192,41 +146,17 @@ At the early period the Jacobin and the home-bred Radical might combine against 
 
 NOTES:
 
-*France*, p. 206 (20th July 1789).
-
 See the *Life of Horne Tooke*, by Alexander Stephens (2 vols. 8vo, 1813). John Horne added the name Tooke in 1782.
 
-*Parl. Hist.* xxxi. 751.
-
 The history of these societies may be found in the trials reported in the twenty-third, twenty-fourth, and twenty-fifth volumes of Cobbett's *State Trials*, and in the reports of the secret committees in the thirty-first and thirty-fourth volumes of the *Parl. History*. There are materials in Place's papers in the British Museum which have been used in E. Smith's *English Jacobins*.
-
-*Parl. Hist.* xxix. 1300-1341.
-
-*Parl. Hist.* xxxiv. 574-655.
 
 Mr. Wallas's *Life of Place*, p. 25 *n.*
 
 *State Trials*, xxiv. 575.
 
-*Ibid.* xxv. 330.
-
-*Ibid.* xxv. 390.
-
-Paul's *Godwin*, i. 147.
-
-Stephens, ii. 48, 477.
-
-*Ibid.* ii. 34-41, 323, 478-481.
-
-*Ibid.* ii. 483.
-
-Bentham's *Works*, x. 404.
-
 He was member for Old Sarum 1801-2; but his career ended by a declaratory act disqualifying for a seat men who had received holy orders.
 
 Bentham's *Works*, x. 404; *Life of Mackintosh*, i. 52; Paul's *Godwin*, i. 71; Coleridge's *Table-Talk*, 8th May 1830 and 16th August 1833.
-
-Stephens, ii. 316, 334, 438.
 
 VI. INDIVIDUALISM
 

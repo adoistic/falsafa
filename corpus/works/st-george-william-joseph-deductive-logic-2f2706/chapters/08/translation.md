@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 445
+word_count: 397
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -40,8 +40,6 @@ No moths are butterflies. The Death's head is a moth. .'. The Death's head is no
 
 FIGURE II.
 
-A is B. A is not B. C is not B. C is B. .'. C is not A. .'. C is not A.
-
 We establish the distinction between C and A by showing that A has an attribute which C is devoid of, or is devoid of an attribute which C has.
 
 All fishes are cold-blooded. A whale is not cold-blooded. .'. A whale is not a fish.
@@ -49,8 +47,6 @@ All fishes are cold-blooded. A whale is not cold-blooded. .'. A whale is not a f
 No fishes give milk. A whale gives milk. .'. A whale is not a fish.
 
 FIGURE III.
-
-B is A. B is not A. B is C. B is C. .'. Some C is A. .'. Some C is not A.
 
 We produce instances of C being A by showing that C and A meet, at all events partially, in B. Thus if we wish to produce an instance of the compatibility of great learning with original powers of thought, we might say
 

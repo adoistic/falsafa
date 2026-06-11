@@ -13,14 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1624
+word_count: 1340
 source_url: "https://www.gutenberg.org/ebooks/4763"
 translator: Project Gutenberg edition
 ---
 
 CROSS QUESTIONS.
 
-"The Man in the Wilderness asked of me 'How many strawberries grow in the sea?'" __________
+"The Man in the Wilderness asked of me 'How many strawberries grow in the sea?'"
 
 1. Elementary.
 
@@ -62,11 +62,7 @@ Break up each of the following into two partial Propositions:
 
 18. All hard-boiled eggs are unwholesome.
 
-19. I am happy.
-
 20. John is not at home.
-
-[See pp. 56, 7]
 
 21. Give a rule for knowing, when we look at the larger Diagram, what Attributes belong to the Things contained in each compartment.
 
@@ -88,13 +84,9 @@ Break up each of the following into two partial Propositions:
 
 30. Sometimes the Conclusion, offered to us, is not identical with the correct Conclusion, and yet cannot be fairly called 'Fallacious'. When does this happen? And what name may we give to such a Conclusion?
 
-[See pp. 57-59]
-
 2. Half of Smaller Diagram.
 
 Propositions to be represented.
-
------------ | | | | x | | | | --y-----y'-
 
 1. Some x are not-y.
 
@@ -128,10 +120,6 @@ Taking x="plums"; y="wholesome";
 
 14. All plums are unwholesome.
 
-[See pp. 59, 60]
-
------ | | | x | | |--y--| | | | x' | | -----
-
 Taking y="diligent students"; x="successful";
 
 15. No diligent students are unsuccessful.
@@ -144,33 +132,19 @@ Taking y="diligent students"; x="successful";
 
 19. Some students are diligent.
 
-[See pp. 60, 1]
-
 3. Half of Smaller Diagram.
 
 Symbols to be interpreted.
 
------------ | | | | x | | | | --y-----y'-
-
 Taking x="good riddles"; y="hard";
-
-[See pp. 61, 2]
 
 Taking x="lobster"; y="selfish";
 
------ | | x | | | |--y'-| | | x' | | | -----
-
 Taking y="healthy people"; x="happy";
-
-[See p. 62]
 
 4. Smaller Diagram.
 
 Propositions to be represented.
-
------------ | | | | x | |--y--|--y'-| | x' | | | | -----------
-
-1. All y are x.
 
 2. Some y are not-x.
 
@@ -193,8 +167,6 @@ Propositions to be represented.
 11. Some y are x, and some are not-x.
 
 12. All x are y, and all not-y are not-x.
-
-[See pp. 62, 3]
 
 Taking "nations" as Universe; x="civilised"; y="warlike";
 
@@ -222,47 +194,23 @@ Taking "crocodiles" as Universe; x="hungry"; and y="amiable";
 
 23. Some hungry crocodiles are amiable, and some that are not hungry are unamiable.
 
-[See pp. 63, 4]
-
 5. Smaller Diagram.
 
 Symbols to be interpreted.
 
------------ | | | | x | |--y--|--y'-| | x' | | | | -----------
-
 Taking "houses" as Universe; x="built of brick"; and y="two-storied"; interpret
-
-[See p. 65]
 
 Taking "boys" as Universe; x="fat"; and y="active"; interpret
 
 Taking "cats" as Universe; x="green-eyed"; and y="good-tempered"; interpret
 
-[See pp. 65, 6]
-
 6. Larger Diagram.
 
 Propositions to be represented.
 
------------ | | | | --x-- | | | | | | |--y--m--y'-| | | | | | | --x'- | | | | -----------
-
-1. No x are m.
-
-2. Some y are m'.
-
-3. All m are x'.
-
-4. No m' are y'.
-
 5. No m are x; All y are m.
 
 6. Some x are m; No y are m.
-
-7. All m are x'; No m are y.
-
-8. No x' are m; No y' are m'.
-
-[See pp. 67,8]
 
 Taking "rabbits" as Universe; m="greedy"; x="old"; and y="black"; represent
 
@@ -290,8 +238,6 @@ Taking "persons" as Universe; m="in the house"; x="John"; and y="having a tooth-
 
 18. There is no one in the house but John; Nobody, out of the house, has a tooth-ache.
 
-[See pp. 68-70]
-
 Taking "persons" as Universe; m="I"; x="that has taken a walk"; y="that feels better"; represent
 
 19. I have been out for a walk; I feel much better.
@@ -300,19 +246,11 @@ Choosing your own 'Universe' &c., represent
 
 20. I sent him to bring me a kitten; He brought me a kettle by mistake.
 
-[See pp. 70, 1]
-
 7. Both Diagrams to be employed.
-
------------ | | | ----------- | --x-- | | | | | | | | | | x | |--y--m--y'-| |--y--|--y'-| | | | | | | x' | | --x'- | | | | | | | ----------- -----------
 
 N.B. In each Question, a small Diagram should be drawn, for x and y only, and marked in accordance with the given large Diagram: and then as many Propositions as possible, for x and y, should be read off from this small Diagram.
 
-[See p. 72]
-
 Mark, in a large Diagram, the following pairs of Propositions from the preceding Section: then mark a small Diagram in accordance with it, &c.
-
-5. No. 13. [see p. 49] 9. No. 17. 6. No. 14. 10. No. 18. 7. No. 15. 11. No. 19. [see p. 50] 8. No. 16. 12. No. 20.
 
 Mark, on a large Diagram, the following Pairs of Propositions: then mark a small Diagram, &c. These are, in fact, Pairs of PREMISSES for Syllogisms: and the results, read off from the small Diagram, are the CONCLUSIONS.
 
@@ -321,8 +259,6 @@ Mark, on a large Diagram, the following Pairs of Propositions: then mark a small
 14. Some, who deserve the fair, get their deserts; None but the brave deserve the fair.
 
 15. No children are patient; No impatient person can sit still.
-
-[See pp. 72-5]
 
 16. All pigs are fat; No skeletons are fat.
 
@@ -350,8 +286,6 @@ Mark, on a large Diagram, the following Pairs of Propositions: then mark a small
 
 28. There are no Jews in the house; There are no Gentiles in the garden.
 
-[See pp. 75-82]
-
 29. All battles are noisy; What makes no noise may escape notice.
 
 30. No Jews are mad; All Rabbis are Jews.
@@ -359,5 +293,3 @@ Mark, on a large Diagram, the following Pairs of Propositions: then mark a small
 31. There are no fish that cannot swim; Some skates are fish.
 
 32. All passionate people are unreasonable; Some orators are passionate.
-
-[See pp. 82-84]

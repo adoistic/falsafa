@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8635
+word_count: 8638
 source_url: "https://www.gutenberg.org/ebooks/35722"
 translator: Project Gutenberg edition
 ---
@@ -102,7 +102,7 @@ Finally, the action of a created efficient cause is either transitive (*transien
 
 (*c*) _An effect cannot as such be actually more perfect than its adequate (created) cause_. The reason is that the effect as such is really dependent for its actuality on its adequate created cause. It derives its actuality from the latter. Now it is inconceivable that an agent could be the active, productive principle of a greater perfection, a higher grade of actuality, than itself possesses. Whatever be the nature of efficient causality, *actio* and *passio* (102), or of the dependence of the produced actuality upon the active power of its adequate efficient cause (10), the reality of this dependence forbids us to think that in the natural order of efficient causation a higher grade of reality can be actualized than the agent is capable of actualizing, or that the agent can naturally actualize a higher or more perfect grade of reality than is actually its own. We must, however, bear in mind that there is question of the *adequate* created cause of an effect; and that to account *fully* for the actualization of any potential reality whatsoever we are forced to recognize in all causation of created efficient causes the *concursus* of the *First Cause*.
 
-(*d*) The actuality of the effect is in its adequate created cause or causes, *not actually and formally, but potentially* or *virtually*. If the cause produce an effect of the same kind as itself (_causa ___*univoca*__), as when living organisms propagate their species, the perfection of the effect is said to be in the cause *equivalently* (*aequivalenter*); if it produce an effect of a different kind from itself (*causa *__*analoga*__), as when a sculptor makes a statue, the perfection of the effect is said to be in the cause *eminently* (*eminenter*).
+(*d*) The actuality of the effect is in its adequate created cause or causes, *not actually and formally, but potentially* or *virtually*. If the cause produce an effect of the same kind as itself (_causa *univoca* ), as when living organisms propagate their species, the perfection of the effect is said to be in the cause *equivalently* (*aequivalenter*); if it produce an effect of a different kind from itself (*causa * *analoga* ), as when a sculptor makes a statue, the perfection of the effect is said to be in the cause *eminently* (*eminenter*).
 
 (*e*) *Omne agens agit inquantum est in actu.* The operative power of a being is in proportion to its own actual perfection: the higher an agent is on the scale of reality, or in other words the more perfect its grade of being, the higher and more perfect will be the effects achieved by the exercise of its operative powers. In fact our chief test of the perfection of any nature is analysis of its operations. Hence the maxim so often referred to already:—
 

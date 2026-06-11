@@ -2,7 +2,7 @@
   "work_slug": "lewis-carroll-symbolic-logic-56bef5",
   "work_title": "Symbolic Logic",
   "chapter_number": 8,
-  "chapter_title": "Book VII",
+  "chapter_title": "Book VI",
   "chapter_slug": "08",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3124,
-      "paragraph_count": 134,
+      "word_count": 2722,
+      "paragraph_count": 138,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/28696"
     }

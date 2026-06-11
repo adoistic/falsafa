@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5164
+word_count: 5147
 source_url: "https://www.gutenberg.org/ebooks/16835"
 translator: Project Gutenberg edition
 ---
@@ -148,8 +148,6 @@ Cf. *Main Currents of Modern Thought*, translated by Dr M. Booth (1912).
 
 *The Truth of Religion*, p. 6l.
 
-*Ibid.*, p. 62.
-
 W. James's *Text-Book of Psychology*, p. 145.
 
 William Wallace's _Lectures and Essays on Natural Theology and Ethics_, p. 210.
@@ -256,13 +254,9 @@ I cannot but believe that the supposed proofs brought forward by Sir Oliver Lodg
 
 *The Truth of Religion*, p. 533.
 
-*The Truth of Religion*, pp. 367, 368.
-
 *The Truth of Religion*, pp. 11, 12.
 
 *The Truth of Religion*, p. 545. It is on this fact that Eucken builds his conception of immortality. Such a conception is not a matter of speculation or of scientific proof, but a matter of an experience born on the summit of the evolution of spiritual life within the soul. It is useless to attempt to press such an experience into a conceptual mould.
-
-*The Truth of Religion*, pp. 550, 551.
 
 Driesch is attempting the construction of such a Metaphysic of Nature, and a similar attempt is to be discovered in Bergson's philosophy, especially in its later developments.
 

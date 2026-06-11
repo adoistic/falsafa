@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 7526
+word_count: 7470
 source_url: "https://www.gutenberg.org/ebooks/20500"
 translator: Project Gutenberg edition
 ---
@@ -152,11 +152,7 @@ Canonics, form of logic, 215
 
 Cause, three causes, 110; equals essence, 167; first causes subject of philosophy, 179; relation of, to potentiality, 185
 
-Cave, of this life, 148, 166
-
 Chaldaea, visited by Pythagoras, 22; by Democritus, 74
-
-Change, how account for, 10, 35, 39, 75
 
 Chaos, of the Atomists, 53; of Empedocles, 69; king in philosophy, 83; life not a chaos, 105
 
@@ -256,8 +252,6 @@ Empedocles, 58
 
 Ends of Life, indifference as to, 96; importance in later Greek philosophy, 125; Plato's view of, 168; Aristotle's, 193; Epicurean, 222
 
-Entelechy, Life, 186, 190; God, 188; Thought, *ib.*; Education, 191; Morality, 193; State, 197; physical world, 199; Soul, 203
-
 Ephesus, birthplace of Heraclitus, 15
 
 Epicurus, 211; praises of, by Lucretius, 212; garden of, 213; relation to Democritus, 216
@@ -271,8 +265,6 @@ Euripides, friend of Anaxagoras, 52
 Euthydemus, conversation with Socrates, 116; dialogue, 137
 
 Euthyphro, dialogue, 136
-
-Even, *v.* Odd, 24
 
 Evil, origin of, 33; necessary on earth, 168; God cause of evil, but hath none, 234
 
@@ -363,8 +355,6 @@ Intellect, division of soul, 28, 169
 Ion, dialogue, 136
 
 Irony, of Socrates, 105
-
-Jowett, Prof., quoted, 39, 43, 89, 138, 142, 153, 158
 
 Judgment, vision of, 150
 
@@ -467,10 +457,6 @@ Number, original of things, 24; relation of ideas to, 167
 Obedience, through disobedience, 122
 
 Obscure, epithet of Heraclitus, 15
-
-Odd, *v.* Even, 24
-
-Opinion, *v.* Knowledge, 33, 35
 
 Oracle, answer of, respecting Socrates, 107; maxim engraved on, 113
 

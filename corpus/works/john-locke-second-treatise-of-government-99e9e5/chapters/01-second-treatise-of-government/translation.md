@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 56510
+word_count: 56386
 source_url: "https://www.gutenberg.org/ebooks/7370"
 translator: Project Gutenberg edition
 ---
@@ -58,13 +58,13 @@ AN ESSAY CONCERNING THE TRUE ORIGINAL, EXTENT AND END OF CIVIL GOVERNMENT
 
 Sect. 1. It having been shewn in the foregoing discourse,
 
-(<i>1</i>). That Adam had not, either by natural right of fatherhood, or by positive donation from God, any such authority over his children, or dominion over the world, as is pretended:
+(1). That Adam had not, either by natural right of fatherhood, or by positive donation from God, any such authority over his children, or dominion over the world, as is pretended:
 
-(<i>2</i>). That if he had, his heirs, yet, had no right to it:
+(2). That if he had, his heirs, yet, had no right to it:
 
-(<i>3</i>). That if his heirs had, there being no law of nature nor positive law of God that determines which is the right heir in all cases that may arise, the right of succession, and consequently of bearing rule, could not have been certainly determined:
+(3). That if his heirs had, there being no law of nature nor positive law of God that determines which is the right heir in all cases that may arise, the right of succession, and consequently of bearing rule, could not have been certainly determined:
 
-(<i>4</i>). That if even that had been determined, yet the knowledge of which is the eldest line of Adam’s posterity, being so long since utterly lost, that in the races of mankind and families of the world, there remains not to one above another, the least pretence to be the eldest house, and to have the right of inheritance:
+(4). That if even that had been determined, yet the knowledge of which is the eldest line of Adam’s posterity, being so long since utterly lost, that in the races of mankind and families of the world, there remains not to one above another, the least pretence to be the eldest house, and to have the right of inheritance:
 
 All these premises having, as I think, been clearly made out, it is impossible that the rulers now on earth should make any benefit, or derive any the least shadow of authority from that, which is held to be the fountain of all power, Adam’s private dominion and paternal jurisdiction; so that he that will not give just occasion to think that all government in the world is the product only of force and violence, and that men live together by no other rules but that of beasts, where the strongest carries it, and so lay a foundation for perpetual disorder and mischief, tumult, sedition and rebellion, (things that the followers of that hypothesis so loudly cry out against) must of necessity find out another rise of government, another original of political power, and another way of designing and knowing the persons that have it, than what Sir Robert Filmer hath taught us.
 
@@ -142,7 +142,7 @@ OF PROPERTY.
 
 Sect. 25. Whether we consider natural reason, which tells us, that men, being once born, have a right to their preservation, and consequently to meat and drink, and such other things as nature affords for their subsistence: or revelation, which gives us an account of those grants God made of the world to Adam, and to Noah, and his sons, it is very clear, that God, as king David says, Psal. cxv. 16. has given the earth to the children of men; given it to mankind in common. But this being supposed, it seems to some a very great difficulty, how any one should ever come to have a property in any thing: I will not content myself to answer, that if it be difficult to make out property, upon a supposition that God gave the world to Adam, and his posterity in common, it is impossible that any man, but one universal monarch, should have any property upon a supposition, that God gave the world to Adam, and his heirs in succession, exclusive of all the rest of his posterity. But I shall endeavour to shew, how men might come to have a property in several parts of that which God gave to mankind in common, and that without any express compact of all the commoners.
 
-Sect. 26. God, who hath given the world to men in common, hath also given them reason to make use of it to the best advantage of life, and convenience. The earth, and all that is therein, is given to men for the support and comfort of their being. And tho’ all the fruits it naturally produces, and beasts it feeds, belong to mankind in common, as they are produced by the spontaneous hand of nature; and no body has originally a private dominion, exclusive of the rest of mankind, in any of them, as they are thus in their natural state: yet being given for the use of men, there must of necessity be a means to appropriate them some way or other, before they can be of any use, or at all beneficial to any particular man. The fruit, or venison, which nourishes the wild Indian, who knows no enclosure, and is still a tenant in common, must be his, and so his, i.e. a part of him, that another can no longer have any right to it, before it can do him any good for the support of his life.
+Sect. 26. God, who hath given the world to men in common, hath also given them reason to make use of it to the best advantage of life, and convenience. The earth, and all that is therein, is given to men for the support and comfort of their being. And tho’ all the fruits it naturally produces, and beasts it feeds, belong to mankind in common, as they are
 
 Sect. 27. Though the earth, and all inferior creatures, be common to all men, yet every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided, and left it in, he hath mixed his labour with, and joined to it something that is his own, and thereby makes it his property. It being by him removed from the common state nature hath placed it in, it hath by this labour something annexed to it, that excludes the common right of other men: for this labour being the unquestionable property of the labourer, no man but he can have a right to what that is once joined to, at least where there is enough, and as good, left in common for others.
 
@@ -650,11 +650,11 @@ First, When the legislative is altered. Civil society being a state of peace, am
 
 Sect. 213. This being usually brought about by such in the commonwealth who misuse the power they have; it is hard to consider it aright, and know at whose door to lay it, without knowing the form of government in which it happens. Let us suppose then the legislative placed in the concurrence of three distinct persons.
 
-(<i>1</i>). A single hereditary person, having the constant, supreme, executive power, and with it the power of convoking and dissolving the other two within certain periods of time.
+(1). A single hereditary person, having the constant, supreme, executive power, and with it the power of convoking and dissolving the other two within certain periods of time.
 
-(<i>2</i>). An assembly of hereditary nobility.
+(2). An assembly of hereditary nobility.
 
-(<i>3</i>). An assembly of representatives chosen, pro tempore, by the people. Such a form of government supposed, it is evident,
+(3). An assembly of representatives chosen, pro tempore, by the people. Such a form of government supposed, it is evident,
 
 Sect. 214. First, That when such a single person, or prince, sets up his own arbitrary will in place of the laws, which are the will of the society, declared by the legislative, then the legislative is changed: for that being in effect the legislative, whose rules and laws are put in execution, and required to be obeyed; when other laws are set up, and other rules pretended, and inforced, than what the legislative, constituted by the society, have enacted, it is plain that the legislative is changed. Whoever introduces new laws, not being thereunto authorized by the fundamental appointment of the society, or subverts the old, disowns and overturns the power by which they were made, and so sets up a new legislative.
 

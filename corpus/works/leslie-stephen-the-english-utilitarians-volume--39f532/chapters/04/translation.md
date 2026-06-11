@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8781
+word_count: 8640
 source_url: "https://www.gutenberg.org/ebooks/27597"
 translator: Project Gutenberg edition
 ---
@@ -42,27 +42,13 @@ NOTES:
 
 Published originally in 1778; reprinted in edition of EPEA PTEROENTA or *Diversions of Purley*, by Richard Taylor (1829), to which I refer. The first part of the *Diversions of Purley* appeared in 1786; and the second part (with a new edition of the first) in 1798.
 
-*Diversions of Purley* (1829), i. 12, 131.
-
 *Ibid.* ii. 362. Locke's work, says Prof. Max Müller in his *Science of Thought*, p. 295, 'is, as Lange in his _History of Materialism_ rightly perceived, a critique of language which, together with Kant's *Critique of the Pure Reason*, forms the starting-point of modern philosophy.' *See* Lange's *Materialism*, (1873), i. 271.
-
-*Ibid.* i. 49.
 
 *Diversions of Purley*, i. 36, 42.
 
-*Ibid.* i. 373.
-
-*Ibid.* i. 374.
-
 *Diversions of Purley*, ii. 18. Cf. Mill's statement in *Analysis*, i. 304, that 'abstract terms are concrete terms with the connotation dropped.'
 
-*Ibid.* ii. 9, etc.
-
-*Ibid.* ii. 399.
-
 Stephens, ii. 497.
-
-*Life of Mackintosh*, ii. 235-37.
 
 Begun for the *Encyclopædia Metropolitana* in 1818; and published in 1835-37. Dugald Stewart's chief criticism is in his Essays (*Works*, v. 149-188). John Fearn published his *Anti-Tooke* in 1820.
 
@@ -116,15 +102,9 @@ Nine volumes of Dugald Stewart's works, edited by Sir W. Hamilton, appeared from
 
 *Works*, vi. ('Preface').
 
-*Works* (Life of Reid), x. 304-8.
-
 Reid's *Works* (Hamilton), p. 302.
 
 Reid's *Works* (Hamilton), p. 88.
-
-*Ibid.* 206.
-
-*Ibid.* 267.
 
 Stewart's remarks on his life of Reid: Reid's *Works*, p. 12, etc.
 
@@ -136,66 +116,10 @@ See Rosmini's *Origin of Ideas* (English translation), i. p. 91, where, though s
 
 Stewart's *Works*, v. 24-53. Hamilton says in a note (p. 41) that Jeffrey candidly confessed Stewart's reply to be satisfactory.
 
-*Ibid.* ii. 46.
-
-*Ibid.* ii. 45-67.
-
-*Ibid.* ii. 159.
-
-*Ibid.* v. 21.
-
 Stewart's *Works*, ii. 165-93; iii. 81-97. Schopenhauer (_The World as Will and Idea_, ii. 240) admires Reid's teaching upon this point, and recommends us not 'to waste an hour over the scribblings of this shallow writer' (Stewart).
 
 Rosmini's *Origin of Ideas* (English translation), i. 96-176.
 
-*Ibid.* i. 147 *n.*
-
-Stewart's *Works*, iv. 29, 35, 38, and v. 149-88.
-
-*Ibid.* ii. 97, etc., and iii. 235, 389, 417.
-
-*Works*, vii. 13-34.
-
-*Ibid.* vii. 26, etc.
-
-*Works*, iv. 265.
-
-*Ibid.* ii. 52.
-
-*Ibid.* v. 10.
-
-*Works*, ii. 155.
-
-*Ibid.* ii. 337.
-
-*Works*, vi. 46; vii. 11.
-
-*Ibid.* vii. 46.
-
-*Ibid.* i. 357.
-
-*Works*, vi. 320.
-
-*Ibid.* vi. 279.
-
-*Ibid.* vi. 297.
-
-*Works*, vi. 295. Cf. v. 83.
-
-*Ibid.* vi. 298-99.
-
-*Ibid.* v. 84.
-
 In *Works*, vi. 205-6, he quotes Dumont's *Bentham*; but his general silence is the more significant, as in the lectures on Political Economy he makes frequent and approving reference to Bentham's tract upon usury.
-
-*Works*, vii. 236-38.
-
-*Ibid.* vi. 221.
-
-*Works*, vi. 213.
-
-*Ibid.* vi. 199.
-
-*Works*, vi. 111.
 
 *Works*, v. 117 18. I have given some details as to Stewart's suffering under an English proselyte of Kant in my _Studies of a Biographer_.

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 12591
+word_count: 12552
 source_url: "https://www.gutenberg.org/ebooks/5173"
 translator: Project Gutenberg edition
 ---
@@ -62,8 +62,6 @@ Ki-saburo, although he was a mere outlaw, having his left arm half cut at the el
 
 [FN#235] A well-known loyalist in the Tokugawa period, who died in 1793.
 
-[FN#236] Etsu-wa-bun-ko.
-
 The history of Zen is full of the anecdotes that show Zen priests were the lords of their bodies. Here we quote a single example by way of illustration: Ta Hwui (Dai-ye), once having had a boil on his hip, sent for a doctor, who told him that it was fatal, that he must not sit in Meditation as usual. Then Ta Hwui said to the physician: "I must sit in Meditation with all my might during my remaining days, for if your diagnosis be not mistaken, I shall die before long." He sat day and night in constant Meditation, quite forgetful of his boil, which was broken and gone by itself.[FN#237]
 
 [FN#237] Sho-bo-gen-zo-zui-mon-ki, by Do-gen.
@@ -108,15 +106,11 @@ Habit comes out of practice, and forms character by degrees, and eventually work
 
 Chwang Tsz seems to have noticed that the harmony of breathing is typical of the harmony of mind, since he says: "The true men of old did not dream when they slept. Their breathing came deep and silently. The breathing of true men comes (even) from his heels, while men generally breathe (only) from their throats."[FN#245] At any rate, the counting of breaths is an expedient for calming down of mind, and elaborate rules are given in the Zen Sutra,[FN#246] but Chinese and Japanese Zen masters do not lay so much stress on this point as Indian teachers.
 
-[FN#245] Chwang Tsz, vol. iii., p. 2.
-
 [FN#246] Dharmatara-dhyana-sutra.
 
 6. The Breathing Exercise of the Yogi.
 
 Breathing exercise is one of the practices of Yoga, and somewhat similar in its method and end to those of Zen. We quote here[FN#247] Yogi Ramacharaka to show how modern Yogis practise it: "(1) Stand or sit erect. Breathing through the nostrils, inhale steadily, first filling the lower part of the lungs, which is accomplished by bringing into play the diaphragm, which, descending, exerts a gentle pressure on the abdominal organs, pushing forward the front walls of the abdomen. Then fill the middle part of the lungs, pushing out the lower ribs, breastbone, and chest. Then fill the higher portion of the lungs, protruding the upper chest, thus lifting the chest, including the upper six or seven pairs of ribs. In the final movement the lower part of the abdomen will be slightly drawn in, which movement gives the lungs a support, and also helps to fill the highest part of the lungs. At the first reading it may appear that this breath consists of three distinct movements. This, however, is not the correct idea. The inhalation is continuous, the entire chest cavity from the lower diaphragm to the highest point of the chest in the region of the collar-bone being expanded with a uniform movement. Avoid a jerking series of inhalations, and strive to attain a steady, continuous action. Practice will soon overcome the tendency to divide the inhalation into three movements, and will result in a uniform continuous breath. You will be able to complete the inhalation in a couple of seconds after a little practice. (2) Retain the breath a few seconds. (3) Exhale quite slowly, holding the chest in a firm position, and drawing the abdomen in a little and lifting it upward slowly as the air leaves the lungs. When the air is entirely exhaled, relax the chest and abdomen. A little practice will render this part of exercise easy, and the movement once acquired will be afterwards performed almost automatically."
-
-[FN#247] Hatha Yoga, pp. 112, 113.
 
 7. Calmness of Mind.
 
@@ -125,10 +119,6 @@ The Yogi breathing above mentioned is fit rather for physical exercise than for 
 'If you feel your mind distracted, look at the tip of the nose; never lose sight of it for some time, or look at your own palm, and let not your mind go out of it, or gaze at one spot before you.' This will greatly help you in restoring the equilibrium of your mind. Chwang Tsz[FN#248] thought that calmness of mind is essential to sages, and said: "The stillness of the sages does not belong to them as a consequence of their skilful ability; all things are not able to disturb their minds; it is on this account that they are still. When water is still, its clearness shows the beard and eyebrows (of him who looks into it). It is a perfect level, and the greatest artificer takes his rule from it. Such is the clearness of still water, and how much greater is that of the human spirit? The still mind of the sage is the mirror of heaven and earth, the glass of all things."
 
 Forget all worldly concerns, expel all cares and anxieties, let go of passions and desires, give up ideas and thoughts, set your mind at liberty absolutely, and make it as clear as a burnished mirror. Thus let flow your inexhaustible fountain of purity, let open your inestimable treasure of virtue, bring forth your inner hidden nature of goodness, disclose your innermost divine wisdom, and waken your Enlightened Consciousness to see Universal Life within you. "Zazen enables the practiser," says Kei-zan,[FN#249] "to open up his mind, to see his own nature, to become conscious of mysteriously pure and bright spirit, or eternal light within him."
-
-[FN#248] Chwang Tsz, vol. v., p. 5.
-
-[FN#249] Za-zen-yo-jin-ki.
 
 Once become conscious of Divine Life within you, yon can see it in your brethren, no matter how different they may be in circumstances, in abilities, in characters, in nationalities, in language, in religion, and in race. You can see it in animals, vegetables, and minerals, no matter how diverse they may be in form, no matter how wild and ferocious some may seem in nature, no matter how unfeeling in heart some may seem, no matter how devoid of intelligence some may appear, no matter how insignificant some may be, no matter how simple in construction some may be, no matter how lifeless some may seem. You can see that the whole universe is Enlightened and penetrated by Divine Life.
 
@@ -164,8 +154,6 @@ Sometimes Zenists use the term as if it meant what we call Zen Activity, or the 
 
 Again, ancient Zenists did not claim that there was any mysterious element in their spiritual attainment, as Do-gen says[FN#259] unequivocally respecting his Enlightenment: "I recognized only that my eyes are placed crosswise above the nose that stands lengthwise, and that I was not deceived by others. I came home from China with nothing in my hand. There is nothing mysterious in Buddhism. Time passes as it is natural, the sun rising in the east, and the moon setting into the west."
 
-[FN#259] Ei-hei-ko-roku.
-
 10. True Dhyana.
 
 To sit in Meditation is not the only method of practising Zazen. "We practise Dhyana in sitting, in standing, and in walking," says one of the Japanese Zenists. Lin Tsi (Rin-Zai) also says: "To concentrate one's mind, or to dislike noisy places, and seek only for stillness, is the characteristic of heterodox Dhyana." It is easy to keep self-possession in a place of tranquillity, yet it is by no means easy to keep mind undisturbed amid the bivouac of actual life. It is true Dhyana that makes our mind sunny while the storms of strife rage around us. It is true Dhyana that secures the harmony of heart, while the surges of struggle toss us violently. It is true Dhyana that makes us bloom and smile, while the winter of life covets us with frost and snow.
@@ -175,8 +163,6 @@ To sit in Meditation is not the only method of practising Zazen. "We practise Dh
 [FN#260] The introduction to Anapana-sutra by Khin San Hwui, who came to China A.D. 241.
 
 [FN#261] The Third Patriarch.
-
-[FN#262] Hwui Yuen (E-gen).
 
 11. Let Go of your Idle Thoughts.[FN#263]
 
@@ -191,8 +177,6 @@ Learn the lesson of forgetfulness, and forget all that troubles you, deprives yo
 [FN#265] O-yo-mei-shutsu-shin-sei-ran-roku.
 
 It was at the age of forty-seven that Wang gained a great victory over the rebel army, and wrote to a friend saying: "It is so easy to gain a victory over the rebels fortifying themselves among the mountains, yet it is not so with those rebels living in our mind."[FN#266] Tsai Kiun Mu (Sai-kun-bo) is said to have had an exceedingly long and beautiful beard, and when asked by the Emperor, who received him in audience, whether he should sleep with his beard on the comforters or beneath them, be could not answer, since he had never known how he did. Being distracted by this question, he went home and tried to find out how he had been used to manage his beard in bed. First he put his beard on the comforters and vainly tried to sleep; then he put it beneath the comforters and thought it all right. Nevertheless, he was all the more disturbed by it. So then, putting on the comforters, now putting it beneath them, he tried to sleep all night long, but in vain. You must therefore forget your mental beard that annoys you all the time.
-
-[FN#266] Ibid.
 
 Men of longevity never carried troubles to their beds. It is a well-known fact that Zui-o (Shi-ga)[FN#267] enjoyed robust health at the age of over one hundred years. One day, being asked whether there is any secret of longevity, he replied affirmatively, and said to the questioner: "Keep your mind and body pure for two weeks, abstaining from any sort of impurity, then I shall tell you of the secret." The man did as was prescribed, and came again to be instructed in the secret. Zui-o said: "Now I might tell you, but be cautious to keep yourself pure another week so as to qualify yourself to learn the secret." When that week was over the old man said: "Now I might tell you, but will you be so careful as to keep yourself pure three days more in order to qualify yourself to receive the secret?" The man did as he was ordered, and requested the instruction. Thereupon Zui-o took the man to his private room and softly whispered, with his mouth close to the ear of the man: "Keep the secret I tell you now, even at the cost of your life. It is this-don't be passionate. That is all."[FN#268]
 
@@ -294,8 +278,6 @@ Nature offers us nectar and ambrosia every day, and everywhere we go the rose an
 
 [FN#277] One of the distinguished Zenists in the Tokugawa period, who died in 1661.
 
-[FN#278] Sho-bo gen-zo.
-
 Thus you can attain to highest bliss through your conscious union with Buddha. Nothing can disturb your peace, when you can enjoy peace in the midst of disturbances; nothing can cause you to suffer, when you welcome misfortunes and hardships in order to train and strengthen your character; nothing can tempt you to commit sin, when you are constantly ready to listen to the sermon given by everything around you; nothing can distress you, when you make the world the holy temple of Buddha. This is the state of Nirvana which everyone believing in Buddha may secure.
 
 16. The Beatitude of Zen.
@@ -305,8 +287,6 @@ We are far from denying, as already shown in the foregoing chapters, the existen
 History testifies to the truth that it is misery that teaches men more than happiness, that it is poverty that strengthens them more than wealth, that it is adversity that moulds character more than prosperity, that it is disease and death that call forth the inner life more than health and long life. At least, no one can be blind to the fact that good and evil have an equal share in forming the character and working out the destiny of man. Even such a great pessimist as Schopenhauer says: "As our bodily frame would burst asunder if the pressure of atmosphere were removed, so if the lives of men were relieved of all need, hardship, and adversity, if everything they took in hand were successful, they would be so swollen with arrogance . . . that they would present the spectacle of unbridled folly. A ship without ballast is unstable, and will not go straight." Therefore let us make our ship of life go straight with its ballast of miseries and hardships, over which we gain control.
 
 The believer in Buddha is thankful to him, not only for the sunshine of life, but also for its wind, rain, snow, thunder, and lightning, because He gives us nothing in vain. Hisa-nobu (Ko-yama) was, perhaps, one of the happiest persons that Japan ever produced, simply because he was ever thankful to the Merciful One. One day he went out without an umbrella and met with a shower. Hurrying up to go home, he stumbled and fell, wounding both his legs. As he rose up, he was overheard to say: "Thank heaven." And being asked why he was so thankful, replied: "I got both my legs hurt, but, thank heaven, they were not broken." On another occasion he lost consciousness, having been kicked violently by a wild horse. When he came to himself, he exclaimed: "Thank heaven," in hearty joy. Being asked the reason why he was so joyful, he answered: "I have really given up my ghost, but, thank heaven, I have escaped death after all."[FN#279] A person in such a state of mind can do anything with heart and might. Whatever he does is an act of thanks for the grace of Buddha, and he does it, not as his duty, but as the overflowing of his gratitude which lie himself cannot check. Here exists the formation of character. Here exist real happiness and joy. Here exists the realization of Nirvana.
-
-[FN#279] Ki-jin-den.
 
 Most people regard death as the greatest of evils, only because they fear death. They fear death only because they have the instinct of self-preservation. Hereupon pessimistic philosophy and religion propose to attain to Nirvana by the extinction of Will-to-live, or by the total annihilation of life. But this is as much as to propose death as the final cure to a patient. Elie Metchnikoff proposes, in his 'Nature of Man,' another cure, saying: 'If man could only contrive to live long enough--say, for one hundred and forty years--a natural desire for extinction would take the place of the instinct for self-preservation, and the call of death would then harmoniously satisfy his legitimate craving of a ripe old age.' Why, we must ask, do you trouble yourself so much about death? Is there any instance of an individual who escaped it in the whole history of mankind? If there be no way of escape, why do you trouble yourself about it? Can you cause things to fall off the earth against the law of gravitation? Is there any example of an individual object that escaped the government of that law in the whole history of the world? Why, then, do you trouble yourself about it? It is no less silly to trouble yourself about death than you do about gravitation. Can you realize that death, which you have yet no immediate experience of, is the greatest of evil? We dare to declare death to be one of the blessings which we have to be thankful for. Death is the scavenger of the world; it sweeps away all uselessness, staleness, and corruption from the world, and keeps life clean and ever now. When you are of no use for the world it comes upon you, removes you to oblivion in order to relieve life of useless encumbrance. The stream of existence should be kept running, otherwise it would become putrid. If old lives were to stop the running stream it would stand still, and consequently become filthy, poisoned, and worthless. Suppose there were only births and no deaths. The earth has to be packed with men and women, who are doomed to live to all eternity, jostling, colliding, bumping, trampling each other, and vainly struggling to get out of the Black Hole of the earth. Thanks to death we are not in the Black Hole!
 
@@ -337,8 +317,6 @@ KAITEN NUKARIYA
 PREFACE
 
 Tsung Mih (Shu-Mitsu, A.D. 774-841), the author of Yuen Jan Lun ('Origin of Man'), one of the greatest scholars that China ever produced, was born in a Confucianist family of the State of Kwo Cheu. Having been converted by Tao Yuen (Do-yen), a noted priest of the Zen Sect, he was known at the age of twenty-nine as a prominent member of that sect, and became the Eleventh Patriarch after Bodhidharma, the First Patriarch of the sect, who had come over to China from India about A.D. 520. Some years after he studied under Chino, Kwan (Cho-kwan) the philosophical doctrine of the Avatamsaka School, now known in Japan as the Kegon Sect, and distinguished himself as the Seventh Patriarch of that school. In A.D. 835 he was received in audience by the Emperor Wan Tsung, who questioned him in a general way about the Buddhist doctrines, and bestowed upon him the honourable title of Great Virtuous Teacher, together with abundant gifts. The author produced over ninety volumes of books, which include a commentary on Avatamsaka-sutra, one on Purnabuddha-sutra-prasannartha-sutra, and many others. Yuen Jan Lun is one of the shortest of his essays, but it contains all the essential doctrines, respecting the origin of life and of the universe, which are found in Taoism, Confucianism, Hinayanism, and Mahayanism. How important a position it holds among the Buddhist books can be well imagined from the fact that over twenty commentaries were written on it both by the Chinese and the Japanese Buddhist scholars. It is said that a short essay under the same title by a noted contemporary Confucianist scholar, Han Tui Chi (Kan-tai-shi, who flourished 803-823), suggested to him to write a book in order to make clear to the public the Buddhist view on the same subject. Thus be entitled the book 'Origin of Man,' in spite of his treating of the origin of life and of the universe. Throughout the whole book occur coupled sentences, consisting mostly of the same number of Chinese characters, and consequently while one sentence is too laconic, the other is overladen with superfluous words, put in to make the right number in the balanced group of characters. In addition to this, the text is full of too concise phrases, and often of ambiguous ones, as it is intended to state as briefly as possible all the important doctrines of the Buddhist as well as of the outside schools. On this account the author himself wrote a few notes on the passages that lie thought it necessary to explain. The reader will find these notes beginning with 'A' put by the translator to distinguish them from his own.
-
-K. N.
 
 ORIGIN OF MAN[FN#282]
 

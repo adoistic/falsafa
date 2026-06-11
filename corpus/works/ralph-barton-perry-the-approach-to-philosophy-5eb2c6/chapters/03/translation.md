@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 13858
+word_count: 13834
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -148,25 +148,15 @@ FOOTNOTES:
 
 [91:5] Lucretius: *De Rerum Natura*, Book III, lines 1 *sq.* Translated by Munro.
 
-[91:6] *Ibid.*, Book II, lines 644 *sq.*
-
 [92:7] It would be interesting to compare the equally famous criticism of Greek religion in Plato's *Republic*, Book II, 377 *sq.*
 
 [92:8] Cf. W. Robertson Smith's admirable account of the Semitic religions:
 
 "What is requisite to religion is a practical acquaintance with the rules on which the deity acts and on which he expects his worshippers to frame their conduct--what in II Kings, 17:26 is called the 'manner,' or rather the 'customary law' (*mishpat*), of the god of the land. This is true even of the religion of Israel. When the prophets speak of the knowledge of God, they always mean a practical knowledge of the laws and principles of His government in Israel, and a summary expression for religion as a whole is 'the knowledge and fear of Jehovah,' *i. e.*, the knowledge of what Jehovah prescribes, combined with a reverent obedience." *The Religion of the Semites*, p. 23.
 
-[93:9] *Proverbs*, 18:10; 11:19; 21:3.
-
-[93:10] *Ecclesiastes*, 2:13 *sq.*
-
-[94:11] *Psalms*, 51:17; *Isaiah*, 57:15.
-
 [94:12] In this discussion of Judaism I am much indebted to Matthew Arnold's *Literature and Dogma*, especially Chapters I and II.
 
 [104:13] James Thomson: *The City of Dreadful Night*. Quoted by James, in *The Will to Believe, etc.*, p. 45.
-
-[106:14] *Revelation*, 19:11-13.
 
 CHAPTER V
 

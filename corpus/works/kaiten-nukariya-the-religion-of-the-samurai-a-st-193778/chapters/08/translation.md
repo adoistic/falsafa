@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1683
+word_count: 1669
 source_url: "https://www.gutenberg.org/ebooks/5173"
 translator: Project Gutenberg edition
 ---
@@ -46,8 +46,6 @@ There they are endowed with the (so-called) Gas, or material (for body).[FN#398]
 
 [FN#398] A. 'This harmonizes with the outside opinion that Gas is the origin.'
 
-[FN#399] (1) Earth, (2) water, (3) fire, (4) air.
-
 [FN#400] (1) Perception, (2) consciousness, (3) conception, (4) knowledge.
 
 Though we are born among men by virtue of 'the generalizing Karma,'[FN#401] yet, by the influence of 'the particularizing Karma,'[FN#402] some are placed in a high rank, while others in a low; some are poor, while others rich; some enjoy a long life, while others die in youth; some are sickly, while others healthy; some are rising, while others are falling; some suffer from pains, while others enjoy pleasures. For instance, reverence or indolence in the previous existence, working as the cause, brings forth high birth or low in the present as the effect. So also benevolence in the past results in long life in the present; the taking of life, a short life; the giving of alms, richness, miserliness, Poverty. There are so many particular cases of retribution that cannot be mentioned in detail. Hence there are some who happen to be unfortunate, doing no evil, while others fortunate, doing no good in the present life. So also some enjoy a long life, in spite of their inhuman conduct; while others die young, in spite of their taking no life, and so forth. As all this is predestinated by 'the particularizing Karma' produced in the past, it would seem to occur naturally, quite independent of one's actions in the present life. Outside scholars ignorant of the previous existences, relying simply on their observations, believe it to be nothing more than natural.[FN#403]
@@ -63,8 +61,6 @@ Besides, there are some who cultivated virtues in the earlier, and committed cri
 [FN#404] A. 'This harmonizes with the outside opinion that everything depends on providence.'
 
 The body with which man is endowed, when traced step by step to its origin, proves to be nothing but one primordial Gas in its undeveloped state. And the mind with which man thinks, when traced step by step to its source, proves to be nothing but the One Real Spirit. To tell the truth, there exists nothing outside of Spirit, and even the Primordial Gas is also a mode of it, for it is one of the external objects projected by the above-stated Vijnyanas, and is one of the mental images of Alaya, out of whose idea, when it is in the state of Karma, come both the subject and the object. As the subject developed itself, the feebler ideas grow stronger step by step, and form erroneous beliefs that end in the production of Karma.[FN#405] Similarly, the object increases in size, the finer objects grow gradually grosser, and gives rise to unreal things that end in the formation[FN#406] of Heaven and Earth. When Karma is ripe enough, one is endowed by father and mother with sperm and ovum, which, united with his consciousness under the influence of Karma, completes a human form.
-
-[FN#405] A. 'As above stated.'
 
 [FN#406] A. "In the beginning, according to the outside school, there was 'the great changeableness,' which underwent fivefold evolutions, and brought out the Five Principles. Out of that Principle, which they call the Great Path of Nature, came the two subordinate principles of the Positive and the Negative. They seem to explain the Ultimate Reality, but the Path, in fact, no more than the 'perceiving division' of the Alaya. The so-called primordial Gas seems to be the first idea in the awakening Alaya, but it is a mere external object."
 

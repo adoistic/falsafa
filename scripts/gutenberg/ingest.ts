@@ -60,15 +60,20 @@ async function fetchEbook(id: number): Promise<string | null> {
 /** strip PG boilerplate; return the body text between the START/END markers */
 function stripBoilerplate(raw: string): string {
   let s = raw.replace(/\r\n/g, "\n");
-  const start = s.match(/\*\*\*\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\n]*\*\*\*/i);
-  const end = s.match(/\*\*\*\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\n]*\*\*\*/i);
-  if (start) s = s.slice(start.index! + start[0].length);
-  if (end) {
-    const ei = s.search(/\*\*\*\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK/i);
-    if (ei >= 0) s = s.slice(0, ei);
-  }
-  // drop a leading production/credits/title block up to the first blank run
-  // after any "Produced by"/"Credits" line is already past the START marker.
+  // body start: the *** START *** marker (modern) — else leave as-is
+  const start = s.search(/\*\*\*\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\n]*\*\*\*/i);
+  if (start >= 0) s = s.slice(start).replace(/^[^\n]*\n/, "");
+  // body end: the *** END *** marker (modern) OR the older plain-text footers
+  // ("End of Project Gutenberg's X", "End of the Project Gutenberg EBook",
+  // "End of Project Gutenberg Etext"), whichever comes first.
+  const endRe = /(\*\*\*\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK|End of (?:the )?Project Gutenberg(?:'s)?(?: EBook| Etext)?\b)/i;
+  const ei = s.search(endRe);
+  if (ei >= 0) s = s.slice(0, ei);
+
+  // strip producer/transcriber apparatus that sits inside the body text:
+  s = s.replace(/^[ \t]*Produced by[\s\S]*?(?:\n[ \t]*\n)/im, "\n"); // leading credit block
+  s = s.replace(/\[?Transcriber'?s?\s+Note[s]?:?[\s\S]*?(?:\]|\n[ \t]*\n)/gi, " ");
+  s = s.replace(/^[^\n]*\bProject Gutenberg\b[^\n]*$/gim, " "); // any stray PG line
   return s.trim();
 }
 
@@ -110,11 +115,17 @@ interface Chapter { title: string; content: string; words: number }
 /** clean a chapter body: drop page/footnote markers, italics underscores, reflow */
 function cleanBody(text: string): string {
   let s = text;
+  s = s.replace(/<\/?[a-zA-Z][^>]{0,60}>/g, ""); // HTML tags (<i>, </i>, <p>, <sc>...)
+  s = s.replace(/&[a-z]+;|&#\d+;/gi, " "); // stray HTML entities
   s = s.replace(/\[(?:Pg|Page)\s+[ivxlcdm\d]+\]/gi, " ");
-  s = s.replace(/\[\d+\]/g, ""); // footnote refs
-  s = s.replace(/\[Illustration[^\]]*\]/gi, " ");
-  s = s.replace(/\[Footnote[^\]]*\]/gi, " ");
+  s = s.replace(/\[Illustration[\s\S]*?\]/gi, " ");
+  // footnotes: [Footnote ...] possibly spanning paragraphs, then any orphan
+  // [Footnote that never closed (malformed source) to the end of its block
+  s = s.replace(/\[Footnotes?\b[\s\S]*?\]/gi, " ");
+  s = s.replace(/\[Footnotes?\b[\s\S]*?(?=\n[ \t]*\n|$)/gi, " ");
+  s = s.replace(/\[\d+\]/g, ""); // footnote reference markers
   s = s.replace(/_([^_\n]+)_/g, "*$1*"); // PG italics -> markdown emphasis
+  s = s.replace(/_{2,}/g, " "); // ASCII-art rule/table underscores
   // reflow: paragraphs separated by blank lines; join wrapped lines with a space
   const paras = s
     .split(/\n[ \t]*\n/)
@@ -127,7 +138,12 @@ function cleanBody(text: string): string {
         .replace(/[ \t]{2,}/g, " ")
         .trim(),
     )
-    .filter((p) => p.length > 0 && /[A-Za-zÀ-ɏͰ-Ͽ]/.test(p));
+    .filter((p) => {
+      if (p.length === 0 || !/[A-Za-zÀ-ɏͰ-Ͽ]/.test(p)) return false;
+      // drop ASCII-art / table blocks: paragraphs that are mostly non-letters
+      const letters = (p.match(/[A-Za-zÀ-ɏͰ-Ͽ]/g) ?? []).length;
+      return letters / p.length >= 0.55;
+    });
   return paras.join("\n\n");
 }
 
@@ -181,8 +197,17 @@ function chapterize(rawBody: string, fallbackTitle: string): Chapter[] {
     if (hm) {
       const num = headingNum(hm[2]!);
       if (Number.isNaN(num)) continue;
+      const inlineTail = (hm[3] ?? "").trim();
+      // reject prose cross-references ("as I showed in Part I, that all things
+      // ..."): a real heading's trailing text is a title (mostly uppercase),
+      // not a lowercase sentence.
+      if (inlineTail) {
+        const letters = inlineTail.match(/[A-Za-z]/g) ?? [];
+        const upper = inlineTail.match(/[A-Z]/g) ?? [];
+        if (letters.length > 2 && upper.length / letters.length < 0.6) continue;
+      }
       let title = `${cap(hm[1]!)} ${hm[2]!.toUpperCase()}`;
-      const tail = (hm[3] ?? "").trim() || sameLineTitle(lines, i);
+      const tail = inlineTail || sameLineTitle(lines, i);
       if (tail) title += " — " + tail.replace(/[.:]\s*$/, "");
       marks.push({ line: i, num, title, key: `${hm[1]!.toLowerCase()}:${num}` });
     } else if (rm) {

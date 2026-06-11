@@ -4,7 +4,7 @@ work_slug: "lewis-carroll-symbolic-logic-56bef5"
 work_title: Symbolic Logic
 author_name: Lewis Carroll
 chapter_number: 7
-chapter_title: Book VI
+chapter_title: Book V
 chapter_slug: 07
 variant_id: "a45dd908-fd26-5733-8f06-69bace1e8ccb"
 content_type: translation
@@ -13,292 +13,272 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3408
+word_count: 2534
 source_url: "https://www.gutenberg.org/ebooks/28696"
 translator: Project Gutenberg edition
 ---
 
-THE METHOD OF SUBSCRIPTS.
+SYLLOGISMS.
 
 CHAPTER I.
 
-*INTRODUCTORY.*
+*INTRODUCTORY*
 
-Let us agree that "x_{1}" shall mean "Some existing Things have the Attribute x", i.e. (more briefly) "Some x exist"; also that "xy_{1}" shall mean "Some xy exist", and so on. Such a Proposition may be called an '=Entity=.'
+When a Trio of Biliteral Propositions of Relation is such that
 
-[Note that, when there are *two* letters in the expression, it does not in the least matter which stands *first*: "xy_{1}" and "yx_{1}" mean exactly the same.]
+(1) all their six Terms are Species of the same Genus,
 
-Also that "x_{0}" shall mean "No existing Things have the Attribute x", i.e. (more briefly) "No x exist"; also that "xy_{0}" shall mean "No xy exist", and so on. Such a Proposition may be called a '=Nullity='.
+(2) every two of them contain between them a Pair of codivisional Classes,
 
-Also that "+" shall mean "and".
+(3) the three Propositions are so related that, if the first two were true, the third would be true,
 
-[Thus "ab*{1} + cd*{0}" means "Some ab exist and no cd exist".]
+the Trio is called a '=Syllogism='; the Genus, of which each of the six Terms is a Species, is called its ='Universe of Discourse=', or, more briefly, its '=Univ.='; the first two Propositions are called its '=Premisses=', and the third its '=Conclusion='; also the Pair of codivisional Terms in the Premisses are called its '=Eliminands=', and the other two its '=Retinends='.
 
-Also that "¶" shall mean "would, if true, prove".
+The Conclusion of a Syllogism is said to be '=consequent=' from its Premisses: hence it is usual to prefix to it the word "Therefore" (or the Symbol ".'."). pg057 [Note that the 'Eliminands' are so called because they are *eliminated*, and do not appear in the Conclusion; and that the 'Retinends' are so called because they are *retained*, and *do* appear in the Conclusion.
 
-[Thus, "x*{0} ¶ xy*{0}" means "The Proposition 'No x exist' would, if true, prove the Proposition 'No xy exist'".]
+Note also that the question, whether the Conclusion is or is not *consequent* from the Premisses, is not affected by the *actual* truth or falsity of any of the Trio, but depends entirely on their *relationship to each other*.
 
-When two Letters are both of them accented, or both *not* accented, they are said to have '=Like Signs=', or to be '=Like=': when one is accented, and the other not, they are said to have '=Unlike Signs=', or to be '=Unlike='.
+As a specimen-Syllogism, let us take the Trio
 
-pg071
+"No x-Things are m-Things; No y-Things are m'-Things. No x-Things are y-Things."
+
+which we may write, as explained at p. 26, thus:--
+
+"No x are m; No y are m'. No x are y".
+
+Here the first and second contain the Pair of codivisional Classes m and m'; the first and third contain the Pair x and x; and the second and third contain the Pair y and y.
+
+Also the three Propositions are (as we shall see hereafter) so related that, if the first two were true, the third would also be true.
+
+Hence the Trio is a *Syllogism*; the two Propositions, "No x are m" and "No y are m'", are its *Premisses*; the Proposition "No x are y" is its *Conclusion*; the Terms m and m' are its *Eliminands*; and the Terms x and y are its *Retinends*.
+
+Hence we may write it thus:--
+
+As a second specimen, let us take the Trio
+
+"All cats understand French; Some chickens are cats. Some chickens understand French".
+
+These, put into normal form, are
+
+"All cats are creatures understanding French; Some chickens are cats. Some chickens are creatures understanding French".
+
+Here all the six Terms are Species of the Genus "creatures."
+
+Also the first and second Propositions contain the Pair of codivisional Classes "cats" and "cats"; the first and third contain the Pair "creatures understanding French" and "creatures understanding French"; and the second and third contain the Pair "chickens" and "chickens". pg058 Also the three Propositions are (as we shall see at p. 64) so related that, if the first two were true, the third would be true. (The first two are, as it happens, *not* strictly true in *our* planet. But there is nothing to hinder them from being true in some *other* planet, say *Mars* or *Jupiter*--in which case the third would *also* be true in that planet, and its inhabitants would probably engage chickens as nursery-governesses. They would thus secure a singular *contingent* privilege, unknown in England, namely, that they would be able, at any time when provisions ran short, to utilise the nursery-governess for the nursery-dinner!)
+
+Hence the Trio is a *Syllogism*; the Genus "creatures" is its 'Univ.'; the two Propositions, "All cats understand French" and "Some chickens are cats", are its *Premisses*, the Proposition "Some chickens understand French" is its *Conclusion*; the Terms "cats" and "cats" are its *Eliminands*; and the Terms, "creatures understanding French" and "chickens", are its *Retinends*.
+
+Hence we may write it thus:--
+
+"All cats understand French; Some chickens are cats; .'. Some chickens understand French".]
 
 CHAPTER II.
 
-*REPRESENTATION OF PROPOSITIONS OF RELATION.*
+*PROBLEMS IN SYLLOGISMS.*
 
-Let us take, first, the Proposition "Some x are y".
+*Introductory.*
 
-This, we know, is equivalent to the Proposition of Existence "Some xy exist". (See p. 31.) Hence it may be represented by the expression "xy_{1}".
+When the Terms of a Proposition are represented by *words*, it is said to be '=concrete='; when by *letters*, '=abstract=.'
 
-The Converse Proposition "Some y are x" may of course be represented by the *same* expression, viz. "xy_{1}".
+To translate a Proposition from concrete into abstract form, we fix on a Univ., and regard each Term as a *Species* of it, and we choose a letter to represent its *Differentia*.
 
-Similarly we may represent the three similar Pairs of Converse Propositions, viz.--
+[For example, suppose we wish to translate "Some soldiers are brave" into abstract form. We may take "men" as Univ., and regard "soldiers" and "brave men" as *Species* of the *Genus* "men"; and we may choose x to represent the peculiar Attribute (say "military") of "soldiers," and y to represent "brave." Then the Proposition may be written "Some military men are brave men"; *i.e.* "Some x-men are y-men"; *i.e.* (omitting "men," as explained at p. 26) "Some x are y."
 
-"Some x are y'"  = "Some y' are x", "Some x' are y"  = "Some y are x'", "Some x' are y'" = "Some y' are x'".
+In practice, we should merely say "Let Univ. be "men", x = soldiers, y = brave", and at once translate "Some soldiers are brave" into "Some x are y."]
 
-Let us take, next, the Proposition "No x are y".
+The Problems we shall have to solve are of two kinds, viz.
 
-This, we know, is equivalent to the Proposition of Existence "No xy exist". (See p. 33.) Hence it may be represented by the expression "xy_{0}".
+(1) "Given a Pair of Propositions of Relation, which contain between them a pair of codivisional Classes, and which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them."
 
-The Converse Proposition "No y are x" may of course be represented by the *same* expression, viz. "xy_{0}".
+(2) "Given a Trio of Propositions of Relation, of which every two contain a pair of codivisional Classes, and which are proposed as a Syllogism: to ascertain whether the proposed Conclusion is consequent from the proposed Premisses, and, if so, whether it is *complete*."
 
-Similarly we may represent the three similar Pairs of Converse Propositions, viz.--
+These Problems we will discuss separately.
 
-"No x are y'"  = "No y' are x", "No x' are y"  = "No y are x'", "No x' are y'" = "No y' are x'". pg072 Let us take, next, the Proposition "All x are y".
+_Given a Pair of Propositions of Relation, which contain between them a pair of codivisional Classes, and which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them._
 
-Now it is evident that the Double Proposition of Existence "Some x exist and no xy' exist" tells us that *some* x-Things exist, but that *none* of them have the Attribute y': that is, it tells us that *all* of them have the Attribute y: that is, it tells us that "All x are y".
+The Rules, for doing this, are as follows:--
 
-Also it is evident that the expression "x*{1} + xy'*{0}" represents this Double Proposition.
+(1) Determine the 'Universe of Discourse'.
 
-Hence it also represents the Proposition "All x are y".
+(2) Construct a Dictionary, making m and m (or m and m') represent the pair of codivisional Classes, and x (or x') and y (or y') the other two.
 
-[The Reader will perhaps be puzzled by the statement that the Proposition "All x are y" is equivalent to the Double Proposition "Some x exist and no xy' exist," remembering that it was stated, at p. 33, to be equivalent to the Double Proposition "Some x are y and no x are y'" (i.e. "Some xy exist and no xy' exist"). The explanation is that the Proposition "Some xy exist" contains *superfluous information*. "Some x exist" is enough for our purpose.]
+(3) Translate the proposed Premisses into abstract form.
 
-This expression may be written in a shorter form, viz. "x*{1}y'*{0}", since *each* Subscript takes effect back to the *beginning* of the expression.
+(4) Represent them, together, on a Triliteral Diagram.
 
-Similarly we may represent the seven similar Propositions "All x are y'", "All x' are y", "All x' are y'", "All y are x", "All y are x'", "All y' are x", and "All y' are x'".
+(5) Ascertain what Proposition, if any, in terms of x and y, is *also* represented on it.
 
-[The Reader should make out all these for himself.]
+(6) Translate this into concrete form.
 
-It will be convenient to remember that, in translating a Proposition, beginning with "All", from abstract form into subscript form, or _vice versâ*, the Predicate *changes sign_ (that is, changes from positive to negative, or else from negative to positive).
+It is evident that, if the proposed Premisses were true, this other Proposition would *also* be true. Hence it is a *Conclusion* consequent from the proposed Premisses.
 
-[Thus, the Proposition "All y are x'" becomes "y*{1}x*{0}", where the Predicate changes from x' to x.
+[Let us work some examples.
 
-Again, the expression "x'*{1}y'*{0}" becomes "All x' are y", where the Predicate changes for y' to y.]
+"No son of mine is dishonest; People always treat an honest man with respect".
 
-pg073
+Taking "men" as Univ., we may write these as follows:--
 
-CHAPTER III.
+"No sons of mine are dishonest men; All honest men are men treated with respect".
 
-*SYLLOGISMS.*
+We can now construct our Dictionary, viz. m = honest; x = sons of mine; y = treated with respect.
 
-*Representation of Syllogisms.*
+(Note that the expression "x = sons of mine" is an abbreviated form of "x = the Differentia of 'sons of mine', when regarded as a Species of 'men'".)
 
-We already know how to represent each of the three Propositions of a Syllogism in subscript form. When that is done, all we need, besides, is to write the three expressions in a row, with "+" between the Premisses, and "¶" before the Conclusion.
+The next thing is to translate the proposed Premisses into abstract form, as follows:--
 
-[Thus the Syllogism
+"No x are m'; All m are y".
 
-"No x are m'; All m are y. .'. No x are y'."
+pg061 Next, by the process described at p. 50, we represent these on a Triliteral Diagram, thus:--
 
-may be represented thus:--
+Next, by the process described at p. 53, we transfer to a Biliteral Diagram all the information we can.
 
-xm'*{0} + m*{1}y'*{0} ¶ xy'*{0}
+The result we read as "No x are y'" or as "No y' are x," whichever we prefer. So we refer to our Dictionary, to see which will look best; and we choose
 
-When a Proposition has to be translated from concrete form into subscript form, the Reader will find it convenient, just at first, to translate it into *abstract* form, and *thence* into subscript form. But, after a little practice, he will find it quite easy to go straight from concrete form to subscript form.]
+which, translated into concrete form, is
 
-pg074 § 2.
+"No son of mine fails to be treated with respect".
 
-*Formulæ for solving Problems in Syllogisms.*
+"All cats understand French; Some chickens are cats".
 
-When once we have found, by Diagrams, the Conclusion to a given Pair of Premisses, and have represented the Syllogism in subscript form, we have a *Formula*, by which we can at once find, without having to use Diagrams again, the Conclusion to any *other* Pair of Premisses having the *same* subscript forms.
+Taking "creatures" as Univ., we write these as follows:--
 
-[Thus, the expression
+"All cats are creatures understanding French; Some chickens are cats".
 
-xm*{0} + ym'*{0} ¶ xy_{0}
+We can now construct our Dictionary, viz. m = cats; x = understanding French; y = chickens.
 
-is a Formula, by which we can find the Conclusion to any Pair of Premisses whose subscript forms are
+The proposed Premisses, translated into abstract form, are
 
-xm*{0} + ym'*{0}
+"All m are x; Some y are m".
 
-For example, suppose we had the Pair of Propositions
+In order to represent these on a Triliteral Diagram, we break up the first into the two Propositions to which it is equivalent, and thus get the *three* Propositions
 
-"No gluttons are healthy; No unhealthy men are strong".
+The Rule, given at p. 50, would make us take these in the order 2, 1, 3.
 
-proposed as Premisses. Taking "men" as our 'Universe', and making m = healthy; x = gluttons; y = strong; we might translate the Pair into abstract form, thus:--
+This, however, would produce the result
 
-"No x are m; No m' are y".
+pg062 So it would be better to take them in the order 2, 3, 1. Nos. (2) and (3) give us the result here shown; and now we need not trouble about No. (1), as the Proposition "Some m are x" is *already* represented on the Diagram.
 
-These, in subscript form, would be
+Transferring our information to a Biliteral Diagram, we get
 
-xm*{0} + m'y*{0}
+This result we can read either as "Some x are y" or "Some y are x".
 
-which are identical with those in our *Formula*. Hence we at once know the Conclusion to be
+After consulting our Dictionary, we choose
 
-xy_{0}
+"Some y are x",
 
-that is, in abstract form,
+which, translated into concrete form, is
 
-"No x are y";
+"Some chickens understand French."
 
-that is, in concrete form,
+"All diligent students are successful; All ignorant students are unsuccessful".
 
-"No gluttons are strong".]
+Let Univ. be "students"; m = successful; x = diligent; y = ignorant.
 
-I shall now take three different forms of Pairs of Premisses, and work out their Conclusions, once for all, by Diagrams; and thus obtain some useful Formulæ. I shall call them "Fig. I", "Fig. II", and "Fig. III". pg075 Fig. I.
+These Premisses, in abstract form, are
 
-This includes any Pair of Premisses which are both of them Nullities, and which contain Unlike Eliminands.
+"All x are m; All y are m'".
 
-The simplest case is
+These, broken up, give us the four Propositions
 
-·---------------· ·-------· xm*{0} + ym'*{0} |(O) | | |(O)| | | ·---|---· | |---|---| | |(O)|(O)| | | | | |---|---|---|---| ·-------· | | | | | | ·---|---· | .'. xy_{0} |(O) | | ·---------------·
+which we will take in the order 2, 4, 1, 3.
 
-In this case we see that the Conclusion is a Nullity, and that the Retinends have kept their Signs.
+Representing these on a Triliteral Diagram, we get
 
-And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions.
+And this information, transferred to a Biliteral Diagram, is
 
-[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as
+Here we get *two* Conclusions, viz.
 
-m*{1}x*{0} + ym'*{0} (which ¶ xy*{0}) xm'*{0} + m*{1}y*{0} (which ¶ xy*{0}) x'm*{0} + ym'*{0} (which ¶ x'y_{0}) m'*{1}x'*{0} + m*{1}y'*{0} (which ¶ x'y'_{0}).]
+"All x are y'; All y are x'." pg063 And these, translated into concrete form, are
 
-If either Retinend is asserted in the *Premisses* to exist, of course it may be so asserted in the *Conclusion*.
+"All diligent students are (not-ignorant, i.e.) learned; All ignorant students are (not-diligent, i.e.) idle". (See p. 4.)
 
-Hence we get two *Variants* of Fig. I, viz.
+"Of the prisoners who were put on their trial at the last Assizes, all, against whom the verdict 'guilty' was returned, were sentenced to imprisonment; Some, who were sentenced to imprisonment, were also sentenced to hard labour".
 
-(a) where *one* Retinend is so asserted;
+Let Univ. be "the prisoners who were put on their trial at the last Assizes"; m = who were sentenced to imprisonment; x = against whom the verdict 'guilty' was returned; y = who were sentenced to hard labour.
 
-(b) where *both* are so asserted.
+The Premisses, translated into abstract form, are
 
-[The Reader had better work out, on Diagrams, examples of these two Variants, such as
+"All x are m; Some m are y".
 
-m*{1}x*{0} + y*{1}m'*{0} (which proves y*{1}x*{0}) x*{1}m'*{0} + m*{1}y*{0} (which proves x*{1}y*{0}) x'*{1}m*{0} + y*{1}m'*{0} (which proves x'*{1}y*{0} + y*{1}x'*{0}).]
+Breaking up the first, we get the three
 
-The Formula, to be remembered, is
+Representing these, in the order 2, 1, 3, on a Triliteral Diagram, we get
 
-xm*{0} + ym'*{0} ¶ xy_{0}
+Here we get no Conclusion at all.
 
-with the following two Rules:--
+You would very likely have guessed, if you had seen *only* the Premisses, that the Conclusion would be
 
-(1) _Two Nullities, with Unlike Eliminands, yield a Nullity, in which both Retinends keep their Signs._ pg076 (2) _A Retinend, asserted in the Premisses to exist, may be so asserted in the Conclusion._
+"Some, against whom the verdict 'guilty' was returned, were sentenced to hard labour".
 
-[Note that Rule (1) is merely the Formula expressed in words.]
+But this Conclusion is not even *true*, with regard to the Assizes I have here invented.
 
-Fig. II.
+"Not *true!*" you exclaim. "Then who *were* they, who were sentenced to imprisonment and were also sentenced to hard labour? They *must* have had the verdict 'guilty' returned against them, or how could they be sentenced?"
 
-This includes any Pair of Premisses, of which one is a Nullity and the other an Entity, and which contain Like Eliminands.
+Well, it happened like *this*, you see. They were three ruffians, who had committed highway-robbery. When they were put on their trial, they *pleaded* 'guilty'. So no *verdict* was returned at all; and they were sentenced at once.]
 
-The simplest case is
-
-xm*{0} + ym*{1}
-
-·---------------· ·-------· | | | | | | | ·---|---· | |---|---| | |(O)|(O)| | |(I)| | |---|---|---|---| ·-------· | |(I)| | | | ·---|---· | .'. x'y_{1} | | | ·---------------·
-
-In this case we see that the Conclusion is an Entity, and that the Nullity-Retinend has changed its Sign.
-
-And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions.
-
-[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as
-
-x'm*{0} + ym*{1} (which ¶ xy_{1}) x*{1}m'*{0} + y'm'*{1} (which ¶ x'y'*{1}) m*{1}x*{0} + y'm*{1} (which ¶ x'y'*{1}).]
-
-The Formula, to be remembered, is,
-
-xm*{0} + ym*{1} ¶ x'y_{1}
-
-with the following Rule:--
-
-_A Nullity and an Entity, with Like Eliminands, yield an Entity, in which the Nullity-Retinend changes its Sign._
-
-[Note that this Rule is merely the Formula expressed in words.]
-
-pg077 Fig. III.
-
-This includes any Pair of Premisses which are both of them Nullities, and which contain Like Eliminands asserted to exist.
-
-The simplest case is
-
-xm*{0} + ym*{0} + m_{1}
-
-[Note that "m*{1}" is here stated *separately_, because it does not matter in which of the two Premisses it occurs: so that this includes the *three* forms "m*{1}x*{0} + ym*{0}", "xm*{0} + m*{1}y*{0}", and "m*{1}x*{0} + m*{1}y*{0}".]
-
-·---------------· ·-------· | | | | | | | ·---|---· | |---|---| | |(O)|(O)| | | |(I)| |---|---|---|---| ·-------· | |(O)|(I)| | | ·---|---· | .'. x'y'_{1} | | | ·---------------·
-
-In this case we see that the Conclusion is an Entity, and that *both* Retinends have changed their Signs.
-
-And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions.
-
-[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as
-
-x'm*{0} + m*{1}y*{0} (which ¶ xy'*{1}) m'*{1}x*{0} + m'y'*{0} (which ¶ x'y*{1}) m*{1}x'*{0} + m*{1}y'*{0} (which ¶ xy_{1}).]
-
-The Formula, to be remembered, is
-
-xm*{0} + ym*{0} + m*{1} ¶ x'y'*{1}
-
-with the following Rule (which is merely the Formula expressed in words):--
-
-_Two Nullities, with Like Eliminands asserted to exist, yield an Entity, in which both Retinends change their Signs._
-
-In order to help the Reader to remember the peculiarities and Formulæ of these three Figures, I will put them all together in one Table. pg078 TABLE IX. _______________________________________________________ | | | Fig. I. | | | | xm*{0} + ym'*{0} ¶ xy_{0} | | | | Two Nullities, with Unlike Eliminands, yield a | | Nullity, in which both Retinends keep their Signs. | | | | A Retinend, asserted in the Premisses to exist, may | | be so asserted in the Conclusion. | |_______________________________________________________| | | | Fig. II. | | | | xm*{0} + ym*{1} ¶ x'y_{1} | | | | A Nullity and an Entity, with Like Eliminands, | | yield an Entity, in which the Nullity-Retinend | | changes its Sign. | |_______________________________________________________| | | | Fig. III. | | | | xm*{0} + ym*{0} + m*{1} ¶ x'y'*{1} | | | | Two Nullities, with Like Eliminands asserted | | to exist, yield an Entity, in which both Retinends | | change their Signs. | |_______________________________________________________|
-
-I will now work out, by these Formulæ, as models for the Reader to imitate, some Problems in Syllogisms which have been already worked, by Diagrams, in Book V., Chap. II.
-
-(1) [see p. 64]
+I will now work out, in their briefest form, as models for the Reader to imitate in working examples, the above four concrete Problems. pg064 (1) [see p. 60]
 
 "No son of mine is dishonest; People always treat an honest man with respect."
 
 Univ. "men"; m = honest; x = my sons; y = treated with respect.
 
-xm'*{0} + m*{1}y'*{0} ¶ xy'*{0} [Fig. I.
+i.e. "No son of mine ever fails to be treated with respect."
 
-*i.e.* "No son of mine ever fails to be treated with respect." pg079 (2) [see p. 64]
-
-"All cats understand French; Some chickens are cats."
+"All cats understand French; Some chickens are cats".
 
 Univ. "creatures"; m = cats; x = understanding French; y = chickens.
 
-m*{1}x'*{0} + ym*{1} ¶ xy*{1} [Fig. II.
+i.e. "Some chickens understand French."
 
-*i.e.* "Some chickens understand French."
-
-(3) [see p. 64]
-
-"All diligent students are successful; All ignorant students are unsuccessful."
+"All diligent students are successful; All ignorant students are unsuccessful".
 
 Univ. "students"; m = successful; x = diligent; y = ignorant.
 
-x*{1}m'*{0} + y*{1}m*{0} ¶ x*{1}y*{0} + y*{1}x*{0} [Fig. I (b).
+i.e. "All diligent students are learned; and all ignorant students are idle". pg065 (4) [see p. 63]
 
-*i.e.* "All diligent students are learned; and all ignorant students are idle."
+"Of the prisoners who were put on their trial at the last Assizes, all, against whom the verdict 'guilty' was returned, were sentenced to imprisonment;
 
-(4) [see p. 66]
+Some, who were sentenced to imprisonment, were also sentenced to hard labour".
+
+Univ. "prisoners who were put on their trial at the last Assizes", m = sentenced to imprisonment; x = against whom the verdict 'guilty' was returned; y = sentenced to hard labour.
+
+_Given a Trio of Propositions of Relation, of which every two contain a Pair of codivisional Classes, and which are proposed as a Syllogism; to ascertain whether the proposed Conclusion is consequent from the proposed Premisses, and, if so, whether it is complete._
+
+The Rules, for doing this, are as follows:--
+
+(1) Take the proposed Premisses, and ascertain, by the process described at p. 60, what Conclusion, if any, is consequent from them.
+
+(2) If there be *no* Conclusion, say so.
+
+(3) If there *be* a Conclusion, compare it with the proposed Conclusion, and pronounce accordingly.
+
+I will now work out, in their briefest form, as models for the Reader to imitate in working examples, six Problems.
 
 "All soldiers are strong; All soldiers are brave. Some strong men are brave."
 
-Univ. "men"; m = soldiers; x = strong; y = brave.
-
-m*{1}x'*{0} + m*{1}y'*{0} ¶ xy_{1} [Fig. III.
-
 Hence proposed Conclusion is right.
 
-(5) [see p. 67]
+"I admire these pictures; When I admire anything I wish to examine it thoroughly. I wish to examine some of these pictures thoroughly."
 
-"I admire these pictures; When I admire anything, I wish to examine it thoroughly. I wish to examine some of these pictures thoroughly."
+Univ. "things"; m = admired by me; x = these pictures; y = things which I wish to examine thoroughly.
 
-Univ. "things"; m = admired by me; x = these; y = things which I wish to examine thoroughly.
-
-x*{1}m'*{0} + m*{1}y'*{0} ¶ x*{1}y'*{0} [Fig. I (a).
-
-Hence proposed Conclusion, xy*{1}, is *incomplete*, the *complete_ one being "I wish to examine *all* these pictures thoroughly." pg080 (6) [see p. 67]
+Hence proposed Conclusion is *incomplete*, the *complete* one being "I wish to examine *all* these pictures thoroughly".
 
 "None but the brave deserve the fair; Some braggarts are cowards. Some braggarts do not deserve the fair."
 
 Univ. "persons"; m = brave; x = deserving of the fair; y = braggarts.
 
-m'x*{0} + ym'*{1} ¶ x'y_{1} [Fig. II.
+Hence proposed Conclusion is right. pg068 (4)
 
-Hence proposed Conclusion is right.
+"All soldiers can march; Some babies are not soldiers. Some babies cannot march".
 
-(7) [see p. 69]
+Univ. "persons"; m = soldiers; x = able to march; y = babies.
+
+"All selfish men are unpopular; All obliging men are popular. All obliging men are unselfish".
+
+Univ. "men"; m = popular; x = selfish; y = obliging.
+
+Hence proposed Conclusion is *incomplete*, the *complete* one containing, in addition, "All selfish men are disobliging".
 
 "No one, who means to go by the train and cannot get a conveyance, and has not enough time to walk to the station, can do without running;
 
@@ -306,80 +286,12 @@ This party of tourists mean to go by the train and cannot get a conveyance, but 
 
 This party of tourists need not run."
 
-Univ. "persons meaning to go by the train, and unable to get a conveyance"; m = having enough time to walk to the station; x = needing to run; y = these tourists.
+[Here is *another* opportunity, gentle Reader, for playing a trick on your innocent friend. Put the proposed Syllogism before him, and ask him what he thinks of the Conclusion.
 
-m'x'*{0} + y*{1}m'_{0} do not come under any of the three Figures. Hence it is necessary to return to the Method of Diagrams, as shown at p. 69.
+He will reply "Why, it's perfectly correct, of course! And if your precious Logic-book tells you it *isn't*, don't believe it! You don't mean to tell me those tourists *need* to run? If *I* were one of them, and knew the *Premisses* to be true, I should be *quite* clear that I *needn't* run--and I *should walk!*"
 
-Hence there is no Conclusion.
+And *you* will reply "But suppose there was a mad bull behind you?"
 
-[Work Examples § =4=, 12-20 (p. 100); § =5=, 13-24 (pp. 101, 102); § =6=, 1-6 (p. 106); § =7=, 1-3 (pp. 107, 108). Also read Note (A), at p. 164.]
+And then your innocent friend will say "Hum! Ha! I must think that over a bit!"
 
-pg081 § 3.
-
-*Fallacies.*
-
-Any argument which *deceives* us, by seeming to prove what it does not really prove, may be called a '=Fallacy=' (derived from the Latin verb *fallo* "I deceive"): but the particular kind, to be now discussed, consists of a Pair of Propositions, which are proposed as the Premisses of a Syllogism, but yield no Conclusion.
-
-When each of the proposed Premisses is a Proposition in *I*, or *E*, or *A*, (the only kinds with which we are now concerned,) the Fallacy may be detected by the 'Method of Diagrams,' by simply setting them out on a Triliteral Diagram, and observing that they yield no information which can be transferred to the Biliteral Diagram.
-
-But suppose we were working by the 'Method of *Subscripts*,' and had to deal with a Pair of proposed Premisses, which happened to be a 'Fallacy,' how could we be certain that they would not yield any Conclusion?
-
-Our best plan is, I think, to deal with *Fallacies* in the same was as we have already dealt with *Syllogisms*: that is, to take certain forms of Pairs of Propositions, and to work them out, once for all, on the Triliteral Diagram, and ascertain that they yield *no* Conclusion; and then to record them, for future use, as *Formulæ for Fallacies*, just as we have already recorded our three *Formulæ for Syllogisms*. pg082 Now, if we were to record the two Sets of Formulæ in the *same* shape, viz. by the Method of Subscripts, there would be considerable risk of confusing the two kinds. Hence, in order to keep them distinct, I propose to record the Formulæ for *Fallacies* in *words*, and to call them "Forms" instead of "Formulæ."
-
-Let us now proceed to find, by the Method of Diagrams, three "Forms of Fallacies," which we will then put on record for future use. They are as follows:--
-
-(1) Fallacy of Like Eliminands not asserted to exist. (2) Fallacy of Unlike Eliminands with an Entity-Premiss. (3) Fallacy of two Entity-Premisses.
-
-These shall be discussed separately, and it will be seen that each fails to yield a Conclusion.
-
-(1) *Fallacy of Like Eliminands not asserted to exist.*
-
-It is evident that neither of the given Propositions can be an *Entity*, since that kind asserts the *existence* of both of its Terms (see p. 20). Hence they must both be *Nullities*.
-
-Hence the given Pair may be represented by (xm*{0} + ym*{0}), with or without x*{1}, y*{1}.
-
-These, set out on Triliteral Diagrams, are
-
-xm*{0} + ym*{0} x*{1}m*{0} + ym_{0} ·---------------· ·---------------· | | | | (I) | | ·---|---· | | ·---|---· | | |(O)|(O)| | | |(O)|(O)| | |---|---|---|---| |---|---|---|---| | |(O)| | | | |(O)| | | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------·
-
-xm*{0} + y*{1}m*{0} x*{1}m*{0} + y*{1}m_{0} ·---------------· ·---------------· | | | | (I) | | ·---|---· | | ·---|---· | | |(O)|(O)| | | |(O)|(O)| | |(I)|---|---|---| |(I)|---|---|---| | |(O)| | | | |(O)| | | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------· pg083 (2) *Fallacy of Unlike Eliminands with an Entity-Premiss.*
-
-Here the given Pair may be represented by (xm*{0} + ym'*{1}) with or without x*{1} or m*{1}.
-
-These, set out on Triliteral Diagrams, are
-
-xm*{0} + ym'*{1} x*{1}m*{0} + ym'*{1} m*{1}x*{0} + ym'*{1} ·---------------· ·---------------· ·---------------· | | | | (I) | | | | | ·---|---· | | ·---|---· | | ·---|---· | | |(O)|(O)| | | |(O)|(O)| | | |(O)|(O)| | |(I)|---|---|---| |(I)|---|---|---| |(I)|---|---|---| | | | | | | | | | | | | (I) | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | | | ·---------------· ·---------------· ·---------------·
-
-(3) *Fallacy of two Entity-Premisses.*
-
-Here the given Pair may be represented by either (xm*{1} + ym*{1}) or (xm*{1} + ym'*{1}).
-
-These, set out on Triliteral Diagrams, are
-
-xm*{1} + ym*{1} xm*{1} + ym'*{1} ·---------------· ·---------------· | | | | | | | ·---|---· | | ·---|---· | | | (I) | | | | (I) | | |---|(I)|---|---| |(I)|---|---|---| | | | | | | | | | | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------·
-
-pg084 § 4.
-
-*Method of proceeding with a given Pair of Propositions.*
-
-Let us suppose that we have before us a Pair of Propositions of Relation, which contain between them a Pair of codivisional Classes, and that we wish to ascertain what Conclusion, if any, is consequent from them. We translate them, if necessary, into subscript-form, and then proceed as follows:--
-
-(1) We examine their Subscripts, in order to see whether they are
-
-(a) a Pair of Nullities; or (b) a Nullity and an Entity; or (c) a Pair of Entities.
-
-(2) If they are a Pair of Nullities, we examine their Eliminands, in order to see whether they are Unlike or Like.
-
-If their Eliminands are *Unlike*, it is a case of Fig. I. We then examine their Retinends, to see whether one or both of them are asserted to *exist*. If one Retinend is so asserted, it is a case of Fig. I (a); if both, it is a case of Fig. I (b).
-
-If their Eliminands are Like, we examine them, in order to see whether either of them is asserted to exist. If so, it is a case of Fig. III.; if not, it is a case of "Fallacy of Like Eliminands not asserted to exist."
-
-(3) If they are a Nullity and an Entity, we examine their Eliminands, in order to see whether they are Like or Unlike.
-
-If their Eliminands are Like, it is a case of Fig. II.; if *Unlike*, it is a case of "Fallacy of Unlike Eliminands with an Entity-Premiss."
-
-(4) If they are a Pair of Entities, it is a case of "Fallacy of two Entity-Premisses."
-
-[Work Examples § =4=, 1-11 (p. 100); § =5=, 1-12 (p. 101); § =6=, 7-12 (p. 106); § =7=, 7-12 (p. 108).]
-
-pg085
+You may then explain to him, as a convenient *test* of the soundness of a Syllogism, that, if circumstances can be invented which, without interfering with the truth of the *Premisses*, would make the *Conclusion* false, the Syllogism *must* be unsound.]

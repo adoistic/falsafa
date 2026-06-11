@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 9767
+word_count: 9758
 source_url: "https://www.gutenberg.org/ebooks/13888"
 translator: Project Gutenberg edition
 ---
@@ -105,8 +105,6 @@ Mirabeau said, what of course had been said before him, "On ne vaut, dans la par
 FOOTNOTES:
 
 *Calendar of State Papers* (domestic), March 24, 1621.
-
-*Commons' Journals*, March 17, April 27; iii. 560, 594-6.
 
 *Commons' Journals*, iii. 578. In his copy of the *Novum Organum*, received *ex dono auctoris*, Coke wrote the same words.
 

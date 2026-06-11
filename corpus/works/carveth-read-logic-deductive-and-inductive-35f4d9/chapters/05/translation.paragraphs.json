@@ -135,203 +135,193 @@
     "text": "Those Logicians who explicitly quantify the predicate obtain, in all, eight forms of proposition according to Quantity and Quality:"
   },
   {
-    "id": "p-ba0094",
-    "offset": 12163,
-    "text": "[Transcriber's Note: The Greek characters used in the original are represented below by the name of the character in square brackets.]"
-  },
-  {
     "id": "p-5750cd",
-    "offset": 12299,
+    "offset": 12163,
     "text": "U. Toto-total Affirmative -- All X is all Y. A. Toto-partial Affirmative -- All X is some Y. Y. Parti-total Affirmative -- Some X is all Y. I. Parti-partial Affirmative -- Some X is some Y. E. Toto-total Negative -- No X is any Y. [eta]. Toto-partial Negative -- No X is some Y. O. Parti-total Negative -- Some X is not any Y. [omega]. Parti-partial Negative -- Some X is not some Y."
   },
   {
     "id": "p-7c3d1a",
-    "offset": 12684,
+    "offset": 12548,
     "text": "Here A. I. E. O. correspond with those similarly symbolised in the usual list, merely designating in the predicates the quantity which was formerly treated as implicit."
   },
   {
     "id": "p-c865ea",
-    "offset": 12854,
+    "offset": 12718,
     "text": "§ 4. As to Relation, propositions are either Categorical or Conditional. A Categorical Proposition is one in which the predicate is directly affirmed or denied of the subject without any limitation of time, place, or circumstance, extraneous to the subject, as _All men in England are secure of justice_; in which proposition, though there is a limitation of place ('in England'), it is included in the subject. Of this kind are nearly all the examples that have yet been given, according to the form *S is P*."
   },
   {
     "id": "p-a11950",
-    "offset": 13366,
+    "offset": 13230,
     "text": "A Conditional Proposition is so called because the predication is made under some limitation or condition not included in the subject, as _If a man live in England, he is secure of justice_. Here the limitation 'living in England' is put into a conditional sentence extraneous to the subject, 'he,' representing any man."
   },
   {
     "id": "p-8d6e91",
-    "offset": 13688,
+    "offset": 13552,
     "text": "Conditional propositions, again, are of two kinds--Hypothetical and Disjunctive. Hypothetical propositions are those that are limited by an explicit conditional sentence, as above, or thus: _If Joe Smith was a prophet, his followers have been unjustly persecuted_. Or in symbols thus:"
   },
   {
-    "id": "p-599f34",
-    "offset": 13974,
-    "text": "If A is, B is; If A is B, A is C; If A is B, C is D."
-  },
-  {
     "id": "p-053789",
-    "offset": 14028,
+    "offset": 13838,
     "text": "Disjunctive propositions are those in which the condition under which predication is made is not explicit but only implied under the disguise of an alternative proposition, as _Joe Smith was either a prophet or an impostor_. Here there is no direct predication concerning Joe Smith, but only a predication of one of the alternatives conditionally on the other being denied, as, *If Joe Smith was not a prophet he was an impostor*; or, *If he was not an impostor, he was a prophet*. Symbolically, Disjunctives may be represented thus:"
   },
   {
     "id": "p-d21186",
-    "offset": 14563,
+    "offset": 14373,
     "text": "A is either B or C, Either A is B or C is D."
   },
   {
     "id": "p-49674c",
-    "offset": 14609,
+    "offset": 14419,
     "text": "Formally, every Conditional may be expressed as a Categorical. For our last example shows how a Disjunctive may be reduced to two Hypotheticals (of which one is redundant, being the contrapositive of the other; see chap. vii. § 10). And a Hypothetical is reducible to a Categorical thus: *If the sky is clear, the night is cold* may be read--_The case of the sky being clear is a case of the night being cold_; and this, though a clumsy plan, is sometimes convenient. It would be better to say _The sky being clear is a sign of the night being cold_, or a condition of it. For, as Mill says, the essence of a Hypothetical is to state that one clause of it (the indicative) may be inferred from the other (the conditional). Similarly, we might write: _Proof of Joe Smith's not being a prophet is a proof of his being an impostor_."
   },
   {
     "id": "p-73bd1a",
-    "offset": 15440,
+    "offset": 15250,
     "text": "This turning of Conditionals into Categoricals is called a Change of Relation; and the process may be reversed: *All the wise are virtuous* may be written, *If any man is wise he is virtuous*; or, again, _Either a man is not-wise or he is virtuous_. But the categorical form is usually the simplest."
   },
   {
     "id": "p-99c206",
-    "offset": 15741,
+    "offset": 15551,
     "text": "If, then, as substitutes for the corresponding conditionals, categoricals are formally adequate, though sometimes inelegant, it may be urged that Logic has nothing to do with elegance; or that, at any rate, the chief elegance of science is economy, and that therefore, for scientific purposes, whatever we may write further about conditionals must be an ugly excrescence. The scientific purpose of Logic is to assign the conditions of proof. Can we, then, in the conditional form prove anything that cannot be proved in the categorical? Or does a conditional require to be itself proved by any method not applicable to the Categorical? If not, why go on with the discussion of Conditionals? For all laws of Nature, however stated, are essentially categorical. 'If a straight line falls on another straight line, the adjacent angles are together equal to two right angles'; 'If a body is unsupported, it falls'; 'If population increases, rents tend to rise': here 'if' means 'whenever' or 'all cases in which'; for to raise a doubt whether a straight line is ever conceived to fall upon another, whether bodies are ever unsupported, or population ever increases, is a superfluity of scepticism; and plainly the hypothetical form has nothing to do with the proof of such propositions, nor with inference from them."
   },
   {
     "id": "p-f78636",
-    "offset": 17055,
+    "offset": 16865,
     "text": "Still, the disjunctive form is necessary in setting out the relation of contradictory terms, and in stating a Division (chap. xxi.), whether formal (*as A is B or not-B*) or material (as _Cats are white, or black, or tortoiseshell, or tabby_). And in some cases the hypothetical form is useful. One of these occurs where it is important to draw attention to the condition, as something doubtful or especially requiring examination. _If there is a resisting medium in space, the earth will fall into the sun; If the Corn Laws are to be re-enacted, we had better sell railways and buy land_: here the hypothetical form draws attention to the questions whether there is a resisting medium in space, whether the Corn Laws are likely to be re-enacted; but as to methods of inference and proof, the hypothetical form has nothing to do with them. The propositions predicate causation: _A resisting medium in space is a condition of the earth's falling into the sun; A Corn Law is a condition of the rise of rents, and of the fall of railway profits_."
   },
   {
     "id": "p-57b22c",
-    "offset": 18100,
+    "offset": 17910,
     "text": "A second case in which the hypothetical is a specially appropriate form of statement occurs where a proposition relates to a particular matter and to future time, as _If there be a storm to-morrow, we shall miss our picnic_. Such cases are of very slight logical interest. It is as exercises in formal thinking that hypotheticals are of most value; inasmuch as many people find them more difficult than categoricals to manipulate."
   },
   {
     "id": "p-4a85ad",
-    "offset": 18532,
+    "offset": 18342,
     "text": "In discussing Conditional Propositions, the conditional sentence of a Hypothetical, or the first alternative of a Disjunctive, is called the Antecedent; the indicative sentence of a Hypothetical, or the second alternative of a Disjunctive, is called the Consequent."
   },
   {
     "id": "p-674e6b",
-    "offset": 18799,
+    "offset": 18609,
     "text": "Hypotheticals, like Categoricals, have been classed according to Quantity and Quality. Premising that the quantity of a Hypothetical depends on the quantity of its Antecedent (which determines its limitation), whilst its quality depends on the quality of its consequent (which makes the predication), we may exhibit four forms:"
   },
   {
     "id": "p-cdd703",
-    "offset": 19128,
+    "offset": 18938,
     "text": "A. *If A is B, C is D;* I. *Sometimes when A is B, C is D;* E. *If A is B, C is not D;* O. *Sometimes when A is B, C is not D.*"
   },
   {
     "id": "p-87dd67",
-    "offset": 19257,
+    "offset": 19067,
     "text": "But I. and O. are rarely used."
   },
   {
     "id": "p-2b12d7",
-    "offset": 19289,
+    "offset": 19099,
     "text": "As for Disjunctives, it is easy to distinguish the two quantities thus:"
   },
   {
     "id": "p-c82d94",
-    "offset": 19362,
+    "offset": 19172,
     "text": "A. *Either A is B, or C is D;* I. *Sometimes either A is B or C is D.*"
   },
   {
     "id": "p-f8ba91",
-    "offset": 19434,
+    "offset": 19244,
     "text": "But I. is rarely used. The distinction of quality, however, cannot be made: there are no true negative forms; for if we write--"
   },
   {
     "id": "p-81f9f6",
-    "offset": 19563,
+    "offset": 19373,
     "text": "*Neither is A B, nor C D,*"
   },
   {
     "id": "p-92bfa2",
-    "offset": 19591,
+    "offset": 19401,
     "text": "there is here no alternative predication, but only an Exponible equivalent to *No A is B, and No C is D*. And if we write--"
   },
   {
     "id": "p-26f323",
-    "offset": 19716,
+    "offset": 19526,
     "text": "*Either A is not B, or C is not D,*"
   },
   {
     "id": "p-6f8cd9",
-    "offset": 19753,
+    "offset": 19563,
     "text": "this is affirmative as to the alternation, and is for all methods of treatment equivalent to A."
   },
   {
     "id": "p-3feb1e",
-    "offset": 19850,
+    "offset": 19660,
     "text": "Logicians are divided in opinion as to the interpretation of the conjunction 'either, or'; some holding that it means 'not both,' others that it means 'it may be both.' Grammatical usage, upon which the question is sometimes argued, does not seem to be established in favour of either view. If we say _A man so precise in his walk and conversation is either a saint or a consummate hypocrite*; or, again, *One who is happy in a solitary life is either more or less than man_; we cannot in such cases mean that the subject may be both. On the other hand, if it be said that _the author of 'A Tale of a Tub' is either a misanthrope or a dyspeptic_, the alternatives are not incompatible. Or, again, given that *X. is a lunatic, or a lover, or a poet*, the three predicates have much congruity."
   },
   {
     "id": "p-e02866",
-    "offset": 20643,
+    "offset": 20453,
     "text": "It has been urged that in Logic, language should be made as exact and definite as possible, and that this requires the exclusive interpretation 'not both.' But it seems a better argument, that Logic (1) should be able to express all meanings, and (2), as the science of evidence, must not assume more than is given; to be on the safe side, it must in doubtful cases assume the least, just as it generally assumes a preindesignate term to be of particular quantity; and, therefore 'either, or' means 'one, or the other, or both.'"
   },
   {
     "id": "p-e9bdad",
-    "offset": 21173,
+    "offset": 20983,
     "text": "However, when both the alternative propositions have the same subject, as *Either A is B, or A is C*, if the two predicates are contrary or contradictory terms (as 'saint' and 'hypocrite,' or 'saint' and 'not-saint'), they cannot in their nature be predicable in the same way of the same subject; and, therefore, in such a case 'either, or' means one or the other, but not both in the same relation. Hence it seems necessary to admit that the conjunction 'either, or' may sometimes require one interpretation, sometimes the other; and the rule is that it implies the further possibility 'or both,' except when both alternatives have the same subject whilst the predicates are contrary or contradictory terms."
   },
   {
     "id": "p-b9fa85",
-    "offset": 21883,
+    "offset": 21693,
     "text": "If, then, the disjunctive *A is either B or C* (*B* and *C* being contraries) implies that both alternatives cannot be true, it can only be adequately rendered in hypotheticals by the two forms--(1) _If A is B, it is not C*, and (2)*If A is not B, it is C_. But if the disjunctive *A is either B or C* (*B* and *C* not being contraries) implies that both may be true, it will be adequately translated into a hypothetical by the single form, *If A is not B, it is C*. We cannot translate it into--*If A is B, it is not C*, for, by our supposition, if '*A is B*' is true, it does not follow that '*A is C*' must be false."
   },
   {
     "id": "p-9320b4",
-    "offset": 22504,
+    "offset": 22314,
     "text": "Logicians are also divided in opinion as to the function of the hypothetical form. Some think it expresses doubt; for the consequent depends on the antecedent, and the antecedent, introduced by 'if,' may or may not be realised, as in *If the sky is clear, the night is cold*: whether the sky is, or is not, clear being supposed to be uncertain. And we have seen that some hypothetical propositions seem designed to draw attention to such uncertainty, as--_If there is a resisting medium in space_, etc. But other Logicians lay stress upon the connection of the clauses as the important matter: the statement is, they say, that the consequent may be inferred from the antecedent. Some even declare that it is given as a necessary inference; and on this ground Sigwart rejects particular hypotheticals, such as *Sometimes when A is B, C is D*; for if it happens only sometimes the connexion cannot be necessary. Indeed, it cannot even be probably inferred without further grounds. But this is also true whenever the antecedent and consequent are concerned with different matter. For example, _If the soul is simple, it is indestructible*. How do you know that? Because *Every simple substance is indestructible_. Without this further ground there can be no inference. The fact is that conditional forms often cover assertions that are not true complex propositions but a sort of euthymemes (chap. xi. § 2), arguments abbreviated and rhetorically disguised. Thus: _If patience is a virtue there are painful virtues_--an example from Dr. Keynes. Expanding this we have--"
   },
   {
     "id": "p-8acfd3",
-    "offset": 24072,
+    "offset": 23882,
     "text": "Patience is painful; Patience is a virtue: .'. Some virtue is painful."
   },
   {
     "id": "p-c75fb6",
-    "offset": 24144,
+    "offset": 23954,
     "text": "And then we see the equivocation of the inference; for though patience be painful *to learn*, it is not painful *as a virtue* to the patient man."
   },
   {
     "id": "p-850b28",
-    "offset": 24291,
+    "offset": 24101,
     "text": "The hypothetical, '_If Plato was not mistaken poets are dangerous citizens_,' may be considered as an argument against the laureateship, and may be expanded (informally) thus: 'All Plato's opinions deserve respect; one of them was that poets are bad citizens; therefore it behoves us to be chary of encouraging poetry.' Or take this disjunctive, '_Either Bacon wrote the works ascribed to Shakespeare, or there were two men of the highest genius in the same age and country_.' This means that it is not likely there should be two such men, that we are sure of Bacon, and therefore ought to give him all the glory. Now, if it is the part of Logic 'to make explicit in language all that is implicit in thought,' or to put arguments into the form in which they can best be examined, such propositions as the above ought to be analysed in the way suggested, and confirmed or refuted according to their real intention."
   },
   {
     "id": "p-177ddc",
-    "offset": 25206,
+    "offset": 25016,
     "text": "We may conclude that no single function can be assigned to all hypothetical propositions: each must be treated according to its own meaning in its own context."
   },
   {
     "id": "p-035017",
-    "offset": 25367,
+    "offset": 25177,
     "text": "§ 5. As to Modality, propositions are divided into Pure and Modal. A Modal proposition is one in which the predicate is affirmed or denied, not simply but *cum modo*, with a qualification. And some Logicians have considered any adverb occurring in the predicate, or any sign of past or future tense, enough to constitute a modal: as 'Petroleum is *dangerously* inflammable'; 'English *will be* the universal language.' But far the most important kind of modality, and the only one we need consider, is that which is signified by some qualification of the predicate as to the degree of certainty with which it is affirmed or denied. Thus, 'The bite of the cobra is *probably* mortal,' is called a Contingent or Problematic Modal: 'Water is *certainly* composed of oxygen and hydrogen' is an Assertory or Certain Modal: 'Two straight lines *cannot* enclose a space' is a Necessary or Apodeictic Modal (the opposite being inconceivable). Propositions not thus qualified are called Pure."
   },
   {
     "id": "p-94bb7c",
-    "offset": 26352,
+    "offset": 26162,
     "text": "Modal propositions have had a long and eventful history, but they have not been found tractable by the resources of ordinary Logic, and are now generally neglected by the authors of text-books. No doubt such propositions are the commonest in ordinary discourse, and in some rough way we combine them and draw inferences from them. It is understood that a combination of assertory or of apodeictic premises may warrant an assertory or an apodeictic conclusion; but that if we combine either of these with a problematic premise our conclusion becomes problematic; whilst the combination of two problematic premises gives a conclusion less certain than either. But if we ask 'How much less certain?' there is no answer. That the modality of a conclusion follows the less certain of the premises combined, is inadequate for scientific guidance; so that, as Deductive Logic can get no farther than this, it has abandoned the discussion of Modals. To endeavour to determine the degree of certainty attaching to a problematic judgment is not, however, beyond the reach of Induction, by analysing circumstantial evidence, or by collecting statistics with regard to it. Thus, instead of 'The cobra's bite is *probably* fatal,' we might find that it is fatal 80 times in 100. Then, if we know that of those who go to India 3 in 1000 are bitten, we can calculate what the chances are that any one going to India will die of a cobra's bite (chap. xx.)."
   },
   {
     "id": "p-3d1d34",
-    "offset": 27794,
+    "offset": 27604,
     "text": "§ 6. Verbal and Real Propositions.--Another important division of propositions turns upon the relation of the predicate to the subject in respect of their connotations. We saw, when discussing Relative Terms, that the connotation of one term often implies that of another; sometimes reciprocally, like 'master' and 'slave'; or by inclusion, like species and genus; or by exclusion, like contraries and contradictories. When terms so related appear as subject and predicate of the same proposition, the result is often tautology--e.g., _The master has authority over his slave; A horse is an animal; Red is not blue; British is not foreign_. Whoever knows the meaning of 'master,' 'horse,' 'red,' 'British,' learns nothing from these propositions. Hence they are called Verbal propositions, as only expounding the sense of words, or as if they were propositions only by satisfying the forms of language, not by fulfilling the function of propositions in conveying a knowledge of facts. They are also called 'Analytic' and 'Explicative,' when they separate and disengage the elements of the connotation of the subject. Doubtless, such propositions may be useful to one who does not know the language; and Definitions, which are verbal propositions whose predicates analyse the whole connotations of their subjects, are indispensable instruments of science (see chap. xxii.)."
   },
   {
     "id": "p-57bcb7",
-    "offset": 29168,
+    "offset": 28978,
     "text": "Of course, hypothetical propositions may also be verbal, as _If the soul be material it is extended_; for 'extension' is connoted by 'matter'; and, therefore, the corresponding disjunctive is verbal--_Either the soul is not material, or it is extended_. But a true divisional disjunctive can never be verbal (chap. xxi. § 4, rule 1)."
   },
   {
     "id": "p-9d45cc",
-    "offset": 29503,
+    "offset": 29313,
     "text": "On the other hand, when there is no such direct relation between subject and predicate that their connotations imply one another, but the predicate connotes something that cannot be learnt from the connotation of the subject, there is no longer tautology, but an enlargement of meaning--e.g., _Masters are degraded by their slaves; The horse is the noblest animal; Red is the favourite colour of the British army; If the soul is simple, it is indestructible_. Such propositions are called Real, Synthetic, or Ampliative, because they are propositions for which a mere understanding of their subjects would be no substitute, since the predicate adds a meaning of its own concerning matter of fact."
   },
   {
     "id": "p-ab128e",
-    "offset": 30201,
+    "offset": 30011,
     "text": "To any one who understands the language, a verbal proposition can never be an inference or conclusion from evidence; nor can a verbal proposition ever furnish grounds for an inference, except as to the meaning of words. The subject of real and verbal propositions will inevitably recur in the chapters on Definition; but tautologies are such common blemishes in composition, and such frequent pitfalls in argument, that attention cannot be drawn to them too early or too often."
   }
 ]

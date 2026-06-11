@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 7713
+word_count: 7694
 source_url: "https://www.gutenberg.org/ebooks/5173"
 translator: Project Gutenberg edition
 ---
@@ -138,15 +138,11 @@ There is no exception to this rigorous law of retribution, and we take it as the
 
 [FN#221] Samantabhadra-dhyana-sutra.
 
-[FN#222] Nanjo's Catalogue, No. 117.
-
 10. The Eternal Life as taught by Professor Munsterberg.
 
 Some philosophical pessimists undervalue life simply because it is subject to limitation. They ascribe all evils to that condition, forgetting that without limitation life is a mere blank. Suppose our sight could see all things at once, then sight has no value nor use for us, because it is life's purpose to choose to see one thing or another out of many; and if all things be present at once before us through sight, it is of no purpose. The same is true of intellect, bearing, smell, touch, feeling, and will. If they be limitless, they cease to be useful for us. Individuality necessarily implies limitation, hence if there be no limitation in the world, then there is no room for individuality. Life without death is no life at all.
 
 Professor Hugo Munsterberg finds no value, so it seems to me, in 'such life as beginning with birth and ending with death.' He says:[FN#223] "My life as a causal system of physical and psychological processes, which lies spread out in time between the dates of my birth and of my death, will come to an end with my last breath; to continue it, to make it go on till the earth falls into the sun, or a billion times longer, would be without any value, as that kind of life which is nothing but the mechanical occurrence of physiological and psychological phenomena had as such no ultimate value for me or for you, or for anyone, at any time. But my real life, as a system of interrelated-will-attitudes, has nothing before or after because it is beyond time. It is independent of birth and death because it cannot be related to biological events; it is not born, and will not die; it is immortal; all possible thinkable time is enclosed in it; it is eternal."
-
-[FN#223] 'The Eternal Life,' p. 26.
 
 Professor Munsterberg tries to distinguish sharply life as the causal system of physiological and psychological processes, and life as a system of interrelated-will-attitudes, and denounces the former as fleeting and valueless, in order to prize the latter as eternal and of absolute value. How could he, however, succeed in his task unless he has two or three lives, as some animals are believed to have? Is it not one and the same life that is treated on the one hand by science as a system of physiological and psychological processes, and is conceived on the other by the Professor himself as a system of interrelated-will-attitudes? It is true that science treats of life as it is observed in time, space, and causality, and it estimates it of no value, since to estimate the value of things is no business of science. The same life observed as a system of interrelated-will-attitudes is independent of time, space, and causality as he affirms. One and the same life includes both phases, the difference being in the points of view of the observers.
 
@@ -173,8 +169,6 @@ Difficulties are no match for the optimist, who does not fly from them, but welc
 A Chinese monk, E Kwai by name, one day seated himself in a quiet place among hills and practised Dhyana. None was there to disturb the calm enjoyment of his meditation. The genius of the hill was so much stung by his envy that he made up his mind to break by surprise the mental serenity of the monk. Having supposed nothing ordinary would be effective, he appeared all on a sudden before the man, assuming the frightful form of a headless monster. E Kwai being disturbed not a whit, calmly eyed the monster, and observed with a smile: "Thou hast no head, monster! How happy thou shouldst be, for thou art in no danger of losing thy head, nor of suffering from headache!"
 
 Were we born headless, should we not be happy, as we have to suffer from no headache? Were we born eyeless, should we not be happy, as we are in no danger of suffering from eye disease? Ho Ki Ichi,[FN#228] a great blind scholar, was one evening giving a lecture, without knowing that the light had been put out by the wind. When his pupils requested him to stop for a moment, he remarked with a smile: "Why, how inconvenient are your eyes!" Where there is contentment, there is Paradise.
-
-[FN#228] Hanawa (1746-1821), who published Gun-sho-rui-zu in 1782.
 
 13. Do Thy Best and Leave the Rest to Providence.
 

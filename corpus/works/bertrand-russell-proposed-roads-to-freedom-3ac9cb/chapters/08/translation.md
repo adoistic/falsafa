@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 7759
+word_count: 7119
 source_url: "https://www.gutenberg.org/ebooks/690"
 translator: Project Gutenberg edition
 ---
@@ -41,8 +41,6 @@ There are two possible answers to that question, and I am sure that very many we
 Well and good! On that issue every Socialist is with them. But their answer to my question is none the less wrong.
 
 Poverty is the symptom: slavery the disease. The extremes of riches and destitution follow inevitably upon the extremes of license and bondage. The many are not enslaved because they are poor, they are poor because they are enslaved. Yet Socialists have all too often fixed their eyes upon the material misery of the poor without realizing that it rests upon the spiritual degradation of the slave.
-
-``Self-Government in Industry,'' G. Bell & Sons, 1917, pp. 110-111.
 
 I do not think any reasonable person can doubt that the evils of power in the present system are vastly greater than is necessary, nor that they might be immeasurably diminished by a suitable form of Socialism. A few fortunate people, it is true, are now enabled to live freely on rent or interest, and they could hardly have more liberty under another system. But the great bulk, not only of the very poor, but, of all sections of wage-earners and even of the professional classes, are the slaves of the need for getting money. Almost all are compelled to work so hard that they have little leisure for enjoyment or for pursuits outside their regular occupation. Those who are able to retire in later middle age are bored, because they have not learned how to fill their time when they are at liberty, and such interests as they once had apart from work have dried up. Yet these are the exceptionally fortunate: the majority have to work hard till old age, with the fear of destitution always before them, the richer ones dreading that they will be unable to give their children the education or the medical care that they consider desirable, the poorer ones often not far removed from starvation. And almost all who work have no voice in the direction of their work; throughout the hours of labor they are mere machines carrying out the will of a master. Work is usually done under disagreeable conditions, involving pain and physical hardship. The only motive to work is wages: the very idea that work might be a joy, like the work of the artist, is usually scouted as utterly Utopian.
 
@@ -116,17 +114,9 @@ Meantime, the world in which we exist has other aims. But it will pass away, bur
 
 INDEX
 
-Academy, Royal, 107 Africa, 149, 165 Agriculture, 90 ff. Alexander II, 43 Allemane, 60 America, xi, 31, 74 ff., 125, 140, 210 American Federation of Labor, 76 Anarchism, passim-- defined, 33 and law, 33, 51, 111 ff., 198 ff. and violence, 33, 52-4, 72, 121 ff. and distribution, 93 ff. and wages, 96 ff. anti-German, 46 attitude to syndicalism, 79 congress in Amsterdam, 79 Ants, 152 Army, private, 120, 123 Art, 109, 111, 138, 166 ff., 203 and appreciation, 169, 181-6 and commercialism, 181 and freedom, 182 Artists, 103 under State Socialism, 174 Asia, 149, 158, 210 Australia, 151 Authors, Guild of, 179 Autonomy, 133, 137, 160
-
 Backwoods, 133 Bakunin, x, 3649 biography, 3747 writings, 4749 and Marx, 38 ff., 59 n. and Pan-Slavism, 41, 45 and Dresden insurrection, 41 imprisonments, 41 anti-German, 45 and production, 50 Bebel, 66 Benbow, William, 71 n. Bergson, 68 Bernstein, 27-29, 56 Bevington, 53 Bismarck, 30 Books under Socialism, 178 Bornstedt, 39 Bourgeoisie, 11 Bourses du Travail, 54, 63 Boycott, 68 Briand, 72 Bright, 21 Brooks, John Graham, 75, 77n. Brousse, Paul, 60 Bureaucracy, 128, 174 Button-hooks, 182
 
-Cafiero, 48n. Capital, 6, 10, 18-25 Capitalism, 2, 202 and war, 139 ff.
-
-California, 181 Censor of plays, 107 Champion, 91 Charlton, Broughton, 19 Chewing-gum, 189 China, 137, 140 Christ, 187 Chuang Tzu, 33 Churches, 201 Civil Service, 128 Class war, xvi, 9 ff., 27, 29, 81, 66, 116 149 Clemenceau, 71 Cobden, 21 Cole, G. I). H., 89n., 63, 64n., 73, 76, 81n., 134, 190 Communism, 10 ff. anarchist, 1, 38ff., 60, 96n., 100n., 106n. Communist Manifesto, 5, 9-18, 114, 148 Competitiveness, 160 Concentration of Capital, Law of, 8, 23-5 Confederation General du Travail, 63-65, 71, 74 Conquest of Bread, The, 80, 87 Constantine, 108, 187 Creativeness, 186-7 Crime, 118 ff. Cultivation, intensive, 89 Cultures maraicheres, 91
-
 Darwin, 173 Deleon, 76 Democracy, 2, 30, 129 ff., 148, 167 Deutche Jahrbuscher, 38 Devolution, 200 Disarmament, 153 Disraeli, 30 Distribution, 99 ff. Dubois, Felix, 62 Duelling, 123
-
-Education, 169 ff., 189, 193, 196 Edward VI, 22 Empire Knouto-Germanique, 48 Engels, 3, 6, 17, 38 Envy, 160-169 Evils-- physical, 188, 207-11 of character, 188, ~2-07 of power, 188 ff. Evolution, 164
 
 Fabians, 67 Fear, 186, 203 Feudalism, 10 Fields, Factories and Workshops, 80, 87 ff. Finance and war, 140 Finland, 144 Fourier, 4n. Franco-Prussian War, 46, 86, 69 Franklin, 100n. Freedom, see Liberty
 
@@ -135,12 +125,6 @@ George, Lloyd, 186 German Communist League, 8 German Working Men's Association, 
 Haywood, 77 Hegel, 4 Herd instinct, xv Heubner, 41 History, materialistic interpretation of, 7 Hobson, J. A., 144 Hodgskin, 5n. Hulme, T. E., 29 Hypocrisy, 132
 
 Idleness, 103 ff. Independent Labor Party, 87 India, 188 Individual 138 Industrial Relations, American Commission on, 78 Industrial Workers of the World (I.W.W.), xi, 31, 74 International alliance of socialist democracy, 44 International fraternity, 43 International Working Men's Association, 6, 44 ff., 69 Internationalism, 148, 150
-
-Japan, 161 Jaures, 60 Jouhaux, 75 Joy of Life, 206
-
-Keats, 173 Knowledge, 168 Kropotkin, 36, 46, 80-61, 87 ff., 96n., 100n., 102, 106n., 116 ff., 179, 192 Kultur, 159
-
-Labor, integration of, 99 Labor Party, 57, 150 Lagardelle, 64 Law, 111 ff., 198 Levine, Louis, 69n., 60n. Liberal Party, 28, 30 Liberty, 111 ff., 192, 201 and syndicalism, 85 and anarchism, 108 and creative impulse, 169, 172-81 and art, 182-3, 204 and human relations, 204
 
 Liquor Traffic, 137 Livre, Federation du, 178 Lunatics, 119 Lynching, 122
 
@@ -154,18 +138,6 @@ Pellico, Silvio, 42 Pelloutier, 54, 63 Permeation, 57 Persia, 158 Plato, vii Poe
 
 Rarachol, 53
 
-Ravenstone, Piercy, 6n. Reclue, Elisee, 48n. Revisionism, 27, 66 Revolution-- French, 7 Russian, 18, 67, 148, 164 Social, 6, 17, 70, 113, 148, 164, 164 of 1848, 3, 6, 40 Ruge, 38
-
-Sabotage, 66 Saint-Simon, 4n. Sand, George, 38, 41 Sarajevo, 32 Scholarships, 170, 197 Science, 86, 109, 138 166 ff., 189, 207 men of, 207 Self-interest, 125 Sharing, free, 96 ff., 195 Shelley, 173 Single Tax, 82 Slavery, 190 Socialism, passim-- defined, 1 English, 5 French, 4, 59 German, 66 evolutionary, 27 State, 67, 107, 115, 128, 170, 174, 202, 208 and distribution, 93 ff. and art and science, 164 ff. 203 Guild, see Guild Socialism Socialist Labor Party, 76 Socialist Revolutionaries, Alliance of, 43 Socialists, Inter-Allied, 156 Sorel, 29, 67 Spinoza, 120 State, x, xi, 1, 16, 30, 48, 60, 68, 78, 82-4, 107 ff., 138, 146 Strikes, 66, 67, 70, 78 ff., 130 Syndicalism, passim-- and Marx, 28, 116 and party, 30 and liberty, 85 and political action, 30, 69 129 ff. and anarchism, x, 66, 72, in France, 58 ff. in Italy, 58n. reformist and revolutionary, 62 and class-war, 65, 116 and general strike, 67, 69, 130 and the State, 68, 116 and Guild Socialism, 81n., 134 Syndicalist Railwayman, 69 Syndicates, 65
-
 Tariffs, 137 Technical Training, 169 ff., 197 Theft, 121 Thompson, William, 5n. Tolstoy, 32
 
-Trade Unionism, x, 13, 62 industrial, 31, 74 ff. craft, 73 Trusts, 75, 141
-
-Utopias, vii, $, 200
-
 Vagabond's wage, 177, 193, 208, 212 Villeneuves Saint Georges, 71 Violence, crimes of, 121, 122, 199 Violence, Reflections on, 29 Viviani, 60 Volkstimme, 27n. Volunteers, 121
-
-Wages, 9, 78, 9$ ff., 199 iron law of, 26 and art and science, 168 ff. Wagner, Richard, 41 Waldeck-Rousseau, 61, 63 Walkley, Mary Anne, 90 War-- avoidance of, 139 ff., 199 and capitalism, 139 ff. and the Press 143 ff. Women-- votes for, 155 economic independence of, 196 Work-- and wages, 93 ff., 194 hours of, 102, 193, 209 can it be made pleasant? 100, 193, 904
-
-Yellow races, 151, 210

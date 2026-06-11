@@ -13,14 +13,10 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6610
+word_count: 6594
 source_url: "https://www.gutenberg.org/ebooks/18188"
 translator: Project Gutenberg edition
 ---
-
-Produced by Thierry Alberto, Robert Ledger and the Online Distributed Proofreading Team at http://www.pgdp.net
-
-[Transcriber's Note:
 
 This lecture was taken from Volume III of _The Complete Works of Friedrich Nietzsche_, Dr. Oscar Levy, Ed., J. M. Kennedy, Translator, 1910]
 

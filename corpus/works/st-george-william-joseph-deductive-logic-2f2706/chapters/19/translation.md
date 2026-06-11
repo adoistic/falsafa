@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8135
+word_count: 7918
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -60,11 +60,7 @@ All virtue is praiseworthy, for it promotes the general welfare. Generosity is a
 
 § 805. An epicheirema, it will be seen, consists of one syllogism fully expressed together with one, or, it may be, two enthymemes (§ 557). In the above instance, if the reasoning which supports the premisses were set forth at full length, we should have, in place of the enthymemes, the two following pro-syllogisms--
 
-(i) All E is A. All B is E. .'. All B is A.
-
 Whatever promotes the general welfare is praiseworthy. Every virtue promotes the general welfare. .'. Every virtue is praiseworthy.
-
-(2) All F is B. All C is F. .'. All C is B.
 
 Whatever prompts men to postpone self to others is a virtue. Generosity prompts men to postpone self to others. .'. Generosity is a virtue.
 
@@ -116,15 +112,7 @@ All D is E. All C is D. All B is C. All A is B. .'. All A is E.
 
 *Progressive Sorites*. (i) All B is C. All A is B. .'. All A is C.
 
-(2) All C is D. All A is C. .'. All A is D.
-
-(3) All D is E. All A is D. .'. All A is E.
-
 *Regressive Sorites*. (1) All D is E. All C is D. .'. All C is E.
-
-(2) All C is E. All B is C. .'. All B is E.
-
-(3) All B is E. All A is B. .'. All A is E.
 
 § 815. Here is a concrete example of the two kinds of sorites, resolved each into its component syllogisms--
 
@@ -192,15 +180,7 @@ All B is A. All C is B. Some C is D. All D is E .'. Some A is E
 
 (1) Barbara. All B is C. All A is B. All A is C.
 
-All A is B. All B is C. No D is C. All E is D. .'. No A is E.
-
-(2) Cesare. No D is C. All A is C. .'. No A is D.
-
-(3) Camestres. All E is D. No A is D. .'. No A is E.
-
 § 826. A chain argument may be composed consisting of conjunctive instead of simple propositions. This is subject to the same laws as the simple sorites, to which it is immediately reducible.
-
-*Progressive.* *Regressive.* If A is B, C is D. If E is F, G is H. If C is D, E is F. If C is D, E is F. If E is F, G is H. If A is B, C is D. .'. If A is B, G is H. .'. If A is B, G is H.
 
 CHAPTER XXX.
 
@@ -429,10 +409,6 @@ Lastly, if one were to take for granted one of a pair of necessary consequences,
 § 881. The fifth rests on Immediate Inference by Relation (§ 534).
 
 § 882. Under the head of petitio principii comes the fallacy of Arguing in a Circle, which is incidental to a train of reasoning. In its most compressed form it may be represented thus--
-
-(1) B is A. C is B. .'. C is A.
-
-(2) C is A. B is C. .'. B is A.
 
 § 883. The Fallacy of Non causa pro causa ([Greek: tò mè aîtion] or [Greek: aîtoin]) is another, the name of which has led to a complete misinterpretation. It consists in importing a contradiction into the discussion, and then fathering it on the position controverted. Such arguments, says Aristotle, often impose upon the users of them themselves. The instance he gives is too recondite to be of general interest.
 

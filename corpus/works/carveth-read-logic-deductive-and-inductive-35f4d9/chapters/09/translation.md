@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 4096
+word_count: 4056
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -21,8 +21,6 @@ translator: Project Gutenberg edition
 FORMAL CONDITIONS OF MEDIATE INFERENCE
 
 § 1. A Mediate Inference is a proposition that depends for proof upon two or more other propositions, so connected together by one or more terms (which the evidentiary propositions, or each pair of them, have in common) as to justify a certain conclusion, namely, the proposition in question. The type or (more properly) the unit of all such modes of proof, when of a strictly logical kind, is the Syllogism, to which we shall see that all other modes are reducible. It may be exhibited symbolically thus:
-
-M is P; S is M: .'. S is P.
 
 Syllogisms may be classified, as to quantity, into Universal or Particular, according to the quantity of the conclusion; as to quality, into Affirmative or Negative, according to the quality of the conclusion; and, as to relation, into Categorical, Hypothetical and Disjunctive, according as all their propositions are categorical, or one (at least) of their evidentiary propositions is a hypothetical or a disjunctive.
 
@@ -146,8 +144,6 @@ If one premise be negative, the two premises together can distribute only two te
 
 For the minor premise being negative, the major premise must be affirmative (5th Canon); and therefore, being particular, distributes the major term neither in its subject nor in its predicate. But since the conclusion must be negative (6th Canon), a distributed major term is demanded, e.g.,
 
-Some M is P; No S is M: .'. ------
-
 Here the minor and the middle terms are both distributed, but not the major (P); and, therefore, a negative conclusion is impossible.
 
 § 3. First Principle or Axiom of the Syllogism.--Hitherto in this chapter we have been analysing the conditions of valid mediate inference. We have seen that a single step of such inference, a Syllogism, contains, when fully expressed in language, three propositions and three terms, and that these terms must stand to one another in the relations required by the fourth, fifth, and sixth Canons. We now come to a principle which conveniently sums up these conditions; it is called the *Dictum de omni et nullo*, and may be stated thus:
@@ -194,13 +190,9 @@ The fact is that to prove the minor to be a case of the middle term may be an ex
 
 § 5. Other kinds of Mediate Inference exist, yielding valid conclusions, without being truly syllogistic. Such are mathematical inferences of Equality, as--
 
-A = B = C .'. A = C.
-
 Here, according to the usual logical analysis, there are strictly four terms--(1) A, (2) equal to B, (3) B, (4) equal to C.
 
 Similarly with the argument *a fortiori*,
-
-A > B > C .'. (much more) A > C.
 
 This also is said to contain four terms: (1) A, (2) greater than B, (3) B, (4) greater than C. Such inferences are nevertheless intuitively sound, may be verified by trial (within the limits of sense-perception), and are generalised in appropriate axioms of their own, corresponding to the *Dictum* of the syllogism; as 'Things equal to the same thing are equal to one another,' etc.
 

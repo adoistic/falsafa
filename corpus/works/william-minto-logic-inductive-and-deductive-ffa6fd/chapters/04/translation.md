@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 17036
+word_count: 16918
 source_url: "https://www.gutenberg.org/ebooks/31796"
 translator: Project Gutenberg edition
 ---
@@ -232,11 +232,7 @@ III.--THE SORITES.
 
 A chain of Syllogisms is called a Sorites. Thus:--
 
-All A is in B. All B is in C. All C is in D. : : : : All X is in Z. [.'.] All A is in Z.
-
 A Minor Premiss can thus be carried through a series of Universal Propositions each serving in turn as a Major to yield a conclusion which can be syllogised with the next. Obviously a Sorites may contain one particular premiss, provided it is the first; and one universal negative premiss, provided it is the last. A particular or a negative at any other point in the chain is an insuperable bar.
-
-(Anal. Prior., i. 4.)]
 
 CHAPTER III.
 
@@ -360,8 +356,6 @@ I. In the First Figure, the Major Premiss must be Universal, and the Minor Premi
 
 To make this evident by the Canons, we bear in mind the Scheme or Figure--
 
-M in P S in M--
-
 and try the alternatives of Affirmative Moods and Negative Moods. Obviously in an affirmative mood the Middle is undistributed unless the Major Premiss is Universal. In a negative mood, (1) If the Major Premiss is O, the Minor must be affirmative, and M is undistributed; (2) if the Major Premiss is I, M may be distributed by a negative Minor Premiss, but in that case there would be an illicit process of the Major--P being distributed in the conclusion (Canon V.) and not in the Premisses. Thus the Major Premiss can neither be O nor I, and must therefore be either A or E, *i.e.*, must be Universal.
 
 That the Minor must be affirmative is evident, for if it were negative, the conclusion must be negative (Canon V.) and the Major Premiss must be affirmative (Canon IV.), and this would involve illicit process of the Major, P being distributed in the conclusion and not in the Premisses.
@@ -375,8 +369,6 @@ Special Rule I. wipes out the columns on the right with the particular major pre
 II. In the Second Figure, only Negative Moods are possible, and the Major Premiss must be universal.
 
 Only Negative moods are possible, for unless one premiss is negative, M being the predicate term in both--
-
-P in M S in M--
 
 is undistributed.
 
@@ -636,8 +628,6 @@ The justification of including these forms of argument in Logic is simply that t
 
 I.--HYPOTHETICAL SYLLOGISMS.
 
-If A is B, C is D | A is B } MODUS [.'.]C is D | PONENS.
-
 If A is B, C is D | C is not D } MODUS [.'.]A is not B | TOLLENS.
 
 A so-called Hypothetical Syllogism is thus seen to be a Syllogism in which the major premiss is a HYPOTHETICAL PROPOSITION, that is to say, a complex proposition in which two propositions are given as so related that the truth of one follows necessarily from the truth of the other.
@@ -711,8 +701,6 @@ II.--DISJUNCTIVE SYLLOGISMS.
 A Disjunctive Syllogism is a syllogism in which the Major Premiss is a DISJUNCTIVE PROPOSITION, *i.e.*, one in which two propositions are declared to be mutually incompatible. It is of the form Either A is B, or C is D.
 
 If the disjunction between the alternatives is really complete, the form implies four hypothetical propositions:--
-
-(1) If A is B, C is not D. (2) If A is not B, C is D. (3) If C is D, A is not B. (4) If C is not D, A is B.
 
 Suppose then that an antagonist has granted you a Disjunctive Proposition, you can, using this as a Major Premiss, extract from him four different Conclusions, if you can get him also to admit the requisite Minors. The Mode of two of these is technically called MODUS PONENDO TOLLENS, the mode that denies the one alternative by granting the other--A is B, *therefore* C is not D; C is D, *therefore* A is not B. The other Mode is also twice open, the MODUS TOLLENDO PONENS--A is not B, *therefore* C is D; C is not D, *therefore* A is B.
 
@@ -828,8 +816,6 @@ For simplicity of exposition, let us assume that the Tortoise has 100 yards star
 
 But the conclusion is only a confusion of ideas: all that is really proved is that Achilles will not overtake the Tortoise while running
 
-100 + 10 + 1 + 1/10 + 1/100 + 1/1000 + 1/10000, etc.
-
 That is, that he will not overtake it till he has completed the sum of this series, 111-1/9 yards. To prove this is an *ignoratio elenchi*; what the Sophist undertakes to prove is that Achilles will never overtake it, and he really proves that Achilles passes it between the 111th and 112th yards.
 
 The exposure of this sophism is an example also of the value of a technical term. All attempts to expose it without using the term *Ignoratio Elenchi* or something equivalent to it, succeed only in bewildering the student. It is customary to say that the root of the fallacy lies in assuming that the sum of an infinite series is equal to infinity. This profound error may be implied: but if any assumption so hard to understand were really required, the fallacy would have little force with the generality.
@@ -869,5 +855,3 @@ This, that and the other S is P, *Major*. This, that and the other S is all M, *
 This, that and the other S being simply convertible with All M, you have only to make this conversion and you have a syllogism in Barbara where this, that and the other S figures as the Middle Term.
 
 The practical value of this tortuous expression is not obvious. Mediaeval logicians shortened it into what was known as the Inductive Enthymeme: "This, that and the other, therefore all," an obvious conclusion when this, that and the other constitute all. It is merely an evidence of the great master's intoxication with his grand invention. It is a proof also that Aristotle really looked at Induction from the point of view of Interrogative Dialectic. His question was, When is a Respondent bound to admit a general conclusion? And his answer was, When he has admitted a certain number of particulars, and cannot deny that those particulars constitute the whole whose predicate is in dispute. He was not concerned primarily with the analysis of the steps of an inquirer generalising from Nature.
-
-(An. Prior., ii. 23.)]

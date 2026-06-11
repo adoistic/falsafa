@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3362
+word_count: 3356
 source_url: "https://www.gutenberg.org/ebooks/31796"
 translator: Project Gutenberg edition
 ---
@@ -35,8 +35,6 @@ Hotspur's retort to Glendower showed a sound sense of the true value to be attac
 *Glendower*. At my nativity The front of heaven was full of fiery shapes, Of burning cressets: and at my birth The frame and huge foundation of the earth Shaked like a coward.
 
 *Hotspur*. Why so it would have done at the same season, if your mother's cat had but kittened, though yourself had never been born.
-
-1 Hen. IV., 3, 1, 13.
 
 We all admit at once that the retort was just. What principle of sound conclusion was involved in it? It is the business of Inductive Logic to make such principles explicit.
 

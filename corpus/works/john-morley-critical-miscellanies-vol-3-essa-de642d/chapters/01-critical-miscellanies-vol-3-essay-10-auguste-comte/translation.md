@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 12245
+word_count: 12230
 source_url: "https://www.gutenberg.org/ebooks/29033"
 translator: Project Gutenberg edition
 ---
@@ -118,10 +118,6 @@ THE END.
 
 *Printed by* R. & R. CLARK, LIMITED, *Edinburgh*.
 
-Transcriber's Notes:
-
 The transcriber made the following changes to the text to correct obvious errors:
 
 1. p. 347, "delighful" changed to "delightful" 2. p. 382, "'Superior in power of ..." no ending single quote
-
-End of Project Gutenberg's Critical Miscellanies (Vol. 3 of 3), by John Morley

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3203
+word_count: 2972
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -26,8 +26,6 @@ A Hypothetical Syllogism is one that consists of a Hypothetical Major Premise, a
 
 (1) *Modus ponens*, or Constructive.
 
-If A is B, C is D; A is B: .'. C is D.
-
 If Aristotle's reasoning is conclusive, Plato's theory of Ideas is erroneous;
 
 Aristotle's reasoning is conclusive: .'. Plato's theory of Ideas is erroneous.
@@ -35,8 +33,6 @@ Aristotle's reasoning is conclusive: .'. Plato's theory of Ideas is erroneous.
 Rule of the *Modus ponens*: The antecedent of the major premise being affirmed in the minor premise, the consequent is also affirmed in the conclusion.
 
 (2) *Modus tollens*, or Destructive.
-
-If A is B, C is D; C is not D: .'. A is not B.
 
 If Pythagoras is to be trusted, Justice is a number; Justice is not a number: .'. Pythagoras is not to be trusted.
 
@@ -46,17 +42,11 @@ By using negative major premises two other forms are obtainable: then, either by
 
 Thus (*Modus ponens*): (*Modus tollens*):
 
-If A is B, C is not D; If A is B, C is not D; A is B: C is D: .'. C is not D. .'. A is not B.
-
 Further, since the antecedent of the major premise, taken by itself, may be negative, it seems possible to obtain four more forms, two in each Mood, from the following major premises:
-
-(1) If A is not B, C is D; (2) If A is not B, C is not D.
 
 But since the quality of a Hypothetical Proposition is determined by the quality of its consequent, not at all by the quality of its antecedent, we cannot get from these two major premises any really new Moods, that is to say, Moods exhibiting any formal difference from the four previously expounded.
 
 It is obvious that, given the hypothetical major premise--
-
-If A is B, C is D--
 
 we cannot, by denying the antecedent, infer a denial of the consequent. That A is B, is a mark of C being D; but we are not told that it is the sole and indispensable condition of it. If men read good books, they acquire knowledge; but they may acquire knowledge by other means, as by observation. For the same reason, we cannot by affirming the consequent infer the affirmation of the antecedent: Caius may have acquired knowledge; but we cannot thence conclude that he has read good books.
 
@@ -86,8 +76,6 @@ By thus reducing the Hypothetical Syllogism to the Categorical form, what is los
 
 The mediate element of the inference in a Hypothetical Syllogism consists in asserting, or denying, the fulfilment of a given condition; just as in a Categorical syllogism to identify the minor term with the Middle is a condition of the major term's being predicated of it. In the hypothetical proposition--
 
-If A is B, C is D--
-
 the Antecedent, *A is B*, is the *conditio sufficiens*, or mark, of the Consequent, *C is D*; and therefore the Consequent, *C is D*, is a *conditio sine qua non* of the antecedent, *A is B*; and it is by means of affirming the former condition, or else denying the latter, that a conclusion is rendered possible.
 
 Indeed, we need not say that the element of mediation consists in affirming, *or denying*, the fulfilment of a given condition: it is enough to say 'in affirming.' For thus to explain the *Modus tollens*, reduce it to the *Modus ponens* (contrapositing the major premise and obverting the minor):
@@ -97,8 +85,6 @@ Celarent.
 If A is B, C is D: The case of C being not-D is .'. If C is not-D, A is not B; not a case of A being B; C is not-D: This is a case of C being .'. A is not B. not-D: .'. This is not a case of A being B.
 
 The above four forms commonly treated of as Hypothetical Syllogisms, are called by Ueberweg and Dr. Keynes 'Hypothetico-Categorical.' Ueberweg restricts the name 'Hypothetical' simply (and Dr. Keynes the name 'Conditional') to such Syllogisms as the following, having two Hypothetical Premises:
-
-If C is D, E is F; If A is B, C is D: .'. If A is B, E is F.
 
 If we recognise particular hypothetical propositions (see chap. v. § 4), it is obvious that such Syllogisms may be constructed in all the Moods and Figures of the Categorical Syllogism; and of course they may be translated into Categoricals. We often reason in this hypothetical way. For example:
 
@@ -113,8 +99,6 @@ How many Moods are to be recognised in this kind of argument depends on whether 
 When the alternatives of the Disjunctive are not exclusive, we have only the
 
 *Modus tollendo ponens.*
-
-Either A is B, or C is D; A is not B (or C is not D): .'. C is D (or A is B).
 
 Either wages fall, or the weaker hands are dismissed;
 
@@ -132,8 +116,6 @@ When, however, the alternatives of the Disjunctive are mutually exclusive, we ha
 
 *Modus ponendo tollens.*
 
-Either A is B, or C is D; A is B (or C is D): .'. C is not D (or A is not B).
-
 Either the Tories or the Whigs win the election;
 
 The Tories win: .'. The Whigs do not win.
@@ -150,13 +132,9 @@ Since a disjunctive proposition may be turned into a hypothetical proposition (c
 
 *Modus tollendo ponens.* *Modus ponens.*
 
-Either A is B, or C is D; If A is not B, C is D; A is not B: A is not B: .'. C is D. .'. C is D.
-
 Similarly the *Modus ponendo tollens* is equivalent to that kind of *Modus ponens* which may be formed with a negative major premise; for if the alternatives of a disjunctive proposition be exclusive, the corresponding hypothetical be affirmative or negative:
 
 *Modus ponendo tollens.* *Modus ponens.*
-
-Either A is B, or C is D; If A is B, C is not D; A is B: A is B: .'. C is not D. .'. C is not D.
 
 Hence, finally, a Disjunctive Syllogism being equivalent to a Hypothetical, and a Hypothetical to a Categorical; a Disjunctive Syllogism is equivalent and reducible to a Categorical. It is a form of Mediate Inference in the same sense as the Hypothetical Syllogism is; that is to say, the conclusion depends upon an affirmation, or denial, of the fulfilment of a condition implied in the disjunctive major premise.
 

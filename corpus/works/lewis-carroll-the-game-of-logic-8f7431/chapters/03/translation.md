@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3508
+word_count: 2379
 source_url: "https://www.gutenberg.org/ebooks/4763"
 translator: Project Gutenberg edition
 ---
@@ -40,8 +40,6 @@ A Proposition, stating that NONE of the Things belonging to its Subject, or that
 
 7. The Things in each compartment possess TWO Attributes, whose symbols will be found written on two of the EDGES of that compartment.
 
-8. "One or more."
-
 9. As a name of the class of Things to which the whole Diagram is assigned.
 
 10. A Proposition containing two statements. For example, "some new Cakes are nice and some are not-nice."
@@ -49,8 +47,6 @@ A Proposition, stating that NONE of the Things belonging to its Subject, or that
 11. When the whole class, thus divided, is "exhausted" among the sets into which it is divided, there being no member of it which does not belong to some one of them. For example, the class "new Cakes" is "exhaustively" divided into "nice" and "not-nice" since EVERY new Cake must be one or the other.
 
 12. When a man cannot make up his mind which of two parties he will join, he is said to be "sitting on the fence"--not being able to decide on which side he will jump down.
-
-13. "Some x are y" and "no x are y'".
 
 14. A Proposition, whose Subject is a single Thing, is called 'Individual'. For example, "I am happy", "John is not at home". These are Universal Propositions, being the same as "all the I's that exist are happy", "ALL the Johns, that I am now considering, are not at home".
 
@@ -94,37 +90,13 @@ Propositions represented.
 
 ------- | | | 7. | 1 | 1 | It might be thought that the proper | | | ------- ------- | | | Diagram would be | 1 1 |, in order to express "some | | | ------- x exist": but this is really contained in "some x are y'." To put a red counter on the division-line would only tell us "ONE OF THE compartments is occupied", which we know already, in knowing that ONE is occupied. ------- | | | 8. No x are y. i.e. | 0 | | | | | -------
 
-------- | | | 9. Some x are y'. i.e. | | 1 | | | | -------
-
-------- | | | 10. All x are y. i.e. | 1 | 0 | | | | -------
-
-------- | | | 11. Some x are y. i.e. | 1 | | | | | -------
-
-------- | | | 12. No x are y. i.e. | 0 | | | | | -------
-
-------- | | | 13. Some x are y, and some are y'. i.e. | 1 | 1 | | | | -------
-
-------- | | | 14. All x are y'. i.e. | 0 | 1 | | | | ------- --- | | 15. No y are x'. i.e. |---| | 0 | ---
-
---- | 1 | 16. All y are x. i.e. |---| | 0 | ---
-
---- | 0 | 17. No y exist. i.e. |---| | 0 | ---
-
---- | | 18. Some y are x'. i.e. |---| | 1 | ---
-
---- | | 15. Some y exist. i.e. |-1-| | | ---
-
 3. Half of Smaller Diagram.
 
 Symbols interpreted.
 
-1. No x are y'.
-
 2. No x exist.
 
 3. Some x exist.
-
-4. All x are y'.
 
 5. Some x are y. i.e. Some good riddles are hard.
 
@@ -153,26 +125,6 @@ Symbols interpreted.
 4. Smaller Diagram.
 
 Propositions represented.
-
-------- | | | 13. No x' are y. i.e. |---|---| | 0 | | -------
-
-------- | | 0 | 14. All y' are x'. i.e. |---|---| | | 1 | -------
-
-------- | | | 15. Some y' exist. i.e. |---|-1-| | | | -------
-
-------- | 1 | 0 | 16. All y are x, and all x are y. i.e. |---|---| | 0 | | ------- ------- | | | 17. No x' exist. i.e. |---|---| | 0 | 0 | -------
-
-------- | 0 | 1 | 18. All x are y'. i.e. |---|---| | | | -------
-
-------- | 0 | | 19. No x are y. i.e. |---|---| | | | -------
-
-------- | | | 20. Some x' are y, and some are y'. i.e. |---|---| | 1 | 1 | -------
-
-------- | 0 | 1 | 21. No y exist, and some x exist. i.e. |---|---| | 0 | | -------
-
-------- | | 1 | 22. All x' are y, and all y' are x. i.e. |---|---| | 1 | 0 | -------
-
-------- | 1 | | 17. Some x are y, and some x' are y'. i.e. |---|---| | | 1 | -------
 
 5. Smaller Diagram.
 
@@ -214,28 +166,6 @@ Symbols interpreted.
 
 Propositions represented.
 
---------------- | | | | ---|--- | | | 0 | 0 | | 9. No x are m. i.e. |---|---|---|---| | | 0 | | | | ---|--- | | | | ---------------
-
---------------- | | | | ---|--- | | | | | | 10. Some m' are y. i.e. |-1-|---|---|---| | | | | | | ---|--- | | | | ---------------
-
---------------- | | | | ---|--- | | | | 0 | | 11. All y' are m'. i.e. |---|---|---|-1-| | | | 0 | | | ---|--- | | | | ---------------
-
---------------- | | | | ---|--- | | | 0 | 0 | | 12. All m are x'. i.e. |---|---|---|---| | | 1 | | | ---|--- | | | | ---------------
-
---------------- | 0 | | | ---|--- | | | 0 | 0 | | 13. No x are m; i.e. |---|---|---|---| All y are m. | | 1 | | | | ---|--- | | 0 | | ---------------
-
---------------- | 0 | 0 | | ---|--- | | | | | | 14. All m' are y; i.e. |---|---|---|---| No x are m'. | | | | | | ---|--- | | 1 | 0 | ---------------
-
---------------- | 0 | 0 | | ---|--- | | | 1 | 0 | | 15. All x are m; i.e. |---|---|---|---| No m are y'. | | | 0 | | | ---|--- | | | | ---------------
-
---------------- | 0 | 0 | | ---|--- | | | | | | 16. All m' are y'; i.e. |---|---|---|---| No x are m'. | | | | | | ---|--- | | 0 | 1 | ---------------
-
---------------- | 0 | 0 | | ---|--- | | | 1 | 0 | | 17. All x are m; i.e. |---|---|---|---| All m are y. | | | 0 | | | ---|--- | [See remarks on No. 7, p. 60.] | | | ---------------
-
---------------- | 0 | | | ---|--- | | | | | | 18. No x' are m; i.e. |---|---|---|---| No m' are y. | | 0 | 0 | | | ---|--- | | 0 | | ---------------
-
---------------- | | | | ---|--- | | | 1 | 0 | | 19. All m are x; i.e. |---|---|---|---| All m are y. | | 0 | 0 | | | ---|--- | | | | ---------------
-
 20. We had better take "persons" as Universe. We may choose "myself" as 'Middle Term', in which case the Premisses will take the form
 
 I am a-person-who-sent-him-to-bring-a-kitten; I am a-person-to-whom-he-brought-a-kettle-by-mistake.
@@ -249,30 +179,6 @@ The latter form seems best, as the interest of the anecdote clearly depends on H
 Hence, All m are x; All m are y. and the required Diagram is
 
 7. Both Diagrams employed.
-
-------- | 0 | | 1. |---|---| i.e. All y are x'. | 1 | | -------
-
-------- | | 1 | 2. |---|---| i.e. Some x are y'; or, Some y' are x. | | | -------
-
-------- | | | 3. |---|---| i.e. Some y are x'; or, Some x' are y. | 1 | | -------
-
-------- | | | 4. |---|---| i.e. No x' are y'; or, No y' are x'. | | 0 | -------
-
-------- | 0 | | 5. |---|---| i.e. All y are x'. i.e. All black rabbits | 1 | | are young. -------
-
-------- | | | 6. |---|---| i.e. Some y are x'. i.e. Some black | 1 | | rabbits are young. -------
-
-------- | 1 | 0 | 7. |---|---| i.e. All x are y. i.e. All well-fed birds | | | are happy. -------
-
-------- | | | i.e. Some x' are y'. i.e. Some birds, 8. |---|---| that are not well-fed, are unhappy; | | 1 | or, Some unhappy birds are not ------- well-fed.
-
-------- | 1 | 0 | 9. |---|---| i.e. All x are y. i.e. John has got a | | | tooth-ache. -------
-
-------- | | | 10. |---|---| i.e. No x' are y. i.e. No one, but John, | 0 | | has got a tooth-ache. -------
-
-------- | 1 | | 11. |---|---| i.e. Some x are y. i.e. Some one, who | | | has taken a walk, feels better. -------
-
-------- | 1 | | i.e. Some x are y. i.e. Some one, 12. |---|---| whom I sent to bring me a kitten, | | | brought me a kettle by mistake. -------
 
 Let "books" be Universe; m="exciting", x="that suit feverish patients"; y="that make one drowsy".
 
@@ -329,8 +235,6 @@ Let "things" be Universe; m="medicine"; x="nasty"; y="senna".
 All m are x; &there4 All y are x. All y are m.
 
 i.e. Senna is nasty.
-
-[See remarks on No. 7, p 60.]
 
 Let "persons" be Universe; m="Jews"; x="rich"; y="Patagonians".
 
@@ -403,5 +307,3 @@ Let "people" be Universe; m="passionate"; x="reasonable"; y="orators".
 All m are x'; &there4 Some y are x'. Some y are m.
 
 i.e. Some orators are unreasonable.
-
-[See remarks on No. 7, p. 60.]

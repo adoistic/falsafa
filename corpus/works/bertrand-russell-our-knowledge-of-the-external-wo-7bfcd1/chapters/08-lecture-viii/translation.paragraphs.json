@@ -335,1043 +335,513 @@
     "text": "INDEX"
   },
   {
-    "id": "p-f1d120",
-    "offset": 58004,
-    "text": "Absolute, 6, 39."
-  },
-  {
     "id": "p-6e1770",
-    "offset": 58022,
+    "offset": 58004,
     "text": "Abstraction, principle of, 42, 124 ff."
   },
   {
     "id": "p-670cda",
-    "offset": 58062,
+    "offset": 58044,
     "text": "Achilles, Zeno's argument of, 173."
   },
   {
-    "id": "p-d034cb",
-    "offset": 58098,
-    "text": "Acquaintance, 25, 144."
-  },
-  {
     "id": "p-4642d2",
-    "offset": 58122,
+    "offset": 58080,
     "text": "Activity, 224 ff."
   },
   {
-    "id": "p-b8fd95",
-    "offset": 58141,
-    "text": "Allman, 161 n."
-  },
-  {
-    "id": "p-bd0172",
-    "offset": 58157,
-    "text": "Analysis, 185, 204, 211, 241. legitimacy of, 150."
-  },
-  {
     "id": "p-73b3a3",
-    "offset": 58208,
+    "offset": 58099,
     "text": "Anaximander, 3."
   },
   {
     "id": "p-3e93d3",
-    "offset": 58225,
+    "offset": 58116,
     "text": "Antinomies, Kant's, 155 ff."
   },
   {
     "id": "p-2bb66c",
-    "offset": 58254,
+    "offset": 58145,
     "text": "Aquinas, 10."
   },
   {
-    "id": "p-ddf93b",
-    "offset": 58268,
-    "text": "Aristotle, 40, 160 n., 161 ff., 240."
-  },
-  {
     "id": "p-ab0bd6",
-    "offset": 58306,
+    "offset": 58159,
     "text": "Arrow, Zeno's argument of, 173."
   },
   {
     "id": "p-08ee97",
-    "offset": 58339,
+    "offset": 58192,
     "text": "Assertion, 52."
   },
   {
     "id": "p-48fa3c",
-    "offset": 58355,
+    "offset": 58208,
     "text": "Atomism, logical, 4."
   },
   {
     "id": "p-8339d8",
-    "offset": 58377,
+    "offset": 58230,
     "text": "Atomists, 160."
   },
   {
     "id": "p-397103",
-    "offset": 58393,
+    "offset": 58246,
     "text": "Belief, 58. primitive and derivative, 69 ff."
   },
   {
-    "id": "p-fcdfed",
-    "offset": 58439,
-    "text": "Bergson, 4, 11, 13, 20 ff., 137, 138, 150, 158, 165, 174, 178, 229 ff."
-  },
-  {
-    "id": "p-f056a4",
-    "offset": 58511,
-    "text": "Berkeley, 63, 64, 102."
-  },
-  {
-    "id": "p-128767",
-    "offset": 58535,
-    "text": "Bolzano, 165."
-  },
-  {
-    "id": "p-411130",
-    "offset": 58550,
-    "text": "Boole, 40."
-  },
-  {
-    "id": "p-614887",
-    "offset": 58562,
-    "text": "Bradley, 6, 39, 165."
-  },
-  {
-    "id": "p-94b3b5",
-    "offset": 58584,
-    "text": "Broad, 172 n."
-  },
-  {
     "id": "p-4a568f",
-    "offset": 58599,
+    "offset": 58292,
     "text": "Brochard, 169 n."
   },
   {
-    "id": "p-e4cc0d",
-    "offset": 58617,
-    "text": "Burnet, 19 n., 160 n., 161 n., 170 n., 171 ff."
-  },
-  {
     "id": "p-2114e5",
-    "offset": 58665,
+    "offset": 58310,
     "text": "Calderon, 95."
   },
   {
-    "id": "p-fa579f",
-    "offset": 58680,
-    "text": "Cantor, vi, vii, 155, 165, 190, 194, 199."
-  },
-  {
     "id": "p-f05b9c",
-    "offset": 58723,
+    "offset": 58325,
     "text": "Categories, 38."
   },
   {
     "id": "p-bc84ff",
-    "offset": 58740,
+    "offset": 58342,
     "text": "Causal laws, 109, 212 ff. evidence for, 216 ff. in psychology, 219."
   },
   {
-    "id": "p-cc2a53",
-    "offset": 58809,
-    "text": "Causation, 34 ff., 79, 212 ff. law of, 221. not *a priori*, 223, 232."
-  },
-  {
-    "id": "p-93b225",
-    "offset": 58880,
-    "text": "Cause, 220, 223."
-  },
-  {
-    "id": "p-6be5e9",
-    "offset": 58898,
-    "text": "Certainty, degrees of, 67, 68, 212."
-  },
-  {
     "id": "p-7c6c3f",
-    "offset": 58935,
+    "offset": 58411,
     "text": "Change, demands analysis, 151."
   },
   {
-    "id": "p-a4092c",
-    "offset": 58967,
-    "text": "Cinematograph, 148, 174."
-  },
-  {
     "id": "p-b5f92d",
-    "offset": 58993,
+    "offset": 58443,
     "text": "Classes, 202. non-existence of, 205 ff."
   },
   {
     "id": "p-c37da8",
-    "offset": 59034,
+    "offset": 58484,
     "text": "Classical tradition, 3 ff., 58."
   },
   {
-    "id": "p-7ddf26",
-    "offset": 59067,
-    "text": "Complexity, 145, 157 ff."
-  },
-  {
-    "id": "p-ee697f",
-    "offset": 59093,
-    "text": "Compulsion, 229, 233 ff."
-  },
-  {
     "id": "p-a52193",
-    "offset": 59119,
+    "offset": 58517,
     "text": "Congruence, 195."
   },
   {
     "id": "p-d2582d",
-    "offset": 59137,
+    "offset": 58535,
     "text": "Consecutiveness, 134."
   },
   {
     "id": "p-f9f42f",
-    "offset": 59160,
+    "offset": 58558,
     "text": "Conservation, 105."
   },
   {
     "id": "p-660f32",
-    "offset": 59180,
+    "offset": 58578,
     "text": "Constituents of facts, 51, 145."
   },
   {
     "id": "p-016238",
-    "offset": 59213,
+    "offset": 58611,
     "text": "Construction *v.* inference, iv."
   },
   {
     "id": "p-24d617",
-    "offset": 59247,
+    "offset": 58645,
     "text": "Contemporaries, initial, 119, 120 n."
   },
   {
-    "id": "p-611e16",
-    "offset": 59285,
-    "text": "Continuity, 64, 129 ff., 141 ff., 155 ff. of change, 106, 108, 130 ff."
-  },
-  {
     "id": "p-505159",
-    "offset": 59357,
+    "offset": 58683,
     "text": "Correlation of mental and physical, 233."
   },
   {
-    "id": "p-c5cae7",
-    "offset": 59399,
-    "text": "Counting, 164, 181, 187 ff., 203."
-  },
-  {
     "id": "p-c7a76f",
-    "offset": 59434,
+    "offset": 58725,
     "text": "Couturat, 40 n."
   },
   {
-    "id": "p-76fb8d",
-    "offset": 59451,
-    "text": "Dante, 10."
-  },
-  {
-    "id": "p-05aa02",
-    "offset": 59463,
-    "text": "Darwin, 4, 11, 23, 30."
-  },
-  {
-    "id": "p-35ddea",
-    "offset": 59487,
-    "text": "Data, 65 ff., 211. \"hard\" and \"soft,\" 70 ff."
-  },
-  {
-    "id": "p-205f8e",
-    "offset": 59533,
-    "text": "Dates, 117."
-  },
-  {
     "id": "p-218099",
-    "offset": 59546,
+    "offset": 58742,
     "text": "Definition, 204."
   },
   {
-    "id": "p-d9c3b8",
-    "offset": 59564,
-    "text": "Descartes, 5, 73, 238."
-  },
-  {
-    "id": "p-a885ea",
-    "offset": 59588,
-    "text": "Descriptions, 201, 214."
-  },
-  {
-    "id": "p-2057c6",
-    "offset": 59613,
-    "text": "Desire, 227, 235."
-  },
-  {
     "id": "p-b51030",
-    "offset": 59632,
+    "offset": 58760,
     "text": "Determinism, 233."
   },
   {
-    "id": "p-bd38dc",
-    "offset": 59651,
-    "text": "Doubt, 237."
-  },
-  {
-    "id": "p-06cb55",
-    "offset": 59664,
-    "text": "Dreams, 85, 93."
-  },
-  {
-    "id": "p-855064",
-    "offset": 59681,
-    "text": "Duration, 146, 149."
-  },
-  {
     "id": "p-94e3e6",
-    "offset": 59702,
+    "offset": 58779,
     "text": "Earlier and later, 116."
   },
   {
-    "id": "p-32f6e9",
-    "offset": 59727,
-    "text": "Effect, 220."
-  },
-  {
     "id": "p-e2ed40",
-    "offset": 59741,
+    "offset": 58804,
     "text": "Eleatics, 19."
   },
   {
-    "id": "p-44d946",
-    "offset": 59756,
-    "text": "Empiricism, 37, 222."
-  },
-  {
-    "id": "p-4de485",
-    "offset": 59778,
-    "text": "Enclosure, 114 ff., 120."
-  },
-  {
     "id": "p-b4b1fc",
-    "offset": 59804,
+    "offset": 58819,
     "text": "Enumeration, 202."
   },
   {
-    "id": "p-e63a2e",
-    "offset": 59823,
-    "text": "Euclid, 160, 164."
-  },
-  {
-    "id": "p-2e26a4",
-    "offset": 59842,
-    "text": "Evellin, 169."
-  },
-  {
     "id": "p-582d02",
-    "offset": 59857,
+    "offset": 58838,
     "text": "Evolutionism, 4, 11 ff."
   },
   {
-    "id": "p-a33310",
-    "offset": 59882,
-    "text": "Extension, 146, 149."
-  },
-  {
     "id": "p-91df57",
-    "offset": 59904,
+    "offset": 58863,
     "text": "External world, knowledge of, 63 ff."
   },
   {
-    "id": "p-a88d44",
-    "offset": 59942,
-    "text": "Fact, 51. atomic, 52."
-  },
-  {
     "id": "p-f733b9",
-    "offset": 59965,
+    "offset": 58901,
     "text": "Finalism, 13."
   },
   {
-    "id": "p-0950e4",
-    "offset": 59980,
-    "text": "Form, logical, 42 ff., 185, 208."
-  },
-  {
-    "id": "p-7f342b",
-    "offset": 60014,
-    "text": "Fractions, 132, 179."
-  },
-  {
-    "id": "p-2f8d15",
-    "offset": 60036,
-    "text": "Free will, 213, 227 ff."
-  },
-  {
-    "id": "p-40e031",
-    "offset": 60061,
-    "text": "Frege, 5, 40, 199 ff."
-  },
-  {
-    "id": "p-b409b4",
-    "offset": 60084,
-    "text": "Galileo, 4, 59, 192, 194, 239, 240."
-  },
-  {
-    "id": "p-8e8e46",
-    "offset": 60121,
-    "text": "Gaye, 169 n., 175, 177."
-  },
-  {
     "id": "p-bb46c9",
-    "offset": 60146,
+    "offset": 58916,
     "text": "Geometry, 5."
   },
   {
-    "id": "p-ada89d",
-    "offset": 60160,
-    "text": "Giles, 206 n."
-  },
-  {
     "id": "p-7905c9",
-    "offset": 60175,
+    "offset": 58930,
     "text": "Greater and less, 195."
   },
   {
     "id": "p-e79b2e",
-    "offset": 60199,
+    "offset": 58954,
     "text": "Harvard, 4."
   },
   {
-    "id": "p-1b0502",
-    "offset": 60212,
-    "text": "Hegel, 3, 37 ff., 46, 166."
-  },
-  {
-    "id": "p-3b4aac",
-    "offset": 60240,
-    "text": "\"Here,\" 73, 92."
-  },
-  {
     "id": "p-6e0bc1",
-    "offset": 60257,
+    "offset": 58967,
     "text": "Hereditary properties, 195."
   },
   {
-    "id": "p-f2c670",
-    "offset": 60286,
-    "text": "Hippasos, 163, 237."
-  },
-  {
-    "id": "p-8d1539",
-    "offset": 60307,
-    "text": "Hui Tzu, 206."
-  },
-  {
-    "id": "p-62e833",
-    "offset": 60322,
-    "text": "Hume, 217, 221."
-  },
-  {
     "id": "p-675bff",
-    "offset": 60339,
+    "offset": 58996,
     "text": "Hypotheses in philosophy, 239."
   },
   {
     "id": "p-ab6849",
-    "offset": 60371,
+    "offset": 59028,
     "text": "Illusions, 85."
   },
   {
     "id": "p-63b938",
-    "offset": 60387,
+    "offset": 59044,
     "text": "Incommensurables, 162 ff., 237."
   },
   {
     "id": "p-98203f",
-    "offset": 60420,
+    "offset": 59077,
     "text": "Independence, 73, 74. causal and logical, 74, 75."
   },
   {
     "id": "p-9b111e",
-    "offset": 60471,
+    "offset": 59128,
     "text": "Indiscernibility, 141, 148."
   },
   {
     "id": "p-4fa6d5",
-    "offset": 60500,
+    "offset": 59157,
     "text": "Indivisibles, 160."
   },
   {
     "id": "p-342f83",
-    "offset": 60520,
+    "offset": 59177,
     "text": "Induction, 34, 222. mathematical, 195 ff."
   },
   {
     "id": "p-b79578",
-    "offset": 60563,
+    "offset": 59220,
     "text": "Inductiveness, 190, 195 ff."
   },
   {
-    "id": "p-b6199a",
-    "offset": 60592,
-    "text": "Inference, 44, 54."
-  },
-  {
-    "id": "p-0ae691",
-    "offset": 60612,
-    "text": "Infinite, vi, 64, 133, 149. historically considered, 155 ff. \"true,\" 179, 180. positive theory of, 185 ff."
-  },
-  {
     "id": "p-11f03f",
-    "offset": 60720,
+    "offset": 59249,
     "text": "Infinitesimals, 135."
   },
   {
-    "id": "p-f5d690",
-    "offset": 60742,
-    "text": "Instants, 116 ff., 129, 151, 216. defined, 118."
-  },
-  {
     "id": "p-dcd169",
-    "offset": 60791,
+    "offset": 59271,
     "text": "Instinct *v.* Reason, 20 ff."
   },
   {
     "id": "p-2407c1",
-    "offset": 60821,
+    "offset": 59301,
     "text": "Intellect, 22 ff."
   },
   {
     "id": "p-a0d0c3",
-    "offset": 60840,
+    "offset": 59320,
     "text": "Intelligence, how displayed by friends, 93. inadequacy of display, 96."
   },
   {
     "id": "p-e0fbe9",
-    "offset": 60912,
+    "offset": 59392,
     "text": "Interpretation, 144."
   },
   {
-    "id": "p-1f462d",
-    "offset": 60934,
-    "text": "James, 4, 10, 13."
-  },
-  {
     "id": "p-5cfdab",
-    "offset": 60953,
+    "offset": 59414,
     "text": "Jourdain, 165 n."
   },
   {
-    "id": "p-648459",
-    "offset": 60971,
-    "text": "Jowett, 167."
-  },
-  {
     "id": "p-5aa9e5",
-    "offset": 60985,
+    "offset": 59432,
     "text": "Judgment, 58."
   },
   {
-    "id": "p-22ad1d",
-    "offset": 61000,
-    "text": "Kant, 3, 112, 116, 155 ff., 200."
-  },
-  {
     "id": "p-17f599",
-    "offset": 61034,
+    "offset": 59447,
     "text": "Knowledge about, 144."
   },
   {
-    "id": "p-38c547",
-    "offset": 61057,
-    "text": "Language, bad, 82, 135."
-  },
-  {
     "id": "p-1fb7f8",
-    "offset": 61082,
+    "offset": 59470,
     "text": "Laplace, 12."
   },
   {
     "id": "p-7b0d85",
-    "offset": 61096,
+    "offset": 59484,
     "text": "Laws of nature, 218 ff."
   },
   {
-    "id": "p-0545d8",
-    "offset": 61121,
-    "text": "Leibniz, 13, 40, 87, 186, 191."
-  },
-  {
     "id": "p-4e27ca",
-    "offset": 61153,
+    "offset": 59509,
     "text": "Logic, 201. analytic not constructive, 8. Aristotelian, 5. and fact, 53. inductive, 34, 222. mathematical, vi, 40 ff. mystical, 46. and philosophy, 8, 33 ff., 239."
   },
   {
     "id": "p-02b630",
-    "offset": 61318,
+    "offset": 59674,
     "text": "Logical constants, 208, 213."
   },
   {
-    "id": "p-294fc6",
-    "offset": 61348,
-    "text": "Mach, 123, 224."
-  },
-  {
-    "id": "p-449c1f",
-    "offset": 61365,
-    "text": "Macran, 39 n."
-  },
-  {
     "id": "p-0b310e",
-    "offset": 61380,
+    "offset": 59704,
     "text": "Mathematics, 40, 57."
   },
   {
-    "id": "p-a7f0cf",
-    "offset": 61402,
-    "text": "Matter, 75, 101 ff. permanence of, 102 ff."
-  },
-  {
     "id": "p-fe7b55",
-    "offset": 61446,
+    "offset": 59726,
     "text": "Measurement, 164."
   },
   {
-    "id": "p-857689",
-    "offset": 61465,
-    "text": "Memory, 230, 234, 236."
-  },
-  {
     "id": "p-6a1bc5",
-    "offset": 61489,
+    "offset": 59745,
     "text": "Method, deductive, 5. logical-analytic, v, 65, 211, 236 ff."
   },
   {
-    "id": "p-0c0b6a",
-    "offset": 61550,
-    "text": "Milhaud, 168 n., 169 n."
-  },
-  {
-    "id": "p-b77ac2",
-    "offset": 61575,
-    "text": "Mill, 34, 200."
-  },
-  {
     "id": "p-226432",
-    "offset": 61591,
+    "offset": 59806,
     "text": "Montaigne, 28."
   },
   {
     "id": "p-d92022",
-    "offset": 61607,
+    "offset": 59822,
     "text": "Motion, 130, 216. continuous, 133, 136. mathematical theory of, 133. perception of, 137 ff. Zeno's arguments on, 168 ff."
   },
   {
-    "id": "p-f6fc8b",
-    "offset": 61729,
-    "text": "Mysticism, 19, 46, 63, 95."
-  },
-  {
-    "id": "p-5620bb",
-    "offset": 61757,
-    "text": "Newton, 30, 146."
-  },
-  {
-    "id": "p-203b6a",
-    "offset": 61775,
-    "text": "Nietzsche, 10, 11."
-  },
-  {
-    "id": "p-48e224",
-    "offset": 61795,
-    "text": "Noel, 169."
-  },
-  {
-    "id": "p-48457a",
-    "offset": 61807,
-    "text": "Number, cardinal, 131, 186 ff. defined, 199 ff. finite, 160, 190 ff. inductive, 197. infinite, 178, 180, 188 ff., 197. reflexive, 190 ff."
-  },
-  {
-    "id": "p-7863fe",
-    "offset": 61946,
-    "text": "Occam, 107, 146."
-  },
-  {
-    "id": "p-ddcd4c",
-    "offset": 61964,
-    "text": "One and many, 167, 170."
-  },
-  {
-    "id": "p-c24039",
-    "offset": 61989,
-    "text": "Order, 131."
-  },
-  {
-    "id": "p-c893ab",
-    "offset": 62002,
-    "text": "Parmenides, 63, 165 ff., 178."
-  },
-  {
-    "id": "p-0f6ac3",
-    "offset": 62033,
-    "text": "Past and future, 224, 234 ff."
-  },
-  {
-    "id": "p-c46f2d",
-    "offset": 62064,
-    "text": "Peano, 40."
-  },
-  {
-    "id": "p-7f8fbd",
-    "offset": 62076,
-    "text": "Perspectives, 88 ff., 111."
-  },
-  {
     "id": "p-d60053",
-    "offset": 62104,
+    "offset": 59944,
     "text": "Philoponus, 171 n."
   },
   {
-    "id": "p-44e403",
-    "offset": 62124,
-    "text": "Philosophy and ethics, 26 ff. and mathematics, 185 ff. province of, 17, 26, 185, 236. scientific, 11, 16, 18, 29, 236 ff."
-  },
-  {
-    "id": "p-39c576",
-    "offset": 62247,
-    "text": "Physics, 101 ff., 147, 239, 242. descriptive, 224. verifiability of, 81, 110."
-  },
-  {
-    "id": "p-62f909",
-    "offset": 62326,
-    "text": "Place, 86, 90. *at* and *from*, 92."
-  },
-  {
-    "id": "p-8668dd",
-    "offset": 62363,
-    "text": "Plato, 4, 19, 27, 46, 63, 165 n., 166, 167."
-  },
-  {
-    "id": "p-d0f3f9",
-    "offset": 62408,
-    "text": "Poincare, 123, 141."
-  },
-  {
-    "id": "p-6164f0",
-    "offset": 62429,
-    "text": "Points, 113 ff., 129, 158. definition of, vi, 115."
-  },
-  {
     "id": "p-e52844",
-    "offset": 62481,
+    "offset": 59964,
     "text": "Pragmatism, 11."
   },
   {
-    "id": "p-3f2c8c",
-    "offset": 62498,
-    "text": "Prantl, 174."
-  },
-  {
     "id": "p-042ace",
-    "offset": 62512,
+    "offset": 59981,
     "text": "Predictability, 229 ff."
   },
   {
     "id": "p-97ac17",
-    "offset": 62537,
+    "offset": 60006,
     "text": "Premisses, 211."
   },
   {
     "id": "p-e270de",
-    "offset": 62554,
+    "offset": 60023,
     "text": "Probability, 36."
   },
   {
     "id": "p-3420af",
-    "offset": 62572,
+    "offset": 60041,
     "text": "Propositions, 52. atomic, 52. general, 55. molecular, 54."
   },
   {
-    "id": "p-d1762f",
-    "offset": 62631,
-    "text": "Pythagoras, 19, 160 ff., 237."
-  },
-  {
     "id": "p-a3db31",
-    "offset": 62662,
+    "offset": 60100,
     "text": "Race-course, Zeno's argument of, 171 ff."
   },
   {
     "id": "p-9d5156",
-    "offset": 62704,
+    "offset": 60142,
     "text": "Realism, new, 6."
   },
   {
     "id": "p-c42f37",
-    "offset": 62722,
+    "offset": 60160,
     "text": "Reflexiveness, 190 ff."
   },
   {
     "id": "p-50bb6f",
-    "offset": 62746,
+    "offset": 60184,
     "text": "Relations, 45. asymmetrical, 47. Bradley's reasons against, 6. external, 150. intransitive, 48. multiple, 50. one-one, 203. reality of, 49. symmetrical, 47, 124. transitive, 48, 124."
   },
   {
-    "id": "p-20b71b",
-    "offset": 62930,
-    "text": "Relativity, 103, 242."
-  },
-  {
     "id": "p-51fdb7",
-    "offset": 62953,
+    "offset": 60368,
     "text": "Repetitions, 230 ff."
   },
   {
-    "id": "p-fae93c",
-    "offset": 62975,
-    "text": "Rest, 136."
-  },
-  {
     "id": "p-a33819",
-    "offset": 62987,
+    "offset": 60390,
     "text": "Ritter and Preller, 161 n."
   },
   {
-    "id": "p-d79f02",
-    "offset": 63015,
-    "text": "Robertson, D. S., 160 n."
-  },
-  {
     "id": "p-e9a011",
-    "offset": 63041,
+    "offset": 60418,
     "text": "Rousseau, 20."
   },
   {
-    "id": "p-15ba1d",
-    "offset": 63056,
-    "text": "Royce, 50."
-  },
-  {
     "id": "p-febcc1",
-    "offset": 63068,
+    "offset": 60433,
     "text": "Santayana, 46."
   },
   {
-    "id": "p-803893",
-    "offset": 63084,
-    "text": "Scepticism, 66, 67."
-  },
-  {
     "id": "p-c603f3",
-    "offset": 63105,
+    "offset": 60449,
     "text": "Seeing double, 86."
   },
   {
-    "id": "p-4a5f9f",
-    "offset": 63125,
-    "text": "Self, 73."
-  },
-  {
-    "id": "p-299fb4",
-    "offset": 63136,
-    "text": "Sensation, 25, 75, 123. and stimulus, 139."
-  },
-  {
-    "id": "p-36b71c",
-    "offset": 63180,
-    "text": "Sense-data, 56, 63, 67, 75, 110, 141, 143, 213. and physics, v, 64, 81, 97, 101 ff., 140. infinitely numerous? 149, 159."
-  },
-  {
     "id": "p-85f1c2",
-    "offset": 63302,
+    "offset": 60469,
     "text": "Sense-perception, 53."
   },
   {
-    "id": "p-6512a6",
-    "offset": 63325,
-    "text": "Series, 49. compact, 132, 142, 178. continuous, 131, 132."
-  },
-  {
-    "id": "p-e44af1",
-    "offset": 63384,
-    "text": "Sigwart, 187."
-  },
-  {
     "id": "p-338788",
-    "offset": 63399,
+    "offset": 60492,
     "text": "Simplicius, 170 n."
   },
   {
     "id": "p-34110e",
-    "offset": 63419,
+    "offset": 60512,
     "text": "Simultaneity, 116."
   },
   {
-    "id": "p-7b1b73",
-    "offset": 63439,
-    "text": "Space, 73, 88, 103, 112 ff., 130. absolute and relative, 146, 159. antinomies of, 155 ff. perception of, 68. of perspectives, 88 ff. private, 89, 90. of touch and sight, 78, 113."
-  },
-  {
-    "id": "p-8cf631",
-    "offset": 63619,
-    "text": "Spencer, 4, 12, 236."
-  },
-  {
-    "id": "p-9f01ed",
-    "offset": 63641,
-    "text": "Spinoza, 46, 166."
-  },
-  {
     "id": "p-42ccdc",
-    "offset": 63660,
+    "offset": 60532,
     "text": "Stadium, Zeno's argument of, 134 n., 175 ff."
   },
   {
     "id": "p-93d527",
-    "offset": 63706,
+    "offset": 60578,
     "text": "Subject-predicate, 45."
   },
   {
-    "id": "p-7fd034",
-    "offset": 63730,
-    "text": "Synthesis, 157, 185."
-  },
-  {
     "id": "p-38e9ac",
-    "offset": 63752,
+    "offset": 60602,
     "text": "Tannery, Paul, 169 n."
   },
   {
     "id": "p-420f74",
-    "offset": 63775,
+    "offset": 60625,
     "text": "Teleology, 223."
   },
   {
-    "id": "p-227fd1",
-    "offset": 63792,
-    "text": "Testimony, 67, 72, 82, 87, 96, 212."
-  },
-  {
     "id": "p-4d3dfd",
-    "offset": 63829,
+    "offset": 60642,
     "text": "Thales, 3."
   },
   {
-    "id": "p-bb164c",
-    "offset": 63841,
-    "text": "Thing-in-itself, 75, 84."
-  },
-  {
-    "id": "p-d46a01",
-    "offset": 63867,
-    "text": "Things, 89 ff., 104 ff., 213."
-  },
-  {
-    "id": "p-aaec2d",
-    "offset": 63898,
-    "text": "Time, 103, 116 ff., 130, 155 ff., 166, 215. absolute or relative, 146. local, 103. private, 121."
-  },
-  {
     "id": "p-f38dfe",
-    "offset": 63996,
+    "offset": 60654,
     "text": "Uniformities, 217."
   },
   {
     "id": "p-ca97b9",
-    "offset": 64016,
+    "offset": 60674,
     "text": "Unity, organic, 9."
   },
   {
     "id": "p-869799",
-    "offset": 64036,
+    "offset": 60694,
     "text": "Universal and particular, 39 n."
   },
   {
     "id": "p-4c93eb",
-    "offset": 64069,
+    "offset": 60727,
     "text": "Volition, 223 ff."
   },
   {
     "id": "p-0396da",
-    "offset": 64088,
+    "offset": 60746,
     "text": "Whitehead, vi, 207."
   },
   {
     "id": "p-8d1434",
-    "offset": 64109,
+    "offset": 60767,
     "text": "Wittgenstein, vii, 208 n."
   },
   {
     "id": "p-1421c7",
-    "offset": 64136,
+    "offset": 60794,
     "text": "Worlds, actual and ideal, 111. possible, 186. private, 88."
   },
   {
-    "id": "p-8ad5a7",
-    "offset": 64196,
-    "text": "Zeller, 173."
-  },
-  {
-    "id": "p-216f62",
-    "offset": 64210,
-    "text": "Zeno, 129, 134, 136, 165 ff."
-  },
-  {
     "id": "p-60b3df",
-    "offset": 64240,
+    "offset": 60854,
     "text": "PRINTED BY NEILL AND CO., LTD., EDINBURGH."
   },
   {
-    "id": "p-c90af0",
-    "offset": 64284,
-    "text": "[ Transcriber's Note:"
-  },
-  {
-    "id": "p-4bc5ab",
-    "offset": 64307,
-    "text": "The following is a list of corrections made to the original. The first line is the original line, the second the corrected one."
+    "id": "p-4492f7",
+    "offset": 60898,
+    "text": "[ The following is a list of corrections made to the original. The first line is the original line, the second the corrected one."
   },
   {
     "id": "p-f30299",
-    "offset": 64436,
+    "offset": 61029,
     "text": "Second Impression Second Impression."
   },
   {
     "id": "p-3b0d5c",
-    "offset": 64474,
+    "offset": 61067,
     "text": "more often than the impossibility of alternatives which seemed _prima more often than the impossibility of alternatives which seemed _prima"
   },
   {
     "id": "p-85ad31",
-    "offset": 64615,
+    "offset": 61208,
     "text": "with it. We will call these the \"initial contemporaries of the given with it. We will call these the \"initial contemporaries\" of the given"
   },
   {
     "id": "p-10d8b9",
-    "offset": 64755,
+    "offset": 61348,
     "text": "the next are liable to fail when we come to infinite number. The first the next are liable to fail when we come to infinite numbers. The first"
   },
   {
     "id": "p-73da57",
-    "offset": 64899,
+    "offset": 61492,
     "text": "of psychology or an outcome of pscyhical processes as the North Sea.... of psychology or an outcome of psychical processes as the North Sea...."
   },
   {
     "id": "p-72e19d",
-    "offset": 65044,
+    "offset": 61637,
     "text": "according to the length and direction of the interval. \"A quarter of a according to the length and direction of the interval. \"A quarter of an"
   },
   {
     "id": "p-92bcab",
-    "offset": 65188,
+    "offset": 61781,
     "text": "Intelligence, how displayed by friends, 93 Intelligence, how displayed by friends, 93."
-  },
-  {
-    "id": "p-2f574e",
-    "offset": 65276,
-    "text": "Number, cardinal, 131 186 ff. Number, cardinal, 131, 186 ff."
   }
 ]

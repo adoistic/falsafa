@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 10049
+word_count: 10000
 source_url: "https://www.gutenberg.org/ebooks/5173"
 translator: Project Gutenberg edition
 ---
@@ -36,8 +36,6 @@ An illusory mind tends either to regard body as Self and to yearn after its mate
 
 [FN#180] The master strongly condemns the immortality of the soul as the heterodox doctrine in his Sho-bo-gen-zo. The same argument is found in Mu-chu-mon-do, by Mu-so Koku-shi.
 
-[FN#181] 'Creative Evolution,' pp. 354, 355.
-
 [FN#182] Bergson, arguing against the dependence of the mind on brain, says: "That there is a close connection between a state of consciousness and the brain we do not dispute. But there is also a close connection between a coat and the nail on which it hangs, for if the nail is pulled out, the coat will fall to the ground. Shall we say, then, that the shape of the nail gave the shape of the coat, or in any way corresponds to it? No more are we entitled to conclude, because the psychical fact is hung on to a cerebral state, that there is any parallelism between the two series, psychical and physiological." We have to ask, in what respects does the interrelation between mind and body resemble the relation between a coat and a nail?
 
 3. The Irrationality of the Belief of Immortality.
@@ -47,10 +45,6 @@ Occidental minds believe in a mysterious entity under the name of soul, just as 
 [FN#183] For further explanation, see Sho-bo-gen-zo and Mu-chu-mon-do.
 
 Fiske, [FN#184] in his argument against materialism, blames the denial of immortality, saying: "The materialistic assumption that there is no such state of things, and that the life of the soul ends accordingly with the life of the body, is perhaps the most colossal instance of baseless assumption that is known to the history of philosophy." But we can say with equal force that the common-sense assumption that the life of soul continues beyond the grave is, perhaps, the most colossal instance of baseless assumption that is known to the history of thought, because, there being no scientific evidences that give countenance to the assumption, even the spiritualists themselves hesitate to assert the existence of a ghost or soul. Again he[FN#185] says: "With this illegitimate hypothesis of annihilation the materialist transgresses the bounds of experience quite as widely as the poet who sings of the New Jerusalem with its river of life and its street of gold. Scientifically speaking, there is not a particle of evidence for either view." This is as much as to say there is not a particle of evidence, scientifically speaking, for the common-sense view of soul, because the poet's description of the New Jerusalem is nothing but the result of the common-sense belief of immortality.
-
-[FN#184] 'The Destiny of Man,' p. 110.
-
-[FN#185] 'The Destiny of Man,' pp. 110, 111.
 
 4. The Examination of the Notion of Self.
 
@@ -71,8 +65,6 @@ Furthermore, man has come into existence out of Nature. He is her child. She pro
 [FN#187] Eucken's 'Philosophy of Life,' by W. R. Royce Gibbon, p. 51.
 
 Has not philosophy announced that she is spiritual? Has not religion proclaimed that she is good? At all events, she is the mother of all beings. She lives in all things and they live in her. All that she possesses is theirs, and all that they want she supplies. Her life is the same vitality that stirs all sentient beings. Chwang Tsz[FN#188] (So-shi) is right when he says: "Heaven, Earth, and I were produced together, and all things and I are one." And again: "If all things be regarded with love, Heaven and Earth are one with me." Sang Chao (So-jo) also says: "Heaven and Earth are of the same root as we. All things in the world are of one substance with Me."[FN#189]
-
-[FN#188] Chwang Tsz, vol. i., p. 20.
 
 [FN#189] This is a favourite subject of discussion by Zenists.
 
@@ -197,16 +189,6 @@ Besides the Four Alternatives, Zen uses the Five Categories[FN#203] in order to 
 17. Personalism of B. P. Bowne.
 
 B. P. Bowne[FN#204] says: They (phenomena) are not phantoms or illusions, nor are they masks of a back-lying reality which is trying to peer through them." "The antithesis," he continues,[FN#205] "of phenomena and noumena rests on the fancy that there is something that rests behind phenomena which we ought to perceive but cannot, because the masking phenomena thrusts itself between the reality and us." Just so far we agree with Bowne, but we think he is mistaken in sharply distinguishing between body and self, saying:[FN#206] "We ourselves are invisible. The physical organism is only an instrument for expressing and manifesting the inner life, but the living self is never seen." "Human form," he argues,[FN#207] "as an object in space apart from our experience of it as the instrument and expression of personal life, would have little beauty or attraction; and when it is described in anatomical terms, there is nothing in it that we should desire it. The secret of its beauty and its value lies in the invisible realm." "The same is true," he says again, "of literature. It does not exist in space, or in time, or in books, or in libraries . . . all that could be found there would be black marks on a white paper, and collections of these bound together in various forms, which would be all the eyes could see. But this would not be literature, for literature has its existence only in mind and for mind as an expression of mind, and it is simply impossible and meaningless in abstraction from mind." "Our human history"--he gives another illustration[FN#208]--"never existed in space, and never could so exist. If some visitor from Mars should come to the earth and look at all that goes on in space in connection with human beings, he would never get any hint of its real significance. He would be confined to integrations and dissipations of matter and motion. He could describe the masses and grouping of material things, but in all this be would get no suggestion of the inner life which gives significance to it all. As conceivably a bird might sit on a telegraph instrument and become fully aware of the clicks of the machine without any suspicion of the existence or meaning of the message, or a dog could see all that eye can see in a book yet without any hint of its meaning, or a savage could gaze at the printed score of an opera without ever suspecting its musical import, so this supposed visitor would be absolutely cut off by an impassable gulf from the real seat and significance of human history. The great drama of life, with its likes and dislikes, its loves and hates, its ambitions and strivings, and manifold ideas, inspirations, aspirations, is absolutely foreign to space, and could never in any way be discovered in space. So human history has its seat in the invisible."
-
-[FN#204] 'Personalism,' p. 94.
-
-[FN#205] Ibid., p. 95.
-
-[FN#206] Ibid., p. 268.
-
-[FN#207] Ibid., p. 271.
-
-[FN#208] 'Personalism,' pp. 272, 273.
 
 In the first place, Bowne's conception of the physical organism as but an instrument for the expression of the inner, personal life, just as the telegraphic apparatus is the instrument for the expression of messages, is erroneous, because body is not a mere instrument of inner personal life, but an essential constituent of it. Who can deny that one's physical conditions determine one's character or personality? Who can overlook the fact that one's bodily conditions positively act upon one's personal life? There is no physical organism which remains as a mere passive mechanical instrument of inner life within the world of experience. Moreover, individuality, or personality, or self, or inner life, whatever you may call it, conceived as absolutely independent of physical condition, is sheer abstraction. There is no such concrete personality or individuality within our experience.
 

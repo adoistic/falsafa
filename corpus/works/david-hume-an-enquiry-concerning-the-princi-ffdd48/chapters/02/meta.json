@@ -2,7 +2,7 @@
   "work_slug": "david-hume-an-enquiry-concerning-the-princi-ffdd48",
   "work_title": "An Enquiry Concerning the Principles of Morals",
   "chapter_number": 2,
-  "chapter_title": "Section III — OF JUSTICE",
+  "chapter_title": "Section II — OF BENEVOLENCE",
   "chapter_slug": "02",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4369,
-      "paragraph_count": 33,
+      "word_count": 1803,
+      "paragraph_count": 25,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/4320"
     }

@@ -38,7 +38,7 @@ General *matter* or the filling of space, arises from the co-operation of three 
 
 The parallelism of the potencies of nature, as we have developed it by leaving out of account the numerous differences between the various expositions of the *Naturphilosophie*, may be shown by a table:
 
-I. UNIVERSAL NATURE. II. INORGANIC NATURE III. ORGANIC NATURE. (ORGANIZING) 3. Copula 3. Organization or Life. | __*^*__ /Chemical \ G | /Sensi- Man. / \ |Process (3d| a | |bility. _*^*_ 2. Light 2.*Dynamical*|Dimen- | l | | / \ (Soul). *Process*. < sion) | v | |Irritabi- Male
+I. UNIVERSAL NATURE. II. INORGANIC NATURE III. ORGANIC NATURE. (ORGANIZING) 3. Copula 3. Organization or Life. | *^* /Chemical \ G | /Sensi- Man. / \ |Process (3d| a | |bility. _*^*_ 2. Light 2.*Dynamical*|Dimen- | l | | / \ (Soul). *Process*. < sion) | v | |Irritabi- Male
 
 b. At- \ (Determi- |Electri- | a |_|lity. (=Light) traction.| nate |city (2d Di->n |Animal. >1. Gra- matter.) | mension.) | i | | vity 1. Indeter- |Magnetism | s |Repro- Female a. Re- | (Body) minate |(1st Di- | m |duction (-Gravity) pulsion / *matter*. \ mension.) / \ Plant.
 

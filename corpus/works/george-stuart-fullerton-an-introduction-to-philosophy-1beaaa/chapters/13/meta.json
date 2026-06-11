@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+  "work_title": "An Introduction to Philosophy",
+  "chapter_number": 13,
+  "chapter_title": "Chapter XIII",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "27ab75cf-f868-5aa9-950a-e3a503a59558",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4187,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/16406"
+    }
+  ]
+}

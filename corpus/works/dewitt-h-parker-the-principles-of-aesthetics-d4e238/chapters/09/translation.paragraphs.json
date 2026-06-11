@@ -135,283 +135,278 @@
     "text": "Here the quantitative scansion is perhaps as follows:--"
   },
   {
-    "id": "p-7cecbe",
-    "offset": 20336,
-    "text": "- - - - U - - - U x U - U - U - U -"
-  },
-  {
     "id": "p-7b6657",
-    "offset": 20373,
+    "offset": 20336,
     "text": "I have given the word \"so\" a double scansion because I conceive it impossible to determine whether it is really long or short. At any rate, there is certainly no regularity in the distribution of shorts and longs, except in the last of the three lines, and no correspondence, except in that line, between the quantitative scansion and the rhythmical movement of the verses. And whenever such a correspondence exists, it is due either to the fact that the incidence of stress tends to lengthen a syllable or to the fact that, oftentimes, in polysyllabic words, mere length will produce a stress. This is the modicum of truth in the quantitative view. But obviously stress governs, quantity obeys."
   },
   {
     "id": "p-48dbad",
-    "offset": 21070,
+    "offset": 21033,
     "text": "Although the quantitative theory of modern verse has been pretty generally abandoned, it cannot be said that the ordinary view which regards the foot as the unit of verse and its rhythm as determined by a regular distribution of accented and unaccented syllables, is in a much better case. For in the first place, by accent is usually meant word-accent; but monosyllabic words have no word-accent; hence, in a succession of such syllables, the accent must be determined by some other factor; and, granting this, there is the further fact to be reckoned with, that poetic accent is relative--the supposedly unaccented syllable is often very highly accented, more highly in fact than some of the so-called accented ones. Consider, for example, the line, \"From sullen earth sings hymns at heaven's gate,\" where the word \"sings,\" which in accordance with the conventional iambic scansion would be an unaccented syllable, is really strongly accented, more strongly, indeed, than \"earth\" which has an accent. As for the division of the line into feet, that is a pure artifice: who, in the actual reading of the above line, would divide the words \"sullen\" and \"heaven\" into two parts?"
   },
   {
     "id": "p-b42089",
-    "offset": 22249,
+    "offset": 22212,
     "text": "The basis of rhythm is, therefore, not word-accent. Value stress is the basis. Certain words, because of their logical or emotional importance, have a greater claim upon the attention, and this inner stress finds outward expression in an increased loudness, duration, and explosiveness of sound. Stress coincides with the word-accent of polysyllabic words because the accent is placed on those syllables, usually the root-syllables, which carry the essential meaning. And this stress is not simply present or absent in a syllable, but greater in some than in others; in iambic rhythm, usually greater in the even than in the preceding odd syllable; in trochaic, greater in the odd than in the immediately preceding even one. The rhythm is rather an undulation of stresses than an alternation of stress and lack of stress, something, therefore, far more complex and variegated than the old scheme would imply. And of this undulation, not the foot, but the line is the unit. The character of the undulation of the whole line determines the type of the rhythm, which may be very different in the case of lines of precisely the same kind of \"feet.\" For example, the line quoted above, \"From sullen earth sings hymns at heaven's gate,\" has a distinctly different rhythm from such another iambic line as \"Shall I compare thee to a summer's day?\" This difference is due, in part at least, to the fact that the highest peaks of the wave in the former are in the center of the line, in \"sings\" and \"hymns,\" while in the latter they are at the end, in \"summer's\" and \"day.\" This undulation of stress is present in prose and in ordinary speech; for there also there is a rise and fall of stress corresponding to the varying values of the words and syllables; but in prose, the undulation is irregular, while in poetry, it is regularized."
   },
   {
     "id": "p-1b6627",
-    "offset": 24077,
+    "offset": 24040,
     "text": "From the foregoing it is clear that rhythm does not exist in the mere sound of the words alone, but in the thought back of them as well. The sounds, as such, have no rhythm in themselves; they acquire rhythm through the subjective processes of significant utterance or listening. The rhythm is primarily in these activities, and from them is transferred to the sounds in which they are embodied. This comes out with additional force when we go farther into the analysis of the rhythm of verse. We have just seen that the line is one unit of the rhythm (this is true even when there are run-over lines, because we make a slight pause after the ends of such lines too); but within the line itself there are sub-units. These sub-units are units of thought. Every piece of written or spoken language is a continuous flow of thought. But the movement is not perfectly fluid; for it is broken up into elementary pulses of ideas, following discontinuously upon each other. In prose the succession of pulses is complex and irregular, without any obvious pattern; but in poetry the movement is simple and regular and the pattern is clear. Just as in poetry there is a rhythm of stress which represents a regularizing of the natural undulations in the stress of speech, so there is also a more deep-lying rhythm, which arises through a simplification and regularizing of the movement of thought-pulsations. The fundamental rhythm consists in an alternation of subject-group and predicate-group."
   },
   {
     "id": "p-8b76ed",
-    "offset": 25563,
+    "offset": 25526,
     "text": "This duality, although always retained as basal, may, however, be broken up into a three- or four-part movement whenever the connecting links between the subject-idea and the predicate-idea acquire sufficient importance, or whenever the one or the other of the two becomes sufficiently complex to consist of lesser parts. For example, in Shakespeare's thirty-first sonnet, the thought-divisions are three for each of the following lines:--"
   },
   {
     "id": "p-20265b",
-    "offset": 26004,
+    "offset": 25967,
     "text": "Thy bosom | is endeared | with all hearts Which I by lacking | have supposed | dead; And there | reigns love, | and all love's loving parts, And all those friends | which I thought | buried."
   },
   {
     "id": "p-f498c4",
-    "offset": 26196,
+    "offset": 26159,
     "text": "These divisions are marked by pauses or casuras."
   },
   {
     "id": "p-abc641",
-    "offset": 26246,
+    "offset": 26209,
     "text": "Here, then, in the regularizing of the number of thought-pulsations, we have another type of rhythm in poetry, and a rhythm which, coming from within, finds outward expression in sound. Cutting across the rhythm of stress, it breaks up the latter with its pauses, and imparts to the whole movement variety and richness."
   },
   {
     "id": "p-c0c42f",
-    "offset": 26567,
+    "offset": 26530,
     "text": "But speech has not only its natural rhythm of stress-undulation and thought-pulsations; it has also, as we saw in the last chapter, a melody. The rise and fall of stress goes hand and hand with a rise and fall of pitch. The different forms of discourse, and the different emotions that accompany them, are each expressed with characteristic variations in pitch. Accepting Wundt's summary of the facts, we find that, generally speaking, in the declarative statement and the command, the pitch rises in the first thought-division, to fall in the second; while in the question and the condition, the pitch rises and falls in the first, and then rises again in the second. Doubt, expectation, tension, excitement--all the forward looking moods of incompleteness--tend to find expression in a rising melody; while assurance, repose, relaxation, fulfillment, are embodied in a falling melody. The high tones are dynamic and stimulating; the low tones, static and peaceful. Now in ordinary speech and prose, the change from one tone to another is constant and irregular, following the variation of mood in the substance of the discourse. How is it with verse? There is a simplification and tonality--identity in tone--which is absent from prose. The melody is more obvious and distinctive, because there is a greater simplicity in sentence structure and a higher unity of mood. Yet there is no absolute regularity; and the amount of it differs with the different kinds of poetry: there is more in the simple lyric than in the complex narrative; more, for example, in Shakespeare's sonnets than in his dramas. The inexpressible beauty of some lines of verse comes doubtless from a fugitive melody which we now grasp, now lose."
   },
   {
     "id": "p-b757a6",
-    "offset": 28287,
+    "offset": 28250,
     "text": "The existence of speech melody and the tonalities of rime, assonance, and alliteration suggest an analogy between verse and music. For some people, this analogy is decisive. Yet the fundamental difference between music and verse must be insisted on with equal force; the purity of tone and fixity of intervals between tones, which is distinctive of music, is absent from verse. In comparison with music, the melodiousness of verse is confused and chaotic; and this condemns to failure any attempt to identify the laws of the two arts. Still, we are not yet at the end of the analogy. Those who interpret verse in terms of music believe that, underlying or supplanting the rhythm of stress, there is another rhythm, similar to time in music, and capable of expression in musical language. There is, it is claimed, an equality of duration between one line and another, and between one foot in a line and another; these larger and lesser stretches of duration being divided up between syllables and pauses, each syllable and pause occupying a fixed quantity of time; just as in music each bar is divided up between notes and rests of definite value. Lanier, for example writes the first line of Poe's \"Raven\" as follows:--"
   },
   {
     "id": "p-39d745",
-    "offset": 29508,
+    "offset": 29471,
     "text": "Once up | on a | mid-night | drear-y;"
   },
   {
     "id": "p-7dcc21",
-    "offset": 29547,
+    "offset": 29510,
     "text": "Fascinating as this procedure is, it is nevertheless a distortion of the facts. Poetry is meant to be read, not to be sung; when it is put to music and sung, it acquires a character which otherwise does not belong to it. We must not be misled by the historical connection between verse and song, nor by the frequency with which some verses are set to music. Our poetry must be understood as we experience it to-day, not as it was experienced in its origins. And there is surely much poetry which no one wants to sing. No one wants to sing a sonnet or Miltonic blank verse. The attempt to apply musical notation to verse is a *tour de force*. Careful observation and experience show that the syllables in verse have no fixed duration values, and that there is no constant ratio between them."
   },
   {
     "id": "p-6d1868",
-    "offset": 30339,
+    "offset": 30302,
     "text": "Nevertheless, musical time is not wholly absent from verse. You cannot set it to the metronome or express it in musical notation, yet it is there. When lines have the same number of syllables, the time required to read them is approximately the same, and we tend to make the duration of the thought-divisions equal. Our time-sense is so fallible, we do not notice the departures from exactness; and when the durations of processes are nearly equal and the values which we attach to them are equal, then we are conscious of them as equal. Attention-value and time-value are subjectively equivalent. Words which weigh with us give us pause, and we reckon in the time of the pause to make up for a deficiency in the time required to read or utter the syllables. And so time-rhythm enters as still another factor in the complex rhythm of verse."
   },
   {
     "id": "p-d38ea3",
-    "offset": 31181,
+    "offset": 31144,
     "text": "The importance of this rhythm differs, however, with the different kinds of verse. In lyric poetry closely allied to song, it is clear and strong; while in the more reflective and dramatic poetry, it is only an undertone. In some cases, as in the nursery rime,"
   },
   {
     "id": "p-0b4e1a",
-    "offset": 31443,
+    "offset": 31406,
     "text": "Hot cross buns, hot cross buns, If your daughters don't like 'em, Give 'em to your sons. One a penny, two a penny, Hot cross buns,"
   },
   {
     "id": "p-924f44",
-    "offset": 31575,
+    "offset": 31538,
     "text": "there is almost no rhythm of stress, but there is a rhythm of time; for despite the inequality in the number of syllables, each line has approximately the same duration, even the last line with its three monosyllabic words being lengthened out into equality with the others. The variety in the rhythm is secured through the unequal number of syllables in the same stretch of duration, the more rapid movement of many syllables being set off over against the slower movement of the few. Similarly, Tennyson's poem, which should be scanned as I shall indicate, has a rhythm which is chiefly musical."
   },
   {
     "id": "p-c94972",
-    "offset": 32174,
+    "offset": 32137,
     "text": "Break, | break, | break, On thy cold, | grey stones, | O sea! And I would | that my tongue | might utter The thoughts | That arise | in me."
   },
   {
     "id": "p-7e2e7e",
-    "offset": 32315,
+    "offset": 32278,
     "text": "The stresses are nearly even throughout; the meter cannot be accurately described as iambic, trochaic, or anapestic; yet there is a rhythm in the approximate temporal equality of the thought-moments. These verses are, however, rather songs than poems. The failure to distinguish between verses which are songs and those which are poems accounts, I believe, for the extremes to which the musical theory of verse has been carried."
   },
   {
     "id": "p-b04cda",
-    "offset": 32745,
+    "offset": 32708,
     "text": "Still another element of poetry which allies it to music is the repetition of the thought-content. Why repetition should be musical we already know: music is an art which seeks to draw out and elaborate pure emotion; repetition serves this end by constantly bringing the mind back to dwell upon the same theme. Moreover, repetition involves retardation; for a movement cannot progress rapidly if it has to return upon itself; and this slowness gives time for the full value of a feeling to be worked out. In all the more emotional and lyric poetry we find, therefore, recurrence of theme: the thought is repeated again and again; in new forms, perhaps, yet still the same in essence, successive lines or stanzas taking up the same burden; sometimes there is exact recurrence of thought, as in the refrain. And this repetition in the thought is embodied in a repetition of the elements of the sound-pattern; the wave type is repeated from verse to verse or recurs again and again; there is recurrence of melodic form or parallelism between contrasted melodies in different stanzas; there is tonality of vowel and consonant sounds in rime and assonance and alliteration; there may be an approach to identity in the time-duration of the various units. Parallelism or repetition is the fundamental scheme of such poetry. But between repetition with its retardation of movement and progress towards a goal there is a necessary antagonism; hence in the more dramatic and narrative forms of poetry, although recurrence is never entirely absent, there is less of it, and the movement approximates to that of prose. Emotion demands repetition, but action demands progression."
   },
   {
     "id": "p-d1fd58",
-    "offset": 34413,
+    "offset": 34376,
     "text": "After our analysis of the rhythm of poetry, we are in a position to inquire into what can be expressed through it, and how psychologically this expression can be explained."
   },
   {
     "id": "p-807283",
-    "offset": 34587,
+    "offset": 34550,
     "text": "The expressiveness of rhythm is like that of music, vague and objectless, for which reason rhythm is properly called the music of verse. Almost everything in a general way which we have said about the expressiveness of music applies to poetic rhythm. This expressiveness cannot be translated into words with any exactness; the most that can be done is to find a set of words into which it will roughly fit, leaving much vacant space of meaning. That the emotional values of rhythms have character is, however, proved by the fact that some rhythms are better vehicles for certain kinds of thought than others are. Yet it often happens that, just as, in song or opera, the same melody is used to express joy or grief, love or religious emotion, so approximately the same rhythmic form is employed in the expression of apparently antagonistic emotions. Nevertheless, this fact is not fatal to expression; for, in the first place, there is much variety of rhythm within a given metrical form, so that what superficially may seem to be the same rhythm is really a different one; and, in the second place, as we have already observed in the case of music, there is much--in form and energy of movement--which contrasting emotions have in common, and this may be expressed in the rhythmic type. Think of the wide sweep of emotions which have been expressed in the sonnet form! Yet consider what varieties of rhythm and speech melodies are possible within this form, and how, nevertheless, there is an identity of character in all sonnets--how they are all thoughtful, all restrained, yet unfaltering in their movement!"
   },
   {
     "id": "p-df7d4c",
-    "offset": 36200,
+    "offset": 36163,
     "text": "Without going into details, which would lie beyond the scope of general sthetics, it is possible to state the following broad facts (compare the similar facts relating to melody) with reference to poetic rhythms: a rising rhythm expresses striving or restlessness; a falling rhythm, quiet, steadfastness. There is, however, no absolute contrast between the two kinds, because a falling rhythm is still a rhythm, and that means a movement which necessarily contains something of instability and unrest. The contrast is sharpest in the anapestic and dactylic, less sharp in the trochaic and iambic. Many a trochaic rhythm becomes in effect iambic when the division of the thought moments and the distribution of the pauses make the rhythm rise after the first few words; and conversely, many an iambic rhythm becomes trochaic through a similar shift in the attention. Within a single line, therefore, there may be both rising and falling pulsations. Much of the rare beauty of poetry comes from such subtle combinations of rhythmic qualities."
   },
   {
     "id": "p-f6086c",
-    "offset": 37242,
+    "offset": 37205,
     "text": "Through time and tempo also, poetic rhythm is expressive, much after the manner of music; by these means too, in addition to the mode of stress-undulation, it imitates the temporal and dynamic course of action and emotion, and so tends to arouse congruous types of feeling in the mind; it is swift or slow, gliding or abrupt, retarded or accelerated. Compare the slow and retarded rhythm of \"When I have fears that I may cease to be,\" so well adapted to express the gravity of the thought, with the rapid and accelerated movement of \"Hail to thee, blithe spirit!\" so full of a quick joyousness. Or compare the light legato movement of \"Bird of the wilderness, blithesome and cumberless,\" with the heavy staccato movement of \"Waste endless and boundless and flowerless.\""
   },
   {
     "id": "p-f05eac",
-    "offset": 38013,
+    "offset": 37976,
     "text": "Yet, for all its expressiveness, the music of verse can never stand alone. It is too bare and tenuous by itself to win and keep the attention or to evoke much feeling. It does not possess the purity of color, the loudness, force, or volume of sound that belong to music and make music, almost alone of the arts, capable of existing as mere form. The rhythm of poetry, derived very largely from a rhythm of thought, has need of thought for significance. The thought and the music are one. For this reason poetry is better, I think, when read to oneself than when read aloud; for then the sound and the sense are more intimate; the attention is not drawn off to the former away from the latter. Moreover, try as he will, the poet can never make his word-sounds fully harmonious; some roughness and dissonance will remain; but in silent reading these qualities disappear. However, although by itself of small significance, the musical element in verse makes all the difference between poetry and prose. Through its own vague expressiveness it fortifies the emotional meaning of the poetic language, and, at the same time, sublimates it by scattering it in the medium. And finally it imparts an intimacy, a personal flavor, which also allies poetry with music; for the substance of rhythm is the movement of our own inner processes; the rhythm of thoughts and sounds is a rhythm in our own listening and attending, our own thinking and feeling; the emotional values spring from us as well as from the subject-matter. Hence even narrative and dramatic poetry have a lyrical tone; we ourselves are implicated in the actions and events portrayed."
   },
   {
     "id": "p-5e156f",
-    "offset": 39654,
+    "offset": 39617,
     "text": "The demands made by the form of poetry upon its substance are similar to those made by music upon the words in a song, only less stringent. The content must be emotional and significant; it cannot be trite and cold. The meaning of words would permit the poet to bring before the mind all possible objects, events, and ideas, but the music of words would be incongruous with most of them. Events narrated must be stirring, thoughts uttered must be emotionally toned, things described must be related to human life and action. Poetry may desert the royal themes of long ago--*arma virumque cano, maenin aeide thea*--and relate the lowly life of common folk, even the sordid life of the poor and miserable, but when doing so throws over it the musical glamour of verse and arouses the heat of sympathy and passion. Although, since it makes use of words, poetry should always have a meaning, it need not have the definiteness of meaning of logical thought; it may suggest rather than explicate; its music is compatible with vagueness. But vagueness is not obscurity; the poet should always make us feel that we understand him; he should not seek to mystify us, or keep us guessing at his meaning. Yet, since the poet operates with words and not with mere sounds, great subtlety and precision of thought are possible in poetry, although not argument and dialectic. Poetry may express the results of reflection, so far as they are of high emotional value, but cannot well reproduce its processes; the steps of analysis and inference are too cold and hard for the muse to climb."
   },
   {
     "id": "p-1c4a71",
-    "offset": 41227,
+    "offset": 41190,
     "text": "On the other hand, poetry does not permit of the development and iteration of pure feeling which we find in music; for poetic rhythms and melodies lack the variety and fluency of the musical. Yet poetry is capable, where music is not, of expressing brief, quick outbursts of feeling; for a few words, by referring to the causes and conditions of feeling, may adequately express what music needs time and many tones to convey. Poetry wins beauty by concentration, whereas music gains by expansion. There is also a similar relation between prose and poetry in this respect; the severity of the form imposes upon poetry a simplicity which contrasts with the breadth and complexity of prose. As Schopenhauer remarked, every good poem is short; long poems always contain stretches either of unmusical verse or unpoetic music. Yet, in comparison with prose, the tempo of music is slow; we have to linger in the medium in order that its rhythmic and tonal beauties may impress us, and this slowness of movement is imparted to the thought; even narrative and dramatic poetry suffer retardation; for which reason the poetic form must be abandoned if great rapidity of expression is sought."
   },
   {
     "id": "p-b9f30d",
-    "offset": 42409,
+    "offset": 42372,
     "text": "From our study of the materials and forms of its expression, it becomes clear how the subject-matter of poetry is the inner life of mood and striving and passionate human action. Emotions may be poured forth in words, and, by means of words, actions may be described. But neither passion nor action appear in poetry as they are lived and enacted; for the poet, working in a medium of words, has to translate them into thoughts. Words cannot embody the real experiences which they express; experience is fleeting and falls away from the words, which retain only an echo of what they mean. Only what can be relived in memory can be contained in a word, and not even all of that; for a word is not a mere embodiment of an experience, but a communication also, and only its public and universal content can pass from a speaker to a hearer. Now, this socialized content of a word is a thought. Even passion the most spontaneous and lyrical has to be translated into thought,--not the abstract thought of scientific expression, but the emotionally toned thought of art, thought which, while condensing experience, still keeps its values. Emotional thought is the substance of poetry. However, albeit an image of the inner life, poetry does not volatilize it into pure feeling as music does, but distinguishes its objects and assigns its causes. Poetry is concrete and articulate where music is abstract and blind. Since words, through their meanings and associated images, can express things as well as man's reactions to them, poetry can also reflect the natural environment of life, its habitat and seat. And yet, because the poet has to translate things into ideas, nature never appears in poetry as it is in itself, but as it is implicated in mind. For the poet, sea and sky, the woods and plains and rivers, birds and flowers, are the symbols of human destiny or the loci of human action. Emotion overflows into nature, but this involves the taking up of nature into man. Not nature, but man's thoughtful life is the poet's theme."
   },
   {
     "id": "p-8c7a0a",
-    "offset": 44440,
+    "offset": 44403,
     "text": "If the foregoing statement is correct, emotional thought rather than imagery is the substance of poetry. For poetry, as music with a meaning, can be quite free of definite images. \"_In la sua volantade e nostra pace_\" (In his will is our peace) is beautiful poetry, yet there is no image. The thought formulates a mood and finds a sensuous embodiment in musical language, and that suffices for beauty. And yet in poetry, as has been observed, thought tends to descend into imagery. By being connected with a sensuous material, a thought acquires a firmer support for feeling than it could possess of itself as a mere concept. Especially effective is the descent to the lower senses; for they are closest to the roots of emotion. Let me recall again the Shakespearean lyric which I have quoted before in a similar connection, omitting the last lines of each stanza:--"
   },
   {
     "id": "p-b09076",
-    "offset": 45308,
+    "offset": 45271,
     "text": "Blow, blow, thou winter wind, Thou art not so unkind As man's ingratitude;"
   },
   {
     "id": "p-6bf6a3",
-    "offset": 45384,
+    "offset": 45347,
     "text": "Thy tooth is not so keen Because thou art not seen, Although thy breath be rude."
   },
   {
     "id": "p-401a08",
-    "offset": 45466,
+    "offset": 45429,
     "text": "Freeze, freeze, thou bitter sky, Thou dost not bite so nigh As benefits forgot;"
   },
   {
     "id": "p-3b1d2a",
-    "offset": 45547,
+    "offset": 45510,
     "text": "Though thou the waters warp, Thy sting is not so sharp As friend remembered not."
   },
   {
     "id": "p-32571e",
-    "offset": 45629,
+    "offset": 45592,
     "text": "Here are images of cold--winter, freeze; of touch--blow, breath; of pain--tooth, bite, sting, sharp; of taste--bitter. How vividly they convey the ache of desolation! Only in words which are imaginative as well as musical are the full resources of verbal expression employed."
   },
   {
     "id": "p-3995cd",
-    "offset": 45906,
+    "offset": 45869,
     "text": "All the various forms of metaphorical language have the same purpose: by substituting for a more abstract, conceptual mode of expression a more sensuous and imaginative one, to vivify the emotional quality of the situation. When Keats sings,"
   },
   {
     "id": "p-f62e57",
-    "offset": 46149,
+    "offset": 46112,
     "text": "... on the shore Of the wide world I stand and think Till Love and Fame to nothingness do sink,"
   },
   {
     "id": "p-596b1a",
-    "offset": 46246,
+    "offset": 46209,
     "text": "he has in mind to convey to us that renunciation of merely personal ambitions which comes to us when we \"survey all time and all existence.\" And how does he do it? By evoking the image of the wide stretch of the shore of the sea, which, making us feel our nothingness as we stand and look out upon it, has the same effect, only more poignant. Of the world we have no image--not so, of the shore of the world; and toward what we cannot imagine we cannot easily feel. Oftentimes the metaphor is latent, a mere adjective undeveloped in its implications, as in \"bitter\" sky; yet the purpose is the same. Incidentally the poet unifies our world for us through his metaphors; not as the scientist does by pointing out causal and class relations, but by exhibiting the emotional affinities of things. He increases the value of single things by giving them the values of other things. Every metaphor should serve this purpose of emotional expression and unification, should be part of an emotional thought; otherwise it is a mere *tour de force* of cleverness, unrelated to the poetic interest and intrinsically absurd,--the world has no shore and the wind is not bitter; feeling alone can justify such comparisons. Moreover, too many metaphors, or metaphors too elaborately developed, by scattering the attention, or by drawing it away from the meaning of which the image should be a part, have the effect of no image at all. The poetry of Francis Thompson, for example, loses rather than gains vitality through its imaginative exuberance. We object to decadent poets, not because they are sensuous, but because they lack feeling; with them sensation, instead of supporting emotion, supplants it. Such poets seek to atone for their want of vigorous feeling by stimulating our eyes and ears."
   },
   {
     "id": "p-f53144",
-    "offset": 48031,
+    "offset": 47994,
     "text": "If, as I believe, emotional thought rather than imagery is the essence of poetry, then the modern school of imagists and their French forbears among the \"Parnassiens\" are mistaken. Their effort comes in the end to a revival of the old thesis *ut pictura poesis*, the attempt to make poetry a vision of nature rather than an expression of the inner life. They would lead poetry away from the subjectivity of emotion into the outer object world. Now, it is indeed possible for the poet to represent nature through the images which words evoke in the mind, and these images may have significance for feeling. Their very evocation in musical language is bound to lend them some warmth of mood. Yet--as Lessing showed in his *Laocoon*, despite all the crabbed narrowness of his treatment--it is hopeless for the poet to enter into rivalry with the painter or sculptor. The colors and forms of things which the poet paints for the eye of the mind are mere shadows in comparison with those which we really see. We admire the marvelous workmanship of such verses as the following of Gautier, but they leave us cold; even the melody of the language is incapable of making them warm. How poor they are beside a painting!"
   },
   {
     "id": "p-c3cfca",
-    "offset": 49243,
+    "offset": 49206,
     "text": "Les femmes passent sous les arbres En martre, hermine et menu-vair Et les deesses, frileux marbres, Ont pris aussi l'abit d'hiver."
   },
   {
     "id": "p-4c8705",
-    "offset": 49375,
+    "offset": 49338,
     "text": "La Venus Anadyomene Est en pelisse a capuchon: Flore, que la brise malmene, Plonge ses mains dans son manchon."
   },
   {
     "id": "p-195e04",
-    "offset": 49487,
+    "offset": 49450,
     "text": "Et pour la saison, les bergeres De Coysevox et de Coustou, Trouvant leures echarpes legeres Ont des boas autour du cou."
   },
   {
     "id": "p-ec3a1e",
-    "offset": 49608,
+    "offset": 49571,
     "text": "Of course, poetic pictures can be painted--Gautier has painted them--but the standard for each art is set by what it can do uniquely well. If the poet works in the domain of the painter, we tend to judge him by the alien standards of another art, where he is bound to fall short; while if he works within his own province, we judge him by his own autonomous laws, under which he can achieve perfection."
   },
   {
     "id": "p-e8085e",
-    "offset": 50012,
+    "offset": 49975,
     "text": "Oftentimes, confessing the inability of the image to stand alone, these poets make it into a symbol of some mood or emotional thought. Yet the image remains the chief object of the poet's care; it was clearly the first thing in his mind; the interpretation is an afterthought. The poem therefore falls into two parts--a picture and an interpretation, with little organic relation between them. Another one of Gautier's poems will serve to illustrate what I mean."
   },
   {
     "id": "p-7da0e0",
-    "offset": 50476,
+    "offset": 50439,
     "text": "LES COLOMBES"
   },
   {
     "id": "p-91e929",
-    "offset": 50490,
+    "offset": 50453,
     "text": "Sur le coteau, la-bas ou sont les tombes, Un beau palmier, comme un panache vert, Dresse sa tete, ou le soir les colombes Viennent nicher et se mettre a couvert,"
   },
   {
     "id": "p-18e341",
-    "offset": 50653,
+    "offset": 50616,
     "text": "Mais le matin elles quittent les branches; Comme un collier qui s'egrene, on les voit"
   },
   {
     "id": "p-b09544",
-    "offset": 50740,
+    "offset": 50703,
     "text": "S'eparpiller dans Fair bleu, toutes blanches, Et se poser plus loin sur quelque toil."
   },
   {
     "id": "p-641384",
-    "offset": 50827,
+    "offset": 50790,
     "text": "Mon ame est l'arbre ou tous les soirs, comme elles, De blancs essaims de folles visions Tombent des cieux, en palpitant des ailes, Pour s'envoler des les premiers rayons."
   },
   {
     "id": "p-c7a0f5",
-    "offset": 50999,
+    "offset": 50962,
     "text": "Finally, the effort to detach poetry from the inner world and make it an expression of outer things, is incompatible with its musical character. For music is essentially subjective, an expression of pure mood unaffixed to objects. As rhythmical, poetry shares the inwardness of music; wherefore, unless its rhythm is to be a mere functionless, ornamental dress, whatever it expresses should have its source in the inner man. Of course, through their meanings, word-sounds indicate the causes and objects of emotion--and this differentiates music from poetry--but in poetry the emotion is still the primary thing, springing from inner strivings, and not from objects, as in painting and sculpture. It is therefore no accident that the contemporary imagists tend to abandon the forms of verse; their poetry has little or no regular rhythm; it approximates to prose. For in proportion as poetry becomes free, it ceases to be tied to musical expressiveness, and may become objective, without prejudice to its own nature. Prose poetry, and prose too, of course, may be highly emotional and subjective, for words can express emotions directly without any rhythmical ordering; yet prose need not be subjective, as poetry must be. There is no absolute difference between prose and poetry; for even prose has its rhythm and its euphony, its expressiveness of the medium; yet in prose the rhythm is irregular and accidental and the expressiveness of the medium incomplete, while in poetry the rhythm is regular and pervasive and ideally every sound-element, as mere sound, is musical. But this more complete musical expressiveness of the medium restricts poetry to a more inward world."
   },
   {
     "id": "p-6b8962",
-    "offset": 52676,
+    "offset": 52639,
     "text": "By abandoning the strict forms and restraints of regular rhythms, the writers of free verse think to gain spontaneity and something of the amplitude of prose; yet it is doubtful whether they gain as much as they lose. For, in the hands of the skillful poet, the form, having become second nature, ceases to be a bond; and the expression, by taking on regularity of rhythm, acquires a concentration and mnemonic value which free verse cannot achieve. In comparison with free verbal expressions, verse forms are, indeed, artifices; yet they are not artificial, in the bad sense of functionless, for they possess irreplaceable values. Nevertheless, it would be strange if they were not from time to time abandoned, the poet reverting to the freedom of ordinary speech; just as now and then, in civilized communities, we find vigorous and sincere men who tire of culture and take to the woods."
   },
   {
     "id": "p-022ee4",
-    "offset": 53567,
+    "offset": 53530,
     "text": "The triplicity of the word, as sound, image, meaning, provides a certain justification for the variety of tastes in poetry, and accounts for the difficulty of setting up a single universal standard. There is an unstable equilibrium between the three aspects of words; hence poetry tends to become predominantly music or painting or thought, yet can never succeed in becoming completely any one of these. And it is inevitable that some people should be more sensitive to one rather than to another of the aspects of words, preferring therefore the more musical, or the more thoughtful, or the more pictorial poetry. And so we have poems that would be music, and others that would be pictures, and still others that would be epigrams. And each kind has a certain right and beauty; but no kind has the unique beauty that is poetical. We do not ask their makers not to produce them, nor do we condemn the pleasures which they afford us, but we cannot commend them without reservation. For the best poems achieve a synthesis of the elements of words,--they are at once musical and imaginative and thoughtful. Yet with difficulty; for there is an antagonism among the elements: when the music is insistent, the thought is obscured; when the images are elaborate, their meaning is lost to sight; when the thought is subtle or profound, it rejects the image and is careless of sound. Swinburne's poetry is full of philosophy, but is so sensuous and musical that we miss its thoughts; Browning is too subtle a thinker to be a musician. The complexity of poetry is the source of its strength, lending it something of the inwardness of music and the plasticity of the pictorial arts; but is also the source of its weakness. Seldom does it achieve the technical purity and perfection of music and painting and sculpture. Music has a clear and simple medium, painting and sculpture work with colors and forms which almost are what they represent; but word-sounds are not what they mean, and what they mean is not precisely the same as the images which they evoke; too often the correspondence is factitious and artificial, rarely is there fusion. Yet, as I have tried to show, when meaning is made central, sound may fit it closely, and when the meaning is emotional, the music of sound may echo its cry, and the image, instead of rebelling, may serve. Emotional thought is the essence of poetry and the link between its music and its pictures."
   },
   {
     "id": "p-71fbfe",
-    "offset": 56000,
+    "offset": 55963,
     "text": "Of the different modes of poetry, the lyric has rightly seemed the most typical. Being an expression of a single, simple mood, its subject-matter is most closely akin to the musical expressiveness of the rhythm and euphony of the medium. When, moreover, the mood is a common one, there occurs that identification of self with the passion expressed characteristic of music: the utterance becomes ours as well as the poet's; the \"I\" of the poem is the \"I\" who read. This is especially true when the setting and causes of the emotion are without name or place or date; the poem then shares the timelessness and universality of music. In such a lyric there is complete symmetry in the relation between speaker and hearer; the poet unburdens his heart to us, and we in receiving his message tell it back to him. When, on the other hand, in explaining his feelings, the poet relates them to events and persons which have been no part of our experience, this symmetry is lost; we no longer utter the poem ourselves, but merely hear the poet speak. Such poetry is already approaching the dramatic; for although still the expression of the poet's life, it is no longer an expression of the reader's life, and the poet also, as he lives past his experience, must come at length to view it as if it were another's."
   },
   {
     "id": "p-774792",
-    "offset": 57305,
+    "offset": 57268,
     "text": "And yet, paradoxical as it may sound, dramatic poetry is dramatic in proportion as it is lyrical--that is, according to the degree to which the poet has made the life of others his own. Dramatic poetry, when truly poetic, is a series of lyrics of the less universal type. In another respect, however, dramatic poetry is essentially different from the lyrical. For, in dramatic poetry, each utterance is a response or invitation to another utterance, while in lyric poetry, utterance is complete in itself. The one is social, the other personal: in the appreciation of the lyric, the reader is just himself; in the appreciation of dramatic poetry, he is a whole society, becoming now this man and now that. The unity of the one is the unity of a single mood; the unity of the other is the interaction of the dramatis person as it works itself out in the mind of the reader. And this difference, as we have seen, is imaged in the form. Being self-contained, the lyric is a harmonious whole, in which the parts may be repeated for emphasis; looking backward and forward, the dramatic utterance is a progressive and incomplete whole, which cannot stay for iteration. Lyric poetry is like a communication from friend to friend, intimate and meditative; dramatic poetry is like a passionate conversation which one overhears."
   },
   {
     "id": "p-589c6a",
-    "offset": 58625,
+    "offset": 58588,
     "text": "The life portrayed in the epic poem is even less direct than that which is portrayed in the drama; for there the poet does not impersonate the agents in the story, but describes them. His description is the first thing which we get; we get the action only indirectly through that. Hence the story-teller himself--his manner of telling, his reactions to what he tells, his sympathy, humor, and intelligence--are part of what he expresses. He himself is partly theme. No matter how hard he may try to do so, he cannot exclude himself; through his choice of words, through his illustrations, through his style, \"which is the man,\" he will reveal himself. We inevitably apprehend, not merely his thoughts, but him thinking. In the epic form of poetry, the poet has, moreover, an opportunity for a more direct mode of self-revelation, an opportunity for comment and judgment upon the life which he portrays. And this we should accept, not in a spirit of controversy or criticism, but with sympathy, as a part of the total aesthetic expression, striving to get, not only the poet's story, but his point of view regarding it as well."
   },
   {
     "id": "p-d6f223",
-    "offset": 59753,
+    "offset": 59716,
     "text": "This duality in the life of the epic involves a two-foldness in its time. In both lyric and dramatic poetry, life moves before us as a single stream actual in the present; but in the epic there is the time of the story-teller, which is present, and the time of the events that he relates, which is past. And being past, these events appear as it were at a distance, at arms' length and remote; they lack the vivid reality of things present. Moreover, since the past is finished, unlike the present which is ever moving and creating itself anew, the epic, in comparison with the drama, comes to us with its parts as it were coexisting and complete, more after the manner of space than of time. And just as a spatial thing allows us to survey its parts by turn, since they are all there before we look; so, in reading an epic, we feel that we can proceed at our leisure and, despite the causal relation, take the incidents in any order. It is not so in the drama, where events move rapidly and make themselves in a determined sequence. This is what Goethe meant when he said that substantiality was the category of the epic, causality of the drama, although, of course, this distinction is not absolute."
   },
   {
     "id": "p-8f916c",
-    "offset": 60956,
+    "offset": 60919,
     "text": "Finally, the fact that the epic poet tells rather than impersonates his story, enables him to enlarge its scope; for by means of descriptions he can introduce nature as one of the persons of the action. He can show the molding influence of nature upon man, and how man, in turn, interacts not only with his fellows, but with his environment. Fate, in the sense of the non-human determinants of man's career, can show its hand. In the *Odyssey*, for example, shipwreck and the interference of the gods are factors as decisive as Odysseus' courage and cunning. By contrast, in lyric poetry, nature is merely a reflection of moods; in dramatic poetry, it is simply the passive, causally ineffective stage for a social experience wholly determined by human agents. This distinction is, however, not absolute. In *Brand*, for example, through the stage directions and the utterance of the persons, we are indirectly made aware of the control exerted by the physical background of the action; in the Greek drama we learn this from the Chorus and the Prologue."
   }
 ]

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 9430
+word_count: 9420
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -27,8 +27,6 @@ Fallacies, whether paralogisms or sophisms, may be divided into two classes: (a)
 § 2. Formal Fallacies of Deduction and Induction are, all of them, breaches of the rule 'not to go beyond the evidence.' As a detailed account of them would be little else than a repetition of the foregoing chapters, it may suffice to recall some of the places at which it is easiest to go astray.
 
 (1) It is not uncommon to mistake the Contrary for the Contradictory, as--A is not taller than B, .'. he is shorter.
-
-(2) To convert *A.* or *O.* simply, as--
 
 All Money is Wealth .'. All Wealth is Money;
 
@@ -489,8 +487,6 @@ Explain and contrast these two theories of the relation of induction to deductio
 120. Explain how good scientific nomenclature and terminology are connected with the purposes of good classification. [L]
 
 _Printed in Great Britain by Hazell, Watson & Viney, Ld., London and Aylesbury for Simpkin, Marshall, Hamilton, Kent & Co. Ltd._
-
-[Transcriber's Note:
 
 The following corrections were made to the original text:
 

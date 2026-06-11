@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 23412
+word_count: 23371
 source_url: "https://www.gutenberg.org/ebooks/5246"
 translator: Project Gutenberg edition
 ---
@@ -130,15 +130,11 @@ Love, declares Renan, is one of the principal revelations of the divine, and he 
 
 It is the spirit of love and goodness which Renan admires in the simple faith of those separated far from him in their theological ideas. “God forbid,” he says, “that I should speak slightingly of those who, devoid of the critical sense, and impelled by very pure and powerful religious motives, are attached to one or other of the great established systems of faith. I love the simple faith of the peasant, the serious conviction of the priest.”
 
-*L’Avenir de la Science*, pp. 436, 437; Eng. trans., p. 410.
-
 “Supprimer Dieu, serait-ce amoindrir l’univers?”
 
 asks Guyau in one of his *Vers d’un Philosophe*.’ Renan observes that if we tell the simple to live by aspiration after truth and beauty, these words would have no meaning for them. “Tell them to love God, not to offend God, they will understand you perfectly. God, Providence, soul, good old words, rather heavy, but expressive and respectable which science will explain, but will never replace with advantage. What is God for humanity if not the category of the *ideal*?”
 
 *“Question,” Vers d’un Philosophe*, p. 65.
-
-*L’Avenir de la Science*,” p. 476; Eng. trans., p. 445.
 
 This is the point upon which Vacherot insisted in his treatment of religion. He claimed that the conception of God arises in the human consciousness from a combination of two separate ideas. The first is the notion of the Infinite which Science itself approves, the second the notion of perfection which Science is unable to show us anywhere unless it be found in the human consciousness and its thoughts, where it abides as the magnetic force ever drawing us onward and acts at the same time as a dynamic, giving power to every progressive movement, being “the Ideal” in the mind and heart of man.
 
@@ -157,8 +153,6 @@ Renouvier’s great enthusiasm for his periodical is the main feature of this pe
 *La Critique philosophique*, 1889, tome ii., p. 403.
 
 It was with this precise object in view that, in 1878, he added to his *Critique philosophique* a supplement which he entitled _La Critique religieuse_, a quarterly intended purely for propaganda purposes. “Criticism,” he had said, “is in philosophy what Protestantism is in religion.” As certitude is, according to Renouvier’s doctrines, the fruit of intelligence, heart and will, it can never be obtained by the coercion of authority or by obedience such as the Roman Church demands. He appealed to the testimony of history, as a witness to the conflict between authority and the individual conscience. Jesus, whom the Church adores, was himself a superb example of such revolt. History, however, shows us, says Renouvier, the gradual decay of authority in such matters. Thought, if it is really to be thought in its sincerity, must be free. This Renouvier realised, and in this freedom he saw the characteristic of the future development of religion, and shows himself, in this connection, in substantial agreement with Renan and Guyau.
-
-*Ibid*., 1873, pp. 145-146.
 
 Renouvier’s interest in theology and religion, and in the theological implications of all philosophical thought, was not due merely to a purely speculative impulse, but to a very practical desire to initiate a rational restatement of religious conceptions, which he considered to be an urgent need of his time. He lamented the influence of the Roman Church over the minds of the youth of his country, and realised the vital importance of the controversy between Church and State regarding secular education. Renouvier was a keen supporter of the secular schools (*écoles laïques*). In 1879, when the educational controversy was at its height, he issued a little book on ethics for these institutions (*Petit Traité de Morale pour les Ecoles laïques*), which was republished in an enlarged form in 1882, when the secular party, ably led by Jules Ferry, triumphed in the establishment of compulsory, free, secular education. That great achievement, however, did not solve all the difficulties presented by the Church in its educational attitude, and even now the influence of clericalism is dreaded.
 
@@ -251,10 +245,6 @@ He cites a curious case of anti-religious fanaticism at Marseilles in 1885, when
 Guyau’s book abounds in illustrations. He mentions here Huss’s approval of the sincerity of one man who brought straw from his own house to burn him. Huss admired this act of a man in whom he saw a brother in sincerity.
 
 It is with great wealth of discussion that Guyau recounts the genesis of religions in primitive societies to indicate the sociological basis of religion. More important are his chapters on the dissolution of religions in existing societies, in which he shows the unsatisfactoriness of the dogmas of orthodox Protestantism equally with those of the Catholic Church. As mischievous as the notion of an infallible Church is that of an infallible book, literally—that is to say, foolishly-interpreted. He recognises that for a literal explanation of the Bible must be substituted, and is, indeed, being substituted, a literary explanation. Like Renan, he criticises the vulgar conception of prayer and of religious morality which promotes goodness by promise of paradise or fear of hell. He urges in this connection the futility of the effort made by Michelet, Quinet and, more especially, by Renouvier and Pillon to “Protestantise” France. While admitting a certain intellectual, moral and political superiority to it, Guyau claims that for the promotion of morality there is little use in substituting Protestantism for Catholicism. He forecasts the limitation of the power of priests and other religious teachers over the minds of young children. Protestant clergymen in England and America he considers to be no more tolerant in regard to the educational problem than the priests. Guyau urges the importance of an elementary education being free from religious propaganda. He was writing in 1886, some years after the secular education law had been carried. There is, however, more to be done, and he points out “how strange it is that a society should not do its best to form those whose function it is to form it.” In higher education some attention should be given to the comparative study of religions. “Even from the point of view of philosophy, Buddha and Jesus are more important than Anaximander or Thales.” It is a pity, he thinks, that there is not a little more done to acquaint the young with the ideas for which the great world-teachers, Confucius, Zoroaster, Buddha, Socrates, Mohammed, stood, instead of cramming a few additional obscure names from early national history. It would give children at least a notion that history had a wider range than their own country, a realisation of the fact that humanity was already old when Christ appeared, and that there are great religions other than Christianity, religions whose followers are not poor ignorant savages or heathen, but intelligent beings, from whom even Christians may learn much. It is thoroughly mischievous, he aptly adds, to bring up children in such a narrow mental atmosphere that the rest of their life is one long disillusionment.
-
-*L’Irréligion de l’Avenir*, p. 232; Eng. trans., p. 278.
-
-*Ibid*., p. 236; Eng. trans., p. 283.
 
 With particular reference to his own country, Guyau criticises the religious education of women, the question of “mixed marriages,” the celibacy of the Roman Catholic clergy, and the influence of religious beliefs upon the limitation or increase of the family.
 

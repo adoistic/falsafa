@@ -22,9 +22,9 @@ An Enquiry Concerning the Principles of Morals, by David Hume (1711-1776), from 
 
 ## Chapters
 
-01. [Section II — OF BENEVOLENCE](./chapters/01/) — prose, 1 variant
-02. [Section III — OF JUSTICE](./chapters/02/) — prose, 1 variant
-03. [Section I — , Appendix I. With regard to justice, the virtue](./chapters/03/) — prose, 1 variant
+01. [Section I — OF THE GENERAL PRINCIPLES OF MORALS](./chapters/01/) — prose, 1 variant
+02. [Section II — OF BENEVOLENCE](./chapters/02/) — prose, 1 variant
+03. [Section III — OF JUSTICE](./chapters/03/) — prose, 1 variant
 04. [Section IV](./chapters/04/) — prose, 1 variant
 05. [Section V — WHY UTILITY PLEASES](./chapters/05/) — prose, 1 variant
 06. [Section VI — OF QUALITIES USEFUL TO OURSELVES](./chapters/06/) — prose, 1 variant

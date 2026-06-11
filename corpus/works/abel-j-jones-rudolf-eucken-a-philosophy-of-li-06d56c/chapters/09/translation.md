@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3605
+word_count: 3376
 source_url: "https://www.gutenberg.org/ebooks/14357"
 translator: Project Gutenberg edition
 ---
@@ -68,13 +68,9 @@ INDEX
 
 Absolute, the, 63 ---- Freedom and the, 61, 62 ---- Personality and the, 62, 63 ---- and historical religion, chap. viii. ---- religion, Christianity as the, 72
 
-Activism, 41, 42
-
 Atonement, the, 79
 
 Bergson, 39
-
-Buddhism, 70, 71
 
 Characteristic Religion, 66, 67
 
@@ -96,13 +92,9 @@ Eternal and transient in religion and Christianity, 72, 73 ---- truth contrasted
 
 Eucken, assumptions made by, 88 ---- bias, 87 ---- charge of irrationalism, 88, 89 ---- contributions to philosophy and religion, 90, 91 ---- faults of style, 86 ---- Incompleteness of philosophy of, 87 ---- Special excellences of philosophy of, 89
 
-Evil, 51
-
 Faith, 76
 
 Freedom, ascent to, 59 ---- and the absolute, 61, 62 ---- and naturalism, 26
-
-God, is God a person? 63, 64 ---- Nature of, 63, 64
 
 Historical and absolute religion, chap. viii. ---- bases of Christianity, 80, 81
 
@@ -125,8 +117,6 @@ Independence of the spiritual life, 52, 53
 Individualism, and personality, 59, 62 ---- as a solution of the problem of life, 26-32 ---- idealistic presuppositions of, 31, 48
 
 Irrationalism, charge of, 88, 89
-
-James, William, 39, 40
 
 Law, religions of, 69, 70
 
@@ -152,21 +142,13 @@ Naturalism and freedom, 26 ---- as a solution of the problem of life, 22-26 ----
 
 Natural life, relation to spiritual life, 52-54 ---- ---- Superiority of spiritual over, 52-54 ---- man and spiritual man, 53, 54
 
-Nature, limits of, 52 ---- of God, 63, 64
-
 Negative movement, the, 57, 73
 
 New immediacy, the, 58
 
 Nöological position, the, 50
 
-Pantheism, 20, 51, 56
-
 Past, the, not irrevocable, 44, 73
-
-Personality and individualism, 59, 62 ---- and the absolute, 62, 63 ---- gaining of, 54, 59 ---- of Christ, 80 ---- of God, 63, 64
-
-Philosophy and history, 43-49 ---- of life, 13 ---- problems of, 10, 11
 
 Pragmatism, 40, 41
 
@@ -182,8 +164,6 @@ Rationalism, 37-39
 
 Redemption, 73
 
-Religion and history, 17, 18 ---- and human activity, 18 ---- and science, 19 ---- as solution of problem of life, 16, 19 ---- Characteristic, 66, 67 ---- Christianity as highest form of, 71, 72 ---- Christianity as the absolute, 72 ---- Essential characteristics of, 65, 66 ---- Eternal and transient in, 72, 73 ---- Eucken's contributions to, 90, 91 ---- Historical and absolute, chap. viii. ---- of law, 69, 70 ---- of redemption, 69, 70 ---- Purpose of, 65, 66 ---- Universal, 66 ---- what is it? 64, 65
-
 Resurrection, the, 77
 
 Revelation, 75
@@ -191,8 +171,6 @@ Revelation, 75
 Science, and religion, 17
 
 Socialism, as a solution of the problem of life, 26-32 ---- idealistic presuppositions of, 31, 48
-
-Spiritual life, 14 ---- ---- Independence of the, 52 ---- ---- Relation of, to natural life, 52-54 ---- ---- Superiority of, over material and mental, 52-54 ---- ---- The universal, 47-49, and chaps. v., vi., and vii. (vii. especially)
 
 Spiritual man and natural man, 53, 54
 
@@ -266,8 +244,6 @@ SCIENCE
 
 *64. Navigation By W. Hall, R.N., B.A.
 
-*65. Pond Life By E.C. Ash, M.R.A.C.
-
 *66. Dietetics By Alex. Bryce, M.D., D.P.H.
 
 *94. The Nature of Mathematics By P.G.B. Jourdain, M.A.
@@ -286,8 +262,6 @@ PHILOSOPHY AND RELIGION
 
 *26. Henri Bergson By H. Wildon Carr.
 
-*27. Psychology By H.J. Watt, M.A., Ph. D.
-
 28. Ethics By Canon Rashdall, D. Litt., F.B.A.
 
 29. Kant's Philosophy By A.D. Lindsay, M.A.
@@ -297,8 +271,6 @@ PHILOSOPHY AND RELIGION
 *67. Aristotle By Prof. A.E. Taylor, M.A., F.B.A.
 
 *68. Nietzsche By M.A. Mügge, Ph. D.
-
-*69. Eucken By A.J. Jones, M.A., B. Sc., Ph. D.
 
 70. The Experimental Psychology By C.W. Valentine, B.A. of Beauty
 

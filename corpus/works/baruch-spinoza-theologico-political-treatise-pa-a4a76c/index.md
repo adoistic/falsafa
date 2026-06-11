@@ -11,8 +11,8 @@ language: English
 language_direction: ltr
 description: "Theologico-Political Treatise, Part 4, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain text."
 difficulty: Advanced
-total_logical_chapters: 3
-total_variant_entries: 3
+total_logical_chapters: 1
+total_variant_entries: 1
 thothica_role: catalog
 ---
 
@@ -22,6 +22,4 @@ Theologico-Political Treatise, Part 4, by Baruch Spinoza (1632-1677), from Proje
 
 ## Chapters
 
-01. [Part IV — of IV - Chapters XVI to XX](./chapters/01/) — prose, 1 variant
-02. [Chapter XVI](./chapters/02/) — prose, 1 variant
-03. [Chapter XVII](./chapters/03/) — prose, 1 variant
+01. [Theologico-Political Treatise, Part 4](./chapters/01-theologico-political-treatise-part-4/) — prose, 1 variant

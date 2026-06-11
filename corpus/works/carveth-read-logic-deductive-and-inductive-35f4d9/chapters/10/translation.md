@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 4646
+word_count: 4140
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -66,21 +66,9 @@ Such departures as these from the normal syllogistic form are said to constitute
 
 It may facilitate the recollection of this most important point if we schematise the figures thus:
 
-I. II. III. IV.
-
-M---P P---M M---P P---M \ | | / \ | | / \ | | / S---M S---M M---S M---S
-
 The horizontal lines represent the premises, and at the angles formed with them by the slanting or by the perpendicular lines the middle term occurs. The schema of Figure IV. resembles Z, the last letter of the alphabet: this helps one to remember it in contrast with Figure I., which is thereby also remembered. Figures II. and III. seem to stand back to back.
 
 § 3. The Moods of each Figure are the modifications of it which arise from different combinations of propositions according to quantity and quality. In Figure I., for example, four Moods are recognised: A.A.A., E.A.E., A.I.I., E.I.O.
-
-A. All M is P; A. All S is M: A. .'. All S is P.
-
-E. No M is P; A. All S is M: E. .'. No S is P.
-
-A. All M is P; I. Some S is M: I. .'. Some S is P.
-
-E. No M is P; I. Some S is M: O. .'. Some S is not P.
 
 Now, remembering that there are four Figures, and four kinds of propositions (A. I. E. O.), each of which propositions may be major premise, minor premise, or conclusion of a syllogism, it appears that in each Figure there may be 64 Moods, and therefore 256 in all. On examining these 256 Moods, however, we find that only 24 of them are valid (i.e., of such a character that the conclusion strictly follows from the premises), whilst 5 of these 24 are needless, because their conclusions are 'weaker' or less extensive than the premises warrant; that is to say, they are particular when they might be universal. Thus, in Figure I., besides the above 4 Moods, A.A.I. and E.A.O. are valid in the sense of being conclusive; but they are superfluous, because included in A.A.A. and E.A.E. Omitting, then, these 5 needless Moods, which are called 'Subalterns' because their conclusions are subaltern (chap. vii. § 2) to those of other Moods, there remain 19 Moods that are valid and generally recognised.
 
@@ -92,25 +80,11 @@ Now, remembering that there are four Figures, and four kinds of propositions (A.
 
 (3) Direct application of the Common Canons is, perhaps, the simplest plan. First write out the 64 Moods that are possible without regard to Figure, and then cross out those which violate any of the Canons or Corollaries, thus:
 
-[Transcriber's Note: Moods surrounded with square brackets were crossed out in the original text.]
-
-AAA, [AAE] (6th Can. b). AAI. [AAO] (6th Can. b). [AEA] (6th Can. a) AEE, [AEI] (6th Can. a) AEO, [AIA] (Cor. ii.) [AIE] (6th Can. b) AII, [AIO] (6th Can. b) [AOA] (6th Can. a) [AOE] (Cor. ii.) [AOI] (6th Can. a) AOO.
-
 Whoever has the patience to go through the remaining 48 Moods will discover that of the whole 64 only 11 are valid, namely:
-
-A.A.A., A.A.I., A.E.E., A.E.O., A.I.I., A.O.O., E.A.E., E.A.O., E.I.O., I.A.I., O.A.O.
 
 These 11 Moods have next to be examined in each Figure, and if valid in every Figure there will still be 44 moods in all. We find, however, that in the First Figure, A.E.E., A.E.O., A.O.O. involve illicit process of the major term (3rd Can.); I.A.I., O.A.O. involve undistributed Middle (4th Can.); and A.A.I., E.A.O. are subalterns. In the Second Figure all the affirmative Moods, A.A.A., A.A.I., A.I.I., I.A.I., involve undistributed Middle; O.A.O. gives illicit process of the major term; and A.E.O., E.A.O. are subalterns. In the Third Figure, A.A.A., E.A.E., involve illicit process of the minor term (3rd Can.); A.E.E., A.E.O., A.O.O., illicit process of the major term. In the Fourth Figure, A.A.A. and E.A.E. involve illicit process of the minor term; A.I.I., A.O.O., undistributed Middle; O.A.O. involves illicit process of the major term; and A.E.O. is subaltern.
 
 Those moods of each Figure which, when tried by these tests, are not rejected, are valid, namely:
-
-Fig. I.--A.A.A., E.A.E., A.I.I., E.I.O. (A.A.I., E.A.O., Subaltern);
-
-Fig. II.--E.A.E., A.E.E., E.I.O., A.O.O. (E.A.O., A.E.O., Subaltern);
-
-Fig. III.--A.A.I., I.A.I., A.I.I., E.A.O., O.A.O., E.I.O.;
-
-Fig. IV.--A.A.I., A.E.E., I.A.I., E.A.O., E.I.O. (A.E.O., Subaltern).
 
 Thus, including subaltern Moods, there are six valid in each Figure. In Fig. III. alone there is no subaltern Mood, because in that Figure there can be no universal conclusion.
 
@@ -176,49 +150,23 @@ Now in Fig. II. the Middle Term is predicate of both premises; so that the minor
 
 Camestres. Celarent.
 
-All P is M; ----\ /---> No M is S; \ c/ \/ s/\ / \ No S is M: ----/ \---> All P is M:
-
-s.c. .'. No S is P. <----------- No P is S.
-
 The Ostensive Reduction of Baroco also needs special explanation; for as it used to be reduced indirectly, its name gives no indication of the ostensive process. To reduce it ostensively let us call it Faksnoko, where k means 'obvert the foregoing premise.' By thus obverting (k) and simply converting (s) (in sum, contrapositing) the major premise, and obverting the minor premise, we get a syllogism in Ferio, thus:
-
-Baroco or Faksnoko. Ferio. *contrap* All P is M; -----------------------> No m (not-M) is P;
-
-*obv* Some S is not M: -----------------------> Some S is m (not-M): .'. Some S is not P. .'. Some S is not P.
 
 In Fig. III. the middle term is subject of both premises; so that, to reduce its Moods to the First Figure, it may be enough to convert the minor premise. This is the case with Darapti, Datisi, Felapton, and Ferison. But, with Disamis, since the major premise must in the First Figure be universal, we must transpose the premises, and then simply convert the new minor premise; and, lastly, since the major and minor terms have now changed places, we must simply convert the new conclusion in order to verify the old one. Thus:
 
 Disamis. Darii.
 
-Some M is P; ----\ /---> All M is S; \s./ \/ /\c. / \ All M is S: ----/ \---> Some P is M:
-
-s.c. .'. Some S is P. <------------- .'. Some P is S.
-
 Bocardo, like Baroco, indicates by its name the indirect process. To reduce it ostensively let its name be Doksamrosk, and proceed thus:
 
 Bocardo or Doksamrosk. Darii.
-
-Some M is not P; ----------\ /---------> All M is S; \ / \/ /\ *contrap* / \ All M is S: ----------/ \---------> Some p (not-P) is M:
-
-*convert & obvert* .'. Some S is not P. <------------------------- .'. Some p (not-P) is S.
 
 In Fig. IV. the position of the middle term is, in both premises, the reverse of what it is in the First Figure; we may therefore reduce its Moods either by transposing the premises, as with Bramantip, Camenes, and Dimaris; or by converting both premises, the course pursued with Fesapo and Fresison. It may suffice to illustrate by the case of Bramantip:
 
 Bramantip. Barbara.
 
-All P is M; ----------\ /------> All M is S; \/ /\ All M is S: ----------/ \------> All P is M:
-
-convert per acc. .'. Some S is P. <----------------------- .'. All P is S.
-
 This case shows that a final significant consonant (s, p, or sk) in the name of any Mood refers to the conclusion of the new syllogism in the First Figure; since p in Bramantip cannot refer to that Mood's own conclusion in I.; which, being already particular, cannot be converted *per accidens*.
 
 Finally, in Fig. I., Darii and Ferio differ respectively from Barbara and Celarent only in this, that their minor premises, and consequently their conclusions, are subaltern to the corresponding propositions of the universal Moods; a difference which seems insufficient to give them rank as distinct forms of demonstration. And as for Barbara and Celarent, they are easily reducible to one another by obverting their major premises and the new conclusions, thus:
-
-Barbara. Celarent. obv. All M is P; -----------------------> No M is p (not-P);
-
-All S is M: -----------------------> All S is M:
-
-obv. .'. All S is P. <------------------- .'. No S is p (not-P).
 
 There is, then, only one fundamental syllogism.
 
@@ -240,10 +188,6 @@ De Morgan praised the old verses as "more full of meaning than any others that e
 
 Baroco. Barbara.
 
-All P is M; -----------------> All P is M;
-
-Some S is not M: <-----\ /-----> All S is P: \ / contradictory \/ /\ contradictory / \ .'. Some S is not P ------/ \------ .'. All S is M.
-
 But the original minor premise, *Some S is not M*, is true by hypothesis; and therefore the conclusion of Barbara, *All S is M*, is false. This falsity cannot, however, be due to the form of Barbara, which we know to be valid; nor to the major premise, which, being taken from Baroco, is true by hypothesis: it must, therefore, lie in the minor premise of Barbara, *All S is P*; and since this is contradictory of the conclusion of Baroco *Some S is not P*, that conclusion was true.
 
 Similarly, with Bocardo, the Indirect Reduction proceeds by substituting for the major premise the contradictory of the conclusion; thus again obtaining the premises of a syllogism in Barbara, whose conclusion is contradictory of the original major premise. Hence the initial B in Baroco and Bocardo: it points to a syllogism in Barbara as the means of Indirect Reduction (*Reductio ad impossibile*).
@@ -251,8 +195,6 @@ Similarly, with Bocardo, the Indirect Reduction proceeds by substituting for the
 Any other Mood may be reduced indirectly: as, for example, Dimaris. If this is supposed to be invalid and the conclusion false, substitute the contradictory of the conclusion for the major premise, thus obtaining the premises of Celarent:
 
 Dimaris. Celarent.
-
-contradictory Some P is M; <--------- --------> No S is P; \ / \/ All M is S: -----------/\---------> All M is S: / \ contradictory/ \ .'. Some S is P. ----------- -------- .'. No M is P} } simply converted .'. No P is M}
 
 The conclusion of Celarent, simply converted, contradicts the original major premise of Dimaris, and is therefore false. Therefore the major premise of Celarent is false, and the conclusion of Dimaris is true. We might, of course, construct mnemonic names for the Indirect Reduction of all the Moods: the name of Dimaris would then be Cicari.
 

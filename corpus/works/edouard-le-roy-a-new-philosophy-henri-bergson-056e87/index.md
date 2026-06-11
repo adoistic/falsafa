@@ -11,8 +11,8 @@ language: English
 language_direction: ltr
 description: "A New Philosophy: Henri Bergson, by Édouard Le Roy (1870-1954), from Project Gutenberg's public-domain text."
 difficulty: Advanced
-total_logical_chapters: 1
-total_variant_entries: 1
+total_logical_chapters: 5
+total_variant_entries: 5
 thothica_role: catalog
 ---
 
@@ -22,4 +22,8 @@ A New Philosophy: Henri Bergson, by Édouard Le Roy (1870-1954), from Project Gu
 
 ## Chapters
 
-01. [A New Philosophy: Henri Bergson](./chapters/01-a-new-philosophy-henri-bergson/) — prose, 1 variant
+01. [IV](./chapters/01-iv/) — prose, 1 variant
+02. [I](./chapters/02-i/) — prose, 1 variant
+03. [II](./chapters/03-ii/) — prose, 1 variant
+04. [III](./chapters/04-iii/) — prose, 1 variant
+05. [Chapter II — )](./chapters/05/) — prose, 1 variant

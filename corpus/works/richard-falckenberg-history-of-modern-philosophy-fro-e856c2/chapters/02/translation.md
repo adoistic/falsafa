@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 22712
+word_count: 22684
 source_url: "https://www.gutenberg.org/ebooks/11100"
 translator: Project Gutenberg edition
 ---
@@ -195,8 +195,6 @@ The *Religio Medici* (1642) of Sir Thomas Browne shows similar tendencies.
 %9. Preliminary Survey.%
 
 In the line of development from the speculations of Nicolas of Cusa to the establishment of the English philosophy of nature, of religion, and of the state by Bacon, Herbert, and Hobbes, and to the physics of Galileo, modern ideas have manifested themselves with increasing clearness and freedom. Hobbes himself shows thus early the influence of Descartes's decisive step, with which the twilight gives place to the brightness of the morning. In Descartes the empiricism and sensationalism of the English is confronted by rationalism, to which the great thinkers of the Continent continue loyal. In Britain, experience, on the Continent the reason is declared to be the source of cognition; in the former, the point of departure is found in particular impressions of sense, on the latter, in general concepts and principles of the understanding; there the method of observation is inculcated and followed, here, the method of deduction. This antithesis remained decisive in the development of philosophy down to Kant, so that it has long been customary to distinguish two lines or schools, the Empirical and the Rationalistic, whose parallelism may be exhibited in the following table (when only one date is given it indicates the appearance of the philosopher's chief work):
-
-*Empiricism. Rationalism*. Bacon, 1620. (Nicolas, 1450; Bruno, 1584). Hobbes, 1651. *Descartes*, died 1650. *Locke*, 1690 (1632-1704). Spinoza, (1632-) 1677. Berkeley, 1710. *Leibnitz*, 1710. Hume, 1748. Wolff, died 1754.
 
 We must not forget, indeed, the lively interchange of ideas between the schools (especially the influence of Descartes on Hobbes, and of the latter on Spinoza; further, of Descartes on Locke, and of the latter on Leibnitz) which led to reciprocal approximation and enrichment. Berkeley and Leibnitz, from opposite presuppositions, arrive at the same idealistic conclusion--there is no real world of matter, but only spirits and ideas exist. Hume and Wolff conclude the two lines of development: under the former, empiricism disintegrates into skepticism; under the latter, rationalism stiffens into a scholastic dogmatism, soon to run out into a popular eclecticism of common sense.
 

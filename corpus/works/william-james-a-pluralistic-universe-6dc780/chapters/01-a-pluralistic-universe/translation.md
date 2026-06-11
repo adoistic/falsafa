@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 72088
+word_count: 71488
 source_url: "https://www.gutenberg.org/ebooks/11984"
 translator: Project Gutenberg edition
 ---
@@ -780,10 +780,6 @@ NOTES
 
 LECTURE I
 
-Note 1, page 5.--Bailey: *op. cit.*, First Series, p. 52.
-
-Note 2, page 11.--*Smaller Logic*, § 194.
-
 Note 3, page 16.--*Exploratio philosophica*, Part I, 1865, pp. xxxviii, 130.
 
 Note 4, page 20.--Hinneberg: _Die Kultur der Gegenwart: Systematische Philosophie_. Leipzig: Teubner, 1907.
@@ -794,31 +790,15 @@ Note 1, page 50.--The difference is that the bad parts of this finite are eterna
 
 Note 2, page 51.--Quoted by W. Wallace: *Lectures and Essays*, Oxford, 1898, p. 560.
 
-Note 3, page 51.--*Logic*, tr. Wallace, 1874, p. 181.
-
-Note 4, page 52.--*Ibid.*, p. 304.
-
-Note 5, page 53.--*Contemporary Review*, December, 1907, vol. 92, p. 618.
-
-Note 6, page 57.--*Metaphysic*, sec. 69 ff.
-
-Note 7, page 62.--*The World and the Individual*, vol. i, pp. 131-132.
-
 Note 8, page 67.--A good illustration of this is to be found in a controversy between Mr. Bradley and the present writer, in *Mind* for 1893, Mr. Bradley contending (if I understood him rightly) that 'resemblance' is an illegitimate category, because it admits of degrees, and that the only real relations in comparison are absolute identity and absolute non-comparability.
 
 Note 9, page 75.--*Studies in the Hegelian Dialectic*, p. 184.
 
-Note 10, page 75.--*Appearance and Reality*, 1893, pp. 141-142.
-
 Note 11, page 76.--Cf. *Elements of Metaphysics*, p. 88.
-
-Note 12, page 77.--*Some Dogmas of Religion*, p. 184.
 
 Note 13, page 80.--For a more detailed criticism of Mr. Bradley's intellectualism, see Appendix A.
 
 LECTURE III
-
-Note 1, page 94.--Hegel, *Smaller Logic*, pp. 184-185.
 
 Note 2, page 95.--Cf. Hegel's fine vindication of this function of contradiction in his *Wissenschaft der Logik*, Bk. ii, sec. 1, chap, ii, C, Anmerkung 3.
 
@@ -830,19 +810,11 @@ Note 5, page 96--Wallace's translation of the *Smaller Logic*, p. 128.
 
 Note 6, page 101--Joachim, *The Nature of Truth*, Oxford, 1906, pp. 22, 178. The argument in case the belief should be doubted would be the higher synthetic idea: if two truths were possible, the duality of that possibility would itself be the one truth that would unite them.
 
-Note 7, page 115.--*The World and the Individual*, vol. ii, pp. 385, 386, 409.
-
 Note 8, page 116.--The best *un*inspired argument (again not ironical!) which I know is that in Miss M.W. Calkins's excellent book, *The Persistent Problems of Philosophy*, Macmillan, 1902.
 
 Note 9, page 117.--Cf. Dr. Fuller's excellent article,' Ethical monism and the problem of evil,' in the *Harvard Journal of Theology*, vol. i, No. 2, April, 1908.
 
-Note 10, page 120.--*Metaphysic*, sec. 79.
-
 Note 11, page 121.--*Studies in the Hegelian Dialectic*, secs. 150, 153.
-
-Note 12, page 121.--*The Nature of Truth*, 1906, pp. 170-171.
-
-Note 13, page 121.--*Ibid.*, p. 179.
 
 Note 14, page 123.--The psychological analogy that certain finite tracts of consciousness are composed of isolable parts added together, cannot be used by absolutists as proof that such parts are essential elements of all consciousness. Other finite fields of consciousness seem in point of fact not to be similarly resolvable into isolable parts.
 
@@ -851,8 +823,6 @@ Note 15, page 128.--Judging by the analogy of the relation which our central con
 LECTURE IV
 
 Note 1, page 143.--*The Spirit of Modern Philosophy*, p. 227.
-
-Note 2, page 165.--Fechner: *Über die Seelenfrage*, 1861, p. 170.
 
 Note 3, page 168.--Fechner's latest summarizing of his views, _Die Tagesansicht gegenüber der Nachtansicht_, Leipzig, 1879, is now, I understand, in process of translation. His _Little Book of Life after Death_ exists already in two American versions, one published by Little, Brown & Co., Boston, the other by the Open Court Co., Chicago.
 
@@ -896,10 +866,6 @@ Note 3, page 268.--I have myself talked in other ways as plausibly as I could, i
 
 LECTURE VII
 
-Note 1, page 278.--*Introduction to Hume*, 1874, p. 151.
-
-Note 2, page 279.--*Ibid.*, pp. 16, 21, 36, *et passim*.
-
 Note 3, page 279.--See, *inter alia*, the chapter on the 'Stream of Thought' in my own Psychologies; H. Cornelius, *Psychologie*, 1897, chaps, i and iii; G.H. Luquet, *Idées Générales de Psychologie*, 1906, *passim*.
 
 Note 4, page 280.--Compare, as to all this, an article by the present writer, entitled 'A world of pure experience,' in the _Journal of Philosophy_, New York, vol. i, pp. 533, 561 (1905).
@@ -913,8 +879,6 @@ Note 7, page 284.--Most of this paragraph is extracted from an address of mine b
 Note 8, page 289.--The conscious self of the moment, the central self, is probably determined to this privileged position by its functional connexion with the body's imminent or present acts. It is the present *acting* self. Tho the more that surrounds it may be 'subconscious' to us, yet if in its 'collective capacity' it also exerts an active function, it may be conscious in a wider way, conscious, as it were, over our heads.
 
 On the relations of consciousness to action see Bergson's _Matière et Mémoire, passim_, especially chap. i. Compare also the hints in Münsterberg's *Grundzüge der Psychologie*, chap, xv; those in my own *Principles of Psychology*, vol. ii, pp. 581-592; and those in W. McDougall's *Physiological Psychology*, chap. vii.
-
-Note 9, page 295.--Compare *Zend-Avesta*, 2d edition, vol. i, pp. 165 ff., 181, 206, 244 ff., etc.; *Die Tagesansicht*, etc., chap, v, § 6; and chap. xv.
 
 LECTURE VIII
 
@@ -1138,65 +1102,19 @@ INDEX
 
 INDEX TO THE LECTURES
 
-Absolute, the, 49, 108-109, 114 ff., 173, 175, 190 ff., 203, 271, 292 ff., 311; not the same as God, 111, 134; its rationality, 114 f.; its irrationality, 117-129; difficulty of conceiving it, 195.
-
-Absolutism, 34, 38, 40, 54, 72 f, 79, 122, 310. See Monism.
-
 Achilles and tortoise, 228, 255.
-
-All-form, the, 34, 324.
-
-Analogy, 8, 151 f.
-
-Angels, 164.
-
-Antinomies, 231, 239.
 
 ARISTIDES, 304.
 
-BAILEY, S., 5.
-
 BERGSON, H., Lecture VI, *passim*. His characteristics, 226 f, 266.
 
-'Between,' 70.
-
-Block-universe, 310, 328.
-
-BRADLEY, F.H., 46, 69, 79, 211, 220, 296.
-
-Brain, 160.
-
-CAIRD, E., 89, 95, 137.
-
-CATO, 304.
-
 Causation, 258. See Influence.
-
-Change, 231, 253.
-
-CHESTERTON, 203, 303.
-
-Compounding of mental states, 168, 173, 186 f., 268, 281, 284, 292, 296.
-
-Concepts, 217, 234 f.
-
-Conceptual method, 243 f., 246, 253.
 
 Concrete reality, 283, 286.
 
 Confluence, 326.
 
-Conflux, 257.
-
-Consciousness, superhuman, 156, 310 f.; its compound nature, 168, 173, 186 f., 289.
-
-Continuity, 256 f., 325.
-
 Contradiction, in Hegel, 89 f.
-
-Creation, 29, 119.
-
-Death, 303.
 
 Degrees, 74.
 
@@ -1206,55 +1124,27 @@ Difference, 257 f.
 
 Diminutive epithets, 12, 24. Discreteness of change, 231.
 
-'Each-form,' the, 34, 325.
-
 Earth, the, in Fechner's philosophy, 156; is an angel, 164.
 
 Earth-soul, 152 f.
 
 Elan vital, 262.
 
-Empiricism, 264, 277; and religion, 314; defined, 7.
-
 Endosmosis, 257.
 
 Epithets. See Diminutive.
 
-Evil, 310.
-
 Experience, 312; religious, 307.
 
-Extremes, 67, 74.
-
 'Faith-ladder,' 328.
-
-'Fall,' the, 119, 310.
 
 FECHNER, Lecture IV, *passim.* His life, 145-150; he reasons by analogy, 151; his genius, 154; compared with Royce, 173, 207; not a genuine monist, 293; his God; and religious experience, 308.
 
 FERRIER, Jas., 13.
 
-Finite experience, 39, 48, 182, 192-193.
-
-Finiteness, of God, 111, 124, 294.
-
 Foreignness, 31.
 
 German manner of philosophizing, 17.
-
-GOD, 24 f., 111, 124, 193, 240, 294.
-
-GREEN, T.H., 6, 24, 137, 278.
-
-HALDANE, R.B., 138.
-
-HEGEL, Lecture III, *passim*, 11, 85, 207, 211, 219, 296. His vision, 88, 98 f., 104; his use of double negation, 102; his vicious intellectualism 106; Haldane on, 138; McTaggart on, 140; Royce on, 143.
-
-HODGSON, S.H., 282.
-
-Horse, 265.
-
-HUME, 19, 267.
 
 Idealism, 36. See Absolutism.
 
@@ -1268,13 +1158,9 @@ Indeterminism, 77.
 
 Infinity, 229.
 
-Influence, 258, 561.
-
 Intellect, its function is practical, 247 f., 252.
 
 Intellectualism, vicious, 60, 218.
-
-Intellectualist logic, 216, 259, 261.
 
 Intellectualist method, 291.
 
@@ -1284,59 +1170,17 @@ Intimacy, 31.
 
 Irrationality, 81; of the absolute, 117-129.
 
-JACKS, L.P., 35.
-
-JOACHIM, H., 121, 141.
-
-JONES, H., 52.
-
-KANT, 19, 199, 238, 240.
-
 LEIBNITZ, 119.
-
-Life, 523.
-
-Log, 323.
-
-Logic, 92, 211; Intellectualist, 217, 242.
-
-LOTZE, 55, 120.
-
-LUTHER, 304.
-
-McTAGGART, 51, 74 f., 120, 140 f., 183.
 
 Manyness in oneness, 322. See Compounding.
 
 Mental chemistry, 185.
 
-MILL, J.S., 242, 260.
-
 Mind, dust theory, 189.
 
 Mind, the eternal, 137. See Absolute.
 
-Monism, 36, 117, 125, 201, 313, 321 f.; Fechner's, 153. See Absolutism.
-
 Monomaniacs, 78.
-
-Motion, 233, 238, 254; Zeno on, 228.
-
-MYERS, F.W.H., 315.
-
-Nature, 21, 286.
-
-Negation, 93 f.; double, 102.
-
-Newton, 260.
-
-Other, 95, 312; 'its own other,' 108 f., 282.
-
-Oxford, *3*, 313, 331.
-
-Pantheism, 24, 28.
-
-PAULSEN, 18, 22.
 
 Personality, divided, 298.
 
@@ -1344,11 +1188,7 @@ Philosophers, their method, 9; their common desire, 11 f.; they must reason, 13.
 
 Philosophies, their types, 23, 31.
 
-PHOCION, 304.
-
 Plant-soul, 165 f.
-
-Pluralism, 45, 76, 79, 311, 319, 321 f.
 
 Polytheism, 310.
 
@@ -1358,33 +1198,15 @@ Psychic synthesis, 185. See Compounding.
 
 Psychical research, 299.
 
-'Quâ,' 39, 47, 267, 270.
-
-'Quatenus,' 47, 267.
-
 Rationalism defined, 7, 98; its thinness, 144, 237.
 
-Rationality, 81, 112 f., 319 f.
-
-Reality, 262 f., 264, 283 f.
-
-Reason, 286, 312.
-
 Relating, 7.
-
-Relations, 70, 278 ff.; 'external,' 80.
 
 Religious experiences, 305 f.
 
 RITCHIE, 72.
 
-ROYCE, 61 f., 115, 173, 182 f., 197, 207, 212, 265, 296.
-
-Same, 269, 281.
-
 Savage philosophy, 21.
-
-Science, 145.
 
 Sensations, 279.
 
@@ -1392,44 +1214,20 @@ Socialism, 78.
 
 SOCRATES, 284.
 
-Soul, 199, 209.
-
-'Some,' 79.
-
-Sphinx, 22.
-
 SPINOZA, 47.
 
 Spiritualistic philosophy, 23.
 
-Sugar, 220, 232.
-
 Synthesis, psychic. See Compounding.
-
-TAYLOR, A.E., 76, 139, 212.
-
-Theism, 24.
-
-Thick, the, 136.
 
 'Thickness' of Fechner's philosophy, 144.
 
-Thin, the, 136.
-
 Thinness of the current transcendentalism, 144, 174 f.
-
-Time, 232.
 
 Units of reality, 287.
 
 Vision, in philosophy, 20.
 
-WELLS, H.G., 78.
-
 Will to believe, 328.
 
 Witnesses, as implied in experience, 200.
-
-WUNDT, W., 185.
-
-ZENO, 228.

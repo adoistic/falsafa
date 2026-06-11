@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1227
+word_count: 1191
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -24,11 +24,7 @@ translator: Project Gutenberg edition
 
 § 657. When the conclusion is set out of sight, the number of possible moods is the same as the number of combinations that can be made of the four things, A, E, I, O, taken two together, without restriction as to repetition. These are the following 16:--
 
-AA EA IA OA AE -EE- IE -OE- AI EI -II- -OI- AO -EO- -IO- -OO-
-
 of which seven may be neglected as violating the general rules of the syllogism, thus leaving us with nine valid moods--
-
-AA. AE. AI. AO. EA. EI. IA. IE. OA.
 
 § 658. We will now put these nine moods successively into the three figures. By so doing it will become apparent how far they are valid in each.
 
@@ -37,8 +33,6 @@ AA. AE. AI. AO. EA. EI. IA. IE. OA.
 when the extreme in the premiss that stands first is predicate in the conclusion, we are said to have a Direct Mood;
 
 when the extreme in the premiss that stands second is predicate in the conclusion, we are said to have an Indirect Mood.
-
-§ 660. FIGURE 1.
 
 *Mood AA.* All B is A. All C is B. .'. All C is A, or Some A is C, (Barbara & Bramantip).
 
@@ -62,8 +56,6 @@ when the extreme in the premiss that stands second is predicate in the conclusio
 
 § 662. But why, it maybe asked, should not the moods of the first figure equally well be regarded as indirect moods of the fourth? For this reason-that all the moods of the fourth figure can be elicited out of premisses in which the terms stand in the order of the first, whereas the converse is not the case. If, while retaining the quantity and quality of the above premisses, i. e. the mood, we were in each case to transpose the terms, we should find that we were left with five valid moods instead of six, since AI in the reverse order of the terms involves undistributed middle; and, though we should have Celarent indirect to Camenes, and Darii to Dimaris, we should never arrive at the conclusion of Barbara or have anything exactly equivalent to Ferio. In place of Barbara, Bramantip would yield as an indirect mood only the subaltern AAI in the first figure. Both Fesapo and Fresison would result in an illicit process, if we attempted to extract the conclusion of Ferio from them as an indirect mood. The nearest approach we could make to Ferio would be the mood EAO in the first figure, which may be elicited indirectly from the premisses of CAMENES, being subaltern to CELARENT. For these reasons the moods of the fourth figure are rightly to be regarded as indirect moods of the first, and not vice versâ.
 
-$663. FIGURE II.
-
 *Mood AA.* All A is B. All C is B. .'. Undistributed Middle.
 
 *Mood AE.* All A is B. No C is B. .'. No C is A, or No A is C, (Camestres & Cesare).
@@ -83,8 +75,6 @@ $663. FIGURE II.
 *Mood OA.* Some A is not B. All C is B. .'. Illicit Process, or Some A is not C, (Baroko).
 
 § 664. Here again we have six valid moods, which yield four direct conclusions corresponding to Cesare, CARNESTRES, FESTINO and BAROKO. The same four are repeated in the indirect moods.
-
-§ 665. FIGURE III.
 
 *Mood AA.* All B is A. All B is C. .'. Some C is A, or Some A is C, (Darapti).
 

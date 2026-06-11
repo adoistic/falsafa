@@ -225,43 +225,38 @@
     "text": "§ 6. The Antinomy is a combination of arguments by which contradictory attributes are proved to be predicable of the same subject. In symbols, thus:"
   },
   {
-    "id": "p-103cb8",
-    "offset": 12577,
-    "text": "All M is P; All N is p; All S is M: All S is N: .'. All S is P. .'. All S is p."
-  },
-  {
     "id": "p-e32099",
-    "offset": 12658,
+    "offset": 12577,
     "text": "Now, by the principle of Contradiction, S cannot be P and p (not-P): therefore, if both of the above syllogisms are sound, S, as the subject of contradictory attributes, is logically an impossible thing. The contradictory conclusions are called, respectively, Thesis and Antithesis."
   },
   {
     "id": "p-dea7cf",
-    "offset": 12942,
+    "offset": 12861,
     "text": "To come to particulars, we may argue: (1) that a constitution which is at once a monarchy, an aristocracy and a democracy, must comprise the best elements of all three forms; and must, therefore, be the best of all forms of government: the British Constitution is, therefore, the best of all. But (2) such a constitution must also comprise the worst elements of monarchy, aristocracy and democracy; and, therefore, must be the worst of all forms. Are we, then, driven to conclude that the British Constitution, thus proved to be both the best and worst, does not really exist at all, being logically impossible? The proofs seem equally cogent; but perhaps neither the best nor the worst elements of the simpler constitutions need be present in our own in sufficient force to make it either good or bad."
   },
   {
     "id": "p-e8a9b1",
-    "offset": 13746,
+    "offset": 13665,
     "text": "Again:"
   },
   {
     "id": "p-6c1a2a",
-    "offset": 13754,
+    "offset": 13673,
     "text": "(1) Every being who is responsible for his actions is free; Man is responsible for his actions: .'. Man is free."
   },
   {
     "id": "p-7c0e1b",
-    "offset": 13868,
+    "offset": 13787,
     "text": "(2) Every being whose actions enter into the course of nature is not free; Man is such a being: .'. Man is not free."
   },
   {
     "id": "p-f4e0a4",
-    "offset": 13986,
+    "offset": 13905,
     "text": "Does it, then, follow that 'Man,' as the subject of contradictory attributes, is a nonentity? This doctrine, or something like it, has been seriously entertained; but if to any reader it seem extravagant (as it certainly does to me), he will no doubt find an error in the above arguments. Perhaps the major term is ambiguous."
   },
   {
     "id": "p-1202c2",
-    "offset": 14313,
+    "offset": 14232,
     "text": "For other examples it is enough to refer to the _Critique of Pure Reason_, where Kant sets out the Antinomies of Rational Cosmology. But even if we do not agree with Kant that the human understanding, in attempting to deal with certain subjects beyond its reach, inevitably falls into such contradictory reasonings; yet it can hardly be doubted that we not unfrequently hold opinions which, if logically developed, result in Antinomies. And, accordingly, the Antinomy, if it cannot be imputed to Reason herself, may be a very fair, and a very wholesome *argumentum ad hominem*. It was the favourite weapon of the Pyrrhonists against the dogmatic philosophies that flourished after the death of Aristotle."
   }
 ]

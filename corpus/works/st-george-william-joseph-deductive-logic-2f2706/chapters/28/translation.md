@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 241
+word_count: 209
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -29,8 +29,6 @@ Formulate the following trains of reasoning, resolve them into their component p
 (4) The iron-trade leads to the improvement of a new country; for furnaces require to be fed with fuel, which causes land to be cleared.
 
 (5) 'Is stone a body?' 'Yes.' 'Well, is not an animal a body?' 'Yes,' 'And are you an animal?' 'It seems so.' 'Then you are a stone, being an animal.'
-
-(6) If A is B, C is D. If E is F, G is H. But if A is B, E is F. .'. If C is D, G is sometimes H.
 
 (7) The soul is not matter. My arm is not myself.
 

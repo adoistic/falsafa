@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5070
+word_count: 4973
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -70,8 +70,6 @@ In converting I., the predicate (P) when taken as the new subject, being preinde
 
 A. is the one case of conversion by limitation:
 
-All S is P; .'. Some P is S.
-
 All cats are grey in the dark; .'. Some things grey in the dark are cats.
 
 The predicate is treated as particular, when taking it for the new subject, according to the rule not to go beyond the evidence. To infer that *All things grey in the dark are cats* would be palpably absurd; yet no error of reasoning is commoner than the simple conversion of A. The validity of conversion by limitation may be shown thus: if, _All S is P*, then, by subalternation, *Some S is P_, and therefore, by simple conversion, *Some P is S*.
@@ -84,11 +82,7 @@ By quantifying the predicate, indeed, we may convert O. simply, thus:
 
 And the same plan has some advantage in converting A.; for by the usual method *per accidens*, the converse of A. being I., if we convert this again it is still I., and therefore means less than our original convertend. Thus:
 
-*All S is P .'. Some P is S .'. Some S is P.*
-
 Such knowledge, as that *All S* (the whole of it) *is P*, is too precious a thing to be squandered in pure Logic; and it may be preserved by quantifying the predicate; for if we convert A. to Y., thus--
-
-*All S is P .'. Some P is all S--*
 
 we may reconvert Y. to A. without any loss of meaning. It is the chief use of quantifying the predicate that, thereby, every proposition is capable of simple conversion.
 
@@ -168,13 +162,9 @@ Where, however, as in cases 2, 3, 6, 7, alleging either the falsity of universal
 
 DATUM. OBVERSE. CONTRAPOSITIVE.
 
-A. *All S is P* .'. *No S is not-P* .'. *No not-P is S* I. *Some S is P* .'. *Some S is not not-P* .'. (none) E. *No S is P* .'. *All S is not-P* .'. *Some not-P is S* O. *Some S is not P* .'. *Some S is not-P* .'. *Some not-P is S*
-
 There is no contrapositive of I., because the obverse of I. is in the form of O., and we have seen that O. cannot be converted. O., however, has a contrapositive (*Some not-P is S*); and this is sometimes given instead of the converse, and called the 'converse by negation.'
 
 Contraposition needs no justification by the Laws of Thought, as it is nothing but a compounding of conversion with obversion, both of which processes have already been justified. I give a table opposite of the other ways of compounding these primary modes of Immediate Inference.
-
-A I E O --------------------------------------------------------------------------------
 
 1 All A is B Some A is B No A is B Some A is not B
 

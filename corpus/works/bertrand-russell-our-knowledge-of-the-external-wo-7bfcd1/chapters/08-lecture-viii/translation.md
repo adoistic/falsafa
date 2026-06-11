@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 11217
+word_count: 10619
 source_url: "https://www.gutenberg.org/ebooks/37090"
 translator: Project Gutenberg edition
 ---
@@ -152,27 +152,17 @@ Of the prospect of progress in philosophy, it would be rash to speak with confid
 
 INDEX
 
-Absolute, 6, 39.
-
 Abstraction, principle of, 42, 124 ff.
 
 Achilles, Zeno's argument of, 173.
 
-Acquaintance, 25, 144.
-
 Activity, 224 ff.
-
-Allman, 161 n.
-
-Analysis, 185, 204, 211, 241. legitimacy of, 150.
 
 Anaximander, 3.
 
 Antinomies, Kant's, 155 ff.
 
 Aquinas, 10.
-
-Aristotle, 40, 160 n., 161 ff., 240.
 
 Arrow, Zeno's argument of, 173.
 
@@ -184,47 +174,19 @@ Atomists, 160.
 
 Belief, 58. primitive and derivative, 69 ff.
 
-Bergson, 4, 11, 13, 20 ff., 137, 138, 150, 158, 165, 174, 178, 229 ff.
-
-Berkeley, 63, 64, 102.
-
-Bolzano, 165.
-
-Boole, 40.
-
-Bradley, 6, 39, 165.
-
-Broad, 172 n.
-
 Brochard, 169 n.
 
-Burnet, 19 n., 160 n., 161 n., 170 n., 171 ff.
-
 Calderon, 95.
-
-Cantor, vi, vii, 155, 165, 190, 194, 199.
 
 Categories, 38.
 
 Causal laws, 109, 212 ff. evidence for, 216 ff. in psychology, 219.
 
-Causation, 34 ff., 79, 212 ff. law of, 221. not *a priori*, 223, 232.
-
-Cause, 220, 223.
-
-Certainty, degrees of, 67, 68, 212.
-
 Change, demands analysis, 151.
-
-Cinematograph, 148, 174.
 
 Classes, 202. non-existence of, 205 ff.
 
 Classical tradition, 3 ff., 58.
-
-Complexity, 145, 157 ff.
-
-Compulsion, 229, 233 ff.
 
 Congruence, 195.
 
@@ -238,95 +200,33 @@ Construction *v.* inference, iv.
 
 Contemporaries, initial, 119, 120 n.
 
-Continuity, 64, 129 ff., 141 ff., 155 ff. of change, 106, 108, 130 ff.
-
 Correlation of mental and physical, 233.
-
-Counting, 164, 181, 187 ff., 203.
 
 Couturat, 40 n.
 
-Dante, 10.
-
-Darwin, 4, 11, 23, 30.
-
-Data, 65 ff., 211. "hard" and "soft," 70 ff.
-
-Dates, 117.
-
 Definition, 204.
-
-Descartes, 5, 73, 238.
-
-Descriptions, 201, 214.
-
-Desire, 227, 235.
 
 Determinism, 233.
 
-Doubt, 237.
-
-Dreams, 85, 93.
-
-Duration, 146, 149.
-
 Earlier and later, 116.
-
-Effect, 220.
 
 Eleatics, 19.
 
-Empiricism, 37, 222.
-
-Enclosure, 114 ff., 120.
-
 Enumeration, 202.
-
-Euclid, 160, 164.
-
-Evellin, 169.
 
 Evolutionism, 4, 11 ff.
 
-Extension, 146, 149.
-
 External world, knowledge of, 63 ff.
-
-Fact, 51. atomic, 52.
 
 Finalism, 13.
 
-Form, logical, 42 ff., 185, 208.
-
-Fractions, 132, 179.
-
-Free will, 213, 227 ff.
-
-Frege, 5, 40, 199 ff.
-
-Galileo, 4, 59, 192, 194, 239, 240.
-
-Gaye, 169 n., 175, 177.
-
 Geometry, 5.
-
-Giles, 206 n.
 
 Greater and less, 195.
 
 Harvard, 4.
 
-Hegel, 3, 37 ff., 46, 166.
-
-"Here," 73, 92.
-
 Hereditary properties, 195.
-
-Hippasos, 163, 237.
-
-Hui Tzu, 206.
-
-Hume, 217, 221.
 
 Hypotheses in philosophy, 239.
 
@@ -344,13 +244,7 @@ Induction, 34, 222. mathematical, 195 ff.
 
 Inductiveness, 190, 195 ff.
 
-Inference, 44, 54.
-
-Infinite, vi, 64, 133, 149. historically considered, 155 ff. "true," 179, 180. positive theory of, 185 ff.
-
 Infinitesimals, 135.
-
-Instants, 116 ff., 129, 151, 216. defined, 118.
 
 Instinct *v.* Reason, 20 ff.
 
@@ -360,93 +254,33 @@ Intelligence, how displayed by friends, 93. inadequacy of display, 96.
 
 Interpretation, 144.
 
-James, 4, 10, 13.
-
 Jourdain, 165 n.
-
-Jowett, 167.
 
 Judgment, 58.
 
-Kant, 3, 112, 116, 155 ff., 200.
-
 Knowledge about, 144.
-
-Language, bad, 82, 135.
 
 Laplace, 12.
 
 Laws of nature, 218 ff.
 
-Leibniz, 13, 40, 87, 186, 191.
-
 Logic, 201. analytic not constructive, 8. Aristotelian, 5. and fact, 53. inductive, 34, 222. mathematical, vi, 40 ff. mystical, 46. and philosophy, 8, 33 ff., 239.
 
 Logical constants, 208, 213.
 
-Mach, 123, 224.
-
-Macran, 39 n.
-
 Mathematics, 40, 57.
-
-Matter, 75, 101 ff. permanence of, 102 ff.
 
 Measurement, 164.
 
-Memory, 230, 234, 236.
-
 Method, deductive, 5. logical-analytic, v, 65, 211, 236 ff.
-
-Milhaud, 168 n., 169 n.
-
-Mill, 34, 200.
 
 Montaigne, 28.
 
 Motion, 130, 216. continuous, 133, 136. mathematical theory of, 133. perception of, 137 ff. Zeno's arguments on, 168 ff.
 
-Mysticism, 19, 46, 63, 95.
-
-Newton, 30, 146.
-
-Nietzsche, 10, 11.
-
-Noel, 169.
-
-Number, cardinal, 131, 186 ff. defined, 199 ff. finite, 160, 190 ff. inductive, 197. infinite, 178, 180, 188 ff., 197. reflexive, 190 ff.
-
-Occam, 107, 146.
-
-One and many, 167, 170.
-
-Order, 131.
-
-Parmenides, 63, 165 ff., 178.
-
-Past and future, 224, 234 ff.
-
-Peano, 40.
-
-Perspectives, 88 ff., 111.
-
 Philoponus, 171 n.
 
-Philosophy and ethics, 26 ff. and mathematics, 185 ff. province of, 17, 26, 185, 236. scientific, 11, 16, 18, 29, 236 ff.
-
-Physics, 101 ff., 147, 239, 242. descriptive, 224. verifiability of, 81, 110.
-
-Place, 86, 90. *at* and *from*, 92.
-
-Plato, 4, 19, 27, 46, 63, 165 n., 166, 167.
-
-Poincare, 123, 141.
-
-Points, 113 ff., 129, 158. definition of, vi, 115.
-
 Pragmatism, 11.
-
-Prantl, 174.
 
 Predictability, 229 ff.
 
@@ -456,8 +290,6 @@ Probability, 36.
 
 Propositions, 52. atomic, 52. general, 55. molecular, 54.
 
-Pythagoras, 19, 160 ff., 237.
-
 Race-course, Zeno's argument of, 171 ff.
 
 Realism, new, 6.
@@ -466,67 +298,31 @@ Reflexiveness, 190 ff.
 
 Relations, 45. asymmetrical, 47. Bradley's reasons against, 6. external, 150. intransitive, 48. multiple, 50. one-one, 203. reality of, 49. symmetrical, 47, 124. transitive, 48, 124.
 
-Relativity, 103, 242.
-
 Repetitions, 230 ff.
-
-Rest, 136.
 
 Ritter and Preller, 161 n.
 
-Robertson, D. S., 160 n.
-
 Rousseau, 20.
-
-Royce, 50.
 
 Santayana, 46.
 
-Scepticism, 66, 67.
-
 Seeing double, 86.
 
-Self, 73.
-
-Sensation, 25, 75, 123. and stimulus, 139.
-
-Sense-data, 56, 63, 67, 75, 110, 141, 143, 213. and physics, v, 64, 81, 97, 101 ff., 140. infinitely numerous? 149, 159.
-
 Sense-perception, 53.
-
-Series, 49. compact, 132, 142, 178. continuous, 131, 132.
-
-Sigwart, 187.
 
 Simplicius, 170 n.
 
 Simultaneity, 116.
 
-Space, 73, 88, 103, 112 ff., 130. absolute and relative, 146, 159. antinomies of, 155 ff. perception of, 68. of perspectives, 88 ff. private, 89, 90. of touch and sight, 78, 113.
-
-Spencer, 4, 12, 236.
-
-Spinoza, 46, 166.
-
 Stadium, Zeno's argument of, 134 n., 175 ff.
 
 Subject-predicate, 45.
-
-Synthesis, 157, 185.
 
 Tannery, Paul, 169 n.
 
 Teleology, 223.
 
-Testimony, 67, 72, 82, 87, 96, 212.
-
 Thales, 3.
-
-Thing-in-itself, 75, 84.
-
-Things, 89 ff., 104 ff., 213.
-
-Time, 103, 116 ff., 130, 155 ff., 166, 215. absolute or relative, 146. local, 103. private, 121.
 
 Uniformities, 217.
 
@@ -542,15 +338,9 @@ Wittgenstein, vii, 208 n.
 
 Worlds, actual and ideal, 111. possible, 186. private, 88.
 
-Zeller, 173.
-
-Zeno, 129, 134, 136, 165 ff.
-
 PRINTED BY NEILL AND CO., LTD., EDINBURGH.
 
-[ Transcriber's Note:
-
-The following is a list of corrections made to the original. The first line is the original line, the second the corrected one.
+[ The following is a list of corrections made to the original. The first line is the original line, the second the corrected one.
 
 Second Impression Second Impression.
 
@@ -565,5 +355,3 @@ of psychology or an outcome of pscyhical processes as the North Sea.... of psych
 according to the length and direction of the interval. "A quarter of a according to the length and direction of the interval. "A quarter of an
 
 Intelligence, how displayed by friends, 93 Intelligence, how displayed by friends, 93.
-
-Number, cardinal, 131 186 ff. Number, cardinal, 131, 186 ff.

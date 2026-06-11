@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1897
+word_count: 1884
 source_url: "https://www.gutenberg.org/ebooks/31796"
 translator: Project Gutenberg edition
 ---
@@ -50,8 +50,4 @@ Carlyle's saying that a ship could never be taken round Cape Horn if the crew we
 
 PRINTED AT THE EDINBURGH PRESS, 9 AND 12 YOUNG STREET
 
-Transcriber's Note:
-
 page 113: 'aneo symplokes' corrected to 'aneu symplokes'
-
-End of Project Gutenberg's Logic, Inductive and Deductive, by William Minto

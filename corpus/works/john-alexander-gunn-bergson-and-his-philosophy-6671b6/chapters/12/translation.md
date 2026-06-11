@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8398
+word_count: 12799
 source_url: "https://www.gutenberg.org/ebooks/5717"
 translator: Project Gutenberg edition
 ---
@@ -297,3 +297,549 @@ BIBLIOGRAPHY
 PART TWO
 
 BOOKS AND ARTICLES ON BERGSON
+
+Section I. Books directly on Bergson
+
+(a) French Publications.
+
+BENDA, Julien. Le Bergsonisme ou une Philosophie de la Mobilité. Paris, Mercure de France. 1912.
+
+Une Philosophie pathétique. Cahiers de la Quinzaine. Paris, 1913, Ser. 15, Cah 2.
+
+Sur le succes du Bergsonisme. 1914. Incorporates Une Philosophie pathétique.
+
+BERTHELOT, R. Un Romantisme Utilitaire. Paris, 1911. Vol. 2, Le Pragramatisme chez Bergson.
+
+Le pragmatisme de Bergson. Paris, Alcan, 1913.
+
+COIGNET, Clarisse. De Kant a Bergson. Reconciliation de la religion et de la science dans un spiritualisme nouveau. Paris, 1911 (Alcan). Concluding 60 pages deal with Bergson.
+
+DESAYMARD, Joseph. La Pensee d'Henri Bergson. In series Les Hommes et les Idees. Paris, 1912. Mercure de France. Pp. 82. With portrait and bibliography (reprint of Mr. Pogson's list).
+
+DWELSHAUVERS, Georges. Raison et intuition. Etudes sur la philosophie de Bergson, 1906.
+
+FARGES. Theorie fondamentale de l'Acte et de la Puissance avec la critique de la philosophie nouvelle de MM. Bergson et Le Roy. Paris, 1909. (Etudes philosophiques, No. 1.)
+
+La philosophie de M. Bergson. Expose et critique. Paris, 1912.
+
+FOUILLEE, Alfred. La Pensee et les nouvelles ecoles anti-intellectuelles. Paris, 1910.
+
+GAGNEBIN, S. La philosophie de l'intuition. 1912. Saint Blaise, 'Foyer Solidariste. Pp. 240. Mainly on Le Roy, Bergson's disciple, but a third of the book deals with the master.
+
+GILLOUIN, Rene. Bergson: Choix de textes, etudes sur l'OEuvre, notices biographiques et bibliographiques. Paris, 1910, Michaud. Series Les Grands Philosophes. Illustrated. Pp. 220.
+
+Essay of 30 pages on Bergson's philosophy. Extracts from Bergson's works. Pp. 39-220.
+
+La Philosophie de M. Bergson. Paris, 1911, Grasset. Pp. 187.
+
+GRANDJEAN, F. Une revolution dans la philosophie, La Doctrine de Bergson. Atar, Geneva, 2nd ed., 1916.
+
+LE ROY, Edouard. Une Philosophie nouvelle: Henri Bergson. Paris, 1912. English Translation: A New Philosophy: Henri Bergson, by Vincent Benson. 1913. Williams and Norgate. Pp. 235. The author of this work is Bergson's famous pupil, who now lectures in his place at the College de France.
+
+MARITAIN, J. La philosophie bergsonienne. Paris, Riviere, 1914. Pp. 477.
+
+MEUNIER, D. Lecon de Bergson. 1914.
+
+PEGUY, Charles. Note Sur M. Bergson et la philosophie bergsonienne. Paris. (Bourgeois). Cahiers de la Quinzaine. Pp. 101.
+
+PENIDO, Dr. M. T. L. La methode intuitive de Bergson. Essai critique. Atar, Geneva, and Alcan, Paris, 1918, pp. 220.
+
+SEGOND, J. L'Intuition bergsonienne. Alcan, Paris, 1912 and 1913. Pp. 157.
+
+(b) English and American Publications
+
+BALSILLIE, David. An Examination of Professor Bergson's Philosophy. 1912. Williams and Norgate. Pp. 228.
+
+CARR, Dr. H. Wildon. Henri Bergson: The Philosophy of Change, 1912. Jack, "The People's Books." Pp. 91. Good brief sketch. 1919. Jack and Nelson. Second revised edition. Pp. 126.
+
+The Philosophy of Change: A study of the Fundamental Principle of the Philosophy of Bergson. 1914. Macmillan. Pp. 216.
+
+Time and History in Contemporary Philosophy, with special reference to Bergson and Croce. Proceedings of British Academy, 1918. Pp. 20. Separately, Oxford University Press.
+
+CUNNINGHAM, Gustave W., Dr. Study in the Philosophy of Bergson. 1916. Longman. New York. Pp. 212.
+
+DODSON, G. R., Dr. Bergson and the Modern Spirit. An Essay in Constructive Thought. 1914. Lindsey Press. Pp. 295.
+
+ELLIOT, Hugh S. R. Modern Science and the Illusions of Professor Bergson. 1912. Preface by Sir Ray Lankester. Longman, New York, and 1913, Longman, London. Pp. 257. Very hostile to Bergson, indeed contemptuously or bitterly so.
+
+GERRARD, Father Thomas. Bergson: an Exposition and Criticism from the point of view of Saint Thomas Aquinas. 1913. Sands & Co. Pp. 208.
+
+HERMANN, Mrs. E. Bergson and Eucken. Their significance for Christian Thought. 1912. James Clark & Co. Pp. 224.
+
+HOFFDING, Prof Harald. Six Lectures on Bergson. Delivered 1913. Published in the volume Modern Philosophers, Macmillan, 1915. Pp. 227-302. Translated by Alfred C. Mason.
+
+HOUGH, Dr. Lynn H. The Quest of Wonder. Studies in Bergson and Theology.
+
+JOHNSTON, W. (with MISS I. MUDGE). A Contribution to a Bibliography of Henri Bergson. 1913. Columbia University Press, New York. Pp. 56. For this pamphlet, Professor John Dewey has written an introduction.
+
+KALLEN, H. M. William James and Henri Bergson: A Study of Contrasting Theories of Life. 1914. Chicago University Press. Pp. 248.
+
+KITCHIN, Darcy B. Bergson for Beginners: A Summary of his Philosophy. 1913. Geo. Allen and Unwin. Pp. 309.
+
+LE ROY, Edouard. A New Philosophy: Henri Bergson. 1913. Williams and Norgate. English Translation by V. Benson of Une Nouvelle philosophie. Pp. 235.
+
+LIBBY, M. F. The Continuity of Bergson's Thought. 1912. University of Colorado Studies, Vol. 9, No. 4. Pp. 147-202.
+
+LINDSAY, A. D. The Philosophy of Bergson. 1911. Dent. Pp. 247.
+
+LOVEJOY. Bergson and Romantic Evolutionism. 1914. University of California Press, Berkeley. Pp. 61.
+
+MILLER, Lucius Hopkins. Bergson and Religion. 1916. Holt & Co., New York. (Out of print.)
+
+MITCHELL, Dr. Arthur. Studies in Bergson's Philosophy. 1914. Kansas University Humanistic Studies, Vol. 1, No. 2. Pp. 115.
+
+PECKHAM, G. W. The Logic of Bergson's Philosophy. (Time and Free Will compared with Matter and Memory.) 1917. Archives of Philosophy, Columbia University Press, New York, No. 8. Pp. 68.
+
+RUHE AND PAUL. Henri Bergson: An Account of his Life and Philosophy. 1914. Macmillan. Pp. 245 (With portrait.)
+
+RUSSELL, Hon. Bertrand. The Philosophy of Bergson. 1914. London, Macmillan for Bowes, Cambridge. Pp. 36. Lecture to The Heretics, Cambridge, March 11, 1912. Contains reply by Dr. Wildon Carr, and rejoinder by Mr. Russell.
+
+SAIT, Bernard Una. The Ethical Implications of Bergson's Philosophy. 1914. Columbia University Contributions to Philosophy and Psychology. New York Science Press. Pp. 183.
+
+SEWELL, Frank, Dr. Is the Universe Self-Centred or God-Centred? 1913. Examination of the systems of Eucken and Bergson. Presidential Address to Swedenborg Scientific Association, Philadelphia, USA. Published by the Association. Pp. 13.
+
+SHASTRI, Prabhu Datta. The Conception of Freedom in Hegel, Bergson, and Indian Philosophy. 1914. Address before the Calcutta Philosophical Society, March 14, 1913. Published Albion Press, Calcutta. Pp. 26.
+
+SOLOMON, Joseph. Bergson. 1911. Constable, in Series Philosophies Ancient and Modern. Pp. 128.
+
+STEWART, Dr. J. M'Kellar. A Critical Exposition of Bergson's Philosophy. 1911. Macmillan Pp. 295.
+
+WILM, Emil C. Henri Bergson: A Study in Radical Evolution. (1914.) Sturgis
+
+HOOGVILD, J.E.H.J. De Niewe Wysbegeerte: Een studie over H. Bergson. 1911.
+
+JACOBSON, Malte. Henri Bergson's Intuitionsfilosofi.
+
+LEVI, A. La filosofia della contingenza. Firenze, Seeber, 1905. In L'indeterminismo nella filosofita francese contemporanea.
+
+LARSSON, Prof. Hans. Intuitionsprobleme.
+
+OLGIATI, F. La Filosofia di Enrico Bergson, 1914.
+
+PAPINI, Giovanni. Stroncature. Firenze, 1918. Libreria della voce. Section on Bergson and Croce (in French), written in 1914. Pp. 51-56.
+
+RUHE, Algot. Henri Bergson: Tankesattet. 1914. Swedish volume (similar to his English work in conjunction with Miss Paul). Stockholm.
+
+Section II. Books dealing Indirectly with Bergson
+
+(a) French Publications
+
+CHAUMEIX, A. Pragmatisme et Modernisme. Paris, Alcan, 1909
+
+DWELSHAUVERS, Georges. La Synthèse mentale. Alcan, Paris, 1908.
+
+FOUILLEE, Alfred. Le Mouvement idéaliste et la Réaction centre la Science positive, 1896. Paris, Alcan.
+
+IMBART DE LA TOUR, Pierre. Le Pangermanisme et la Philosophie de L'Histoire. Letter to Bergson, published in book form, 1916. Reprinted from Pour la verite, 1914-15. Perrin. Pp. 75. This letter was occasioned by Bergson's writings on the War.
+
+LANESSAN, J. de. Transformation et Créationisme. 1914. Paris, Alcan.
+
+PIAT, Clodius. Insuffisance des Philosophies de L'Intuition. 1908. Paris, Plon-Nourrit. Pp. 319.
+
+SOREL, Georges. Reflexions sur la Violence. This has been translated into English by T.E. Hulme, and published by Geo. Allen and Unwin, Reflections on Violence. Les Illusions du Progres. Le Mouvement socialists. Collected volumes of the periodical.
+
+WILBOIS. Devoir et Durée. 1912. Paris, Alcan. Pp. 408.
+
+(b) English and American Publications
+
+ALIOTTA. The Idealistic Reaction against Science 1914. Macmillan. English translation from Italian by W. Agnes McCaskill.
+
+BENNETT, W. The Ethical Aspects of Evolution Regarded as the Parallel Growth of Opposite Tendencies. 1908. Clarendon Press, Oxford.
+
+BJORKMAN, Edwin. Voices of Tomorrow. Critical studies of the New Spirit in Literature. London, Grant Richards. See Section The New Mysticism, Part 3, Its Philosopher, Henri Bergson, pp. 205-223.
+
+BOSANQUET, B. The Principle of Individuality and Value. 1912. Macmillan. The Gifford Lectures for 1911. The Value and Destiny of the Individual. Gifford Lectures, 1912.
+
+BURNS, Delisle. Political Ideals. Clarendon Press, Oxford Discusses in concluding pages the rational element in politics.
+
+CALDWELL, Dr. Wm. Pragmatism and Idealism 1913. Macmillan, New York, and A. and C. Black, London. Chap. (9) is entitled "Pragmatism and Idealism in the Philosophy of Bergson," pp. 234-261.
+
+CARR, H. Wildon. The Problem of Truth. Jack. "People's Books."
+
+DREVER, Dr James. Instinct in Man. 1917. Cambridge University Press.
+
+FREUD. Wit and its Relation to the Unconscious. Fisher Unwin. Remarks on Bergson's Le Rire, pp. 301 and 360.
+
+GRUBB. The Religion of Experience. Chapter IV. Bergson and Intuition.
+
+HARLEY, J. H. Syndicalism. "People's Books."
+
+HARPER, Dr. J. Wilson. Christian Ethics and Social Progress. 1912. Contains chapter on Bergson.
+
+HOCKING. Meaning of God in Human Experience. Yale University Press. 1912.
+
+HUGEL, Baron Frednch von. Eternal Life: its Implications and Applications. T. and T. Clark. 1912. Deals with Bergson's view of duree and of Liberty, pp. 288-302.
+
+HUNT, Harriet E. The Psychology of Auto-Education. Based on the interpretation of Intellect, given by Bergson in his Creative Evolution Illustrated in the work of Maria Montessori. 1912. Bardeen, Syracuse, New York.
+
+INGE, Very Rev Dr W.R. The Philosophy of Plotmus. Gifford Lectures, published 1919. These lectures on the great Neo-platonist to whom Bergson owes not a little, contain important discussions of Bergson's views on Time, Consciousness and Change.
+
+JACKS, L.P. Alchemy of Thought. Holt & Co, New York. 1911.
+
+JAMES, William A Pluralistic Universe (Hibbert Lectures) 1909. Lectures 5 and 6, pp 181-273.
+
+JEVONS, Dr F.B. Personality. Methuen, 1913. Especially Chap. 3 on Bergson, pp 78-124.
+
+JOHNSON, F.H. God in Evolution. A Pragmatic Study of Theology.. Longman. 1911.
+
+JOHNSTONE, Dr James The Philosophy of Biology. 1914. Cambridge University Press.
+
+JONES, Prof. Tudor. The Spiritual Ascent of Man. 1916. University of London Press, Chapter (4) Intellect and Intuition.
+
+LAIRD, John Problems of the Self. Shaw Lectures at Edinburgh for 1914. 1917. Macmillan.
+
+LODGE, Sir Oliver. Modern Problems. Methuen, 1912. Balfour and Bergson, pp. 189-210 (Chap. 18). Reprint of Article in Hibbert Journal (1912).
+
+MACKENZIE, Prof. Elements of Constructive Philosophy. 1918. Geo Allen & Unwin.
+
+MARSHALL Consciousness. On Revival and Memory. P. 436.
+
+MELLOR, Dr Stanley A. Religion as Affected by Modern Science and Philosophy. 1914. Lindsey Press. Devotes a section to the consideration of Bergson and Religion, pp 147-166.
+
+McCABE, Joseph. Principles of Evolution. Collins--Nation's Library. Very hostile to Bergson, pp 247-253.
+
+McDOUGALL, William. Body and Mind 1911. Methuen & Co.
+
+MORGAN, C. Lloyd. Instinct and Experience. Methuen. 1912.
+
+PERRY, R.B. Present Philosophical Tendencies. 1912. Longmans. U.S.A.
+
+PRINGLE-PATTISON, A.S. The Idea of God. Gifford Lectures, 1912-13. Lecture (19) on Bergson, pp. 366-385.
+
+RUSSELL, Bertrand Our Knowledge of the External World. 1914. Open Court Publishing Co. Chapter (8) on Cause and Free Will, criticizes Bergson, pp. 229-242. The Principles of Social Reconstruction. Geo. Allen & Co. 1917. Shows Impulse to be greater than conscious purpose in our social life. Mysticism and Logic. 1918. Longman. Roads to Freedom. On Socialism, Anarchism and Syndicalism. Geo. Allen & Co. 1918.
+
+SANTAYANA, Prof. George. Winds of Doctrine.. Scribner, U.S.A.
+
+SAROLEA, Prof. Charles. The French Renascence. 1916. Allen and Unwin. Chapter on Bergson, pp. 271-284, with portrait.
+
+SCOTT. J.W. Syndicalism and Philosophical Realism. 1919. A.& C. Black. For Bergson, pp. 70-160.
+
+SLOSSON, Dr. E. Major Prophets of To-day. 1914. Little, Boston, U.S.A. Pp. 44-103. (Portrait.)
+
+SMITH, Norman Kemp, D. Phil. Commentary to Kant's Critique of Pure Reason. 1918. Macmillan.
+
+SORLEY, Dr. W.R. Moral Values and the Idea of God. Cambridge University Press, 1918. Gifford Lectures, 1914-15. Discusses Intuition and Vital Impulse.
+
+STEBBING, L. Susan, M.A. Pragmatism and French Voluntarism with Special Reference to the Notion of Truth in the Development of Philosophy from Maine de Biran to Bergson. M.A. (London.) Thesis, 1912. Cambridge University Press, 1914. Girton College Studies, No 6.
+
+UNDERHILL, Evelyn. Mysticism. A Study in the Nature and development of man's spiritual consciousness. Dutton, U.S.A. 1912.
+
+WALLAS, Graham. The Great Society. Error on p. 236, where he has 1912 for 1911, as date of Bergson's Lectures at London University.
+
+WARD, Prof. James. The Realm of Ends. (Pluralism and Theism.) Cambridge University Press. Cf. pp. 306-7.
+
+WARDELL, R.J. Contemporary Philosophy. Contains careless blunders. The date of the publication of L'Evolution creatrice in Paris is given as 1901 instead of 1907. This is on page 74. Then on page 95, Lectures given at London University are referred to as having been given at Oxford. The whole section of 28 pages, devoted to Bergson, tends to be somewhat misleading.
+
+WEBB, C.C.J. God and Personality. Gifford Lectures, 1918-19. Geo. Allen and Unwin.
+
+WOODBRIDGE, F.J.E. The Purpose of History. Reflections on Bergson, Dewey and Santayana. 1916. Columbia University Press.
+
+Section III. English and American Articles
+
+(a) Signed Articles
+
+ABBOTT. "Philosophy of Progress." Outlook, Feb, 1913.
+
+AKELY. "Bergson and Science." Philosophical Review, May, 1915.
+
+ALEXANDER, H.B. "Socratic Bergson." Mid-West Quarterly, Oct., 1913.
+
+ALEXANDER, S. "Matière et Mémoire." Mind, Oct, 1897.
+
+ARMSTRONG. "Bergson, Berkeley and Intuition." Philosophical Review, 1914.
+
+BABBITT. "Bergson and Rousseau." Nation, Nov., 1912.
+
+BALDWIN. "Intuition." American Year Book, 1911.
+
+BALFOUR. "Creative Evolution and Philosophic Doubt." Hibbert Journal, Oct, 1911; and Living Age, Dec. 2, 1911.
+
+BALSILLIE. "Bergson on Time and Free Will." Mind, 1911.
+
+BARR. "The Dualism of Bergson." Philosophical Review, 1914.
+
+BEYER. "Creative Evolution and the Woman's Question." Educational Review, Jan, 1914.
+
+BJORKMAN. "The Philosopher of Actuality." Forum, Sept, 1911. "Is there Anything New?" Forum. "Bergson: Philosopher or Prophet?" Review of Reviews, Aug, 1911.
+
+BLACKLOCK. "Bergson's Creative Evolution." Westminster Review, Mar., 1912.
+
+BODE "L'Evolution creatrice." Philosophical Review, 1908. "Creative Evolution." American Journal of Psychology, April, 1912.
+
+BOSANQUET. Prediction of Human Conduct." International Journal of Ethics, Oct, 1910.
+
+BOYD. "L'Evolution créatrice." Review of Theology and Philosophy, Oct, 1907.
+
+BROWN. "Philosophy of Bergson." Church Quarterly Revtew, April, 1912.
+
+BURNS. "Criticism of Bergson's Philosophy." North American Review, March, 1913.
+
+BURROUGHS. "The Prophet of the Soul." Atlantic Monthly, Jan., 1914.
+
+BUSH. "Bergson's Lectures." Columbia University Quarterly, 1913.
+
+CALKINS. "Bergson: Personalist." Philosophieal Review, 1912-13. No. (6).
+
+CARR "Philosophy of Bergson" Hibbert Journal, July, 1910. "Creative Evolution" Proc. Aristotelian Soc, Vol. 9 and 10. "Bergson's Theory of Instinct" Proc. Aristotelian Soc, Vol 10. "Bergson's Theory of Knowledge." Proc. Aristotelian Soc, Vol 9 "Psycho-physical Parallelism as a working hypothesis in Psychology." Proc. Aristotelian Soc, Vol. 1910-11. "The Philosophy of Bergson." Mind, Oct, 1911. "Science and Bergson" Mind, Oct, 1912. "On Mr Russell's Reasons for supposing that Bergson's Philosophy is not true" Cambridge Magazine, April, 1913. "The Concept of Mind-Energy." Mind, Jan., 1920.
+
+CARUS. "The Anti-intellectual movement of to-day." Monist, July, 1912.
+
+COCKERELL. "The New Voice in Philosophy." Dial, Oct., 1911.
+
+COOKE. "Ethics and New Intuitionists." Mind, 1913.
+
+CORRANCE. "Bergson and the Idea of God." Hibbert Journal, Feb, 1914.
+
+CORY. "Bergson's Intellect and Matter." Philosophical Review, May, 1914. "Answer to Mr. Bertrand Russell's Philosophy of Bergson." Monist, Jan, 1914.
+
+COSTELLOE (Mrs. ADRIAN STEPHEN). "What Bergson means by Inter-penetration" Proc. Aristotelian Soc, Vol. 1913-14. "Complexity and Synthesis: Data and Methods of Russell and Bergson. Proc. Aristotelian Soc., 1914-15.
+
+COX. "Bergson's Message to Feminism." Forum, May, 1913.
+
+CUNNINGHAM. "Bergson's Conception of Duration." Philosophical Review, 1914-15. "Bergson's Conception of Finality." Philosophical Review, 1914-15.
+
+DIMNET. "Meaning of Bergson's Success." Saturday Review, 1914.
+
+DOLSON. "Philosophy of Bergson." I. Philosophical Review, Nov., 1910. "Philosophy of Bergson." II. Philosophical Review, Jan., 1911.
+
+DOUGLAS. "Christ and Bergson." North American Review, April, 1913.
+
+DUBRAY. "Philosophy of Bergson." Bulletin of Catholic University of Washington, April, 1914.
+
+DURBAN. "Philosophy of Bergson. Homiletic Review, Jan., 1912.
+
+EWALD. "Philosophy in Germany in 1911." Trans. from German by Hammond. Philosophieal Review, Sept., 1912.
+
+FAWCETT. "Matter and Memory." Mind, April, 1912.
+
+FERRAR. "L'Evolution créatrice." Commonwealth, Dec., 1909.
+
+FOSTER. "Henri Bergson." Overland, April, 1918.
+
+GARDINER. "Memoire et Reconnaissance." Psychological Review, 1896.
+
+GERRARD. "Bergson's Philosophy of Change." Catholic World, Jan, 1913. "Bergson, Newman and Aquinas." Catholic World, Mar., 1913. "Bergson and Freedom." Catholic World, May, 1913. "Bergson and Finahsm." Catholic World, June, 1913. "Bergson and Divine Fecundity." Catholic World, Aug., 1913.
+
+GIBSON. "The Intuitiomsm of Bergson." The Quest, Jan., 1911,
+
+GOETZ. "Bergson," A poem. Open Court, Sept., 1912.
+
+GOULD. "Balfour and Bergson." Literary Guide and Rationalist Review, Nov., 1911.
+
+GUNTHER. "Bergson, Pragmatism and Schopenhauer." Monist, Vol. 22.
+
+HOCKING. "Significance of Bergson" Yale Review, 1914.
+
+HOOKHAM. "Bergson as Critic of Darwin." National Review, Mar, 1912. "Further Notes on Bergson." National Review, April, 1912.
+
+HULME. "The New Philosophy." New Age, July, 1909.
+
+HUNEKER. "The Playboy of Western Philosophy." Forum, March,
+
+HUSBAND. "L'Evolution creatrice." International Journal of Ethics, July, 1912.
+
+JAMES. "Philosophy of Bergson." Hibbert Journal, April, 1909. "Bradley or Bergson?" Journal of Philosophy, Psychology, and Scientific Methods, Jan, 1910. "A Great French Philosopher at Harvard." Nation (U. S), March, 1910.
+
+JOHNSTON. "Where Bergson Stands." Harper's Weekly, March, 1913.
+
+JOHNSTONE. "Bergson's Philosophy of the Organism." Proc. of Liverpool Biological Society, 1913.
+
+JORDAN. "Kant and Bergson." Monist, 1913.
+
+JOURDAIN. "Logic, Bergson and H. G. Wells." Hibbert Journal, Vol. 10.
+
+KALLEN. "James, Bergson and Mr Pitkin." Journal of Philosophy, Psychology and Scientific Methods, June, 1910. "James, Bergson and Traditional Metaphysics" Mind, 1914. "Laughter" Journal of Philosophy, Psychology and Scientific Methods, May, 1912.
+
+KEEFFE. "Bergson's Critical Philosophy." Irish Theological Studies, April, 1913.
+
+KHOROSHKO. "Bergson's Philosophy from a Physician's Point of View." Russkaya Misl., Feb, 1915.
+
+LALANDE. "Philosophy in France in 1905." Philosophieal Rev., May, 1906. "Philosophy in France in 1907." Philosophieal Rev., May, 1908. "Philosophy in France in 1912." Philosophieal Rev., April, 1914.
+
+LEIGHTON "On Continuity and Discreteness." Journal of Philosophy, Psychology and Scientific Methods, April, 1910.
+
+LEWIS. "Bergson and Contemporary Thought." University of California Chronicle, 1914.
+
+LICORISH "Bergson's Creative Evolution and the Nervous System in Organic Evolution" Lancet, Vol. 182.
+
+LIPPMANN "The most Dangerous Man in the World." Everybody's Magazine, July, 1912. "Bergson's Philosophy" New York Times Book Review, Nov, 1912.
+
+LODGE "Bergson's Intuitional Philosophy Justified." Current Literature, April, 1912. "Balfour and Bergson" Hibbert Journal, Jan., 1912.
+
+LOVEDAY. "L'Evolution creatrice" Mind, 1908.
+
+LOVEJOY. "The Metaphysician of the Life Force" Nation, Sept, 1909 "The Problem of Time in Recent French Philosophy, (III). Bergson s Temporalism and Anti-intellectualism" Philosophical Review, May, 1912 "Practical Tendencies of Bergsonism" International Journal of Ethics, 1913 "Some Antecedents of Bergson's Philosophy" Mind, 1913. "Bergson and Romantic Evolutionism." University of California Chronicle, 1914.
+
+LOW. "Mr Balfour in the Study." Edinburgh Review, Oct, 1912.
+
+MARTIN. "Bergson's Creative Evolution" Pnnceton Theological Review, Jan., 1912.
+
+MASON. "Bergson's Principle" Nation, July, 1911. "Bergson's Method Confirmed" North American Review, Jan, 1913.
+
+McCABE. "The Anti rationalism of Bergson." Literary Guide and Rationalist Review, Oct 4-1911.
+
+MACASKILL. "Intellect and Intuition" Footnote to "Bergson and Bradley." Contemporary Review, July, 1915.
+
+MACDONALD "L'Effort itellectuel" Philosophical Review, July, 1902.
+
+McGILVARY. "Philosophy of Bergson" Philosophical Review, Sept, 1912.
+
+MACKINTOSH. "Bergson and Religion" Biblical World, Jan, 1913
+
+MEREDITH. "Critical Side of Bergson's Philosophy." Westminster Review, Feb, 1912.
+
+MILLER. "Bergson and Religion." Biblical World, Nov., 1915.
+
+MITCHELL. "L'Evolution creatrice" Journal of Philosophy, Psychology and Scientific Methods, Oct, 1908. "Studies on Bergson." Bulletin of University of Kansas, 1915.
+
+MOORE. A. W. "Bergson and Pragmatism." Philosophical Review, 1912.
+
+MOORE, C. L "Return of the Gods." The Dial, Nov, 1912.
+
+MORIES. "Bergson and Mysticism" Westminster Review, June, 1912.
+
+MORRISON. "The Treatment of History by Philosophers." Proc Aristotelian Soc, Vol. 1913-14.
+
+MUIRHEAD. "Creative Evolution" Hibbert Journal, 1911. "Matter and Memory" Hibbert Journal, 1911. "Time and Free Will." Hibbert Journal, 1911.
+
+MULFORD. "What is Intuition ?" Monist, Vol. 26, 1916.
+
+OVERSTREET. "Mind and Body." Psychological Bulletin, Jan., 1912.
+
+PALMER. "Thought and Instinct" Nation, June, 1909 "Life and the Brain" Contemporary Review, Oct, 1909. "Presence and Omni-presence." Contemporary Review, June, 1908
+
+PAULHAN. "Contemporary Philosophy in France." Philosophical Review, Jan, 1900.
+
+PERRY. "Philosophy of Bergson." Journal of Philosophy, Psychology and Scientific Methods, 1911.
+
+PITKIN "James and Bergson, or, Who is against Intellect ?" Journal of Philosophy, Psychology and Scientific Methods, April, 1910
+
+POULTON. "Darwin and Bergson on Evolution." Bedrock, April, 1912.
+
+QUICK "Creative Evolution and the Individual." Mind, 1913.
+
+RADHAKRISHNAN. "Bergson's Idea of God" Quest, Oct, 1916. "Bergson and Absolute Idealism 1." Mind, Jan, 1919. "Bergson and Absolute Idealism 2." Mind, July, 1919.
+
+ROBINSON "The Philosophy of Bergson." Churchman, March, 1912.
+
+ROSS "A New Theory of Laughter" Nation, Nov, 1908. "The Philosophy of Vitalism" Nation, March, 1909.
+
+ROOSEVELT. "The Search for Truth in a Reverent Spirit." Outlook, Dec, 1911.
+
+ROYCE. "The Reality of the Temporal" International Journal of Ethics, April, 1910.
+
+RUSSELL, B. "Philosophy of Bergson." Monist, July, 1912. "Mr Carr's Defence of Bergson." Cambridge Magazine, April, 1913.
+
+RUSSELL, J. E. "Bergson's Anti-Intellectualism." Journal of Philosophy, Psychology and Scientific Methods, 1912.
+
+SANBORN. "Bergson: His Personality, Philosophy and Influence." Century Review, Dec, 1912. "Bergson; Creator of a New Philosophy." Outlook, Feb, 1913.
+
+SAUVAGE. "The New Philosophy in France" Catholic University Bulletin, Washington, April, 1906, and March, 1908.
+
+SCOTT "Pessimism of Bergson" Hibbert Journal, Oct, 1912; International Journal of Ethics, Jan, 1914; Mind, July, 1913.
+
+SHEPHERD. "Le Souvenir du present et la fausse reconnaissance." Psychological Bulletin, Sept., 1910.
+
+SHIMER. "Bergson's View of Organic Evolution." Popular Science Monthly Feb., 1913.
+
+SHOTWELL "Bergson's Philosophy." Political Science Quarterly, March, 1913.
+
+SLATER. "Vision of Bergson." Forum, Dec., 1914.
+
+SLOSSON. "Major Prophets of To-day" Independent, June, 1911. "Recent Developments of Bergson's Philosophy." Independent, June, 1913.
+
+SMITH "Subjectivism and Realism in Modern Philosophy." Philosophical Review, April, 1908.
+
+SOLOMON. "Bergson's Philosophy." Mind, Jan, 1911, also Fortnightly Review, Dec, 1911 "Creative Evolution." Mind, July, 1911.
+
+STEBBING. "Notion of Truth in Bergson's Theory of Knowledge." Proc. Aristotelian Soc, Vol 1912-13.
+
+STORK. "Bergson and his Philosophy." Lutheran Quarterly, 1913.
+
+STOUT. "Free Will and Determinism." Speaker, May, 1890.
+
+STRANGE. "Bergson's Theory of Intuition." Monist, 1915.
+
+SYMONS "Bergson's Theory of Intellect and Reality." Scientific American Supplement, Dec, 1916.
+
+TAYLOR. "Henri Bergson." Quest, 1912.
+
+TAYLOR, A.E. "Matter and Memory." International Journal of Ethics, Oct., 1911. "Creative Evolution." International Journal of Ethics, July, 1912.
+
+THOMSON "Biological Philosophy of Bergson." Nature, Oct., 1911.
+
+TITCHENER. "Laughter." American Journal of Psychology, Jan., 1912.
+
+TOWNSEND. "Bergson and Religion." Monist, July, 1912.
+
+TUFTS. "Humor." Psychological Review, 1901.
+
+TUTTLE "Bergson on Life and Consciousness." Philosophical Review, Jan., 1912.
+
+TYRRELL, G. "Creative Evolution." Hibbert Journal, Jan., 1908.
+
+TYRRELL, H. "Bergson." A Poem. Art World, Sept., 1917.
+
+UNDERHILL "Bergson and the Mystics." Living Age, March, 1912, and English Review, Feb., 1912.
+
+WATERLOW. "Philosophy of Bergson." Quarterly Review, Jan., 1912.
+
+WHITE. "Bergson and Education." Educational Review, May, 1914.
+
+WHITTAKER, A.L. "Bergson: First Aid to Common-sense." Forum, March, 1914.
+
+WHITTAKER, T. "Les donnees immediates de la conscience." Mind, April, 1890.
+
+WILLCOX. "Impressions of M. Bergson." Harper's Weekly, March, 1913. "Implications of Bergson's Philosophy." North American Review, March, 1914.
+
+WILLIAMS. "Syndicalism in France and Its Relation to the Philosophy of Bergson." Hibbert Journal, Feb., 1914.
+
+WILM "Bergson and Philosophy of Religion" Biblical World, Nov., 1913.
+
+WOLF. "Natural Realism and Present Tendencies in Philosophy" Proc Aristotelian Soc, Vol, 1908-9. "Philosophy of Bergson." Jewish Review, Sept, 1911.
+
+WOLFF. "Balfour on Teleology and Bergson's Creative Evolution." Hibbert Journal, Jan, 1912.
+
+WYANT "Bergson and His Philosophy." Bookman, March, 1915.
+
+(b) Unsigned Articles
+
+1909 Sept. "Creative Evolution." Nation. 1909 Dec. "Creative Evolution." Current Literature. 1909 Dec. "Bergson's New Idea" Current Literature.
+
+1910 Sept. "Bergson on Free Will" Spectator. 1910 Oct. "Time and Free Will." Athenaeum. 1910 Oct. "Time and Free Will." Saturday Review. 1910 Nov. "Time and Free Will." Nation (USA)
+
+1911 April "Creative Evolution" Athenaeum 1911 May "Bergson's Wonder-working Philosophy." Current Literature. "Bergson and Others" Spectator. 1911 June "Creative Evolution" Saturday Review. 1911 June "Bergson in English" Nation. 1911 Aug. "Latest of Philosophers" New York Times. 1911 Aug. "New Conception of God as Creative Evolution." Current Literature 1911 Oct. "Creative Evolution" Bookman. 1911 Oct. "Creative Evolution" Dial. 1911 Oct. "Creative Evolution" Nature. 1911 Oct. "Matter and Memory." International Journal of Ethics. 1911 Dec. "Balfour's Objections to Bergson's Philosophy." Current Literature.
+
+1912 Jan. "Bergson and Balfour discuss Philosophy." Review of Reviews. 1912 Jan. "The Soul" Educational Review 1912 Feb. "Is the Philosophy of Bergson that of a Charlatan?" Current Literature 1912 Feb. "Bergson on Comedy" Living Age 1912 Apríl "Bergson's Intuitional Philosophy justified by Sir Oliver Lodge." Current Literature. 1912 Apríl "Laughter" Edinburgh Review 1912 Apríl "Bergson Criticized." London Quarterly Review 1912 June "Laughter." North American Review. "Modern Science and Bergson." Contemporary Review. July "Creative Evolution." International Journal of Ethics. "Pressing Forward into Space." Nation. "Balfour and Bergson." Westminster Review. Sept. "Prof. Henri Bergson." Open Court. "Laughter." Dublin Review.
+
+1913 Feb. "Eucken and Bergson." Independent. "Bergson's Lectures." Outlook. March "Bergson's New Idea of Evolution." Literary Digest. "Bergson's Reception in America." Current Opinion. "Visiting the French Philosopher." Literary Digest. "The Jewishness of Bergson." Literary Digest. "Bergson at the City College." Outlook. 1913 March "The Spiritual Philosopher." Review of Reviews. April "Introduction to Metaphysics." Contemporary Review. "Bergson and Eucken under Fire." Current Opinion. Oct. "Such Stuff as Dreams are Made On." Independent. "The Birth of a Dream." Independent. "Bergson on Psychical Research." Educational Review.
+
+1914 March "Portrait of Bergson." American Magazine. May "Threatened Collapse of Bergson boom in France." Current Opinion. July "The Banning of Bergson." Independent. Dec. "Bergson Looking Backward." Literary Digest. "Bergson on Germany's Moral Force." Literary Digest.
+
+1915 Jan. "Mr. Kallen on Bergson." North American Review. April " " " Nation. "Mr. Wildon Carr and Philosophy of Change." Quest. 1917 May "Bergson and the Art World." Art World. Sept. "Are Americans Money Worshippers? Bergson's Opinion." Outlook. Dec. "Bergson thanks America." New Republic.
+
+1919 Dec. "French Ideals in Education and the American Student." Living Age.
+
+Section IV. The English Translations of Bergson's Works
+
+As, in the foregoing lists, the English Translations of Bergson's Works are given separately under the heading of the date and title of the original work, they are here set forth together under the title of the publishers with translators' names and the published prices for convenience of reference for English readers or students.
+
+GEORGE ALLEN AND UNWIN, LTD. Time and Free Will. Translator--F. L. Pogson, M.A. Pp. xxiii+252 (12/6).
+
+Matter and Memory. Translators--Nancy Margaret Paul and W. Scott Palmer. Pp. xx+339 (12/6).
+
+Both of these are in "The Library of Philosophy."
+
+MACMILLAN AND CO., LTD. Creative Evolution. Translator--Arthur Mitchell, Ph.D. Pp. xv+407 (12/6).
+
+Laughter: An Essay on the Meaning of the Comic, Translators-- Cloudesley Brereton L.-es-L., M.A., and Fred Rothwell, B.A. Pp. vi+200 (4/6).
+
+An Introduction to Metaphysics. Translator--T. E. Hulme. Pp. vi+79 (3/e).
+
+Mind-Energy. Translator. Dr. Wildon Carr. (Announced.)
+
+T. FISHER UNWIN, LTD. Dreams. Translator--Dr. Slosson. Pp. 62 (2/6).
+
+The Meaning of the War. Editor, Dr. Carr. Pp. 47 (1/6).
+
+The above are all the English Translations which have appeared up to now. The Oxford University Press published in the original French the lectures given at Oxford, La Perception du Changement. These are now out of print, but will be included in the forthcoming volume of Essays.

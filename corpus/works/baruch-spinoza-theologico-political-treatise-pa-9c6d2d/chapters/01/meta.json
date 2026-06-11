@@ -2,7 +2,7 @@
   "work_slug": "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
   "work_title": "Theologico-Political Treatise, Part 1",
   "chapter_number": 1,
-  "chapter_title": "Part 1 — - Chapters I to V",
+  "chapter_title": "Chapter II — - OF PROPHETS",
   "chapter_slug": "01",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 8734,
-      "paragraph_count": 78,
+      "word_count": 11844,
+      "paragraph_count": 80,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/989"
     }

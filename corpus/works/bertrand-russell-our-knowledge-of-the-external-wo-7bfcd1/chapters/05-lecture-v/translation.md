@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 7191
+word_count: 7181
 source_url: "https://www.gutenberg.org/ebooks/37090"
 translator: Project Gutenberg edition
 ---
@@ -50,11 +50,7 @@ See next lecture.
 
 What is required may be expressed in mathematical language by saying that the position of a moving body must be a continuous function of the time. To define accurately what this means, we proceed as follows. Consider a particle which, at the moment *t*, is at the point P. Choose now any small portion P1P2 of the path of the particle, this portion being one which contains P. We say then that, if the motion of the particle is continuous at the time *t*, it must be possible to find two instants *t*1, *t*2, one earlier than *t* and one later, such that throughout the whole time from *t*1 to *t*2 (both included), the particle lies between P1 and P2. And we say that this must still hold however small we make the portion P1P2. When this is the case, we say that the motion is continuous at the time *t*; and when the motion is continuous at all times, we say that the motion as a whole is continuous. It is obvious that if the particle were to jump suddenly from P to some other point Q, our definition would fail for all intervals P1P2 which were too small to include Q. Thus our definition affords an analysis of the continuity of motion, while admitting points and instants and denying infinitesimal distances in space or periods in time.
 
-P1 P P2 Q ------|----|----|----|------>
-
 Philosophers, mostly in ignorance of the mathematician's analysis, have adopted other and more heroic methods of dealing with the *prima facie* difficulties of continuous motion. A typical and recent example of philosophic theories of motion is afforded by Bergson, whose views on this subject I have examined elsewhere.
-
-*Monist*, July 1912, pp. 337-341.
 
 Apart from definite arguments, there are certain feelings, rather than reasons, which stand in the way of an acceptance of the mathematical account of motion. To begin with, if a body is moving at all fast, we *see* its motion just as we see its colour. A *slow* motion, like that of the hour-hand of a watch, is only known in the way which mathematics would lead us to expect, namely by observing a change of position after a lapse of time; but, when we observe the motion of the second-hand, we do not merely see first one position and then another--we see something as directly sensible as colour. What is this something that we see, and that we call visible motion? Whatever it is, it is *not* the successive occupation of successive positions: something beyond the mathematical theory of motion is required to account for it. Opponents of the mathematical theory emphasise this fact. "Your theory," they say, "may be very logical, and might apply admirably to some other world; but in this actual world, actual motions are quite different from what your theory would declare them to be, and require, therefore, some different philosophy from yours for their adequate explanation."
 

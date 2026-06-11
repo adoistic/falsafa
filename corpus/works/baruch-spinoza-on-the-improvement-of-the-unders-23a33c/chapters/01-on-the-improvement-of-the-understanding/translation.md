@@ -13,12 +13,10 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 16268
+word_count: 16256
 source_url: "https://www.gutenberg.org/ebooks/1016"
 translator: Project Gutenberg edition
 ---
-
-Produced by an anonymous Project Gutenberg volunteer. HTML version by Al Haines.
 
 On the Improvement of the Understanding
 

@@ -15,208 +15,183 @@
     "text": "§ 657. When the conclusion is set out of sight, the number of possible moods is the same as the number of combinations that can be made of the four things, A, E, I, O, taken two together, without restriction as to repetition. These are the following 16:--"
   },
   {
-    "id": "p-34943d",
-    "offset": 968,
-    "text": "AA EA IA OA AE -EE- IE -OE- AI EI -II- -OI- AO -EO- -IO- -OO-"
-  },
-  {
     "id": "p-9f3f78",
-    "offset": 1031,
+    "offset": 968,
     "text": "of which seven may be neglected as violating the general rules of the syllogism, thus leaving us with nine valid moods--"
   },
   {
-    "id": "p-c0f6d9",
-    "offset": 1153,
-    "text": "AA. AE. AI. AO. EA. EI. IA. IE. OA."
-  },
-  {
     "id": "p-e9f13b",
-    "offset": 1190,
+    "offset": 1090,
     "text": "§ 658. We will now put these nine moods successively into the three figures. By so doing it will become apparent how far they are valid in each."
   },
   {
     "id": "p-d721db",
-    "offset": 1336,
+    "offset": 1236,
     "text": "§ 659. Let it be premised that"
   },
   {
     "id": "p-58611c",
-    "offset": 1368,
+    "offset": 1268,
     "text": "when the extreme in the premiss that stands first is predicate in the conclusion, we are said to have a Direct Mood;"
   },
   {
     "id": "p-bf8b76",
-    "offset": 1486,
+    "offset": 1386,
     "text": "when the extreme in the premiss that stands second is predicate in the conclusion, we are said to have an Indirect Mood."
   },
   {
-    "id": "p-5e4d1d",
-    "offset": 1608,
-    "text": "§ 660. FIGURE 1."
-  },
-  {
     "id": "p-e2dcb9",
-    "offset": 1626,
+    "offset": 1508,
     "text": "*Mood AA.* All B is A. All C is B. .'. All C is A, or Some A is C, (Barbara & Bramantip)."
   },
   {
     "id": "p-efa369",
-    "offset": 1717,
+    "offset": 1599,
     "text": "*Mood AE.* All B is A. No C is B. .'. Illicit Process, or Some A is not C, (Fesapo)."
   },
   {
     "id": "p-441d4d",
-    "offset": 1803,
+    "offset": 1685,
     "text": "*Mood AI.* All B is A. Some C is B. .'. Some C is A, or Some A is C. (Darii & Disamis)."
   },
   {
     "id": "p-2a672c",
-    "offset": 1892,
+    "offset": 1774,
     "text": "*Mood AO.* All B is A. Some C is not B. .'. Illicit Process, (Ferio)."
   },
   {
     "id": "p-bb17e1",
-    "offset": 1963,
+    "offset": 1845,
     "text": "*Mood EA.* No B is A. All C is B. .'. No C is A, or No A is C, (Celarent & Camenes)."
   },
   {
     "id": "p-f7341a",
-    "offset": 2049,
+    "offset": 1931,
     "text": "*Mood EI.* No B is A. Some C is B. .'. Some C is not A, or Illicit Process."
   },
   {
     "id": "p-42c0ec",
-    "offset": 2126,
+    "offset": 2008,
     "text": "*Mood IA.* Some B is A. All C is B. .'. Undistributed Middle."
   },
   {
     "id": "p-d5fa08",
-    "offset": 2189,
+    "offset": 2071,
     "text": "*Mood IE.* Some B is C. Some B is not A. No A is B. All C is B. .'. Illicit Process, or Some C is not A, (Fresison)."
   },
   {
     "id": "p-79dad4",
-    "offset": 2307,
+    "offset": 2189,
     "text": "*Mood OA.* Some B is not A. All C is B. .'. Undistributed Middle."
   },
   {
     "id": "p-4a81d6",
-    "offset": 2374,
+    "offset": 2256,
     "text": "§ 661. Thus we are left with six valid moods, which yield four direct conclusions and five indirect ones, corresponding to the four moods of the original first figure and the five moods of the original fourth, which appear now as indirect moods of the first figure."
   },
   {
     "id": "p-88492c",
-    "offset": 2641,
+    "offset": 2523,
     "text": "§ 662. But why, it maybe asked, should not the moods of the first figure equally well be regarded as indirect moods of the fourth? For this reason-that all the moods of the fourth figure can be elicited out of premisses in which the terms stand in the order of the first, whereas the converse is not the case. If, while retaining the quantity and quality of the above premisses, i. e. the mood, we were in each case to transpose the terms, we should find that we were left with five valid moods instead of six, since AI in the reverse order of the terms involves undistributed middle; and, though we should have Celarent indirect to Camenes, and Darii to Dimaris, we should never arrive at the conclusion of Barbara or have anything exactly equivalent to Ferio. In place of Barbara, Bramantip would yield as an indirect mood only the subaltern AAI in the first figure. Both Fesapo and Fresison would result in an illicit process, if we attempted to extract the conclusion of Ferio from them as an indirect mood. The nearest approach we could make to Ferio would be the mood EAO in the first figure, which may be elicited indirectly from the premisses of CAMENES, being subaltern to CELARENT. For these reasons the moods of the fourth figure are rightly to be regarded as indirect moods of the first, and not vice versâ."
   },
   {
-    "id": "p-68bf38",
-    "offset": 3962,
-    "text": "$663. FIGURE II."
-  },
-  {
     "id": "p-f16b85",
-    "offset": 3980,
+    "offset": 3844,
     "text": "*Mood AA.* All A is B. All C is B. .'. Undistributed Middle."
   },
   {
     "id": "p-a69bfb",
-    "offset": 4042,
+    "offset": 3906,
     "text": "*Mood AE.* All A is B. No C is B. .'. No C is A, or No A is C, (Camestres & Cesare)."
   },
   {
     "id": "p-17912f",
-    "offset": 4128,
+    "offset": 3992,
     "text": "*Mood AI.* All A is B. Some C is B. .'. Undistributed Middle."
   },
   {
     "id": "p-2e84b9",
-    "offset": 4191,
+    "offset": 4055,
     "text": "*Mood AO.* All A is B. Some C is not B. .'. Some C is not A, (Baroko), or Illicit Process."
   },
   {
     "id": "p-543779",
-    "offset": 4283,
+    "offset": 4147,
     "text": "*Mood EA.* No A is B. All C is B. .'. No C is A, or No A is C, (Cesare & Carnestres)."
   },
   {
     "id": "p-35ad46",
-    "offset": 4370,
+    "offset": 4234,
     "text": "*Mood EI* No A is B. Some C is B. .'. Some C is not A, (Festino), or Illicit Process."
   },
   {
     "id": "p-67f312",
-    "offset": 4457,
+    "offset": 4321,
     "text": "*Mood IA.* Some A is B. All C is B. .'. Undistributed Middle."
   },
   {
     "id": "p-3a40f8",
-    "offset": 4520,
+    "offset": 4384,
     "text": "*Mood IE.* Some A is B. No C is B. .'. Illicit Process, or Some A is not C, (Festino)."
   },
   {
     "id": "p-e1669e",
-    "offset": 4608,
+    "offset": 4472,
     "text": "*Mood OA.* Some A is not B. All C is B. .'. Illicit Process, or Some A is not C, (Baroko)."
   },
   {
     "id": "p-a1d418",
-    "offset": 4700,
+    "offset": 4564,
     "text": "§ 664. Here again we have six valid moods, which yield four direct conclusions corresponding to Cesare, CARNESTRES, FESTINO and BAROKO. The same four are repeated in the indirect moods."
   },
   {
-    "id": "p-a22cca",
-    "offset": 4887,
-    "text": "§ 665. FIGURE III."
-  },
-  {
     "id": "p-e6b65b",
-    "offset": 4907,
+    "offset": 4751,
     "text": "*Mood AA.* All B is A. All B is C. .'. Some C is A, or Some A is C, (Darapti)."
   },
   {
     "id": "p-44a86f",
-    "offset": 4987,
+    "offset": 4831,
     "text": "*Mood AE.* All B is A. No B is C. .'. Illicit Process, or Some A is not C, (Felapton)."
   },
   {
     "id": "p-760a9c",
-    "offset": 5075,
+    "offset": 4919,
     "text": "*Mood AI.* All B is A, Some B is C. .'. Some C is A, or Some A is C, (Datisi & Disamis)."
   },
   {
     "id": "p-0da21c",
-    "offset": 5165,
+    "offset": 5009,
     "text": "*Mood AO.* All B is A. Some B is not C. .'. Illicit Process, Or Some A is not C, (Bokardo)."
   },
   {
     "id": "p-649388",
-    "offset": 5258,
+    "offset": 5102,
     "text": "*Mood EA.* No B is A. All B is C. .'. Some C is not A, (Felapton), or Illicit Process."
   },
   {
     "id": "p-276ca6",
-    "offset": 5346,
+    "offset": 5190,
     "text": "*Mood EI.* No B is A. Some B is C. .'. Some C is not A, (Ferison), or Illicit Process."
   },
   {
     "id": "p-a47d87",
-    "offset": 5434,
+    "offset": 5278,
     "text": "*Mood IA.* Some B is A. All B is C. .'. Some C is A, Or Some A is C, (Disamis & Datisi)."
   },
   {
     "id": "p-68d3f8",
-    "offset": 5524,
+    "offset": 5368,
     "text": "*Mood IE.* Some B is A. No B is C. .'. Illicit Process, or Some A is not C, (Ferison)."
   },
   {
     "id": "p-1c2605",
-    "offset": 5612,
+    "offset": 5456,
     "text": "*Mood QA.* Some B is not A. All B is C. .'. Some C is not A, (Bokardo), or Illicit Process."
   },
   {
     "id": "p-5344c9",
-    "offset": 5705,
+    "offset": 5549,
     "text": "§ 666. In this figure every mood is valid, either directly or indirectly. We have six direct moods, answering to Darapti, Disamis, Datisi, Felapton, Bokardo and Ferison, which are simply repeated by the indirect moods, except in the case of Darapti, which yields a conclusion not provided for in the mnemonic lines. Darapti, though going under one name, has as much right to be considered two moods as Disamis and Datisi."
   }
 ]

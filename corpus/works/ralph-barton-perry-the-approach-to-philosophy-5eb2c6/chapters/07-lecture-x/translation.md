@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 27599
+word_count: 27342
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -26,25 +26,15 @@ translator: Project Gutenberg edition
 
 [251:16] Quoted from Voltaire's London *Letter on the English*, by Lange: *Op. cit.*, II, p. 18.
 
-[251:17] Quoted by Lange: *Op. cit.*, II, p. 113.
-
 [252:18] The phrase "psycho-physical parallelism," current in psychology, may mean automatism of the kind expounded above, and may also mean dualism. It is used commonly as a methodological principle to signify that no causal relationship between mind and body, but one of *correspondence*, is to be looked for in empirical psychology. Cf. § 99.
-
-[255:19] Quoted by Ward: *Op. cit.*, I, p. 18.
 
 [256:20] There are times when Huxley, *e. g.*, would seem to be on the verge of the Berkeleyan idealism. Cf. Chap. IX.
 
 [256:21] For the case of Karl Pearson, read his *Grammar of Science*, Chap. II.
 
-[261:22] Pater: *The Renaissance*, pp. 249-250.
-
-[262:23] Hobbes: *Leviathan,* Chap. XV.
-
 [265:24] Quoted from Balfour: *Foundations of Belief*, pp. 29-31.
 
 [265:25] Ferguson: *Religion of Democracy*, p. 10.
-
-[266:26] Haeckel: *Op. cit.*, p. 344.
 
 [266:27] Huxley: *Evolution and Ethics*, p. 45. *Collected Essays*, Vol. IX.
 
@@ -242,61 +232,21 @@ FOOTNOTES:
 
 [269:3] Plato: *Theaetetus*, 156. Translation by Jowett. The italics are mine.
 
-[270:4] Plato: *Op. cit.*, 166.
-
-[271:5] ἀληθὲς ὃ ἑκάστῳ ἑκάστοτε δοκεῖ.
-
-[273:6] For another issue out of this situation, cf. §§ 185-187.
-
-[276:7] Berkeley: *Op. cit.*, Vol. I, pp. 380-381.
-
-[276:8] *Ibid.*, p. 389.
-
-[277:9] *Ibid.*, p. 397.
-
-[278:10] *Ibid.*, p. 418.
-
-[279:11] *Ibid.*, pp. 403-404.
-
-[282:12] Cf. Pearson: *Grammar of Science*, Chap. II. See above, § 118.
-
-[283:13] See Chap. XI. Cf. also § 140.
-
 [283:14] The same may be said of the "permanent possibilities of sensation," proposed by J. S. Mill. Such possibilities outside of actual perception are either nothing or things such as they are known to be *in* perception. In either case they are not perceptions.
 
 In Ernst Mach's *Analysis of Sensations*, the reader will find an interesting transition from sensationalism to realism through the substitution of the term *Bestandtheil* for *Empfindung*. (See Translation by Williams, pp. 18-20.) See below, § 207.
-
-[284:15] Berkeley: *Op. cit.*, p. 447.
 
 [287:16] Schopenhauer: *The World as Will and Idea*. Translation by Haldane and Kemp, Vol. I, p. 141.
 
 [288:17] Quoted from Naegeli: _Die Mechanisch-physiologische Theorie der Abstammungslehre*, by Friedrich Paulsen, in his *Introduction to Philosophy_. Translation by Thilly, p. 103.
 
-[294:18] Berkeley: *Op. cit.*, p. 273.
-
-[294:19] *Op. cit.*, Vol. I, pp. 272-273.
-
-[295:20] *Op. cit.*, Vol. III, p. 278.
-
-[297:21] *Op. cit.*, Vol. III, p. 249.
-
 [299:22] Plato: *Theaetetus*, 167. Translation by Jowett.
-
-[299:23] See § 121.
 
 [300:24] Schopenhauer: *Op. cit.* Translation by Haldane and Kemp, Vol. I, pp. 253-254.
 
-[301:25] See Plato: *Republic*, Bk. I, 338.
-
-[302:26] Paulsen: *Op. cit.*, p. 423.
-
 [304:27] Schopenhauer: *Op. cit.* Translation by Haldane and Kemp, p. 532.
 
-[304:28] Berkeley: *Op. cit.*, Vol. II, p. 138.
-
 [305:29] For an interesting characterization of this type of religion, cf. Royce: *Spirit of Modern Philosophy*, p. 46.
-
-[305:30] James: *The Will to Believe*, p. 141.
 
 CHAPTER X
 
@@ -464,29 +414,17 @@ FOOTNOTES:
 
 [309:3] When contrasted with the temporal realm of "generation and decay," this ultimate object is often called the *eternal*.
 
-[311:4] Holland, 1632-1677.
-
 [312:5] Spinoza: *Ethics*, Part I. Translation by Elwes, p. 45.
-
-[314:6] *Ibid.*, p. 49.
-
-[318:7] *Ibid.*, pp. 77, 81.
 
 [329:8] Plato: *Symposium*, 211. Translation by Jowett.
 
 [330:9] Plato: *Republic*, 533. Translation by Jowett.
-
-[337:10] See Burnet: *Op. cit.*, pp. 322-333.
 
 [338:11] Leibniz: *Discourse on Metaphysics*. Translation by Montgomery, p. 15.
 
 In so far as the monads are spiritual this doctrine tends to be subjectivistic. Cf. Chap. IX.
 
 [340:12] Leibniz: *New Essays on the Human Understanding*. Translation by Latta, p. 363.
-
-[344:13] Spinoza: *Op. cit.*, Part IV. Translation by Elwes, p. 243.
-
-[345:14] Plato: *Op. cit.*, 401.
 
 [347:15] Plato: *Symposium*, 210-211. Translation by Jowett.
 
@@ -527,8 +465,6 @@ The task of the new absolutism is now in clear view. The perfect must be amended
 § 176. With the successors of Kant, as with the successors of Socrates, a criticism becomes a system of metaphysics. This transformation is effected in the post-Kantians by _a generalization of the human cognitive consciousness_. According to Kant's analysis it contains a manifold of sense which must be organized by categories in obedience to the ideal of a rational universe. The whole enterprise, with its problems given in perception, its instruments available in the activities of the understanding, and its ideals revealed in the reason, is an organic spiritual unity, manifesting itself in the self-consciousness of the thinker. Now in absolute idealism this very enterprise of knowledge, made universal and called the *absolute spirit* or *mind*, is taken to be the ultimate reality. And here at length would seem to be afforded the conception of a being to which the problematic and the rational, the data and the principles, the natural and the ideal, are alike indispensable. We are now to seek the real not in the ideal itself, but in that spiritual unity in which appearance is the incentive to truth, and natural imperfection the spring to goodness. This may be translated into the language which Plato uses in the "Symposium," when Diotima is revealing to Socrates the meaning of love. The new reality will be not the loved one, but love itself.
 
 "What then is Love? Is he mortal?"
-
-"No."
 
 "What then?"
 
@@ -674,30 +610,16 @@ FOOTNOTES:
 
 [359:3] Plato: *Symposium*, 202. Translation by Jowett.
 
-[359:4] Emerson: *Essays, Second Series*, pp. 65-66.
-
-[364:5] Emerson: *Op. cit.*, p. 25.
-
 The possibility of conflict between this method of nature study and the empirical method of science is significantly attested by the circumstance that in the year 1801 Hegel published a paper in which he maintained, on the ground of certain numerical harmonies, that there could be no planet between Mars and Jupiter, while at almost exactly the same time Piazzi discovered Ceres, the first of the asteroids.
 
 [368:6] McTaggart: *Studies in Hegelian Dialectic*, p. 181.
-
-[369:7] Green: *Prolegomena to Ethics*, p. 15.
 
 [370:8] Plato: *The Sophist*, 248. Translation by Jowett.
 
 [382:9] Hegel: *Encyclopädie*, § 45, lecture note. Quoted by McTaggart: *Op. cit.*, p. 69.
 
-[382:10] Hegel: *Encyclopädie*, § 50. Quoted by McTaggart: *Op. cit.*, p. 70.
-
-[385:11] Royce: *Conception of God*, pp. 19, 43-44.
-
 This argument is well summarized in Green's statement that "the existence of one connected world, which is the presupposition of knowledge, implies the action of one self-conditioning and self-determining mind." *Prolegomena to Ethics*, p. 181.
 
 [387:12] Kant: *Critical Examination of Practical Reason*. Translated by Abbott in *Kant's Theory of Ethics*, p. 180.
-
-[391:13] Quoted from McTaggart: *Op. cit.*, pp. 231-232.
-
-[393:14] Emerson: *Op. cit.*, pp. 30-31.
 
 [394:15] Royce: *The World and the Individual, First Series*, p. 465.

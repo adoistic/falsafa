@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 8063
+word_count: 8042
 source_url: "https://www.gutenberg.org/ebooks/5173"
 translator: Project Gutenberg edition
 ---
@@ -128,8 +128,6 @@ Therefore, to get Enlightened we have to believe that all beings are Buddha-natu
 
 A great trouble with us is that we do not believe in half the good that we are born with. We are just like the only son of a well-to-do, as the author of Saddharma-pundarika-sutra[FN#172] tells us, who, being forgetful of his rich inheritance, leaves his home and leads a life of hand-to-mouth as a coolie. How miserable it is to see one, having no faith in his noble endowment, burying the precious gem of Buddha-nature into the foul rubbish of vices and crimes, wasting his excellent genius in the exertion that is sure to disgrace his name, falling a prey to bitter remorse and doubt, and casting himself away into the jaw of perdition. Shakya Muni, full of fatherly love towards all beings, looked with compassion on us, his prodigal son, and used every means to restore the half-starved man to his home. It was for this that he left the palace and the beloved wife and son, practised his self-mortification and prolonged Meditation, attained to Enlightenment, and preached Dharma for forty-nine years; in other words, all his strength and effort were focussed on that single aim, which was to bring the prodigal son to his rich mansion of Buddha-nature. He taught not only by words, but by his own actual example, that man has Buddha-nature, by the unfoldment of which he can save himself from the miseries of life and death, and bring himself to a higher realm than gods. When we are Enlightened, or when Universal Spirit awakens within us, we open the inexhaustible store of virtues and excellencies, and can freely make use of them at our will.
 
-[FN#172] See 'Sacred Books of the East,' vol. xxi., chap. iv., pp. 98-118.
-
 17. The Parable of the Monk and the Stupid Woman.
 
 The confused or unenlightened may be compared with a monk and a stupid woman in a Japanese parable which runs as follows: "One evening a monk (who was used to have his head shaved clean), getting drunk against the moral precepts, visited a woman, known as a blockhead, at her house. No sooner had he got into her room than the female fell asleep so soundly that the monk could not wake her nap. Thereupon he made up his mind to use every possible means to arouse her, and searched and searched all over the room for some instrument that would help him in his task of arousing her from death-like slumber. Fortunately, he found a razor in one of the drawers of her mirror stand. With it he gave a stroke to her hair, but she did not stir a whit. Then came another stroke, and she snored like thunder. The third and fourth strokes came, but with no better result. And at last her head was shaven clean, yet still she slept on. The next morning when she awoke, she could not find her visitor, the monk, as he had left the house in the previous night. 'Where is my visitor, where my dear monk?' she called aloud, and waking in a state of somnambulation looked for him in vain, repeating the outcry. When at length her hand accidentally touched her shaven head, she mistook it for that of her visitor, and exclaimed: 'Here you are, my dear, where am I myself gone then?" A great trouble with the confused is their forgetting of real self or Buddha-nature, and not knowing 'where it is gone.' Duke Ngai, of the State of Lu, once said to Confucius: "One of my subjects, Sir, is so much forgetful that he forgot to take his wife when be changed his residence." "That is not much, my lord," said the sage, "the Emperors Kieh[FN#173] and Cheu[FN#174] forgot their own selves."[FN#175]
@@ -137,8 +135,6 @@ The confused or unenlightened may be compared with a monk and a stupid woman in 
 [FN#173] The last Emperor of the Ha dynasty, notorious for his vices. His reign was 1818-1767 B.C.
 
 [FN#174] The last Emperor of the Yin dynasty, one of the worst despots. His reign was 1154-1122 B.C.
-
-[FN#175] Ko-shi-ke-go.
 
 18. 'Each Smile a Hymn, each Kindly Word a Prayer.'
 
@@ -175,5 +171,3 @@ Milton says:
 "Virtue may be assailed, but never hurt; Surprised by unjust force, but not enthralled. But evil on itself shall back recoil, And mix no more with goodness. If this fail, The pillared firmament is rottenness, And earth's base built on stubble."
 
 The world is built on the foundation of morality, which is another name for Universal Spirit, and moral order sustains it. We human beings, consciously or unconsciously, were, are, and will be at work to bring the world into perfection. This idea is allegorically expressed in the Buddhist sutra,[FN#177] which details the advent of a merciful Buddha named Maitreya in the remote future. At that time, it says, there will be no steep hills, no filthy places, no epidemic, no famine, no earthquake, no storm, no war, no revolution, no bloodshed, no cruelty, and no suffering; the roads will be paved smoothly, grass and trees always blooming, birds ever singing, men contented and happy; all sentient beings will worship the Buddha of Mercy, accept His doctrine, and attain to Enlightenment. This prophecy will be fulfilled, according to the sutra, 5,670,000,000 years after the death of Shakya Muni. This evidently shows us that the Mahayanist's aim of life is to bring out man's inborn light of Buddha-nature to illumine the world, to realize the universal brotherhood of all sentient beings, to attain to Enlightenment, and to enjoy peace and joy to which Universal Spirit leads us.
-
-[FN#177] See Nanjo's Catalogue, Nos. 204-209.

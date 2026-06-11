@@ -1,822 +1,717 @@
 [
   {
-    "id": "p-8ee1d6",
+    "id": "p-7c9266",
     "offset": 0,
-    "text": "THE BILITERAL DIAGRAM."
+    "text": "The Genus, of which the two Terms are Specieses, is called the '=Universe of Discourse=,' or (more briefly) the '=Univ.='"
   },
   {
-    "id": "p-7e21c6",
-    "offset": 24,
-    "text": "·-------------· | | | | xy | xy' | | | | |------|------| | | | | x'y | x'y' | | | | ·-------------·"
+    "id": "p-834e29",
+    "offset": 123,
+    "text": "The Sign of Quantity is \"Some\" or \"No\" or \"All\"."
   },
   {
-    "id": "p-4434d4",
-    "offset": 125,
-    "text": "CHAPTER I."
+    "id": "p-169cc0",
+    "offset": 173,
+    "text": "[Note that, though its Sign of Quantity tells us *how many* Members of its Subject are *also* Members of its Predicate, it does not tell us the *exact* number: in fact, it only deals with *three* numbers, which are, in ascending order, \"0\", \"1 or more\", \"the total number of Members of the Subject\".]"
   },
   {
-    "id": "p-2a7e1f",
-    "offset": 137,
-    "text": "*SYMBOLS AND CELLS.*"
+    "id": "p-ac8905",
+    "offset": 475,
+    "text": "It is called \"a Proposition of Relation\" because its effect is to assert that a certain *relationship* exists between its Terms."
   },
   {
-    "id": "p-7048e7",
-    "offset": 159,
-    "text": "First, let us suppose that the above Diagram is an enclosure assigned to a certain Class of Things, which we have selected as our 'Universe of Discourse.' or, more briefly, as our 'Univ'."
+    "id": "p-aad140",
+    "offset": 605,
+    "text": "*Reduction of a Proposition of Relation to Normal form.*"
   },
   {
-    "id": "p-3b50a8",
-    "offset": 348,
-    "text": "[For example, we might say \"Let Univ. be 'books'\"; and we might imagine the Diagram to be a large table, assigned to all \"books.\"]"
+    "id": "p-0ca89d",
+    "offset": 663,
+    "text": "The Rules, for doing this, are as follows:--"
   },
   {
-    "id": "p-8447a3",
-    "offset": 480,
-    "text": "[The Reader is strongly advised, in reading this Chapter, *not* to refer to the above Diagram, but to draw a large one for himself, *without any letters*, and to have it by him while he reads, and keep his finger on that particular *part* of it, about which he is reading.] pg023 Secondly, let us suppose that we have selected a certain Adjunct, which we may call \"x,\" and have divided the large Class, to which we have assigned the whole Diagram, into the two smaller Classes whose Differentiæ are \"x\" and \"not-x\" (which we may call \"x'\"), and that we have assigned the *North* Half of the Diagram to the one (which we may call \"the Class of x-Things,\" or \"the x-Class\"), and the *South* Half to the other (which we may call \"the Class of x'-Things,\" or \"the x'-Class\")."
+    "id": "p-d1b3f8",
+    "offset": 709,
+    "text": "(1) Ascertain what is the *Subject* (i.e., ascertain what Class we are *talking about*);"
   },
   {
-    "id": "p-af352e",
-    "offset": 1253,
-    "text": "[For example, we might say \"Let x mean 'old,' so that x' will mean 'new',\" and we might suppose that we had divided books into the two Classes whose Differentiæ are \"old\" and \"new,\" and had assigned the *North* Half of the table to \"*old* books\" and the *South* Half to \"*new* books.\"]"
+    "id": "p-689ecf",
+    "offset": 799,
+    "text": "(2) If the verb, governed by the Subject, is *not* the verb \"are\" (or \"is\"), substitute for it a phrase beginning with \"are\" (or \"is\");"
   },
   {
-    "id": "p-6093b2",
-    "offset": 1540,
-    "text": "Thirdly, let us suppose that we have selected another Adjunct, which we may call \"y\", and have subdivided the x-Class into the two Classes whose Differentiæ are \"y\" and \"y'\", and that we have assigned the North-*West* Cell to the one (which we may call \"the xy-Class\"), and the North-*East* Cell to the other (which we may call \"the xy'-Class\")."
+    "id": "p-838ddb",
+    "offset": 936,
+    "text": "(3) Ascertain what is the *Predicate* (i.e., ascertain what Class it is, which is asserted to contain *some*, or *none*, or *all*, of the Members of the Subject);"
   },
   {
-    "id": "p-ebfc12",
-    "offset": 1887,
-    "text": "[For example, we might say \"Let y mean 'English,' so that y' will mean 'foreign'\", and we might suppose that we had subdivided \"old books\" into the two Classes whose Differentiæ are \"English\" and \"foreign\", and had assigned the North-*West* Cell to \"old *English* books\", and the North-*East* Cell to \"old *foreign* books.\"]"
+    "id": "p-cb1c31",
+    "offset": 1100,
+    "text": "(4) If the Name of each Term is *completely expressed* (i.e. if it contains a Substantive), there is no need to determine the 'Univ.'; but, if either Name is *incompletely expressed*, and contains *Attributes* only, it is then necessary to determine a 'Univ.', in order to insert its Name as the Substantive."
   },
   {
-    "id": "p-826d4a",
-    "offset": 2213,
-    "text": "Fourthly, let us suppose that we have subdivided the x'-Class in the same manner, and have assigned the South-*West* Cell to the x'y-Class, and the South-*East* Cell to the x'y'-Class."
+    "id": "p-406a7b",
+    "offset": 1410,
+    "text": "(5) Ascertain the *Sign of Quantity*;"
   },
   {
-    "id": "p-724a22",
-    "offset": 2399,
-    "text": "[For example, we might suppose that we had subdivided \"new books\" into the two Classes \"new *English* books\" and \"new *foreign* books\", and had assigned the South-*West* Cell to the one, and the South-*East* Cell to the other.]"
+    "id": "p-0dc6fc",
+    "offset": 1449,
+    "text": "(6) Arrange in the following order:--"
   },
   {
-    "id": "p-c2a74d",
-    "offset": 2628,
-    "text": "It is evident that, if we had begun by dividing for y and y', and had then subdivided for x and x', we should have got the *same* four Classes. Hence we see that we have assigned the *West* Half to the y-Class, and the *East* Half to the y'-Class. pg024 [Thus, in the above Example, we should find that we had assigned the *West* Half of the table to \"*English* books\" and the *East* Half to \"*foreign* books.\""
+    "id": "p-e2b209",
+    "offset": 1488,
+    "text": "Sign of Quantity, Subject, Copula, Predicate."
   },
   {
-    "id": "p-d0f328",
-    "offset": 3040,
-    "text": "·-------------------· | old | old | | English | foreign | | books | books | |---------|---------| | new | new | | English | foreign | | books | books | ·-------------------·"
+    "id": "p-1f225c",
+    "offset": 1535,
+    "text": "[Let us work a few Examples, to illustrate these Rules."
   },
   {
-    "id": "p-16c5fa",
-    "offset": 3215,
-    "text": "We have, in fact, assigned the four Quarters of the table to four different Classes of books, as here shown.]"
+    "id": "p-31306c",
+    "offset": 1592,
+    "text": "\"Some apples are not ripe.\""
   },
   {
-    "id": "p-adb64a",
-    "offset": 3326,
-    "text": "The Reader should carefully remember that, in such a phrase as \"the x-Things,\" the word \"Things\" means that particular *kind* of Things, to which the whole Diagram has been assigned."
+    "id": "p-aa6f34",
+    "offset": 1621,
+    "text": "(1) The Subject is \"apples.\""
   },
   {
-    "id": "p-a82c20",
-    "offset": 3510,
-    "text": "[Thus, if we say \"Let Univ. be 'books',\" we mean that we have assigned the whole Diagram to \"books.\" In that case, if we took \"x\" to mean \"old\", the phrase \"the x-Things\" would mean \"the old books.\"]"
+    "id": "p-68532b",
+    "offset": 1651,
+    "text": "(3) The Predicate is \"not-ripe * * *.\" (As no Substantive is expressed, and we have not yet settled what the Univ. is to be, we are forced to leave a blank.)"
   },
   {
-    "id": "p-55f3ff",
-    "offset": 3711,
-    "text": "The Reader should not go on to the next Chapter until he is _quite familiar* with the *blank_ Diagram I have advised him to draw."
+    "id": "p-fb6b8d",
+    "offset": 1810,
+    "text": "(4) Let Univ. be \"fruit.\""
   },
   {
-    "id": "p-899b5b",
-    "offset": 3842,
-    "text": "He ought to be able to name, *instantly*, the *Adjunct* assigned to any Compartment named in the right-hand column of the following Table."
+    "id": "p-3e5ba3",
+    "offset": 1837,
+    "text": "(5) The Sign of Quantity is \"some.\""
   },
   {
-    "id": "p-61f9d8",
-    "offset": 3982,
-    "text": "Also he ought to be able to name, *instantly*, the *Compartment* assigned to any Adjunct named in the left-hand column."
+    "id": "p-020a52",
+    "offset": 1874,
+    "text": "(6) The Proposition now becomes"
   },
   {
-    "id": "p-127658",
-    "offset": 4103,
-    "text": "To make sure of this, he had better put the book into the hands of some genial friend, while he himself has nothing but the blank Diagram, and get that genial friend to question him on this Table, *dodging* about as much as possible. The Questions and Answers should be something like this:--"
+    "id": "p-9cd3ea",
+    "offset": 1907,
+    "text": "\"Some | apples | are | not-ripe fruit.\""
   },
   {
-    "id": "p-59e8f9",
-    "offset": 4397,
-    "text": "pg025 TABLE I."
+    "id": "p-a917e3",
+    "offset": 1948,
+    "text": "\"None of my speculations have brought me as much as 5 per cent.\""
   },
   {
-    "id": "p-7d87b9",
-    "offset": 4413,
-    "text": "·----------------------------------------· | *Adjuncts* | *Compartments, or Cells,* | | *of* | *assigned to them.* | | *Classes.* | | |------------|---------------------------| | x | North Half. | | x' | South \" | | y | West \" | | y' | East \" | |------------|---------------------------| | xy | North-West Cell. | | xy' | \" East \" | | x'y | South-West \" | | x'y' | \" East \" | ·----------------------------------------·"
+    "id": "p-c8ba89",
+    "offset": 2014,
+    "text": "(1) The Subject is \"my speculations.\""
   },
   {
-    "id": "p-99324c",
-    "offset": 4833,
-    "text": "Q. \"Adjunct for West Half?\" A. \"y.\" Q. \"Compartment for xy'?\" A. \"North-East Cell.\" Q. \"Adjunct for South-West Cell?\" A. \"x'y.\" &c., &c."
+    "id": "p-6f3c16",
+    "offset": 2053,
+    "text": "(2) The Verb is \"have brought,\" for which we substitute the phrase \"are * * * that have brought\"."
   },
   {
-    "id": "p-024311",
-    "offset": 4971,
-    "text": "After a little practice, he will find himself able to do without the blank Diagram, and will be able to see it *mentally* (\"in my mind's eye, Horatio!\") while answering the questions of his genial friend. When *this* result has been reached, he may safely go on to the next Chapter."
+    "id": "p-ccd569",
+    "offset": 2152,
+    "text": "(3) The Predicate is \"* * * that have brought &c.\""
   },
   {
-    "id": "p-49c7d4",
-    "offset": 5255,
-    "text": "pg026"
+    "id": "p-101b40",
+    "offset": 2204,
+    "text": "(4) Let Univ. be \"transactions.\""
   },
   {
-    "id": "p-333fc7",
-    "offset": 5262,
-    "text": "CHAPTER II."
+    "id": "p-9008a4",
+    "offset": 2238,
+    "text": "(5) The Sign of Quantity is \"none of.\""
   },
   {
-    "id": "p-eee48e",
-    "offset": 5275,
-    "text": "*COUNTERS.*"
+    "id": "p-020a52",
+    "offset": 2278,
+    "text": "(6) The Proposition now becomes"
   },
   {
-    "id": "p-97994e",
-    "offset": 5288,
-    "text": "Let us agree that a *Red* Counter, placed within a Cell, shall mean \"This Cell is *occupied*\" (i.e. \"There is at least *one* Thing in it\")."
+    "id": "p-b4191c",
+    "offset": 2311,
+    "text": "\"None of | my speculations | are | transactions that have brought me as much as 5 per cent.\""
   },
   {
-    "id": "p-c6836a",
-    "offset": 5429,
-    "text": "Let us also agree that a *Red* Counter, placed on the partition between two Cells, shall mean \"The Compartment, made up of these two Cells, is *occupied*; but it is not known *whereabouts*, in it, its occupants are.\" Hence it may be understood to mean \"At least *one* of these two Cells is occupied: possibly *both* are.\""
+    "id": "p-a29f9e",
+    "offset": 2405,
+    "text": "\"None but the brave deserve the fair.\""
   },
   {
-    "id": "p-47881d",
-    "offset": 5752,
-    "text": "Our ingenious American cousins have invented a phrase to describe the condition of a man who has not yet made up his mind *which* of two political parties he will join: such a man is said to be \"=sitting on the fence=.\" This phrase exactly describes the condition of the Red Counter."
+    "id": "p-fd6653",
+    "offset": 2445,
+    "text": "To begin with, we note that the phrase \"none but the brave\" is equivalent to \"no *not*-brave.\""
   },
   {
-    "id": "p-6340ab",
-    "offset": 6037,
-    "text": "Let us also agree that a *Grey* Counter, placed within a Cell, shall mean \"This Cell is *empty*\" (i.e. \"There is *nothing* in it\")."
+    "id": "p-168f27",
+    "offset": 2541,
+    "text": "(1) The Subject has for its *Attribute* \"not-brave.\" But no *Substantive* is supplied. So we express the Subject as \"not-brave * * *.\""
   },
   {
-    "id": "p-bab0cb",
-    "offset": 6170,
-    "text": "[The Reader had better provide himself with 4 Red Counters and 5 Grey ones.]"
+    "id": "p-ca1018",
+    "offset": 2677,
+    "text": "(2) The Verb is \"deserve,\" for which we substitute the phrase \"are deserving of\"."
   },
   {
-    "id": "p-4ac7d6",
-    "offset": 6248,
-    "text": "pg027"
+    "id": "p-a2fc07",
+    "offset": 2760,
+    "text": "(3) The Predicate is \"* * * deserving of the fair.\""
   },
   {
-    "id": "p-368057",
-    "offset": 6255,
-    "text": "CHAPTER III."
+    "id": "p-ff5151",
+    "offset": 2813,
+    "text": "(4) Let Univ. be \"persons.\""
   },
   {
-    "id": "p-4a984d",
-    "offset": 6269,
-    "text": "*REPRESENTATION OF PROPOSITIONS.*"
+    "id": "p-e8c578",
+    "offset": 2842,
+    "text": "(5) The Sign of Quantity is \"no.\""
   },
   {
-    "id": "p-ae0d41",
-    "offset": 6304,
-    "text": "*Introductory.*"
+    "id": "p-020a52",
+    "offset": 2877,
+    "text": "(6) The Proposition now becomes"
   },
   {
-    "id": "p-f44daf",
-    "offset": 6321,
-    "text": "Henceforwards, in stating such Propositions as \"Some x-Things exist\" or \"No x-Things are y-Things\", I shall omit the word \"Things\", which the Reader can supply for himself, and shall write them as \"Some x exist\" or \"No x are y\"."
+    "id": "p-0e2ea5",
+    "offset": 2910,
+    "text": "\"No | not-brave persons | are | persons deserving of the fair.\""
   },
   {
-    "id": "p-f98951",
-    "offset": 6551,
-    "text": "[Note that the word \"Things\" is here used with a special meaning, as explained at p. 23.]"
+    "id": "p-4b6758",
+    "offset": 2975,
+    "text": "\"A lame puppy would not say \"thank you\" if you offered to lend it a skipping-rope.\""
   },
   {
-    "id": "p-bb9138",
-    "offset": 6642,
-    "text": "A Proposition, containing only *one* of the Letters used as Symbols for Attributes, is said to be '=Uniliteral='."
+    "id": "p-33ccf4",
+    "offset": 3060,
+    "text": "(1) The Subject is evidently \"lame puppies,\" and all the rest of the sentence must somehow be packed into the Predicate."
   },
   {
-    "id": "p-2d93a9",
-    "offset": 6757,
-    "text": "[For example, \"Some x exist\", \"No y' exist\", &c.]"
+    "id": "p-a0589a",
+    "offset": 3182,
+    "text": "(2) The Verb is \"would not say,\" &c., for which we may substitute the phrase \"are not grateful for.\""
   },
   {
-    "id": "p-d92b86",
-    "offset": 6808,
-    "text": "A Proposition, containing *two* Letters, is said to be ='Biliteral'=."
+    "id": "p-171861",
+    "offset": 3284,
+    "text": "(3) The Predicate may be expressed as \"* * * not grateful for the loan of a skipping-rope.\""
   },
   {
-    "id": "p-7ec795",
-    "offset": 6879,
-    "text": "[For example, \"Some xy' exist\", \"No x' are y\", &c.]"
+    "id": "p-6e80b5",
+    "offset": 3377,
+    "text": "(4) Let Univ. be \"puppies.\""
   },
   {
-    "id": "p-6e6616",
-    "offset": 6932,
-    "text": "A Proposition is said to be '=in terms of=' the Letters it contains, whether with or without accents."
+    "id": "p-89f5d8",
+    "offset": 3406,
+    "text": "(5) The Sign of Quantity is \"all.\""
   },
   {
-    "id": "p-6bbfbd",
-    "offset": 7035,
-    "text": "[Thus, \"Some xy' exist\", \"No x' are y\", &c., are said to be _in terms of_ x and y.]"
+    "id": "p-020a52",
+    "offset": 3442,
+    "text": "(6) The Proposition now becomes"
   },
   {
-    "id": "p-95d51e",
-    "offset": 7120,
-    "text": "pg028 § 2."
+    "id": "p-b60b46",
+    "offset": 3475,
+    "text": "\"All | lame puppies | are | puppies not grateful for the loan of a skipping-rope.\""
   },
   {
-    "id": "p-7d8ca2",
-    "offset": 7132,
-    "text": "*Representation of Propositions of Existence.*"
+    "id": "p-016137",
+    "offset": 3559,
+    "text": "\"No one takes in the *Times*, unless he is well-educated.\""
   },
   {
-    "id": "p-2fa87d",
-    "offset": 7180,
-    "text": "Let us take, first, the Proposition \"Some x exist\"."
+    "id": "p-690d73",
+    "offset": 3619,
+    "text": "(1) The Subject is evidently persons who are not well-educated (\"no *one*\" evidently means \"no *person*\")."
   },
   {
-    "id": "p-ccb2d4",
-    "offset": 7233,
-    "text": "[Note that this Proposition is (as explained at p. 12) equivalent to \"Some existing Things are x-Things.\"]"
+    "id": "p-0f3708",
+    "offset": 3727,
+    "text": "(2) The Verb is \"takes in,\" for which we may substitute the phrase \"are persons taking in.\""
   },
   {
-    "id": "p-386bf5",
+    "id": "p-11aa3d",
+    "offset": 3820,
+    "text": "(3) The Predicate is \"persons taking in the *Times*.\""
+  },
+  {
+    "id": "p-ff5151",
+    "offset": 3875,
+    "text": "(4) Let Univ. be \"persons.\""
+  },
+  {
+    "id": "p-e8c578",
+    "offset": 3904,
+    "text": "(5) The Sign of Quantity is \"no.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 3939,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-e26012",
+    "offset": 3972,
+    "text": "\"No | persons who are not well-educated | are | persons taking in the *Times*.\""
+  },
+  {
+    "id": "p-6b78be",
+    "offset": 4053,
+    "text": "\"My carriage will meet you at the station.\""
+  },
+  {
+    "id": "p-d9b819",
+    "offset": 4098,
+    "text": "(1) The Subject is \"my carriage.\" This, being an 'Individual,' is equivalent to the Class \"my carriages.\" (Note that this Class contains only *one* Member.)"
+  },
+  {
+    "id": "p-6dfea0",
+    "offset": 4256,
+    "text": "(2) The Verb is \"will meet\", for which we may substitute the phrase \"are * * * that will meet.\""
+  },
+  {
+    "id": "p-d7a371",
+    "offset": 4353,
+    "text": "(3) The Predicate is \"* * * that will meet you at the station.\""
+  },
+  {
+    "id": "p-927fd7",
+    "offset": 4418,
+    "text": "(4) Let Univ. be \"things.\""
+  },
+  {
+    "id": "p-89f5d8",
+    "offset": 4446,
+    "text": "(5) The Sign of Quantity is \"all.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 4482,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-2a5ba3",
+    "offset": 4515,
+    "text": "\"All | my carriages | are | things that will meet you at the station.\""
+  },
+  {
+    "id": "p-0e5d52",
+    "offset": 4587,
+    "text": "\"Happy is the man who does not know what 'toothache' means!\""
+  },
+  {
+    "id": "p-45d86e",
+    "offset": 4649,
+    "text": "(1) The Subject is evidently \"the man &c.\" (Note that in this sentence, the *Predicate* comes first.) At first sight, the Subject seems to be an '*Individual*'; but on further consideration, we see that the article \"the\" does *not* imply that there is only *one* such man. Hence the phrase \"the man who\" is equivalent to \"all men who\"."
+  },
+  {
+    "id": "p-89f5d8",
+    "offset": 4986,
+    "text": "(5) The Sign of Quantity is \"all.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 5022,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-003cb5",
+    "offset": 5055,
+    "text": "\"All | men who do not know what 'toothache' means | are | happy men.\""
+  },
+  {
+    "id": "p-f48592",
+    "offset": 5126,
+    "text": "\"Some farmers always grumble at the weather, whatever it may be.\""
+  },
+  {
+    "id": "p-38081f",
+    "offset": 5193,
+    "text": "(1) The Subject is \"farmers.\""
+  },
+  {
+    "id": "p-2eb10b",
+    "offset": 5224,
+    "text": "(2) The Verb is \"grumble,\" for which we substitute the phrase \"are * * * who grumble.\""
+  },
+  {
+    "id": "p-b17d73",
+    "offset": 5312,
+    "text": "(3) The Predicate is \"* * * who always grumble &c.\""
+  },
+  {
+    "id": "p-ff5151",
+    "offset": 5365,
+    "text": "(4) Let Univ. be \"persons.\""
+  },
+  {
+    "id": "p-3e5ba3",
+    "offset": 5394,
+    "text": "(5) The Sign of Quantity is \"some.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 5431,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-7abdaa",
+    "offset": 5464,
+    "text": "\"Some | farmers | are | persons who always grumble at the weather, whatever it may be.\""
+  },
+  {
+    "id": "p-2fa606",
+    "offset": 5553,
+    "text": "\"No lambs are accustomed to smoke cigars.\""
+  },
+  {
+    "id": "p-1e26ef",
+    "offset": 5597,
+    "text": "(1) The Subject is \"lambs.\""
+  },
+  {
+    "id": "p-8503a8",
+    "offset": 5626,
+    "text": "(3) The Predicate is \"* * * accustomed &c.\""
+  },
+  {
+    "id": "p-a7b046",
+    "offset": 5671,
+    "text": "(4) Let Univ. be \"animals.\""
+  },
+  {
+    "id": "p-e8c578",
+    "offset": 5700,
+    "text": "(5) The Sign of Quantity is \"no.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 5735,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-2281cd",
+    "offset": 5768,
+    "text": "\"No | lambs | are | animals accustomed to smoke cigars.\""
+  },
+  {
+    "id": "p-31a35a",
+    "offset": 5826,
+    "text": "\"I ca'n't understand examples that are not arranged in regular order, like those I am used to.\""
+  },
+  {
+    "id": "p-ea4508",
+    "offset": 5923,
+    "text": "(1) The Subject is \"examples that,\" &c."
+  },
+  {
+    "id": "p-8e4d23",
+    "offset": 5964,
+    "text": "(2) The Verb is \"I ca'n't understand,\" which we must alter, so as to have \"examples,\" instead of \"I,\" as the nominative case. It may be expressed as \"are not understood by me.\""
+  },
+  {
+    "id": "p-5877f0",
+    "offset": 6142,
+    "text": "(3) The Predicate is \"* * * not understood by me.\""
+  },
+  {
+    "id": "p-93bf1f",
+    "offset": 6194,
+    "text": "(4) Let Univ. be \"examples.\""
+  },
+  {
+    "id": "p-89f5d8",
+    "offset": 6224,
+    "text": "(5) The Sign of Quantity is \"all.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 6260,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-e6dda9",
+    "offset": 6293,
+    "text": "\"All | examples that are not arranged in regular order like those I am used to | are | examples not understood by me.\"]"
+  },
+  {
+    "id": "p-b73a16",
+    "offset": 6414,
+    "text": "_A Proposition of Relation, beginning with \"All\", is a Double Proposition._"
+  },
+  {
+    "id": "p-758645",
+    "offset": 6491,
+    "text": "A Proposition of Relation, beginning with \"All\", asserts (as we already know) that \"*All* Members of the Subject are Members of the Predicate\". This evidently contains, as a *part* of what it tells us, the smaller Proposition \"*Some* Members of the Subject are Members of the Predicate\"."
+  },
+  {
+    "id": "p-7c686c",
+    "offset": 6780,
+    "text": "[Thus, the Proposition \"*All* bankers are rich men\" evidently contains the smaller Proposition \"*Some* bankers are rich men\".]"
+  },
+  {
+    "id": "p-736bb2",
+    "offset": 6908,
+    "text": "The question now arises \"What is the *rest* of the information which this Proposition gives us?\""
+  },
+  {
+    "id": "p-5cdc0c",
+    "offset": 7006,
+    "text": "In order to answer this question, let us begin with the smaller Proposition, \"*Some* Members of the Subject are Members of the Predicate,\" and suppose that this is *all* we have been told; and let us proceed to inquire what *else* we need to be told, in order to know that \"*All* Members of the Subject are Members of the Predicate\"."
+  },
+  {
+    "id": "p-9dbe94",
     "offset": 7341,
-    "text": "This tells us that there is at least *one* Thing in the North Half; that is, that the North Half is *occupied*. And this we can evidently represent by placing a *Red* Counter (here represented by a *dotted* circle) on the partition which divides the North Half."
+    "text": "[Thus, we may suppose that the Proposition \"*Some* bankers are rich men\" is all the information we possess; and we may proceed to inquire what *other* Proposition needs to be added to it, in order to make up the entire Proposition \"*All* bankers are rich men\".]"
   },
   {
-    "id": "p-92acf0",
+    "id": "p-ea66df",
     "offset": 7604,
-    "text": "[In the \"books\" example, this Proposition would be \"Some old books exist\".]"
+    "text": "Let us also suppose that the 'Univ.' (i.e. the Genus, of which both the Subject and the Predicate are Specieses) has been divided (by the Process of *Dichotomy*) into two smaller Classes, viz."
   },
   {
-    "id": "p-e3fe10",
-    "offset": 7681,
-    "text": "Similarly we may represent the three similar Propositions \"Some x' exist\", \"Some y exist\", and \"Some y' exist\"."
+    "id": "p-8ada82",
+    "offset": 7798,
+    "text": "(1) the Predicate;"
   },
   {
-    "id": "p-9df992",
-    "offset": 7794,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these Propositions would be \"Some new books exist\", &c.]"
+    "id": "p-268195",
+    "offset": 7818,
+    "text": "(2) the Class whose Differentia is *contradictory* to that of the Predicate."
   },
   {
-    "id": "p-7029c7",
-    "offset": 7927,
-    "text": "Let us take, next, the Proposition \"No x exist\"."
+    "id": "p-8f0640",
+    "offset": 7896,
+    "text": "[Thus, we may suppose that the Genus \"men,\" (of which both \"bankers\" and \"rich men\" are Specieses) has been divided into the two smaller Classes, \"rich men\", \"poor men\".] pg018 Now we know that *every* Member of the Subject is (as shown at p. 6) a Member of the Univ. Hence *every* Member of the Subject is either in Class (1) or else in Class (2)."
   },
   {
-    "id": "p-b8239d",
-    "offset": 7977,
-    "text": "This tells us that there is *nothing* in the North Half; that is, that the North Half is *empty*; that is, that the North-West Cell and the North-East Cell are both of them *empty*. And this we can represent by placing *two Grey* Counters in the North Half, one in each Cell."
+    "id": "p-2acc16",
+    "offset": 8246,
+    "text": "[Thus, we know that *every* banker is a Member of the Genus \"men\". Hence, *every* banker is either in the Class \"rich men\", or else in the Class \"poor men\".]"
   },
   {
-    "id": "p-f99fd7",
-    "offset": 8254,
-    "text": "[The Reader may perhaps think that it would be enough to place a *Grey* Counter on the partition in the North Half, and that, just as a *Red* Counter, so placed, would mean \"This Half is *occupied*\", so a *Grey* one would mean \"This Half is *empty*\"."
+    "id": "p-d5f4a4",
+    "offset": 8405,
+    "text": "Also we have been told that, in the case we are discussing, *some* Members of the Subject are in Class (1). What *else* do we need to be told, in order to know that *all* of them are there? Evidently we need to be told that *none* of them are in Class (2); i.e. that *none* of them are Members of the Class whose Differentia is *contradictory* to that of the Predicate."
   },
   {
-    "id": "p-a95d26",
-    "offset": 8506,
-    "text": "This, however, would be a mistake. We have seen that a *Red* Counter, so placed, would mean \"At least *one* of these two Cells is occupied: possibly *both* are.\" Hence a *Grey* one would merely mean \"At least *one* of these two Cells is empty: possibly *both* are\". But what we have to represent is, that both Cells are *certainly* empty: and this can only be done by placing a *Grey* Counter in *each* of them."
+    "id": "p-b18e2b",
+    "offset": 8776,
+    "text": "[Thus, we may suppose we have been told that *some* bankers are in the Class \"rich men\". What *else* do we need to be told, in order to know that *all* of them are there? Evidently we need to be told that *none* of them are in the Class \"*poor* men\".]"
   },
   {
-    "id": "p-c7d062",
-    "offset": 8919,
-    "text": "In the \"books\" example, this Proposition would be \"No old books exist\".] pg029 Similarly we may represent the three similar Propositions \"No x' exist\", \"No y exist\", and \"No y' exist\"."
+    "id": "p-479e1b",
+    "offset": 9029,
+    "text": "Hence a Proposition of Relation, beginning with \"All\", is a *Double* Proposition, and is '=equivalent=' to (i.e. gives the same information as) the *two* Propositions"
   },
   {
-    "id": "p-554b0f",
-    "offset": 9105,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No new books exist\", &c.]"
+    "id": "p-687db1",
+    "offset": 9197,
+    "text": "(1) \"*Some* Members of the Subject are Members of the Predicate\";"
   },
   {
-    "id": "p-bdbb3c",
-    "offset": 9242,
-    "text": "Let us take, next, the Proposition \"Some xy exist\"."
+    "id": "p-0ee531",
+    "offset": 9264,
+    "text": "(2) \"*No* Members of the Subject are Members of the Class whose Differentia is *contradictory* to that of the Predicate\"."
   },
   {
-    "id": "p-6dd430",
-    "offset": 9295,
-    "text": "This tells us that there is at least *one* Thing in the North-West Cell; that is, that the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it."
+    "id": "p-c274f5",
+    "offset": 9387,
+    "text": "[Thus, the Proposition \"*All* bankers are rich men\" is a *Double* Proposition, and is equivalent to the *two* Propositions"
   },
   {
-    "id": "p-591eb4",
-    "offset": 9478,
-    "text": "[In the \"books\" example, this Proposition would be \"Some old English books exist\".]"
+    "id": "p-3b1083",
+    "offset": 9511,
+    "text": "(1) \"*Some* bankers are rich men\";"
   },
   {
-    "id": "p-a16435",
-    "offset": 9563,
-    "text": "Similarly we may represent the three similar Propositions \"Some xy' exist\", \"Some x'y exist\", and \"Some x'y' exist\"."
+    "id": "p-e31954",
+    "offset": 9547,
+    "text": "_What is implied, in a Proposition of Relation, as to the Reality of its Terms?_"
   },
   {
-    "id": "p-0a74c0",
-    "offset": 9681,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"Some old foreign books exist\", &c.]"
+    "id": "p-3be731",
+    "offset": 9629,
+    "text": "Note that the rules, here laid down, are *arbitrary*, and only apply to Part I of my \"Symbolic Logic.\""
   },
   {
-    "id": "p-b9772e",
-    "offset": 9828,
-    "text": "Let us take, next, the Proposition \"No xy exist\"."
+    "id": "p-8d8788",
+    "offset": 9733,
+    "text": "A Proposition of Relation, beginning with \"Some\", is henceforward to be understood as asserting that there are *some existing Things*, which, being Members of the Subject, are also Members of the Predicate; i.e. that *some existing Things* are Members of *both* Terms at once. Hence it is to be understood as implying that *each* Term, taken by itself, is *Real*."
   },
   {
-    "id": "p-929ee4",
-    "offset": 9879,
-    "text": "This tells us that there is *nothing* in the North-West Cell; that is, that the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it."
+    "id": "p-e30267",
+    "offset": 10098,
+    "text": "[Thus, the Proposition \"Some rich men are invalids\" is to be understood as asserting that *some existing Things* are \"rich invalids\". Hence it implies that *each* of the two Classes, \"rich men\" and \"invalids\", taken by itself, is *Real*.]"
   },
   {
-    "id": "p-f42c08",
-    "offset": 10049,
-    "text": "[In the \"books\" example, this Proposition would be \"No old English books exist\".]"
+    "id": "p-13e152",
+    "offset": 10338,
+    "text": "A Proposition of Relation, beginning with \"No\", is henceforward to be understood as asserting that there are *no existing Things* which, being Members of the Subject, are also Members of the Predicate; i.e. that _no existing Things* are Members of *both_ Terms at once. But this implies nothing as to the *Reality* of either Term taken by itself."
   },
   {
-    "id": "p-39b0b3",
-    "offset": 10132,
-    "text": "Similarly we may represent the three similar Propositions \"No xy' exist\", \"No x'y exist\", and \"No x'y' exist\"."
+    "id": "p-30b2dc",
+    "offset": 10686,
+    "text": "[Thus, the Proposition \"No mermaids are milliners\" is to be understood as asserting that *no existing Things* are \"mermaid-milliners\". But this implies nothing as to the *Reality*, or the *Unreality*, of either of the two Classes, \"mermaids\" and \"milliners\", taken by itself. In this case as it happens, the Subject is *Imaginary*, and the Predicate *Real*.]"
   },
   {
-    "id": "p-cc9730",
-    "offset": 10244,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No old foreign books exist\", &c.] pg030 We have seen that the Proposition \"No x exist\" may be represented by placing *two Grey* Counters in the North Half, one in each Cell."
+    "id": "p-bf5ae0",
+    "offset": 11046,
+    "text": "A Proposition of Relation, beginning with \"All\", contains (see § 3) a similar Proposition beginning with \"Some\". Hence it is to be understood as implying that *each* Term, taken by itself, is *Real*."
   },
   {
-    "id": "p-9b291c",
-    "offset": 10529,
-    "text": "We have also seen that these two *Grey* Counters, taken *separately*, represent the two Propositions \"No xy exist\" and \"No xy' exist\"."
+    "id": "p-7c0922",
+    "offset": 11247,
+    "text": "[Thus, the Proposition \"All hyænas are savage animals\" contains the Proposition \"Some hyænas are savage animals\". Hence it implies that *each* of the two Classes, \"hyænas\" and \"savage animals\", taken by itself, is *Real*.]"
   },
   {
-    "id": "p-fa407a",
-    "offset": 10665,
-    "text": "Hence we see that the Proposition \"No x exist\" is a *Double* Proposition, and is equivalent to the *two* Propositions \"No xy exist\" and \"No xy' exist\"."
+    "id": "p-92af5d",
+    "offset": 11471,
+    "text": "_Translation of a Proposition of Relation into one or more Propositions of Existence._"
   },
   {
-    "id": "p-42c70d",
-    "offset": 10818,
-    "text": "[In the \"books\" example, this Proposition would be \"No old books exist\"."
+    "id": "p-5a2ae2",
+    "offset": 11559,
+    "text": "We have seen that a Proposition of Relation, beginning with \"Some,\" asserts that *some existing Things*, being Members of its Subject, are *also* Members of its Predicate. Hence, it asserts that some existing Things are Members of *both*; i.e. it asserts that some existing Things are Members of the Class of Things which have *all* the Attributes of the Subject and the Predicate."
   },
   {
-    "id": "p-c48261",
-    "offset": 10892,
-    "text": "Hence this is a *Double* Proposition, and is equivalent to the *two* Propositions \"No old *English* books exist\" and \"No old *foreign* books exist\".]"
+    "id": "p-b90ed0",
+    "offset": 11942,
+    "text": "Hence, to translate it into a Proposition of Existence, we take \"existing Things\" as the new *Subject*, and Things, which have *all* the Attributes of the Subject and the Predicate, as the new Predicate."
   },
   {
-    "id": "p-128143",
-    "offset": 11043,
-    "text": "*Representation of Propositions of Relation.*"
+    "id": "p-efcafb",
+    "offset": 12147,
+    "text": "Similarly for a Proposition of Relation beginning with \"No\"."
   },
   {
-    "id": "p-25a569",
-    "offset": 11090,
-    "text": "Let us take, first, the Proposition \"Some x are y\"."
+    "id": "p-5f1051",
+    "offset": 12209,
+    "text": "A Proposition of Relation, beginning with \"All\", is (as shown in § 3) equivalent to *two* Propositions, one beginning with \"Some\" and the other with \"No\", each of which we now know how to translate."
   },
   {
-    "id": "p-957567",
-    "offset": 11143,
-    "text": "This tells us that at least *one* Thing, in the *North* Half, is also in the *West* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it."
+    "id": "p-1f225c",
+    "offset": 12409,
+    "text": "[Let us work a few Examples, to illustrate these Rules."
   },
   {
-    "id": "p-5b3f02",
-    "offset": 11418,
-    "text": "[Note that the *Subject* of the Proposition settles which *Half* we are to use; and that the *Predicate* settles in which *portion* of it we are to place the Red Counter."
+    "id": "p-31306c",
+    "offset": 12466,
+    "text": "\"Some apples are not ripe.\""
   },
   {
-    "id": "p-77a732",
-    "offset": 11590,
-    "text": "In the \"books\" example, this Proposition would be \"Some old books are English\".]"
+    "id": "p-c74dca",
+    "offset": 12495,
+    "text": "Here we arrange thus:--"
   },
   {
-    "id": "p-863c08",
-    "offset": 11672,
-    "text": "Similarly we may represent the three similar Propositions \"Some x are y'\", \"Some x' are y\", and \"Some x' are y'\"."
+    "id": "p-8bebf3",
+    "offset": 12520,
+    "text": "\"Some\" *Sign of Quantity*. \"existing Things\" *Subject*. \"are\" *Copula*. \"not-ripe apples\" *Predicate*."
   },
   {
-    "id": "p-08a341",
-    "offset": 11787,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"Some old books are foreign\", &c.] pg031 Let us take, next, the Proposition \"Some y are x\"."
+    "id": "p-feecb3",
+    "offset": 12624,
+    "text": "or thus:--"
   },
   {
-    "id": "p-dadacf",
-    "offset": 11989,
-    "text": "This tells us that at least *one* Thing, in the *West* Half, is also in the *North* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it."
+    "id": "p-fc4842",
+    "offset": 12636,
+    "text": "\"Some | existing Things | are | not-ripe apples.\" pg021 (2)"
   },
   {
-    "id": "p-b376b1",
-    "offset": 12264,
-    "text": "[In the \"books\" example, this Proposition would be \"Some English books are old\".]"
+    "id": "p-f48592",
+    "offset": 12697,
+    "text": "\"Some farmers always grumble at the weather, whatever it may be.\""
   },
   {
-    "id": "p-f3be25",
-    "offset": 12347,
-    "text": "Similarly we may represent the three similar Propositions \"Some y are x'\", \"Some y' are x\", and \"Some y' are x'\"."
+    "id": "p-c74dca",
+    "offset": 12764,
+    "text": "Here we arrange thus:--"
   },
   {
-    "id": "p-886f5f",
-    "offset": 12462,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"Some English books are new\", &c.]"
+    "id": "p-87e54d",
+    "offset": 12789,
+    "text": "\"Some | existing Things | are | farmers who always grumble at the weather, whatever it may be.\""
   },
   {
-    "id": "p-74d238",
-    "offset": 12607,
-    "text": "We see that this *one* Diagram has now served to represent no less than *three* Propositions, viz."
+    "id": "p-2fa606",
+    "offset": 12886,
+    "text": "\"No lambs are accustomed to smoke cigars.\""
   },
   {
-    "id": "p-9f6454",
-    "offset": 12707,
-    "text": "(1) \"Some xy exist; (2) Some x are y; (3) Some y are x\"."
+    "id": "p-c74dca",
+    "offset": 12930,
+    "text": "Here we arrange thus:--"
   },
   {
-    "id": "p-69abe4",
-    "offset": 12765,
-    "text": "Hence these three Propositions are equivalent."
+    "id": "p-a594fd",
+    "offset": 12955,
+    "text": "\"No | existing Things |are | lambs accustomed to smoke cigars.\""
   },
   {
-    "id": "p-e72d2b",
-    "offset": 12813,
-    "text": "[In the \"books\" example, these Propositions would be"
+    "id": "p-a917e3",
+    "offset": 13020,
+    "text": "\"None of my speculations have brought me as much as 5 per cent.\""
   },
   {
-    "id": "p-c88e69",
-    "offset": 12867,
-    "text": "(1) \"Some old English books exist; (2) Some old books are English; (3) Some English books are old\".]"
+    "id": "p-c74dca",
+    "offset": 13086,
+    "text": "Here we arrange thus:--"
   },
   {
-    "id": "p-3b438c",
-    "offset": 12969,
-    "text": "The two equivalent Propositions, \"Some x are y\" and \"Some y are x\", are said to be '=Converse=' to each other; and the Process, of changing one into the other, is called '=Converting=', or '=Conversion='."
+    "id": "p-bb2b54",
+    "offset": 13111,
+    "text": "\"No | existing Things | are | speculations of mine, which have brought me as much as 5 per cent.\""
   },
   {
-    "id": "p-8e552c",
-    "offset": 13175,
-    "text": "[For example, if we were told to convert the Proposition"
+    "id": "p-a29f9e",
+    "offset": 13210,
+    "text": "\"None but the brave deserve the fair.\""
   },
   {
-    "id": "p-212bd6",
-    "offset": 13233,
-    "text": "\"Some apples are not ripe,\""
+    "id": "p-950508",
+    "offset": 13250,
+    "text": "Here we note, to begin with, that the phrase \"none but the brave\" is equivalent to \"no not-brave men.\" We then arrange thus:--"
   },
   {
-    "id": "p-a369a1",
-    "offset": 13262,
-    "text": "we should first choose our Univ. (say \"fruit\"), and then complete the Proposition, by supplying the Substantive \"fruit\" in the Predicate, so that it would be"
+    "id": "p-2e1614",
+    "offset": 13378,
+    "text": "\"No | existing Things | are | not-brave men deserving of the fair.\""
   },
   {
-    "id": "p-2453e0",
-    "offset": 13421,
-    "text": "\"Some apples are not-ripe fruit\";"
+    "id": "p-99c784",
+    "offset": 13447,
+    "text": "\"All bankers are rich men.\""
   },
   {
-    "id": "p-2a9710",
-    "offset": 13456,
-    "text": "and we should then convert it by interchanging its Terms, so that it would be"
+    "id": "p-74fd50",
+    "offset": 13476,
+    "text": "This is equivalent to the two Propositions \"Some bankers are rich men\" and \"No bankers are poor men.\""
   },
   {
-    "id": "p-1b2fec",
-    "offset": 13535,
-    "text": "\"Some not-ripe fruit are apples\".] pg032 Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--"
+    "id": "p-c74dca",
+    "offset": 13579,
+    "text": "Here we arrange thus:--"
   },
   {
-    "id": "p-063d00",
-    "offset": 13706,
-    "text": "(1) \"Some xy exist\" = \"Some x are y\" = \"Some y are x\". (2) \"Some xy' exist\" = \"Some x are y'\" = \"Some y' are x\". (3) \"Some x'y exist\" = \"Some x' are y\" = \"Some y are x'\". (4) \"Some x'y' exist\" = \"Some x' are y'\" = \"Some y' are x'\"."
-  },
-  {
-    "id": "p-da996b",
-    "offset": 13939,
-    "text": "Let us take, next, the Proposition \"No x are y\"."
-  },
-  {
-    "id": "p-9d92ff",
-    "offset": 13989,
-    "text": "This tell us that no Thing, in the *North* Half, is also in the *West* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it."
-  },
-  {
-    "id": "p-112abf",
-    "offset": 14257,
-    "text": "[In the \"books\" example, this Proposition would be \"No old books are English\".]"
-  },
-  {
-    "id": "p-40d1b1",
-    "offset": 14338,
-    "text": "Similarly we may represent the three similar Propositions \"No x are y'\", and \"No x' are y\", and \"No x' are y'\"."
-  },
-  {
-    "id": "p-51e5a7",
-    "offset": 14451,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No old books are foreign\", &c.]"
-  },
-  {
-    "id": "p-1dc267",
-    "offset": 14594,
-    "text": "Let us take, next, the Proposition \"No y are x\"."
-  },
-  {
-    "id": "p-17f906",
-    "offset": 14644,
-    "text": "This tells us that no Thing, in the *West* Half, is also in the *North* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. That is, the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it."
-  },
-  {
-    "id": "p-20499a",
-    "offset": 14916,
-    "text": "[In the \"books\" example, this Proposition would be \"No English books are old\".]"
-  },
-  {
-    "id": "p-d2301b",
-    "offset": 14997,
-    "text": "Similarly we may represent the three similar Propositions \"No y are x'\", \"No y' are x\", and \"No y' are x'\"."
-  },
-  {
-    "id": "p-2c9a23",
-    "offset": 15106,
-    "text": "[The Reader should make out all these for himself. In the \"books\" example, these three Propositions would be \"No English books are new\", &c.] pg033 ·-------· |( )| | |---|---| | | | ·-------·"
-  },
-  {
-    "id": "p-5c163d",
-    "offset": 15299,
-    "text": "We see that this *one* Diagram has now served to present no less than *three* Propositions, viz."
-  },
-  {
-    "id": "p-9bca02",
-    "offset": 15397,
-    "text": "(1) \"No xy exist; (2) No x are y; (3) No y are x.\""
-  },
-  {
-    "id": "p-69abe4",
-    "offset": 15449,
-    "text": "Hence these three Propositions are equivalent."
-  },
-  {
-    "id": "p-e72d2b",
-    "offset": 15497,
-    "text": "[In the \"books\" example, these Propositions would be"
-  },
-  {
-    "id": "p-b5db85",
-    "offset": 15551,
-    "text": "(1) \"No old English books exist; (2) No old books are English; (3) No English books are old\".]"
-  },
-  {
-    "id": "p-5aadb6",
-    "offset": 15647,
-    "text": "The two equivalent Propositions, \"No x are y\" and \"No y are x\", are said to be 'Converse' to each other."
-  },
-  {
-    "id": "p-8e552c",
-    "offset": 15753,
-    "text": "[For example, if we were told to convert the Proposition"
-  },
-  {
-    "id": "p-99b908",
-    "offset": 15811,
-    "text": "\"No porcupines are talkative\","
-  },
-  {
-    "id": "p-5e28ec",
-    "offset": 15843,
-    "text": "we should first choose our Univ. (say \"animals\"), and then complete the Proposition, by supplying the Substantive \"animals\" in the Predicate, so that it would be"
-  },
-  {
-    "id": "p-e5d456",
-    "offset": 16006,
-    "text": "\"No porcupines are talkative animals\", and we should then convert it, by interchanging its Terms, so that it would be"
-  },
-  {
-    "id": "p-606cac",
-    "offset": 16125,
-    "text": "\"No talkative animals are porcupines\".]"
-  },
-  {
-    "id": "p-602a64",
-    "offset": 16166,
-    "text": "Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--"
-  },
-  {
-    "id": "p-4fc59d",
-    "offset": 16296,
-    "text": "(1) \"No xy exist\" = \"No x are y\" = \"No y are x\". (2) \"No xy' exist\" = \"No x are y'\" = \"No y' are x\". (3) \"No x'y exist\" = \"No x' are y\" = \"No y are x'\". (4) \"No x'y' exist\" = \"No x' are y'\" = \"No y' are x'\"."
-  },
-  {
-    "id": "p-9ee10b",
-    "offset": 16505,
-    "text": "Let us take, next, the Proposition \"All x are y\"."
-  },
-  {
-    "id": "p-7544d1",
-    "offset": 16556,
-    "text": "We know (see p. 17) that this is a *Double* Proposition, and equivalent to the *two* Propositions \"Some x are y\" and \"No x are y'\", each of which we already know how to represent."
-  },
-  {
-    "id": "p-e6db4f",
-    "offset": 16737,
-    "text": "[Note that the *Subject* of the given Proposition settles which *Half* we are to use; and that its *Predicate* settles in which *portion* of that Half we are to place the Red Counter.]"
-  },
-  {
-    "id": "p-9c8bb4",
-    "offset": 16923,
-    "text": "pg034 TABLE II."
-  },
-  {
-    "id": "p-1a0db3",
-    "offset": 16940,
-    "text": "·-----------------------------------------------------· | | ·-------· | | ·-------· | | | | (.) | | | |( )|( )| | | Some x exist | |---|---| | No x exist | |---|---| | | | | | | | | | | | | | | ·-------· | | ·-------· | |---------------|-----------|-------------|-----------| | | ·-------· | | ·-------· | | | | | | | | | | | | | Some x' exist | |---|---| | No x' exist | |---|---| | | | | (.) | | | |( )|( )| | | | ·-------· | | ·-------· | |---------------|-----------|-------------|-----------| | | ·-------· | | ·-------· | | | | | | | | |( )| | | | Some y exist | |(.)|---| | No y exist | |---|---| | | | | | | | | |( )| | | | | ·-------· | | ·-------· | |---------------|-----------|-------------|-----------| | | ·-------· | | ·-------· | | | | | | | | | |( )| | | Some y' exist | |---|(.)| | No y' exist | |---|---| | | | | | | | | | |( )| | | | ·-------· | | ·-------· | ·-----------------------------------------------------·"
-  },
-  {
-    "id": "p-eb2c00",
-    "offset": 17877,
-    "text": "Similarly we may represent the seven similar Propositions \"All x are y'\", \"All x' are y\", \"All x' are y'\", \"All y are x\", \"All y are x'\", \"All y' are x\", and \"All y' are x'\"."
-  },
-  {
-    "id": "p-00daca",
-    "offset": 18053,
-    "text": "Let us take, lastly, the Double Proposition \"Some x are y and some are y'\", each part of which we already know how to represent."
-  },
-  {
-    "id": "p-3ccf56",
-    "offset": 18183,
-    "text": "Similarly we may represent the three similar Propositions, \"Some x' are y and some are y'\", \"Some y are x and some are x'\", \"Some y' are x and some are x'\"."
-  },
-  {
-    "id": "p-9b55c2",
-    "offset": 18341,
-    "text": "The Reader should now get his genial friend to question him, severely, on these two Tables. The *Inquisitor* should have the Tables before him: but the *Victim* should have nothing but a blank Diagram, and the Counters with which he is to represent the various Propositions named by his friend, e.g. \"Some y exist\", \"No y' are x\", \"All x are y\", &c. &c."
-  },
-  {
-    "id": "p-aea1be",
-    "offset": 18696,
-    "text": "pg035 TABLE III."
-  },
-  {
-    "id": "p-16995c",
-    "offset": 18714,
-    "text": "·-------------------------------------------------------------· | | ·-------· | | ·-------· | | Some xy exist | |(.)| | | | |(.)|( )| | |  = Some x are y | |---|---| | All x are y | |---|---| | |  = Some y are x | | | | | | | | | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | Some xy' exist | | |(.)| | | |( )|(.)| | |  = Some x are y' | |---|---| | All x are y' | |---|---| | |  = Some y' are x | | | | | | | | | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | Some x'y exist | | | | | | | | | | |  = Some x' are y | |---|---| | All x' are y | |---|---| | |  = Some y are x' | |(.)| | | | |(.)|( )| | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | Some x'y' exist | | | | | | | | | | |  = Some x' are y'| |---|---| | All x' are y' | |---|---| | |  = Some y' are x'| | |(.)| | | |( )|(.)| | | | ·-------· | | ·-------· | ·-------------------------------------------------------------·"
-  },
-  {
-    "id": "p-a5bc10",
-    "offset": 19841,
-    "text": "·-------------------------------------------------------------· | | ·-------· | | ·-------· | | No xy exist | |( )| | | | |(.)| | | |  = No x are y | |---|---| | All y are x | |---|---| | |  = No y are x | | | | | | |( )| | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | No xy' exist | | |( )| | | |( )| | | |  = No x are y' | |---|---| | All y are x' | |---|---| | |  = No y' are x | | | | | | |(.)| | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | No x'y exist | | | | | | | |(.)| | |  = No x' are y | |---|---| | All y' are x | |---|---| | |  = No y are x' | |( )| | | | | |( )| | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | No x'y' exist | | | | | | | |( )| | |  = No x' are y' | |---|---| | All y' are x' | |---|---| | |  = No y' are x' | | |( )| | | | |(.)| | | | ·-------· | | ·-------· | ·-------------------------------------------------------------·"
-  },
-  {
-    "id": "p-8c3b12",
-    "offset": 20946,
-    "text": "·-------------------------------------------------------------· | | ·-------· | | ·-------· | | | |(.)|(.)| | | |(.)| | | | Some x are y, | |---|---| | Some y are x | |---|---| | | and some are y' | | | | | and some are x' | |(.)| | | | | ·-------· | | ·-------· | |------------------|-----------|------------------|-----------| | | ·-------· | | ·-------· | | | | | | | | | |(.)| | | Some x' are y, | |---|---| | Some y' are x | |---|---| | | and some are y' | |(.)|(.)| | and some are x' | | |(.)| | | | ·-------· | | ·-------· | ·-------------------------------------------------------------·"
-  },
-  {
-    "id": "p-bbcac6",
-    "offset": 21543,
-    "text": "pg036"
-  },
-  {
-    "id": "p-b578ec",
-    "offset": 21550,
-    "text": "CHAPTER IV."
-  },
-  {
-    "id": "p-bb4bb9",
-    "offset": 21563,
-    "text": "*INTERPRETATION OF BILITERAL DIAGRAM WHEN MARKED WITH COUNTERS.*"
-  },
-  {
-    "id": "p-eeef92",
-    "offset": 21629,
-    "text": "The Diagram is supposed to be set before us, with certain Counters placed upon it; and the problem is to find out what Proposition, or Propositions, the Counters represent."
-  },
-  {
-    "id": "p-cf519d",
-    "offset": 21803,
-    "text": "As the process is simply the reverse of that discussed in the previous Chapter, we can avail ourselves of the results there obtained, as far as they go."
-  },
-  {
-    "id": "p-ec9088",
-    "offset": 21957,
-    "text": "First, let us suppose that we find a *Red* Counter placed in the North-West Cell."
-  },
-  {
-    "id": "p-0bc0c9",
-    "offset": 22040,
-    "text": "We know that this represents each of the Trio of equivalent Propositions"
-  },
-  {
-    "id": "p-2b430b",
-    "offset": 22114,
-    "text": "\"Some xy exist\" = \"Some x are y\" = \"Some y are x\"."
-  },
-  {
-    "id": "p-b7199d",
-    "offset": 22166,
-    "text": "Similarly we may interpret a *Red* Counter, when placed in the North-East, or South-West, or South-East Cell."
-  },
-  {
-    "id": "p-6857f8",
-    "offset": 22277,
-    "text": "Next, let us suppose that we find a *Grey* Counter placed in the North-West Cell."
-  },
-  {
-    "id": "p-0bc0c9",
-    "offset": 22360,
-    "text": "We know that this represents each of the Trio of equivalent Propositions"
-  },
-  {
-    "id": "p-8951d1",
-    "offset": 22434,
-    "text": "\"No xy exist\" = \"No x are y\" = \"No y are x\"."
-  },
-  {
-    "id": "p-9c5135",
-    "offset": 22480,
-    "text": "Similarly we may interpret a *Grey* Counter, when placed in the North-East, or South-West, or South-East Cell. pg037 Next, let us suppose that we find a *Red* Counter placed on the partition which divides the North Half."
-  },
-  {
-    "id": "p-8133fa",
-    "offset": 22702,
-    "text": "We know that this represents the Proposition \"Some x exist.\""
-  },
-  {
-    "id": "p-542474",
-    "offset": 22764,
-    "text": "Similarly we may interpret a *Red* Counter, when placed on the partition which divides the South, or West, or East Half."
-  },
-  {
-    "id": "p-ab3659",
-    "offset": 22886,
-    "text": "Next, let us suppose that we find *two Red* Counters placed in the North Half, one in each Cell."
-  },
-  {
-    "id": "p-8bf99f",
-    "offset": 22984,
-    "text": "We know that this represents the *Double* Proposition \"Some x are y and some are y'\"."
-  },
-  {
-    "id": "p-fda4d4",
-    "offset": 23071,
-    "text": "Similarly we may interpret *two Red* Counters, when placed in the South, or West, or East Half."
-  },
-  {
-    "id": "p-56ea94",
-    "offset": 23168,
-    "text": "Next, let us suppose that we find *two Grey* Counters placed in the North Half, one in each Cell."
-  },
-  {
-    "id": "p-782907",
-    "offset": 23267,
-    "text": "We know that this represents the Proposition \"No x exist\"."
-  },
-  {
-    "id": "p-3c1396",
-    "offset": 23327,
-    "text": "Similarly we may interpret *two Grey* Counters, when placed in the South, or West, or East Half."
-  },
-  {
-    "id": "p-ec1301",
-    "offset": 23425,
-    "text": "Lastly, let us suppose that we find a *Red* and a *Grey* Counter placed in the North Half, the *Red* in the North-*West* Cell, and the *Grey* in the North-*East* Cell."
-  },
-  {
-    "id": "p-1acdeb",
-    "offset": 23594,
-    "text": "We know that this represents the Proposition, \"All x are y\"."
-  },
-  {
-    "id": "p-2664a5",
-    "offset": 23656,
-    "text": "[Note that the *Half*, occupied by the two Counters, settles what is to be the *Subject* of the Proposition, and that the *Cell*, occupied by the *Red* Counter, settles what is to be its *Predicate*.] pg038 Similarly we may interpret a *Red* and a *Grey* counter, when placed in any one of the seven similar positions"
-  },
-  {
-    "id": "p-382f11",
-    "offset": 23975,
-    "text": "Red in North-East, Grey in North-West; Red in South-West, Grey in South-East; Red in South-East, Grey in South-West; Red in North-West, Grey in South-West; Red in South-West, Grey in North-West; Red in North-East, Grey in South-East; Red in South-East, Grey in North-East."
-  },
-  {
-    "id": "p-c8079d",
-    "offset": 24249,
-    "text": "Once more the genial friend must be appealed to, and requested to examine the Reader on Tables II and III, and to make him not only *represent* Propositions, but also *interpret* Diagrams when marked with Counters."
-  },
-  {
-    "id": "p-bbf979",
-    "offset": 24465,
-    "text": "The Questions and Answers should be like this:--"
-  },
-  {
-    "id": "p-b820ed",
-    "offset": 24515,
-    "text": "Q. Represent \"No x' are y'.\" A. Grey Counter in S.E. Cell. Q. Interpret Red Counter on E. partition. A. \"Some y' exist.\" Q. Represent \"All y' are x.\" A. Red in N.E. Cell; Grey in S.E. Q. Interpret Grey Counter in S.W. Cell. A. \"No x'y exist\" = \"No x' are y\" = \"No y are x'\". &c., &c."
-  },
-  {
-    "id": "p-be3171",
-    "offset": 24800,
-    "text": "At first the Examinee will need to have the Board and Counters before him; but he will soon learn to dispense with these, and to answer with his eyes shut or gazing into vacancy."
-  },
-  {
-    "id": "p-814f76",
-    "offset": 24980,
-    "text": "[Work Examples § =1=, 5-8 (p. 97).]"
-  },
-  {
-    "id": "p-bccac8",
-    "offset": 25017,
-    "text": "pg039"
+    "id": "p-bfe361",
+    "offset": 13604,
+    "text": "\"Some | existing Things | are | rich bankers\"; and \"No | existing Things | are | poor bankers.\"]"
   }
 ]

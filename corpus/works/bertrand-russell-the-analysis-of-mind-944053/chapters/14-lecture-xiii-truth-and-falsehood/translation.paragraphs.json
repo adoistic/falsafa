@@ -245,53 +245,48 @@
     "text": "The consideration of negative propositions and negative facts introduces further complications. An image-proposition is necessarily positive: we can image the window to the left of the door, or to the right of the door, but we can form no image of the bare negative \"the window not to the left of the door.\" We can DISBELIEVE the image-proposition expressed by \"the window to the left of the door,\" and our disbelief will be true if the window is not to the left of the door. But we can form no image of the fact that the window is not to the left of the door. Attempts have often been made to deny such negative facts, but, for reasons which I have given elsewhere,* I believe these attempts to be mistaken, and I shall assume that there are negative facts."
   },
   {
-    "id": "p-617dd4",
-    "offset": 40645,
-    "text": "* \"Monist,\" January, 1919, p. 42 ff."
-  },
-  {
     "id": "p-5c87ce",
-    "offset": 40683,
+    "offset": 40645,
     "text": "Word-propositions, like image-propositions, are always positive facts. The fact that Socrates precedes Plato is symbolized in English by the fact that the word \"precedes\" occurs between the words \"Socrates\" and \"Plato.\" But we cannot symbolize the fact that Plato does not precede Socrates by not putting the word \"precedes\" between \"Plato\" and \"Socrates.\" A negative fact is not sensible, and language, being intended for communication, has to be sensible. Therefore we symbolize the fact that Plato does not precede Socrates by putting the words \"does not precede\" between \"Plato\" and \"Socrates.\" We thus obtain a series of words which is just as positive a fact as the series \"Socrates precedes Plato.\" The propositions asserting negative facts are themselves positive facts; they are merely different positive facts from those asserting positive facts."
   },
   {
     "id": "p-111aec",
-    "offset": 41541,
+    "offset": 41503,
     "text": "We have thus, as regards the opposition of positive and negative, three different sorts of duality, according as we are dealing with facts, image-propositions, or word-propositions. We have, namely:"
   },
   {
     "id": "p-959a76",
-    "offset": 41741,
+    "offset": 41703,
     "text": "(1) Positive and negative facts;"
   },
   {
     "id": "p-36bbf4",
-    "offset": 41775,
+    "offset": 41737,
     "text": "(2) Image-propositions, which may be believed or disbelieved, but do not allow any duality of content corresponding to positive and negative facts;"
   },
   {
     "id": "p-2bd923",
-    "offset": 41924,
+    "offset": 41886,
     "text": "(3) Word-propositions, which are always positive facts, but are of two kinds: one verified by a positive objective, the other by a negative objective."
   },
   {
     "id": "p-756415",
-    "offset": 42076,
+    "offset": 42038,
     "text": "Owing to these complications, the simplest type of correspondence is impossible when either negative facts or negative propositions are involved."
   },
   {
     "id": "p-6a422d",
-    "offset": 42223,
+    "offset": 42185,
     "text": "Even when we confine ourselves to relations between two terms which are both imaged, it may be impossible to form an image-proposition in which the relation of the terms is represented by the same relation of the images. Suppose we say \"Caesar was 2,000 years before Foch,\" we express a certain temporal relation between Caesar and Foch; but we cannot allow 2,000 years to elapse between our image of Caesar and our image of Foch. This is perhaps not a fair example, since \"2,000 years before\" is not a direct relation. But take a case where the relation is direct, say, \"the sun is brighter than the moon.\" We can form visual images of sunshine and moonshine, and it may happen that our image of the sunshine is the brighter of the two, but this is by no means either necessary or sufficient. The act of comparison, implied in our judgment, is something more than the mere coexistence of two images, one of which is in fact brighter than the other. It would take us too far from our main topic if we were to go into the question what actually occurs when we make this judgment. Enough has been said to show that the correspondence between the belief and its objective is more complicated in this case than in that of the window to the left of the door, and this was all that had to be proved."
   },
   {
     "id": "p-0ed7a9",
-    "offset": 43518,
+    "offset": 43480,
     "text": "In spite of these complications, the general nature of the formal correspondence which makes truth is clear from our instances. In the case of the simpler kind of propositions, namely those that I call \"atomic\" propositions, where there is only one word expressing a relation, the objective which would verify our proposition, assuming that the word \"not\" is absent, is obtained by replacing each word by what it means, the word meaning a relation being replaced by this relation among the meanings of the other words. For example, if the proposition is \"Socrates precedes Plato,\" the objective which verifies it results from replacing the word \"Socrates\" by Socrates, the word \"Plato\" by Plato, and the word \"precedes\" by the relation of preceding between Socrates and Plato. If the result of this process is a fact, the proposition is true; if not, it is false. When our proposition is \"Socrates does not precede Plato,\" the conditions of truth and falsehood are exactly reversed. More complicated propositions can be dealt with on the same lines. In fact, the purely formal question, which has occupied us in this last section, offers no very formidable difficulties."
   },
   {
     "id": "p-f9832f",
-    "offset": 44690,
+    "offset": 44652,
     "text": "I do not believe that the above formal theory is untrue, but I do believe that it is inadequate. It does not, for example, throw any light upon our preference for true beliefs rather than false ones. This preference is only explicable by taking account of the causal efficacy of beliefs, and of the greater appropriateness of the responses resulting from true beliefs. But appropriateness depends upon purpose, and purpose thus becomes a vital part of theory of knowledge."
   }
 ]

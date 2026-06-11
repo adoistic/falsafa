@@ -13,12 +13,10 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 32962
+word_count: 32355
 source_url: "https://www.gutenberg.org/ebooks/990"
 translator: Project Gutenberg edition
 ---
-
-Produced by Joseph B. Yesselman. HTML version by Al Haines.
 
 Sentence Numbers, shown thus (1), have been added by volunteer.
 
@@ -445,8 +443,6 @@ CHAPTER IX - OTHER QUESTIONS CONCERNING THE SAME BOOKS: NAMELY, WHETHER THEY WER
 (27) I suspect the same thing has taken place in chap. xxvi. of the same book, for the historian there seems to repeat the narrative given in chap. xxiv. according to another man's version. (28) But I pass over this, and go on to the computation of dates.
 
 (29) In I Kings, chap. vi., it is said that Solomon built the Temple in the four hundred and eightieth year after the exodus from Egypt; but from the historians themselves we get a much longer period, for:
-
-Years. Moses governed the people in the desert . . . . . . . . . . . . . . . 40 Joshua, who lived 110 years, did not, according to Josephus and others' opinion rule more than . . . . . . . . . . . . . . . . . 26 Cusban Rishathaim held the people in subjection . . . . . . . . . . . 8 Othniel, son of Kenag, was judge for . . . . . . . . . [Endnote 15] 40 Eglon, King of Moab, governed the people . . . . . . . . . . . . . . 18 Ehud and Shamgar were judges . . . . . . . . . . . . . . . . . . . . 80 Jachin, King of Canaan, held the people in subjection . . . . . . . . 20 The people was at peace subsequently for . . . . . . . . . . . . . . 40 It was under subjection to Median . . . . . . . . . . . . . . . . . . 7 It obtained freedom under Gideon for . . . . . . . . . . . . . . . . 40 It fell under the rule of Abimelech . . . . . . . . . . . . . . . . . 3 Tola, son of Puah, was judge . . . . . . . . . . . . . . . . . . . . 23 Jair was judge . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 The people was in subjection to the Philistines and Ammonites . . . . 18 Jephthah was judge . . . . . . . . . . . . . . . . . . . . . . . . . 6 Ibzan, the Bethlehemite, was judge . . . . . . . . . . . . . . . . . 7 Elon, the Zabulonite . . . . . . . . . . . . . . . . . . . . . . . . 10 Abclon, the Pirathonite . . . . . . . . . . . . . . . . . . . . . . . 8 The people was again subject to the Philistines . . . . . . . . . . . 40 Samson was judge . . . . . . . . . . . . . . . . . . . [Endnote 16] 20 Eli was judge . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 The people again fell into subjection to the Philistines, till they were delivered by Samuel . . . . . . . . . . . . . . . 20 David reigned . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 Solomon reigned before he built the temple . . . . . . . . . . . . . 4
 
 (30) All these periods added together make a total of 580 years. (31) But to these must be added the years during which the Hebrew republic flourished after the death of Joshua, until it was conquered by Cushan Rishathaim, which I take to be very numerous, for I cannot bring myself to believe that immediately after the death of Joshua all those who had witnessed his miracles died simultaneously, nor that their successors at one stroke bid farewell to their laws, and plunged from the highest virtue into the depth of wickedness and obstinacy.
 

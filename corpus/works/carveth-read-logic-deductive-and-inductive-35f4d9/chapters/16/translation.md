@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 9234
+word_count: 9158
 source_url: "https://www.gutenberg.org/ebooks/18440"
 translator: Project Gutenberg edition
 ---
@@ -35,8 +35,6 @@ Antecedents: A B C A D E Consequents: *p q r* *p s t*;
 and suppose further that, in this case, the immediate succession of events can be observed. Then A is probably the cause, or an indispensable condition, of *p*. For, as far as our instances go, A is the invariable antecedent of *p*; and *p* is the invariable consequent of A. But the two instances of A or *p* agree in no other circumstance. Therefore A is (or completes) the unconditional antecedent of *p*. For B and C are not indispensable conditions of *p*, being absent in the second instance (Rule II. (b)); nor are D and E, being absent in the first instance. Moreover, *q* and *r* are not effects of A, being absent in the second instance (Rule II. (d)); nor are *s* and *t*, being absent in the first instance.
 
 It should be observed that the cogency of the proof depends entirely upon its tending to show the unconditionality of the sequence A-*p*, or the indispensability of A as a condition of *p*. That *p* follows A, even immediately, is nothing by itself: if a man sits down to study and, on the instant, a hand-organ begins under his window, he must not infer malice in the musician: thousands of things follow one another every moment without traceable connection; and this we call 'accidental.' Even invariable sequence is not enough to prove direct causation; for, in our experience does not night invariable follow day? The proof requires that the instances be such as to show not merely what events *are* in invariable sequence, but also what *are not*. From among the occasional antecedents of *p* (or consequents of A) we have to eliminate the accidental ones. And this is done by finding or making 'negative instances' in respect of each of them. Thus the instance
-
-A D E *p s t*
 
 is a negative instance of B and C considered as supposable causes of *p* (and of *q* and *r* as supposable effects of A); for it shows that they are absent when *p* (or A) is present.
 
@@ -86,19 +84,13 @@ _If an instance in which a phenomenon occurs, and an instance in which it does n
 
 This follows from Props. I (a) and (b), in chapter xv. § 7. To prove that A is a condition of *p*, let two instances, such as the Canon requires, be represented thus:
 
-A B C B C *p q r* *q r*
-
 Then A is the cause or a condition of *p*. For, in the first instance, A being introduced (without further change), *p* arises (Prop. I. (a)); and, in the second instance, A having been removed (without other change), *p* disappears (Prop. I. (b)). Similarly we may prove, by the same instances, that *p* is the effect of A.
 
 The order of the phenomena and the immediacy of their connection is a matter for observation, aided by whatever instruments and methods of inspection and measurement may be available.
 
 As to the invariability of the connection, it may of course be tested by collecting more instances or making more experiments; but it has been maintained, that a single perfect experiment according to this method is sufficient to prove causation, and therefore implies invariability (since causation is uniform), though no other instances should ever be obtainable; because it establishes once for all the unconditionality of the connection
 
-A B C *p q r*.
-
 Now, formally this is true; but in any actual investigation how shall we decide what is a satisfactory or perfect experiment? Such an experiment requires that in the negative instance
-
-B C *q r*,
 
 BC shall be the least assemblage of conditions necessary to co-operate with A in producing *p*; and that it is so cannot be ascertained without either general prior knowledge of the nature of the case or special experiments for the purpose. So that invariability will not really be inferred from a single experiment; besides that every prudent inquirer repeats his experiments, if only to guard against his own liability to error.
 
@@ -134,15 +126,11 @@ Even when there are two parallel series of phenomena the one quantitative and th
 
 We may illustrate the two cases of the method thus (putting a dash against any letter, A' or *p*', to signify an increase or decrease of the phenomenon the letter stands for): Agreement in Variations (other changes being admissible)--
 
-A B C A' D E A'' F G *p q r* *p' s t* *p'' u v*
-
 Here the accompanying phenomena (*B C q r, D E s t, F G u v*) change from time to time, and the one thing in which the instances agree throughout is that any increase of A (A' or A'') is followed or accompanied by an increase of *p (p' or p'')*: whence it is argued that A is the cause of *p*, according to Prop. III. (a) (ch. xv. § 7). Still, it is supposable that, in the second instance, D or E may be the cause of the increment of *p*; and that, in the third instance, F or G may be its cause: though the probability of such vicarious causation decreases rapidly with the increase of instances in which A and *p* vary together. And, since an actual investigation of this type must rely on observation, it is further possible that some undiscovered cause, X, is the real determinant of both A and *p* and of their concomitant variations.
 
 Professor Ferri, in his *Criminal Sociology*, observes: "I have shown that in France there is a manifest correspondence of increase and decrease between the number of homicides, assaults and malicious wounding, and the more or less abundant vintage, especially in the years of extraordinary variations, whether of failure of the vintage (1853-5, 1859, 1867, 1873, 1878-80), attended by a remarkable diminution of crime (assaults and wounding), or of abundant vintages (1850, 1856-8, 1862-3, 1865, 1868, 1874-5), attended by an increase of crime" (p. 117, Eng. trans.). And earlier he had remarked that such crimes also "in their oscillations from month to month display a characteristic increase during the vintage periods, from June to December, notwithstanding the constant diminution of other offences" (p. 77). This is necessarily an appeal to the canon of Concomitant Variations, because France is never without her annual vintage, nor yet without her annual statistics of crime. Still, it is an argument whose cogency is only that of Agreement, showing that probably the abuse of the vintage is a cause of crimes of violence, but leaving open the supposition, that some other circumstance or circumstances, arising or varying from year to year, may determine the increase or decrease of crime; or that there is some unconsidered agent which affects both the vintage and crimes of violence. French sunshine, it might be urged, whilst it matures the generous grape, also excites a morbid fermentation in the human mind.
 
 Difference in Variations may be symbolically represented thus (no other change having concurred):
-
-A B A' B A'' B *p q*, *p' q*, *p'' q*.
 
 Here the accompanying phenomena are always the same B/q; and the only point in which the successive instances differ is in the increments of A (A', A'') followed by corresponding increments of *p* (*p', p''*): hence the increment of A is the cause of the increment of *p*.
 
@@ -174,19 +162,11 @@ The phenomenon is here assumed to be an effect: a similar Canon may be framed fo
 
 This also is not a fresh method, but a special case of the method of Difference. For if we suppose the phenomenon to be *p q r*, and the antecedent to be A B C, and that we already know B and C to have (either severally or together) the consequents *q r*, in which their efficacy is exhausted; we may regard
 
-B C *q r*
-
 as an instance of the absence of *p* obtained deductively from the whole phenomenon
-
-A B C *p q r*
 
 by our knowledge of the laws of B and C; so that
 
-A B C *p q r*
-
 is an instance of the presence of *p*, differing otherwise from
-
-B C *q r*
 
 in nothing except that A is also present. By the Canon of Difference, therefore A is the cause of *p*. Or, again, when phenomena thus treated are strictly quantitative, the method may be based on Prop. III. (b), ch. xv. § 7.
 

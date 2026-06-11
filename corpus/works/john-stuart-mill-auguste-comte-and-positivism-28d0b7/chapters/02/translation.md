@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 22289
+word_count: 22278
 source_url: "https://www.gutenberg.org/ebooks/16833"
 translator: Project Gutenberg edition
 ---
@@ -187,5 +187,3 @@ See Sir John Herschel's Outlines of Astronomy, Sec. 319.
 Synthese Subjective, pp. 10, 11.
 
 Synthese Subjective, pp. 11, 12.
-
-End of Project Gutenberg's Auguste Comte and Positivism, by John-Stuart Mill

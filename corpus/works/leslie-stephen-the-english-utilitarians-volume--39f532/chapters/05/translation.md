@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 18571
+word_count: 18139
 source_url: "https://www.gutenberg.org/ebooks/27597"
 translator: Project Gutenberg edition
 ---
@@ -36,29 +36,11 @@ NOTES:
 
 The main authority for Bentham's Life is Bowring's account in the two last volumes of the *Works*. Bain's *Life of James Mill* gives some useful facts as to the later period. There is comparatively little mention of Bentham in contemporary memoirs. Little is said of him in Romilly's *Life*. Parr's *Works*, i. and viii., contains some letters. See also R. Dale Owen's *Threading my Way* pp. 175-78. A little book called *Utilitarianism Unmasked*, by the Rev. J. F. Colls, D.D. (1844), gives some reminiscences by Colls, who had been Bentham's amanuensis for fourteen years. Colls, who took orders, disliked Bentham's religious levity, and denounces his vanity, but admits his early kindness. Voluminous collections of the papers used by Bowring are at University College, and at the British Museum.
 
-*Works*, x. 33.
-
-*Ibid.* x. 31.
-
-*Ibid.* ix. 84.
-
-*Ibid.* x. 18.
-
 Southey was expelled from Westminster in 1792 for attacking the birch in a schoolboy paper.
 
 *Works*, x. 38. Bowring's confused statement, I take it, means this. Bentham, in any case, was not on the foundation. See Welsh's *Alumni West*.
 
-*Works*, x. 37.
-
-*Ibid.* viii. 113, 217.
-
-*Works*, x. 45.
-
-*Ibid.* x. 51, 78, 83.
-
 *Works*, x. 35, 77. References are given to this book in *Works*, vii. 219-20 ('Rationale of Evidence'). Several editions appeared from 1725 to 1761. See *Works*, vi. 465, for a recollection of similar experiences.
-
-*Ibid.* viii. 148 *n.*; x. 183.
 
 II. FIRST WRITINGS
 
@@ -84,18 +66,6 @@ Bentham's mind was for the present distracted. He had naturally returned full of
 
 NOTES:
 
-*Works*, x. 66.
-
-*Ibid.* xi. 95.
-
-*Works*, x. 54.
-
-*Ibid.* i. 268 *n.*
-
-*Works*, x. 121.
-
-*Ibid.* i. 227.
-
 *Ibid.* x. 79, 142. See also *Deontology*, i. 298-302, where Bentham speaks of discovering the phrase in Priestley's _Essay on Government_ in 1768. Priestley says (p. 17) that 'the good and happiness of the members, that is of the majority of the members, of any state is the great standard by which everything relating to that state must be finally determined.' So Le Mercier de la Rivière says, in 1767, that the ultimate end of society is _assurer le plus grand bonheur possible à la plus grande population possible* (Daire's *Économistes_, p. 470). Hutcheson's *Enquiry concerning Moral Good and Evil*, 1725, see iii. § 8, says 'that action is best which secures the greatest happiness of the greatest number.' Beccaria, in the preface to his essay, speaks of _la massima felicità divisa nel maggior numero_. J. S. Mill says that he found the word 'Utilitarian' in Galt's *Annals of the Parish*, and gave the name to the society founded by him in 1822-1823 (*Autobiography*, p. 79). The word had been used by Bentham himself in 1781, and he suggested it to Dumont in 1802 as the proper name of the party, instead of 'Benthamite' (*Works*, x. 92, 390). He afterwards thought it a bad name, because it gave a 'vague idea' (*Works*, x. 582), and substituted 'greatest happiness principle' for 'principle of utility' (*Works*, i. 'Morals and Legislation').
 
 A letter in the Additional MSS. 33, 537, shows that Bentham sent his 'Fragment' and his 'Hard Labour' pamphlet to d'Alembert in 1778, apparently introducing himself for the first time. Cf. *Works*, x. 87-88, 193-94.
@@ -104,73 +74,17 @@ The translation of 1774. See Lowndes' *Manual* under Voltaire, *Works*, x. 83 *n
 
 *Review of the Acts of the Thirteenth Parliament, etc.* (1775).
 
-*Works*, x. 57, 63.
-
-*Works*, x. 133-35.
-
-*Ibid.* x. 84.
-
-*Ibid.* x. 77.
-
-*Works*, x. 82.
-
 *Works*, x. 77-82. Blackstone took no notice of the work, except by some allusions in the preface to his next edition. Bentham criticised Blackstone respectfully in the pamphlet upon the Hard Labour Bill (1778). Blackstone sent a courteous but 'frigidly cautious' reply to the author.--*Works*, i. 255.
-
-*Works*, x. 115-17, 186
-
-*Ibid.* x. 100.
-
-*Ibid.* x. 122.
-
-*Ibid.* x. 118; i. 253.
-
-*Works*, x. 97; i. 252.
-
-*Ibid.* x. 219, 265.
-
-*Works*, x. 118, 419, 558.
-
-*Ibid.* i. 253.
-
-*Ibid.* x. 116, 182.
-
-*Ibid.* x. 228-42.
-
-*Ibid.* x. 186.
-
-*Works*, v. 370.
 
 *Souvenirs sur Mirabeau* (preface).
 
-*Works*, x. 185.
-
 *Works*, x. 185. Colls (p. 41) tells the same story.
-
-*Works* ('Fragment, etc.'), i. 245, and *Ibid.* ii. 463 *n.*
-
-*Ibid.* i. 246, 250, 251.
-
-*Ibid.* i. 252.
-
-*Ibid.* x. 185.
 
 Bentham says (*Works*, i. 240) that he was a member of a club of which Johnson was the despot. The only club possible seems to be the Essex Street Club, of which Daines Barrington was a member. If so, it was in 1783, though Bentham seems to imply an earlier date.
 
-*Works*, x. 77.
-
-*Ibid.* x. 147.
-
-*Works*, x. 176.
-
 Reid's *Works* (Hamilton), p. 73.
 
-*Works*, x. 171.
-
 *Works*, x. 163-64. Cf. *Ibid.* x. 195, where Wilson is often 'tempted to think'--erroneously, of course--that Paley must have known something of Bentham's work. Paley's chief source was Abraham Tucker.
-
-See J. H. Burton in *Works*, i. 11.
-
-Given in *Works*, x. 201-12.
 
 See Lecky's *Eighteenth Century*, x. 210-97, for an account of these transactions.
 
@@ -198,67 +112,17 @@ Bentham, though he could not see that his failure was a blessing in disguise, ha
 
 NOTES:
 
-*Works*, x. 195.
-
-*Ibid.* x. 198-99.
-
-*Ibid.* x. 317.
-
-*Ibid.* x. 270.
-
-*Works*, x. 282.
-
-*Works*, x. 296.
-
-*Ibid.* x. 304.
-
-*Ibid.* x. 292.
-
-*Ibid.* x. 300.
-
-*Works*, x. 315.
-
-*Ibid.* x. 329.
-
-*Ibid.* x. 366.
-
-*Ibid.* x. 346.
-
-*Ibid.* x. 381.
-
 See his letter to Lansdowne, sending a portrait to Jeremy.--*Works*, x. 224.
-
-*Works*, xi. 81.
-
-*Ibid.* x. 226.
 
 *Works*, x. 260. It is doubtful whether the letter was sent.
 
 The Panopticon story is confusedly told in Bowring's life. The *Panopticon Correspondence*, in the eleventh volume, gives fragments from a 'history of the war between Jeremy Bentham and George III.,' written by Bentham in 1830-31, and selections from a voluminous correspondence.
 
-*Works*, x. 301.
-
-*Ibid.* xi. 167.
-
 The plan, according to Bentham (*Works*, xi. 102), was suggested by Ruggles, author of the work upon the poor-laws, first printed in Young's *Annals*.
-
-*Works*, viii. 440.
-
-*Works*, xi. 102-3.
-
-*Ibid.* x. 400.
-
-*Works*, xi. 144.
 
 For its later history see *Memorials of Millbank*, by Arthur Griffiths. 2 vols., 1875.
 
-*Works*, xi. 106.
-
-*Ibid.* x. 294.
-
 Wilberforce's *Life*, ii. 71.
-
-*Works*, x. 541.
 
 IV. THE UTILITARIAN PROPAGANDA
 
@@ -292,73 +156,19 @@ Bentham's mind was attracted to various other schemes by the disciples who came 
 
 NOTES:
 
-*Works*, x. 403.
-
-*Ibid.* x. 62.
-
 Bentham had himself written some of his papers in French.
-
-*Works*, x. 407, 410, 413, 419.
-
-*Ibid.* x. 415.
 
 Lord E. Fitzmaurice's *Life of Shelburne*.
 
-*Works*, x. 413.
-
 This statement, I believe, refers to a complimentary reference to Bentham in the preface to the French Code.
-
-*Works*, x. 458.
 
 Bentham says that he reached these conclusions some time before 1809: *Works*, iii. 435. Cf. *Ibid.* v. 278.
 
-*Works*, x. 425.
-
 See description in Bain's *James Mill*, 129-36.
-
-*Works*, x. 479, 573.
-
-*Works*, x. 452-54.; Bain's *James Mill*, 104.
 
 The case of the 'King *v.* Cobbett,' (1804), which led to the proceedings against Mr. Justice Johnson in 1805.--Cobbett's _State Trials_, xxix.
 
-*Works*, x. 448-49.
-
-*Ibid.* x. 458.
-
-*Works*, x. 471, 570.
-
-*Ibid.* x. 471.
-
-*Ibid.* x. 461.
-
-*Ibid.* x. 471.
-
-*Ibid.* x. 490.
-
-Printed in *Works*, x. 495-97.
-
-*Ibid.* x. 570.
-
-*Ibid.* x. 476.
-
-*Works*, x. 485.
-
 Bain's *James Mill*, 136. *Church of Englandism* and _Not Paul but Jesus_ were also written at Ford Abbey.
-
-*Works*, x. 433, 448.
-
-*Ibid.* x. 457-58; Bain's *James Mill*, 79.
-
-*Works*, 553-54, 565.
-
-*Ibid.* xi. 53.
-
-See *Memoirs of J. Q. Adams* (1874), iii. 511, 520, 532, 535-39, 540, 544, 560, 562-63. and Bentham's letter to Adams in *Works*, x. 554.
-
-*Works*, xi. 23.
-
-*Ibid.* xi. 40.
 
 V. CODIFICATION
 
@@ -396,58 +206,12 @@ See correspondence upon his codification plans in Russia, America, and Geneva in
 
 Borrow's *Bible in Spain*, ch. xxx.
 
-*Works*, viii. 555-600.
-
 *Ibid.* x. 534. See Blaquière's enthusiastic letter to Bentham.--*Works*, x. 475.
 
 See, however, Bentham's reference to this story.--*Works*, xi. 66.
-
-*Works*, x. 539.
-
-*Ibid.* x. 522.
-
-*Works*, x. 516.
-
-*Ibid.* x. 591.
 
 A letter from Mill in the University College MSS. describes a misunderstanding about borrowed books, a fertile, but hardly adequate, cause of quarrel.
 
 Bowring's religious principles prevented him from admitting some of Bentham's works to the collective edition.
 
-*Works*, x. 471-72.
-
-*Ibid.* x. 576.
-
-*Ibid.* x. 588.
-
 *Works*, xi. 37. Papers preserved at University College show that during Peel's law reforms at this time Bentham frequently communicated with him.
-
-*Ibid.* xi. 50.
-
-*Ibid.* v. 549.
-
-*Ibid.* v. 609.
-
-*Works*, x. 594.
-
-*Ibid.* xi. 26.
-
-*Ibid.* xi. 13, 28.
-
-*Works*, x. 468.
-
-*Ibid.* x. 551.
-
-*Ibid.* xi. 75.
-
-*Ibid.* xi. 33.
-
-Mill's *Dissertations*, i. 354 and 392 *n.*
-
-*Works*, x. 442.
-
-*Works*, x. 467; xi. 79.
-
-*Ibid.* xi. 23-24.
-
-*Ibid.* x. 450.

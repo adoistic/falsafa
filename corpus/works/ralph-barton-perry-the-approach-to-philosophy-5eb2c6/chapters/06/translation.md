@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 9128
+word_count: 9104
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -208,8 +208,6 @@ FOOTNOTES:
 
 [230:4] Descartes distinguished his theory from that of Democritus in the *Principles of Philosophy*, Part IV, § ccii.
 
-[231:5] Pearson: *Grammar of Science*, pp. 259-260. Cf. *ibid.*, Chap. VII, entire.
-
 [232:6] Quoted in Ueberweg: *History of Philosophy*, II, p. 124.
 
 [233:7] Quoted from the *Opticks* of Newton by James Ward, in his *Naturalism and Agnosticism*, I, p. 43.
@@ -217,10 +215,6 @@ FOOTNOTES:
 [236:8] Haeckel: *Riddle of the Universe*. Translation by McCabe, p. 254.
 
 The best systematic presentation of "energetics" is to be found in Ostwald's *Vorlesungen über Natur-Philosophie*. Herbert Spencer, in his well-known *First Principles*, makes philosophical use of both "force" and "energy."
-
-[238:9] Cf. Chap. IX.
-
-[240:10] Lucretius: *Op. cit.*, Bk. I, lines 1021-1237.
 
 [241:11] Quoted from La Place's essay on *Probability* by Ward: _Op. cit._, I, p. 41.
 

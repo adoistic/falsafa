@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 591
+word_count: 545
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
@@ -23,8 +23,6 @@ _Of the Partly Conjunctive Syllogism regarded as an Immediate Inference_.
 § 753. It is the assertion of fact in the minor premiss, where we have the application of an abstract principle to a concrete instance, which alone entitles the partly conjunctive syllogism to be regarded as a syllogism at all. Apart from this the forms of semi-conjunctive reasoning run at once into the moulds of immediate inference.
 
 § 754. The constructive mood will then be read in this way--
-
-If A is B, C is D, .'. A being B, C is D.
 
 reducing itself to an instance of immediate inference by subaltern opposition--
 
@@ -48,8 +46,6 @@ and followed by Subalternation?
 
 § 757. We may however argue in this way
 
-If A is B, C is D, C is D, .'. A may be B,
-
 which is equivalent to saying,
 
 When A is B, C is always D, .'. When C is D, A is sometimes B,
@@ -59,8 +55,6 @@ and falls under the legitimate form of conversion of A per accidens--
 All cases of A being B are cases of C being D. .'. Some cases of C being D are cases of A being B.
 
 § 758. The fallacy of denying the antecedent assumes the following form--
-
-If A is B, C is D, .'. If A is not B, C is not D,
 
 equivalent to--
 

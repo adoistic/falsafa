@@ -2,7 +2,7 @@
   "work_slug": "david-hume-an-enquiry-concerning-the-princi-ffdd48",
   "work_title": "An Enquiry Concerning the Principles of Morals",
   "chapter_number": 3,
-  "chapter_title": "Section I — , Appendix I. With regard to justice, the virtue",
+  "chapter_title": "Section III — OF JUSTICE",
   "chapter_slug": "03",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2039,
-      "paragraph_count": 15,
+      "word_count": 6023,
+      "paragraph_count": 46,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/4320"
     }

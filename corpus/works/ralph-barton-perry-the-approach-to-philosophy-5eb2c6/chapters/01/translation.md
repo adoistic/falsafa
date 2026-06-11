@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 10399
+word_count: 10380
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
@@ -182,22 +182,14 @@ FOOTNOTES:
 
 [28:1] George Santayana, in his *Poetry and Religion*, p. 176.
 
-[30:2] Santayana: *op. cit.*, p. 180.
-
-[42:3] *Appreciations*, p. 59.
-
 [43:4] Letter to Can Grande. See Lowell's *Essay on Dante*, p. 34.
 
 [44:5] *Purgatorio*, Canto XXVII. Translation by Norton.
-
-[45:6] *Paradiso*, Canto I.
 
 [46:7] Edward Caird, in his *Literature and Philosophy*, Vol. I, p. 24.
 
 [47:8] *Paradiso*, Canto III.
 
 [50:9] Observations prefixed to the second edition of *Lyrical Ballads*.
-
-[51:10] *A Defence of Poetry.*
 
 [51:11] Quoted by Caird in his *Literature and Philosophy*, Vol. I, p. 60.

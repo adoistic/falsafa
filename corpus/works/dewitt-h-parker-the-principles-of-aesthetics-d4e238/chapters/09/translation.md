@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 10600
+word_count: 10582
 source_url: "https://www.gutenberg.org/ebooks/6366"
 translator: Project Gutenberg edition
 ---
@@ -71,8 +71,6 @@ Only as a result of recent investigations can a satisfactory theory of modern ve
 Blow, blow, thou winter wind, Thou art not so unkind As man's ingratitude.
 
 Here the quantitative scansion is perhaps as follows:--
-
-- - - - U - - - U x U - U - U - U -
 
 I have given the word "so" a double scansion because I conceive it impossible to determine whether it is really long or short. At any rate, there is certainly no regularity in the distribution of shorts and longs, except in the last of the three lines, and no correspondence, except in that line, between the quantitative scansion and the rhythmical movement of the verses. And whenever such a correspondence exists, it is due either to the fact that the incidence of stress tends to lengthen a syllable or to the fact that, oftentimes, in polysyllabic words, mere length will produce a stress. This is the modicum of truth in the quantitative view. But obviously stress governs, quantity obeys.
 

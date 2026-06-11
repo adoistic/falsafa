@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1704
+word_count: 1692
 source_url: "https://www.gutenberg.org/ebooks/6366"
 translator: Project Gutenberg edition
 ---
@@ -87,5 +87,3 @@ PLATO. Republic, Ion, Phaedrus, Symposium, Gorgias. TOLSTOY, L. What is Art? Eng
 *Chapter Fifteen.--Art and Religion.*
 
 LANG, A. Myth, Ritual, and Religion, 1913. DELLA SETA, A. Religion and Art, 1914. HARRISON, J. Ancient Art and Ritual, 1913. MURRAY, G. Four Stages of Greek Religion, 1912. REINACH, S. Orpheus, 1909. SANTAYANA, G. Poetry and Religion, 1900. FRAZER, J. G. The Golden Bough. HEGEL, G. W. F. Introduction to the Philosophy of Fine Art, translated by Bosanquet, 1886. MUENSTERBERG, H. Philosophie der Werte, 1908. WUNDT, WM. Volkerpsychologie, 1911. SANTAYANA, G. Three Philosophical Poets, 1910.
-
-End of Project Gutenberg's The Principles Of Aesthetics, by Dewitt H. Parker

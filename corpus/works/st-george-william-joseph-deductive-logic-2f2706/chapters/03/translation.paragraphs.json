@@ -240,38 +240,33 @@
     "text": "Two negative premisses being excluded by Rule 5, and two particular by Rule 8, the only pairs of premisses we can have are--"
   },
   {
-    "id": "p-6f9af0",
-    "offset": 7684,
-    "text": "AI, AO, EI."
-  },
-  {
     "id": "p-d7783f",
-    "offset": 7697,
+    "offset": 7684,
     "text": "Of course the particular premiss may precede the universal, but the order of the premisses will not affect the reasoning."
   },
   {
     "id": "p-fc8074",
-    "offset": 7820,
+    "offset": 7807,
     "text": "AI premisses between them distribute one term only. This must be the middle term by Rule 3. Therefore the conclusion must be particular, as its subject cannot be distributed,"
   },
   {
     "id": "p-60de6b",
-    "offset": 7996,
+    "offset": 7983,
     "text": "AO and EI premisses each distribute two terms, one of which must be the middle term by Rule 3: so that there is only one term left which may be distributed in the conclusion. But the conclusion must be negative by Rule 4. Therefore its predicate must be distributed. Hence its subject cannot be so. Therefore the conclusion must be particular."
   },
   {
     "id": "p-13dbd5",
-    "offset": 8341,
+    "offset": 8328,
     "text": "§ 597. Rules 6 and 9 are often lumped together in a single expression--'The conclusion must follow the weaker part,' negative being considered weaker than affirmative, and particular than universal."
   },
   {
     "id": "p-8e25e6",
-    "offset": 8541,
+    "offset": 8528,
     "text": "§ 598. The most important rules of syllogism are summed up in the following mnemonic lines, which appear to have been perfected, though not invented, by a mediæval logician known as Petrus Hispanus, who was afterwards raised to the Papal Chair under the title of Pope John XXI, and who died in 1277--"
   },
   {
     "id": "p-e92817",
-    "offset": 8843,
+    "offset": 8830,
     "text": "Distribuas medium, nec quartus terminus adsit; Utraque nec praemissa negans, nec particularis; Sectetur partem conclusio deteriorem, Et non distribuat, nisi cum praemissa, negetve."
   }
 ]

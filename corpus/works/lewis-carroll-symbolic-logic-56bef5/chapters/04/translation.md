@@ -4,7 +4,7 @@ work_slug: "lewis-carroll-symbolic-logic-56bef5"
 work_title: Symbolic Logic
 author_name: Lewis Carroll
 chapter_number: 4
-chapter_title: Book IV
+chapter_title: Book III
 chapter_slug: 04
 variant_id: "a447650b-fd13-5508-bdd2-a42028137328"
 content_type: translation
@@ -13,179 +13,299 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3963
+word_count: 3488
 source_url: "https://www.gutenberg.org/ebooks/28696"
 translator: Project Gutenberg edition
 ---
 
-THE TRILITERAL DIAGRAM.
-
-·-----------------· ·-----------------· | | | | xy | xy' | | | | | m' | m' | | xy | xy' | | ·----|----· | | | | | | xy | xy'| | | | | | | m | m | | |--------|--------| |---|----|----|---| | | | | |x'y |x'y'| | | | | | | m | m | | | x'y | x'y' | | ·----|----· | | | | | x'y | x'y' | | | | | m' | m' | ·-----------------· ·-----------------·
+THE BILITERAL DIAGRAM.
 
 CHAPTER I.
 
 *SYMBOLS AND CELLS.*
 
-First, let us suppose that the above *left*-hand Diagram is the Biliteral Diagram that we have been using in Book III., and that we change it into a *Triliteral* Diagram by drawing an *Inner Square*, so as to divide each of its 4 Cells into 2 portions, thus making 8 Cells altogether. The *right*-hand Diagram shows the result.
+First, let us suppose that the above Diagram is an enclosure assigned to a certain Class of Things, which we have selected as our 'Universe of Discourse.' or, more briefly, as our 'Univ'.
 
-[The Reader is strongly advised, in reading this Chapter, *not* to refer to the above Diagrams, but to make a large copy of the right-hand one for himself, *without any letters*, and to have it by him while he reads, and keep his finger on that particular *part* of it, about which he is reading.] pg040 Secondly, let us suppose that we have selected a certain Adjunct, which we may call "m", and have subdivided the xy-Class into the two Classes whose Differentiæ are m and m', and that we have assigned the N.W. *Inner* Cell to the one (which we may call "the Class of xym-Things", or "the xym-Class"), and the N.W. *Outer* Cell to the other (which we may call "the Class of xym'-Things", or "the xym'-Class").
+[For example, we might say "Let Univ. be 'books'"; and we might imagine the Diagram to be a large table, assigned to all "books."]
 
-[Thus, in the "books" example, we might say "Let m mean 'bound', so that m' will mean 'unbound'", and we might suppose that we had subdivided the Class "old English books" into the two Classes, "old English bound books" and "old English unbound books", and had assigned the N.W. *Inner* Cell to the one, and the N.W. *Outer* Cell to the other.]
+[The Reader is strongly advised, in reading this Chapter, *not* to refer to the above Diagram, but to draw a large one for himself, *without any letters*, and to have it by him while he reads, and keep his finger on that particular *part* of it, about which he is reading.] pg023 Secondly, let us suppose that we have selected a certain Adjunct, which we may call "x," and have divided the large Class, to which we have assigned the whole Diagram, into the two smaller Classes whose Differentiæ are "x" and "not-x" (which we may call "x'"), and that we have assigned the *North* Half of the Diagram to the one (which we may call "the Class of x-Things," or "the x-Class"), and the *South* Half to the other (which we may call "the Class of x'-Things," or "the x'-Class").
 
-Thirdly, let us suppose that we have subdivided the xy'-Class, the x'y-Class, and the x'y'-Class in the same manner, and have, in each case, assigned the *Inner* Cell to the Class possessing the Attribute m, and the *Outer* Cell to the Class possessing the Attribute m'.
+[For example, we might say "Let x mean 'old,' so that x' will mean 'new'," and we might suppose that we had divided books into the two Classes whose Differentiæ are "old" and "new," and had assigned the *North* Half of the table to "*old* books" and the *South* Half to "*new* books."]
 
-[Thus, in the "books" example, we might suppose that we had subdivided the "new English books" into the two Classes, "new English bound books" and "new English unbound books", and had assigned the S.W. *Inner* Cell to the one, and the S.W. *Outer* Cell to the other.]
+Thirdly, let us suppose that we have selected another Adjunct, which we may call "y", and have subdivided the x-Class into the two Classes whose Differentiæ are "y" and "y'", and that we have assigned the North-*West* Cell to the one (which we may call "the xy-Class"), and the North-*East* Cell to the other (which we may call "the xy'-Class").
 
-It is evident that we have now assigned the *Inner Square* to the m-Class, and the *Outer Border* to the m'-Class.
+[For example, we might say "Let y mean 'English,' so that y' will mean 'foreign'", and we might suppose that we had subdivided "old books" into the two Classes whose Differentiæ are "English" and "foreign", and had assigned the North-*West* Cell to "old *English* books", and the North-*East* Cell to "old *foreign* books."]
 
-[Thus, in the "books" example, we have assigned the _Inner Square* to "bound books" and the *Outer Border_ to "unbound books".]
+Fourthly, let us suppose that we have subdivided the x'-Class in the same manner, and have assigned the South-*West* Cell to the x'y-Class, and the South-*East* Cell to the x'y'-Class.
 
-When the Reader has made himself familiar with this Diagram, he ought to be able to find, in a moment, the Compartment assigned to a particular *pair* of Attributes, or the Cell assigned to a particular *trio* of Attributes. The following Rules will help him in doing this:--
+[For example, we might suppose that we had subdivided "new books" into the two Classes "new *English* books" and "new *foreign* books", and had assigned the South-*West* Cell to the one, and the South-*East* Cell to the other.]
 
-(1) Arrange the Attributes in the order x, y, m. pg041 (2) Take the *first* of them and find the Compartment assigned to it.
+It is evident that, if we had begun by dividing for y and y', and had then subdivided for x and x', we should have got the *same* four Classes. Hence we see that we have assigned the *West* Half to the y-Class, and the *East* Half to the y'-Class. pg024 [Thus, in the above Example, we should find that we had assigned the *West* Half of the table to "*English* books" and the *East* Half to "*foreign* books."
 
-(3) Then take the *second*, and find what *portion* of that compartment is assigned to it.
+We have, in fact, assigned the four Quarters of the table to four different Classes of books, as here shown.]
 
-(4) Treat the *third*, if there is one, in the same way.
+The Reader should carefully remember that, in such a phrase as "the x-Things," the word "Things" means that particular *kind* of Things, to which the whole Diagram has been assigned.
 
-[For example, suppose we have to find the Compartment assigned to ym. We say to ourselves "y has the *West* Half; and m has the *Inner* portion of that West Half."
+[Thus, if we say "Let Univ. be 'books'," we mean that we have assigned the whole Diagram to "books." In that case, if we took "x" to mean "old", the phrase "the x-Things" would mean "the old books."]
 
-Again, suppose we have to find the Cell assigned to x'ym'. We say to ourselves "x' has the *South* Half; y has the *West* portion of that South Half, i.e. has the *South-West Quarter*; and m' has the *Outer* portion of that South-West Quarter."]
+The Reader should not go on to the next Chapter until he is _quite familiar* with the *blank_ Diagram I have advised him to draw.
 
-The Reader should now get his genial friend to question him on the Table given on the next page, in the style of the following specimen-Dialogue.
+He ought to be able to name, *instantly*, the *Adjunct* assigned to any Compartment named in the right-hand column of the following Table.
 
-Q. Adjunct for South Half, Inner Portion? A. x'm. Q. Compartment for m'? A. The Outer Border. Q. Adjunct for North-East Quarter, Outer Portion? A. xy'm'. Q. Compartment for ym? A. West Half, Inner Portion. Q. Adjunct for South Half? A. x'. Q. Compartment for x'y'm? A. South-East Quarter, Inner Portion. &c. &c.
+Also he ought to be able to name, *instantly*, the *Compartment* assigned to any Adjunct named in the left-hand column.
 
-pg042 TABLE IV.
+To make sure of this, he had better put the book into the hands of some genial friend, while he himself has nothing but the blank Diagram, and get that genial friend to question him on this Table, *dodging* about as much as possible. The Questions and Answers should be something like this:--
 
-·-----------------------------------------------· | Adjunct | | | of | Compartments, or Cells, assigned | | Classes. | to them. | |----------|------------------------------------| | x | North Half. | | x' | South " | | y | West " | | y' | East " | | m | Inner Square. | | m' | Outer Border. | |----------|------------------------------------| | xy | North-West Quarter. | | xy' | " East " | | x'y | South-West " | | x'y' | " East " | | xm | North Half, Inner Portion. | | xm' | " " Outer " | | x'm | South " Inner " | | x'm' | " " Outer " | | ym | West " Inner " | | ym' | " " Outer " | | y'm | East " Inner " | | y'm' | " " Outer " | |----------|------------------------------------| | xym | North-West Quarter, Inner Portion. | | xym' | " " " Outer " | | xy'm | " East " Inner " | | xy'm' | " " " Outer " | | x'ym | South-West " Inner " | | x'ym' | " " " Outer " | | x'y'm | " East " Inner " | | x'y'm' | " " " Outer " | ·-----------------------------------------------·
+pg025 TABLE I.
 
-pg043
+Q. "Adjunct for West Half?" A. "y." Q. "Compartment for xy'?" A. "North-East Cell." Q. "Adjunct for South-West Cell?" A. "x'y." &c., &c.
+
+After a little practice, he will find himself able to do without the blank Diagram, and will be able to see it *mentally* ("in my mind's eye, Horatio!") while answering the questions of his genial friend. When *this* result has been reached, he may safely go on to the next Chapter.
 
 CHAPTER II.
 
-*REPRESENTATION OF PROPOSITIONS IN TERMS OF x AND m, OR OF y AND m.*
+*COUNTERS.*
 
-_Representation of Propositions of Existence in terms of x and m, or of y and m._
+Let us agree that a *Red* Counter, placed within a Cell, shall mean "This Cell is *occupied*" (i.e. "There is at least *one* Thing in it").
 
-Let us take, first, the Proposition "Some xm exist".
+Let us also agree that a *Red* Counter, placed on the partition between two Cells, shall mean "The Compartment, made up of these two Cells, is *occupied*; but it is not known *whereabouts*, in it, its occupants are." Hence it may be understood to mean "At least *one* of these two Cells is occupied: possibly *both* are."
 
-[Note that the *full* meaning of this Proposition is (as explained at p. 12) "Some existing Things are xm-Things".]
+Our ingenious American cousins have invented a phrase to describe the condition of a man who has not yet made up his mind *which* of two political parties he will join: such a man is said to be "=sitting on the fence=." This phrase exactly describes the condition of the Red Counter.
 
-This tells us that there is at least *one* Thing in the Inner portion of the North Half; that is, that this Compartment is *occupied*. And this we can evidently represent by placing a *Red* Counter on the partition which divides it.
+Let us also agree that a *Grey* Counter, placed within a Cell, shall mean "This Cell is *empty*" (i.e. "There is *nothing* in it").
 
-[In the "books" example, this Proposition would mean "Some old bound books exist" (or "There are some old bound books").]
-
-Similarly we may represent the seven similar Propositions, "Some xm' exist", "Some x'm exist", "Some x'm' exist", "Some ym exist", "Some ym' exist", "Some y'm exist", and "Some y'm' exist". pg044 Let us take, next, the Proposition "No xm exist".
-
-This tells us that there is *nothing* in the Inner portion of the North Half; that is, that this Compartment is *empty*. And this we can represent by placing *two Grey* Counters in it, one in each Cell.
-
-Similarly we may represent the seven similar Propositions, in terms of x and m, or of y and m, viz. "No xm' exist", "No x'm exist", &c.
-
-These sixteen Propositions of Existence are the only ones that we shall have to represent on this Diagram.
-
-_Representation of Propositions of Relation in terms of x and m, or of y and m._
-
-Let us take, first, the Pair of Converse Propositions
-
-"Some x are m" = "Some m are x."
-
-We know that each of these is equivalent to the Proposition of Existence "Some xm exist", which we already know how to represent.
-
-Similarly for the seven similar Pairs, in terms of x and m, or of y and m.
-
-Let us take, next, the Pair of Converse Propositions
-
-"No x are m" = "No m are x."
-
-We know that each of these is equivalent to the Proposition of Existence "No xm exist", which we already know how to represent.
-
-Similarly for the seven similar Pairs, in terms of x and m, or of y and m. pg045 Let us take, next, the Proposition "All x are m."
-
-We know (see p. 18) that this is a *Double* Proposition, and equivalent to the *two* Propositions "Some x are m" and "No x are m' ", each of which we already know how to represent.
-
-Similarly for the fifteen similar Propositions, in terms of x and m, or of y and m.
-
-These thirty-two Propositions of Relation are the only ones that we shall have to represent on this Diagram.
-
-The Reader should now get his genial friend to question him on the following four Tables.
-
-The Victim should have nothing before him but a blank Triliteral Diagram, a Red Counter, and 2 Grey ones, with which he is to represent the various Propositions named by the Inquisitor, *e.g.* "No y' are m", "Some xm' exist", &c., &c. pg046 TABLE V.
-
-·---------------------------------------------------------· | ·---------------· Some xm exist | ·---------------· | | | | |  = Some x are m | | | | | | | ·---|---· |  = Some m are x | | ·---|---· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No xm exist | | | | | | | | ·---|---· | |  = No x are m | ·---|---· | | | | | | |  = No m are x | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some xm' exist | ·---------------· | | | (.) |  = Some x are m' | |( ) | ( )| | | | ·---|---· |  = Some m' are x | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No xm' exist | | | | | | | | ·---|---· | |  = No x are m' | ·---|---· | | | | | | |  = No m' are x | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some x'm exist | ·---------------· | | | | |  = Some x' are m | | | | | | | ·---|---· |  = Some m are x' | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | (.) | | | No x'm exist | |( )|( )| | | | | ·---|---· | |  = No x' are m | ·---|---· | | | | | | |  = No m are x' | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some x'm' exist | ·---------------· | | | | |  = Some x' are m'| | | | | | | ·---|---· |  = Some m' are x'| | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No x'm' exist | | | | | | | | ·---|---· | |  = No x' are m' | ·---|---· | | | | (.) | |  = No m' are x' |( ) | ( )| | | ·---------------· | ·---------------· | ·---------------------------------------------------------· pg047 TABLE VI.
-
-·---------------------------------------------------------· | ·---------------· Some ym exist | ·---------------· | | | | |  = Some y are m | | | | | | | ·---|---· |  = Some m are y | | ·---|---· | | | | | | | | | | |( )| | | | | |---|(.)|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No ym exist | |( )| | | | | | ·---|---· | |  = No y are m | ·---|---· | | | | | | |  = No m are y | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some ym' exist | ·---------------· | | | | |  = Some y are m' | |( ) | | | | | ·---|---· |  = Some m' are y | | ·---|---· | | | | | | | | | | | | | | | | |(.)|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | No ym' exist | | | | | | | | ·---|---· | |  = No y are m' | ·---|---· | | | | | | |  = No m' are y |( ) | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some y'm exist | ·---------------· | | | | |  = Some y' are m | | | | | | | ·---|---· |  = Some m are y' | | ·---|---· | | | | | | | | | | | |( )| | | | |---|---|(.)|---| ·-----------------· |---|---|---|---| | | | | | | | | No y'm exist | | |( )| | | | | ·---|---· | |  = No y' are m | ·---|---· | | | | | | |  = No m are y' | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· Some y'm' exist | ·---------------· | | | | |  = Some y' are m'| | | ( )| | | | ·---|---· |  = Some m' are y'| | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|(.)| ·-----------------· |---|---|---|---| | | | | | | | | No y'm' exist | | | | | | | | ·---|---· | |  = No y' are m' | ·---|---· | | | | | | |  = No m' are y' | | ( )| | | ·---------------· | ·---------------· | ·---------------------------------------------------------· pg048 TABLE VII.
-
-·---------------------------------------------------------· | ·---------------· | ·---------------· | | |( ) | ( )| All x are m | | (.) | | | | ·---|---· | | | ·---|---· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | | | | | | | | | ·---|---· | | All x are m' | ·---|---· | | | | | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | | All x' are m | | | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | (.) | | | | |( )|( )| | | | | ·---|---· | | All x' are m' | ·---|---· | | | |( ) | ( )| | | (.) | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | | All m are x | | | | | | | ·---|---· | | | ·---|---· | | | | | (.) | | | | |( )|( )| | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | |( )|( )| | | | | (.) | | | | | ·---|---· | | All m are x' | ·---|---· | | | | | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | (.) | All m' are x | |( ) | ( )| | | | ·---|---· | | | ·---|---· | | | | | | | | | | | | | | | | |---|---|---|---| ·-----------------· |---|---|---|---| | | | | | | | | | | | | | | | | ·---|---· | | All m' are x' | ·---|---· | | | |( ) | ( )| | | (.) | | | ·---------------· | ·---------------· | ·---------------------------------------------------------· pg049 TABLE VIII.
-
-·---------------------------------------------------------· | ·---------------· | ·---------------· | | |( ) | | All y are m | | | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | |( )| | | | | |---|(.)|---|---| ·-----------------· |(.)|---|---|---| | | | | | | | | | |( )| | | | | | ·---|---· | | All y are m' | ·---|---· | | | |( ) | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | ( )| All y' are m | | | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | | |( )| | | | |---|---|(.)|---| ·-----------------· |---|---|---|(.)| | | | | | | | | | | |( )| | | | | ·---|---· | | All y' are m' | ·---|---· | | | | | ( )| | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | | All m are y | | | | | | | ·---|---· | | | ·---|---· | | | | | |( )| | | | |( )| | | | | |---|(.)|---|---| ·-----------------· |---|---|(.)|---| | | | | |( )| | | | |( )| | | | | | ·---|---· | | All m are y' | ·---|---· | | | | | | | | | | | | ·---------------· | ·---------------· | |---------------------------------------------------------| | ·---------------· | ·---------------· | | | | ( )| All m' are y | |( ) | | | | | ·---|---· | | | ·---|---· | | | | | | | | | | | | | | | | |(.)|---|---|---| ·-----------------· |---|---|---|(.)| | | | | | | | | | | | | | | | | ·---|---· | | All m' are y' | ·---|---· | | | | | ( )| | |( ) | | | | ·---------------· | ·---------------· | ·---------------------------------------------------------·
-
-pg050
+[The Reader had better provide himself with 4 Red Counters and 5 Grey ones.]
 
 CHAPTER III.
 
-_REPRESENTATION OF TWO PROPOSITIONS OF RELATION, ONE IN TERMS OF x AND m, AND THE OTHER IN TERMS OF y AND m, ON THE SAME DIAGRAM._
+*REPRESENTATION OF PROPOSITIONS.*
 
-The Reader had better now begin to draw little Diagrams for himself, and to mark them with the Digits "I" and "O", instead of using the Board and Counters: he may put a "I" to represent a *Red* Counter (this may be interpreted to mean "There is at least *one* Thing here"), and a "O" to represent a *Grey* Counter (this may be interpreted to mean "There is *nothing* here").
+*Introductory.*
 
-The Pair of Propositions, that we shall have to represent, will always be, one in terms of x and m, and the other in terms of y and m.
+Henceforwards, in stating such Propositions as "Some x-Things exist" or "No x-Things are y-Things", I shall omit the word "Things", which the Reader can supply for himself, and shall write them as "Some x exist" or "No x are y".
 
-When we have to represent a Proposition beginning with "All", we break it up into the *two* Propositions to which it is equivalent.
+[Note that the word "Things" is here used with a special meaning, as explained at p. 23.]
 
-When we have to represent, on the same Diagram, Propositions, of which some begin with "Some" and others with "No", we represent the *negative* ones *first*. This will sometimes save us from having to put a "I" "on a fence" and afterwards having to shift it into a Cell.
+A Proposition, containing only *one* of the Letters used as Symbols for Attributes, is said to be '=Uniliteral='.
 
-[Let us work a few examples.
+[For example, "Some x exist", "No y' exist", &c.]
 
-"No x are m'; No y' are m".
+A Proposition, containing *two* Letters, is said to be ='Biliteral'=.
 
-Let us first represent "No x are m'". This gives us Diagram a.
+[For example, "Some xy' exist", "No x' are y", &c.]
 
-Then, representing "No y' are m" on the same Diagram, we get Diagram b. pg051 a b ·---------------· ·---------------· |(O) | (O)| |(O) | (O)| | ·---|---· | | ·---|---· | | | | | | | | |(O)| | |---|---|---|---| |---|---|---|---| | | | | | | | |(O)| | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------·
+A Proposition is said to be '=in terms of=' the Letters it contains, whether with or without accents.
 
-"Some m are x; No m are y".
+[Thus, "Some xy' exist", "No x' are y", &c., are said to be _in terms of_ x and y.]
 
-If, neglecting the Rule, we were begin with "Some m are x", we should get Diagram a.
+*Representation of Propositions of Existence.*
 
-And if we were then to take "No m are y", which tells us that the Inner N.W. Cell is *empty*, we should be obliged to take the "I" off the fence (as it no longer has the choice of *two* Cells), and to put it into the Inner N.E. Cell, as in Diagram c.
+Let us take, first, the Proposition "Some x exist".
 
-This trouble may be saved by beginning with "No m are y", as in Diagram b.
+[Note that this Proposition is (as explained at p. 12) equivalent to "Some existing Things are x-Things."]
 
-And *now*, when we take "Some m are x", there is no fence to sit on! The "I" has to go, at once, into the N.E. Cell, as in Diagram c.
+This tells us that there is at least *one* Thing in the North Half; that is, that the North Half is *occupied*. And this we can evidently represent by placing a *Red* Counter (here represented by a *dotted* circle) on the partition which divides the North Half.
 
-a b c ·---------------· ·---------------· ·---------------· | | | | | | | | | | ·---|---· | | ·---|---· | | ·---|---· | | | (I) | | | |(O)| | | | |(O)|(I)| | |---|---|---|---| |---|---|---|---| |---|---|---|---| | | | | | | |(O)| | | | |(O)| | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | | | ·---------------· ·---------------· ·---------------·
+[In the "books" example, this Proposition would be "Some old books exist".]
 
-"No x' are m'; All m are y".
+Similarly we may represent the three similar Propositions "Some x' exist", "Some y exist", and "Some y' exist".
 
-Here we begin by breaking up the Second into the two Propositions to which it is equivalent. Thus we have *three* Propositions to represent, viz.--
+[The Reader should make out all these for himself. In the "books" example, these Propositions would be "Some new books exist", &c.]
 
-(1) "No x' are m'; (2) Some m are y; (3) No m are y'".
+Let us take, next, the Proposition "No x exist".
 
-These we will take in the order 1, 3, 2.
+This tells us that there is *nothing* in the North Half; that is, that the North Half is *empty*; that is, that the North-West Cell and the North-East Cell are both of them *empty*. And this we can represent by placing *two Grey* Counters in the North Half, one in each Cell.
 
-First we take No. (1), viz. "No x' are m'". This gives us Diagram a. pg052 Adding to this, No. (3), viz. "No m are y'", we get Diagram b.
+[The Reader may perhaps think that it would be enough to place a *Grey* Counter on the partition in the North Half, and that, just as a *Red* Counter, so placed, would mean "This Half is *occupied*", so a *Grey* one would mean "This Half is *empty*".
 
-This time the "I", representing No. (2), viz. "Some m are y," has to sit on the fence, as there is no "O" to order it off! This gives us Diagram c.
+This, however, would be a mistake. We have seen that a *Red* Counter, so placed, would mean "At least *one* of these two Cells is occupied: possibly *both* are." Hence a *Grey* one would merely mean "At least *one* of these two Cells is empty: possibly *both* are". But what we have to represent is, that both Cells are *certainly* empty: and this can only be done by placing a *Grey* Counter in *each* of them.
 
-a b c ·---------------· ·---------------· ·---------------· | | | | | | | | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | |(O)| | | | |(O)| | |---|---|---|---| |---|---|---|---| |---|(I)|---|---| | | | | | | | |(O)| | | | |(O)| | | ·---|---· | | ·---|---· | | ·---|---· | |(O) | (O)| |(O) | (O)| |(O) | (O)| ·---------------· ·---------------· ·---------------·
+In the "books" example, this Proposition would be "No old books exist".] pg029 Similarly we may represent the three similar Propositions "No x' exist", "No y exist", and "No y' exist".
 
-"All m are x; All y are m".
+[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No new books exist", &c.]
 
-Here we break up *both* Propositions, and thus get *four* to represent, viz.--
+Let us take, next, the Proposition "Some xy exist".
 
-(1) "Some m are x; (2) No m are x'; (3) Some y are m; (4) No y are m'".
+This tells us that there is at least *one* Thing in the North-West Cell; that is, that the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it.
 
-These we will take in the order 2, 4, 1, 3.
+[In the "books" example, this Proposition would be "Some old English books exist".]
 
-First we take No. (2), viz. "No m are x'". This gives us Diagram a.
+Similarly we may represent the three similar Propositions "Some xy' exist", "Some x'y exist", and "Some x'y' exist".
 
-To this we add No. (4), viz. "No y are m'", and thus get Diagram b.
+[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "Some old foreign books exist", &c.]
 
-If we were to add to this No. (1), viz. "Some m are x", we should have to put the "I" on a fence: so let us try No. (3) instead, viz. "Some y are m". This gives us Diagram c.
+Let us take, next, the Proposition "No xy exist".
 
-And now there is no need to trouble about No. (1), as it would not add anything to our information to put a "I" on the fence. The Diagram *already* tells us that "Some m are x".]
+This tells us that there is *nothing* in the North-West Cell; that is, that the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it.
 
-a b c ·---------------· ·---------------· ·---------------· | | | |(O) | | |(O) | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | | | | | |(I)| | | |---|---|---|---| |---|---|---|---| |---|---|---|---| | |(O)|(O)| | | |(O)|(O)| | | |(O)|(O)| | | ·---|---· | | ·---|---· | | ·---|---· | | | | |(O) | | |(O) | | ·---------------· ·---------------· ·---------------·
+[In the "books" example, this Proposition would be "No old English books exist".]
 
-[Work Examples § =1=, 9-12 (p. 97); § =2=, 1-20 (p. 98).]
+Similarly we may represent the three similar Propositions "No xy' exist", "No x'y exist", and "No x'y' exist".
 
-pg053
+[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No old foreign books exist", &c.] pg030 We have seen that the Proposition "No x exist" may be represented by placing *two Grey* Counters in the North Half, one in each Cell.
+
+We have also seen that these two *Grey* Counters, taken *separately*, represent the two Propositions "No xy exist" and "No xy' exist".
+
+Hence we see that the Proposition "No x exist" is a *Double* Proposition, and is equivalent to the *two* Propositions "No xy exist" and "No xy' exist".
+
+[In the "books" example, this Proposition would be "No old books exist".
+
+Hence this is a *Double* Proposition, and is equivalent to the *two* Propositions "No old *English* books exist" and "No old *foreign* books exist".]
+
+*Representation of Propositions of Relation.*
+
+Let us take, first, the Proposition "Some x are y".
+
+This tells us that at least *one* Thing, in the *North* Half, is also in the *West* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it.
+
+[Note that the *Subject* of the Proposition settles which *Half* we are to use; and that the *Predicate* settles in which *portion* of it we are to place the Red Counter.
+
+In the "books" example, this Proposition would be "Some old books are English".]
+
+Similarly we may represent the three similar Propositions "Some x are y'", "Some x' are y", and "Some x' are y'".
+
+[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "Some old books are foreign", &c.] pg031 Let us take, next, the Proposition "Some y are x".
+
+This tells us that at least *one* Thing, in the *West* Half, is also in the *North* Half. Hence it must be in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *occupied*. And this we can represent by placing a *Red* Counter in it.
+
+[In the "books" example, this Proposition would be "Some English books are old".]
+
+Similarly we may represent the three similar Propositions "Some y are x'", "Some y' are x", and "Some y' are x'".
+
+[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "Some English books are new", &c.]
+
+We see that this *one* Diagram has now served to represent no less than *three* Propositions, viz.
+
+Hence these three Propositions are equivalent.
+
+[In the "books" example, these Propositions would be
+
+(1) "Some old English books exist; (2) Some old books are English; (3) Some English books are old".]
+
+The two equivalent Propositions, "Some x are y" and "Some y are x", are said to be '=Converse=' to each other; and the Process, of changing one into the other, is called '=Converting=', or '=Conversion='.
+
+[For example, if we were told to convert the Proposition
+
+"Some apples are not ripe,"
+
+we should first choose our Univ. (say "fruit"), and then complete the Proposition, by supplying the Substantive "fruit" in the Predicate, so that it would be
+
+"Some apples are not-ripe fruit";
+
+and we should then convert it by interchanging its Terms, so that it would be
+
+"Some not-ripe fruit are apples".] pg032 Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--
+
+Let us take, next, the Proposition "No x are y".
+
+This tell us that no Thing, in the *North* Half, is also in the *West* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. Hence the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it.
+
+[In the "books" example, this Proposition would be "No old books are English".]
+
+Similarly we may represent the three similar Propositions "No x are y'", and "No x' are y", and "No x' are y'".
+
+[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No old books are foreign", &c.]
+
+Let us take, next, the Proposition "No y are x".
+
+This tells us that no Thing, in the *West* Half, is also in the *North* Half. Hence there is *nothing* in the space *common* to them, that is, in the *North-West Cell*. That is, the North-West Cell is *empty*. And this we can represent by placing a *Grey* Counter in it.
+
+[In the "books" example, this Proposition would be "No English books are old".]
+
+Similarly we may represent the three similar Propositions "No y are x'", "No y' are x", and "No y' are x'".
+
+[The Reader should make out all these for himself. In the "books" example, these three Propositions would be "No English books are new", &c.] pg033 ·-------· |( )| | |---|---| | | | ·-------·
+
+We see that this *one* Diagram has now served to present no less than *three* Propositions, viz.
+
+Hence these three Propositions are equivalent.
+
+[In the "books" example, these Propositions would be
+
+(1) "No old English books exist; (2) No old books are English; (3) No English books are old".]
+
+The two equivalent Propositions, "No x are y" and "No y are x", are said to be 'Converse' to each other.
+
+[For example, if we were told to convert the Proposition
+
+"No porcupines are talkative",
+
+we should first choose our Univ. (say "animals"), and then complete the Proposition, by supplying the Substantive "animals" in the Predicate, so that it would be
+
+"No porcupines are talkative animals", and we should then convert it, by interchanging its Terms, so that it would be
+
+"No talkative animals are porcupines".]
+
+Similarly we may represent the three similar Trios of equivalent Propositions; the whole Set of *four* Trios being as follows:--
+
+Let us take, next, the Proposition "All x are y".
+
+We know (see p. 17) that this is a *Double* Proposition, and equivalent to the *two* Propositions "Some x are y" and "No x are y'", each of which we already know how to represent.
+
+[Note that the *Subject* of the given Proposition settles which *Half* we are to use; and that its *Predicate* settles in which *portion* of that Half we are to place the Red Counter.]
+
+pg034 TABLE II.
+
+Similarly we may represent the seven similar Propositions "All x are y'", "All x' are y", "All x' are y'", "All y are x", "All y are x'", "All y' are x", and "All y' are x'".
+
+Let us take, lastly, the Double Proposition "Some x are y and some are y'", each part of which we already know how to represent.
+
+Similarly we may represent the three similar Propositions, "Some x' are y and some are y'", "Some y are x and some are x'", "Some y' are x and some are x'".
+
+The Reader should now get his genial friend to question him, severely, on these two Tables. The *Inquisitor* should have the Tables before him: but the *Victim* should have nothing but a blank Diagram, and the Counters with which he is to represent the various Propositions named by his friend, e.g. "Some y exist", "No y' are x", "All x are y", &c. &c.
+
+pg035 TABLE III.
+
+CHAPTER IV.
+
+*INTERPRETATION OF BILITERAL DIAGRAM WHEN MARKED WITH COUNTERS.*
+
+The Diagram is supposed to be set before us, with certain Counters placed upon it; and the problem is to find out what Proposition, or Propositions, the Counters represent.
+
+As the process is simply the reverse of that discussed in the previous Chapter, we can avail ourselves of the results there obtained, as far as they go.
+
+First, let us suppose that we find a *Red* Counter placed in the North-West Cell.
+
+We know that this represents each of the Trio of equivalent Propositions
+
+"Some xy exist" = "Some x are y" = "Some y are x".
+
+Similarly we may interpret a *Red* Counter, when placed in the North-East, or South-West, or South-East Cell.
+
+Next, let us suppose that we find a *Grey* Counter placed in the North-West Cell.
+
+We know that this represents each of the Trio of equivalent Propositions
+
+Similarly we may interpret a *Grey* Counter, when placed in the North-East, or South-West, or South-East Cell. pg037 Next, let us suppose that we find a *Red* Counter placed on the partition which divides the North Half.
+
+We know that this represents the Proposition "Some x exist."
+
+Similarly we may interpret a *Red* Counter, when placed on the partition which divides the South, or West, or East Half.
+
+Next, let us suppose that we find *two Red* Counters placed in the North Half, one in each Cell.
+
+We know that this represents the *Double* Proposition "Some x are y and some are y'".
+
+Similarly we may interpret *two Red* Counters, when placed in the South, or West, or East Half.
+
+Next, let us suppose that we find *two Grey* Counters placed in the North Half, one in each Cell.
+
+We know that this represents the Proposition "No x exist".
+
+Similarly we may interpret *two Grey* Counters, when placed in the South, or West, or East Half.
+
+Lastly, let us suppose that we find a *Red* and a *Grey* Counter placed in the North Half, the *Red* in the North-*West* Cell, and the *Grey* in the North-*East* Cell.
+
+We know that this represents the Proposition, "All x are y".
+
+[Note that the *Half*, occupied by the two Counters, settles what is to be the *Subject* of the Proposition, and that the *Cell*, occupied by the *Red* Counter, settles what is to be its *Predicate*.] pg038 Similarly we may interpret a *Red* and a *Grey* counter, when placed in any one of the seven similar positions
+
+Red in North-East, Grey in North-West; Red in South-West, Grey in South-East; Red in South-East, Grey in South-West; Red in North-West, Grey in South-West; Red in South-West, Grey in North-West; Red in North-East, Grey in South-East; Red in South-East, Grey in North-East.
+
+Once more the genial friend must be appealed to, and requested to examine the Reader on Tables II and III, and to make him not only *represent* Propositions, but also *interpret* Diagrams when marked with Counters.
+
+The Questions and Answers should be like this:--
+
+Q. Represent "No x' are y'." A. Grey Counter in S.E. Cell. Q. Interpret Red Counter on E. partition. A. "Some y' exist." Q. Represent "All y' are x." A. Red in N.E. Cell; Grey in S.E. Q. Interpret Grey Counter in S.W. Cell. A. "No x'y exist" = "No x' are y" = "No y are x'". &c., &c.
+
+At first the Examinee will need to have the Board and Counters before him; but he will soon learn to dispense with these, and to answer with his eyes shut or gazing into vacancy.
