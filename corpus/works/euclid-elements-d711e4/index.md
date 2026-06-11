@@ -6,7 +6,7 @@ author:
   name: Euclid
   biography: Compiler of the Elements, the most copied mathematical text in history. Almost nothing is known of his life beyond his city and his book.
   nationality: Greek
-era: Ancient
+era: Hellenistic
 genre: Philosophy
 language: Greek
 language_direction: ltr

@@ -8,7 +8,7 @@ author:
   birth_year: -428
   death_year: -348
   nationality: Greek
-era: Ancient
+era: Classical
 genre: Philosophy
 language: Greek
 language_direction: ltr

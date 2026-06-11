@@ -5,7 +5,7 @@ title: To Philip, I
 author:
   name: Isocrates
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Classical
 genre: Classics
 language: Greek
 language_direction: ltr

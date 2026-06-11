@@ -5,7 +5,7 @@ title: De unius in republica dominatione, populari statu, et paucorum imperio
 author:
   name: Plutarch
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Greek
 language_direction: ltr

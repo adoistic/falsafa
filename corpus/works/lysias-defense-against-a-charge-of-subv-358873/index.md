@@ -5,7 +5,7 @@ title: Defense Against a Charge of Subverting the Democracy
 author:
   name: Lysias
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Classical
 genre: Classics
 language: Greek
 language_direction: ltr

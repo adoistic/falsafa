@@ -3,9 +3,9 @@ id: "73fa2439-e829-540d-92c6-edd7df56e49c"
 slug: "unknown-select-letters-73fa24"
 title: Select Letters
 author:
-  name: Unknown
+  name: "Augustine of Hippo"
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Late Antiquity
 genre: Classics
 language: Latin
 language_direction: ltr

@@ -5,7 +5,7 @@ title: De causis et signis diuturnorum morborum libri duo
 author:
   name: Aretaeus of Cappadocia
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Greek
 language_direction: ltr

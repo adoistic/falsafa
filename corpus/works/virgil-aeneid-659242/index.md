@@ -8,7 +8,7 @@ author:
   birth_year: -70
   death_year: -19
   nationality: Roman
-era: Ancient
+era: Imperial
 genre: Literature
 language: Latin
 language_direction: ltr

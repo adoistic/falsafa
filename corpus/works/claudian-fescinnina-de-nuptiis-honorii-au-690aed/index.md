@@ -5,7 +5,7 @@ title: Fescinnina de nuptiis Honorii Augusti
 author:
   name: Claudian
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Late Antiquity
 genre: Classics
 language: Latin
 language_direction: ltr

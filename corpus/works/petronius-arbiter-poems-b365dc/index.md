@@ -5,7 +5,7 @@ title: Poems
 author:
   name: Petronius Arbiter
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Latin
 language_direction: ltr

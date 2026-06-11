@@ -5,7 +5,7 @@ title: The Epistle to Diogentus
 author:
   name: "Pseudo-Justinus Martyr"
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Late Antiquity
 genre: Classics
 language: Greek
 language_direction: ltr

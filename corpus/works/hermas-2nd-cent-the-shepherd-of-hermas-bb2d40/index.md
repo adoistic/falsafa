@@ -5,7 +5,7 @@ title: The Shepherd of Hermas
 author:
   name: Hermas, 2nd cent.
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Greek
 language_direction: ltr

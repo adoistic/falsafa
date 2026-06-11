@@ -5,7 +5,7 @@ title: Answer to Philip’s Letter
 author:
   name: Demosthenes
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Classical
 genre: Classics
 language: Greek
 language_direction: ltr

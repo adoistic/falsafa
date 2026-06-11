@@ -5,7 +5,7 @@ title: "Ab Urbe Condita, books 8-10 - 15s"
 author:
   name: Titus Livius (Livy)
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Latin
 language_direction: ltr

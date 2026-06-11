@@ -5,7 +5,7 @@ title: Comparison of Agis and Cleomenes and the Gracchi
 author:
   name: Plutarch
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Greek
 language_direction: ltr

@@ -5,7 +5,7 @@ title: Phormio
 author:
   name: Terence
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Hellenistic
 genre: Classics
 language: Latin
 language_direction: ltr

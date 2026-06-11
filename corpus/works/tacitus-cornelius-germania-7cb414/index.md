@@ -5,7 +5,7 @@ title: Germania
 author:
   name: Tacitus, Cornelius
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Latin
 language_direction: ltr

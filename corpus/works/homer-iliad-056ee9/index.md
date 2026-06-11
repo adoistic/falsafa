@@ -6,7 +6,7 @@ author:
   name: Homer
   biography: The name the Greek tradition gave to the poet of the Iliad and Odyssey, the two epics at the foundation of Greek literature. Whether one poet or a tradition of singers stands behind the name is an old and open question.
   nationality: Greek
-era: Ancient
+era: Classical
 genre: Literature
 language: Greek
 language_direction: ltr

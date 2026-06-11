@@ -5,7 +5,7 @@ title: Curculio
 author:
   name: Plautus, Titus Maccius
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Hellenistic
 genre: Classics
 language: Latin
 language_direction: ltr

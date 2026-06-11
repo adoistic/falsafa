@@ -3,9 +3,9 @@ id: "4806a5b9-78e5-54fd-be3d-eab24275020c"
 slug: "unknown-ecclesiastical-history-of-the-en-4806a5"
 title: Ecclesiastical History of the English Nation
 author:
-  name: Unknown
+  name: "Bede"
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Medieval
 genre: Classics
 language: Latin
 language_direction: ltr

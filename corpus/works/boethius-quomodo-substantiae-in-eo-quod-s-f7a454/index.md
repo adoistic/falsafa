@@ -5,7 +5,7 @@ title: Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substantialia
 author:
   name: Boethius
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Late Antiquity
 genre: Classics
 language: Latin
 language_direction: ltr

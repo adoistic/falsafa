@@ -3,7 +3,7 @@ import Base from "../../layouts/Base.astro";
 import { manifest } from "../../lib/corpus";
 
 const m = manifest();
-const eraOrder = ["Ancient", "Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
+const eraOrder = ["Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
 const eras = eraOrder
   .map((label) => {
     const slug = label.toLowerCase().replace(/[^a-z0-9]+/g, "-");

@@ -8,7 +8,7 @@ author:
   birth_year: -99
   death_year: -55
   nationality: Roman
-era: Ancient
+era: Hellenistic
 genre: Philosophy
 language: Latin
 language_direction: ltr

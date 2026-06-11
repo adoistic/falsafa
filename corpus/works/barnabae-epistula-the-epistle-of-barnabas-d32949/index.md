@@ -5,7 +5,7 @@ title: The Epistle of Barnabas
 author:
   name: Barnabae Epistula
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Greek
 language_direction: ltr

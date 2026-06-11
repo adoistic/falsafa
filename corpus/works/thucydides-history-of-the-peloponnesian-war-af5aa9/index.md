@@ -8,7 +8,7 @@ author:
   birth_year: -460
   death_year: -400
   nationality: Greek
-era: Ancient
+era: Classical
 genre: History
 language: Greek
 language_direction: ltr

@@ -5,7 +5,7 @@ title: The Martyrdom of Polycarp
 author:
   name: Martyrium Polycarpi
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Imperial
 genre: Classics
 language: Greek
 language_direction: ltr

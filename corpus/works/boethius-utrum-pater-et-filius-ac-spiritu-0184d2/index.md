@@ -5,7 +5,7 @@ title: Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantialiter P
 author:
   name: Boethius
   biography: Author record from the Perseus Digital Library canonical catalogs.
-era: Ancient
+era: Late Antiquity
 genre: Classics
 language: Latin
 language_direction: ltr
