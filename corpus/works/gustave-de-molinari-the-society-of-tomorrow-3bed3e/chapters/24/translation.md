@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 2394
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 Although man shares many of his faculties with the rest of animal creation, he only possesses others, or enjoys them in a greater degree. This advantage, coupled with an organism peculiarly adapted to the practical application of any faculty, completes the endowment by which he was enabled to rise superior to all rivals, and to achieve civilisation. Man is the subject of our investigations, and it is unnecessary to discuss whether his superiority is due to one final act of creation, or whether it is no more than the product of a lengthy process of evolution, triumphant issue of an Intelligence clothed in material form. For present purposes, we need investigate nothing more than—"What was the environment in which this being was placed, and what is the scope of his activities?"

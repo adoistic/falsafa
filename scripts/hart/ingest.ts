@@ -136,6 +136,7 @@ for (const w of works.works) {
       chapter_number: i + 1,
       word_count: wordCount,
       is_original: false,
+      translator: w.translator,
     };
   });
 

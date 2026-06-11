@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 926
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 The majority of the European States allege industrial and commercial considerations, the need of new markets, to support their conquest and annexation of territory belonging to so-called inferior races. The intention is sufficiently praise-worthy, but involves a question of the cost and profit derived from these undertakings. Now it is an unfortunate fact that Spain was ruined by her colonial aspirations, and few recent programmes of the same kind have improved the financial position or augmented the wealth either of conqueror or conquered. The manufacturer or merchant, who spent ten thousand a year in trade incidentals in order to sell ten thousand pounds' worth of goods, would be justly regarded as wanting in sanity, and his family would rightly place him under restraint, at least remove him from the control of a business. State colonisation is, meanwhile, conducted on this futile basis, as will be evident from a glance at the following figures from an article by M. Paul Louis in the Indépendance Belge:—

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 3747
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 "If," wrote Condorcet, "there is a science which forecasts, guides, and promotes the advance of the human race, it must be based on the records of past progress." 2 But we must go back still further. We must return to the first causes of that progress which the human race has realised since its appearance upon earth, and of the progress that it is still destined to realise. We must have an understanding of man, the laws which determine and govern his activities, the nature and circumstances of the environment in which he has been placed for the fulfilment of a purpose still hidden from his eyes.

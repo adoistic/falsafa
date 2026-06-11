@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1840
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 Our consideration of the natural laws which govern the production and distribution of the materials of life has now led us to the following conclusions:—

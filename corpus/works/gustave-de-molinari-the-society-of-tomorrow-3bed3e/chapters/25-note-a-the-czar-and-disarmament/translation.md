@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 2597
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 The Czar's manifesto in favour of international disarmament affords clear proof that kings themselves are feeling the disastrous consequences of the continued State of War. On August 12—new style, August 24—1898, Count Mouravieff, by order of the Emperor, handed a copy of the following Note to the representative of every Power accredited to the Court of St. Petersburg:—

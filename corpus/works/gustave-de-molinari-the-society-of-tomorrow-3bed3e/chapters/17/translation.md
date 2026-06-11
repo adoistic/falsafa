@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1050
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 Under this new order the national association, freely constituted, contracts with a firm or company to ensure its internal and external security; provincial and other local associations continue the analogy, contracting for the performance of naturally collective, though local, services. The particular contributions required under these contracts are levied directly upon all associates living within the localities served, and their payment relieves the contributors of all further obligations or services.

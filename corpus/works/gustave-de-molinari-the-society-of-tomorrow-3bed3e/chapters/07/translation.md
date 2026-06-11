@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1176
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 Since profit is the motive of war no less than of all other human actions, an alliance between the arts of production and destruction soon lessened the inducement which prompted tribes to live by pillage and violence alone. Raiding a civilised community became less and less profitable as the art and matériel of war came to require a moral force, an amount of knowledge and capital, which only civilisation can command. Expeditions, undertaken for the sake of pure pillage, therefore ceased to return those enormous profits which had made them the favourite occupation of barbarian hordes. Tribal incursions tend to bring no profit, or to secure such hazardous and unsatisfactory returns that what was hitherto a rule becomes increasingly rare, occurs only on the most distant and least guarded frontiers, and is finally abandoned. Then the old order is reversed, for the civilised State becomes the aggressor, subdues the barbarian, and occupies his place. This expansion of civilisation at the expense of the uncivilised began many centuries ago, and when its motive is naturally exhausted—probably within the present century—the cause of many wars will have passed away.

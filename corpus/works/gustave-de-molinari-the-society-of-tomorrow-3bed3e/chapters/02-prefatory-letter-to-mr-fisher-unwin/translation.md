@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 415
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 You are about to publish an English version of my friend M. de Molinari's book, "La Société Future," and you do me the honour to request a few lines of introduction from my pen. To a write adequately of such a book would require time that my age and obligations do not, unfortunately, permit me to give. Since, however, the opportunity does occur, I should be most unwilling to let the book appear without at least testifying my esteem and admiration for the character and talent of the man who is to-day, unless I am mistaken, the doyen of our economists—I should say of our liberal economists—of the men with whom, though, alas! few in number, I have been happy to stand side by side during more than half a century.

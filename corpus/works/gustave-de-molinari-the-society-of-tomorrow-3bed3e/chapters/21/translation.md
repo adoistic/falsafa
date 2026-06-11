@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1950
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 We may take it as a truism that population is limited by the means of subsistence. Means of subsistence consist, in the first place, of those employments which furnish—in whatever guise—profits, interests, dividends, appointments, the entire income of the world; secondly, of the annual sum available for the maintenance of those members of society who possess no means, or insufficient means, of subsistence, and who consequently depend more or less on public or private charity.

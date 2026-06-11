@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 851
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 The formation of primitive communities has been ascribed to a peculiar feeling in man of sympathy towards his kind, but more careful observation proves that humanity owns no such innate sentiment. The appearance of such a feeling results from a need for mutual support, and from the interests evoked by this need. A community of interests and needs is the foundation of human friendship, while the opposition of needs and interests is not only capable of provoking antipathy, but it is notorious that nothing on earth has the same power of moving a man to violent and implacable hatred as a member of his own species. Human associations were, in fact, the product of simple necessity. Thus, and only thus, could man realise pleasures and avoid sufferings which he must otherwise have been satisfied to imagine or endure.

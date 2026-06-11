@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1627
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 Labour, like capital, has a necessary rate of remuneration towards which it gravitates under the impulse of competition—the rate-current for service. The first element in this rate is the sum of the cost of producing this agent of production—costs of upbringing, education, &c. These costs must be made good if the labour of successive generations is to be continuously available for the service of production. The cost of maintaining the worker has next to be added, and the rates of both costs vary with the nature of the work to be performed. The second element is the rate of remuneration required to induce the possessor of productive forces to devote those services to the cause of production. But if this inducement is indispensable in the case of workers possessing enough resources to be able to exist without labour, it is not so for the majority of mankind which depends upon the product of labour for the bare necessaries of existence. Only those individuals who possess an independent subsistence, or such resources as allow of their awaiting, or choosing, the opportunity or manner of their labour, can command a premium over and above the necessary wage of production.

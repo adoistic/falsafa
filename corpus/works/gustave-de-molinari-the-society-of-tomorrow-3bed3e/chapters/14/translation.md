@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1047
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 Governments, possessed, under the old system, of an unlimited power over the goods and persons of the subject, were naturally tempted to abuse this power for their own immediate advantage, or for that of the political and warlike society whose mandate they held. These motives might lead them to make large increases in the charges and obligations of the subject masses, but never to annex those industries which supported that body and consequently themselves. This was a natural consequence of the self-imposed limitation which confined the oligarchical owners of the State to the functions of government, military or civil. Their body had no motive for appropriating industrial occupations, at that period of human development both reputedly and actually inferior, but influenced government solely for the purpose of inducing armed acquisition of new territories and new subjects, consequently of increasing its peculiar spheres of activity. Hence governments of the old order seldom trespassed on the domain of private enterprise. If they did reserve a monopoly in certain classes of production—in the mintage of money, the manufacture of salt or tobacco—it was from purely fiscal considerations. Even these monopolies were not exercised directly, but farmed, with most other taxes, experience showing that a "farm" gave better returns than direct governmental monopolies.

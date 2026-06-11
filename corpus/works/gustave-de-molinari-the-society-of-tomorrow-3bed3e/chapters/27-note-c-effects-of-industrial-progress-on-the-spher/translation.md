@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 217
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 In a paper in the Forum of April, 1898, Mr. W. T. Harris asks, "Is there really work for all?" To solve this problem he proceeds to quote statistics, showing the changes which have occurred in the different classes of occupation during a twenty years' period in the United States.

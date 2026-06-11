@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1537
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 We have now to examine the methods and conditions by, and under, which governments maintain international peace and establish internal security. As soon as nations emerge from their subservience to the State of War, and their constituent parts are free to form new groups or to erect autonomous States, the dangers of revolution and civil war, which are the fruit of compulsory union between heterogeneous and incompatible elements, will disappear together with the motives and pretexts previously used to justify appeals for external intervention. The "States Association" will only have to consider disputes and dissensions occurring between members, and it will refer these to tribunals maintained for the purpose. These tribunals will apply the same legal rules which govern the trial of actions and causes between individual litigants, and their verdicts will be enforced by the collective sanction of the association. Associated States will thus obtain external security by the best possible means, and at the least possible cost, while each will secure internal security under analogous conditions, and by a collateral system.

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1666
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 A permanent State of Peace among all civilised nations may be assured by substituting their collective guarantee of external security for the present system, by which each State is its own guarantor. The cost of this superannuated system is enormous and constantly rising, while its total inability to guarantee the weak against the strong furnishes convincing proof that the moment cannot be long deferred before this momentous change forces its own acceptance. Taught by an identical need, primitive society long ago learned how to establish a collective assurance of the security of the individual horde, clan, or tribe. Man, in isolation, had expended the greater part of his time in obtaining subsistence and defending himself from attack. He had, therefore, bought those services at the highest price, but association at once reduced their cost. The collective guarantee continued to demand considerable exertions on the part of each associate, but there was a clear saving both of time and effort, and the resultant security was incomparably greater than anything yet obtained by individual exertion.

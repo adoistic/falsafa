@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1903
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 From an official statement of the national expenditures of the Republic of France the following computations are derived for the year 1901:

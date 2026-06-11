@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 2316
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 Articles of naturally individual consumption can be produced directly—by the same persons who need them, or indirectly—as when an individual produces one article in order to exchange it for another of which he is in need. The law of the Economy of Power is daily tending to make the latter process more and more general. One or more industries specialise in the production of every article of consumption, and as each field of industry is shared by several rivals their products or services compete in the markets. The consumer, needing these products, purchases them with products or services of undertakings in which his own capital or labour co-operates; or he obtains them with a sum of money, an equivalent which is exchangeable for almost every product or service.

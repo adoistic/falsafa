@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1689
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 As long as war was the necessary guarantee of security— guarantee whose failure must have continually reduced human societies to a state akin to mere animalism—the sacrifices which it entailed, and the losses which it caused, were amply compensated by its contribution towards the permanence of civilisation. But this compensation has ceased to exist since the powers of destruction and production, attained under its impulse, assured a decisive preponderance to the civilised nations. More, the very progress of which war was the prime agent has increased its burden. Modern war entails a greater expenditure of life and capital, and, directly or indirectly, greater damage. And even if it is impossible to calculate the sum of these losses and this expense, we can obtain some idea of their bulk by a summary survey.

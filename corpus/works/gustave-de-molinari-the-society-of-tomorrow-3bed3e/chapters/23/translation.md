@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1645
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 The nations of the civilised world began to seek means of expansion during the fifteenth century, and the process has never been more active than at the present time. The white man has subjugated the greater part of the globe. America and Australia are occupied, Africa is in process of partition, and the greater part of Asia is already in a state of dependence. Thanks to the overwhelming power of their armaments and capital, the white races meet with little real opposition, and may style themselves masters of the world.

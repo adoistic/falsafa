@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 531
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 No sooner did the exploitation of conquered territory and subject populations become general, with the consequent rise of Political States— of the States— than the conquering communities became involved in two other forms of competition. Certain particularly warlike tribes persisted in the practices of destruction and of pillage, while the States, as between themselves, sought every possible means of expansion.

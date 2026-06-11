@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4242
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 It is fortunate for the modern world that there is a considerable number of persons who have time, inclination, and ability to inquire how human communities may best secure a prosperous existence and ultimate salvation from disasters or even annihilation. It is fortunate that the necessity is so widely felt of making such inquiries, and that there is so great an accumulation of facts, and of arguments based thereon, as to enable thinkers to arrive at a complete knowledge of the dangers which menace society, and of the best way of dealing with them. We greatly need light from men who are capable of giving answers to such questions as the following: "What should be the definite aim of all human societies? Whither tend the communities and nations now in existence? What are their special dangers, and how can they best be averted? What should be the true ideals of every people, so that they may be kept clearly in view and realised?"

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1916
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 War has ceased to be productive of security, but the masses, whose existence depends upon the industries of production, are compelled to pay its costs and suffer its losses without either receiving compensation or possessing means to end the contradiction. Governments do possess this power, but if the interests of governments ultimately coincide with the interests of the governed they are, in the first instance, opposed to them.

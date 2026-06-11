@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1878
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 We have seen how competition tends to reduce the price of all articles, necessary for humor consumption, to a point approximating to the test of production. With absolute freedom in this regard, the consumer should be able to obtain any given article for a sum equal to the expenditure involved in reconstituting the material, and the productive agencies, employed, and in maintaining them continuously at his service. We must now inquire into the manner in which products are shared between the two essential factors in production—Capital and Labour.

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 2127
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 The first, and by no means least, advance which will follow the establishment of a State of Peace will be free constitution of nationality.

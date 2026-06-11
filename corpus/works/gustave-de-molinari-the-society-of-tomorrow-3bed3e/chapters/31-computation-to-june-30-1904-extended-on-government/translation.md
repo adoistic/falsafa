@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1618
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 The cost of war and warfare to June 30, 1904, computed from the expenditures for six months from June 30 to December 31, 1903, and completed by estimate to the end of the fiscal year, June 30, 1904, for seven years will be not less than $1,000,000,000. Extended by estimates submitted by the Secretary of the Treasury to June 30, 1905.

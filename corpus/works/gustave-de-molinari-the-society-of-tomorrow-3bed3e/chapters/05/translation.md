@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 646
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 As population began to outgrow the means of subsistence, which mankind had not yet learned to increase by artificial methods, primitive society was compelled to choose between the elimination of excess population, or the seizure of hunting grounds, or sources of agricultural supply, belonging to some neighbouring tribe. The strong again survived and the weak disappeared. But the new system of association was already securing a certain leisure and a degree of relief from the need for continuous effort. The more intelligent among the inferior powers seized their opportunity, and under the continual spur of the need of survival invented arms and methods of destruction which altered the natural balance of power. Victory inclined to their side, at least until the men of sinews had learned to profit by their superior wisdom and to imitate their skill.

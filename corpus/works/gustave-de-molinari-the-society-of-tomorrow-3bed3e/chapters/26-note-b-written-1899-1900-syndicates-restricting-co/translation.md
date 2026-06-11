@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 628
 source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
-translator: thothica
+translator: P. H. Lee Warner (1904)
 ---
 
 The New York Journal of Commerce recently estimated the capital engaged in "Trusts," at $3,500,000,000, or about 50 per cent. of the entire capital of the United States. The books "Autour du Monde Milliardaire Américain," by MM. Johanez, and "Les Industries Monopolisées—(Trusts)—aux Etats Unis," by M. Paul de Rousiers, agree in identifying the chief cause of the erection and multiplication of these monopolies with the protectionist tariff maintained by the United States.
