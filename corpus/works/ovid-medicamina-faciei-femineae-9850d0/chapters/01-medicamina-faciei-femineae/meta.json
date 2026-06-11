@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-medicamina-faciei-femineae-9850d0",
+  "work_title": "Medicamina faciei femineae",
+  "chapter_number": 1,
+  "chapter_title": "Medicamina faciei femineae",
+  "chapter_slug": "01-medicamina-faciei-femineae",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ca43a865-1e44-5883-94fc-f96b972d1a62",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 613,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi003.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f9142e1-fcae-53c6-9198-1391acb515ab",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 652,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi003.perseus-eng2"
+    }
+  ]
+}

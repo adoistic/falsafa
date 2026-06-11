@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 238
+chapter_title: "Chapter text=A:book=11:letter=14"
+chapter_slug: 238
+variant_id: "d20bc82c-5777-5dba-b5c4-2a33bf9fe14a"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 366
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:238"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) BRUNDISIUM (APRIL)
+
+The candour of your letter does not offend me, because you do not endeavour even tentatively to console me, as was your wont, under the weight of public and personal misfortunes, but acknowledge that that is now impossible. For things are not even as they were before, when, if nothing else, I thought that I had comrades and partners in my policy. For now all the petitioners in Achaia and in Asia also, who have received no pardon, and even those who have, are said to be about to sail into Africa. So I have no one now except Laelius to share my error: and even he is in a better position than I am in that he has been received back. But about myself I have no doubt Caesar has written to Balbus and to Oppius, by whom, if they had had anything pleasant to report, I should have been informed, and they would have spoken to you. Pray have some talk with them on this point, and write me word of their answer not that any security granted by Caesar is likely to have any certainty, still one will be able to consider things and make some provision for the future. Though I shun the sight of all, especially with such a son-in-law as mine, yet in such a state of misery I can't think of anything else to wish. Quintus is going on in the old way, as both Pansa and Hirtius have written to tell me—and he is also said to be making for Africa with the rest. I will write to Minucius at Tarentum and send him your letter: I will write and tell you if I come to any settlement. I should have been surprised at your being able to find thirty sestertia, had there not been a good surplus from the sale of the Fufidian estates. But my eager desire now is for yourself, to see whom, if it is in any way possible (and circumstances make it desirable), I am very anxious. The last act is being played: what its nature is it is easy to estimate at Rome, more difficult here.

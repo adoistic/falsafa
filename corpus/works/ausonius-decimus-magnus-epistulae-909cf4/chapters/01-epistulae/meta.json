@@ -1,0 +1,39 @@
+{
+  "work_slug": "ausonius-decimus-magnus-epistulae-909cf4",
+  "work_title": "Epistulae",
+  "chapter_number": 1,
+  "chapter_title": "Epistulae",
+  "chapter_slug": "01-epistulae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4d234d5-1b16-5110-8cb7-2175dd67f0aa",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10502,
+      "paragraph_count": 545,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa011.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "27dcd702-c2ed-50c7-9d5f-b27ef8f11168",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 18672,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa011.perseus-eng1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-domitianus-2cd73b",
+  "work_title": "Domitianus",
+  "chapter_number": 24,
+  "chapter_title": "Chapter note",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2aceffa1-4516-5511-be91-32fce618a87f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 743,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo022.perseus-eng2:24"
+    }
+  ]
+}

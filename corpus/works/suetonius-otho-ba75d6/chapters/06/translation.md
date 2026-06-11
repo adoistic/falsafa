@@ -1,0 +1,21 @@
+---
+work_id: "ba75d6ad-83bf-574f-9057-0710d6fea6c7"
+work_slug: "suetonius-otho-ba75d6"
+work_title: Otho
+author_name: Suetonius
+chapter_number: 6
+chapter_title: Chapter 6
+chapter_slug: 06
+variant_id: "76772438-285f-5985-b9a4-07266be4ab80"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 350
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo018.perseus-eng2:6"
+translator: Perseus Digital Library
+---
+
+His first intention was, immediately after the departure of Piso, to seize the camp, and fall upon Galba whilst he was at supper in the palace; but he was restrained by a regard for the cohort at that time on duty, lest he should bring too great an odium upon it; because it happened that the same cohort was on guard before, both when Caius was slain, and Nero deserted. For some time afterwards, he was restrained also by scruples about the omens, and by the advice of Seleucus. Upon the day fixed at last for the enterprise, having given his accomplices notice to wait for him in the forum near the temple of Saturn, at the gilded mile-stone, he went in the morning to pay his respects to Galba; and being received with a kiss as usual, he attended him at sacrifice, and heard the predictions of the augur. A freedman of his, then bringing him word that the architects were come, which was the signal agreed upon, he withdrew, as if it were with a design to view a house upon sale, and went out by a back-door of the palace to the place appointed. Some say he pretended to be seized with an ague fit, and ordered those about him to make that excuse for him, if he was inquired after. Being then quickly concealed in a woman's litter, he made the best of his way for the camp. But the bearers growing tired, he got out, and began to run. His shoe becoming loose, he stopped again, but being immediately raised by his attendants upon their shoulders, and unanimously saluted by the title of EMPEROR, he came amidst auspicious acclamations and drawn swords into the Principia in the camp; all who met him joining in the cavalcade, as if they had been privy to the design. Upon this, sending some soldiers to dispatch Galba and Piso, he said nothing else in his address to the soldiery, to secure their affections, than these few words: ",I shall be content with whatever ye think fit to leave me."

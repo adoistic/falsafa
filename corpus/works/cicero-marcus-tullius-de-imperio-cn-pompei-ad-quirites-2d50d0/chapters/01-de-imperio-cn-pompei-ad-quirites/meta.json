@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-de-imperio-cn-pompei-ad-quirites-2d50d0",
+  "work_title": "De Imperio Cn. Pompei Ad Quirites",
+  "chapter_number": 1,
+  "chapter_title": "De Imperio Cn. Pompei Ad Quirites",
+  "chapter_slug": "01-de-imperio-cn-pompei-ad-quirites",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e7e151a6-9fd9-5f76-964d-712a66080461",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6506,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi009.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bebcaa43-0318-50b1-b3f3-f2f5f7e4156f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11601,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi009.perseus-eng2"
+    }
+  ]
+}

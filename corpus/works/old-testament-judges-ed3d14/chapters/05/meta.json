@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-judges-ed3d14",
+  "work_title": "Judges",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e510f815-cd77-5447-a244-c28dbea137ff",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 921,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa751657-dffe-5d51-b667-5cee7ccb9fbb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 733,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg008.perseus-eng2:5"
+    }
+  ]
+}

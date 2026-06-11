@@ -1,0 +1,38 @@
+{
+  "work_slug": "sallust-bellum-iugurthinum-42bb8f",
+  "work_title": "Bellum Iugurthinum",
+  "chapter_number": 109,
+  "chapter_title": "Chapter 109",
+  "chapter_slug": "109",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "570b45da-5090-5d33-a058-9c6db558206a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 93,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-lat4:109"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5e1719ca-0d2f-574f-992d-82b36d0e0e88",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 163,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-eng2:109"
+    }
+  ]
+}

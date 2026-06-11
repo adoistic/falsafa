@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-cn-plancio-3fde37",
+  "work_title": "Pro Cn. Plancio",
+  "chapter_number": 1,
+  "chapter_title": "Pro Cn. Plancio",
+  "chapter_slug": "01-pro-cn-plancio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "115afab2-f67e-5c78-a60e-ee61f9461320",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11171,
+      "paragraph_count": 117,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi028.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cca75e55-d8bf-55e2-aa1a-ced08e77c9b9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 21507,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi028.perseus-eng1"
+    }
+  ]
+}

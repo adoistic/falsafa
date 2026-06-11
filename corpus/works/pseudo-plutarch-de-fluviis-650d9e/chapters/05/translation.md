@@ -1,0 +1,29 @@
+---
+work_id: "650d9e3e-bb32-5c43-b67f-dd9c086e5a8f"
+work_slug: "pseudo-plutarch-de-fluviis-650d9e"
+work_title: De Fluviis
+author_name: "Pseudo-Plutarch"
+chapter_number: 5
+chapter_title: Chapter 5
+chapter_slug: 05
+variant_id: "b107763b-0c85-5633-842f-648e5316a50a"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 546
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0094.tlg001.perseus-eng2:5"
+translator: R. White
+---
+
+PHASIS is a river of Scythia, running by a city of the same name. It was formerly called Arcturus, deriving its name from the situation of the cold regions through which it runs. But the name of it was altered upon this occasion.
+
+Phasis, the child of the Sun and Ocyrrhoe daughter of Oceanus, slew his mother, whom he took in the very act of adultery. For which being tormented by the Furies appearing to him, he threw himself into the river Arcturus, which was afterwards called by his own name Phasis.
+
+In this river grows a reed, which is called leucophyllus, or the reed with the white leaf. This reed is found at the dawning of the morning light, at what time the sacrifices are offered to Hecate, at the time when the divinely inspired paean is chanted, at the beginning of the spring; when they who are troubled with jealous heads gather this reed, and strew it in their wives’ chambers to keep them chaste. And the nature of the reed is such, that if any wild extravagant person happens to come rashly in drink into the room where it lies, he presently becomes deprived of his rational thoughts, and immediately confesses whatever he has wickedly done and intended to do. At what time they that are present to hear him lay hold of him, sew him up in a sack, and throw him into a hole called the Mouth of the Wicked, which is round like the mouth of a well. This after thirty days empties the body into the Lake Maeotis, that is full of worms; where of a sudden the body is seized and torn to pieces by several vultures unseen before, nor is it known from whence they come;— as Ctesippus relates in his Second Book of Scythian Relations.
+
+Near to this river lies the mountain Caucasus, which was before called Boreas’s Bed, upon this occasion. Boreas in the heat of his amorous passion ravished away by force Chione, the daughter of Arcturus, and carried her to a certain hill which was called Niphantes, and upon her begot a son whom he called Hyrpax, who succeeded Heniochus in his kingdom. For which reason the mountain was first called Boreas’s Bed; but afterwards Caucasus upon this occasion. After the fight of the Giants, Saturn, to avoid the menaces of Jupiter, fled to the top of Boreas’s Bed, and there being turned into a crocodile [lay concealed. But Prometheus] slew Caucasus one of the shepherds inhabiting that place; and cutting him up and observing the disposition of his entrails, he foresaw that his enemies were not far off. Presently Jupiter appearing, and binding his father with a woollen list, threw him down to hell. Then changing the name of the mountain in honor of the shepherd Caucasus, he chained Prometheus to it, and caused him to be tormented by an eagle that fed upon his entrails, because he was the first that found out the inspection of bowels, which Jupiter deemed a great cruelty;— as Cleanthes relates in his Third Book of the Wars of the Gods.
+
+Upon this mountain grows an herb which is called Prometheus, which Medea gathering and bruising made use of to protect Jason against her father’s obstinacy.

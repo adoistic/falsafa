@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-andocides-bdfab6",
+  "work_title": "Against Andocides",
+  "chapter_number": 1,
+  "chapter_title": "Against Andocides",
+  "chapter_slug": "01-against-andocides",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "689a25bb-925c-59b2-bd43-a3bd39d8af7c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2604,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0b9bb4e8-58a2-53d4-9d2c-24c933f0efc6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3983,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg006.perseus-eng2"
+    }
+  ]
+}

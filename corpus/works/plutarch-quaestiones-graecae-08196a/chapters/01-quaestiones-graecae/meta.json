@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-quaestiones-graecae-08196a",
+  "work_title": "Quaestiones Graecae",
+  "chapter_number": 1,
+  "chapter_title": "Quaestiones Graecae",
+  "chapter_slug": "01-quaestiones-graecae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e9543250-9407-5d50-8dc3-2f71d2f83273",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5930,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg084b.perseus-grc4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81599fc4-e52e-574b-8c62-0f0148d94043",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8748,
+      "paragraph_count": 119,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg084b.perseus-eng4"
+    }
+  ]
+}

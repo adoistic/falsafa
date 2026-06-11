@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-lycurgus-and-numa-c78de4",
+  "work_title": "Comparison of Lycurgus and Numa",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f1061186-6e9f-5c05-801e-d0ca720f7a34",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 323,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg006.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7b4ab55-7614-5a64-8b74-92cab6696190",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 481,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg006.perseus-eng2:1"
+    }
+  ]
+}

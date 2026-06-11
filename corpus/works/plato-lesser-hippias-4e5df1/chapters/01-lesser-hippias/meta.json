@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-lesser-hippias-4e5df1",
+  "work_title": "Lesser Hippias",
+  "chapter_number": 1,
+  "chapter_title": "Lesser Hippias",
+  "chapter_slug": "01-lesser-hippias",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d3096af-b5d8-5797-b04c-ee3d68bdc1d5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4405,
+      "paragraph_count": 237,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg026.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75496be2-804c-530d-8579-d116820b2b3d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5903,
+      "paragraph_count": 232,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg026.perseus-eng2"
+    }
+  ]
+}

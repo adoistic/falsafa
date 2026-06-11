@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-punic-wars-5471a2",
+  "work_title": "Punic Wars",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cc2fdcc2-2fa0-5258-994c-8cb5154af328",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2267,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg009.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aca2ee94-ff60-569c-827f-6aef0c8cc66f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3261,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg009.perseus-eng2:9"
+    }
+  ]
+}

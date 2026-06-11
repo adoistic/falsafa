@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-camillus-8a1f01",
+  "work_title": "Camillus",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a68beeea-b6ed-51f8-87fc-51fcb6c63668",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 90,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg011.perseus-grc2:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "03a476dd-11ca-5998-b3ce-0d0340ab070f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg011.perseus-eng2:16"
+    }
+  ]
+}

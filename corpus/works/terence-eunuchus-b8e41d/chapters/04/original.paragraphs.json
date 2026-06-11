@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "p-459d47",
+    "offset": 0,
+    "text": "(PHAEDRIA. PARMENO.)"
+  },
+  {
+    "id": "p-44da89",
+    "offset": 22,
+    "text": "PHAEDRIA:\nFac ita ut iussi deducantur isti."
+  },
+  {
+    "id": "p-dd1816",
+    "offset": 67,
+    "text": "PARMENO:\nFaciam."
+  },
+  {
+    "id": "p-9b8ba9",
+    "offset": 85,
+    "text": "PHAEDRIA:\nAt diligenter."
+  },
+  {
+    "id": "p-f416bd",
+    "offset": 111,
+    "text": "PARMENO:\nFiet."
+  },
+  {
+    "id": "p-dec4b4",
+    "offset": 127,
+    "text": "PHAEDRIA:\nAt mature."
+  },
+  {
+    "id": "p-f416bd",
+    "offset": 149,
+    "text": "PARMENO:\nFiet."
+  },
+  {
+    "id": "p-b2f79e",
+    "offset": 165,
+    "text": "PHAEDRIA:\nSatin hoc mandatum est tibi?"
+  },
+  {
+    "id": "p-270f04",
+    "offset": 205,
+    "text": "PARMENO:\nAh!"
+  },
+  {
+    "id": "p-7aed80",
+    "offset": 219,
+    "text": "Rogitare? quasi difficile sit."
+  },
+  {
+    "id": "p-b52ebd",
+    "offset": 251,
+    "text": "Utinam tam aliquid invenire facile possis Phaedria"
+  },
+  {
+    "id": "p-fdeb57",
+    "offset": 303,
+    "text": "Quam hoc peribit."
+  },
+  {
+    "id": "p-d8a50a",
+    "offset": 322,
+    "text": "PHAEDRIA:\nEgo quoque una pereo, quod mihi est carius:"
+  },
+  {
+    "id": "p-6a81b8",
+    "offset": 377,
+    "text": "Ne istuc tam iniquo patiare animo."
+  },
+  {
+    "id": "p-653ae1",
+    "offset": 413,
+    "text": "PARMENO:\nMinime; quin effectum dabo."
+  },
+  {
+    "id": "p-4bbfcf",
+    "offset": 451,
+    "text": "Sed numquid aliud imperas?"
+  },
+  {
+    "id": "p-3f9358",
+    "offset": 479,
+    "text": "PHAEDRIA:\nMunus nostrum ornato verbis, quod poteris; et istum aemulum,"
+  },
+  {
+    "id": "p-fef25e",
+    "offset": 551,
+    "text": "Quod poteris, ab ea pellito."
+  },
+  {
+    "id": "p-f15de2",
+    "offset": 581,
+    "text": "PARMENO:"
+  },
+  {
+    "id": "p-a39dc5",
+    "offset": 591,
+    "text": "Memini, tametsi nullus moneas."
+  },
+  {
+    "id": "p-3d4be2",
+    "offset": 623,
+    "text": "PHAEDRIA:\nEgo rus ibo, atque ibi manebo."
+  },
+  {
+    "id": "p-557059",
+    "offset": 665,
+    "text": "PARMENO:\nCenseo."
+  },
+  {
+    "id": "p-a54d5d",
+    "offset": 683,
+    "text": "PHAEDRIA:\nSed heus tu!"
+  },
+  {
+    "id": "p-c99367",
+    "offset": 707,
+    "text": "PARMENO:\nQuid vis?"
+  },
+  {
+    "id": "p-63535a",
+    "offset": 727,
+    "text": "PHAEDRIA:\nCensen posse me offirmare"
+  },
+  {
+    "id": "p-a9aba9",
+    "offset": 764,
+    "text": "Et perpeti ne redeam interea?"
+  },
+  {
+    "id": "p-aba722",
+    "offset": 795,
+    "text": "PARMENO:\nTene? non hercle arbitror."
+  },
+  {
+    "id": "p-382bb3",
+    "offset": 832,
+    "text": "Nam aut iam revertere, aut mox noctu te adiget horsum insomnia."
+  },
+  {
+    "id": "p-8622d3",
+    "offset": 897,
+    "text": "PHAEDRIA:\nOpus faciam ut defatiger usque ingratiis ut dormiam."
+  },
+  {
+    "id": "p-f15de2",
+    "offset": 961,
+    "text": "PARMENO:"
+  },
+  {
+    "id": "p-202dd4",
+    "offset": 971,
+    "text": "Vigilabis lassus; hoc plus facies."
+  },
+  {
+    "id": "p-1ec4c5",
+    "offset": 1007,
+    "text": "PHAEDRIA:\nAh nihil dicis Parmeno."
+  },
+  {
+    "id": "p-8216db",
+    "offset": 1042,
+    "text": "Eiicienda hercle haec est mollities animi: nimis me indulgeo."
+  },
+  {
+    "id": "p-ff096e",
+    "offset": 1105,
+    "text": "Tandem non ego illa caream, si sit opus, vel totum triduum?"
+  },
+  {
+    "id": "p-474bba",
+    "offset": 1166,
+    "text": "PARMENO:\nHui!"
+  },
+  {
+    "id": "p-de65cf",
+    "offset": 1181,
+    "text": "Universum triduum? vide quid agas."
+  },
+  {
+    "id": "p-970c06",
+    "offset": 1217,
+    "text": "PHAEDRIA:\nStat sententia."
+  },
+  {
+    "id": "p-658dae",
+    "offset": 1244,
+    "text": "PARMENO:\nDi boni, quid hoc morbi est? adeone homines immutarier"
+  },
+  {
+    "id": "p-3bf1c9",
+    "offset": 1309,
+    "text": "Ex amore ut non cognoscas eundem esse? Hoc nemo fuit"
+  },
+  {
+    "id": "p-35e0ba",
+    "offset": 1363,
+    "text": "Minus ineptus magis severus quisquam, nec magis continues."
+  },
+  {
+    "id": "p-8dca34",
+    "offset": 1423,
+    "text": "Sed quis hic est qui huc pergit? at at! hic quidem est parasitus Gnatho"
+  },
+  {
+    "id": "p-700514",
+    "offset": 1496,
+    "text": "Militis: ducit secum una virginem dono huic. Papae!"
+  },
+  {
+    "id": "p-768380",
+    "offset": 1549,
+    "text": "Facie honesta: mirum ni ego me turpiter hodie hic dabo"
+  },
+  {
+    "id": "p-d96cf1",
+    "offset": 1605,
+    "text": "Cum meo decrepito hoc eunucho. Haec superat ipsam Thaidem."
+  },
+  {
+    "id": "p-da4a89",
+    "offset": 1665,
+    "text": "(GNATHO. PARMENO.)"
+  },
+  {
+    "id": "p-3b6251",
+    "offset": 1685,
+    "text": "GNATHO:\nDi immortales! homini homo quid praestat, stulto intelligens"
+  },
+  {
+    "id": "p-00b434",
+    "offset": 1755,
+    "text": "Quid interest! hoc adeo ex hac re venit in mentem mihi."
+  },
+  {
+    "id": "p-5173df",
+    "offset": 1812,
+    "text": "Conveni hodie adveniens quendam mei loci hinc atque ordinis,"
+  },
+  {
+    "id": "p-d8bab6",
+    "offset": 1874,
+    "text": "Hominem haud impurum, itidem patria qui abligurierat bona."
+  },
+  {
+    "id": "p-e142d8",
+    "offset": 1934,
+    "text": "Video sentum, squalidum, aegrum, pannis annisque obsitum."
+  },
+  {
+    "id": "p-b200c3",
+    "offset": 1993,
+    "text": "Quid istuc, inquam, ornati est? Quoniam miser quod habui perdidi. Hem,"
+  },
+  {
+    "id": "p-ffc60d",
+    "offset": 2065,
+    "text": "Quo redactus sum! omnes noti me atque amici deserunt."
+  },
+  {
+    "id": "p-784ef5",
+    "offset": 2120,
+    "text": "Hic ego illum contempsi prae me. Quid homo, inquam, ignavissime?"
+  },
+  {
+    "id": "p-0ced43",
+    "offset": 2186,
+    "text": "Itan parasti te, ut spes nulla reliqua in te sit tibi?"
+  },
+  {
+    "id": "p-7be79a",
+    "offset": 2242,
+    "text": "Simul consilium cum re amisti? viden me ex eodem ortum loco,"
+  },
+  {
+    "id": "p-1eb7e8",
+    "offset": 2304,
+    "text": "Qui color, nitor, vestitus, quae habitudo est corporis?"
+  },
+  {
+    "id": "p-53c24f",
+    "offset": 2361,
+    "text": "Omnia habeo, neque quicquam habeo. Nihil cum est nihil defit tamen."
+  },
+  {
+    "id": "p-3c1969",
+    "offset": 2430,
+    "text": "At ego infelix neque ridiculus esse neque plagas pati"
+  },
+  {
+    "id": "p-c559f5",
+    "offset": 2485,
+    "text": "Possum. Quid? tu his rebus credis fieri? tota erras via."
+  },
+  {
+    "id": "p-5e0122",
+    "offset": 2543,
+    "text": "Olim isti fuit generi quondam quaestus apud saeclum prius."
+  },
+  {
+    "id": "p-33cf30",
+    "offset": 2603,
+    "text": "Hoc novum est aucupium: ego adeo hanc primus inveni viam."
+  },
+  {
+    "id": "p-ae425d",
+    "offset": 2662,
+    "text": "Est genus hominum, qui esse primos se omnium rerum volunt,"
+  },
+  {
+    "id": "p-f865af",
+    "offset": 2722,
+    "text": "Nec sunt: hos consector. Hisce ego non paro me ut rideant;"
+  },
+  {
+    "id": "p-ceaeaa",
+    "offset": 2782,
+    "text": "Sed his ultro arrideo, et eorum ingenia admiror simul."
+  },
+  {
+    "id": "p-9fd08e",
+    "offset": 2838,
+    "text": "Quicquid dicunt laudo: id rursum si negant, laudo id quoque."
+  },
+  {
+    "id": "p-9c87fb",
+    "offset": 2900,
+    "text": "Negat quis? nego: ait? aio. Postremo imperavi egomet mihi"
+  },
+  {
+    "id": "p-d5ed69",
+    "offset": 2959,
+    "text": "Omnia assentari. Is quaestus nunc est multo uberrimus."
+  },
+  {
+    "id": "p-8a35ed",
+    "offset": 3015,
+    "text": "PARMENO:\nScitum hercle hominem! hic homines prorsum ex stultis insanos facit."
+  },
+  {
+    "id": "p-c82b1d",
+    "offset": 3094,
+    "text": "GNATHO:\nDum haec loquimur interea loci ad macellum ubi advenimus,"
+  },
+  {
+    "id": "p-c18d48",
+    "offset": 3161,
+    "text": "Concurrunt laeti mihi obviam cupediarii omnes,"
+  },
+  {
+    "id": "p-88ed67",
+    "offset": 3209,
+    "text": "Cetarii, lanii, coqui, fartores, piscatores;"
+  },
+  {
+    "id": "p-11fe9d",
+    "offset": 3255,
+    "text": "Quibus et re salva et perdita profueram, et prosum saepe."
+  },
+  {
+    "id": "p-b0f26d",
+    "offset": 3314,
+    "text": "Salutant; ad coenam vocant; adventum gratulantur."
+  },
+  {
+    "id": "p-87d6a3",
+    "offset": 3365,
+    "text": "Ille ubi miser famelicus videt me esse in tanto honore,"
+  },
+  {
+    "id": "p-189b65",
+    "offset": 3422,
+    "text": "Et tam facile victum quaerere, ibi homo coepit me obsecrare"
+  },
+  {
+    "id": "p-179afa",
+    "offset": 3483,
+    "text": "Ut sibi liceret discere id de me: sectari iussi;"
+  },
+  {
+    "id": "p-498d08",
+    "offset": 3533,
+    "text": "Si potis est, tanquam philosophorum habent disciplina ex ipsis"
+  },
+  {
+    "id": "p-fbd7b7",
+    "offset": 3597,
+    "text": "Vocabula, parasiti item ut Gnathonici vocentur."
+  },
+  {
+    "id": "p-3697fc",
+    "offset": 3646,
+    "text": "PARMENO:\nViden otium et cibus quid faciat alienus?"
+  },
+  {
+    "id": "p-c23216",
+    "offset": 3698,
+    "text": "GNATHO:\nSed ego cesso"
+  },
+  {
+    "id": "p-9905c4",
+    "offset": 3721,
+    "text": "Ad Thaidem hanc deducere, et rogitare ad coenam ut veniat?"
+  },
+  {
+    "id": "p-260150",
+    "offset": 3781,
+    "text": "Sed Parmenonem ante ostium Thaidis tristem video,"
+  },
+  {
+    "id": "p-a0920c",
+    "offset": 3832,
+    "text": "Rivalis servum. Salva res est: nimirum homines frigent."
+  },
+  {
+    "id": "p-1c26ed",
+    "offset": 3889,
+    "text": "Nebulonem hunc certum est ludere."
+  },
+  {
+    "id": "p-5f1c4e",
+    "offset": 3924,
+    "text": "PARMENO:\nHice hoc munere arbitrantur"
+  },
+  {
+    "id": "p-f7a6ce",
+    "offset": 3962,
+    "text": "Suam Thaidem esse."
+  },
+  {
+    "id": "p-b3f359",
+    "offset": 3982,
+    "text": "GNATHO:\nPlurima salute Parmenonem"
+  },
+  {
+    "id": "p-dd7a6b",
+    "offset": 4017,
+    "text": "Summum suum impertit Gnatho. Quid agitur?"
+  },
+  {
+    "id": "p-7269af",
+    "offset": 4060,
+    "text": "PARMENO:\nStatur."
+  },
+  {
+    "id": "p-b150d6",
+    "offset": 4078,
+    "text": "GNATHO:\nVideo."
+  },
+  {
+    "id": "p-2d4afc",
+    "offset": 4094,
+    "text": "Numquidnam quod nolis vides?"
+  },
+  {
+    "id": "p-764511",
+    "offset": 4124,
+    "text": "PARMENO:\nTe."
+  },
+  {
+    "id": "p-82907e",
+    "offset": 4138,
+    "text": "GNATHO:\nCredo; at numquid aliud?"
+  },
+  {
+    "id": "p-c407bd",
+    "offset": 4172,
+    "text": "PARMENO:\nQuidum?"
+  },
+  {
+    "id": "p-a23db7",
+    "offset": 4190,
+    "text": "GNATHO:\nQuia tristis es."
+  },
+  {
+    "id": "p-4f5e60",
+    "offset": 4216,
+    "text": "PARMENO:\nNihil equidem."
+  },
+  {
+    "id": "p-9a2fb1",
+    "offset": 4241,
+    "text": "GNATHO:\nNe sis: sed quid videtur"
+  },
+  {
+    "id": "p-00a2cb",
+    "offset": 4275,
+    "text": "Hoc tibi mancipium?"
+  },
+  {
+    "id": "p-580f76",
+    "offset": 4296,
+    "text": "PARMENO:\nNon malum hercle."
+  },
+  {
+    "id": "p-2e8ac7",
+    "offset": 4324,
+    "text": "GNATHO:\nUro hominem."
+  },
+  {
+    "id": "p-4f6d14",
+    "offset": 4346,
+    "text": "PARMENO:\nUt falsus animi est!"
+  },
+  {
+    "id": "p-c5d20b",
+    "offset": 4377,
+    "text": "GNATHO:\nQuam hoc munus gratum Thaidi arbitrare esse?"
+  },
+  {
+    "id": "p-0500a1",
+    "offset": 4431,
+    "text": "PARMENO:\nHoc nunc dicis,"
+  },
+  {
+    "id": "p-e88b2c",
+    "offset": 4457,
+    "text": "Eiectos hinc nos: omnium rerum, heus, vicissitudo est."
+  },
+  {
+    "id": "p-b51745",
+    "offset": 4513,
+    "text": "GNATHO:\nSex ego te totos Parmeno hos menses quietum reddam,"
+  },
+  {
+    "id": "p-44587f",
+    "offset": 4574,
+    "text": "Ne sursum deorsum cursites, neve usque ad lucem vigiles."
+  },
+  {
+    "id": "p-f6dd1e",
+    "offset": 4632,
+    "text": "Ecquid beo te?"
+  },
+  {
+    "id": "p-41c26b",
+    "offset": 4648,
+    "text": "PARMENO:\nMen? papae!"
+  },
+  {
+    "id": "p-6e6720",
+    "offset": 4670,
+    "text": "GNATHO:\nSic soleo amicos."
+  },
+  {
+    "id": "p-b419f6",
+    "offset": 4697,
+    "text": "PARMENO:\nLaudo."
+  },
+  {
+    "id": "p-825ac9",
+    "offset": 4714,
+    "text": "GNATHO:\nDetineo te fortasse: tu profectus alio fueras."
+  },
+  {
+    "id": "p-f15de2",
+    "offset": 4770,
+    "text": "PARMENO:"
+  },
+  {
+    "id": "p-cb5720",
+    "offset": 4780,
+    "text": "Nusquam."
+  },
+  {
+    "id": "p-678f87",
+    "offset": 4790,
+    "text": "GNATHO:\nTum tu igitur paululum da mihi operae: fac ut admittar"
+  },
+  {
+    "id": "p-6121a6",
+    "offset": 4854,
+    "text": "Ad illam."
+  },
+  {
+    "id": "p-8f6b34",
+    "offset": 4865,
+    "text": "PARMENO:\nAge modo; nunc tibi patent fores hae, quia istam ducis."
+  },
+  {
+    "id": "p-ce5411",
+    "offset": 4931,
+    "text": "GNATHO:\nNumquam evocari hinc vis foras?"
+  },
+  {
+    "id": "p-50634c",
+    "offset": 4972,
+    "text": "PARMENO:\nSine biduum hoc praetereat:"
+  },
+  {
+    "id": "p-314a22",
+    "offset": 5010,
+    "text": "Qui mihi nunc uno digitulo fores aperis fortunatus"
+  },
+  {
+    "id": "p-387212",
+    "offset": 5062,
+    "text": "Nae tu istas faxo calcibus saepe insultabis frustra."
+  },
+  {
+    "id": "p-53ad57",
+    "offset": 5116,
+    "text": "GNATHO:"
+  },
+  {
+    "id": "p-0d20f7",
+    "offset": 5125,
+    "text": "Etiam nunc hic stas Parmeno? eho numnam hic relictus custos,"
+  },
+  {
+    "id": "p-b233ae",
+    "offset": 5187,
+    "text": "Ne quis forte internuntius clam a milite ad istam curset?"
+  },
+  {
+    "id": "p-330004",
+    "offset": 5246,
+    "text": "PARMENO:\nFacete dictum: mira vero militi quae placeant."
+  },
+  {
+    "id": "p-22779c",
+    "offset": 5303,
+    "text": "Sed video herilem filium minorem huc advenire."
+  },
+  {
+    "id": "p-1b40ae",
+    "offset": 5351,
+    "text": "Miror quid ex Piraeeo abierit; nam ibi custos publice est nunc."
+  },
+  {
+    "id": "p-fdeb1c",
+    "offset": 5416,
+    "text": "Non temere est; et properans venit: nescio quid circumspectat."
+  },
+  {
+    "id": "p-64032a",
+    "offset": 5480,
+    "text": "(CHAEREA. PARMENO.)"
+  },
+  {
+    "id": "p-a11a10",
+    "offset": 5501,
+    "text": "CHAEREA:\nOccidi."
+  },
+  {
+    "id": "p-2493cf",
+    "offset": 5519,
+    "text": "Neque virgo est usquam; neque ego, qui illam e conspectu amisi meo."
+  },
+  {
+    "id": "p-aff6d8",
+    "offset": 5588,
+    "text": "Ubi quaeram? Ubi investigem? Quem perconter? Quam insistam viam?"
+  },
+  {
+    "id": "p-6fa793",
+    "offset": 5654,
+    "text": "Incertus sum: una haec spes est; ubi ubi est, diu celari non potest."
+  },
+  {
+    "id": "p-3973d7",
+    "offset": 5724,
+    "text": "O faciem pulchramn! deleo omnes dehinc ex animo mulieros."
+  },
+  {
+    "id": "p-7d80ee",
+    "offset": 5783,
+    "text": "Taedet quotidianarum harum formarum."
+  },
+  {
+    "id": "p-a231b1",
+    "offset": 5821,
+    "text": "PARMENO:\nEcce autem alterum!"
+  },
+  {
+    "id": "p-425816",
+    "offset": 5851,
+    "text": "Nescio quid de more loquitur."
+  },
+  {
+    "id": "p-34c098",
+    "offset": 5882,
+    "text": "CHAEREA:\nO infortunatum senem!"
+  },
+  {
+    "id": "p-0bb833",
+    "offset": 5914,
+    "text": "PARMENO:\nHic vero est qui si occeperit lucidum iocumque dices"
+  },
+  {
+    "id": "p-e80e54",
+    "offset": 5977,
+    "text": "Illum alterum fuisse praeut quae dabit huius rabies."
+  },
+  {
+    "id": "p-7c2835",
+    "offset": 6031,
+    "text": "CHAEREA:"
+  },
+  {
+    "id": "p-61d3ef",
+    "offset": 6041,
+    "text": "Ut illum Di Deaeque senium perdant qui me hodie remoratus est,"
+  },
+  {
+    "id": "p-deb199",
+    "offset": 6105,
+    "text": "Meque adeo qui restiterim; tum autem qui illum floccifecerim."
+  },
+  {
+    "id": "p-aac923",
+    "offset": 6168,
+    "text": "Sed eccum Parmenonem: salve."
+  },
+  {
+    "id": "p-98e67b",
+    "offset": 6198,
+    "text": "PARMENO:\nQuid tu es tristis? quidve es alacris?"
+  },
+  {
+    "id": "p-fa1c1d",
+    "offset": 6247,
+    "text": "Unde is?"
+  },
+  {
+    "id": "p-157853",
+    "offset": 6257,
+    "text": "CHAEREA:\nEgone? nescio hercle, neque unde eam, neque quorsumn eam:"
+  },
+  {
+    "id": "p-09967c",
+    "offset": 6325,
+    "text": "Ita prorsum oblitus sum mei."
+  },
+  {
+    "id": "p-f15de2",
+    "offset": 6355,
+    "text": "PARMENO:"
+  },
+  {
+    "id": "p-4bce75",
+    "offset": 6365,
+    "text": "Qui quaeso?"
+  },
+  {
+    "id": "p-f8ed05",
+    "offset": 6378,
+    "text": "CHAEREA:\nAmo."
+  },
+  {
+    "id": "p-ff99cc",
+    "offset": 6393,
+    "text": "PARMENO:\nHem!"
+  },
+  {
+    "id": "p-c09004",
+    "offset": 6408,
+    "text": "CHAEREA:\nNunc Parmeno te ostendes qui vir sies."
+  },
+  {
+    "id": "p-fa16ea",
+    "offset": 6457,
+    "text": "Scis te mihi saepe pollicitum esse; Chaerea aliquid inveni"
+  },
+  {
+    "id": "p-41d2a4",
+    "offset": 6517,
+    "text": "Modo quod ames: in ea re utilitatem ego faciam ut cognoscas meam;"
+  },
+  {
+    "id": "p-eb1e7a",
+    "offset": 6584,
+    "text": "Cum in cellulam ad te patris penum omnem congerebam clanculum."
+  },
+  {
+    "id": "p-a09d4c",
+    "offset": 6648,
+    "text": "PARMENO:\nAge, inepte."
+  },
+  {
+    "id": "p-999176",
+    "offset": 6671,
+    "text": "CHAEREA:\nHoc hercle factum est: fac sis nunc promissa appareant;"
+  },
+  {
+    "id": "p-97e13b",
+    "offset": 6737,
+    "text": "Sive adeo digna res est ubi tu nervos intendas tuos."
+  },
+  {
+    "id": "p-b01741",
+    "offset": 6791,
+    "text": "Haud similis virgo est virginum nostrarum quas matres student"
+  },
+  {
+    "id": "p-004dae",
+    "offset": 6854,
+    "text": "Demissis humeris esse, vincto pectore, ut gracilae sient."
+  },
+  {
+    "id": "p-461141",
+    "offset": 6913,
+    "text": "Si qua est habitior paulo, pugilem esse aiunt, deducunt cibum."
+  },
+  {
+    "id": "p-087f3d",
+    "offset": 6977,
+    "text": "Tametsi bona est natura, reddunt curatura iunceas:"
+  },
+  {
+    "id": "p-5701b5",
+    "offset": 7029,
+    "text": "Itaque ergo amantur."
+  },
+  {
+    "id": "p-c0c4fa",
+    "offset": 7051,
+    "text": "PARMENO:\nQuid tua istaec?"
+  },
+  {
+    "id": "p-ddde65",
+    "offset": 7078,
+    "text": "CHAEREA:\nNova figura oris."
+  },
+  {
+    "id": "p-9f655b",
+    "offset": 7106,
+    "text": "PARMENO:\nPapae!"
+  },
+  {
+    "id": "p-2268bb",
+    "offset": 7123,
+    "text": "CHAEREA:\nColor verus, corpus solidum et succi plenum."
+  },
+  {
+    "id": "p-935521",
+    "offset": 7178,
+    "text": "PARMENO:\nAnni?"
+  },
+  {
+    "id": "p-3cf6fd",
+    "offset": 7194,
+    "text": "CHAEREA:\nAnni? sedecim."
+  },
+  {
+    "id": "p-47d743",
+    "offset": 7219,
+    "text": "PARMENO:\nFlos ipse."
+  },
+  {
+    "id": "p-b132f7",
+    "offset": 7240,
+    "text": "CHAEREA:\nHanc tu mihi vel vi vel clam vel precario"
+  },
+  {
+    "id": "p-fbb58e",
+    "offset": 7292,
+    "text": "Fac tradas: mea nihil refert, dum potiar modo."
+  },
+  {
+    "id": "p-1b2b7d",
+    "offset": 7340,
+    "text": "PARMENO:\nQuid? virgo cuia est?"
+  },
+  {
+    "id": "p-4508ee",
+    "offset": 7372,
+    "text": "CHAEREA:\nNescio hercle."
+  },
+  {
+    "id": "p-fb0492",
+    "offset": 7397,
+    "text": "PARMENO:\nUnde est?"
+  },
+  {
+    "id": "p-abacc4",
+    "offset": 7417,
+    "text": "CHAEREA:\nTantundem."
+  },
+  {
+    "id": "p-488ce3",
+    "offset": 7438,
+    "text": "PARMENO:\nUbi habitat?"
+  },
+  {
+    "id": "p-7c2835",
+    "offset": 7461,
+    "text": "CHAEREA:"
+  },
+  {
+    "id": "p-ede816",
+    "offset": 7471,
+    "text": "Ne id quidem."
+  },
+  {
+    "id": "p-ce4a0e",
+    "offset": 7486,
+    "text": "PARMENO:\nUbi vidisti?"
+  },
+  {
+    "id": "p-f060b2",
+    "offset": 7509,
+    "text": "CHAEREA:\nIn via."
+  },
+  {
+    "id": "p-934fe2",
+    "offset": 7527,
+    "text": "PARMENO:\nQua ratione amisti?"
+  },
+  {
+    "id": "p-22f61c",
+    "offset": 7557,
+    "text": "CHAEREA:\nId equidem adveniens mecum stomachabar modo;"
+  },
+  {
+    "id": "p-bd99cc",
+    "offset": 7612,
+    "text": "Nec quenquam esse ego hominem arbitror cui magis bonae"
+  },
+  {
+    "id": "p-12d596",
+    "offset": 7668,
+    "text": "Felicitates omnes adversae sient."
+  },
+  {
+    "id": "p-9fee60",
+    "offset": 7703,
+    "text": "PARMENO:\nQuid hoc est sceleris?"
+  },
+  {
+    "id": "p-3d0fdd",
+    "offset": 7736,
+    "text": "CHAEREA:\nPerii."
+  },
+  {
+    "id": "p-6c9405",
+    "offset": 7753,
+    "text": "PARMENO:\nQuid factum est?"
+  },
+  {
+    "id": "p-07d2f5",
+    "offset": 7780,
+    "text": "CHAEREA:\nRogas?"
+  },
+  {
+    "id": "p-92f1a8",
+    "offset": 7797,
+    "text": "Patris cognatum atque aequalem Archidemidem,"
+  },
+  {
+    "id": "p-1b9b95",
+    "offset": 7843,
+    "text": "Novistin?"
+  },
+  {
+    "id": "p-c7adc9",
+    "offset": 7854,
+    "text": "PARMENO:\nQuidni?"
+  },
+  {
+    "id": "p-c2d0c7",
+    "offset": 7872,
+    "text": "CHAEREA:\nIs dum sequor hanc fit mihi obviam."
+  },
+  {
+    "id": "p-0ba442",
+    "offset": 7918,
+    "text": "PARMENO:\nIncommode hercle."
+  },
+  {
+    "id": "p-280c89",
+    "offset": 7946,
+    "text": "CHAEREA:\nImmo enimvero infeliciter;"
+  },
+  {
+    "id": "p-c4a6b8",
+    "offset": 7983,
+    "text": "Nam incommoda alia sunt cicenda, Parmeno."
+  },
+  {
+    "id": "p-032b88",
+    "offset": 8026,
+    "text": "Illum liquet mihi deierare his mensibus"
+  },
+  {
+    "id": "p-543868",
+    "offset": 8067,
+    "text": "Sex septem prorsum non vidisse proximis,"
+  },
+  {
+    "id": "p-b29e70",
+    "offset": 8109,
+    "text": "Nisi nunc cum minime vellem minimeque opus fuit."
+  },
+  {
+    "id": "p-9c060e",
+    "offset": 8159,
+    "text": "Eho nonne hoc monstri simile est? quid ais?"
+  },
+  {
+    "id": "p-6fbe35",
+    "offset": 8204,
+    "text": "PARMENO:\nMaxime."
+  },
+  {
+    "id": "p-dadfa0",
+    "offset": 8222,
+    "text": "CHAEREA:\nContinuo accurrit ad me quam longe quidem,"
+  },
+  {
+    "id": "p-101053",
+    "offset": 8275,
+    "text": "Incurvus, tremulus, labiis demissis, gemens."
+  },
+  {
+    "id": "p-74004b",
+    "offset": 8321,
+    "text": "Heus! heus! tibi dico Chaerea, inquit. Restiti."
+  },
+  {
+    "id": "p-e79044",
+    "offset": 8370,
+    "text": "Scin quid ego te volebam? Dic. Cras est mihi"
+  },
+  {
+    "id": "p-d7afaa",
+    "offset": 8416,
+    "text": "Iudicium. Quid tum? Ut diligenter nunties"
+  },
+  {
+    "id": "p-4d9823",
+    "offset": 8459,
+    "text": "Patri, advocatus mane mihi esse ut meminerit."
+  },
+  {
+    "id": "p-de6dcc",
+    "offset": 8506,
+    "text": "Dum haec dicit, abiit hora. Rogo numquid velit?"
+  },
+  {
+    "id": "p-236109",
+    "offset": 8555,
+    "text": "Recte, inquit. Abeo. Cum huc respicio ad virginem,"
+  },
+  {
+    "id": "p-9832f7",
+    "offset": 8607,
+    "text": "Illa sese interea commodum huc adverterat"
+  },
+  {
+    "id": "p-b25217",
+    "offset": 8650,
+    "text": "In hanc nostram plateam."
+  },
+  {
+    "id": "p-d14fef",
+    "offset": 8676,
+    "text": "PARMENO:\nMirum ni hanc dicit modo"
+  },
+  {
+    "id": "p-b1db0b",
+    "offset": 8711,
+    "text": "Huic quae data est dono."
+  },
+  {
+    "id": "p-6730c8",
+    "offset": 8737,
+    "text": "CHAEREA:\nHuc cum advenio nulla erat."
+  },
+  {
+    "id": "p-99812a",
+    "offset": 8775,
+    "text": "PARMENO:\nComites secuti scilicet sunt virginem."
+  },
+  {
+    "id": "p-7c2835",
+    "offset": 8824,
+    "text": "CHAEREA:"
+  },
+  {
+    "id": "p-b1aa87",
+    "offset": 8834,
+    "text": "Verum: parasitus cum ancilla."
+  },
+  {
+    "id": "p-d0646c",
+    "offset": 8865,
+    "text": "PARMENO:\nIpsa est: ilicet:"
+  },
+  {
+    "id": "p-b60721",
+    "offset": 8893,
+    "text": "Desine: iam conclamatum est."
+  },
+  {
+    "id": "p-b605de",
+    "offset": 8923,
+    "text": "CHAEREA:\nAlias res agis."
+  },
+  {
+    "id": "p-065958",
+    "offset": 8949,
+    "text": "PARMENO:\nIstuc ago quidem."
+  },
+  {
+    "id": "p-581c80",
+    "offset": 8977,
+    "text": "CHAEREA:\nNostin quae sit? die mihi:"
+  },
+  {
+    "id": "p-d96ff4",
+    "offset": 9014,
+    "text": "Aut vidistin?"
+  },
+  {
+    "id": "p-7374b9",
+    "offset": 9029,
+    "text": "PARMENO:\nVidi; novi; scio quo abducta sit."
+  },
+  {
+    "id": "p-ff0c8a",
+    "offset": 9073,
+    "text": "CHAEREA:\nEho Parmeno mi nostin?"
+  },
+  {
+    "id": "p-ffe939",
+    "offset": 9106,
+    "text": "PARMENO:\nNovi."
+  },
+  {
+    "id": "p-53f419",
+    "offset": 9122,
+    "text": "CHAEREA:\nEt scis ubi siet?"
+  },
+  {
+    "id": "p-f15de2",
+    "offset": 9150,
+    "text": "PARMENO:"
+  },
+  {
+    "id": "p-7300c5",
+    "offset": 9160,
+    "text": "Huc deducta est ad meretricem Thaidem: ei dono data est."
+  },
+  {
+    "id": "p-587002",
+    "offset": 9218,
+    "text": "CHAEREA:\nQuis is est tam potens cum tanto munere hoc?"
+  },
+  {
+    "id": "p-a25e49",
+    "offset": 9273,
+    "text": "PARMENO:\nMiles Thraso,"
+  },
+  {
+    "id": "p-c72f03",
+    "offset": 9297,
+    "text": "Phaedriae rivalis."
+  },
+  {
+    "id": "p-af61a1",
+    "offset": 9317,
+    "text": "CHAEREA:\nDuras fratris partes praedicas."
+  },
+  {
+    "id": "p-054fdf",
+    "offset": 9359,
+    "text": "PARMENO:\nImmo enim si scias quod donum huic dono contra comparet,"
+  },
+  {
+    "id": "p-cce948",
+    "offset": 9426,
+    "text": "Tum id magis dicas."
+  },
+  {
+    "id": "p-4a0d88",
+    "offset": 9447,
+    "text": "CHAEREA:\nQuodnam quaeso hercle?"
+  },
+  {
+    "id": "p-6cf20f",
+    "offset": 9480,
+    "text": "PARMENO:\nEunuchum."
+  },
+  {
+    "id": "p-91e107",
+    "offset": 9500,
+    "text": "CHAEREA:\nIllumne obsecro"
+  },
+  {
+    "id": "p-7c8c73",
+    "offset": 9526,
+    "text": "Inhonestum hominem quem mercatus est heri, senem, mulierem?"
+  },
+  {
+    "id": "p-11cd37",
+    "offset": 9587,
+    "text": "PARMENO:\nIstune ipsum."
+  },
+  {
+    "id": "p-55ff7d",
+    "offset": 9611,
+    "text": "CHAEREA:\nHomo quatietur certe cum dono foras."
+  },
+  {
+    "id": "p-f717be",
+    "offset": 9658,
+    "text": "Sed istam Thaidem non scivi nobis vicinam."
+  },
+  {
+    "id": "p-e73fcd",
+    "offset": 9702,
+    "text": "PARMENO:\nHaud diu est."
+  },
+  {
+    "id": "p-7b817d",
+    "offset": 9726,
+    "text": "CHAEREA:\nPerii! numquamne etiam me illam vidisse? ehodum dic mihi;"
+  },
+  {
+    "id": "p-1b6c4d",
+    "offset": 9794,
+    "text": "Estne ut fertur forma?"
+  },
+  {
+    "id": "p-39c5bf",
+    "offset": 9818,
+    "text": "PARMENO:\nSane."
+  },
+  {
+    "id": "p-2aa648",
+    "offset": 9834,
+    "text": "CHAEREA:\nAt nihil ad nostram hanc."
+  },
+  {
+    "id": "p-e0ef49",
+    "offset": 9870,
+    "text": "PARMENO:\nAlia res."
+  },
+  {
+    "id": "p-7c2835",
+    "offset": 9890,
+    "text": "CHAEREA:"
+  },
+  {
+    "id": "p-2866e1",
+    "offset": 9900,
+    "text": "Obsecro hercle Parmeno fac ut potiar."
+  },
+  {
+    "id": "p-2024e4",
+    "offset": 9939,
+    "text": "PARMENO:\nFaciam sedulo ac"
+  },
+  {
+    "id": "p-c6ea30",
+    "offset": 9966,
+    "text": "Dabo operam; adiuvabo: numquid me aliud vis?"
+  },
+  {
+    "id": "p-a92c44",
+    "offset": 10012,
+    "text": "CHAEREA:\nQuo nunc is?"
+  },
+  {
+    "id": "p-c6b287",
+    "offset": 10035,
+    "text": "PARMENO:\nDomum,"
+  },
+  {
+    "id": "p-bc6b31",
+    "offset": 10052,
+    "text": "Ut mancipia haec, ita ut iussit frater, ducam ad Thaidem."
+  },
+  {
+    "id": "p-42276b",
+    "offset": 10111,
+    "text": "CHAEREA:\nO fortunatum istum eunuchum qui quidem in hanc detur domum!"
+  },
+  {
+    "id": "p-73238c",
+    "offset": 10181,
+    "text": "PARMENO:\nQuid ita?"
+  },
+  {
+    "id": "p-812356",
+    "offset": 10201,
+    "text": "CHAEREA:\nRogitas? Summa forma semper conservam domi"
+  },
+  {
+    "id": "p-332b3a",
+    "offset": 10254,
+    "text": "Videbit; colloquetur; aderit una in unis aedibus;"
+  },
+  {
+    "id": "p-e053c4",
+    "offset": 10305,
+    "text": "Cibum nonnumquam capiet cum ea; interdum propter dormiet."
+  },
+  {
+    "id": "p-f07479",
+    "offset": 10364,
+    "text": "PARMENO:\nQuid si nunc tute fortunatus fias?"
+  },
+  {
+    "id": "p-a3658e",
+    "offset": 10409,
+    "text": "CHAEREA:\nQua re Parmeno?"
+  },
+  {
+    "id": "p-162071",
+    "offset": 10435,
+    "text": "Responde."
+  },
+  {
+    "id": "p-e039f7",
+    "offset": 10446,
+    "text": "PARMENO:\nCapias tu illius vestem."
+  },
+  {
+    "id": "p-efcbed",
+    "offset": 10481,
+    "text": "CHAEREA:\nVestem? quid tum postea?"
+  },
+  {
+    "id": "p-938271",
+    "offset": 10516,
+    "text": "PARMENO:\nPro illo te ducam."
+  },
+  {
+    "id": "p-7fc5cd",
+    "offset": 10545,
+    "text": "CHAEREA:\nAudio."
+  },
+  {
+    "id": "p-23f4ae",
+    "offset": 10562,
+    "text": "PARMENO:\nTe esse illum dicam."
+  },
+  {
+    "id": "p-dc8fdd",
+    "offset": 10593,
+    "text": "CHAEREA:\nIntelligo."
+  },
+  {
+    "id": "p-f15de2",
+    "offset": 10614,
+    "text": "PARMENO:"
+  },
+  {
+    "id": "p-d1edb4",
+    "offset": 10624,
+    "text": "Tu illis fruare commodis quibus tu illum dicebas modo;"
+  },
+  {
+    "id": "p-94f247",
+    "offset": 10680,
+    "text": "Cibum una capias, adsis, tangas, ludas, propter dormias;"
+  },
+  {
+    "id": "p-e1e883",
+    "offset": 10738,
+    "text": "Quandoquidem illarum neque te quisquam novit, neque scit qui sies."
+  },
+  {
+    "id": "p-326060",
+    "offset": 10806,
+    "text": "Praeterea forma et aetas ipsa est facile ut pro eunucho probes."
+  },
+  {
+    "id": "p-e75a44",
+    "offset": 10871,
+    "text": "CHAEREA:\nDixti pulchre: numquam vidi melius consilium dari."
+  },
+  {
+    "id": "p-28cf06",
+    "offset": 10932,
+    "text": "Age, eamus intro: nunc iam orna me; abduc, duc, quantum otes."
+  },
+  {
+    "id": "p-fbe11f",
+    "offset": 10995,
+    "text": "PARMENO:\nQuid agis? iocabar equidem."
+  },
+  {
+    "id": "p-19a9e0",
+    "offset": 11033,
+    "text": "CHAEREA:\nGarris."
+  },
+  {
+    "id": "p-83ffa6",
+    "offset": 11051,
+    "text": "PARMENO:\nPerii: quid ego egi miser?"
+  },
+  {
+    "id": "p-ad8614",
+    "offset": 11088,
+    "text": "Quo trudis? perculeris iam tu me: tibi equidem dico, mane."
+  },
+  {
+    "id": "p-cf3b5d",
+    "offset": 11148,
+    "text": "CHAEREA:\nEamus."
+  },
+  {
+    "id": "p-b4aad5",
+    "offset": 11165,
+    "text": "PARMENO:\nPergin?"
+  },
+  {
+    "id": "p-07a8f4",
+    "offset": 11183,
+    "text": "CHAEREA:\nCertum est."
+  },
+  {
+    "id": "p-222a81",
+    "offset": 11205,
+    "text": "PARMENO:\nVide ne nimium calidum hoc sit modo."
+  },
+  {
+    "id": "p-c907b5",
+    "offset": 11252,
+    "text": "CHAEREA:\nNon est profecto: sine."
+  },
+  {
+    "id": "p-c5d5f2",
+    "offset": 11286,
+    "text": "PARMENO:\nAt enim istaec in me cudetur faba."
+  },
+  {
+    "id": "p-6e8662",
+    "offset": 11331,
+    "text": "CHAEREA:\nAh!"
+  },
+  {
+    "id": "p-f15de2",
+    "offset": 11345,
+    "text": "PARMENO:"
+  },
+  {
+    "id": "p-320c3f",
+    "offset": 11355,
+    "text": "Flagitium facimus."
+  },
+  {
+    "id": "p-67acfc",
+    "offset": 11375,
+    "text": "CHAEREA:\nAn id flagitium est, si in domum meretriciam"
+  },
+  {
+    "id": "p-55a4a1",
+    "offset": 11430,
+    "text": "Deducar; et illis crucibus quae nos nostramque adolescentiam"
+  },
+  {
+    "id": "p-c6d272",
+    "offset": 11492,
+    "text": "Habent despicatam, et quae nos semper omnibus cruciant modis,"
+  },
+  {
+    "id": "p-96b7a0",
+    "offset": 11555,
+    "text": "Nunc referam gratiam; atque eas itidem fallam ut ab illis fallimur?"
+  },
+  {
+    "id": "p-77b9a1",
+    "offset": 11624,
+    "text": "An potius haec patri aequum est fieri ut a me ludatur dolis:"
+  },
+  {
+    "id": "p-ae1e18",
+    "offset": 11686,
+    "text": "Quod qui rescierint culpent: illud merito factum omnes putent."
+  },
+  {
+    "id": "p-2226c0",
+    "offset": 11750,
+    "text": "PARMENO:\nQuid istic? si certum est facere facias: verum ne post conferas"
+  },
+  {
+    "id": "p-2d7233",
+    "offset": 11824,
+    "text": "Culpam in me."
+  },
+  {
+    "id": "p-f9369f",
+    "offset": 11839,
+    "text": "CHAEREA:\nNon faciam."
+  },
+  {
+    "id": "p-fcc813",
+    "offset": 11861,
+    "text": "PARMENO:\nIubesne?"
+  },
+  {
+    "id": "p-91c02d",
+    "offset": 11880,
+    "text": "CHAEREA:\nIubeo, cogo, atque impero."
+  },
+  {
+    "id": "p-fda5dc",
+    "offset": 11917,
+    "text": "Numquam defugiam auctoritatem: sequere."
+  },
+  {
+    "id": "p-7c1f00",
+    "offset": 11958,
+    "text": "PARMENO:\nDi vortant bene."
+  }
+]

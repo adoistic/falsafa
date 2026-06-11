@@ -1,0 +1,21 @@
+---
+work_id: "2cd73b1a-3d49-5c0c-9c80-9216239aed07"
+work_slug: "suetonius-domitianus-2cd73b"
+work_title: Domitianus
+author_name: Suetonius
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "18fff0e5-edde-559f-b897-5f603012a4c9"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 354
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo022.perseus-eng2:2"
+translator: Perseus Digital Library
+---
+
+He likewise designed an expedition into Gaul and Germany, without the least necessity for it, and contrary to the advice of all his father's friends; and this he did only with the view of equalling his brother in military achievements and glory. But for this he was severely reprimanded, and that he might the more effectually be reminded of his age and position, was made to live with his father, and his litter had to follow his father's and brother's carriage, as often as they went abroad; but he attended them in their triumph for the conquest of Judaea, mounted on a white horse. Of the six consulships which he held, only one was ordinary; and that he obtained by the cession and interest of his brother. He greatly affected a modest behaviour, and, above all, a taste for poetry; insomuch, that he rehearsed his performances in public, though it was an art he had formerly little cultivated, and which he afterwards despised and abandoned. Devoted, however, as he was at this time to poetical pursuits, yet when Vologesus, king of the Parthians, desired succours against the Alani, with one of Vespasian's sons to command them, he laboured hard to procure for himself that appointment. But the scheme proving abortive, he endeavoured by presents and promises to engage other kings of the East to make a similar request. After his father's death, he was for some time in doubt, whether he should not offer the soldiers a donative double to that of his brother, and made no scruple of saying frequently, "that he had been left his partner in the empire, but that his father's will had been fraudulently set aside." From that time forward, he was constantly engaged in plots against his brother, both publicly and privately: until, falling dangerously ill, he ordered all his attendants to leave him, under pretence of his being dead, before he really was so; and, at his decease, paid him no other honour than that of enrolling him amongst the gods; and he often, both in speeches and edicts, carped at his memory by sneers and insinuations.

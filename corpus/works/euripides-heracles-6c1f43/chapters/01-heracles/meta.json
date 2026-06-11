@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-heracles-6c1f43",
+  "work_title": "Heracles",
+  "chapter_number": 1,
+  "chapter_title": "Heracles",
+  "chapter_slug": "01-heracles",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8fcdd975-1696-5f8d-b0a6-843999e71cc7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8269,
+      "paragraph_count": 1450,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "929aa330-103f-52f7-9121-62cc885b1a95",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13008,
+      "paragraph_count": 421,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2"
+    }
+  ]
+}

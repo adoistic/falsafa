@@ -1,0 +1,25 @@
+---
+work_id: "24aecff9-3f52-5095-9698-a6d15ff13cb3"
+work_slug: "plutarch-themistocles-24aecf"
+work_title: Themistocles
+author_name: Plutarch
+chapter_number: 31
+chapter_title: Chapter 31
+chapter_slug: 31
+variant_id: "5f6d8172-6f7a-5fca-bf0b-8999c7d3dbef"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 499
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-eng2:31"
+translator: Bernadotte Perrin
+---
+
+When he had come to Sardis and was viewing at his leisure the temples built there and the multitude of their dedicatory offerings, and saw in the temple of the Mother the so-called Water-carrier,—a maid in bronze, two cubits high, which he himself, when he was water commissioner at Athens, had caused to be made and dedicated from the fines he exacted of those whom he convicted of stealing and tapping the public water,—whether it was because he felt some chagrin at the capture of the offering, or because he wished to show the Athenians what honor and power he had in the King’s service, he addressed a proposition to the Lydian satrap and asked him to restore the maid to Athens.
+
+But the Barbarian was incensed and threatened to write a letter to the King about it; whereat Themistocles was afraid, and so had recourse to the women’s chambers, and, by winning the favour of the satrap’s concubines with money, succeeded in assuaging his anger. Thereafter he behaved more circumspectly, fearing now even the jealousy of the Barbarians. For he did not wander about over Asia, as Theopompus says, but had a house in Magnesia, and gathered in large gifts, and was honored like the noblest Persians, and so lived on for a long time without concern, because the King paid no heed at all to Hellenic affairs, owing to his occupation with the state of the interior.
+
+But when Egypt revolted with Athenian aid, and Hellenic triremes sailed up as far as Cyprus and Cilicia, and Cimon’s mastery of the sea forced the King to resist the efforts of the Hellenes and to hinder their hostile growth; and when at last forces began to be moved, and generals were despatched hither and thither, and messages came down to Themistocles saying that the King commanded him to make good his promises by applying himself to the Hellenic problem, then, neither embittered by anything like anger against his former fellow-citizens, nor lifted up by the great honor and power he was to have in the war, but possibly thinking his task not even approachable, both because Hellas had other great generals at the time, and especially because Cimon was so marvelously successful in his campaigns; yet most of all out of regard for the reputation of his own achievements and the trophies of those early days; having decided that his best course was to put a fitting end to his life, he made a sacrifice to the gods, then called his friends together, gave them a farewell clasp of his hand, and, as the current story goes, drank bull’s blood, or as some say, took a quick poison, and so died in Magnesia, in the sixty-fifth year of his life, most of which had been spent in political leadership. They say that the King, on learning the cause and the manner of his death, admired the man yet more, and continued to treat his friends and kindred with kindness.

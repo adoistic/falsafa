@@ -1,0 +1,26 @@
+{
+  "work_slug": "unknown-history-of-rome-books-1-10-882964",
+  "work_title": "History of Rome, books 1-10",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "63306acb-0630-57db-8161-1dc433222124",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 30498,
+      "paragraph_count": 526,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi001.perseus-eng3:2"
+    }
+  ]
+}

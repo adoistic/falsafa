@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-epicrates-and-his-fellow-cd5a9a",
+  "work_title": "Against Epicrates and his Fellow-envoys",
+  "chapter_number": 1,
+  "chapter_title": "Against Epicrates and his Fellow-envoys",
+  "chapter_slug": "01-against-epicrates-and-his-fellow-envoys",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab571014-6868-5a42-9d8c-0818ff2dcad2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 749,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg027.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6911cf62-6929-5e1e-99a5-d841f61a4232",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1141,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg027.perseus-eng2"
+    }
+  ]
+}

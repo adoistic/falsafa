@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-civil-wars-4eb837",
+  "work_title": "Civil Wars",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4c078aa1-2395-550c-af30-f2d0c20bb85d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 22671,
+      "paragraph_count": 165,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg017.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba8aba9a-a222-5b61-ab19-9578459fdb85",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 31115,
+      "paragraph_count": 125,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg017.perseus-eng2:1"
+    }
+  ]
+}

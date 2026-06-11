@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-i-chronicles-e140e5",
+  "work_title": "I Chronicles",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "813176a2-c808-5e21-8bae-07c166528057",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 691,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f620a79-d4c9-5419-bec8-031bc5b7b84b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 652,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg015.perseus-eng2:23"
+    }
+  ]
+}

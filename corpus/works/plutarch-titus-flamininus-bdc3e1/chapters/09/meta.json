@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-titus-flamininus-bdc3e1",
+  "work_title": "Titus Flamininus",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e3ac959e-f8be-5261-8f00-9486f30280c3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 401,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg028.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ccbc128f-6f2c-5fbd-b56d-f36f87b07640",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 602,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg028.perseus-eng2:9"
+    }
+  ]
+}

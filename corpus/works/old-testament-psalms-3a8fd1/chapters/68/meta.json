@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 68,
+  "chapter_title": "Chapter 68",
+  "chapter_slug": "68",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "deb8b484-4579-5e23-8097-41dfacf350c8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 755,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:68"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49e07671-9558-5f5c-9ca1-422d70618644",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 646,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:68"
+    }
+  ]
+}

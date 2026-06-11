@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-constitution-of-the-lacedaimonia-1ddaa6",
+  "work_title": "Constitution of the Lacedaimonians",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "97b50b3b-157f-5e5c-8c0b-17d39bf36679",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 262,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd0749a0-343e-5692-8ece-7cbaf1be1345",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 409,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:4"
+    }
+  ]
+}

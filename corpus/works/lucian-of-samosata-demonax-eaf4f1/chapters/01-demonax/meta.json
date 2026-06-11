@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-demonax-eaf4f1",
+  "work_title": "Demonax",
+  "chapter_number": 1,
+  "chapter_title": "Demonax",
+  "chapter_slug": "01-demonax",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2df94122-fe74-5521-943f-171b58a4c787",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3113,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg008.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35e73c44-ead4-53c3-9ee6-9277bf1f75fc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3864,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg008.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+---
+id: "f59648e4-5572-5cb5-9c5f-590a0a140ce5"
+slug: "plutarch-an-vitiositas-ad-infelicitatem-s-f59648"
+title: An vitiositas ad infelicitatem sufficia
+author:
+  name: Plutarch
+  biography: Author record from the Perseus Digital Library canonical catalogs.
+era: Ancient
+genre: Classics
+language: Greek
+language_direction: ltr
+description: An vitiositas ad infelicitatem sufficia, in English translation from the Perseus Digital Library (tr. Samuel White), with the Greek original.
+difficulty: Intermediate
+total_logical_chapters: 1
+total_variant_entries: 2
+thothica_role: catalog
+---
+
+# An vitiositas ad infelicitatem sufficia
+
+An vitiositas ad infelicitatem sufficia, in English translation from the Perseus Digital Library (tr. Samuel White), with the Greek original.
+
+## Chapters
+
+01. [An vitiositas ad infelicitatem sufficia](./chapters/01-an-vitiositas-ad-infelicitatem-sufficia/) — prose, 2 variants

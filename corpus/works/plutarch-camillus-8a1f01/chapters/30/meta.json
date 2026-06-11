@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-camillus-8a1f01",
+  "work_title": "Camillus",
+  "chapter_number": 30,
+  "chapter_title": "Chapter 30",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "687549f6-438f-5bb0-bbfb-82a96587f9be",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 163,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg011.perseus-grc2:30"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8be421bc-ffa3-5885-8a3e-df7e1af110a9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 248,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg011.perseus-eng2:30"
+    }
+  ]
+}

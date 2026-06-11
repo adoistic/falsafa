@@ -1,0 +1,38 @@
+{
+  "work_slug": "aretaeus-of-cappadocia-de-causis-et-signis-acutorum-mor-3fd2ac",
+  "work_title": "De causis et signis acutorum morborum libri duo",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "75b621f4-100a-511f-bc21-cfb615f21107",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6138,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg001.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41448b6c-0655-558a-91ae-9512eaa076cb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8550,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg001.perseus-eng2:2"
+    }
+  ]
+}

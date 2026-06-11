@@ -1,0 +1,25 @@
+---
+work_id: "543c83ed-8f5c-53fb-aaae-ef7d6d9cca25"
+work_slug: "suetonius-divus-claudius-543c83"
+work_title: Divus Claudius
+author_name: Suetonius
+chapter_number: 4
+chapter_title: Chapter 4
+chapter_slug: 04
+variant_id: "9855dd8b-4568-58ef-bd74-49b8c93411e4"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 532
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo015.perseus-eng2:4"
+translator: Perseus Digital Library
+---
+
+"I have had some conversation with Tiberius, according to your desire, my dear Livia, as to what must be done with your grandson, Tiberius, at the games of Mars. We are both agreed in this, that, once for all, we ought to determine what course to take with him. For if he be really sound and, so to speak, quite right in his intellects, why should we hesitate to promote him by the same steps and degrees we did his brother? But if we find him below par, and deficient both in body and mind, we must beware of giving occasion for him and ourselves to be laughed at by the world, which is ready enough to make such things the subject of mirth and derision. For we shall be never easy, if we are always to be debating upon every occasion of this kind, without settling, in the first instance, whether he be really capable of public offices or not. With regard to what you consult me about at the present moment, I am not against his superintending the feast of the priests, in the games of Mars, if he will suffer himself to be governed by his kinsman, Silanus's son, that he may do nothing to make the people stare and laugh at him. But I do not approve of his witnessing the Circensian games from the Pulvinar. He will be there exposed to view in the very front of the theatre. Nor do I like that he should go to the Alban Mount, or be at Rome during the Latin festival. For if he be capable of attending his brother to the mount, why is he not made prefect of the city? Thus, my dear Livia, you have my thoughts upon the matter. In my opinion, we ought to settle this affair once for all, that we may not be always in suspense between hope and fear. You may, if you think proper, give your kinsman Antonia this part of my letter to read." In another letter, he writes as follows: "I shall invite the youth, Tiberius, every day during your absence, to supper, that he may not sup alone with his friends Sulpicius and Athenodorus. I wish the poor creature was more cautious and attentive in the choice of some one, whose manners, air, and gait might be proper for his imitation: ἀτυχεῖ πάνυ ἐν τοῖσ σπουδαίοις
+
+In things of consequence he sadly fails.
+
+Where his mind does not run astray, he discovers a noble disposition." In a third letter, he says, "Let me die, my dear Livia, if I am not astonished, that the declamation of your grandson, Tiberius, should please me; for how he who talks so ill, should be able to declaim so clearly and properly, I cannot imagine." There is no doubt but Augustus, after this, came to a resolution upon the subject, and, accordingly, left him invested with no other honour than that of the Augural priesthood; naming him amongst the heirs of the third degree, who were but distantly allied to his family, for a sixth part of his estate only, with a legacy of no more than eight hundred thousand sesterces.

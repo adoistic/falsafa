@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-josephus-jewish-antiquities-22af73",
+  "work_title": "Jewish Antiquities",
+  "chapter_number": 15,
+  "chapter_title": "Book 15",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d8e65a2-98de-5d7e-92d7-d6abae67b31f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 16457,
+      "paragraph_count": 441,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg001.perseus-grc2:15"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d2a7206-8c22-5a6e-8e10-10e80a4a4e64",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 26854,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg001.perseus-eng2:15"
+    }
+  ]
+}

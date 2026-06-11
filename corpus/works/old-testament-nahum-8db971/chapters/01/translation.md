@@ -1,0 +1,49 @@
+---
+work_id: "8db97157-425c-57f2-8822-45bc62461179"
+work_slug: "old-testament-nahum-8db971"
+work_title: Nahum
+author_name: Old Testament
+chapter_number: 1
+chapter_title: Chapter 1
+chapter_slug: 01
+variant_id: "07922dee-ac62-520d-bb86-a40257514907"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 374
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg042.perseus-eng2:1"
+translator: Perseus Digital Library
+---
+
+An oracle about Nineveh. The book of the vision of Nahum the Elkoshite.
+
+Yahweh is a jealous God and avenges. Yahweh avenges and is full of wrath. Yahweh takes vengeance on his adversaries, and he maintains wrath against his enemies.
+
+Yahweh is slow to anger, and great in power, and will by no means leave the guilty unpunished. Yahweh has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
+
+He rebukes the sea, and makes it dry, and dries up all the rivers. Bashan languishes, and Carmel; and the flower of Lebanon languishes.
+
+The mountains quake before him, and the hills melt away. The earth trembles at his presence, yes, the world, and all who dwell in it.
+
+Who can stand before his indignation? Who can endure the fierceness of his anger? His wrath is poured out like fire, and the rocks are broken apart by him.
+
+Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him.
+
+But with an overflowing flood, he will make a full end of her place, and will pursue his enemies into darkness.
+
+What do you plot against Yahweh? He will make a full end. Affliction won’t rise up the second time.
+
+For entangled like thorns, and drunken as with their drink, they are consumed utterly like dry stubble.
+
+There is one gone forth out of you, who devises evil against Yahweh, who counsels wickedness.
+
+Thus says Yahweh: Though they be in full strength, and likewise many, even so they will be cut down, and he shall pass away. Though I have afflicted you, I will afflict you no more.
+
+Now will I break his yoke from off you, and will burst your bonds apart.
+
+Yahweh has commanded concerning you: No more descendants will bear your name. Out of the house of your gods, will I cut off the engraved image and the molten image. I will make your grave, for you are vile.
+
+Behold, on the mountains the feet of him who brings good news, who publishes peace! Keep your feasts, Judah! Perform your vows, for the wicked one will no more pass through you. He is utterly cut off.

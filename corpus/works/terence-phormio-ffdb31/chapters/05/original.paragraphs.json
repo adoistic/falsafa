@@ -1,0 +1,942 @@
+[
+  {
+    "id": "p-7aad5a",
+    "offset": 0,
+    "text": "(ANTIPHO. GETA.)"
+  },
+  {
+    "id": "p-e423a5",
+    "offset": 18,
+    "text": "ANTIPHO:\nEnimvero, Antipho, multimodis cum istoc animo es vituperandus."
+  },
+  {
+    "id": "p-215f52",
+    "offset": 91,
+    "text": "Itane te hinc abisse et vitam tuam tutandam aliis dedisse?"
+  },
+  {
+    "id": "p-aecbc6",
+    "offset": 151,
+    "text": "Alios tuam rem credidisti magis quam tete animadversuros?"
+  },
+  {
+    "id": "p-335b91",
+    "offset": 210,
+    "text": "Nam, ut ut erant alia, illi certe quae nunc tibi domi est consuleres,"
+  },
+  {
+    "id": "p-73074c",
+    "offset": 281,
+    "text": "Ne quid propter tuam fidem decepta pateretur mali,"
+  },
+  {
+    "id": "p-060305",
+    "offset": 333,
+    "text": "Cuius nunc miserae spes opesque sunt in te uno omnes sitae."
+  },
+  {
+    "id": "p-18c75f",
+    "offset": 394,
+    "text": "GETA:\nEquidem, here, nos iam dudum hic te absentem incusamus qui abieris."
+  },
+  {
+    "id": "p-81d551",
+    "offset": 469,
+    "text": "ANTIPHO:\nTe ipsum quaerebam."
+  },
+  {
+    "id": "p-05c2e6",
+    "offset": 499,
+    "text": "GETA:\nSed ea causa nihilo magis defecimus."
+  },
+  {
+    "id": "p-d25024",
+    "offset": 543,
+    "text": "ANTIPHO:\nLoquere, obsecro; quonam in loco sunt res et fortunae meae?"
+  },
+  {
+    "id": "p-15e291",
+    "offset": 613,
+    "text": "Numquid patri subolet?"
+  },
+  {
+    "id": "p-ed1ad4",
+    "offset": 637,
+    "text": "GETA:\nNihil etiam."
+  },
+  {
+    "id": "p-2ceaab",
+    "offset": 657,
+    "text": "ANTIPHO:\nEt quid spei porro est?"
+  },
+  {
+    "id": "p-e87425",
+    "offset": 691,
+    "text": "GETA:\nNescio."
+  },
+  {
+    "id": "p-9abfad",
+    "offset": 706,
+    "text": "ANTIPHO:\nAh."
+  },
+  {
+    "id": "p-97a8ba",
+    "offset": 720,
+    "text": "GETA:\nNisi Phaedria haud cessavit pro te eniti."
+  },
+  {
+    "id": "p-15b0d9",
+    "offset": 769,
+    "text": "ANTIPHO:\nNihil fecit novi."
+  },
+  {
+    "id": "p-f2c863",
+    "offset": 797,
+    "text": "GETA:\nTur Phormio itidem in hac re, ut in aliis, strenuum hominem praebuit."
+  },
+  {
+    "id": "p-adad81",
+    "offset": 874,
+    "text": "ANTIPHO:\nQuid is fecit?"
+  },
+  {
+    "id": "p-915041",
+    "offset": 899,
+    "text": "GETA:\nConfutavit verbis admodum iratum patrem."
+  },
+  {
+    "id": "p-f6499f",
+    "offset": 947,
+    "text": "ANTIPHO:\nEu, Phormio."
+  },
+  {
+    "id": "p-f4f66e",
+    "offset": 970,
+    "text": "GETA:\nEgo quod potui porro."
+  },
+  {
+    "id": "p-643263",
+    "offset": 999,
+    "text": "ANTIPHO:\nMi Geta, omnes vos amo."
+  },
+  {
+    "id": "p-91b615",
+    "offset": 1033,
+    "text": "GETA:"
+  },
+  {
+    "id": "p-4f967d",
+    "offset": 1040,
+    "text": "Sic habent principia sese ut dico: adhuc tranquilla res est;"
+  },
+  {
+    "id": "p-2cf8c3",
+    "offset": 1102,
+    "text": "Mansurusque patruum pater est, dum huc adveniat."
+  },
+  {
+    "id": "p-a624e0",
+    "offset": 1152,
+    "text": "ANTIPHO:\nQuid eum?"
+  },
+  {
+    "id": "p-ba6299",
+    "offset": 1172,
+    "text": "GETA:\nUt aibat,"
+  },
+  {
+    "id": "p-6b73ed",
+    "offset": 1189,
+    "text": "De eius consilio sese velle facere, quod ad hanc rem attinet."
+  },
+  {
+    "id": "p-15ecb0",
+    "offset": 1252,
+    "text": "ANTIPHO:\nQuantus metus est mihi venire huc salvum nunc patruum, Geta."
+  },
+  {
+    "id": "p-53af1a",
+    "offset": 1323,
+    "text": "Nam per eius unam, ut audio, aut vivam aut moriar sententiam."
+  },
+  {
+    "id": "p-91b615",
+    "offset": 1386,
+    "text": "GETA:"
+  },
+  {
+    "id": "p-151984",
+    "offset": 1393,
+    "text": "Phaedria tibi adest."
+  },
+  {
+    "id": "p-7797cb",
+    "offset": 1415,
+    "text": "ANTIPHO:\nUbinam?"
+  },
+  {
+    "id": "p-1028cb",
+    "offset": 1433,
+    "text": "GETA:\nEccum ab sua palaestra exit foras."
+  },
+  {
+    "id": "p-012a47",
+    "offset": 1475,
+    "text": "(PHAEDRIA. DORIO. ANTIPHO. GETA.)"
+  },
+  {
+    "id": "p-150e18",
+    "offset": 1510,
+    "text": "PHAEDRIA:\nDorio, audi,"
+  },
+  {
+    "id": "p-396cf8",
+    "offset": 1534,
+    "text": "Obsecro."
+  },
+  {
+    "id": "p-aabacf",
+    "offset": 1544,
+    "text": "DORIO:\nNon audio."
+  },
+  {
+    "id": "p-25fbc1",
+    "offset": 1563,
+    "text": "PHAEDRIA:\nParumper."
+  },
+  {
+    "id": "p-0d1037",
+    "offset": 1584,
+    "text": "DORIO:\nQuin omitte me."
+  },
+  {
+    "id": "p-e26bc9",
+    "offset": 1608,
+    "text": "PHAEDRIA:\nAudi quod dicam."
+  },
+  {
+    "id": "p-f439ed",
+    "offset": 1636,
+    "text": "DORIO:\nAt enim taedet iam audire eadem millies."
+  },
+  {
+    "id": "p-eb861c",
+    "offset": 1685,
+    "text": "PHAEDRIA:\nAt nunc dicam quod libenter audias."
+  },
+  {
+    "id": "p-33cb16",
+    "offset": 1732,
+    "text": "DORIO:\nLoquere, audio."
+  },
+  {
+    "id": "p-31a68c",
+    "offset": 1756,
+    "text": "PHAEDRIA:"
+  },
+  {
+    "id": "p-726fb8",
+    "offset": 1767,
+    "text": "Nequeo te exorare ut maneas triduum hoc? Quo nunc abis?"
+  },
+  {
+    "id": "p-611587",
+    "offset": 1824,
+    "text": "DORIO:\nMirabar si tu mihi quicquam afferres novi."
+  },
+  {
+    "id": "p-02c545",
+    "offset": 1875,
+    "text": "ANTIPHO:\nHei, metuo lenonem ne quid—suo suat capiti."
+  },
+  {
+    "id": "p-357e26",
+    "offset": 1929,
+    "text": "GETA:\nIdem ego metuo."
+  },
+  {
+    "id": "p-dfd6ce",
+    "offset": 1952,
+    "text": "PHAEDRIA:\nNon mihi credis?"
+  },
+  {
+    "id": "p-f0395e",
+    "offset": 1980,
+    "text": "DORIO:\nHariolare."
+  },
+  {
+    "id": "p-f77caa",
+    "offset": 1999,
+    "text": "PHAEDRIA:\nSin fidem do."
+  },
+  {
+    "id": "p-1fc9b6",
+    "offset": 2024,
+    "text": "DORIO:\nFabulae."
+  },
+  {
+    "id": "p-96ed7d",
+    "offset": 2041,
+    "text": "PHAEDRIA:\nFoeneratum istuc beneficium tibi pulchre dices."
+  },
+  {
+    "id": "p-97ba7a",
+    "offset": 2100,
+    "text": "DORIO:\nLogi."
+  },
+  {
+    "id": "p-31a68c",
+    "offset": 2114,
+    "text": "PHAEDRIA:"
+  },
+  {
+    "id": "p-6d154e",
+    "offset": 2125,
+    "text": "Crede mihi, gaudebis facto: verum hercle hoc est."
+  },
+  {
+    "id": "p-ef8333",
+    "offset": 2176,
+    "text": "DORIO:\nSomnia."
+  },
+  {
+    "id": "p-a7131c",
+    "offset": 2192,
+    "text": "PHAEDRIA:\nExperire; non est longum."
+  },
+  {
+    "id": "p-9f556c",
+    "offset": 2229,
+    "text": "DORIO:\nCantilenam eandem canis."
+  },
+  {
+    "id": "p-ec443f",
+    "offset": 2262,
+    "text": "PHAEDRIA:\nTu mihi cognatus, tu parens, tu amicus, tu—"
+  },
+  {
+    "id": "p-013c2f",
+    "offset": 2317,
+    "text": "DORIO:\nGarri modo."
+  },
+  {
+    "id": "p-318d69",
+    "offset": 2337,
+    "text": "PHAEDRIA:\nAdeone ingenio esse duro te atque inexorabili"
+  },
+  {
+    "id": "p-9eae4e",
+    "offset": 2394,
+    "text": "Ut neque misericordia neque precibus molliri queas?"
+  },
+  {
+    "id": "p-00cad7",
+    "offset": 2447,
+    "text": "DORIO:"
+  },
+  {
+    "id": "p-4fd076",
+    "offset": 2455,
+    "text": "Adeon te esse incogitantem atque impudentem, Phaedria,"
+  },
+  {
+    "id": "p-d41ab0",
+    "offset": 2511,
+    "text": "Ut phaleratis dictis ducas me, et meam ductes gratiis?"
+  },
+  {
+    "id": "p-9142d4",
+    "offset": 2567,
+    "text": "ANTIPHO:\nMiseritum est."
+  },
+  {
+    "id": "p-cc8654",
+    "offset": 2592,
+    "text": "PHAEDRIA:\nHei veris vincor."
+  },
+  {
+    "id": "p-8fe18f",
+    "offset": 2621,
+    "text": "GETA:\nQuam uterque est similis sui."
+  },
+  {
+    "id": "p-41b391",
+    "offset": 2658,
+    "text": "PHAEDRIA:\nNeque, Antipho alia quum occupatus esset sollicitudine,"
+  },
+  {
+    "id": "p-577487",
+    "offset": 2725,
+    "text": "Tum hoc esse mihi obiectum malum!"
+  },
+  {
+    "id": "p-20aea6",
+    "offset": 2760,
+    "text": "ANTIPHO:\nAh, quid istuc autem est, Phaedria?"
+  },
+  {
+    "id": "p-31a68c",
+    "offset": 2806,
+    "text": "PHAEDRIA:"
+  },
+  {
+    "id": "p-012ff2",
+    "offset": 2817,
+    "text": "O fortunatissime Antipho."
+  },
+  {
+    "id": "p-53915b",
+    "offset": 2844,
+    "text": "ANTIPHO:\nEgone?"
+  },
+  {
+    "id": "p-470bf7",
+    "offset": 2861,
+    "text": "PHAEDRIA:\nCui quod amas domi est;"
+  },
+  {
+    "id": "p-ca972b",
+    "offset": 2896,
+    "text": "Nec cum huiusmodi unquam usus venit ut conflictares malo."
+  },
+  {
+    "id": "p-d5c0a7",
+    "offset": 2955,
+    "text": "ANTIPHO:\nMihin domi est? immo, id quod aiunt, auribus teneo lupum."
+  },
+  {
+    "id": "p-2f791b",
+    "offset": 3023,
+    "text": "Nam neque quomodo a me amittam invenio; neque uti retineam scio."
+  },
+  {
+    "id": "p-0153d8",
+    "offset": 3089,
+    "text": "DORIO:\nIpsum istuc mihi in hoc est."
+  },
+  {
+    "id": "p-903815",
+    "offset": 3126,
+    "text": "ANTIPHO:\nHeia, ne parum leno sies."
+  },
+  {
+    "id": "p-0f764b",
+    "offset": 3162,
+    "text": "Numquid hic confecit?"
+  },
+  {
+    "id": "p-642d2f",
+    "offset": 3185,
+    "text": "PHAEDRIA:\nHicine? quod homo inhumanissimus:"
+  },
+  {
+    "id": "p-da5f42",
+    "offset": 3230,
+    "text": "Pamphilam meam vendidit."
+  },
+  {
+    "id": "p-77ccde",
+    "offset": 3256,
+    "text": "GETA:\nQuid? vendidit?"
+  },
+  {
+    "id": "p-a24a36",
+    "offset": 3279,
+    "text": "ANTIPHO:\nAine vendidit?"
+  },
+  {
+    "id": "p-3be0b3",
+    "offset": 3304,
+    "text": "PHAEDRIA:\nVendidit."
+  },
+  {
+    "id": "p-838255",
+    "offset": 3325,
+    "text": "DORIO:\nQuam indignum facinus, ancillam aere emtam suo!"
+  },
+  {
+    "id": "p-96a2db",
+    "offset": 3381,
+    "text": "PHAEDRIA:\nNequeo exorare ut me maneat, et cum illo ut mutet fidem,"
+  },
+  {
+    "id": "p-39a9e3",
+    "offset": 3449,
+    "text": "Triduum hoc, dum id quod est promissum ab amicis argentum aufero."
+  },
+  {
+    "id": "p-21b6fd",
+    "offset": 3516,
+    "text": "Si tum non dedero, unam praeterea horam ne oppertus sies."
+  },
+  {
+    "id": "p-7c08b8",
+    "offset": 3575,
+    "text": "DORIO:\nObtundis."
+  },
+  {
+    "id": "p-5ad9ae",
+    "offset": 3593,
+    "text": "ANTIPHO:\nHaud longum est id quod orat, Dorio: exoret sine:"
+  },
+  {
+    "id": "p-525d38",
+    "offset": 3653,
+    "text": "Idem hoc tibi quod bene promeritus fueris conduplicaverit."
+  },
+  {
+    "id": "p-6ca109",
+    "offset": 3713,
+    "text": "DORIO:\nVerba istaec sunt."
+  },
+  {
+    "id": "p-602489",
+    "offset": 3740,
+    "text": "ANTIPHO:\nPamphilamne hac urbe privari sines?"
+  },
+  {
+    "id": "p-413d51",
+    "offset": 3786,
+    "text": "Tum praeterea horunc amorem distrahi poterin pati?"
+  },
+  {
+    "id": "p-00cad7",
+    "offset": 3838,
+    "text": "DORIO:"
+  },
+  {
+    "id": "p-726808",
+    "offset": 3846,
+    "text": "Neque ego, neque tu."
+  },
+  {
+    "id": "p-db90d0",
+    "offset": 3868,
+    "text": "GETA:\nDi tibi omnes id quod es dignus duint."
+  },
+  {
+    "id": "p-4ccce0",
+    "offset": 3914,
+    "text": "DORIO:\nEgo te complures adversum ingenium meum menses tuli"
+  },
+  {
+    "id": "p-49a671",
+    "offset": 3974,
+    "text": "Pollicitantem, nihil ferentem, flentem: nunc contra omnia haec,"
+  },
+  {
+    "id": "p-f05e93",
+    "offset": 4039,
+    "text": "Repperi qui det neque lacrimet; da locum melioribus."
+  },
+  {
+    "id": "p-3e478a",
+    "offset": 4093,
+    "text": "ANTIPHO:\nCerte hercle, ego si satis commemini, tibi quidem est olim dies"
+  },
+  {
+    "id": "p-c3bed7",
+    "offset": 4167,
+    "text": "Quam ad dares huic praestituta."
+  },
+  {
+    "id": "p-851522",
+    "offset": 4200,
+    "text": "PHAEDRIA:\nFactum."
+  },
+  {
+    "id": "p-ec7042",
+    "offset": 4219,
+    "text": "DORIO:\nNum ego istuc nego?"
+  },
+  {
+    "id": "p-471b76",
+    "offset": 4247,
+    "text": "ANTIPHO:\nIam ea praeteriit?"
+  },
+  {
+    "id": "p-a46fc3",
+    "offset": 4276,
+    "text": "DORIO:\nNon; verum haec ei antecessit."
+  },
+  {
+    "id": "p-0bacb1",
+    "offset": 4315,
+    "text": "ANTIPHO:\nNon pudet"
+  },
+  {
+    "id": "p-10d4ac",
+    "offset": 4335,
+    "text": "Vanitatis?"
+  },
+  {
+    "id": "p-989fec",
+    "offset": 4347,
+    "text": "DORIO:\nMinime, dum ob rem."
+  },
+  {
+    "id": "p-d60b36",
+    "offset": 4375,
+    "text": "GETA:\nSterquilinium."
+  },
+  {
+    "id": "p-634938",
+    "offset": 4397,
+    "text": "PHAEDRIA:\nDorio,"
+  },
+  {
+    "id": "p-f80aa6",
+    "offset": 4415,
+    "text": "Itane tandem facere oportet?"
+  },
+  {
+    "id": "p-9e429f",
+    "offset": 4445,
+    "text": "DORIO:\nSic sum: si placeo, utere."
+  },
+  {
+    "id": "p-458356",
+    "offset": 4480,
+    "text": "ANTIPHO:\nSicine hunc decipis?"
+  },
+  {
+    "id": "p-5406a4",
+    "offset": 4511,
+    "text": "DORIO:\nImmo enimvero, Antipho, hic me decipit:"
+  },
+  {
+    "id": "p-59e173",
+    "offset": 4559,
+    "text": "Nam hic me huiusmodi esse scibat; ego hunc esse aliter credidi."
+  },
+  {
+    "id": "p-a59312",
+    "offset": 4624,
+    "text": "Iste me fefellit; ego isti nihilo sum aliter ac fui."
+  },
+  {
+    "id": "p-e51b71",
+    "offset": 4678,
+    "text": "Sed utut haec sunt, tamen hoc faciam: cras mane argentum mihi"
+  },
+  {
+    "id": "p-40eb84",
+    "offset": 4741,
+    "text": "Miles dare se dixit: si mihi prior tu attuleris, Phaedria,"
+  },
+  {
+    "id": "p-bf7eab",
+    "offset": 4801,
+    "text": "Mea lege utar, ut potior sit qui prior ad dandum est. Vale."
+  },
+  {
+    "id": "p-8d6edf",
+    "offset": 4862,
+    "text": "(PHAEDRIA. ANTIPHO. GETA.)"
+  },
+  {
+    "id": "p-2b2d6c",
+    "offset": 4890,
+    "text": "PHAEDRIA:\nQuid faciam? Unde ego nunc tam subito huic argentum inveniam miser,"
+  },
+  {
+    "id": "p-69f755",
+    "offset": 4969,
+    "text": "Cui minus nihilo est? quod si hic potuisset nunc exorarier"
+  },
+  {
+    "id": "p-873b63",
+    "offset": 5029,
+    "text": "Triduum hoc, promissum fuerat."
+  },
+  {
+    "id": "p-8aa00b",
+    "offset": 5061,
+    "text": "ANTIPHO:\nItane hunc patiemur, Geta,"
+  },
+  {
+    "id": "p-244449",
+    "offset": 5098,
+    "text": "Fieri miserum, qui me dudum, ut dixti, adiurit comiter,"
+  },
+  {
+    "id": "p-6a8774",
+    "offset": 5155,
+    "text": "Quin, quum opus est, beneficium rursum ei experiamur reddere?"
+  },
+  {
+    "id": "p-40a2c4",
+    "offset": 5218,
+    "text": "GETA:\nScio quidem hoc esse aequum."
+  },
+  {
+    "id": "p-1fa126",
+    "offset": 5254,
+    "text": "ANTIPHO:\nAge ergo, solus servare hunc potes."
+  },
+  {
+    "id": "p-8e7674",
+    "offset": 5300,
+    "text": "GETA:\nQuid faciam?"
+  },
+  {
+    "id": "p-3302bb",
+    "offset": 5320,
+    "text": "ANTIPHO:\nInvenias argentum."
+  },
+  {
+    "id": "p-2142e2",
+    "offset": 5349,
+    "text": "GETA:\nCupio; sed id unde edoce."
+  },
+  {
+    "id": "p-0d970a",
+    "offset": 5382,
+    "text": "ANTIPHO:\nPater adest hic."
+  },
+  {
+    "id": "p-143a98",
+    "offset": 5409,
+    "text": "GETA:\nScio; sed quid tum?"
+  },
+  {
+    "id": "p-dd1375",
+    "offset": 5436,
+    "text": "ANTIPHO:\nAh, dictum sapienti sat est."
+  },
+  {
+    "id": "p-26e35d",
+    "offset": 5475,
+    "text": "GETA:\nItane?"
+  },
+  {
+    "id": "p-a1adec",
+    "offset": 5489,
+    "text": "ANTIPHO:\nIta."
+  },
+  {
+    "id": "p-5dea11",
+    "offset": 5504,
+    "text": "GETA:\nSane hercle pulchre suades: etiam tu hinc abis?"
+  },
+  {
+    "id": "p-f9fba9",
+    "offset": 5559,
+    "text": "Non triumpho ex nuptiis tuis si nihil nanciscor mali,"
+  },
+  {
+    "id": "p-f3d642",
+    "offset": 5614,
+    "text": "Ni etiam nunc me huius causa quaerere in maloiubeas crucem?"
+  },
+  {
+    "id": "p-dd267b",
+    "offset": 5675,
+    "text": "ANTIPHO:\nVerum hic dicit."
+  },
+  {
+    "id": "p-64316f",
+    "offset": 5702,
+    "text": "PHAEDRIA:\nQuid? ego vobis, Geta, alienus sum?"
+  },
+  {
+    "id": "p-a47817",
+    "offset": 5749,
+    "text": "GETA:\nHaud puto."
+  },
+  {
+    "id": "p-f094b7",
+    "offset": 5767,
+    "text": "Sed parumne est quod omnibus nunc nobis succenset senex,"
+  },
+  {
+    "id": "p-edfad5",
+    "offset": 5825,
+    "text": "Ni instigemus etiam ut nullus locus relinquatur preci?"
+  },
+  {
+    "id": "p-31a68c",
+    "offset": 5881,
+    "text": "PHAEDRIA:"
+  },
+  {
+    "id": "p-595642",
+    "offset": 5892,
+    "text": "Alius ab oculis meis illam in ignotum hinc abducet locum? Hem!"
+  },
+  {
+    "id": "p-8c11b5",
+    "offset": 5956,
+    "text": "Tum igitur dum licet dumque adsum loquimini mecum, Antipho;"
+  },
+  {
+    "id": "p-c7f21b",
+    "offset": 6017,
+    "text": "Contemplamini me."
+  },
+  {
+    "id": "p-69892d",
+    "offset": 6036,
+    "text": "ANTIPHO:\nQuamobrem? aut quidnam facturus es cedo?"
+  },
+  {
+    "id": "p-971faa",
+    "offset": 6087,
+    "text": "PHAEDRIA:\nQuoquo hinc asportabitur terrarum certum est persequi,"
+  },
+  {
+    "id": "p-2e1b51",
+    "offset": 6153,
+    "text": "Aut perire."
+  },
+  {
+    "id": "p-205095",
+    "offset": 6166,
+    "text": "GETA:\nDi bene vertant, quod agas; pedetentim tamen."
+  },
+  {
+    "id": "p-c0f093",
+    "offset": 6219,
+    "text": "ANTIPHO:"
+  },
+  {
+    "id": "p-0ebbb2",
+    "offset": 6229,
+    "text": "Vide si quid opis potes afferre huic."
+  },
+  {
+    "id": "p-c2ea63",
+    "offset": 6268,
+    "text": "GETA:\nSi quid? quid?"
+  },
+  {
+    "id": "p-d8aa37",
+    "offset": 6290,
+    "text": "ANTIPHO:\nQuaere, obsecro,"
+  },
+  {
+    "id": "p-9c853f",
+    "offset": 6317,
+    "text": "Ne quid plus minusve faxit quod nos post pigeat, Geta."
+  },
+  {
+    "id": "p-84208f",
+    "offset": 6373,
+    "text": "GETA:\nQuaero. Salvus est, ut opinor; verum enim metuo malum."
+  },
+  {
+    "id": "p-ff977a",
+    "offset": 6435,
+    "text": "ANTIPHO:\nNoli metuere: una tecum bona mala tolerabimus."
+  },
+  {
+    "id": "p-f8f822",
+    "offset": 6492,
+    "text": "GETA:\nQuantum tibi opus est argenti? loquere."
+  },
+  {
+    "id": "p-bc428b",
+    "offset": 6539,
+    "text": "PHAEDRIA:\nSolae triginta minae."
+  },
+  {
+    "id": "p-91b615",
+    "offset": 6572,
+    "text": "GETA:"
+  },
+  {
+    "id": "p-89e4e7",
+    "offset": 6579,
+    "text": "Triginta? hui percara est, Phaedria."
+  },
+  {
+    "id": "p-83c51e",
+    "offset": 6617,
+    "text": "PHAEDRIA:\nIstaec vero vilis est."
+  },
+  {
+    "id": "p-715e86",
+    "offset": 6651,
+    "text": "GETA:\nAge, age; inventas reddam."
+  },
+  {
+    "id": "p-c16c99",
+    "offset": 6685,
+    "text": "PHAEDRIA:\nO lepidum!"
+  },
+  {
+    "id": "p-3ad36c",
+    "offset": 6707,
+    "text": "GETA:\nAufer te hinc."
+  },
+  {
+    "id": "p-606602",
+    "offset": 6729,
+    "text": "PHAEDRIA:\nIam opus est."
+  },
+  {
+    "id": "p-2eb309",
+    "offset": 6754,
+    "text": "GETA:\nIam feres."
+  },
+  {
+    "id": "p-1fb8cc",
+    "offset": 6772,
+    "text": "Sed opus est mihi Phormionem ad hanc rem adiutorem dari."
+  },
+  {
+    "id": "p-a03017",
+    "offset": 6830,
+    "text": "ANTIPHO:\nPraesto est: audacissime oneris quidvis impone, et feret."
+  },
+  {
+    "id": "p-14d601",
+    "offset": 6898,
+    "text": "Solus est homo amico amicus."
+  },
+  {
+    "id": "p-91c020",
+    "offset": 6928,
+    "text": "GETA:\nEamus ergo ad eum ocius."
+  },
+  {
+    "id": "p-c0f093",
+    "offset": 6960,
+    "text": "ANTIPHO:"
+  },
+  {
+    "id": "p-3e0847",
+    "offset": 6970,
+    "text": "Numquid est quod opera mea vobis opus sit?"
+  },
+  {
+    "id": "p-f384a2",
+    "offset": 7014,
+    "text": "GETA:\nNihil: verum abi domum;"
+  },
+  {
+    "id": "p-b469ad",
+    "offset": 7045,
+    "text": "Et illam miseram, quam ego nunc intus scio esse exanimatam metu,"
+  },
+  {
+    "id": "p-db2094",
+    "offset": 7111,
+    "text": "Consolare: Cessas?"
+  },
+  {
+    "id": "p-b773fa",
+    "offset": 7131,
+    "text": "ANTIPHO:\nNihil est aeque quod faciam libens."
+  },
+  {
+    "id": "p-ee8c50",
+    "offset": 7177,
+    "text": "PHAEDRIA:\nQua via istuc facies?"
+  },
+  {
+    "id": "p-c9f262",
+    "offset": 7210,
+    "text": "GETA:\nDicam in itinere: modo te hinc amove."
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-josephus-jewish-antiquities-22af73",
+  "work_title": "Jewish Antiquities",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30986234-139e-599b-b6e1-5943a72cb31b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 15255,
+      "paragraph_count": 366,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg001.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64a67f3f-6724-5595-a60e-339252464ca6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 21877,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg001.perseus-eng2:1"
+    }
+  ]
+}

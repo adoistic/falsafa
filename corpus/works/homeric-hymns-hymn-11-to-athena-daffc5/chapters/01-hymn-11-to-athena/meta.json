@@ -1,0 +1,26 @@
+{
+  "work_slug": "homeric-hymns-hymn-11-to-athena-daffc5",
+  "work_title": "Hymn 11 To Athena",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 11 To Athena",
+  "chapter_slug": "01-hymn-11-to-athena",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "effc5462-0704-5cb4-994f-bdc7fb4678d2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 57,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg011.perseus-eng2"
+    }
+  ]
+}

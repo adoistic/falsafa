@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-gallic-history-fb8eb8",
+  "work_title": "Gallic History",
+  "chapter_number": 1,
+  "chapter_title": "Gallic History",
+  "chapter_slug": "01-gallic-history",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "498bdfaa-46a5-57d7-80bf-b6b33017b1e3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1919,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f5176f5-ee24-561e-8904-6dc206f86d6d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2758,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg005.perseus-eng2"
+    }
+  ]
+}

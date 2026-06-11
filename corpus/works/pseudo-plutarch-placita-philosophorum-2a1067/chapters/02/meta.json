@@ -1,0 +1,38 @@
+{
+  "work_slug": "pseudo-plutarch-placita-philosophorum-2a1067",
+  "work_title": "Placita Philosophorum",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5a7f89d8-da37-5741-8d35-5a368b3832a1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2456,
+      "paragraph_count": 138,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0094.tlg003.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c16854c9-4e21-5765-8f1b-6e0966adc176",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3970,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0094.tlg003.perseus-eng2:2"
+    }
+  ]
+}

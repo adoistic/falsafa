@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-amphitruo-14f1d9",
+  "work_title": "Amphitruo",
+  "chapter_number": 2,
+  "chapter_title": "Chapter prologue",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "24cd5884-8b83-5a4f-8acf-b1f3328f8ebf",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3381,
+      "paragraph_count": 365,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi001.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a7ee980-6e1a-5247-bdae-eacfbc404b88",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1638,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi001.perseus-eng2:2"
+    }
+  ]
+}

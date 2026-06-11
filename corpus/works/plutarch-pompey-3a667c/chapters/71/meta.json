@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pompey-3a667c",
+  "work_title": "Pompey",
+  "chapter_number": 71,
+  "chapter_title": "Chapter 71",
+  "chapter_slug": "71",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8f03cefa-8e24-56df-90f9-24a7b49d94a6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 277,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2:71"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e9a2d95-3459-566a-af43-e1df5a014449",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 469,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2:71"
+    }
+  ]
+}

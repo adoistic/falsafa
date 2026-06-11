@@ -1,0 +1,33 @@
+---
+work_id: "44a491b9-8d1b-555b-991a-080119bb4b2a"
+work_slug: "plutarch-nicias-44a491"
+work_title: Nicias
+author_name: Plutarch
+chapter_number: 13
+chapter_title: Chapter 13
+chapter_slug: 13
+variant_id: "c06e963e-dc68-5dea-b10c-4050a074ee4f"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 577
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg038.perseus-eng2:13"
+translator: Bernadotte Perrin
+---
+
+And yet the priesthood also is said to have offered much opposition to the expedition. But Alcibiades had other diviners in his private service, and from sundry oracles reputed ancient he cited one saying that great fame would be won by the Athenians in Sicily. To his delight also certain envoys who had been sent to the shrine of Ammon came back with an oracle declaring that the Athenians would capture all the Syracusans; but utterances of opposite import the envoys concealed, for fear of using words of ill omen.
+
+For no signs could deter the people from the expedition, were they never so obvious and clear such as, for instance, the mutilation of the Hermae. These statues were all disfigured in a single night except one, called the Hermes of Andocides, a dedication of the Aegeid tribe, standing in front of what was at that time the house of Andocides. Then there was the a affair of the altar of the Twelve Gods. An unknown man leaped upon it all of a sudden, bestrode it, and then mutilated himself with a stone.
+
+At Delphi, moreover, there stood a Palladium, made of gold and set upon a bronze palm tree, a dedication of the city of Athens from the spoils of her valor in the Persian wars. Ravens alighted on this image and pecked it for many days together; they also bit off the fruit of the palm-tree, which was of gold, and cast it to the ground.
+
+The Athenians, it is true, said that this whole story was an invention of the Delphians, at the instigation of the Syracusans; but at any rate when a certain oracle bade them bring the priestess of Athena from Clazomenae, they sent and fetched the woman, and lo! her name was Peace. And this, as it seemed, was the advice which the divinity would give the city at that time, namely, to keep the peace.
+
+It was either because he feared such signs as these, or because, from mere human calculation, he was alarmed about the expedition, that the astrologer Meton, who had been given a certain station of command, pretended to be mad and set his house on fire. Some, however, tell the story in this way: Meton made no pretence of madness, but burned his house down in the night, and then came forward publicly in great dejection and begged his fellow citizens, in view of the great calamity which had befallen him, to release from the expedition his son, who was about to sail for Sicily in command of a trireme.
+
+To Socrates the wise man also, his divine guide, making use of the customary tokens for his enlightenment, indicated plainly that the expedition would make for the ruin of the city. Socrates let this be known to his intimate friends, and the story had a wide circulation.
+
+Not a few also were somewhat disconcerted by the character of the days in the midst of which they dispatched their armament. The women were celebrating at that time the festival of Adonis, and in many places throughout the city little images of the god were laid out for burial, and funeral rites were held about them, with wailing cries of women, so that those who cared anything for such matters were distressed, and feared lest that powerful armament, with all the splendor and vigor which were so manifest in it, should speedily wither away and come to naught.

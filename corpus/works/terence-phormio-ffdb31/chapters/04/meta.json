@@ -1,0 +1,38 @@
+{
+  "work_slug": "terence-phormio-ffdb31",
+  "work_title": "Phormio",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "04",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e4993e0b-3b72-5528-aa2e-cf12d0eb7d6e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1968,
+      "paragraph_count": 340,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi004.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3790ba7a-18b9-591d-9703-21556ec76185",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3397,
+      "paragraph_count": 188,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi004.perseus-eng2:4"
+    }
+  ]
+}

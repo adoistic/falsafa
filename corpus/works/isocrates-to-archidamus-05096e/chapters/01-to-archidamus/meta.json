@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-archidamus-05096e",
+  "work_title": "To Archidamus",
+  "chapter_number": 1,
+  "chapter_title": "To Archidamus",
+  "chapter_slug": "01-to-archidamus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cc66f9ad-0130-51d8-bedc-3463c11b8e25",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1143,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg024.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d4bd8540-5708-50fe-978d-4f143990946e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1735,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg024.perseus-eng2"
+    }
+  ]
+}

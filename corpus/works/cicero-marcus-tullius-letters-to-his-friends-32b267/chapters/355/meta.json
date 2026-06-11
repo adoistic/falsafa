@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-his-friends-32b267",
+  "work_title": "Letters to his Friends",
+  "chapter_number": 355,
+  "chapter_title": "Chapter text=F:book=16:letter=23",
+  "chapter_slug": "355",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c93710ca-154b-5c8a-9ae9-09f86746f034",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 208,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:355"
+    }
+  ]
+}

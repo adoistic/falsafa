@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-economics-82caeb",
+  "work_title": "Economics",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2eef6bd9-f06d-5358-8da5-724b44795533",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1507,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg029.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ce1d66a-25a8-5bd1-8867-6f48c66cb3d4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2437,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg029.perseus-eng2:1"
+    }
+  ]
+}

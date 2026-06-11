@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-john-da6035",
+  "work_title": "John",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "63e284c9-3dad-55b6-99f5-047b4f0a9e25",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 580,
+      "paragraph_count": 99,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg004.perseus-grc2:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "100f09b0-3505-5e87-a151-616549bd68ab",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 783,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg004.perseus-eng2:16"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-marcus-cato-5dd3ac",
+  "work_title": "Marcus Cato",
+  "chapter_number": 19,
+  "chapter_title": "Chapter 19",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ffdcb6ea-3101-592a-a1b6-e2d1b31d0178",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 350,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg025.perseus-grc2:19"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96bd7dd8-d2e8-5bbe-b575-ca56e8536ffd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 464,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg025.perseus-eng2:19"
+    }
+  ]
+}

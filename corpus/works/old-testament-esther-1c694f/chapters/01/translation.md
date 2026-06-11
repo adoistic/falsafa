@@ -1,0 +1,57 @@
+---
+work_id: "1c694fb0-2349-5aff-bc1d-072f72c64628"
+work_slug: "old-testament-esther-1c694f"
+work_title: Esther
+author_name: Old Testament
+chapter_number: 1
+chapter_title: Chapter 1
+chapter_slug: 01
+variant_id: "2cf0e7a4-5b04-5858-8c98-e9ed118aab0d"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 702
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg019.perseus-eng2:1"
+translator: Perseus Digital Library
+---
+
+Now it happened in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces), that in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace, in the third year of his reign, he made a feast to all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him;
+
+when he shown the riches of his glorious kingdom and the honor of his excellent majesty many days, even one hundred eighty days.
+
+When these days were fulfilled, the king made a feast to all the people who were present in Shushan the palace, both great and small, seven days, in the court of the garden of the king's palace.
+
+[There were hangings of] white [cloth], [of] green, and [of] blue, fastened with cords of fine linen and purple to silver rings and pillars of marble: the couches were of gold and silver, on a pavement of red, and white, and yellow, and black marble.
+
+They gave them drink in vessels of gold (the vessels being diverse one from another), and royal wine in abundance, according to the bounty of the king.
+
+The drinking was according to the law; none could compel: for so the king had appointed to all the officers of his house, that they should do according to every man's pleasure.
+
+Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus.
+
+On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcass, the seven chamberlains who ministered in the presence of Ahasuerus the king, to bring Vashti the queen before the king with the crown royal, to show the peoples and the princes her beauty; for she was beautiful to look on.
+
+But the queen Vashti refused to come at the king's commandment by the chamberlains: therefore was the king very angry, and his anger burned in him.
+
+Then the king said to the wise men, who knew the times, (for so was the king's manner toward all who knew law and judgment;
+
+and the next to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king's face, and sat first in the kingdom),
+
+What shall we do to the queen Vashti according to law, because she has not done the bidding of the king Ahasuerus by the chamberlains?
+
+Memucan answered before the king and the princes, Vashti the queen has not done wrong to the king only, but also to all the princes, and to all the peoples who are in all the provinces of the king Ahasuerus.
+
+For this deed of the queen will come abroad to all women, to make their husbands contemptible in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she didn't come.
+
+This day will the princesses of Persia and Media who have heard of the deed of the queen say [the like] to all the king's princes. So [will there arise] much contempt and wrath.
+
+If it please the king, let there go forth a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it not be altered, that Vashti come no more before king Ahasuerus; and let the king give her royal estate to another who is better than she.
+
+When the king's decree which he shall make shall be published throughout all his kingdom (for it is great), all the wives will give to their husbands honor, both to great and small.
+
+The saying pleased the king and the princes; and the king did according to the word of Memucan:
+
+for he sent letters into all the king's provinces, into every province according to the writing of it, and to every people after their language, that every man should bear rule in his own house, and should speak according to the language of his people.

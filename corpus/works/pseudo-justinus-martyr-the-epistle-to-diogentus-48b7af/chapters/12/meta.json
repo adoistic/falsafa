@@ -1,0 +1,38 @@
+{
+  "work_slug": "pseudo-justinus-martyr-the-epistle-to-diogentus-48b7af",
+  "work_title": "The Epistle to Diogentus",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "507ad752-dc3a-57ac-9e42-2fb2c426804f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 224,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0646.tlg004.1st1K-grc1:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e90a92fb-115b-514b-a5ba-19ace67d5b28",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 340,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0646.tlg004.perseus-eng1:12"
+    }
+  ]
+}

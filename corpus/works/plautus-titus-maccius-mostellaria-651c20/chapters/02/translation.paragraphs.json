@@ -1,0 +1,932 @@
+[
+  {
+    "id": "p-164e2e",
+    "offset": 0,
+    "text": "(Enter, from the house of THEUROPIDES, GRUMIO, pushing out TRANIO."
+  },
+  {
+    "id": "p-df13f0",
+    "offset": 68,
+    "text": "GRUMIO:\nGet out of the kitchen, will you; out of it, you whip-scoundrel, who are giving me your cavilling talk amid the platters; march out of the house, you ruin of your master. Upon my faith, if I only live, I’ll be soundly revenged upon you in the country. Get out, I say, you steam of the kitchen."
+  },
+  {
+    "id": "p-2fd29e",
+    "offset": 371,
+    "text": "Why are you skulking thus?"
+  },
+  {
+    "id": "p-0b4adb",
+    "offset": 399,
+    "text": "TRANIO:\nWhy the plague are you making this noise here before the house? Do you fancy yourself to be in the country? Get out of the house; be off into the country. Go and hang yourself. Get away from the door."
+  },
+  {
+    "id": "p-5a1c2b",
+    "offset": 609,
+    "text": "(Striking him.) There now, was it that you wanted?"
+  },
+  {
+    "id": "p-3fbbe2",
+    "offset": 661,
+    "text": "GRUMIO:\n(running away.)\nI’m undone! Why are you beating me?"
+  },
+  {
+    "id": "p-2ebd24",
+    "offset": 722,
+    "text": "TRANIO:\nBecause you want it."
+  },
+  {
+    "id": "p-f699ba",
+    "offset": 752,
+    "text": "GRUMIO:\nI must endure it. Only let the old gentleman return home; only let him come safe home, whom you are devouring in his absence."
+  },
+  {
+    "id": "p-fae731",
+    "offset": 887,
+    "text": "TRANIO:\nYou don’t say what’s either likely or true, you blockhead, as to any one devouring a person in his absence."
+  },
+  {
+    "id": "p-c2c59e",
+    "offset": 1004,
+    "text": "GRUMIO:\nIndeed, you town wit, you minion of the mob, do you throw the country in my teeth? Really, Tranio, I do believe that you feel sure that before long you’ll be handed over to the mill. Within a short period, i’ faith, Tranio, you’ll full soon be adding to the iron-bound race in the country."
+  },
+  {
+    "id": "p-026cb2",
+    "offset": 1303,
+    "text": "While you choose to, and have the opportunity, drink on, squander his property, corrupt my master’s son, a most worthy young man, drink night and day, live like Greeks, make purchase of mistresses, give them their freedom, feed parasites, feast yourselves sumptuously."
+  },
+  {
+    "id": "p-ba061b",
+    "offset": 1573,
+    "text": "Was it thus that the old gentleman enjoined you when he went hence abroad? Is it after this fashion that he will find his property well husbanded? Do you suppose that this is the duty of a good servant, to be ruining both the estate and the son of his master? For I do consider him as ruined, when he devotes himself to these goings on."
+  },
+  {
+    "id": "p-9ef6d2",
+    "offset": 1911,
+    "text": "A person, with whom not one of all the young men of Attica was before deemed equally frugal or more steady, the same is now carrying off the palm in the opposite direction. Through your management and your tutoring has that been done."
+  },
+  {
+    "id": "p-3c4d06",
+    "offset": 2147,
+    "text": "TRANIO:\nWhat the plague business have you with me or with what I do?"
+  },
+  {
+    "id": "p-159e8d",
+    "offset": 2217,
+    "text": "Prithee, haven’t you got your cattle in the country for you to look to? I choose to drink, to intrigue, to keep my wenches; this I do at the peril of my own back, and not of yours"
+  },
+  {
+    "id": "p-b5f735",
+    "offset": 2398,
+    "text": "GRUMIO:\nThen with what assurance he does talk! (Turning away in disgust.) Faugh!"
+  },
+  {
+    "id": "p-67535b",
+    "offset": 2480,
+    "text": "TRANIO:\nBut may Jupiter and all the Deities confound you; you stink of garlick, you filth unmistakeable, you clod, you he-goat, you pig-sty, you mixture of dog and she-goat."
+  },
+  {
+    "id": "p-f1ce82",
+    "offset": 2655,
+    "text": "GRUMIO:\nWhat would you have to be done? It isn’t all that can smell of foreign perfumes, if you smell of them; or that can take their places at table above their master, or live on such exquisite dainties as you live upon. Do you keep to yourself those turtle-doves, that fish, and poultry; let me enjoy my lot upon garlick diet. You are fortunate; I unlucky. It must be endured."
+  },
+  {
+    "id": "p-dff95d",
+    "offset": 3036,
+    "text": "Let my good fortune be awaiting me, your bad yourself."
+  },
+  {
+    "id": "p-1548d0",
+    "offset": 3092,
+    "text": "TRANIO:\nYou seem, Grumio, as though you envied me, because I enjoy myself and you are wretched. It is quite my due. It’s proper for me to make love, and for you to feed the cattle; for me to fare handsomely, you in a miserable way."
+  },
+  {
+    "id": "p-50ef1e",
+    "offset": 3325,
+    "text": "GRUMIO:\nO riddle for the executioner, as I guess it will turn out; they’ll be so pinking you with goads, as you carry your gibbet along the streets one day, as soon as ever the old gentleman returns here."
+  },
+  {
+    "id": "p-51701f",
+    "offset": 3531,
+    "text": "TRANIO:\nHow do you know whether that mayn’t happen to yourself sooner than to me?"
+  },
+  {
+    "id": "p-3e120f",
+    "offset": 3614,
+    "text": "GRUMIO:\nBecause I have never deserved it; you have deserved it, and you now deserve it."
+  },
+  {
+    "id": "p-d9aa8f",
+    "offset": 3703,
+    "text": "TRANIO:\nDo cut short the trouble of your talking, unless you wish a heavy mischance to befall you."
+  },
+  {
+    "id": "p-63819d",
+    "offset": 3803,
+    "text": "GRUMIO:\nAre you going to give me the tares for me to take for the cattle? If you are not, give me the money. Go on, still persist in the way in which you’ve commenced! Drink, live like Greeks, eat, stuff yourselves, slaughter your fatlings!"
+  },
+  {
+    "id": "p-f9bb0a",
+    "offset": 4045,
+    "text": "TRANIO:\nHold your tongue, and be off into the country; I intend to go to the Piraeus to get me some fish for the evening. To-morrow I’ll make some one bring you the tares to the farm. What’s the matter? Why now are you staring at me, gallows-bird?"
+  },
+  {
+    "id": "p-2af24c",
+    "offset": 4294,
+    "text": "GRUMIO:\nI’ faith, I’ve an idea that will be your own title before long."
+  },
+  {
+    "id": "p-a014cb",
+    "offset": 4367,
+    "text": "TRANIO:\nSo long as it is as it is, in the meantime I’ll put up with that before long."
+  },
+  {
+    "id": "p-956bd6",
+    "offset": 4454,
+    "text": "GRUMIO:\nThat’s the way; and understand this one thing, that that which is disagreable comes much more speedily than that which you wish for."
+  },
+  {
+    "id": "p-12eb0d",
+    "offset": 4596,
+    "text": "TRANIO:\nDon’t you be annoying; now then, away with you into the country, and betake yourself off."
+  },
+  {
+    "id": "p-fc21a9",
+    "offset": 4695,
+    "text": "Don’t you deceive yourself, henceforth you shan’t be causing me any impediment. (Exit.)"
+  },
+  {
+    "id": "p-abbd7c",
+    "offset": 4784,
+    "text": "GRUMIO:\n(to himself.)\nIs he really gone? Not to care one straw for what I’ve said! O immortal Gods, I do implore your aid, do cause this old gentleman of ours, who has now been three years absent from here, to return hither as soon as possible, before everything is gone, both house and land. Unless he does return here, remnants to last for a few months only are left. Now I’ll be off to the country; but look! I see my master’s son, one who has been corrupted from having been a most excellent young man. (Exit.)"
+  },
+  {
+    "id": "p-3d6e8c",
+    "offset": 5300,
+    "text": "(Enter PHILOLACHES, from the house of THEUROPIDES.)"
+  },
+  {
+    "id": "p-1463fd",
+    "offset": 5353,
+    "text": "PHILOLACHES:\n(to himself.)\nI’ve often thought and long reflected on it, and in my breast have held many a debate, and in my heart (if any heart I have) have revolved this matter, and long discussed it, to what thing I’m to consider man as like, and what form he has when he is born?"
+  },
+  {
+    "id": "p-65b9c2",
+    "offset": 5637,
+    "text": "I’ve now discovered this likeness. I think a man is like unto a new house when he is born. I’ll give my proofs of this fact. (To the AUDIENCE.) And does not this seem to you like the truth? But so I’ll manage that you shall think it is so."
+  },
+  {
+    "id": "p-be7b60",
+    "offset": 5878,
+    "text": "Beyond a doubt I’ll convince you that it is true what I say. And this yourselves, I’m sure, when you have heard my words, will say is no otherwise than just as I now affirm that it is. Listen while I repeat my proofs of this fact;"
+  },
+  {
+    "id": "p-df561b",
+    "offset": 6110,
+    "text": "I want you to be equally knowing with myself upon this matter. As soon as ever a house is built up, nicely polished off, carefully erected, and according to rule, people praise the architect and approve of the house, they take from it each one a model for himself. Each one has something similar, quite at his own expense; they do not spare their pains."
+  },
+  {
+    "id": "p-bf7627",
+    "offset": 6465,
+    "text": "But when a worthless, lazy, dirty, negligent fellow betakes himself thither with an idle family, then is it imputed as a fault to the house, while a good house is being kept in bad repair. And this is often the case; a storm comes on and breaks the tiles and gutters; then a careless owner takes no heed to put up others. A shower comes on and streams down the walls; the rafters admit the rain; the weather rots the labours of the builder; then the utility of the house becomes diminished; and yet this is not the fault of the builder. But a great part of mankind have contracted this habit of delay; if anything can be repaired by means of money, they are always still putting it off, and don’t do it until the walls come tumbling down; then the whole house has to be built anew. These instances from buildings I’ve mentioned; and now I wish to inform you how you are to suppose that men are like houses."
+  },
+  {
+    "id": "p-dfcd34",
+    "offset": 7373,
+    "text": "In the first place then, the parents are the builders-up of the children, and lay the foundation for the children; they raise them up, they carefully train them to strength, and that they may be good both for service and for view before the public. They spare not either their own pains or their cost, nor do they deem expense in that to be an expense. They refine them, teach them literature, the ordinances, the laws; at their own cost and labour they struggle, that others may wish for their own children to be like to them. When they repair to the army, they then find them some relation of theirs as a protector."
+  },
+  {
+    "id": "p-572f75",
+    "offset": 7992,
+    "text": "At that moment they pass out of the builder’s hands. One year’s pay has now been earned; at that period, then, a sample is on view how the building will turn out. But I was always discreet and virtuous, just as long as I was under the management of the builder."
+  },
+  {
+    "id": "p-ebcf47",
+    "offset": 8255,
+    "text": "After I had left him to follow the bent of my own inclinations, at once I entirely spoiled the labours of the builders. Idleness came on; that was my storm; on its arrival, upon me it brought down hail and showers, which overthrew my modesty and the bounds of virtue, and untiled them for me in an instant."
+  },
+  {
+    "id": "p-f0056e",
+    "offset": 8563,
+    "text": "After that I was neglectful to cover in again; at once passion like a torrent entered my heart; it flowed down even unto my breast, and soaked through my heart. Now both property, credit, fair fame, virtue, and honor have forsaken me; by usage have I become much worse, and, i’ faith (so rotten are these rafters of mine with moisture), I do not seem to myself to be able possibly to patch up my house to prevent it from falling down totally once for all, from perishing from the foundation, and from no one being able to assist me. My heart pains me, when I reflect how I now am and how I once was, than whom in youthful age not one there was more active in the arts of exercise, with the quoit, the javelin, the ball, racing, arms, and horses. I then lived a joyous life; in frugality and hardihood I was an example to others;"
+  },
+  {
+    "id": "p-6140e1",
+    "offset": 9393,
+    "text": "all, even the most deserving, took a lesson from me for themselves. Now that I’m become worthless, to that, indeed, have I hastened through the bent of my inclinations. (He stands apart.)"
+  },
+  {
+    "id": "p-59b0b0",
+    "offset": 9582,
+    "text": "(Enter PHILEMATITUM and SCAPHA, with all the requisites for a toilet.)"
+  },
+  {
+    "id": "p-be689e",
+    "offset": 9654,
+    "text": "PHILEMATIUM:\nOn my word, for this long time I’ve not bathed in cold water with more delight than just now; nor do I think that I ever was, my dear Scapha, more thoroughly cleansed than now."
+  },
+  {
+    "id": "p-084104",
+    "offset": 9845,
+    "text": "SCAPHA:\nMay the upshot of everything be unto you like a plenteous year’s harvest."
+  },
+  {
+    "id": "p-57b9a5",
+    "offset": 9928,
+    "text": "PHILEMATIUM:\nWhat has this harvest got to do with my bathing?"
+  },
+  {
+    "id": "p-d0ed5a",
+    "offset": 9991,
+    "text": "SCAPHA:\nNot a bit more than your bathing has to do with the harvest."
+  },
+  {
+    "id": "p-8d1c34",
+    "offset": 10061,
+    "text": "PHILOLACHES:\n(apart.)\nO beauteous Venus, this is that storm of mine which stripped off all the modesty with which I was roofed; through which Desire and Cupid poured their shower into my breast; and never since have I been able to roof it in."
+  },
+  {
+    "id": "p-760ed3",
+    "offset": 10305,
+    "text": "Now are my walls soaking in my heart; this building is utterly undone."
+  },
+  {
+    "id": "p-cc4c4e",
+    "offset": 10377,
+    "text": "PHILEMATIUM:\nDo look, my Scapha, there’s a dear, whether this dress quite becomes me. I wish to please Philolaches my protector, the apple of my eye."
+  },
+  {
+    "id": "p-30bfbd",
+    "offset": 10528,
+    "text": "SCAPHA:\nNay but, you set yourself off to advantage with pleasing manners, inasmuch as you yourself are pleasing. The lover isn’t in love with a woman’s dress, but with that which stuffs out the dress."
+  },
+  {
+    "id": "p-6a9a7f",
+    "offset": 10730,
+    "text": "PHILOLACHES:\n(apart.)\nSo may the Gods bless me, Scapha is waggish; the hussy’s quite knowing. How cleverly she understands all matters, the maxims of lovers too!"
+  },
+  {
+    "id": "p-c23259",
+    "offset": 10893,
+    "text": "PHILEMATIUM:\nWell now?"
+  },
+  {
+    "id": "p-73a91b",
+    "offset": 10917,
+    "text": "SCAPHA:\nWhat is it?"
+  },
+  {
+    "id": "p-c3ae5c",
+    "offset": 10938,
+    "text": "PHILEMATIUM:\nWhy look at me and examine, how this becomes me."
+  },
+  {
+    "id": "p-29a82b",
+    "offset": 11001,
+    "text": "SCAPHA:\nThanks to your good looks, it happens that whatever you put on becomes you."
+  },
+  {
+    "id": "p-523e11",
+    "offset": 11086,
+    "text": "PHILOLACHES:\n(apart.)\nNow then, for that expression, Scapha, I’ll make you some present or other to-day, and I won’t allow you to have praised her for nothing who is so pleasing to me."
+  },
+  {
+    "id": "p-29724c",
+    "offset": 11272,
+    "text": "PHILEMATIUM:\nI don’t want you to flatter me."
+  },
+  {
+    "id": "p-7750a6",
+    "offset": 11318,
+    "text": "SCAPHA:\nReally you are a very simple woman. Come now, would you rather be censured undeservedly, than be praised with truth? Upon my faith, for my own part, even though undeservedly, I’d much rather be praised than be found fault with with reason, or that other people should laugh at my appearance."
+  },
+  {
+    "id": "p-fbd6ca",
+    "offset": 11619,
+    "text": "PHILEMATIUM:\nI love the truth; I wish the truth to be told me; I detest a liar."
+  },
+  {
+    "id": "p-5f4e22",
+    "offset": 11700,
+    "text": "SCAPHA:\nSo may you love me, and so may your Philolaches love you, how charming you are."
+  },
+  {
+    "id": "p-706392",
+    "offset": 11789,
+    "text": "PHILOLACHES:\n(apart.)\nHow say you, you hussy? In what words did you adjure? So may I love her? Why wasn’t So may she love me added as well? I revoke the present."
+  },
+  {
+    "id": "p-c5c697",
+    "offset": 11952,
+    "text": "What I just now promised you is done for; you have lost the present."
+  },
+  {
+    "id": "p-beb5fe",
+    "offset": 12022,
+    "text": "SCAPHA:\nTroth, for my part I am surprised that you, a person so knowing, so clever, and so well educated, are not aware that you are acting foolishly."
+  },
+  {
+    "id": "p-95114b",
+    "offset": 12174,
+    "text": "PHILEMATIUM:\nThen give me your advice, I beg, if I have done wrong in anything."
+  },
+  {
+    "id": "p-76a897",
+    "offset": 12255,
+    "text": "SCAPHA:\nI’ faith, you certainly do wrong, in setting your mind upon him alone, in fact, and humouring him in particular in this way and slighting other men."
+  },
+  {
+    "id": "p-6e0d5f",
+    "offset": 12413,
+    "text": "It’s the part of a married woman, and not of courtesans, to be devoted to a single lover."
+  },
+  {
+    "id": "p-34be01",
+    "offset": 12504,
+    "text": "PHILOLACHES:\n(apart.)\nO Jupiter! Why, what pest is this that has befallen my house? May all the Gods and Goddesses destroy me in the worst of fashions, if I don’t kill this old hag with thirst, and hunger, and cold."
+  },
+  {
+    "id": "p-3f9070",
+    "offset": 12721,
+    "text": "PHILEMATIUM:\nI don’t want you, Scapha, to be giving me bad advice."
+  },
+  {
+    "id": "p-12f8e0",
+    "offset": 12789,
+    "text": "SCAPHA:\nYou are clearly a simpleton, in thinking that he’ll for everlasting be your friend and well-wisher. I warn you of that; he’ll forsake you by reason of age and satiety."
+  },
+  {
+    "id": "p-9a78f3",
+    "offset": 12966,
+    "text": "PHILEMATIUM:\nI hope not."
+  },
+  {
+    "id": "p-b619be",
+    "offset": 12992,
+    "text": "SCAPHA:\nThings which you don’t hope happen more frequently than things which you do hope. In fine, if you cannot be persuaded by words to believe this to be the truth, judge of my words from facts; consider this instance, who I now am, and who I once was."
+  },
+  {
+    "id": "p-6eff8f",
+    "offset": 13249,
+    "text": "No less than your are now, was I once beloved, and I devoted myself to one, who, faith, when with age this head changed its hue, forsook and deserted me. Depend on it, the same will happen to yourself."
+  },
+  {
+    "id": "p-fd5b26",
+    "offset": 13452,
+    "text": "PHILOLACHES:\n(apart.)\nI can scarcely withhold myself from flying at the eyes of this mischief-maker."
+  },
+  {
+    "id": "p-ca7515",
+    "offset": 13554,
+    "text": "PHILEMATIUM:\nI am of opinion that I ought to keep myself alone devoted to him, since to myself alone has he given freedom for himself alone."
+  },
+  {
+    "id": "p-dba443",
+    "offset": 13696,
+    "text": "PHILOLACHES:\n(apart.)\nO ye immortal Gods! what a charming woman, and of a disposition how chaste! By heaven,’tis excellently done, and I’m rejoiced at it, that it is for her sake I’ve got nothing left."
+  },
+  {
+    "id": "p-f36fcf",
+    "offset": 13899,
+    "text": "SCAPHA:\nOn my word you really are silly."
+  },
+  {
+    "id": "p-06b046",
+    "offset": 13941,
+    "text": "PHILEMATIUM:\nFor what reason?"
+  },
+  {
+    "id": "p-bd7bf1",
+    "offset": 13972,
+    "text": "SCAPHA:\nBecause you care for this, whether he loves you."
+  },
+  {
+    "id": "p-d57072",
+    "offset": 14030,
+    "text": "PHILEMATIUM:\nPrithee, why should I not care for it?"
+  },
+  {
+    "id": "p-d11a3c",
+    "offset": 14083,
+    "text": "SCAPHA:\nYou now are free."
+  },
+  {
+    "id": "p-26c955",
+    "offset": 14110,
+    "text": "You’ve now got what you wanted; if he didn’t still love you, as much money as he gave for your liberty, he’d lose."
+  },
+  {
+    "id": "p-6f0a63",
+    "offset": 14226,
+    "text": "PHILOLACHES:\n(apart.)\nHeavens, I’m a dead man if I don’t torture her to death after the most shocking fashion. That evil-persuading enticer to vice is corrupting this damsel."
+  },
+  {
+    "id": "p-ac090a",
+    "offset": 14402,
+    "text": "PHILOLACHES:\nScapha, I can never return him sufficient thanks for what he deserves of me;"
+  },
+  {
+    "id": "p-d0cb39",
+    "offset": 14493,
+    "text": "don’t you be persuading me to esteem him less."
+  },
+  {
+    "id": "p-3ce812",
+    "offset": 14541,
+    "text": "SCAPHA:\nBut take care and reflect upon this one thing, if you devote yourself to him alone, while now you are at this youthful age, you’ll be complaining to no purpose in your aged years."
+  },
+  {
+    "id": "p-4cbf86",
+    "offset": 14730,
+    "text": "PHILOLACHES:\n(apart.)\nI could wish myself this instant changed into a quinsy, that I might seize the throat of that old witch, and put an end to the wicked mischief-maker."
+  },
+  {
+    "id": "p-ad03c7",
+    "offset": 14903,
+    "text": "PHILEMATIUM:\nIt befits me now to have the same grateful feelings since I obtained it, as formerly before I acquired it, when I used to lavish caresses upon him."
+  },
+  {
+    "id": "p-e0b364",
+    "offset": 15065,
+    "text": "PHILOLACHES:\n(apart.)\nMay the Gods do towards me what they please, if for that speech I don’t make you free over again, and if I don’t torture Scapha to death."
+  },
+  {
+    "id": "p-36a9ed",
+    "offset": 15226,
+    "text": "SCAPHA:\nIf you are quite assured that you will have a provision to the end, and that this lover will be your own for life, I think that you ought to devote yourself to him alone, and assume the character of a wife."
+  },
+  {
+    "id": "p-91d7ce",
+    "offset": 15442,
+    "text": "PHILEMATIUM:\nJust as a person’s character is, he’s in the habit of finding means accordingly; if I keep a good character for myself I shall be rich enough."
+  },
+  {
+    "id": "p-7dab64",
+    "offset": 15599,
+    "text": "PHILOLACHES:\n(apart.)\nBy my troth, since selling there must be, my father shall be sold much sooner than, while I’m alive, I’ll ever permit you to be in want or go a-begging."
+  },
+  {
+    "id": "p-2adf43",
+    "offset": 15775,
+    "text": "SCAPHA:\nWhat’s to become of the rest of those who are in love with you?"
+  },
+  {
+    "id": "p-53c0ca",
+    "offset": 15848,
+    "text": "PHILEMATIUM:\nThey’ll love me the more when they see me displaying gratitude to one who has done me services."
+  },
+  {
+    "id": "p-39b1a6",
+    "offset": 15958,
+    "text": "PHILOLACHES:\n(apart.)\nI do wish that news were brought me now that my father’s dead, that I might disinherit myself of my property, and that she might be my heir."
+  },
+  {
+    "id": "p-0f570a",
+    "offset": 16122,
+    "text": "SCAPHA:\nThis property of his will certainly soon be at an end; day and night there’s eating and drinking, and no one displays thriftiness;’tis downright cramming."
+  },
+  {
+    "id": "p-e13679",
+    "offset": 16286,
+    "text": "PHILOLACHES:\n(apart.)\nI’ faith, I’m determined to make trial on yourself for the first to be thrifty; for you shall neither eat nor drink anything at my house for the next ten days."
+  },
+  {
+    "id": "p-75b470",
+    "offset": 16469,
+    "text": "PHILEMATIUM:\nIf you choose to say anything good about him, you shall be at liberty to say it;"
+  },
+  {
+    "id": "p-66aa9c",
+    "offset": 16564,
+    "text": "if you speak otherwise than well, on my word you shall have a beating instantly."
+  },
+  {
+    "id": "p-9230a1",
+    "offset": 16646,
+    "text": "PHILOLACHES:\n(apart.)\nUpon my faith, if I had paid sacrifice to supreme Jove with that money which I gave for her liberty, never could I have so well employed it. Do see, how, from her very heart’s core, she loves me! Oh, I’m a fortunate man; I’ve liberated in her a patron to plead my cause for me."
+  },
+  {
+    "id": "p-aeb268",
+    "offset": 16947,
+    "text": "SCAPHA:\nI see that, compared with Philolaches, you disregard all other men; now, that on his account I mayn’t get a beating, I’ll agree with you in preference, if you are quite satisfied that he will always prove a friend to you."
+  },
+  {
+    "id": "p-909ffe",
+    "offset": 17178,
+    "text": "PHILEMATIUM:\nGive me the mirror, and the casket with my trinkets, directly, Scapha, that I may be quite dressed when Philolaches, my delight, comes here."
+  },
+  {
+    "id": "p-e85998",
+    "offset": 17333,
+    "text": "SCAPHA:\nA woman who neglects herself and her youthful age has occasion for a mirror; what need of a mirror have you, who yourself are in especial a mirror for a mirror."
+  },
+  {
+    "id": "p-1129d4",
+    "offset": 17503,
+    "text": "PHILOLACHES:\n(apart.)\nFor that expression, Scapha, that you mayn’t have said anything so pretty in vain, I’ll to-day give something for your savings—to you, my Philematium."
+  },
+  {
+    "id": "p-00465d",
+    "offset": 17677,
+    "text": "PHILEMATIUM:\n(while SCAPHA is dressing her hair.)\nWill you see that each hair is nicely arranged in its own place?"
+  },
+  {
+    "id": "p-752242",
+    "offset": 17793,
+    "text": "SCAPHA:\nWhen you yourself are so nice, do believe that your hair must be nice."
+  },
+  {
+    "id": "p-ce300e",
+    "offset": 17873,
+    "text": "PHILOLACHES:\n(apart.)\nOut upon it! what worse thing can possibly be spoken of than this woman? Now the jade’s a flatterer, just now she was all contradictory."
+  },
+  {
+    "id": "p-96373f",
+    "offset": 18033,
+    "text": "PHILEMATIUM:\nHand me the ceruse."
+  },
+  {
+    "id": "p-5f1b71",
+    "offset": 18067,
+    "text": "SCAPHA:\nWhy, what need of ceruse have you?"
+  },
+  {
+    "id": "p-99ac0d",
+    "offset": 18111,
+    "text": "PHILEMATIUM:\nTo paint my cheeks with it."
+  },
+  {
+    "id": "p-8abc67",
+    "offset": 18153,
+    "text": "SCAPHA:\nOn the same principle, you would want to be making ivory white with ink."
+  },
+  {
+    "id": "p-a6932a",
+    "offset": 18235,
+    "text": "PHILOLACHES:\n(apart.)\nCleverly said that, about the ink and the ivory! Bravo! I applaud you, Scapha."
+  },
+  {
+    "id": "p-3c5b14",
+    "offset": 18337,
+    "text": "PHILEMATIUM:\nWell then, do you give me the rouge."
+  },
+  {
+    "id": "p-6740a7",
+    "offset": 18388,
+    "text": "SCAPHA:\nI shan’t give it. You really are a clever one. Do you wish to patch up a most clever piece with new daubing? It’s not right that any paint should touch that person, neither ceruse, nor quince-ointment, nor any other wash."
+  },
+  {
+    "id": "p-d97b31",
+    "offset": 18619,
+    "text": "Take the mirror, then. (Hands her the glass.)"
+  },
+  {
+    "id": "p-3fe96f",
+    "offset": 18666,
+    "text": "PHILOLACHES:\n(apart.)\nAh wretched me!—she gave the glass a kiss. I could much wish for a stone, with which to break the head of that glass."
+  },
+  {
+    "id": "p-f310a4",
+    "offset": 18807,
+    "text": "SCAPHA:\nTake the towel and wipe your hands."
+  },
+  {
+    "id": "p-4b51fe",
+    "offset": 18852,
+    "text": "PHILEMATIUM:\nWhy so, prithee?"
+  },
+  {
+    "id": "p-19d5dc",
+    "offset": 18883,
+    "text": "SCAPHA:\nAs you’ve been holding the mirror, I’m afraid that your hands may smell of silver; lest Philolaches should suspect you’ve been receiving silver somewhere."
+  },
+  {
+    "id": "p-4783af",
+    "offset": 19047,
+    "text": "PHILOLACHES:\n(apart.)\nI don’t think that I ever did see any one procuress more cunning. How cleverly and artfully did it occur to the jade’s imagination about the mirror!"
+  },
+  {
+    "id": "p-afcf03",
+    "offset": 19219,
+    "text": "PHILEMATIUM:\nDo you think I ought to be perfumed with unguents as well?"
+  },
+  {
+    "id": "p-649cb4",
+    "offset": 19292,
+    "text": "SCAPHA:\nBy no means do so."
+  },
+  {
+    "id": "p-06b046",
+    "offset": 19320,
+    "text": "PHILEMATIUM:\nFor what reason?"
+  },
+  {
+    "id": "p-a08c61",
+    "offset": 19351,
+    "text": "SCAPHA:\nBecause, i’ faith, a woman smells best when she smells of nothing at all. For those old women who are in the habit of anointing themselves with unguents, vampt up creatures, old hags, and toothless, who hide the blemishes of the person with paint, when the sweat has blended itself with the unguents, forthwith they stink just like when a cook has poured together a variety of broths; what they smell of, you don’t know, except this only, that you understand that badly they do smell."
+  },
+  {
+    "id": "p-38e490",
+    "offset": 19845,
+    "text": "PHILOLACHES:\n(apart.)\nHow very cleverly she does understand everything! There’s nothing more knowing than this knowing woman!"
+  },
+  {
+    "id": "p-88f77e",
+    "offset": 19972,
+    "text": "(To the AUDIENCE.) This is the truth, and a very great portion, in fact, of you know it, who have old women for wives at home who purchased you with their portions."
+  },
+  {
+    "id": "p-5cd959",
+    "offset": 20138,
+    "text": "PHILEMATIUM:\nCome now, examine my golden trinkets and my mantle; does this quite become me, Scapha?"
+  },
+  {
+    "id": "p-07e340",
+    "offset": 20239,
+    "text": "SCAPHA:\nIt befits not me to concern myself about that."
+  },
+  {
+    "id": "p-f7103a",
+    "offset": 20295,
+    "text": "PHILEMATIUM:\nWhom then, prithee?"
+  },
+  {
+    "id": "p-ace834",
+    "offset": 20329,
+    "text": "SCAPHA:\nI’ll tell you;"
+  },
+  {
+    "id": "p-f7bf55",
+    "offset": 20353,
+    "text": "Philolaches; so that he may not buy anything except that which he fancies will please you. For a lover buys the favours of a mistress for himself with gold and purple garments. What need is there for that which he doesn’t want as his own, to be shown him still? Age is to be enveloped in purple; gold ornaments are unsuitable for a woman. A beautiful woman will be more beautiful naked than drest in purple."
+  },
+  {
+    "id": "p-22ff48",
+    "offset": 20762,
+    "text": "Besides, it’s in vain she’s well-drest if she’s ill-conducted; ill-conduct soils fine ornaments worse than dirt. But if she’s beauteous, she’s sufficiently adorned."
+  },
+  {
+    "id": "p-bbdb2d",
+    "offset": 20928,
+    "text": "PHILOLACHES:\n(apart.)\nToo long have I withheld my hand. (Coming forward.) What are you about here?"
+  },
+  {
+    "id": "p-8b22c5",
+    "offset": 21028,
+    "text": "PHILEMATIUM:\nI’m decking myself out to please you."
+  },
+  {
+    "id": "p-728954",
+    "offset": 21080,
+    "text": "PHILOLACHES:\nYou are dressed enough. (To SCAPHA.) Go you hence in-doors, and take away this finery. (SCAPHA goes into the house.) But, my delight, my Philematium, I have a mind to regale together with you."
+  },
+  {
+    "id": "p-b54a57",
+    "offset": 21287,
+    "text": "PHILEMATIUM:\nAnd, i’ faith, so I have with you; for what you have a mind to, the same have I a mind to, my delight."
+  },
+  {
+    "id": "p-9b6b9d",
+    "offset": 21404,
+    "text": "PHILOLACHES:\nHa! at twenty mine that expression were cheap."
+  },
+  {
+    "id": "p-8f174d",
+    "offset": 21465,
+    "text": "PHILEMATIUM:\nGive me ten, there’s a dear; I wish to let you have that expression bought a bargain."
+  },
+  {
+    "id": "p-c1d901",
+    "offset": 21565,
+    "text": "PHILOLACHES:\nYou’ve already got ten minae with you; or reckon up the account:"
+  },
+  {
+    "id": "p-ef5a48",
+    "offset": 21644,
+    "text": "thirty minae I gave for your freedom—"
+  },
+  {
+    "id": "p-78cfc9",
+    "offset": 21683,
+    "text": "PHILEMATIUM:\nWhy reproach me with that?"
+  },
+  {
+    "id": "p-f4bdf7",
+    "offset": 21724,
+    "text": "PHILOLACHES:\nWhat, I reproach you with it? Why, I had rather that I myself were reproached with it; no money whatever for this long time have I ever laid out equally well."
+  },
+  {
+    "id": "p-705493",
+    "offset": 21897,
+    "text": "PHILEMATIUM:\nSurely, in loving you, I never could have better employed my pains."
+  },
+  {
+    "id": "p-1289b3",
+    "offset": 21979,
+    "text": "PHILOLACHES:\nThe account, then, of receipts and expenditure fully tallies between ourselves;"
+  },
+  {
+    "id": "p-c61fd8",
+    "offset": 22073,
+    "text": "you love me, I love you. Each thinks that it is so deservedly. Those who rejoice at this, may they ever rejoice at the continuance of their own happiness. Those who envy, let not any one henceforth be ever envious of their blessings."
+  },
+  {
+    "id": "p-4e43ac",
+    "offset": 22308,
+    "text": "PHILEMATIUM:\n(pointing to a couch on the stage.)\nCome, take your place, then. (At the door, to a SERVANT, who obeys.) Boy, bring some water for the hands; put a little table here. See where are the dice. Would you like some perfumes? (They recline on the couch.)"
+  },
+  {
+    "id": "p-b4e268",
+    "offset": 22572,
+    "text": "PHILOLACHES:\nWhat need is there? Along with myrrh I am reclining."
+  },
+  {
+    "id": "p-33ef8c",
+    "offset": 22639,
+    "text": "But isn’t this my friend who’s coming hither with his mistress?’Tis he; it’s Callidamates; look, he’s coming. Capital! my sweet one, see, our comrades are approaching; they’re coming to share the spoil."
+  },
+  {
+    "id": "p-ea2e36",
+    "offset": 22843,
+    "text": "(Enter CALLIDAMATES, at a distance, drunk, and DELPHIUIM, followed by a SERVANT.)"
+  },
+  {
+    "id": "p-327e0b",
+    "offset": 22926,
+    "text": "CALLIDAMATES:\n(to his SERVANT.)\nI want you to come for me in good time to the house of Philolaches; listen you; well then! those are your orders. (Exit SERVANT.)"
+  },
+  {
+    "id": "p-15fd7f",
+    "offset": 23089,
+    "text": "For from the place where I was, thence did I betake myself off; so confoundedly tired was I there. with the entertainment and the discourse. Now I’ll go to Philolaches to have a bout there he’ll receive us with jovial feelings and handsomely. Do I seem to you to be fairly drenched, my bubsy?"
+  },
+  {
+    "id": "p-62888b",
+    "offset": 23383,
+    "text": "DELPHIUM:\nYou ought always to live pursuing this course of life."
+  },
+  {
+    "id": "p-1d9e0d",
+    "offset": 23449,
+    "text": "CALLIDAMATES:\nShould you like, then, for me to hug you, and you me?"
+  },
+  {
+    "id": "p-098a7c",
+    "offset": 23518,
+    "text": "DELPHIUM:\nIf you’ve a mind to do so, of course."
+  },
+  {
+    "id": "p-49c522",
+    "offset": 23567,
+    "text": "CALLIDAMATES:\nYou are a charming one. (He stumbles.) Do hold me up, there’s a dear."
+  },
+  {
+    "id": "p-0a8991",
+    "offset": 23652,
+    "text": "DELPHIUM:\n(holding him by the arm.)\nTake care you don’t fall. Stand up."
+  },
+  {
+    "id": "p-f4d960",
+    "offset": 23725,
+    "text": "CALLIDAMATES:\nO! you are the apple of my eye. I’m your fosterling, my honey.\n(He stumbles.)"
+  },
+  {
+    "id": "p-5847aa",
+    "offset": 23818,
+    "text": "DELPHIUM:\n(still holding him up.)\nOnly do take care that you don’t recline in the street, before we get to a place where a couch is ready laid."
+  },
+  {
+    "id": "p-ba688c",
+    "offset": 23963,
+    "text": "CALLIDAMATES:\nDo let me fall."
+  },
+  {
+    "id": "p-07a703",
+    "offset": 23994,
+    "text": "DELPHIUM:\nWell, I’ll let you. (Lets go.)"
+  },
+  {
+    "id": "p-f41f32",
+    "offset": 24036,
+    "text": "CALLIDAMATES:\n(dragging her as he falls.)\nBut that as well which I’ve got hold of in my hand."
+  },
+  {
+    "id": "p-44017d",
+    "offset": 24131,
+    "text": "DELPHIUM:\nIf you fall, you shan’t fall without me falling with you. Then some one shall pick us both up as we lie (Aside.) The man’s quite drenched."
+  },
+  {
+    "id": "p-3c3bd8",
+    "offset": 24281,
+    "text": "CALLIDAMATES:\n(overhearing.)\nDo you say that I am drenched, my bubsy?"
+  },
+  {
+    "id": "p-08b2ea",
+    "offset": 24352,
+    "text": "DELPHIUM:\nGive me your hand; I really do not want you hurt."
+  },
+  {
+    "id": "p-cd2c2f",
+    "offset": 24413,
+    "text": "CALLIDAMATES:\n(giving his hand.)\nThere now, take it."
+  },
+  {
+    "id": "p-bcde54",
+    "offset": 24467,
+    "text": "DELPHIUM:\nCome, move on with me."
+  },
+  {
+    "id": "p-11216c",
+    "offset": 24501,
+    "text": "CALLIDAMATES:\nWhere am I going, do you know?"
+  },
+  {
+    "id": "p-95d791",
+    "offset": 24547,
+    "text": "DELPHIUM:\nI know."
+  },
+  {
+    "id": "p-071a15",
+    "offset": 24566,
+    "text": "CALLIDAMATES:\nIt has just come into my head:"
+  },
+  {
+    "id": "p-073ad5",
+    "offset": 24612,
+    "text": "why, of course I’m going home for a booze."
+  },
+  {
+    "id": "p-63b374",
+    "offset": 24656,
+    "text": "DELPHIUM:\nWhy yes, really now I do remember that."
+  },
+  {
+    "id": "p-f8e890",
+    "offset": 24707,
+    "text": "PHILOLACHES:\nWon’t you let me go to find them, my life? Of all persons I wish well to him especially. I’ll return just now.\n(Goes forward towards the door.)"
+  },
+  {
+    "id": "p-7cb552",
+    "offset": 24865,
+    "text": "PHILEMATIUM:\nThat just now is a long time to me."
+  },
+  {
+    "id": "p-562a94",
+    "offset": 24915,
+    "text": "CALLIDAMATES:\n(going to the door and knocking.)\nIs there any person here?"
+  },
+  {
+    "id": "p-55bac6",
+    "offset": 24990,
+    "text": "PHILOLACHES:\n’Tis he."
+  },
+  {
+    "id": "p-ea8f2b",
+    "offset": 25013,
+    "text": "CALLIDAMATES:\n(turning round.)\nBravo! Philolaches, good day to you, most friendly to me of all men."
+  },
+  {
+    "id": "p-e80ad9",
+    "offset": 25114,
+    "text": "PHILOLACHES:\nMay the Gods bless you. (Pointing to a couch.) Take your place, Callidamates. (He takes his place.) Whence are you betaking yourself?"
+  },
+  {
+    "id": "p-d1a3ad",
+    "offset": 25262,
+    "text": "CALLIDAMATES:\nWhence a drunken man does."
+  },
+  {
+    "id": "p-d3c545",
+    "offset": 25304,
+    "text": "PHILOLACHES:\nWell said. But, my Delphium, do take your place, there’s a dear.\n(She takes her place on a couch.)"
+  },
+  {
+    "id": "p-314d15",
+    "offset": 25417,
+    "text": "CALLIDAMATES:\nGive her something to drink."
+  },
+  {
+    "id": "p-75cf8e",
+    "offset": 25461,
+    "text": "I shall go to sleep directly.\n(Nods and goes to sleep.)"
+  },
+  {
+    "id": "p-4062f6",
+    "offset": 25518,
+    "text": "PHILOLACHES:\nHe doesn’t do anything wonderful or strange."
+  },
+  {
+    "id": "p-042518",
+    "offset": 25577,
+    "text": "What shall I do with him then, my dear?"
+  },
+  {
+    "id": "p-a7e36b",
+    "offset": 25618,
+    "text": "DELPHIUM:\nLet him alone just as he is."
+  },
+  {
+    "id": "p-9a6d40",
+    "offset": 25658,
+    "text": "PHILOLACHES:\nCome, you boy. Meanwhile, speedily pass the goblet round, beginning with Delphium."
+  }
+]

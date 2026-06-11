@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-third-olynthiac-4d4a46",
+  "work_title": "Third Olynthiac",
+  "chapter_number": 1,
+  "chapter_title": "Third Olynthiac",
+  "chapter_slug": "01-third-olynthiac",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "000389cb-8441-5805-bd07-0b86ae97cd99",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2353,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a43b9be-0f84-5bce-8458-d7af1fb1b4f0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3097,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg003.perseus-eng2"
+    }
+  ]
+}

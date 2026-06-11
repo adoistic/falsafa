@@ -1,0 +1,38 @@
+{
+  "work_slug": "hippocrates-de-morbo-sacro-3baaf8",
+  "work_title": "De morbo sacro",
+  "chapter_number": 1,
+  "chapter_title": "De morbo sacro",
+  "chapter_slug": "01-de-morbo-sacro",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6759c9dc-b60c-5948-aab9-17ba322e0234",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4735,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg027.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b27bfc10-629d-552e-aa4c-e2d7c81a100c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6016,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2"
+    }
+  ]
+}

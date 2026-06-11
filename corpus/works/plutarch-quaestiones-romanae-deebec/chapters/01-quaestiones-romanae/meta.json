@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-quaestiones-romanae-deebec",
+  "work_title": "Quaestiones Romanae",
+  "chapter_number": 1,
+  "chapter_title": "Quaestiones Romanae",
+  "chapter_slug": "01-quaestiones-romanae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7da63dec-db72-5321-8cbe-e137985b6763",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 13456,
+      "paragraph_count": 113,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg084a.perseus-grc4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "13f180a4-36ef-5ff4-a742-12b42adfcd1a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 20213,
+      "paragraph_count": 238,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg084a.perseus-eng4"
+    }
+  ]
+}

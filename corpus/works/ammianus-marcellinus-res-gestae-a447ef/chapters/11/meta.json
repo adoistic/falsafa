@@ -1,0 +1,38 @@
+{
+  "work_slug": "ammianus-marcellinus-res-gestae-a447ef",
+  "work_title": "Res Gestae",
+  "chapter_number": 11,
+  "chapter_title": "Book 24",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1f477e65-dfae-5f08-acc0-ddd3f6866467",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5679,
+      "paragraph_count": 129,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0023.stoa001.perseus-lat2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6a9060b-9206-5fe4-8a03-ce3cff97e461",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9917,
+      "paragraph_count": 127,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0023.stoa001.perseus-eng2:11"
+    }
+  ]
+}

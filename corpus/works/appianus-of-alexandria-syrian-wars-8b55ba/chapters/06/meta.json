@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-syrian-wars-8b55ba",
+  "work_title": "Syrian Wars",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "74910dd2-9c57-5fcb-af4e-7438e0c7e549",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2028,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg013.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2defd1a6-5ebe-57de-8660-e5c681fd4599",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2532,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg013.perseus-eng2:6"
+    }
+  ]
+}

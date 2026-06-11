@@ -1,0 +1,33 @@
+---
+work_id: "1285cf93-fd08-5124-b96f-18f462b157a3"
+work_slug: "plutarch-numa-1285cf"
+work_title: Numa
+author_name: Plutarch
+chapter_number: 13
+chapter_title: Chapter 13
+chapter_slug: 13
+variant_id: "6079f5bf-b92c-5881-9474-ace837883a70"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 591
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg005.perseus-eng2:13"
+translator: Bernadotte Perrin
+---
+
+The priesthood of the Salii Numa is said to have been established for the following reason. In the eighth year of his reign a pestilence, which traversed Italy, distracted Rome also. The story goes that while the people were disheartened by this, a bronze buckler fell from heaven, which came into the hands of Numa, and a wonderful account of it was given by the king, which he learned from Egeria and the Muses.
+
+The buckler came, he said, for the salvation of the city, and must be carefully preserved by making eleven others of like fashion, size, and shape, in order that the resemblance between them might make it difficult for a thief to distinguish the one that fell from heaven. He said further that the spot where it fell, and the adjacent meadows, where the Muses usually had converse with him, must be consecrated to them; and that the spring which watered the spot should be declared holy water for the use of the Vestal virgins, who should daily sprinkle and purify their temple with it.
+
+Moreover, they say that the truth of all this was attested by the immediate cessation of the pestilence. When Numa showed the buckler to the artificers and bade them do their best to make others like it, they all declined, except Veturius Mamurius, a most excellent workman, who was so happy in his imitation of it, and made all the eleven so exactly like it, that not even Numa himself could distinguish them. For the watch and care of these bucklers, then, he appointed the priesthood of the Salii.
+
+Now the Salii were so named, not, as some tell the tale, from a man of Samothrace or Mantinea, named Salius, who first taught the dance in armour; but rather from the leaping which characterized the dance itself. This dance they perform when they carry the sacred bucklers through the streets of the city in the month of March, clad in purple tunics, girt with broad belts of bronze, wearing bronze helmets on their heads, and carrying small daggers with which they strike the shields.
+
+But the dance is chiefly a matter of step; for they move gracefully, and execute with vigour and agility certain shifting convolutions, in quick and oft-recurring rhythm. The bucklers themselves are called ancilia, from their shape; for this is not round, nor yet completely oval, like that of the regular shield, but has a curving indentation, the arms of which are bent back and united with each other at top and bottom this makes the shape ancylon, the Greek for curved.
+
+Or, they are named from the elbow on which they are carried, which, in Greek, is ankon. This is what Juba says, who is bent on deriving the name from the Greek. But the name may come from the Greek anekathen, inasmuch as the original shield fell from on high; or from akesis, because it healed those who were sick of the plague; or from auchmon lysis, because it put an end to the drought; or, further, from anaschesis, because it brought a cessation of calamities, just as Castor and Pollux were called Anakes by the Athenians; if, that is, we are bound to derive the name from the Greek.
+
+We are told that Mamertius was rewarded for his wonderful art by having his name mentioned in a song which the Salii sing as they perform their war-dance. Some, however, say that the song does not commemorate Veturius Mamurius, but veterem memoriam, that is to say, ancient remembrance.

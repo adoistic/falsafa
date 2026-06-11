@@ -1,0 +1,38 @@
+{
+  "work_slug": "polycarp-epistula-ad-philippenses-d8f567",
+  "work_title": "Epistula ad Philippenses",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ec6c434c-b7f9-542e-a153-b2ef8e2bfdc4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 156,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1622.tlg001.1st1K-grc1:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30a769af-fb5a-5a50-8fc5-ea940f282ae1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1622.tlg001.perseus-eng1:2"
+    }
+  ]
+}

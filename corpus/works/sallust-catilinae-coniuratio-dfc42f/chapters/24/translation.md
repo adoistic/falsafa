@@ -1,0 +1,21 @@
+---
+work_id: "dfc42ffd-f8f9-5396-974f-9eb000416ab2"
+work_slug: "sallust-catilinae-coniuratio-dfc42f"
+work_title: Catilinae Coniuratio
+author_name: Sallust
+chapter_number: 24
+chapter_title: Chapter 23
+chapter_slug: 24
+variant_id: "f3c37287-92ca-551e-a7f9-831610672f13"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 236
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi001.perseus-eng2:24"
+translator: Perseus Digital Library
+---
+
+Among those present at this meeting was Quintus Curius, a man of no mean family, but immersed in vices and crimes, and whom the censors had ignominiously expelled from the senate. In this person there was not less levity than impudence; he could neither keep secret what he heard, nor conceal his own crimes; he was altogether heedless what he said or what he did. He had long had a criminal intercourse with Fulvia, a woman of high birth; but growing less acceptable to her, because, in his reduced circumstances, he had less means of being liberal, he began, on a sudden, to boast, and to promise her seas and mountains; threatening her, at times, with the sword, if she were not submissive to his will; and acting, in his general conduct, with greater arrogance than ever. Fulvia, having learned the cause of his extravagant behavior, did not keep such danger to the state a secret; but, without naming her informant, communicated to several persons what she had heard and under what circumstances, concerning Catiline's conspiracy. This intelligence it was that incited the feelings of the citizens to give the consulship to Marcus Tullius Cicero. For before this period, most of the nobility were moved with jealousy, and thought the consulship in some degree sullied, if a man of no family, however meritorious, obtained it. But when danger showed itself, envy and pride were laid aside.

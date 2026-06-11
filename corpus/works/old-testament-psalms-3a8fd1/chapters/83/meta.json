@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 83,
+  "chapter_title": "Chapter 83",
+  "chapter_slug": "83",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "44c49bdf-6bab-586e-93ca-7e5b9699eeab",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 344,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:83"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b93572ed-111f-51af-9b8a-80636b3cbf22",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 249,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:83"
+    }
+  ]
+}

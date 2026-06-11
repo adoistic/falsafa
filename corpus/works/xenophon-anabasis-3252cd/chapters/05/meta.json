@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-anabasis-3252cd",
+  "work_title": "Anabasis",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6ef3558e-72bf-53d1-b382-33aec3735ed8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8050,
+      "paragraph_count": 217,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62fc2d82-3131-5234-b27a-8c4ec3728886",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12914,
+      "paragraph_count": 233,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-eng2:5"
+    }
+  ]
+}

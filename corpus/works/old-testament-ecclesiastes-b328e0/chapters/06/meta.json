@@ -1,0 +1,26 @@
+{
+  "work_slug": "old-testament-ecclesiastes-b328e0",
+  "work_title": "Ecclesiastes",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "135b86a7-47a9-56e7-ae66-4cd6e1a5d23a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 300,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg030.perseus-eng2:6"
+    }
+  ]
+}

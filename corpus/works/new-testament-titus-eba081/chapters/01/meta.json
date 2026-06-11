@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-titus-eba081",
+  "work_title": "Titus",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6a0c1c8e-e8b8-551f-8999-d140c527840f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 250,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg017.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e433e12e-b35d-5ced-9579-d6cb0b8b21fc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 347,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg017.perseus-eng2:1"
+    }
+  ]
+}

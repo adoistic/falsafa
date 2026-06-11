@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-fescinnina-de-nuptiis-honorii-au-690aed",
+  "work_title": "Fescinnina de nuptiis Honorii Augusti",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "786e1af5-38a7-584f-8f03-f6050eac955f",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 175,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa007.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cba22e6-8c85-5450-be2d-c5a1171fd275",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 285,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa007.perseus-eng1:4"
+    }
+  ]
+}

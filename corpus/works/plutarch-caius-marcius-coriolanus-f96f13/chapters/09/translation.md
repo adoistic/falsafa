@@ -1,0 +1,31 @@
+---
+work_id: "f96f1302-183b-5a29-bdf9-fccc598789ab"
+work_slug: "plutarch-caius-marcius-coriolanus-f96f13"
+work_title: Caius Marcius Coriolanus
+author_name: Plutarch
+chapter_number: 9
+chapter_title: Chapter 9
+chapter_slug: 09
+variant_id: "e84ea587-c8ef-586d-8405-817715d47df2"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 536
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg016.perseus-eng2:9"
+translator: Bernadotte Perrin
+---
+
+The city having been captured in this manner, most of the soldiers fell to plundering and pillaging it. At this Marcius was indignant, and cried out that he thought it a shame, when their consul and their fellow citizens who were with him had perhaps fallen in with the enemy and were fighting a battle with them, that they on their part should be going about after booty, or, under pretext of getting booty, should run away from the danger. Only a few paid any heed to his words, whereupon he took those who were willing to follow, and set out on the road by which, as he learned, the consul’s army had marched before him, often urging his companions on and beseeching them not to slacken their efforts, and often praying the gods that he might not be too late for the battle, but might come up in season to share in the struggles and perils of his fellow-citizens.
+
+It was a custom with the Romans of that time, when they were going into action, and were about to gird up their cloaks and take up their bucklers, to make at the same time an unwritten will, naming their heirs in the hearing of three or four witnesses.
+
+This was just what the soldiers were doing when Marcius overtook them, the enemy being now in sight. At first some of them were confounded when they saw that he had a small following and was covered with blood and sweat; but when he ran to the consul with a glad countenance, gave him his hand, and announced the capture of the city, and when Cominius embraced and kissed him, then they were encouraged, some hearing of the success which had been gained, and some but guessing at it, and all called loudly upon the consul to lead them into battle.
+
+But Marcius asked Cominius how the enemy were arrayed, and where their best fighting men were placed. And when the consul told him he thought the troops in the centre were those of the Antiates, who were the most warlike of all and yielded to none in bravery, I ask and demand of you, then, said Marcius, post us opposite these men. The consul, accordingly, granted his request, astonished at his ardour.
+
+As soon as spears began to fly, Marcius darted out before the line, and the Volscians who faced him could not withstand his charge, but where he fell upon their ranks they were speedily cut asunder. Those on either side, however, wheeled about and encompassed him with their weapons, so that the consul, fearing for his safety, sent to his aid the choicest men he had about his person.
+
+Then a fierce battle raged around Marcius, and many were slain in short space of time; but the Romans pressed hard upon their enemies and put them to rout, and as they set out in pursuit of them, they insisted that Marcius, who was weighed down with fatigue and wounds, should retire to the camp. He answered, however, that weariness was not for victors, and took after the flying foe. The rest of their army also was defeated, many were slain, and many taken captive.

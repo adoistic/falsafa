@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 336
+chapter_title: "Chapter text=A:book=13:letter=20"
+chapter_slug: 336
+variant_id: "23631258-cc0e-58b0-a47c-cf567cea9e11"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 379
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:336"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) ARPINUM (2 JULY)
+
+I have received a letter of consolation from Caesar, dated 31st of May, at Hispalis. I did not understand the nature of the bill published for extending the boundaries of the City: I should much like to know about it. I am glad that Torquatus is satisfied with what I have done for him, and I will not cease adding to those services. To the speech for Ligarius it is not now either possible to add a clause about Tubero's wife and step-daughter —for the speech is by this time very widely known-nor do I wish to annoy Tubero: for he is astonishingly sensitive. You certainly had a good audience! For my part, though I get on very comfortably in this place, I nevertheless long to see you. So I shall be with you as I arranged. I suppose you have met my brother. I am therefore anxious to know what you said to him. As to "reputation," I am not at all inclined to trouble myself, though I did say foolishly in that letter that it was "better than anything else." For it is not a thing for me to be anxious about. And don't you see how truly philosophical this sentiment is—"that every man is bound not to depart a nail's breadth from the strict path of conscience"? Do you think that it is all for nothing that I am now engaged in these compositions? I would not have you feel distressed by that remark, which amounted to nothing. For I return to the same point again. Do you suppose that I care for anything in the whole question except not to be untrue to my past? I am striving, forsooth, to maintain my reputation in the courts! Not in them I trust! I only wish I could bear my home sorrows as easily as I can disregard that! But do you think that I had set my heart on something that has not been accomplished? Self-praise is no commendation: still, though I cannot fail to approve of what I did then, yet I can with a good grace refrain from troubling myself about it, as in fact I do. But I have said too much on a trivial subject.

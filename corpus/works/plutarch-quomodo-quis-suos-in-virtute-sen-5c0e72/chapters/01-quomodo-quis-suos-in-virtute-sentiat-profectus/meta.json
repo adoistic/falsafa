@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-quomodo-quis-suos-in-virtute-sen-5c0e72",
+  "work_title": "Quomodo quis suos in virtute sentiat profectus",
+  "chapter_number": 1,
+  "chapter_title": "Quomodo quis suos in virtute sentiat profectus",
+  "chapter_slug": "01-quomodo-quis-suos-in-virtute-sentiat-profectus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3452ba86-6b2d-5769-bedf-b3ac77ebe185",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5040,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg071.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dff2da59-3180-5c3d-9a1c-b6bfe6e1a359",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9668,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg071.perseus-eng4"
+    }
+  ]
+}

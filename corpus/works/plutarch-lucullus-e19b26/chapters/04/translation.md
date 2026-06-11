@@ -1,0 +1,27 @@
+---
+work_id: "e19b265b-8b99-5a57-9332-bef51825252b"
+work_slug: "plutarch-lucullus-e19b26"
+work_title: Lucullus
+author_name: Plutarch
+chapter_number: 4
+chapter_title: Chapter 4
+chapter_slug: 04
+variant_id: "e6fb0235-282e-5038-8294-981576064487"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 333
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg036.perseus-eng2:4"
+translator: Bernadotte Perrin
+---
+
+From thence he joined Sulla at the Chersonesus, where he was about to cross the strait into Asia; he rendered his passage safe, and assisted in transporting his troops. After peace had been made, Mithridates sailed away into the Euxine, and Sulla laid a contribution of twenty thousand talents upon Asia. Lucullus was commissioned to collect this money and re-coin it, and the cities of Asia felt it to be no slight assuagement of Sulla’s severity when Lucullus showed himself not only honest and just, but even mild in the performance of a task so oppressive and disagreeable.
+
+The Mitylenaeans too, who had revolted outright, he wished to be reasonable, and to submit to a moderate penalty for having espoused the cause of Marius. But when he saw that they were possessed by an evil spirit, he sailed against them, conquered them in battle, and shut them up within their walls. After instituting a siege of their city, he sailed away in open day to Elaea, but returned by stealth, and lay quietly in ambush near the city.
+
+When the Mitylenaeans sallied forth in disorder and with the confident expectation of plundering his deserted camp, he fell upon them, took a great number of them alive, and slew five hundred of those who offered resistance. He also carried off six thousand slaves, besides countless other booty.
+
+But in the boundless and manifold evils which Sulla and Marius were bringing upon the people of Italy at that time, he had no share whatever, for, as some kindly fortune would have it, he was detained at his business in Asia. However, Sulla accorded no less favour to Lucullus than to his other friends. His memoirs, as I have said, Sulla dedicated to Lucullus in token of affection, and in his will appointed him guardian of his son, thereby passing Pompey by. And this seems to have been the first ground for estrangement and jealousy between these two men; both were young, and burning for distinction.

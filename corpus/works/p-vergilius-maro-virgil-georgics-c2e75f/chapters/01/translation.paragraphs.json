@@ -1,0 +1,3262 @@
+[
+  {
+    "id": "p-161690",
+    "offset": 0,
+    "text": "What makes the cornfield smile; beneath what star"
+  },
+  {
+    "id": "p-2fdc88",
+    "offset": 51,
+    "text": "Maecenas, it is meet to turn the sod"
+  },
+  {
+    "id": "p-84bd60",
+    "offset": 89,
+    "text": "Or marry elm with vine; how tend the steer;"
+  },
+  {
+    "id": "p-1190c8",
+    "offset": 134,
+    "text": "What pains for cattle-keeping, or what proof"
+  },
+  {
+    "id": "p-4f58b6",
+    "offset": 180,
+    "text": "Of patient trial serves for thrifty bees;—"
+  },
+  {
+    "id": "p-df4391",
+    "offset": 224,
+    "text": "Such are my themes. O universal lights"
+  },
+  {
+    "id": "p-2dd5b8",
+    "offset": 264,
+    "text": "Most glorious! ye that lead the gliding year"
+  },
+  {
+    "id": "p-c35c94",
+    "offset": 310,
+    "text": "Along the sky, Liber and Ceres mild,"
+  },
+  {
+    "id": "p-fd3eec",
+    "offset": 348,
+    "text": "If by your bounty holpen earth once changed"
+  },
+  {
+    "id": "p-cdd9c2",
+    "offset": 393,
+    "text": "Chaonian acorn for the plump wheat-ear,"
+  },
+  {
+    "id": "p-3bdc3b",
+    "offset": 434,
+    "text": "And mingled with the grape, your new-found gift,"
+  },
+  {
+    "id": "p-e1a828",
+    "offset": 484,
+    "text": "The draughts of Achelous; and ye Fauns"
+  },
+  {
+    "id": "p-5187da",
+    "offset": 524,
+    "text": "To rustics ever kind, come foot it, Fauns"
+  },
+  {
+    "id": "p-94df4c",
+    "offset": 567,
+    "text": "And Dryad-maids together; your gifts I sing."
+  },
+  {
+    "id": "p-81c8a7",
+    "offset": 613,
+    "text": "And thou, for whose delight the war-horse first"
+  },
+  {
+    "id": "p-7e2728",
+    "offset": 662,
+    "text": "Sprang from earth's womb at thy great trident's stroke,"
+  },
+  {
+    "id": "p-8f008f",
+    "offset": 719,
+    "text": "Neptune; and haunter of the groves, for whom"
+  },
+  {
+    "id": "p-54fb14",
+    "offset": 765,
+    "text": "Three hundred snow-white heifers browse the brakes,"
+  },
+  {
+    "id": "p-8d255d",
+    "offset": 818,
+    "text": "The fertile brakes of Ceos; and clothed in power,"
+  },
+  {
+    "id": "p-0cdb91",
+    "offset": 869,
+    "text": "Thy native forest and Lycean lawns,"
+  },
+  {
+    "id": "p-30f3f7",
+    "offset": 906,
+    "text": "Pan, shepherd-god, forsaking, as the love"
+  },
+  {
+    "id": "p-358984",
+    "offset": 949,
+    "text": "Of thine own Maenalus constrains thee, hear"
+  },
+  {
+    "id": "p-6424bd",
+    "offset": 994,
+    "text": "And help, O lord of Tegea! And thou, too,"
+  },
+  {
+    "id": "p-682dc4",
+    "offset": 1037,
+    "text": "Minerva, from whose hand the olive sprung;"
+  },
+  {
+    "id": "p-e65948",
+    "offset": 1081,
+    "text": "And boy-discoverer of the curved plough;"
+  },
+  {
+    "id": "p-5c6b12",
+    "offset": 1123,
+    "text": "And, bearing a young cypress root-uptorn,"
+  },
+  {
+    "id": "p-0024b7",
+    "offset": 1166,
+    "text": "Silvanus, and Gods all and Goddesses,"
+  },
+  {
+    "id": "p-dd3273",
+    "offset": 1205,
+    "text": "Who make the fields your care, both ye who nurse"
+  },
+  {
+    "id": "p-313b6f",
+    "offset": 1255,
+    "text": "The tender unsown increase, and from heaven"
+  },
+  {
+    "id": "p-303ce0",
+    "offset": 1300,
+    "text": "Shed on man's sowing the riches of your rain:"
+  },
+  {
+    "id": "p-ef50ab",
+    "offset": 1347,
+    "text": "And thou, even thou, of whom we know not yet"
+  },
+  {
+    "id": "p-afbf8a",
+    "offset": 1393,
+    "text": "What mansion of the skies shall hold thee soon,"
+  },
+  {
+    "id": "p-86e6a6",
+    "offset": 1442,
+    "text": "Whether to watch o'er cities be thy will,"
+  },
+  {
+    "id": "p-f0c1cc",
+    "offset": 1485,
+    "text": "Great Caesar, and to take the earth in charge,"
+  },
+  {
+    "id": "p-b1d36b",
+    "offset": 1533,
+    "text": "That so the mighty world may welcome thee"
+  },
+  {
+    "id": "p-e96f9b",
+    "offset": 1576,
+    "text": "Lord of her increase, master of her times,"
+  },
+  {
+    "id": "p-f094ba",
+    "offset": 1620,
+    "text": "Binding thy mother's myrtle round thy brow,"
+  },
+  {
+    "id": "p-34df67",
+    "offset": 1665,
+    "text": "Or as the boundless ocean's God thou come,"
+  },
+  {
+    "id": "p-fb2378",
+    "offset": 1709,
+    "text": "Sole dread of seamen, till far Thule bow"
+  },
+  {
+    "id": "p-feb93f",
+    "offset": 1751,
+    "text": "Before thee, and Tethys win thee to her son"
+  },
+  {
+    "id": "p-0601d0",
+    "offset": 1796,
+    "text": "With all her waves for dower; or as a star"
+  },
+  {
+    "id": "p-cf430c",
+    "offset": 1840,
+    "text": "Lend thy fresh beams our lagging months to cheer,"
+  },
+  {
+    "id": "p-a3f983",
+    "offset": 1891,
+    "text": "Where 'twixt the Maid and those pursuing Claws"
+  },
+  {
+    "id": "p-479781",
+    "offset": 1939,
+    "text": "A space is opening; see! red Scorpio's self"
+  },
+  {
+    "id": "p-6e17f4",
+    "offset": 1984,
+    "text": "His arms draws in, yea, and hath left thee more"
+  },
+  {
+    "id": "p-755df6",
+    "offset": 2033,
+    "text": "Than thy full meed of heaven: be what thou wilt—"
+  },
+  {
+    "id": "p-588d84",
+    "offset": 2083,
+    "text": "For neither Tartarus hopes to call thee king,"
+  },
+  {
+    "id": "p-5232a7",
+    "offset": 2130,
+    "text": "Nor may so dire a lust of sovereignty"
+  },
+  {
+    "id": "p-fbf5d0",
+    "offset": 2169,
+    "text": "E'er light upon thee, howso Greece admire"
+  },
+  {
+    "id": "p-cb0360",
+    "offset": 2212,
+    "text": "Elysium's fields, and Proserpine not heed"
+  },
+  {
+    "id": "p-125ac7",
+    "offset": 2255,
+    "text": "Her mother's voice entreating to return—"
+  },
+  {
+    "id": "p-563412",
+    "offset": 2297,
+    "text": "Vouchsafe a prosperous voyage, and smile on this"
+  },
+  {
+    "id": "p-30b837",
+    "offset": 2347,
+    "text": "My bold endeavour, and pitying, even as I,"
+  },
+  {
+    "id": "p-5c96fa",
+    "offset": 2391,
+    "text": "These poor way-wildered swains, at once begin,"
+  },
+  {
+    "id": "p-e62786",
+    "offset": 2439,
+    "text": "Grow timely used unto the voice of prayer."
+  },
+  {
+    "id": "p-ffc41c",
+    "offset": 2483,
+    "text": "In early spring-tide, when the icy drip"
+  },
+  {
+    "id": "p-6f28f1",
+    "offset": 2524,
+    "text": "Melts from the mountains hoar, and Zephyr's breath"
+  },
+  {
+    "id": "p-79ee4c",
+    "offset": 2576,
+    "text": "Unbinds the crumbling clod, even then 'tis time;"
+  },
+  {
+    "id": "p-340f75",
+    "offset": 2626,
+    "text": "Press deep your plough behind the groaning ox,"
+  },
+  {
+    "id": "p-0fd0fc",
+    "offset": 2674,
+    "text": "And teach the furrow-burnished share to shine."
+  },
+  {
+    "id": "p-607b2f",
+    "offset": 2722,
+    "text": "That land the craving farmer's prayer fulfils,"
+  },
+  {
+    "id": "p-87f78b",
+    "offset": 2770,
+    "text": "Which twice the sunshine, twice the frost has felt;"
+  },
+  {
+    "id": "p-3c9b57",
+    "offset": 2823,
+    "text": "Ay, that's the land whose boundless harvest-crops"
+  },
+  {
+    "id": "p-7181b2",
+    "offset": 2874,
+    "text": "Burst, see! the barns. But ere our metal cleave"
+  },
+  {
+    "id": "p-f84474",
+    "offset": 2923,
+    "text": "An unknown surface, heed we to forelearn"
+  },
+  {
+    "id": "p-d11dc1",
+    "offset": 2965,
+    "text": "The winds and varying temper of the sky,"
+  },
+  {
+    "id": "p-d485a6",
+    "offset": 3007,
+    "text": "The lineal tilth and habits of the spot,"
+  },
+  {
+    "id": "p-97bd60",
+    "offset": 3049,
+    "text": "What every region yields, and what denies."
+  },
+  {
+    "id": "p-1159d2",
+    "offset": 3093,
+    "text": "Here blithelier springs the corn, and here the grape,"
+  },
+  {
+    "id": "p-130011",
+    "offset": 3148,
+    "text": "There earth is green with tender growth of trees"
+  },
+  {
+    "id": "p-6881a0",
+    "offset": 3198,
+    "text": "And grass unbidden. See how from Tmolus comes"
+  },
+  {
+    "id": "p-0b2f81",
+    "offset": 3245,
+    "text": "The saffron's fragrance, ivory from Ind,"
+  },
+  {
+    "id": "p-950c42",
+    "offset": 3287,
+    "text": "From Saba 's weakling sons their frankincense,"
+  },
+  {
+    "id": "p-d87be0",
+    "offset": 3335,
+    "text": "Iron from the naked Chalybs, castor rank"
+  },
+  {
+    "id": "p-b7a69e",
+    "offset": 3377,
+    "text": "From Pontus, from Epirus the prize-palms"
+  },
+  {
+    "id": "p-5d32b9",
+    "offset": 3419,
+    "text": "O' the mares of Elis. Such the eternal bond"
+  },
+  {
+    "id": "p-ecc046",
+    "offset": 3464,
+    "text": "And such the laws by Nature's hand imposed"
+  },
+  {
+    "id": "p-6740b6",
+    "offset": 3508,
+    "text": "On clime and clime, e'er since the primal dawn"
+  },
+  {
+    "id": "p-726ab9",
+    "offset": 3556,
+    "text": "When old Deucalion on the unpeopled earth"
+  },
+  {
+    "id": "p-68b664",
+    "offset": 3599,
+    "text": "Cast stones, whence men, a flinty race, were reared."
+  },
+  {
+    "id": "p-bda9cb",
+    "offset": 3653,
+    "text": "Up then! if fat the soil, let sturdy bulls"
+  },
+  {
+    "id": "p-9b01d4",
+    "offset": 3697,
+    "text": "Upturn it from the year's first opening months,"
+  },
+  {
+    "id": "p-35e501",
+    "offset": 3746,
+    "text": "And let the clods lie bare till baked to dust"
+  },
+  {
+    "id": "p-e1405d",
+    "offset": 3793,
+    "text": "By the ripe suns of summer; but if the earth"
+  },
+  {
+    "id": "p-ac1571",
+    "offset": 3839,
+    "text": "Less fruitful just ere Arcturus rise"
+  },
+  {
+    "id": "p-1b9995",
+    "offset": 3877,
+    "text": "With shallower trench uptilt it—'twill suffice;"
+  },
+  {
+    "id": "p-7fca03",
+    "offset": 3926,
+    "text": "There, lest weeds choke the crop's luxuriance, here,"
+  },
+  {
+    "id": "p-88fa51",
+    "offset": 3980,
+    "text": "Lest the scant moisture fail the barren sand."
+  },
+  {
+    "id": "p-c808e4",
+    "offset": 4027,
+    "text": "Then thou shalt suffer in alternate years"
+  },
+  {
+    "id": "p-d4b8f5",
+    "offset": 4070,
+    "text": "The new-reaped fields to rest, and on the plain"
+  },
+  {
+    "id": "p-4f62df",
+    "offset": 4119,
+    "text": "A crust of sloth to harden; or, when stars"
+  },
+  {
+    "id": "p-b87ca9",
+    "offset": 4163,
+    "text": "Are changed in heaven, there sow the golden grain"
+  },
+  {
+    "id": "p-c2e085",
+    "offset": 4214,
+    "text": "Where erst, luxuriant with its quivering pod,"
+  },
+  {
+    "id": "p-a4ce70",
+    "offset": 4261,
+    "text": "Pulse, or the slender vetch-crop, thou hast cleared,"
+  },
+  {
+    "id": "p-aa5574",
+    "offset": 4315,
+    "text": "And lupin sour, whose brittle stalks arise,"
+  },
+  {
+    "id": "p-71486e",
+    "offset": 4360,
+    "text": "A hurtling forest. For the plain is parched"
+  },
+  {
+    "id": "p-f1cc63",
+    "offset": 4405,
+    "text": "By flax-crop, parched by oats, by poppies parched"
+  },
+  {
+    "id": "p-ad7467",
+    "offset": 4456,
+    "text": "In Lethe-slumber drenched. Nathless by change"
+  },
+  {
+    "id": "p-682836",
+    "offset": 4503,
+    "text": "The travailing earth is lightened, but stint not"
+  },
+  {
+    "id": "p-89d674",
+    "offset": 4553,
+    "text": "With refuse rich to soak the thirsty soil,"
+  },
+  {
+    "id": "p-14669d",
+    "offset": 4597,
+    "text": "And shower foul ashes o'er the exhausted fields."
+  },
+  {
+    "id": "p-a05730",
+    "offset": 4647,
+    "text": "Thus by rotation like repose is gained,"
+  },
+  {
+    "id": "p-1c7b8d",
+    "offset": 4688,
+    "text": "Nor earth meanwhile uneared and thankless left."
+  },
+  {
+    "id": "p-f25393",
+    "offset": 4737,
+    "text": "Oft, too, 'twill boot to fire the naked fields,"
+  },
+  {
+    "id": "p-c2c879",
+    "offset": 4786,
+    "text": "And the light stubble burn with crackling flames;"
+  },
+  {
+    "id": "p-ad3639",
+    "offset": 4837,
+    "text": "Whether that earth therefrom some hidden strength"
+  },
+  {
+    "id": "p-41f7a1",
+    "offset": 4888,
+    "text": "And fattening food derives, or that the fire"
+  },
+  {
+    "id": "p-a2e6a6",
+    "offset": 4934,
+    "text": "Bakes every blemish out, and sweats away"
+  },
+  {
+    "id": "p-cf683f",
+    "offset": 4976,
+    "text": "Each useless humour, or that the heat unlocks"
+  },
+  {
+    "id": "p-cccd02",
+    "offset": 5023,
+    "text": "New passages and secret pores, whereby"
+  },
+  {
+    "id": "p-fe016b",
+    "offset": 5063,
+    "text": "Their life-juice to the tender blades may win;"
+  },
+  {
+    "id": "p-8d4d8c",
+    "offset": 5111,
+    "text": "Or that it hardens more and helps to bind"
+  },
+  {
+    "id": "p-3f321e",
+    "offset": 5154,
+    "text": "The gaping veins, lest penetrating showers,"
+  },
+  {
+    "id": "p-56102b",
+    "offset": 5199,
+    "text": "Or fierce sun's ravening might, or searching blast"
+  },
+  {
+    "id": "p-b17046",
+    "offset": 5251,
+    "text": "Of the keen north should sear them. Well, I wot,"
+  },
+  {
+    "id": "p-9c4d97",
+    "offset": 5301,
+    "text": "He serves the fields who with his harrow breaks"
+  },
+  {
+    "id": "p-fad3c7",
+    "offset": 5350,
+    "text": "The sluggish clods, and hurdles osier-twined"
+  },
+  {
+    "id": "p-26f312",
+    "offset": 5396,
+    "text": "Hales o'er them; from the far Olympian height"
+  },
+  {
+    "id": "p-9d4a73",
+    "offset": 5443,
+    "text": "Him golden Ceres not in vain regards;"
+  },
+  {
+    "id": "p-750952",
+    "offset": 5482,
+    "text": "And he, who having ploughed the fallow plain"
+  },
+  {
+    "id": "p-b1e6cc",
+    "offset": 5528,
+    "text": "And heaved its furrowy ridges, turns once more"
+  },
+  {
+    "id": "p-eaf891",
+    "offset": 5576,
+    "text": "Cross-wise his shattering share, with stroke on stroke"
+  },
+  {
+    "id": "p-8e3d6b",
+    "offset": 5632,
+    "text": "The earth assails, and makes the field his thrall."
+  },
+  {
+    "id": "p-a47a20",
+    "offset": 5684,
+    "text": "Pray for wet summers and for winters fine,"
+  },
+  {
+    "id": "p-4d6f78",
+    "offset": 5728,
+    "text": "Ye husbandmen; in winter's dust the crops"
+  },
+  {
+    "id": "p-c4a8ad",
+    "offset": 5771,
+    "text": "Exceedingly rejoice, the field hath joy;"
+  },
+  {
+    "id": "p-99c2b0",
+    "offset": 5813,
+    "text": "No tilth makes Mysia lift her head so high,"
+  },
+  {
+    "id": "p-615be5",
+    "offset": 5858,
+    "text": "Nor Gargarus his own harvests so admire."
+  },
+  {
+    "id": "p-fd9126",
+    "offset": 5900,
+    "text": "Why tell of him, who, having launched his seed,"
+  },
+  {
+    "id": "p-a46d83",
+    "offset": 5949,
+    "text": "Sets on for close encounter, and rakes smooth"
+  },
+  {
+    "id": "p-67aab4",
+    "offset": 5996,
+    "text": "The dry dust hillocks, then on the tender corn"
+  },
+  {
+    "id": "p-8fd31a",
+    "offset": 6044,
+    "text": "Lets in the flood, whose waters follow fain;"
+  },
+  {
+    "id": "p-ac4475",
+    "offset": 6090,
+    "text": "And when the parched field quivers, and all the blades"
+  },
+  {
+    "id": "p-9668e5",
+    "offset": 6146,
+    "text": "Are dying, from the brow of its hill-bed,"
+  },
+  {
+    "id": "p-8b55a9",
+    "offset": 6189,
+    "text": "See! see! he lures the runnel; down it falls,"
+  },
+  {
+    "id": "p-76871c",
+    "offset": 6236,
+    "text": "Waking hoarse murmurs o'er the polished stones,"
+  },
+  {
+    "id": "p-16c3d7",
+    "offset": 6285,
+    "text": "And with its bubblings slakes the thirsty fields?"
+  },
+  {
+    "id": "p-d88a1e",
+    "offset": 6336,
+    "text": "Or why of him, who lest the heavy ears"
+  },
+  {
+    "id": "p-a647e1",
+    "offset": 6376,
+    "text": "O'erweigh the stalk, while yet in tender blade"
+  },
+  {
+    "id": "p-910387",
+    "offset": 6424,
+    "text": "Feeds down the crop's luxuriance, when its growth"
+  },
+  {
+    "id": "p-08b007",
+    "offset": 6475,
+    "text": "First tops the furrows? Why of him who drains"
+  },
+  {
+    "id": "p-66717d",
+    "offset": 6522,
+    "text": "The marsh-land's gathered ooze through soaking sand,"
+  },
+  {
+    "id": "p-50b23f",
+    "offset": 6576,
+    "text": "Chiefly what time in treacherous moons a stream"
+  },
+  {
+    "id": "p-35920a",
+    "offset": 6625,
+    "text": "Goes out in spate, and with its coat of slime"
+  },
+  {
+    "id": "p-8d3351",
+    "offset": 6672,
+    "text": "Holds all the country, whence the hollow dykes"
+  },
+  {
+    "id": "p-08ad3a",
+    "offset": 6720,
+    "text": "Sweat steaming vapour?"
+  },
+  {
+    "id": "p-7e444a",
+    "offset": 6744,
+    "text": "But no whit the more"
+  },
+  {
+    "id": "p-0d53d8",
+    "offset": 6766,
+    "text": "For all expedients tried and travail borne"
+  },
+  {
+    "id": "p-30d7a5",
+    "offset": 6810,
+    "text": "By man and beast in turning oft the soil,"
+  },
+  {
+    "id": "p-25325b",
+    "offset": 6853,
+    "text": "Do greedy goose and Strymon-haunting cranes"
+  },
+  {
+    "id": "p-74d072",
+    "offset": 6898,
+    "text": "And succory's bitter fibres cease to harm,"
+  },
+  {
+    "id": "p-e7621d",
+    "offset": 6942,
+    "text": "Or shade not injure. The great Sire himself"
+  },
+  {
+    "id": "p-2f5f44",
+    "offset": 6987,
+    "text": "No easy road to husbandry assigned,"
+  },
+  {
+    "id": "p-63f436",
+    "offset": 7024,
+    "text": "And first was he by human skill to rouse"
+  },
+  {
+    "id": "p-1f997a",
+    "offset": 7066,
+    "text": "The slumbering glebe, whetting the minds of men"
+  },
+  {
+    "id": "p-d334d0",
+    "offset": 7115,
+    "text": "With care on care, nor suffering realm of his"
+  },
+  {
+    "id": "p-c95ed1",
+    "offset": 7162,
+    "text": "In drowsy sloth to stagnate. Before Jove"
+  },
+  {
+    "id": "p-0142fe",
+    "offset": 7204,
+    "text": "Fields knew no taming hand of husbandmen;"
+  },
+  {
+    "id": "p-5a5cd5",
+    "offset": 7247,
+    "text": "To mark the plain or mete with boundary-line—"
+  },
+  {
+    "id": "p-031617",
+    "offset": 7294,
+    "text": "Even this was impious; for the common stock"
+  },
+  {
+    "id": "p-c3c9db",
+    "offset": 7339,
+    "text": "They gathered, and the earth of her own will"
+  },
+  {
+    "id": "p-739e10",
+    "offset": 7385,
+    "text": "All things more freely, no man bidding, bore."
+  },
+  {
+    "id": "p-947ebd",
+    "offset": 7432,
+    "text": "He to black serpents gave their venom-bane,"
+  },
+  {
+    "id": "p-139f97",
+    "offset": 7477,
+    "text": "And bade the wolf go prowl, and ocean toss;"
+  },
+  {
+    "id": "p-6f2bbd",
+    "offset": 7522,
+    "text": "Shooed from the leaves their honey, put fire away,"
+  },
+  {
+    "id": "p-f9b555",
+    "offset": 7574,
+    "text": "And curbed the random rivers running wine,"
+  },
+  {
+    "id": "p-4ba872",
+    "offset": 7618,
+    "text": "That use by gradual dint of thought on thought"
+  },
+  {
+    "id": "p-44b6b0",
+    "offset": 7666,
+    "text": "Might forge the various arts, with furrow's help"
+  },
+  {
+    "id": "p-d333c4",
+    "offset": 7716,
+    "text": "The corn-blade win, and strike out hidden fire"
+  },
+  {
+    "id": "p-4dd85d",
+    "offset": 7764,
+    "text": "From the flint's heart. Then first the streams were ware"
+  },
+  {
+    "id": "p-4862b8",
+    "offset": 7822,
+    "text": "Of hollowed alder-hulls: the sailor then"
+  },
+  {
+    "id": "p-8e34d8",
+    "offset": 7864,
+    "text": "Their names and numbers gave to star and star,"
+  },
+  {
+    "id": "p-1b009c",
+    "offset": 7912,
+    "text": "Pleiads and Hyads, and Lycaon's child"
+  },
+  {
+    "id": "p-20049d",
+    "offset": 7951,
+    "text": "Bright Arctos; how with nooses then was found"
+  },
+  {
+    "id": "p-ac56cf",
+    "offset": 7998,
+    "text": "To catch wild beasts, and cozen them with lime,"
+  },
+  {
+    "id": "p-b1c891",
+    "offset": 8047,
+    "text": "And hem with hounds the mighty forest-glades."
+  },
+  {
+    "id": "p-999ab7",
+    "offset": 8094,
+    "text": "Soon one with hand-net scourges the broad stream,"
+  },
+  {
+    "id": "p-a5b46a",
+    "offset": 8145,
+    "text": "Probing its depths, one drags his dripping toils"
+  },
+  {
+    "id": "p-a84857",
+    "offset": 8195,
+    "text": "Along the main; then iron's unbending might,"
+  },
+  {
+    "id": "p-6ad04b",
+    "offset": 8241,
+    "text": "And shrieking saw-blade,—for the men of old"
+  },
+  {
+    "id": "p-2d4d7e",
+    "offset": 8286,
+    "text": "With wedges wont to cleave the splintering log;—"
+  },
+  {
+    "id": "p-077ffc",
+    "offset": 8336,
+    "text": "Then divers arts arose; toil conquered all,"
+  },
+  {
+    "id": "p-f4e550",
+    "offset": 8381,
+    "text": "Remorseless toil, and poverty's shrewd push"
+  },
+  {
+    "id": "p-61bc95",
+    "offset": 8426,
+    "text": "In times of hardship. Ceres was the first"
+  },
+  {
+    "id": "p-e48175",
+    "offset": 8469,
+    "text": "Set mortals on with tools to turn the sod,"
+  },
+  {
+    "id": "p-5746cd",
+    "offset": 8513,
+    "text": "When now the awful groves 'gan fail to bear"
+  },
+  {
+    "id": "p-10d856",
+    "offset": 8558,
+    "text": "Acorns and arbutes, and her wonted food"
+  },
+  {
+    "id": "p-f17165",
+    "offset": 8599,
+    "text": "Dodona gave no more. Soon, too, the corn"
+  },
+  {
+    "id": "p-2fda5e",
+    "offset": 8641,
+    "text": "Gat sorrow's increase, that an evil blight"
+  },
+  {
+    "id": "p-575abb",
+    "offset": 8685,
+    "text": "Ate up the stalks, and thistle reared his spines"
+  },
+  {
+    "id": "p-d495e7",
+    "offset": 8735,
+    "text": "An idler in the fields; the crops die down;"
+  },
+  {
+    "id": "p-8e02a4",
+    "offset": 8780,
+    "text": "Upsprings instead a shaggy growth of burrs"
+  },
+  {
+    "id": "p-9e6744",
+    "offset": 8824,
+    "text": "And caltrops; and amid the corn-fields trim"
+  },
+  {
+    "id": "p-780e1e",
+    "offset": 8869,
+    "text": "Unfruitful darnel and wild oats have sway."
+  },
+  {
+    "id": "p-c03f4b",
+    "offset": 8913,
+    "text": "Wherefore, unless thou shalt with ceaseless rake"
+  },
+  {
+    "id": "p-57e0b4",
+    "offset": 8963,
+    "text": "The weeds pursue, with shouting scare the birds,"
+  },
+  {
+    "id": "p-c75525",
+    "offset": 9013,
+    "text": "Prune with thy hook the dark field's matted shade,"
+  },
+  {
+    "id": "p-8f3fda",
+    "offset": 9065,
+    "text": "Pray down the showers, all vainly thou shalt eye,"
+  },
+  {
+    "id": "p-8137c2",
+    "offset": 9116,
+    "text": "Alack! thy neighbour's heaped-up harvest-mow,"
+  },
+  {
+    "id": "p-3bfc18",
+    "offset": 9163,
+    "text": "And in the greenwood from a shaken oak"
+  },
+  {
+    "id": "p-fdecbd",
+    "offset": 9203,
+    "text": "Seek solace for thine hunger."
+  },
+  {
+    "id": "p-344835",
+    "offset": 9234,
+    "text": "Now to tell"
+  },
+  {
+    "id": "p-dac969",
+    "offset": 9247,
+    "text": "The sturdy rustics' weapons, what they are,"
+  },
+  {
+    "id": "p-42fddc",
+    "offset": 9292,
+    "text": "Without which, neither can be sown nor reared"
+  },
+  {
+    "id": "p-ca096b",
+    "offset": 9339,
+    "text": "The fruits of harvest; first the bent plough's share"
+  },
+  {
+    "id": "p-2fc9f1",
+    "offset": 9393,
+    "text": "And heavy timber, and slow-lumbering wains"
+  },
+  {
+    "id": "p-fb8560",
+    "offset": 9437,
+    "text": "Of the Eleusinian mother, threshing-sleighs"
+  },
+  {
+    "id": "p-e2367f",
+    "offset": 9482,
+    "text": "And drags, and harrows with their crushing weight;"
+  },
+  {
+    "id": "p-077b2e",
+    "offset": 9534,
+    "text": "Then the cheap wicker-ware of Celeus old,"
+  },
+  {
+    "id": "p-1238a8",
+    "offset": 9577,
+    "text": "Hurdles of arbute, and thy mystic fan,"
+  },
+  {
+    "id": "p-3f9445",
+    "offset": 9617,
+    "text": "Iacchus; which, full tale, long ere the time"
+  },
+  {
+    "id": "p-5d302e",
+    "offset": 9663,
+    "text": "Thou must with heed lay by, if thee await"
+  },
+  {
+    "id": "p-43f7a3",
+    "offset": 9706,
+    "text": "Not all unearned the country's crown divine."
+  },
+  {
+    "id": "p-427387",
+    "offset": 9752,
+    "text": "While yet within the woods, the elm is tamed"
+  },
+  {
+    "id": "p-d82f0a",
+    "offset": 9798,
+    "text": "And bowed with mighty force to form the stock,"
+  },
+  {
+    "id": "p-e6b551",
+    "offset": 9846,
+    "text": "And take the plough's curved shape, then nigh the root"
+  },
+  {
+    "id": "p-042da0",
+    "offset": 9902,
+    "text": "A pole eight feet projecting, earth-boards twain,"
+  },
+  {
+    "id": "p-a74807",
+    "offset": 9953,
+    "text": "And share-beam with its double back they fix."
+  },
+  {
+    "id": "p-066519",
+    "offset": 10000,
+    "text": "For yoke is early hewn a linden light,"
+  },
+  {
+    "id": "p-a2541c",
+    "offset": 10040,
+    "text": "And a tall beech for handle, from behind"
+  },
+  {
+    "id": "p-ff45c7",
+    "offset": 10082,
+    "text": "To turn the car at lowest: then o'er the hearth"
+  },
+  {
+    "id": "p-f8aaec",
+    "offset": 10131,
+    "text": "The wood they hang till the smoke knows it well."
+  },
+  {
+    "id": "p-c08c38",
+    "offset": 10181,
+    "text": "Many the precepts of the men of old"
+  },
+  {
+    "id": "p-900ec6",
+    "offset": 10218,
+    "text": "I can recount thee, so thou start not back,"
+  },
+  {
+    "id": "p-dc71ff",
+    "offset": 10263,
+    "text": "And such slight cares to learn not weary thee."
+  },
+  {
+    "id": "p-26ecea",
+    "offset": 10311,
+    "text": "And this among the first: thy threshing-floor"
+  },
+  {
+    "id": "p-e1b7be",
+    "offset": 10358,
+    "text": "With ponderous roller must be levelled smooth,"
+  },
+  {
+    "id": "p-d408cd",
+    "offset": 10406,
+    "text": "And wrought by hand, and fixed with binding chalk,"
+  },
+  {
+    "id": "p-7463f9",
+    "offset": 10458,
+    "text": "Lest weeds arise, or dust a passage win"
+  },
+  {
+    "id": "p-1fb164",
+    "offset": 10499,
+    "text": "Splitting the surface, then a thousand plagues"
+  },
+  {
+    "id": "p-1704d1",
+    "offset": 10547,
+    "text": "Make sport of it: oft builds the tiny mouse"
+  },
+  {
+    "id": "p-5c136f",
+    "offset": 10592,
+    "text": "Her home, and plants her granary, underground,"
+  },
+  {
+    "id": "p-121528",
+    "offset": 10640,
+    "text": "Or burrow for their bed the purblind moles,"
+  },
+  {
+    "id": "p-1799b1",
+    "offset": 10685,
+    "text": "Or toad is found in hollows, and all the swarm"
+  },
+  {
+    "id": "p-6d94a7",
+    "offset": 10733,
+    "text": "Of earth's unsightly creatures; or a huge"
+  },
+  {
+    "id": "p-e67216",
+    "offset": 10776,
+    "text": "Corn-heap the weevil plunders, and the ant,"
+  },
+  {
+    "id": "p-5e5f8b",
+    "offset": 10821,
+    "text": "Fearful of coming age and penury."
+  },
+  {
+    "id": "p-710a2d",
+    "offset": 10856,
+    "text": "Mark too, what time the walnut in the woods"
+  },
+  {
+    "id": "p-472592",
+    "offset": 10901,
+    "text": "With ample bloom shall clothe her, and bow down"
+  },
+  {
+    "id": "p-8c8558",
+    "offset": 10950,
+    "text": "Her odorous branches, if the fruit prevail,"
+  },
+  {
+    "id": "p-222d8d",
+    "offset": 10995,
+    "text": "Like store of grain will follow, and there shall come"
+  },
+  {
+    "id": "p-989c3b",
+    "offset": 11050,
+    "text": "A mighty winnowing-time with mighty heat;"
+  },
+  {
+    "id": "p-95b34e",
+    "offset": 11093,
+    "text": "But if the shade with wealth of leaves abound,"
+  },
+  {
+    "id": "p-b3da1c",
+    "offset": 11141,
+    "text": "Vainly your threshing-floor will bruise the stalks"
+  },
+  {
+    "id": "p-2024b0",
+    "offset": 11193,
+    "text": "Rich but in chaff. Many myself have seen"
+  },
+  {
+    "id": "p-b56265",
+    "offset": 11235,
+    "text": "Steep, as they sow, their pulse-seeds, drenching them"
+  },
+  {
+    "id": "p-f991bb",
+    "offset": 11290,
+    "text": "With nitre and black oil-lees, that the fruit"
+  },
+  {
+    "id": "p-968d9c",
+    "offset": 11337,
+    "text": "Might swell within the treacherous pods, and they"
+  },
+  {
+    "id": "p-190881",
+    "offset": 11388,
+    "text": "Make speed to boil at howso small a fire."
+  },
+  {
+    "id": "p-02c748",
+    "offset": 11431,
+    "text": "Yet, culled with caution, proved with patient toil,"
+  },
+  {
+    "id": "p-b3fa75",
+    "offset": 11484,
+    "text": "These have I seen degenerate, did not man"
+  },
+  {
+    "id": "p-375006",
+    "offset": 11527,
+    "text": "Put forth his hand with power, and year by year"
+  },
+  {
+    "id": "p-253658",
+    "offset": 11576,
+    "text": "Choose out the largest. So, by fate impelled,"
+  },
+  {
+    "id": "p-6cda78",
+    "offset": 11623,
+    "text": "Speed all things to the worse, and backward borne"
+  },
+  {
+    "id": "p-20391d",
+    "offset": 11674,
+    "text": "Glide from us; even as who with struggling oars"
+  },
+  {
+    "id": "p-b2420a",
+    "offset": 11723,
+    "text": "Up stream scarce pulls a shallop, if he chance"
+  },
+  {
+    "id": "p-c145cf",
+    "offset": 11771,
+    "text": "His arms to slacken, lo! with headlong force"
+  },
+  {
+    "id": "p-c7712c",
+    "offset": 11817,
+    "text": "The current sweeps him down the hurrying tide."
+  },
+  {
+    "id": "p-81876e",
+    "offset": 11865,
+    "text": "Us too behoves Arcturus' sign observe,"
+  },
+  {
+    "id": "p-89383b",
+    "offset": 11905,
+    "text": "And the Kids' seasons and the shining Snake,"
+  },
+  {
+    "id": "p-52c99d",
+    "offset": 11951,
+    "text": "No less than those who o'er the windy main"
+  },
+  {
+    "id": "p-6e2397",
+    "offset": 11995,
+    "text": "Borne homeward tempt the Pontic, and the jaws"
+  },
+  {
+    "id": "p-f411fe",
+    "offset": 12042,
+    "text": "Of oyster-rife Abydos. When the Scales"
+  },
+  {
+    "id": "p-025370",
+    "offset": 12082,
+    "text": "Now poising fair the hours of sleep and day"
+  },
+  {
+    "id": "p-23e434",
+    "offset": 12127,
+    "text": "Give half the world to sunshine, half to shade,"
+  },
+  {
+    "id": "p-d1050b",
+    "offset": 12176,
+    "text": "Then urge your bulls, my masters; sow the plain"
+  },
+  {
+    "id": "p-7af775",
+    "offset": 12225,
+    "text": "Even to the verge of tameless winter's showers"
+  },
+  {
+    "id": "p-f1080a",
+    "offset": 12273,
+    "text": "With barley: then, too, time it is to hide"
+  },
+  {
+    "id": "p-eef8ed",
+    "offset": 12317,
+    "text": "Your flax in earth, and poppy, Ceres' joy,"
+  },
+  {
+    "id": "p-ca59e0",
+    "offset": 12361,
+    "text": "Aye, more than time to bend above the plough,"
+  },
+  {
+    "id": "p-3e1055",
+    "offset": 12408,
+    "text": "While earth, yet dry, forbids not, and the clouds"
+  },
+  {
+    "id": "p-5a84eb",
+    "offset": 12459,
+    "text": "Are buoyant. With the spring comes bean-sowing;"
+  },
+  {
+    "id": "p-57e33f",
+    "offset": 12508,
+    "text": "Thee, too, Lucerne, the crumbling furrows then"
+  },
+  {
+    "id": "p-9e15fe",
+    "offset": 12556,
+    "text": "Receive, and millet's annual care returns,"
+  },
+  {
+    "id": "p-994449",
+    "offset": 12600,
+    "text": "What time the white bull with his gilded horns"
+  },
+  {
+    "id": "p-ff29de",
+    "offset": 12648,
+    "text": "Opens the year, before whose threatening front,"
+  },
+  {
+    "id": "p-80848f",
+    "offset": 12697,
+    "text": "Routed the dog-star sinks. But if it be"
+  },
+  {
+    "id": "p-8cea57",
+    "offset": 12738,
+    "text": "For wheaten harvest and the hardy spelt,"
+  },
+  {
+    "id": "p-f275d5",
+    "offset": 12780,
+    "text": "Thou tax the soil, to corn-ears wholly given,"
+  },
+  {
+    "id": "p-2e41d5",
+    "offset": 12827,
+    "text": "Let Atlas' daughters hide them in the dawn,"
+  },
+  {
+    "id": "p-2dc786",
+    "offset": 12872,
+    "text": "The Cretan star, a crown of fire, depart,"
+  },
+  {
+    "id": "p-d8114b",
+    "offset": 12915,
+    "text": "Or e'er the furrow's claim of seed thou quit,"
+  },
+  {
+    "id": "p-609850",
+    "offset": 12962,
+    "text": "Or haste thee to entrust the whole year's hope"
+  },
+  {
+    "id": "p-79cfad",
+    "offset": 13010,
+    "text": "To earth that would not. Many have begun"
+  },
+  {
+    "id": "p-e78d68",
+    "offset": 13052,
+    "text": "Ere Maia's star be setting; these, I trow,"
+  },
+  {
+    "id": "p-cf3573",
+    "offset": 13096,
+    "text": "Their looked-for harvest fools with empty ears."
+  },
+  {
+    "id": "p-287f7f",
+    "offset": 13145,
+    "text": "But if the vetch and common kidney-bean"
+  },
+  {
+    "id": "p-ec1afc",
+    "offset": 13186,
+    "text": "Thou'rt fain to sow, nor scorn to make thy care"
+  },
+  {
+    "id": "p-1908ac",
+    "offset": 13235,
+    "text": "Pelusiac lentil, no uncertain sign"
+  },
+  {
+    "id": "p-2e715b",
+    "offset": 13271,
+    "text": "Bootes' fall will send thee; then begin,"
+  },
+  {
+    "id": "p-7652f6",
+    "offset": 13313,
+    "text": "Pursue thy sowing till half the frosts be done."
+  },
+  {
+    "id": "p-d64b8b",
+    "offset": 13362,
+    "text": "Therefore it is the golden sun, his course"
+  },
+  {
+    "id": "p-89421a",
+    "offset": 13406,
+    "text": "Into fixed parts dividing, rules his way"
+  },
+  {
+    "id": "p-df6e60",
+    "offset": 13448,
+    "text": "Through the twelve constellations of the world."
+  },
+  {
+    "id": "p-7ba920",
+    "offset": 13497,
+    "text": "Five zones the heavens contain; whereof is one"
+  },
+  {
+    "id": "p-724c78",
+    "offset": 13545,
+    "text": "Aye red with flashing sunlight, fervent aye"
+  },
+  {
+    "id": "p-44b3ea",
+    "offset": 13590,
+    "text": "From fire; on either side to left and right"
+  },
+  {
+    "id": "p-47be6c",
+    "offset": 13635,
+    "text": "Are traced the utmost twain, stiff with blue ice,"
+  },
+  {
+    "id": "p-a357d4",
+    "offset": 13686,
+    "text": "And black with scowling storm-clouds, and betwixt"
+  },
+  {
+    "id": "p-0d8ce6",
+    "offset": 13737,
+    "text": "These and the midmost, other twain there lie,"
+  },
+  {
+    "id": "p-df1870",
+    "offset": 13784,
+    "text": "By the Gods' grace to heart-sick mortals given,"
+  },
+  {
+    "id": "p-42cac4",
+    "offset": 13833,
+    "text": "And a path cleft between them, where might wheel"
+  },
+  {
+    "id": "p-7fd11c",
+    "offset": 13883,
+    "text": "On sloping plane the system of the Signs."
+  },
+  {
+    "id": "p-fa12da",
+    "offset": 13926,
+    "text": "And as toward Scythia and Rhipaean heights"
+  },
+  {
+    "id": "p-697569",
+    "offset": 13970,
+    "text": "The world mounts upward, likewise sinks it down"
+  },
+  {
+    "id": "p-9ed07d",
+    "offset": 14019,
+    "text": "Toward Libya and the south, this pole of ours"
+  },
+  {
+    "id": "p-b1d81e",
+    "offset": 14066,
+    "text": "Still towering high, that other, 'neath their feet,"
+  },
+  {
+    "id": "p-b1a85d",
+    "offset": 14119,
+    "text": "By dark Styx frowned on, and the abysmal shades."
+  },
+  {
+    "id": "p-822f24",
+    "offset": 14169,
+    "text": "Here glides the huge Snake forth with sinuous coils"
+  },
+  {
+    "id": "p-77d44e",
+    "offset": 14222,
+    "text": "'Twixt the two Bears and round them river-wise—"
+  },
+  {
+    "id": "p-e05a06",
+    "offset": 14271,
+    "text": "The Bears that fear 'neath Ocean's brim to dip."
+  },
+  {
+    "id": "p-0469c7",
+    "offset": 14320,
+    "text": "There either, say they, reigns the eternal hush"
+  },
+  {
+    "id": "p-bf80f2",
+    "offset": 14369,
+    "text": "Of night that knows no seasons, her black pall"
+  },
+  {
+    "id": "p-04a85f",
+    "offset": 14417,
+    "text": "Thick-mantling fold on fold; or thitherward"
+  },
+  {
+    "id": "p-2d39b7",
+    "offset": 14462,
+    "text": "From us returning Dawn brings back the day;"
+  },
+  {
+    "id": "p-daf0a3",
+    "offset": 14507,
+    "text": "And when the first breath of his panting steeds"
+  },
+  {
+    "id": "p-e12a4e",
+    "offset": 14556,
+    "text": "On us the Orient flings, that hour with them"
+  },
+  {
+    "id": "p-46c4e8",
+    "offset": 14602,
+    "text": "Red Vesper 'gins to trim his 'lated fires."
+  },
+  {
+    "id": "p-1fba54",
+    "offset": 14646,
+    "text": "Hence under doubtful skies forebode we can"
+  },
+  {
+    "id": "p-25e432",
+    "offset": 14690,
+    "text": "The coming tempests, hence both harvest-day"
+  },
+  {
+    "id": "p-14fc9d",
+    "offset": 14735,
+    "text": "And seed-time, when to smite the treacherous main"
+  },
+  {
+    "id": "p-0b8735",
+    "offset": 14786,
+    "text": "With driving oars, when launch the fair-rigged fleet,"
+  },
+  {
+    "id": "p-427d49",
+    "offset": 14841,
+    "text": "Or in ripe hour to fell the forest-pine."
+  },
+  {
+    "id": "p-517651",
+    "offset": 14883,
+    "text": "Hence, too, not idly do we watch the stars—"
+  },
+  {
+    "id": "p-8f0a00",
+    "offset": 14928,
+    "text": "Their rising and their setting-and the year,"
+  },
+  {
+    "id": "p-65c496",
+    "offset": 14974,
+    "text": "Four varying seasons to one law conformed."
+  },
+  {
+    "id": "p-8073c5",
+    "offset": 15018,
+    "text": "If chilly showers e'er shut the farmer's door,"
+  },
+  {
+    "id": "p-40058e",
+    "offset": 15066,
+    "text": "Much that had soon with sunshine cried for haste,"
+  },
+  {
+    "id": "p-31950f",
+    "offset": 15117,
+    "text": "He may forestall; the ploughman batters keen"
+  },
+  {
+    "id": "p-532a03",
+    "offset": 15163,
+    "text": "His blunted share's hard tooth, scoops from a tree"
+  },
+  {
+    "id": "p-d5520c",
+    "offset": 15215,
+    "text": "His troughs, or on the cattle stamps a brand,"
+  },
+  {
+    "id": "p-4aefcb",
+    "offset": 15262,
+    "text": "Or numbers on the corn-heaps; some make sharp"
+  },
+  {
+    "id": "p-dfb5e2",
+    "offset": 15309,
+    "text": "The stakes and two-pronged forks, and willow-bands"
+  },
+  {
+    "id": "p-c3151e",
+    "offset": 15361,
+    "text": "Amerian for the bending vine prepare."
+  },
+  {
+    "id": "p-db26dd",
+    "offset": 15400,
+    "text": "Now let the pliant basket plaited be"
+  },
+  {
+    "id": "p-361e45",
+    "offset": 15438,
+    "text": "Of bramble-twigs; now set your corn to parch"
+  },
+  {
+    "id": "p-5857a8",
+    "offset": 15484,
+    "text": "Before the fire; now bruise it with the stone."
+  },
+  {
+    "id": "p-a495b1",
+    "offset": 15532,
+    "text": "Nay even on holy days some tasks to ply"
+  },
+  {
+    "id": "p-2de9ac",
+    "offset": 15573,
+    "text": "Is right and lawful: this no ban forbids,"
+  },
+  {
+    "id": "p-539ad1",
+    "offset": 15616,
+    "text": "To turn the runnel's course, fence corn-fields in,"
+  },
+  {
+    "id": "p-4f15ed",
+    "offset": 15668,
+    "text": "Make springes for the birds, burn up the briars,"
+  },
+  {
+    "id": "p-24af0d",
+    "offset": 15718,
+    "text": "And plunge in wholesome stream the bleating flock."
+  },
+  {
+    "id": "p-160a8d",
+    "offset": 15770,
+    "text": "Oft too with oil or apples plenty-cheap"
+  },
+  {
+    "id": "p-57ea65",
+    "offset": 15811,
+    "text": "The creeping ass's ribs his driver packs,"
+  },
+  {
+    "id": "p-4dd4fc",
+    "offset": 15854,
+    "text": "And home from town returning brings instead"
+  },
+  {
+    "id": "p-d9920b",
+    "offset": 15899,
+    "text": "A dented mill-stone or black lump of pitch."
+  },
+  {
+    "id": "p-20cd55",
+    "offset": 15944,
+    "text": "The moon herself in various rank assigns"
+  },
+  {
+    "id": "p-f2872a",
+    "offset": 15986,
+    "text": "The days for labour lucky: fly the fifth;"
+  },
+  {
+    "id": "p-f55d68",
+    "offset": 16029,
+    "text": "Then sprang pale Orcus and the Eumenides;"
+  },
+  {
+    "id": "p-066545",
+    "offset": 16072,
+    "text": "Earth then in awful labour brought to light"
+  },
+  {
+    "id": "p-b22847",
+    "offset": 16117,
+    "text": "Coeus, Iapetus, and Typhoeus fell,"
+  },
+  {
+    "id": "p-4c4096",
+    "offset": 16153,
+    "text": "And those sworn brethren banded to break down"
+  },
+  {
+    "id": "p-9822bb",
+    "offset": 16200,
+    "text": "The gates of heaven; thrice, sooth to say, they strove"
+  },
+  {
+    "id": "p-1ecf65",
+    "offset": 16256,
+    "text": "Ossa on Pelion 's top to heave and heap,"
+  },
+  {
+    "id": "p-bd6205",
+    "offset": 16298,
+    "text": "Aye, and on Ossa to up-roll amain"
+  },
+  {
+    "id": "p-e42e0d",
+    "offset": 16333,
+    "text": "Leafy Olympus; thrice with thunderbolt"
+  },
+  {
+    "id": "p-224b5e",
+    "offset": 16373,
+    "text": "Their mountain-stair the Sire asunder smote."
+  },
+  {
+    "id": "p-d5473d",
+    "offset": 16419,
+    "text": "Seventh after tenth is lucky both to set"
+  },
+  {
+    "id": "p-0ed0ad",
+    "offset": 16461,
+    "text": "The vine in earth, and take and tame the steer,"
+  },
+  {
+    "id": "p-73951b",
+    "offset": 16510,
+    "text": "And fix the leashes to the warp; the ninth"
+  },
+  {
+    "id": "p-02193c",
+    "offset": 16554,
+    "text": "To runagates is kinder, cross to thieves."
+  },
+  {
+    "id": "p-d0062d",
+    "offset": 16597,
+    "text": "Many the tasks that lightlier lend themselves"
+  },
+  {
+    "id": "p-fc96fc",
+    "offset": 16644,
+    "text": "In chilly night, or when the sun is young,"
+  },
+  {
+    "id": "p-5f440f",
+    "offset": 16688,
+    "text": "And Dawn bedews the world. By night 'tis best"
+  },
+  {
+    "id": "p-3c233e",
+    "offset": 16735,
+    "text": "To reap light stubble, and parched fields by night;"
+  },
+  {
+    "id": "p-718ea6",
+    "offset": 16788,
+    "text": "For nights the suppling moisture never fails."
+  },
+  {
+    "id": "p-89bc75",
+    "offset": 16835,
+    "text": "And one will sit the long late watches out"
+  },
+  {
+    "id": "p-911063",
+    "offset": 16879,
+    "text": "By winter fire-light, shaping with keen blade"
+  },
+  {
+    "id": "p-8c8830",
+    "offset": 16926,
+    "text": "The torches to a point; his wife the while,"
+  },
+  {
+    "id": "p-c83d67",
+    "offset": 16971,
+    "text": "Her tedious labour soothing with a song,"
+  },
+  {
+    "id": "p-a1b847",
+    "offset": 17013,
+    "text": "Speeds the shrill comb along the warp, or else"
+  },
+  {
+    "id": "p-26a716",
+    "offset": 17061,
+    "text": "With Vulcan's aid boils the sweet must-juice down,"
+  },
+  {
+    "id": "p-908cdf",
+    "offset": 17113,
+    "text": "And skims with leaves the quivering cauldron's wave."
+  },
+  {
+    "id": "p-41b439",
+    "offset": 17167,
+    "text": "But ruddy Ceres in mid heat is mown,"
+  },
+  {
+    "id": "p-71ec34",
+    "offset": 17205,
+    "text": "And in mid heat the parched ears are bruised"
+  },
+  {
+    "id": "p-8ac357",
+    "offset": 17251,
+    "text": "Upon the floor; to plough strip, strip to sow;"
+  },
+  {
+    "id": "p-0b9760",
+    "offset": 17299,
+    "text": "Winter's the lazy time for husbandmen."
+  },
+  {
+    "id": "p-12b263",
+    "offset": 17339,
+    "text": "In the cold season farmers wont to taste"
+  },
+  {
+    "id": "p-eab875",
+    "offset": 17381,
+    "text": "The increase of their toil, and yield themselves"
+  },
+  {
+    "id": "p-80a3b4",
+    "offset": 17431,
+    "text": "To mutual interchange of festal cheer."
+  },
+  {
+    "id": "p-94bc97",
+    "offset": 17471,
+    "text": "Boon winter bids them, and unbinds their cares,"
+  },
+  {
+    "id": "p-387e1a",
+    "offset": 17520,
+    "text": "As laden keels, when now the port they touch,"
+  },
+  {
+    "id": "p-d1ebf2",
+    "offset": 17567,
+    "text": "And happy sailors crown the sterns with flowers."
+  },
+  {
+    "id": "p-237a1d",
+    "offset": 17617,
+    "text": "Nathless then also time it is to strip"
+  },
+  {
+    "id": "p-ea077d",
+    "offset": 17657,
+    "text": "Acorns from oaks, and berries from the bay,"
+  },
+  {
+    "id": "p-afa47d",
+    "offset": 17702,
+    "text": "Olives, and bleeding myrtles, then to set"
+  },
+  {
+    "id": "p-ce2344",
+    "offset": 17745,
+    "text": "Snares for the crane, and meshes for the stag,"
+  },
+  {
+    "id": "p-030126",
+    "offset": 17793,
+    "text": "And hunt the long-eared hares, then pierce the doe"
+  },
+  {
+    "id": "p-d38303",
+    "offset": 17845,
+    "text": "With whirl of hempen-thonged Balearic sling,"
+  },
+  {
+    "id": "p-3044c4",
+    "offset": 17891,
+    "text": "While snow lies deep, and streams are drifting ice."
+  },
+  {
+    "id": "p-0c49fe",
+    "offset": 17944,
+    "text": "What need to tell of autumn's storms and stars,"
+  },
+  {
+    "id": "p-29017b",
+    "offset": 17993,
+    "text": "And wherefore men must watch, when now the day"
+  },
+  {
+    "id": "p-89e496",
+    "offset": 18041,
+    "text": "Grows shorter, and more soft the summer's heat?"
+  },
+  {
+    "id": "p-a037d5",
+    "offset": 18090,
+    "text": "When Spring the rain-bringer comes rushing down,"
+  },
+  {
+    "id": "p-09726d",
+    "offset": 18140,
+    "text": "Or when the beards of harvest on the plain"
+  },
+  {
+    "id": "p-563199",
+    "offset": 18184,
+    "text": "Bristle already, and the milky corn"
+  },
+  {
+    "id": "p-ab9001",
+    "offset": 18221,
+    "text": "On its green stalk is swelling? Many a time,"
+  },
+  {
+    "id": "p-7c3003",
+    "offset": 18267,
+    "text": "When now the farmer to his yellow fields"
+  },
+  {
+    "id": "p-0293b9",
+    "offset": 18309,
+    "text": "The reaping-hind came bringing, even in act"
+  },
+  {
+    "id": "p-58afce",
+    "offset": 18354,
+    "text": "To lop the brittle barley stems, have I"
+  },
+  {
+    "id": "p-3f2cfe",
+    "offset": 18395,
+    "text": "Seen all the windy legions clash in war"
+  },
+  {
+    "id": "p-4c3ca1",
+    "offset": 18436,
+    "text": "Together, as to rend up far and wide"
+  },
+  {
+    "id": "p-1eca77",
+    "offset": 18474,
+    "text": "The heavy corn-crop from its lowest roots,"
+  },
+  {
+    "id": "p-3ff466",
+    "offset": 18518,
+    "text": "And toss it skyward: so might winter's flaw,"
+  },
+  {
+    "id": "p-6e0455",
+    "offset": 18564,
+    "text": "Dark-eddying, whirl light stalks and flying straws."
+  },
+  {
+    "id": "p-2cb676",
+    "offset": 18617,
+    "text": "Oft too comes looming vast along the sky"
+  },
+  {
+    "id": "p-02f474",
+    "offset": 18659,
+    "text": "A march of waters; mustering from above,"
+  },
+  {
+    "id": "p-012987",
+    "offset": 18701,
+    "text": "The clouds roll up the tempest, heaped and grim"
+  },
+  {
+    "id": "p-072b7b",
+    "offset": 18750,
+    "text": "With angry showers: down falls the height of heaven,"
+  },
+  {
+    "id": "p-f77cfd",
+    "offset": 18804,
+    "text": "And with a great rain floods the smiling crops,"
+  },
+  {
+    "id": "p-e91d0a",
+    "offset": 18853,
+    "text": "The oxen's labour: now the dikes fill fast,"
+  },
+  {
+    "id": "p-ff53e4",
+    "offset": 18898,
+    "text": "And the void river-beds swell thunderously,"
+  },
+  {
+    "id": "p-708718",
+    "offset": 18943,
+    "text": "And all the panting firths of Ocean boil."
+  },
+  {
+    "id": "p-51bd91",
+    "offset": 18986,
+    "text": "The Sire himself in midnight of the clouds"
+  },
+  {
+    "id": "p-4bfeef",
+    "offset": 19030,
+    "text": "Wields with red hand the levin; through all her bulk"
+  },
+  {
+    "id": "p-66234b",
+    "offset": 19084,
+    "text": "Earth at the hurly quakes; the beasts are fled,"
+  },
+  {
+    "id": "p-73c12b",
+    "offset": 19133,
+    "text": "And mortal hearts of every kindred sunk"
+  },
+  {
+    "id": "p-310de3",
+    "offset": 19174,
+    "text": "In cowering terror; he with flaming brand"
+  },
+  {
+    "id": "p-e20cf2",
+    "offset": 19217,
+    "text": "Athos, or Rhodope, or Ceraunian crags"
+  },
+  {
+    "id": "p-6bffe7",
+    "offset": 19256,
+    "text": "Precipitates: then doubly raves the South"
+  },
+  {
+    "id": "p-6eb9b6",
+    "offset": 19299,
+    "text": "With shower on blinding shower, and woods and coasts"
+  },
+  {
+    "id": "p-17e87e",
+    "offset": 19353,
+    "text": "Wail fitfully beneath the mighty blast."
+  },
+  {
+    "id": "p-8a176d",
+    "offset": 19394,
+    "text": "This fearing, mark the months and Signs of heaven,"
+  },
+  {
+    "id": "p-5c44e0",
+    "offset": 19446,
+    "text": "Whither retires him Saturn's icy star,"
+  },
+  {
+    "id": "p-1e88a7",
+    "offset": 19486,
+    "text": "And through what heavenly cycles wandereth"
+  },
+  {
+    "id": "p-b912c6",
+    "offset": 19530,
+    "text": "The glowing orb Cyllenian. Before all"
+  },
+  {
+    "id": "p-61d1fe",
+    "offset": 19569,
+    "text": "Worship the Gods, and to great Ceres pay"
+  },
+  {
+    "id": "p-836f6d",
+    "offset": 19611,
+    "text": "Her yearly dues upon the happy sward"
+  },
+  {
+    "id": "p-73081a",
+    "offset": 19649,
+    "text": "With sacrifice, anigh the utmost end"
+  },
+  {
+    "id": "p-a65e17",
+    "offset": 19687,
+    "text": "Of winter, and when Spring begins to smile."
+  },
+  {
+    "id": "p-e1f8f3",
+    "offset": 19732,
+    "text": "Then lambs are fat, and wines are mellowest then;"
+  },
+  {
+    "id": "p-ea67c0",
+    "offset": 19783,
+    "text": "Then sleep is sweet, and dark the shadows fall"
+  },
+  {
+    "id": "p-4fce29",
+    "offset": 19831,
+    "text": "Upon the mountains. Let your rustic youth"
+  },
+  {
+    "id": "p-62a031",
+    "offset": 19874,
+    "text": "To Ceres do obeisance, one and all;"
+  },
+  {
+    "id": "p-1c5f4c",
+    "offset": 19911,
+    "text": "And for her pleasure thou mix honeycombs"
+  },
+  {
+    "id": "p-34407b",
+    "offset": 19953,
+    "text": "With milk and the ripe wine-god; thrice for luck"
+  },
+  {
+    "id": "p-dd101c",
+    "offset": 20003,
+    "text": "Around the young corn let the victim go,"
+  },
+  {
+    "id": "p-7291c9",
+    "offset": 20045,
+    "text": "And all the choir, a joyful company,"
+  },
+  {
+    "id": "p-eb8a71",
+    "offset": 20083,
+    "text": "Attend it, and with shouts bid Ceres come"
+  },
+  {
+    "id": "p-226f5b",
+    "offset": 20126,
+    "text": "To be their house-mate; and let no man dare"
+  },
+  {
+    "id": "p-c51c8d",
+    "offset": 20171,
+    "text": "Put sickle to the ripened ears until,"
+  },
+  {
+    "id": "p-cbab2c",
+    "offset": 20210,
+    "text": "With woven oak his temples chapleted,"
+  },
+  {
+    "id": "p-915995",
+    "offset": 20249,
+    "text": "He foot the rugged dance and chant the lay."
+  },
+  {
+    "id": "p-13d3c8",
+    "offset": 20294,
+    "text": "Aye, and that these things we might win to know"
+  },
+  {
+    "id": "p-f10477",
+    "offset": 20343,
+    "text": "By certain tokens, heats, and showers, and winds"
+  },
+  {
+    "id": "p-820cab",
+    "offset": 20393,
+    "text": "That bring the frost, the Sire of all himself"
+  },
+  {
+    "id": "p-1751c3",
+    "offset": 20440,
+    "text": "Ordained what warnings in her monthly round"
+  },
+  {
+    "id": "p-b16e97",
+    "offset": 20485,
+    "text": "The moon should give, what bodes the south wind's fall,"
+  },
+  {
+    "id": "p-cbbc65",
+    "offset": 20542,
+    "text": "What oft-repeated sights the herdsman seeing"
+  },
+  {
+    "id": "p-8e5e30",
+    "offset": 20588,
+    "text": "Should keep his cattle closer to their stalls."
+  },
+  {
+    "id": "p-c03936",
+    "offset": 20636,
+    "text": "No sooner are the winds at point to rise,"
+  },
+  {
+    "id": "p-cf31ea",
+    "offset": 20679,
+    "text": "Than either Ocean's firths begin to toss"
+  },
+  {
+    "id": "p-535b95",
+    "offset": 20721,
+    "text": "And swell, and a dry crackling sound is heard"
+  },
+  {
+    "id": "p-a808d8",
+    "offset": 20768,
+    "text": "Upon the heights, or one loud ferment booms"
+  },
+  {
+    "id": "p-470ceb",
+    "offset": 20813,
+    "text": "The beach afar, and through the forest goes"
+  },
+  {
+    "id": "p-efa837",
+    "offset": 20858,
+    "text": "A murmur multitudinous. By this"
+  },
+  {
+    "id": "p-786b68",
+    "offset": 20891,
+    "text": "Scarce can the billow spare the curved keels,"
+  },
+  {
+    "id": "p-a37048",
+    "offset": 20938,
+    "text": "When swift the sea-gulls from the middle main"
+  },
+  {
+    "id": "p-d52182",
+    "offset": 20985,
+    "text": "Come winging, and their shrieks are shoreward borne,"
+  },
+  {
+    "id": "p-df7b98",
+    "offset": 21039,
+    "text": "When ocean-loving cormorants on dry land"
+  },
+  {
+    "id": "p-fc8578",
+    "offset": 21081,
+    "text": "Besport them, and the hern, her marshy haunts"
+  },
+  {
+    "id": "p-f0c61a",
+    "offset": 21128,
+    "text": "Forsaking, mounts above the soaring cloud."
+  },
+  {
+    "id": "p-c22f90",
+    "offset": 21172,
+    "text": "Oft, too, when wind is toward, the stars thou'lt see"
+  },
+  {
+    "id": "p-95989a",
+    "offset": 21226,
+    "text": "From heaven shoot headlong, and through murky night"
+  },
+  {
+    "id": "p-3a598c",
+    "offset": 21279,
+    "text": "Long trails of fire white-glistening in their wake,"
+  },
+  {
+    "id": "p-e29d3a",
+    "offset": 21332,
+    "text": "Or light chaff flit in air with fallen leaves,"
+  },
+  {
+    "id": "p-b038ff",
+    "offset": 21380,
+    "text": "Or feathers on the wave-top float and play."
+  },
+  {
+    "id": "p-5746e9",
+    "offset": 21425,
+    "text": "But when from regions of the furious North"
+  },
+  {
+    "id": "p-f91805",
+    "offset": 21469,
+    "text": "It lightens, and when thunder fills the halls"
+  },
+  {
+    "id": "p-86cf96",
+    "offset": 21516,
+    "text": "Of Eurus and of Zephyr, all the fields"
+  },
+  {
+    "id": "p-642381",
+    "offset": 21556,
+    "text": "With brimming dikes are flooded, and at sea"
+  },
+  {
+    "id": "p-440881",
+    "offset": 21601,
+    "text": "No mariner but furls his dripping sails."
+  },
+  {
+    "id": "p-b2c5ef",
+    "offset": 21643,
+    "text": "Never at unawares did shower annoy:"
+  },
+  {
+    "id": "p-c580f7",
+    "offset": 21680,
+    "text": "Or, as it rises, the high-soaring cranes"
+  },
+  {
+    "id": "p-70189b",
+    "offset": 21722,
+    "text": "Flee to the vales before it, with face"
+  },
+  {
+    "id": "p-aefbfb",
+    "offset": 21762,
+    "text": "Upturned to heaven, the heifer snuffs the gale"
+  },
+  {
+    "id": "p-94d444",
+    "offset": 21810,
+    "text": "Through gaping nostrils, or about the meres"
+  },
+  {
+    "id": "p-3f82d3",
+    "offset": 21855,
+    "text": "Shrill-twittering flits the swallow, and the frogs"
+  },
+  {
+    "id": "p-ce404d",
+    "offset": 21907,
+    "text": "Crouch in the mud and chant their dirge of old."
+  },
+  {
+    "id": "p-6fcac6",
+    "offset": 21956,
+    "text": "Oft, too, the ant from out her inmost cells,"
+  },
+  {
+    "id": "p-48601f",
+    "offset": 22002,
+    "text": "Fretting the narrow path, her eggs conveys;"
+  },
+  {
+    "id": "p-1def2c",
+    "offset": 22047,
+    "text": "Or the huge bow sucks moisture; or a host"
+  },
+  {
+    "id": "p-70bb6b",
+    "offset": 22090,
+    "text": "Of rooks from food returning in long line"
+  },
+  {
+    "id": "p-d174fe",
+    "offset": 22133,
+    "text": "Clamour with jostling wings. Now mayst thou see"
+  },
+  {
+    "id": "p-0a3a22",
+    "offset": 22182,
+    "text": "The various ocean-fowl and those that pry"
+  },
+  {
+    "id": "p-be2670",
+    "offset": 22225,
+    "text": "Round Asian meads within thy fresher-pools,"
+  },
+  {
+    "id": "p-bbd6b7",
+    "offset": 22270,
+    "text": "Cayster, as in eager rivalry,"
+  },
+  {
+    "id": "p-a999d0",
+    "offset": 22301,
+    "text": "About their shoulders dash the plenteous spray,"
+  },
+  {
+    "id": "p-1f8b78",
+    "offset": 22350,
+    "text": "Now duck their head beneath the wave, now run"
+  },
+  {
+    "id": "p-6634a0",
+    "offset": 22397,
+    "text": "Into the billows, for sheer idle joy"
+  },
+  {
+    "id": "p-fd7f95",
+    "offset": 22435,
+    "text": "Of their mad bathing-revel. Then the crow"
+  },
+  {
+    "id": "p-b055a5",
+    "offset": 22478,
+    "text": "With full voice, good-for-naught, inviting rain,"
+  },
+  {
+    "id": "p-2efd91",
+    "offset": 22528,
+    "text": "Stalks on the dry sand mateless and alone."
+  },
+  {
+    "id": "p-35a8bf",
+    "offset": 22572,
+    "text": "Nor e'en the maids, that card their nightly task,"
+  },
+  {
+    "id": "p-88a223",
+    "offset": 22623,
+    "text": "Know not the storm-sign, when in blazing crock"
+  },
+  {
+    "id": "p-ec12b9",
+    "offset": 22671,
+    "text": "They see the lamp-oil sputtering with a growth"
+  },
+  {
+    "id": "p-256275",
+    "offset": 22719,
+    "text": "Of mouldy snuff-clots."
+  },
+  {
+    "id": "p-a66dd2",
+    "offset": 22743,
+    "text": "So too, after rain,"
+  },
+  {
+    "id": "p-d6725d",
+    "offset": 22764,
+    "text": "Sunshine and open skies thou mayst forecast,"
+  },
+  {
+    "id": "p-84061f",
+    "offset": 22810,
+    "text": "And learn by tokens sure, for then nor dimmed"
+  },
+  {
+    "id": "p-8cc362",
+    "offset": 22857,
+    "text": "Appear the stars' keen edges, nor the moon"
+  },
+  {
+    "id": "p-559416",
+    "offset": 22901,
+    "text": "As borrowing of her brother's beams to rise,"
+  },
+  {
+    "id": "p-82d8f6",
+    "offset": 22947,
+    "text": "Nor fleecy films to float along the sky."
+  },
+  {
+    "id": "p-1a3225",
+    "offset": 22989,
+    "text": "Not to the sun's warmth then upon the shore"
+  },
+  {
+    "id": "p-dba6ce",
+    "offset": 23034,
+    "text": "Do halcyons dear to Thetis ope their wings,"
+  },
+  {
+    "id": "p-bcb88d",
+    "offset": 23079,
+    "text": "Nor filthy swine take thought to toss on high"
+  },
+  {
+    "id": "p-36ea86",
+    "offset": 23126,
+    "text": "With scattering snout the straw-wisps. But the clouds"
+  },
+  {
+    "id": "p-206979",
+    "offset": 23181,
+    "text": "Seek more the vales, and rest upon the plain,"
+  },
+  {
+    "id": "p-0f29d5",
+    "offset": 23228,
+    "text": "And from the roof-top the night-owl for naught"
+  },
+  {
+    "id": "p-a4675b",
+    "offset": 23276,
+    "text": "Watching the sunset plies her 'lated song."
+  },
+  {
+    "id": "p-6ed4f9",
+    "offset": 23320,
+    "text": "Distinct in clearest air is Nisus seen"
+  },
+  {
+    "id": "p-c9cc13",
+    "offset": 23360,
+    "text": "Towering, and Scylla for the purple lock"
+  },
+  {
+    "id": "p-993de6",
+    "offset": 23402,
+    "text": "Pays dear; for whereso, as she flies, her wings"
+  },
+  {
+    "id": "p-b6c9ec",
+    "offset": 23451,
+    "text": "The light air winnow, lo! fierce, implacable,"
+  },
+  {
+    "id": "p-52f628",
+    "offset": 23498,
+    "text": "Nisus with mighty whirr through heaven pursues;"
+  },
+  {
+    "id": "p-de113f",
+    "offset": 23547,
+    "text": "Where Nisus heavenward soareth, there her wings"
+  },
+  {
+    "id": "p-df680a",
+    "offset": 23596,
+    "text": "Clutch as she flies, the light air winnowing still."
+  },
+  {
+    "id": "p-4f37dd",
+    "offset": 23649,
+    "text": "Soft then the voice of rooks from indrawn throat"
+  },
+  {
+    "id": "p-c54d4c",
+    "offset": 23699,
+    "text": "Thrice, four times, o'er repeated, and full oft"
+  },
+  {
+    "id": "p-4d0999",
+    "offset": 23748,
+    "text": "On their high cradles, by some hidden joy"
+  },
+  {
+    "id": "p-3f6c77",
+    "offset": 23791,
+    "text": "Gladdened beyond their wont, in bustling throngs"
+  },
+  {
+    "id": "p-b6cb66",
+    "offset": 23841,
+    "text": "Among the leaves they riot; so sweet it is,"
+  },
+  {
+    "id": "p-e5a952",
+    "offset": 23886,
+    "text": "When showers are spent, their own loved nests again"
+  },
+  {
+    "id": "p-ab44a4",
+    "offset": 23939,
+    "text": "And tender brood to visit. Not, I deem,"
+  },
+  {
+    "id": "p-483c24",
+    "offset": 23980,
+    "text": "That heaven some native wit to these assigned,"
+  },
+  {
+    "id": "p-00743a",
+    "offset": 24028,
+    "text": "Or fate a larger prescience, but that when"
+  },
+  {
+    "id": "p-3ff4b2",
+    "offset": 24072,
+    "text": "The storm and shifting moisture of the air"
+  },
+  {
+    "id": "p-b1c7e4",
+    "offset": 24116,
+    "text": "Have changed their courses, and the sky-god now,"
+  },
+  {
+    "id": "p-75c488",
+    "offset": 24166,
+    "text": "Wet with the south-wind, thickens what was rare,"
+  },
+  {
+    "id": "p-42bb77",
+    "offset": 24216,
+    "text": "And what was gross releases, then, too, change"
+  },
+  {
+    "id": "p-6e3ca5",
+    "offset": 24264,
+    "text": "Their spirits' fleeting phases, and their breasts"
+  },
+  {
+    "id": "p-3a871a",
+    "offset": 24315,
+    "text": "Feel other motions now, than when the wind"
+  },
+  {
+    "id": "p-44ac64",
+    "offset": 24359,
+    "text": "Was driving up the cloud-rack. Hence proceeds"
+  },
+  {
+    "id": "p-5de023",
+    "offset": 24406,
+    "text": "That blending of the feathered choirs afield,"
+  },
+  {
+    "id": "p-25f6b7",
+    "offset": 24453,
+    "text": "The cattle's exultation, and the rooks'"
+  },
+  {
+    "id": "p-43ca81",
+    "offset": 24494,
+    "text": "Deep-throated triumph."
+  },
+  {
+    "id": "p-7637f5",
+    "offset": 24518,
+    "text": "But if the headlong sun"
+  },
+  {
+    "id": "p-992ee9",
+    "offset": 24543,
+    "text": "And moons in order following thou regard,"
+  },
+  {
+    "id": "p-97a0f4",
+    "offset": 24586,
+    "text": "Ne'er will to-morrow's hour deceive thee, ne'er"
+  },
+  {
+    "id": "p-4715f0",
+    "offset": 24635,
+    "text": "Wilt thou be caught by guile of cloudless night."
+  },
+  {
+    "id": "p-6199c9",
+    "offset": 24685,
+    "text": "When first the moon recalls her rallying fires,"
+  },
+  {
+    "id": "p-f0a724",
+    "offset": 24734,
+    "text": "If dark the air clipped by her crescent dim,"
+  },
+  {
+    "id": "p-6e1051",
+    "offset": 24780,
+    "text": "For folks afield and on the open sea"
+  },
+  {
+    "id": "p-b3a839",
+    "offset": 24818,
+    "text": "A mighty rain is brewing; but if her face"
+  },
+  {
+    "id": "p-7d4faa",
+    "offset": 24861,
+    "text": "With maiden blush she mantle, 'twill be wind,"
+  },
+  {
+    "id": "p-22e40d",
+    "offset": 24908,
+    "text": "For wind turns Phoebe still to ruddier gold."
+  },
+  {
+    "id": "p-f55827",
+    "offset": 24954,
+    "text": "But if at her fourth rising, for 'tis that"
+  },
+  {
+    "id": "p-734a17",
+    "offset": 24998,
+    "text": "Gives surest counsel, clear she ride thro' heaven"
+  },
+  {
+    "id": "p-588883",
+    "offset": 25049,
+    "text": "With horns unblunted, then shall that whole day,"
+  },
+  {
+    "id": "p-d7588f",
+    "offset": 25099,
+    "text": "And to the month's end those that spring from it,"
+  },
+  {
+    "id": "p-41d515",
+    "offset": 25150,
+    "text": "Rainless and windless be, while safe ashore"
+  },
+  {
+    "id": "p-93eddf",
+    "offset": 25195,
+    "text": "Shall sailors pay their vows to Panope,"
+  },
+  {
+    "id": "p-b1a165",
+    "offset": 25236,
+    "text": "Glaucus, and Melicertes, Ino's child."
+  },
+  {
+    "id": "p-c2d454",
+    "offset": 25275,
+    "text": "The sun too, both at rising, and when soon"
+  },
+  {
+    "id": "p-8d65b7",
+    "offset": 25319,
+    "text": "He dives beneath the waves, shall yield thee signs;"
+  },
+  {
+    "id": "p-8c3aef",
+    "offset": 25372,
+    "text": "For signs, none trustier, travel with the sun,"
+  },
+  {
+    "id": "p-aed533",
+    "offset": 25420,
+    "text": "Both those which in their course with dawn he brings,"
+  },
+  {
+    "id": "p-932241",
+    "offset": 25475,
+    "text": "And those at star-rise. When his springing orb"
+  },
+  {
+    "id": "p-828be7",
+    "offset": 25523,
+    "text": "With spots he pranketh, muffled in a cloud,"
+  },
+  {
+    "id": "p-4b8c4e",
+    "offset": 25568,
+    "text": "And shrinks mid-circle, then of showers beware;"
+  },
+  {
+    "id": "p-ae750e",
+    "offset": 25617,
+    "text": "For then the South comes driving from the deep,"
+  },
+  {
+    "id": "p-fda11a",
+    "offset": 25666,
+    "text": "To trees and crops and cattle bringing bane."
+  },
+  {
+    "id": "p-2692dd",
+    "offset": 25712,
+    "text": "Or when at day-break through dark clouds his rays"
+  },
+  {
+    "id": "p-14e8ab",
+    "offset": 25763,
+    "text": "Burst and are scattered, or when rising pale"
+  },
+  {
+    "id": "p-c86a92",
+    "offset": 25809,
+    "text": "Aurora quits Tithonus' saffron bed,"
+  },
+  {
+    "id": "p-c39837",
+    "offset": 25846,
+    "text": "But sorry shelter then, alack I will yield"
+  },
+  {
+    "id": "p-92ac6b",
+    "offset": 25890,
+    "text": "Vine-leaf to ripening grapes; so thick a hail"
+  },
+  {
+    "id": "p-776e69",
+    "offset": 25937,
+    "text": "In spiky showers spins rattling on the roof."
+  },
+  {
+    "id": "p-9e84ec",
+    "offset": 25983,
+    "text": "And this yet more 'twill boot thee bear in mind,"
+  },
+  {
+    "id": "p-5ffe0b",
+    "offset": 26033,
+    "text": "When now, his course upon Olympus run,"
+  },
+  {
+    "id": "p-a979a5",
+    "offset": 26073,
+    "text": "He draws to his decline: for oft we see"
+  },
+  {
+    "id": "p-36193b",
+    "offset": 26114,
+    "text": "Upon the sun's own face strange colours stray;"
+  },
+  {
+    "id": "p-e93c0f",
+    "offset": 26162,
+    "text": "Dark tells of rain, of east winds fiery-red;"
+  },
+  {
+    "id": "p-615d39",
+    "offset": 26208,
+    "text": "If spots with ruddy fire begin to mix,"
+  },
+  {
+    "id": "p-55027e",
+    "offset": 26248,
+    "text": "Then all the heavens convulsed in wrath thou'lt see—"
+  },
+  {
+    "id": "p-8c193d",
+    "offset": 26302,
+    "text": "Storm-clouds and wind together. Me that night"
+  },
+  {
+    "id": "p-b34d3a",
+    "offset": 26349,
+    "text": "Let no man bid fare forth upon the deep,"
+  },
+  {
+    "id": "p-2b3b60",
+    "offset": 26391,
+    "text": "Nor rend the rope from shore. But if, when both"
+  },
+  {
+    "id": "p-4649bc",
+    "offset": 26440,
+    "text": "He brings again and hides the day's return,"
+  },
+  {
+    "id": "p-330ff1",
+    "offset": 26485,
+    "text": "Clear-orbed he shineth,idly wilt thou dread"
+  },
+  {
+    "id": "p-5e4f91",
+    "offset": 26530,
+    "text": "The storm-clouds, and beneath the lustral North"
+  },
+  {
+    "id": "p-6f071c",
+    "offset": 26579,
+    "text": "See the woods waving. What late eve in fine"
+  },
+  {
+    "id": "p-07abb2",
+    "offset": 26624,
+    "text": "Bears in her bosom, whence the wind that brings"
+  },
+  {
+    "id": "p-4e93f2",
+    "offset": 26673,
+    "text": "Fair-weather-clouds, or what the rain South"
+  },
+  {
+    "id": "p-3f96df",
+    "offset": 26718,
+    "text": "Is meditating, tokens of all these"
+  },
+  {
+    "id": "p-bf426e",
+    "offset": 26754,
+    "text": "The sun will give thee. Who dare charge the sun"
+  },
+  {
+    "id": "p-50f143",
+    "offset": 26803,
+    "text": "With leasing? He it is who warneth oft"
+  },
+  {
+    "id": "p-fde39e",
+    "offset": 26843,
+    "text": "Of hidden broils at hand and treachery,"
+  },
+  {
+    "id": "p-04dc17",
+    "offset": 26884,
+    "text": "And secret swelling of the waves of war."
+  },
+  {
+    "id": "p-5b1f2b",
+    "offset": 26926,
+    "text": "He too it was, when Caesar's light was quenched,"
+  },
+  {
+    "id": "p-5658b3",
+    "offset": 26976,
+    "text": "For Rome had pity, when his bright head he veiled"
+  },
+  {
+    "id": "p-7cf26c",
+    "offset": 27027,
+    "text": "In iron-hued darkness, till a godless age"
+  },
+  {
+    "id": "p-4ad2c8",
+    "offset": 27070,
+    "text": "Trembled for night eternal; at that time"
+  },
+  {
+    "id": "p-efcb7f",
+    "offset": 27112,
+    "text": "Howbeit earth also, and the ocean-plains,"
+  },
+  {
+    "id": "p-143eef",
+    "offset": 27155,
+    "text": "And dogs obscene, and birds of evil bode"
+  },
+  {
+    "id": "p-2f4e73",
+    "offset": 27197,
+    "text": "Gave tokens. Yea, how often have we seen"
+  },
+  {
+    "id": "p-d34d82",
+    "offset": 27239,
+    "text": "Etna, her furnace-walls asunder riven,"
+  },
+  {
+    "id": "p-71a335",
+    "offset": 27279,
+    "text": "In billowy floods boil o'er the Cyclops' fields,"
+  },
+  {
+    "id": "p-1e26e9",
+    "offset": 27329,
+    "text": "And roll down globes of fire and molten rocks!"
+  },
+  {
+    "id": "p-4f697b",
+    "offset": 27377,
+    "text": "A clash of arms through all the heaven was heard"
+  },
+  {
+    "id": "p-d2d429",
+    "offset": 27427,
+    "text": "By Germany; strange heavings shook the Alps."
+  },
+  {
+    "id": "p-cf6577",
+    "offset": 27473,
+    "text": "Yea, and by many through the breathless groves"
+  },
+  {
+    "id": "p-2f80c1",
+    "offset": 27521,
+    "text": "A voice was heard with power, and wondrous-pale"
+  },
+  {
+    "id": "p-3df11c",
+    "offset": 27570,
+    "text": "Phantoms were seen upon the dusk of night,"
+  },
+  {
+    "id": "p-9d56e4",
+    "offset": 27614,
+    "text": "And cattle spake, portentous! streams stand still,"
+  },
+  {
+    "id": "p-4c2122",
+    "offset": 27666,
+    "text": "And the earth yawns asunder, ivory weeps"
+  },
+  {
+    "id": "p-4c74d7",
+    "offset": 27708,
+    "text": "For sorrow in the shrines, and bronzes sweat."
+  },
+  {
+    "id": "p-b7c3e0",
+    "offset": 27755,
+    "text": "Up-twirling forests with his eddying tide,"
+  },
+  {
+    "id": "p-b6e54a",
+    "offset": 27799,
+    "text": "Madly he bears them down, that lord of floods,"
+  },
+  {
+    "id": "p-0c8d18",
+    "offset": 27847,
+    "text": "Eridanus, till through all the plain are swept"
+  },
+  {
+    "id": "p-c80891",
+    "offset": 27895,
+    "text": "Beasts and their stalls together. At that time"
+  },
+  {
+    "id": "p-2bd6b2",
+    "offset": 27943,
+    "text": "In gloomy entrails ceased not to appear"
+  },
+  {
+    "id": "p-f2d50d",
+    "offset": 27984,
+    "text": "Dark-threatening fibres, springs to trickle blood,"
+  },
+  {
+    "id": "p-deb67b",
+    "offset": 28036,
+    "text": "And high-built cities night-long to resound"
+  },
+  {
+    "id": "p-fdcf16",
+    "offset": 28081,
+    "text": "With the wolves' howling. Never more than then"
+  },
+  {
+    "id": "p-43a5da",
+    "offset": 28129,
+    "text": "From skies all cloudless fell the thunderbolts,"
+  },
+  {
+    "id": "p-617b5d",
+    "offset": 28178,
+    "text": "Nor blazed so oft the comet's fire of bale."
+  },
+  {
+    "id": "p-b93431",
+    "offset": 28223,
+    "text": "Therefore a second time Philippi saw"
+  },
+  {
+    "id": "p-4a7964",
+    "offset": 28261,
+    "text": "The Roman hosts with kindred weapons rush"
+  },
+  {
+    "id": "p-8c467f",
+    "offset": 28304,
+    "text": "To battle, nor did the high gods deem it hard"
+  },
+  {
+    "id": "p-87c7fa",
+    "offset": 28351,
+    "text": "That twice Emathia and the wide champaign"
+  },
+  {
+    "id": "p-75615b",
+    "offset": 28394,
+    "text": "Of Haemus should be fattening with our blood."
+  },
+  {
+    "id": "p-a77d12",
+    "offset": 28441,
+    "text": "Ay, and the time will come when there anigh,"
+  },
+  {
+    "id": "p-48a454",
+    "offset": 28487,
+    "text": "Heaving the earth up with his curved plough,"
+  },
+  {
+    "id": "p-d312af",
+    "offset": 28533,
+    "text": "Some swain will light on javelins by foul rust"
+  },
+  {
+    "id": "p-cdb12f",
+    "offset": 28581,
+    "text": "Corroded, or with ponderous harrow strike"
+  },
+  {
+    "id": "p-4404bc",
+    "offset": 28624,
+    "text": "On empty helmets, while he gapes to see"
+  },
+  {
+    "id": "p-a3ff6a",
+    "offset": 28665,
+    "text": "Bones as of giants from the trench untombed."
+  },
+  {
+    "id": "p-3e14b2",
+    "offset": 28711,
+    "text": "Gods of my country, heroes of the soil,"
+  },
+  {
+    "id": "p-deeec1",
+    "offset": 28752,
+    "text": "And Romulus, and Mother Vesta, thou"
+  },
+  {
+    "id": "p-762517",
+    "offset": 28789,
+    "text": "Who Tuscan Tiber and Rome's Palatine"
+  },
+  {
+    "id": "p-402d50",
+    "offset": 28827,
+    "text": "Preservest, this new champion at the least"
+  },
+  {
+    "id": "p-661dc5",
+    "offset": 28871,
+    "text": "Our fallen generation to repair"
+  },
+  {
+    "id": "p-a3995c",
+    "offset": 28904,
+    "text": "Forbid not. To the full and long ago"
+  },
+  {
+    "id": "p-dc46d5",
+    "offset": 28942,
+    "text": "Our blood thy Trojan perjuries hath paid,"
+  },
+  {
+    "id": "p-eebfe3",
+    "offset": 28985,
+    "text": "Laomedon. Long since the courts of heaven"
+  },
+  {
+    "id": "p-1a5b00",
+    "offset": 29028,
+    "text": "Begrudge us thee, our Caesar, and complain"
+  },
+  {
+    "id": "p-84bd9c",
+    "offset": 29072,
+    "text": "That thou regard'st the triumphs of mankind,"
+  },
+  {
+    "id": "p-39ba16",
+    "offset": 29118,
+    "text": "Here where the wrong is right, the right is wrong,"
+  },
+  {
+    "id": "p-54453f",
+    "offset": 29170,
+    "text": "Where wars abound so many, and myriad-faced"
+  },
+  {
+    "id": "p-c8bf69",
+    "offset": 29215,
+    "text": "Is crime; where no meet honour hath the plough;"
+  },
+  {
+    "id": "p-39908f",
+    "offset": 29264,
+    "text": "The fields, their husbandmen led far away,"
+  },
+  {
+    "id": "p-c9f9e3",
+    "offset": 29308,
+    "text": "Rot in neglect, and curved pruning-hooks"
+  },
+  {
+    "id": "p-55b15c",
+    "offset": 29350,
+    "text": "Into the sword's stiff blade are fused and forged."
+  },
+  {
+    "id": "p-817f58",
+    "offset": 29402,
+    "text": "Euphrates here, here Germany new strife"
+  },
+  {
+    "id": "p-9c14de",
+    "offset": 29443,
+    "text": "Is stirring; neighbouring cities are in arms,"
+  },
+  {
+    "id": "p-ce4655",
+    "offset": 29490,
+    "text": "The laws that bound them snapped; and godless war"
+  },
+  {
+    "id": "p-7630e3",
+    "offset": 29541,
+    "text": "Rages through all the universe; as when"
+  },
+  {
+    "id": "p-83b3bc",
+    "offset": 29582,
+    "text": "The four-horse chariots from the barriers poured"
+  },
+  {
+    "id": "p-85aaba",
+    "offset": 29632,
+    "text": "Still quicken o'er the course, and, idly now"
+  },
+  {
+    "id": "p-a3a734",
+    "offset": 29678,
+    "text": "Grasping the reins, the driver by his team"
+  },
+  {
+    "id": "p-3a50ee",
+    "offset": 29722,
+    "text": "Is onward borne, nor heeds the car his curb."
+  }
+]

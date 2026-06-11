@@ -11,6 +11,18 @@
   "default_variant": "translation.md",
   "variants": [
     {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "93aec3b8-8d9a-5141-9d3d-9755817b7af8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8872,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-grc2:4"
+    },
+    {
       "file": "translation.md",
       "content_type": "translation",
       "variant_id": "b09281e3-16c5-5631-9a33-09ef119ae6f9",

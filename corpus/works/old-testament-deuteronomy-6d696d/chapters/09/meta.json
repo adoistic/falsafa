@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-deuteronomy-6d696d",
+  "work_title": "Deuteronomy",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1827c355-a3d9-56f3-a290-000c378b26dd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 962,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cace3516-5999-59a5-bde9-7e2542e27465",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 925,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2:9"
+    }
+  ]
+}

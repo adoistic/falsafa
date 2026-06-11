@@ -1,0 +1,38 @@
+{
+  "work_slug": "antiphon-the-third-tetralogy-ae647c",
+  "work_title": "The Third Tetralogy",
+  "chapter_number": 1,
+  "chapter_title": "The Third Tetralogy",
+  "chapter_slug": "01-the-third-tetralogy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "acad4dd1-1f74-5e77-b481-e3cf1d9ed6b6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1919,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "53815dd7-d230-5056-b43b-6c1505b3abab",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3227,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg004.perseus-eng2"
+    }
+  ]
+}

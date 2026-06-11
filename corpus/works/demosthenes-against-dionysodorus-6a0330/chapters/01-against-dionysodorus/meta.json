@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-dionysodorus-6a0330",
+  "work_title": "Against Dionysodorus",
+  "chapter_number": 1,
+  "chapter_title": "Against Dionysodorus",
+  "chapter_slug": "01-against-dionysodorus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4345b3d2-603d-5edc-9bfd-a56923e0c9ed",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3306,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg056.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac5bb839-3279-5b49-a767-d7c684749407",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4842,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg056.perseus-eng2"
+    }
+  ]
+}

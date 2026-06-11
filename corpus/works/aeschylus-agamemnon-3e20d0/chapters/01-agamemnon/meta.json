@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschylus-agamemnon-3e20d0",
+  "work_title": "Agamemnon",
+  "chapter_number": 1,
+  "chapter_title": "Agamemnon",
+  "chapter_slug": "01-agamemnon",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cef82ccc-49f5-561b-9bb7-eaaf630da8cf",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8462,
+      "paragraph_count": 1644,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f949b71-c159-5526-8d9d-eb1bb32bdc23",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14712,
+      "paragraph_count": 1753,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg005.perseus-eng4"
+    }
+  ]
+}

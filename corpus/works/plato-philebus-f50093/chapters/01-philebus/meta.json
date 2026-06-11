@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-philebus-f50093",
+  "work_title": "Philebus",
+  "chapter_number": 1,
+  "chapter_title": "Philebus",
+  "chapter_slug": "01-philebus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4e37a630-cc0e-584e-9e2c-2a22fb29a982",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 18788,
+      "paragraph_count": 1158,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg010.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "66c95be6-efbe-5bb1-ae5f-e79c035b6fef",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 23971,
+      "paragraph_count": 1144,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg010.perseus-eng2"
+    }
+  ]
+}

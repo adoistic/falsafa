@@ -16,7 +16,7 @@ description: Socrates in prison, offered escape, arguing instead about what a ci
 difficulty: Beginner
 published_year: -390
 total_logical_chapters: 1
-total_variant_entries: 1
+total_variant_entries: 2
 thothica_role: catalog
 ---
 
@@ -26,4 +26,4 @@ Socrates in prison, offered escape, arguing instead about what a citizen owes th
 
 ## Chapters
 
-01. [Crito](./chapters/01-crito/) — prose, 1 variant
+01. [Crito](./chapters/01-crito/) — prose, 2 variants

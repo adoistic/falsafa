@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-androtion-8e3453",
+  "work_title": "Against Androtion",
+  "chapter_number": 1,
+  "chapter_title": "Against Androtion",
+  "chapter_slug": "01-against-androtion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0efbdcad-383e-5749-b4b4-0e50f3d5cc83",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5610,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg022.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29d988a8-fb1a-57b0-a04f-d83f33e93247",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8128,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg022.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 129,
+  "chapter_title": "Chapter 130",
+  "chapter_slug": "129",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0d28f8b6-c517-5aad-85ca-d2874d2e5061",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 203,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:129"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e313238-7d63-564c-ad66-fd9fff938664",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 101,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:129"
+    }
+  ]
+}

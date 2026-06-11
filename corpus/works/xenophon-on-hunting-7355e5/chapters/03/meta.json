@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-on-hunting-7355e5",
+  "work_title": "On Hunting",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bac39d67-9fcf-5a13-9269-b9edffe8b462",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 524,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg014.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "047e94aa-65f3-5411-9e0b-d4fb7b2965c2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 677,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg014.perseus-eng2:3"
+    }
+  ]
+}

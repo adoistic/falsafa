@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-galba-bfa511",
+  "work_title": "Galba",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9a93bd6-cb28-5504-bf1d-042c0d7daf48",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 174,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg065.perseus-grc2:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31b0ece6-a09f-5ba5-9d45-34125e809fed",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 275,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg065.perseus-eng2:16"
+    }
+  ]
+}

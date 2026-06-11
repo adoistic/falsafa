@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-aemilius-paulus-bb1dca",
+  "work_title": "Aemilius Paulus",
+  "chapter_number": 32,
+  "chapter_title": "Chapter 33",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bb73db1a-e5aa-586e-96c0-d2a744c99b00",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 224,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg019.perseus-grc2:32"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e66d1a8d-e162-58f9-945d-9bb134454f13",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 310,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg019.perseus-eng2:32"
+    }
+  ]
+}

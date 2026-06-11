@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-on-the-art-of-horsemanship-9c7615",
+  "work_title": "On the Art of Horsemanship",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ce98231a-b378-5ff6-8fbb-9fcea4f93a23",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 690,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg013.perseus-grc2:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c84b03d2-29b5-5881-a25b-613d58d1cff2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1019,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg013.perseus-eng2:8"
+    }
+  ]
+}

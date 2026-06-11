@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschines-against-ctesiphon-d768ac",
+  "work_title": "Against Ctesiphon",
+  "chapter_number": 1,
+  "chapter_title": "Against Ctesiphon",
+  "chapter_slug": "01-against-ctesiphon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "45fab807-d496-5efd-a52f-83d008903938",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 18447,
+      "paragraph_count": 314,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0026.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d9c94c1-29c3-5ca5-b9bb-21c223824c40",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 26992,
+      "paragraph_count": 293,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0026.tlg003.perseus-eng2"
+    }
+  ]
+}

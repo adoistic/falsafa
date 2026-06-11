@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-hermotimus-3475de",
+  "work_title": "Hermotimus",
+  "chapter_number": 1,
+  "chapter_title": "Hermotimus",
+  "chapter_slug": "01-hermotimus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8101340a-23fa-5a3a-a3bb-777206c7a6bf",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 14226,
+      "paragraph_count": 396,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg063.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ea7c7d5-1935-5f24-9426-b9b5716a11f0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16775,
+      "paragraph_count": 315,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg063.perseus-eng4"
+    }
+  ]
+}

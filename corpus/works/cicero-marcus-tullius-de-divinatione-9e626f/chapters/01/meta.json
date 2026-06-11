@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-de-divinatione-9e626f",
+  "work_title": "De Divinatione",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2b71b615-bb3e-5409-ad5c-e9714537b906",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12762,
+      "paragraph_count": 385,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi053.perseus-lat1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d68f752-e1fd-57ed-ac9b-45843361dd1f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 20938,
+      "paragraph_count": 401,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi053.perseus-eng1:1"
+    }
+  ]
+}

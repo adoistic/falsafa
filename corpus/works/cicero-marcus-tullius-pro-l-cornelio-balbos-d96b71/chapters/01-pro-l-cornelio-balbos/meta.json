@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-l-cornelio-balbos-d96b71",
+  "work_title": "Pro L. Cornelio Balbos",
+  "chapter_number": 1,
+  "chapter_title": "Pro L. Cornelio Balbos",
+  "chapter_slug": "01-pro-l-cornelio-balbos",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "520b315b-ab86-5a29-8585-5542495139a8",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6562,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi026.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc6f47a6-5fdd-5a4f-bbe0-d34f998cb918",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13234,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi026.perseus-eng1"
+    }
+  ]
+}

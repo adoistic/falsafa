@@ -1,0 +1,38 @@
+{
+  "work_slug": "p-vergilius-maro-virgil-georgics-c2e75f",
+  "work_title": "Georgics",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b3d3a73-75e5-5336-aad9-2074a5189b92",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3299,
+      "paragraph_count": 169,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi002.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c31395c-e310-5dd1-a459-63a70cc4023d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5088,
+      "paragraph_count": 652,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi002.perseus-eng2:1"
+    }
+  ]
+}

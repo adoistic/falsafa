@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-e-apud-delphos-80cd0b",
+  "work_title": "De E apud Delphos",
+  "chapter_number": 1,
+  "chapter_title": "De E apud Delphos",
+  "chapter_slug": "01-de-e-apud-delphos",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "14e9eaa0-9c67-5780-91a0-f4bf5240a999",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4876,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg090.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b6e23ab1-0462-5ee7-b6dd-fb361486236b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6777,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg090.perseus-eng4"
+    }
+  ]
+}

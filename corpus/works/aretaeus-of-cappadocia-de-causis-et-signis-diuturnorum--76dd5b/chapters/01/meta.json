@@ -1,0 +1,38 @@
+{
+  "work_slug": "aretaeus-of-cappadocia-de-causis-et-signis-diuturnorum--76dd5b",
+  "work_title": "De causis et signis diuturnorum morborum libri duo",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6660be32-5856-5da0-8649-afc66351f004",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8093,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg002.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32e3b228-b0fa-550e-8d68-f2fc9a0cfe0c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11576,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg002.perseus-eng2:1"
+    }
+  ]
+}

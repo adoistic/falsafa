@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 141,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "141",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11334472-a85d-5fe5-8e4c-8cfb968d629d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 413,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:141"
+    }
+  ]
+}

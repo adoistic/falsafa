@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-panegyricus-de-quarto-consulatu--4fc943",
+  "work_title": "Panegyricus de quarto consulatu Honorii Augusti",
+  "chapter_number": 1,
+  "chapter_title": "Panegyricus de quarto consulatu Honorii Augusti",
+  "chapter_slug": "01-panegyricus-de-quarto-consulatu-honorii-augusti",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "782c2913-dbf9-5866-bfe3-f65e7fb134df",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3966,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa011.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa8b95a3-b737-5dce-bb38-cfdb7ae92505",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7183,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa011.perseus-eng1"
+    }
+  ]
+}

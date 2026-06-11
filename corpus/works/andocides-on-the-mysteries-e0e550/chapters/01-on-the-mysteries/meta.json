@@ -1,0 +1,38 @@
+{
+  "work_slug": "andocides-on-the-mysteries-e0e550",
+  "work_title": "On the Mysteries",
+  "chapter_number": 1,
+  "chapter_title": "On the Mysteries",
+  "chapter_slug": "01-on-the-mysteries",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f3c9f703-be26-5efe-89c6-cfaef69b3998",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10054,
+      "paragraph_count": 164,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0027.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "866e1aab-1dc0-5052-b1d3-390a8fbcc100",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14439,
+      "paragraph_count": 170,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0027.tlg001.perseus-eng2"
+    }
+  ]
+}

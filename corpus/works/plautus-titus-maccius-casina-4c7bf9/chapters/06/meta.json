@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-casina-4c7bf9",
+  "work_title": "Casina",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4001023a-4ea5-5c6e-a696-ae1963d319a9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1141,
+      "paragraph_count": 153,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi006.perseus-lat2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0003ba9b-1baf-53b5-b8a5-73bd16fa6e2b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1288,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi006.perseus-eng2:6"
+    }
+  ]
+}

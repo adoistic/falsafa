@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-spudias-975b96",
+  "work_title": "Against Spudias",
+  "chapter_number": 1,
+  "chapter_title": "Against Spudias",
+  "chapter_slug": "01-against-spudias",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "28311eba-821c-51d7-ac92-1dfd63acd918",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1967,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg041.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97ffa0d9-6731-542c-9b83-f535085cf039",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3162,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg041.perseus-eng2"
+    }
+  ]
+}

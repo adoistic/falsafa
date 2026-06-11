@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-italy-09f0a4",
+  "work_title": "Italy",
+  "chapter_number": 1,
+  "chapter_title": "Italy",
+  "chapter_slug": "01-italy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d26ebad4-6f8b-52cf-a053-01ffefe2b446",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1083,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2968b50c-3888-534b-b349-fcf9af7e5d60",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1617,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg003.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-tiberius-6262d9",
+  "work_title": "Tiberius",
+  "chapter_number": 76,
+  "chapter_title": "Chapter note",
+  "chapter_slug": "76",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e2ddde1-53c0-5cb9-9ac5-3b3fe3920b5d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3829,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo013.perseus-eng2:76"
+    }
+  ]
+}

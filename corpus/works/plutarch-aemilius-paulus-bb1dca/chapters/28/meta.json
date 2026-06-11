@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-aemilius-paulus-bb1dca",
+  "work_title": "Aemilius Paulus",
+  "chapter_number": 28,
+  "chapter_title": "Chapter 29",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d1c95b99-8c1e-526c-bbe6-ded6bf950131",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 160,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg019.perseus-grc2:28"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d1d442f-5d93-5f23-a1ad-7930dcd18cb4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 236,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg019.perseus-eng2:28"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+---
+work_id: "3d5f5527-8162-539f-82f0-7c5bcc0cbcdc"
+work_slug: "plutarch-sulla-3d5f55"
+work_title: Sulla
+author_name: Plutarch
+chapter_number: 15
+chapter_title: Chapter 15
+chapter_slug: 15
+variant_id: "93ac138c-aff2-5759-bdd5-61aac6fa26e0"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 319
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:15"
+translator: Bernadotte Perrin
+---
+
+Meanwhile Taxiles, the general of Mithridates had come down from Thrace and Macedonia with a hundred thousand footmen, ten thousand horse, and ninety scythe-bearing four-horse chariots, and summoned Archelaüs to join him. Archelaüs still lay with his fleet at Munychia, and was neither willing to quit the sea, nor eager to join battle with the Romans, but planned to protract the war and cut off their supplies.
+
+But Sulla understood the situation much better than Archelaüs did, and therefore transferred his forces into Boeotia, away from regions that were far from fertile, and unable to maintain a population even in time of peace. Most people thought that he had erred in his calculations, because he had abandoned Attica, which was a rough country and ill-suited for cavalry movements, and thrown himself into the plains and open districts of Boeotia, although he saw that the strength of the Barbarians consisted in chariots and cavalry.
+
+But in flying from scarcity and famine, as has been said, he was compelled to pursue the danger arising from battle. And furthermore, he was anxious about Hortensius, a bold and capable general, who was leading a force from Thessaly to Sulla while the Barbarians were closely watching for him in the passes. For these reasons Sulla transferred his army into Boeotia. But Hortensius was rescued by Caphis, a countryman of mine, and conducted by different routes, of which the Barbarians were ignorant, past Parnassus to a spot just below Tithora.
+
+This was not so large a city then as it is now, but a fortress surrounded on all sides by steep cliffs, into which those of the Phocians who in ancient times fled before the advance of Xerxes betook themselves and were saved. Having encamped here, Hortensius repulsed the enemy by day, and at night descended to Patronis by difficult paths and made a junction with Sulla, who came to meet him with his army.

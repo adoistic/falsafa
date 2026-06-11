@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-de-bello-gildonico-14aff9",
+  "work_title": "de bello Gildonico",
+  "chapter_number": 1,
+  "chapter_title": "de bello Gildonico",
+  "chapter_slug": "01-de-bello-gildonico",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d37188f5-9f30-5b46-8615-502057a6c667",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3165,
+      "paragraph_count": 203,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa002.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "328aefd9-62cb-5409-9624-7b95592eb731",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5737,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa002.perseus-eng1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-lysis-91ef3a",
+  "work_title": "Lysis",
+  "chapter_number": 1,
+  "chapter_title": "Lysis",
+  "chapter_slug": "01-lysis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6a501b05-d86f-50d4-8be4-3be61ee0a334",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6890,
+      "paragraph_count": 314,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg020.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f4912f6-96b6-53cf-920a-5d1533af5057",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9710,
+      "paragraph_count": 201,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg020.perseus-eng2"
+    }
+  ]
+}

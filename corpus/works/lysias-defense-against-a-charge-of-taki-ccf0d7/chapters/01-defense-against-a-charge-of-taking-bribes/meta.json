@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-defense-against-a-charge-of-taki-ccf0d7",
+  "work_title": "Defense Against A Charge Of Taking Bribes",
+  "chapter_number": 1,
+  "chapter_title": "Defense Against A Charge Of Taking Bribes",
+  "chapter_slug": "01-defense-against-a-charge-of-taking-bribes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e278a090-61f0-56e6-988a-a6d9d71c6148",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1296,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg021.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9122acc-fba8-5b92-98ca-daa3dc400c75",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1939,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg021.perseus-eng2"
+    }
+  ]
+}

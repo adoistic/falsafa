@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-memorabilia-ffaace",
+  "work_title": "Memorabilia",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5763bad1-7e6d-58bf-91c5-6e6f6c83a9b7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9351,
+      "paragraph_count": 136,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg002.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21436bb0-f53c-5639-b39a-7fc8878582d5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11641,
+      "paragraph_count": 476,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg002.perseus-eng2:4"
+    }
+  ]
+}

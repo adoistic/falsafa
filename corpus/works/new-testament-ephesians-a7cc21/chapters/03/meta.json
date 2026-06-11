@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-ephesians-a7cc21",
+  "work_title": "Ephesians",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "22c25024-6c70-5a4b-bf49-6376b57950d9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 326,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg010.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "068c4275-d6d8-5594-90bb-e3b2ac4ee13e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 425,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg010.perseus-eng2:3"
+    }
+  ]
+}

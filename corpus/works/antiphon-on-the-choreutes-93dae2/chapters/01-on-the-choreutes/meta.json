@@ -1,0 +1,38 @@
+{
+  "work_slug": "antiphon-on-the-choreutes-93dae2",
+  "work_title": "On the Choreutes",
+  "chapter_number": 1,
+  "chapter_title": "On the Choreutes",
+  "chapter_slug": "01-on-the-choreutes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3217d740-ba1e-5740-b968-fbd499e0b077",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3401,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3477a13-815c-576b-9aed-e9e1bfe0ce5f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5112,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg006.perseus-eng2"
+    }
+  ]
+}

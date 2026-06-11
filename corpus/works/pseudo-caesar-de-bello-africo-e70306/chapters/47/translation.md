@@ -1,0 +1,21 @@
+---
+work_id: "e7030675-2a66-5a8e-83bd-fff726371b13"
+work_slug: "pseudo-caesar-de-bello-africo-e70306"
+work_title: De Bello Africo
+author_name: "Pseudo-Caesar"
+chapter_number: 47
+chapter_title: Chapter 47
+chapter_slug: 47
+variant_id: "b0c60cdc-5b81-5601-b820-8dc6f3355c5f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 280
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0426.phi001.perseus-eng1:47"
+translator: Perseus Digital Library
+---
+
+It was round about this time that an incredible and unheard-of experience befell Caesar’s army. Although the constellation of the Pleiades had set, at about the second watch of the night a heavy rainstorm suddenly broke, accompanied by a shower of hail stones. Moreover, to make matters worse, Caesar at the time was not, as was his custom on previous occasions, keeping his army billeted in winter quarters: but every other, or every third day, lie would be advancing, moving up closer to the enemy and fortifying a camp, and in the course of doing this work his troops had no chance to look after themselves. Apart from this, his arrangements for transporting his army from Sicily were such as to allow only the troops themselves and their arms to be embarked, but no baggage, no slaves,1 none of the soldier’s normal comforts. In Africa, moreover, not only had they neither bought nor provided themselves with anything, but in addition the high price of corn had run away with all their savings. In these straitened circumstances very few men indeed were sleeping under proper tents: the rest bivouacked under tents of a sort improvised from clothing or woven with reeds and twigs. And so when the rain came down suddenly and the hail followed it, their tents sagged under the weight, and were undermined and swept away by the violence of the floods: in the dead of night the storm put out their fires: all their victuals were ruined and they wandered aimlessly hither and thither about the camp, covering their heads with their shields. That same night the spear-points of the men of the Fifth legion spontaneously caught fire.

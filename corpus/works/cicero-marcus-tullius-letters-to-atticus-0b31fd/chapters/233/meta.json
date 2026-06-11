@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 233,
+  "chapter_title": "Chapter text=A:book=11:letter=9",
+  "chapter_slug": "233",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6171324d-db58-558e-be18-a1d76b20dac9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 821,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:233"
+    }
+  ]
+}

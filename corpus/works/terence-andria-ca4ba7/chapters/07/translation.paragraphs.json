@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "p-ccb40d",
+    "offset": 0,
+    "text": "(Enter CHREMES and SIMO from the house of SIMO.)"
+  },
+  {
+    "id": "p-84b89c",
+    "offset": 50,
+    "text": "CHREMES:\nEnough already, enough, Simo, has my friendship toward you been proved. Sufficient hazard have I begun to encounter; make an end of your entreaties, then. While I’ve been endeavoring to oblige you, I’ve almost fooled away my daughter’s prospects in life."
+  },
+  {
+    "id": "p-87976d",
+    "offset": 315,
+    "text": "SIMO:\nNay but, now in especial, Chremes, I do beg and entreat of you, that the favor, commenced a short time since in words, you’ll now complete by deeds."
+  },
+  {
+    "id": "p-cd9b22",
+    "offset": 471,
+    "text": "CHREMES:\nSee how unreasonable you are from your very earnestness; so long as you effect what you desire, you neither think of limits to compliance, nor what it is you request of me; for if you did think, you would now forbear to trouble me with unreasonable requests."
+  },
+  {
+    "id": "p-231816",
+    "offset": 740,
+    "text": "SIMO:\nWhat unreasonable requests?"
+  },
+  {
+    "id": "p-d1b93d",
+    "offset": 775,
+    "text": "CHREMES:\nDo you ask? You importuned me to promise my daughter to a young man engaged in another attachment, averse to the marriage state, to plunge her into discord and a marriage of uncertain duration; that through her sorrow and her anguish I might reclaim your son. You prevailed; while the case admitted of it I made preparations. Now it does not admit of it; you must put up with it; they say that she is a citizen of this place; a child has been born; do cease to trouble us."
+  },
+  {
+    "id": "p-9569e4",
+    "offset": 1258,
+    "text": "SIMO:\nBy the Gods, I do conjure you not to bring your mind to believe those whose especial interest it is that he should be as degraded as possible. On account of the marriage, have all these things been feigned and contrived. When the reason for which they do these things is removed from them, they will desist."
+  },
+  {
+    "id": "p-cc895f",
+    "offset": 1573,
+    "text": "CHREMES:\nYou are mistaken; I myself saw the servant-maid wrangling with Davus."
+  },
+  {
+    "id": "p-4da93f",
+    "offset": 1653,
+    "text": "SIMO:\n(sneeringly.)\nI am aware."
+  },
+  {
+    "id": "p-6f89b0",
+    "offset": 1686,
+    "text": "CHREMES:\nWith an appearance of earnestness, when neither at the moment perceived that I was present there."
+  },
+  {
+    "id": "p-4d7729",
+    "offset": 1794,
+    "text": "SIMO:\nI believe it; and Davus a short time since forewarned me that this would be the case; and I don’t know how I forgot to tell it you to-day, as I had intended."
+  },
+  {
+    "id": "p-69b6f2",
+    "offset": 1959,
+    "text": "(Enter DAVUS from the house of GLYCERIUM.)"
+  },
+  {
+    "id": "p-2637ad",
+    "offset": 2003,
+    "text": "DAVUS:\n(aloud at the door, not seeing SIMO and CHREMES.)\nNow then, I bid you set your minds at ease."
+  },
+  {
+    "id": "p-5cb5d1",
+    "offset": 2105,
+    "text": "CHREMES:\n(to SIMO.)\nSee you, there’s Davus."
+  },
+  {
+    "id": "p-dc39ef",
+    "offset": 2150,
+    "text": "SIMO:\nFrom what house is he coming out?"
+  },
+  {
+    "id": "p-c9d7dc",
+    "offset": 2191,
+    "text": "DAVUS:\n(to himself.)\nThrough my means, and that of the stranger—"
+  },
+  {
+    "id": "p-bd241c",
+    "offset": 2257,
+    "text": "SIMO:\n(overhearing.)\nWhat mischief is this?"
+  },
+  {
+    "id": "p-c0dcef",
+    "offset": 2302,
+    "text": "DAVUS:\n(to himself.)\nI never did see a more opportune person, encounter, or occasion."
+  },
+  {
+    "id": "p-d848db",
+    "offset": 2389,
+    "text": "SIMO:\nThe rascal!"
+  },
+  {
+    "id": "p-75ff8c",
+    "offset": 2408,
+    "text": "I wonder who it is he’s praising?"
+  },
+  {
+    "id": "p-3c3d87",
+    "offset": 2443,
+    "text": "DAVUS:\nAll the affair is now in a safe position."
+  },
+  {
+    "id": "p-7eabbf",
+    "offset": 2493,
+    "text": "SIMO:\nWhy do I delay to accost him?"
+  },
+  {
+    "id": "p-4bf6f1",
+    "offset": 2530,
+    "text": "DAVUS:\n(to himself, catching sight of SIMO.)\nIt’s my master; what am I to do?"
+  },
+  {
+    "id": "p-13594b",
+    "offset": 2609,
+    "text": "SIMO:\n(accosting him.)\nO, save you, good sir!"
+  },
+  {
+    "id": "p-cf13a4",
+    "offset": 2656,
+    "text": "DAVUS:\n(affecting surprise.)\nHah! Simo! O, Chremes, my dear sir, all things are now quite ready in-doors."
+  },
+  {
+    "id": "p-dc91e8",
+    "offset": 2763,
+    "text": "SIMO:\n(ironically.)\nYou have taken such very good care."
+  },
+  {
+    "id": "p-f49486",
+    "offset": 2820,
+    "text": "DAVUS:\nSend for the bride when you like."
+  },
+  {
+    "id": "p-c09bbc",
+    "offset": 2862,
+    "text": "SIMO:\nVery good: (ironically.) of course, that’s the only thing that’s now wanting here. But do you answer me this, what business had you there?"
+  },
+  {
+    "id": "p-0ea108",
+    "offset": 3008,
+    "text": "(Pointing to the house of GLYCERIUM.)"
+  },
+  {
+    "id": "p-cf2f48",
+    "offset": 3047,
+    "text": "DAVUS:\nWhat, I?"
+  },
+  {
+    "id": "p-6f14ad",
+    "offset": 3064,
+    "text": "SIMO:\nJust so."
+  },
+  {
+    "id": "p-0e5d35",
+    "offset": 3080,
+    "text": "DAVUS:\nI?"
+  },
+  {
+    "id": "p-170017",
+    "offset": 3091,
+    "text": "SIMO:\nYes, you."
+  },
+  {
+    "id": "p-4b522b",
+    "offset": 3108,
+    "text": "DAVUS:\nI went in just now."
+  },
+  {
+    "id": "p-254a46",
+    "offset": 3136,
+    "text": "SIMO:\nAs if I asked how long ago!"
+  },
+  {
+    "id": "p-4f2737",
+    "offset": 3171,
+    "text": "DAVUS:\nTogether with your son."
+  },
+  {
+    "id": "p-04433f",
+    "offset": 3203,
+    "text": "SIMO:\nWhat, is Phamphilus in there? (Aside.) To my confusion, I’m on the rack! (To DAVUS.) How now? Didn’t you say that there was enmity between them, you scoundrel?"
+  },
+  {
+    "id": "p-ebf859",
+    "offset": 3370,
+    "text": "DAVUS:\nThere is."
+  },
+  {
+    "id": "p-45894e",
+    "offset": 3388,
+    "text": "SIMO:\nWhy is he there, then?"
+  },
+  {
+    "id": "p-509ec9",
+    "offset": 3418,
+    "text": "CHREMES:\nWhy do you. suppose he is? (Ironically.) Quarreling with her, of course."
+  },
+  {
+    "id": "p-07e23a",
+    "offset": 3501,
+    "text": "DAVUS:\nNay but, Chremes, I’ll let you now hear from me a disgraceful piece of business."
+  },
+  {
+    "id": "p-c8eeeb",
+    "offset": 3590,
+    "text": "An old man, I don’t know who he is, has just now come here; look you, he is a confident and shrewd person; when you look at his appearance, he seems to be a person of some consequence. There is a grave sternness in his features, and something commanding in his words."
+  },
+  {
+    "id": "p-06ab02",
+    "offset": 3859,
+    "text": "SIMO:\nWhat news are you bringing, I wonder?"
+  },
+  {
+    "id": "p-80baff",
+    "offset": 3904,
+    "text": "DAVUS:\nWhy nothing but what I heard him mention."
+  },
+  {
+    "id": "p-43df2a",
+    "offset": 3954,
+    "text": "SIMO:\nWhat does he say then?"
+  },
+  {
+    "id": "p-ef9779",
+    "offset": 3984,
+    "text": "DAVUS:\nThat he knows Glycerium to be a citizen of Attica."
+  },
+  {
+    "id": "p-d227d6",
+    "offset": 4043,
+    "text": "SIMO:\n(going to his door.)\nHo there!"
+  },
+  {
+    "id": "p-c413aa",
+    "offset": 4081,
+    "text": "Dromo, Dromo!"
+  },
+  {
+    "id": "p-7234af",
+    "offset": 4096,
+    "text": "(Enter DROMO hastily from the house.)"
+  },
+  {
+    "id": "p-a0c5ea",
+    "offset": 4135,
+    "text": "DROMO:\nWhat is it?"
+  },
+  {
+    "id": "p-682d0f",
+    "offset": 4155,
+    "text": "SIMO:\nDromo!"
+  },
+  {
+    "id": "p-7932d2",
+    "offset": 4169,
+    "text": "DAVUS:\nHear me."
+  },
+  {
+    "id": "p-004d00",
+    "offset": 4186,
+    "text": "SIMO:\nIf you add a word—Dromo!"
+  },
+  {
+    "id": "p-ed6518",
+    "offset": 4218,
+    "text": "DAVUS:\nHear me, pray."
+  },
+  {
+    "id": "p-5080f7",
+    "offset": 4241,
+    "text": "DROMO:\n(to SIMO.)\nWhat do you want?"
+  },
+  {
+    "id": "p-96fe74",
+    "offset": 4278,
+    "text": "SIMO:\n(pointing to DAVUS.)\nCarry him off on your shoulders in-doors as fast as possible."
+  },
+  {
+    "id": "p-3c07d3",
+    "offset": 4368,
+    "text": "DROMO:\nWhom?"
+  },
+  {
+    "id": "p-76f786",
+    "offset": 4382,
+    "text": "SIMO:\nDavus."
+  },
+  {
+    "id": "p-ba9d3a",
+    "offset": 4396,
+    "text": "DAVUS:\nFor what reason?"
+  },
+  {
+    "id": "p-95b85f",
+    "offset": 4421,
+    "text": "SIMO:\nBecause I choose. (To. DROMO.) Carry him off, I say."
+  },
+  {
+    "id": "p-4029ef",
+    "offset": 4481,
+    "text": "DAVUS:\nWhat have I done?"
+  },
+  {
+    "id": "p-fc7691",
+    "offset": 4507,
+    "text": "SIMO:\nCarry him off."
+  },
+  {
+    "id": "p-fd8ee1",
+    "offset": 4529,
+    "text": "DAVUS:\nIf you find that I have told a lie in any one matter, then kill me."
+  },
+  {
+    "id": "p-427eef",
+    "offset": 4605,
+    "text": "SIMO:\nI’ll hear nothing. I’ll soon have you set in motion."
+  },
+  {
+    "id": "p-6bd115",
+    "offset": 4665,
+    "text": "DAVUS:\nWhat? Although this is the truth."
+  },
+  {
+    "id": "p-47426b",
+    "offset": 4707,
+    "text": "SIMO:\nIn spite of it."
+  },
+  {
+    "id": "p-1bc1d8",
+    "offset": 4730,
+    "text": "(To DROMO.) Take care he’s kept well secured; and, do you hear? Tie him up hands and feet together. Now then, be off; upon my faith this very day, if I live, I’ll teach you what hazard there is in deceiving a master, and him in deceiving a father."
+  },
+  {
+    "id": "p-b20bbb",
+    "offset": 4979,
+    "text": "(DROMO leads DAVUS into the house.)"
+  },
+  {
+    "id": "p-c883b8",
+    "offset": 5016,
+    "text": "CHREMES:\nOh, don’t be so extremely vexed."
+  },
+  {
+    "id": "p-67f5b9",
+    "offset": 5059,
+    "text": "SIMO:\nO Chremes, the dutifulness of a son! Do you not pity me?"
+  },
+  {
+    "id": "p-ed87c8",
+    "offset": 5123,
+    "text": "That I should endure so much trouble for such a son! (Goes to the door of GLYCERIUM’s house.) Come, Pamphilus, come out, Pamphilus! have you any shame left?"
+  },
+  {
+    "id": "p-366b85",
+    "offset": 5281,
+    "text": "(Enter PAMPHILUS in haste from GLYCERIUM’s house.)"
+  },
+  {
+    "id": "p-ddbd54",
+    "offset": 5333,
+    "text": "PAMPHILUS:\nWho is it that wants me? (Aside.) I’m undone! it’s my father."
+  },
+  {
+    "id": "p-ce03a8",
+    "offset": 5407,
+    "text": "SIMO:\nWhat say you, of all men, the —?"
+  },
+  {
+    "id": "p-69a9be",
+    "offset": 5447,
+    "text": "CHREMES:\nOh! rather speak about the matter itself, and forbear to use harsh language."
+  },
+  {
+    "id": "p-5f707e",
+    "offset": 5534,
+    "text": "SIMO:\nAs if any thing too severe could now be possibly said against him."
+  },
+  {
+    "id": "p-1f016a",
+    "offset": 5608,
+    "text": "Pray, do you say that Glycerium is a citizen—"
+  },
+  {
+    "id": "p-8430a6",
+    "offset": 5655,
+    "text": "PAMPHILUS:\nSo they say."
+  },
+  {
+    "id": "p-dfd434",
+    "offset": 5680,
+    "text": "SIMO:\nSo they say! Unparalleled assurance! does he consider what he says? Is he sorry for what he has done? Does his countenance, pray, at all betray any marks of shame? That he should be of mind so weak, as, without regard to the custom and the law of his fellow-citizens, and the wish of his own father, to be anxious, in spite of every thing, to have her, to his own utter disgrace!"
+  },
+  {
+    "id": "p-384651",
+    "offset": 6067,
+    "text": "PAMPHILUS:\nMiserable that I am!"
+  },
+  {
+    "id": "p-42ade8",
+    "offset": 6100,
+    "text": "SIMO:\nHa! have you at last found that out only just now, Pamphilus? Long since did that expression, long since, when you made up your mind, that what you desired must be effected by you at any price;"
+  },
+  {
+    "id": "p-110629",
+    "offset": 6301,
+    "text": "from that very day did that expression aptly befit you. But yet why do I torment myself? Why vex myself? Why worry my old age with this madness? Am I to suffer the punishment for his offenses? Nay then, let him have her, good-by to him, let him pass his life with her."
+  },
+  {
+    "id": "p-bb257c",
+    "offset": 6571,
+    "text": "PAMPHILUS:\nMy father—"
+  },
+  {
+    "id": "p-1978f9",
+    "offset": 6594,
+    "text": "SIMO:\nHow, my father? As if you stood in any need of this father. Home, wife, and children, provided by you against the will of your father! People suborned, too, to say that she is a citizen of this place! You have gained your point."
+  },
+  {
+    "id": "p-064d07",
+    "offset": 6830,
+    "text": "PAMPHILUS:\nFather, may I say a few words?"
+  },
+  {
+    "id": "p-d0e193",
+    "offset": 6873,
+    "text": "SIMO:\nWhat can you say to me?"
+  },
+  {
+    "id": "p-bf3b39",
+    "offset": 6904,
+    "text": "CHREMES:\nBut, Simo, do hear him."
+  },
+  {
+    "id": "p-52da3f",
+    "offset": 6938,
+    "text": "SIMO:\nI, hear him? Why should I hear him,"
+  },
+  {
+    "id": "p-5e4ce6",
+    "offset": 6981,
+    "text": "Chremes?"
+  },
+  {
+    "id": "p-e840d4",
+    "offset": 6991,
+    "text": "CHREMES:\nStill, however, do allow him to speak."
+  },
+  {
+    "id": "p-6ec135",
+    "offset": 7040,
+    "text": "SIMO:\nWell then, let him speak: I allow him."
+  },
+  {
+    "id": "p-0a4e8a",
+    "offset": 7086,
+    "text": "PAMPHILUS:\nI own that I love her; if that is committing a fault, I own that also. To you, father, do I subject myself. Impose on me any injunction you please; command me. Do you wish me to take a wife? Do you wish me to give her up? As well as I can I will endure it. This only I request of you, not to think that this old gentleman has been suborned by me."
+  },
+  {
+    "id": "p-aeed5b",
+    "offset": 7445,
+    "text": "Allow me to clear myself, and to bring him here before you."
+  },
+  {
+    "id": "p-203e10",
+    "offset": 7506,
+    "text": "SIMO:\nTo bring him here?"
+  },
+  {
+    "id": "p-59842b",
+    "offset": 7532,
+    "text": "PAMPHILUS:\nDo allow me, father."
+  },
+  {
+    "id": "p-a2fff3",
+    "offset": 7565,
+    "text": "CHREMES:\nHe asks what’s reasonable; do give him leave."
+  },
+  {
+    "id": "p-fdacea",
+    "offset": 7621,
+    "text": "PAMPHILUS:\nAllow me to obtain thus much of you."
+  },
+  {
+    "id": "p-233e0f",
+    "offset": 7670,
+    "text": "SIMO:\nI allow it. I desire any thing, so long as I find, Chremes, that I have not been deceived by him.\n(PAMPHILUS goes into the house of GLYCERIUM.)"
+  },
+  {
+    "id": "p-febe77",
+    "offset": 7821,
+    "text": "CHREMES:\nFor a great offense, a slight punishment ought to satisfy a father."
+  },
+  {
+    "id": "p-d7e98f",
+    "offset": 7899,
+    "text": "(Re-enter PAMPHILUS with CRITO.)"
+  },
+  {
+    "id": "p-113775",
+    "offset": 7933,
+    "text": "CRITO:\n(to PAMPHILUS, as he is coming out.)\nForbear entreating. Of these, any one reason prompts me to do it, either your own sake, or the fact that it is the truth, or that I wish well for Glycerium herself."
+  },
+  {
+    "id": "p-eec66c",
+    "offset": 8143,
+    "text": "CHREMES:\n(starting.)\nDo I see Crito of Andros? Surely it is he."
+  },
+  {
+    "id": "p-cec3eb",
+    "offset": 8208,
+    "text": "CRITO:\nGreetings to you, Chremes."
+  },
+  {
+    "id": "p-38994e",
+    "offset": 8243,
+    "text": "CHREMES:\nHow is it that, so contrary to your usage, you are at Athens?"
+  },
+  {
+    "id": "p-b211bd",
+    "offset": 8315,
+    "text": "CRITO:\nSo it has happened. But is this Simo?"
+  },
+  {
+    "id": "p-4cbd31",
+    "offset": 8361,
+    "text": "CHREMES:\nIt is he."
+  },
+  {
+    "id": "p-730fc9",
+    "offset": 8381,
+    "text": "CRITO:\nSimo, were you asking for me?"
+  },
+  {
+    "id": "p-cee361",
+    "offset": 8419,
+    "text": "SIMO:\nHow now, do you say that Glycerium is a citizen of this place?"
+  },
+  {
+    "id": "p-91e5f0",
+    "offset": 8489,
+    "text": "CRITO:\nDo you deny it?"
+  },
+  {
+    "id": "p-8c7650",
+    "offset": 8513,
+    "text": "SIMO:\n(ironically.)\nHave you come here so well prepared?"
+  },
+  {
+    "id": "p-f9d571",
+    "offset": 8571,
+    "text": "CRITO:\nFor what purpose?"
+  },
+  {
+    "id": "p-b960f1",
+    "offset": 8597,
+    "text": "SIMO:\nDo you ask? Are you to be acting this way with impunity? Are you to be luring young men into snares here, inexperienced in affairs, and liberally brought up, by tempting them, and to be playing upon their fancies by making promises?"
+  },
+  {
+    "id": "p-30ff89",
+    "offset": 8837,
+    "text": "CRITO:\nAre you in your senses?"
+  },
+  {
+    "id": "p-bd9949",
+    "offset": 8869,
+    "text": "SIMO:\nAnd are you to be patching up amours with Courtesans by marriage?"
+  },
+  {
+    "id": "p-5425a1",
+    "offset": 8942,
+    "text": "PAMPHILUS:\n(aside.)\nI’m undone! I fear that the stranger will not put up with this."
+  },
+  {
+    "id": "p-73217c",
+    "offset": 9027,
+    "text": "CHREMES:\nIf, Simo, you knew this person well, you would not think thus; he is a worthy man."
+  },
+  {
+    "id": "p-dbf726",
+    "offset": 9120,
+    "text": "SIMO:\nHe, a worthy man! To come so opportunely to-day just at the very nuptials, and yet never to have come before? (Ironically.) Of course, we must believe him, Chremes."
+  },
+  {
+    "id": "p-900197",
+    "offset": 9292,
+    "text": "PAMPHILUS:\n(aside.)\nIf I didn’t dread my father, I have something, which, in this conjuncture, I could opportunely suggest to him"
+  },
+  {
+    "id": "p-5762fd",
+    "offset": 9423,
+    "text": "SIMO:\n(sneeringly, to CHREMES.)\nA sharper!"
+  },
+  {
+    "id": "p-6b8c31",
+    "offset": 9467,
+    "text": "CRITO:\n(starting.)\nHah!"
+  },
+  {
+    "id": "p-0c0662",
+    "offset": 9492,
+    "text": "CHREMES:\nIt is his way, Crito; do excuse it."
+  },
+  {
+    "id": "p-fcd573",
+    "offset": 9538,
+    "text": "CRITO:\nLet him take heed how he behaves."
+  },
+  {
+    "id": "p-ead177",
+    "offset": 9580,
+    "text": "If he persists in saying to me what he likes, he’ll be hearing things that he don’t like. Am I meddling with these matters or interesting myself? Can you not endure your troubles with a patient mind? For as to what I say, whether it is true or false what I have heard, can soon be known. A certain man of Attica, a long time ago, his ship being wrecked, was cast ashore at Andros, and this woman together with him, who was then a little girl; he, in his destitution, by chance first made application to the father of Chrysis—"
+  },
+  {
+    "id": "p-147405",
+    "offset": 10107,
+    "text": "SIMO:\n(ironically.)\nHe’s beginning his tale."
+  },
+  {
+    "id": "p-1c0924",
+    "offset": 10153,
+    "text": "CHREM.:\nLet him alone."
+  },
+  {
+    "id": "p-43efea",
+    "offset": 10177,
+    "text": "CRITO:\nReally, is he to be interrupting me in this way?"
+  },
+  {
+    "id": "p-9fcb04",
+    "offset": 10234,
+    "text": "CHREMES:\nDo you proceed."
+  },
+  {
+    "id": "p-3e1823",
+    "offset": 10260,
+    "text": "CRITO:\nHe who received him was a relation of mine. There I heard from him that he was a native of Attica. He died there."
+  },
+  {
+    "id": "p-eb3a2a",
+    "offset": 10382,
+    "text": "CHREMES:\nHis name?"
+  },
+  {
+    "id": "p-3d2514",
+    "offset": 10402,
+    "text": "CRITO:\nThe name, in such a hurry!"
+  },
+  {
+    "id": "p-2fa983",
+    "offset": 10437,
+    "text": "PAMPHILUS:\nPhania."
+  },
+  {
+    "id": "p-5455dc",
+    "offset": 10457,
+    "text": "CHREMES:\n(starting.)\nHah! I shall die!"
+  },
+  {
+    "id": "p-525d82",
+    "offset": 10497,
+    "text": "CRITO:\nI’faith, I really think it was Phania; this I know for certain, he said that he was a citizen of Rhamnus."
+  },
+  {
+    "id": "p-c06882",
+    "offset": 10611,
+    "text": "CHREMES:\nO Jupiter!"
+  },
+  {
+    "id": "p-d1a745",
+    "offset": 10632,
+    "text": "CRITO:\nMany other persons in Andros have heard the same, Chremes."
+  },
+  {
+    "id": "p-b114c2",
+    "offset": 10699,
+    "text": "CHREMES:\n(aside.)\nI trust it may turn out as I hope. (To CRITO.) Come now, tell me, what did he then say about her? Did he say she was his own daughter?"
+  },
+  {
+    "id": "p-5b3092",
+    "offset": 10853,
+    "text": "CRITO:\nNo."
+  },
+  {
+    "id": "p-fc9967",
+    "offset": 10865,
+    "text": "CHREMES:\nWhose then?"
+  },
+  {
+    "id": "p-59e408",
+    "offset": 10887,
+    "text": "CRITO:\nHis brother’s daughter."
+  },
+  {
+    "id": "p-fc223b",
+    "offset": 10919,
+    "text": "CHREMES:\nShe certainly is mine."
+  },
+  {
+    "id": "p-24358d",
+    "offset": 10952,
+    "text": "CRITO:\nWhat do you say?"
+  },
+  {
+    "id": "p-1a8480",
+    "offset": 10977,
+    "text": "SIMO:\nWhat is this that you say?"
+  },
+  {
+    "id": "p-e4eeee",
+    "offset": 11011,
+    "text": "PAMPHILUS:\n(aside.)\nPrick up your ears, Pamphilus."
+  },
+  {
+    "id": "p-8d3b26",
+    "offset": 11063,
+    "text": "SIMO:\nWhy do you suppose so?"
+  },
+  {
+    "id": "p-7ca696",
+    "offset": 11093,
+    "text": "CHREMES:\nThat Phania was my brother."
+  },
+  {
+    "id": "p-f4207b",
+    "offset": 11131,
+    "text": "SIMO:\nI knew him, and I am aware of it."
+  },
+  {
+    "id": "p-4ab927",
+    "offset": 11172,
+    "text": "CHREMES:\nHe, flying from the wars, and following me to Asia, set out from here. At the same time he was afraid to leave her here behind; since then, this is the first time I have heard what became of him."
+  },
+  {
+    "id": "p-c87f10",
+    "offset": 11378,
+    "text": "PAMPHILUS:\n(aside.)\nI am scarcely myself, so much has my mind been agitated by fear, hope, joy, and surprise at this so great, so unexpected blessing."
+  },
+  {
+    "id": "p-3d4cf6",
+    "offset": 11530,
+    "text": "SIMO:\nReally, I am glad for many reasons that she has been discovered to be a citizen."
+  },
+  {
+    "id": "p-557eb7",
+    "offset": 11618,
+    "text": "PAMPHILUS:\nI believe it, father."
+  },
+  {
+    "id": "p-702f6e",
+    "offset": 11652,
+    "text": "CHREMES:\nBut there yet remains one difficulty with me, which keeps me in suspense."
+  },
+  {
+    "id": "p-5fb351",
+    "offset": 11736,
+    "text": "PAMPHILUS:\n(aside.)\nYou deserve to be —, with your scruples, you plague. You are seeking a knot in a bulrush."
+  },
+  {
+    "id": "p-f5bc20",
+    "offset": 11847,
+    "text": "CRITO:\n(to CHREMES.)\nWhat is that?"
+  },
+  {
+    "id": "p-d13c71",
+    "offset": 11883,
+    "text": "CHREMES:\nThe names don’t agree."
+  },
+  {
+    "id": "p-ddfa28",
+    "offset": 11916,
+    "text": "CRITO:\nTroth, she had another when little."
+  },
+  {
+    "id": "p-59541d",
+    "offset": 11960,
+    "text": "CHREMES:\nWhat was it, Crito? Can you remember it?"
+  },
+  {
+    "id": "p-025936",
+    "offset": 12011,
+    "text": "CRITO:\nI’m trying to recollect it."
+  },
+  {
+    "id": "p-9e9285",
+    "offset": 12047,
+    "text": "PAMPHILUS:\n(aside.)\nAm I to suffer his memory to stand in the way of my happiness, when I myself can provide my own remedy in this matter? I will not suffer it. (Aloud.) Hark you, Chremes, that which you are trying to recollect is Pasibula."
+  },
+  {
+    "id": "p-bdeb84",
+    "offset": 12289,
+    "text": "CHREMES:\nThe very same."
+  },
+  {
+    "id": "p-259ee4",
+    "offset": 12314,
+    "text": "CRITO:\nThat’s it."
+  },
+  {
+    "id": "p-bf57bf",
+    "offset": 12333,
+    "text": "PAMPHILUS:\nI’ve heard it from herself a thousand times."
+  },
+  {
+    "id": "p-97f8e5",
+    "offset": 12390,
+    "text": "SIMO:\nI suppose, Chremes, that you believe that we all rejoice at this discovery."
+  },
+  {
+    "id": "p-982d5e",
+    "offset": 12473,
+    "text": "CHREMES:\nSo may the Gods bless me, I do believe it."
+  },
+  {
+    "id": "p-0d8bca",
+    "offset": 12526,
+    "text": "PAMPHILUS:\nWhat remains to be done, father?"
+  },
+  {
+    "id": "p-bd31e1",
+    "offset": 12571,
+    "text": "SIMO:\nThe event itself has quite brought me to reconcilement."
+  },
+  {
+    "id": "p-14f7bb",
+    "offset": 12634,
+    "text": "PAMPHILUS:\nO kind father! With regard to her as a wife, since I have taken possession of her, Chremes will not offer any opposition."
+  },
+  {
+    "id": "p-c7e773",
+    "offset": 12768,
+    "text": "CHREMES:\nThe plea is a very good one, unless perchance your father says any thing to the contrary."
+  },
+  {
+    "id": "p-efef19",
+    "offset": 12868,
+    "text": "PAMPHILUS:\nOf course, I agree."
+  },
+  {
+    "id": "p-6cae67",
+    "offset": 12900,
+    "text": "SIMO:\nThen be it so."
+  },
+  {
+    "id": "p-e055d0",
+    "offset": 12922,
+    "text": "CHREMES:\nHer portion, Pamphilus, is ten talents."
+  },
+  {
+    "id": "p-6e206f",
+    "offset": 12972,
+    "text": "PAMPHILUS:\nI alm satisfied."
+  },
+  {
+    "id": "p-744e1c",
+    "offset": 13001,
+    "text": "CHREMES:\nI’ll hasten to my daughter. Come now, (beckoning.) along with me, Crito; for I suppose that she will not know me."
+  },
+  {
+    "id": "p-605eeb",
+    "offset": 13125,
+    "text": "(They go into GLYCERIUM’s house.)"
+  },
+  {
+    "id": "p-442c2f",
+    "offset": 13160,
+    "text": "SIMO:\n(To PAMPHILUS.)\nWhy don’t you order her to be sent for hither, to our house?"
+  },
+  {
+    "id": "p-c88411",
+    "offset": 13244,
+    "text": "PAMPHILUS:\nWell thought of; I’ll at once give charge of that to Davus."
+  },
+  {
+    "id": "p-3c564d",
+    "offset": 13316,
+    "text": "SIMO:\nHe can’t do it."
+  },
+  {
+    "id": "p-ed420b",
+    "offset": 13339,
+    "text": "PAMPHILUS:\nHow so?"
+  },
+  {
+    "id": "p-c02364",
+    "offset": 13359,
+    "text": "SIMO:\nBecause he has another matter that more nearly concerns himself, and of more importance."
+  },
+  {
+    "id": "p-f958d5",
+    "offset": 13455,
+    "text": "PAMPHILUS:\nWhat, pray?"
+  },
+  {
+    "id": "p-5637b4",
+    "offset": 13479,
+    "text": "SIMO:\nHe is bound."
+  },
+  {
+    "id": "p-ff7d8d",
+    "offset": 13499,
+    "text": "PAMPHILUS:\nFather, he is not rightly bound."
+  },
+  {
+    "id": "p-3a6b40",
+    "offset": 13544,
+    "text": "SIMO:\nBut I ordered to that effect."
+  },
+  {
+    "id": "p-802755",
+    "offset": 13581,
+    "text": "PAMPHILUS:\nPrithee, do order him to be set at liberty,"
+  },
+  {
+    "id": "p-f05a0b",
+    "offset": 13637,
+    "text": "SIMO:\nWell, be it so."
+  },
+  {
+    "id": "p-dfae50",
+    "offset": 13660,
+    "text": "PAMPHILUS:\nBut immediately."
+  },
+  {
+    "id": "p-3be062",
+    "offset": 13689,
+    "text": "SIMO:\nI’m going in."
+  },
+  {
+    "id": "p-6f8390",
+    "offset": 13710,
+    "text": "PAMPHILUS:\nO fortunate and happy day!"
+  },
+  {
+    "id": "p-7bf3bf",
+    "offset": 13749,
+    "text": "(SIMO goes into his house.)"
+  },
+  {
+    "id": "p-b0fa1a",
+    "offset": 13778,
+    "text": "(Enter CHARINUS, at a distance.)"
+  },
+  {
+    "id": "p-4b00a0",
+    "offset": 13812,
+    "text": "CHARINUS:\n(apart to himself.)\nI’m come to see what Pamphilus is about; and look, here he is."
+  },
+  {
+    "id": "p-478941",
+    "offset": 13906,
+    "text": "PAMPHILUS:\n(to himself.)\nSome one perhaps might imagine that I don’t believe this to be true; but now it is clear to me that it really is true. I do think that the life of the Gods is everlasting, for this reason, because their joys are their own. For immortality has been obtained by me, if no sorrow interrupts this delight. But whom in particular could I wish to be now thrown in my way, for me to relate these things to?"
+  },
+  {
+    "id": "p-4add4d",
+    "offset": 14332,
+    "text": "CHARINUS:\n(apart to himself.)\nWhat means this rapture?"
+  },
+  {
+    "id": "p-811f96",
+    "offset": 14388,
+    "text": "PAMPHILUS:\n(to himself.)\nI see Davus. There is no one in the world whom I would choose in preference; for I am sure that he of all people will sincerely rejoice in my happiness."
+  },
+  {
+    "id": "p-cf627f",
+    "offset": 14567,
+    "text": "(Enter DAVUS.)"
+  },
+  {
+    "id": "p-5adc62",
+    "offset": 14583,
+    "text": "DAVUS:\n(to himself.)\nWhere is Pamphilus, I wonder?"
+  },
+  {
+    "id": "p-e59986",
+    "offset": 14635,
+    "text": "PAMPHILUS:\nHere he is, Davus."
+  },
+  {
+    "id": "p-b2b740",
+    "offset": 14666,
+    "text": "DAVUS:\n(turning round.)\nWho’s that?"
+  },
+  {
+    "id": "p-336b0b",
+    "offset": 14703,
+    "text": "PAMPHILUS:\n’Tis I,"
+  },
+  {
+    "id": "p-cd4071",
+    "offset": 14723,
+    "text": "Pamphilus;"
+  },
+  {
+    "id": "p-b134ab",
+    "offset": 14735,
+    "text": "you don’t know what has happened to me."
+  },
+  {
+    "id": "p-8638f4",
+    "offset": 14776,
+    "text": "DAVUS:\nNo really; but I know what has happened to myself."
+  },
+  {
+    "id": "p-8a578e",
+    "offset": 14835,
+    "text": "PAMPHILUS:\nAnd I too."
+  },
+  {
+    "id": "p-9fda65",
+    "offset": 14858,
+    "text": "DAVUS:\nIt has fallen out just like human affairs in general, that you should know the mishap I have met with, before I the good that has befallen you."
+  },
+  {
+    "id": "p-f2c16d",
+    "offset": 15010,
+    "text": "PAMPHILUS:\nMy Glycerium has discovered her parents."
+  },
+  {
+    "id": "p-b85e24",
+    "offset": 15063,
+    "text": "DAVUS:\nO, well done!"
+  },
+  {
+    "id": "p-978e55",
+    "offset": 15085,
+    "text": "CHARINUS:\n(apart, in surprise.)\nHah!"
+  },
+  {
+    "id": "p-a0fa64",
+    "offset": 15123,
+    "text": "PAMPHILUS:\nHer father is an intimate friend of ours."
+  },
+  {
+    "id": "p-74452d",
+    "offset": 15177,
+    "text": "DAVUS:\nWho?"
+  },
+  {
+    "id": "p-3d9433",
+    "offset": 15190,
+    "text": "PAMPHILUS:\nChremes."
+  },
+  {
+    "id": "p-c72e68",
+    "offset": 15211,
+    "text": "DAVUS:\nYou do tell good news."
+  },
+  {
+    "id": "p-1fa4d9",
+    "offset": 15242,
+    "text": "PAMPHILUS:\nAnd there’s no hinderance to my marrying her at once."
+  },
+  {
+    "id": "p-d1ddb0",
+    "offset": 15308,
+    "text": "CHARINUS:\n(apart.)\nIs he dreaming the same that he has been wishing for when awake?"
+  },
+  {
+    "id": "p-05a51a",
+    "offset": 15393,
+    "text": "PAMPHILUS:\nThen about the child, Davus."
+  },
+  {
+    "id": "p-2c08f9",
+    "offset": 15434,
+    "text": "DAVUS:\nO, say no more; you are the only person whom the Gods favor."
+  },
+  {
+    "id": "p-de648e",
+    "offset": 15503,
+    "text": "CHARINUS:\n(apart.)\nI’m all right if these things are true. I’ll accost them.\n(Comes forward.)"
+  },
+  {
+    "id": "p-ffd4b8",
+    "offset": 15598,
+    "text": "PAMPHILUS:\nWho is this? Why, Charinus, you meet me at the very nick of time."
+  },
+  {
+    "id": "p-62d9dc",
+    "offset": 15676,
+    "text": "CHARINUS:\nThat’s all right."
+  },
+  {
+    "id": "p-217810",
+    "offset": 15705,
+    "text": "PAMPHILUS:\nHave you heard—?"
+  },
+  {
+    "id": "p-dde08f",
+    "offset": 15734,
+    "text": "CHARINUS:\nEvery thing; come, in your good fortune do have some regard for me. Chremes is now at your command; I’m sure that he’ll do every thing you wish."
+  },
+  {
+    "id": "p-a22ac8",
+    "offset": 15890,
+    "text": "PAMPHILUS:\nI’ll remember you; and because it is tedious for us to wait for him until he comes out, follow me this way; he is now in-doors at the house of Glycerium; do you, Davus, go home; send with all haste to remove her thence. Why are you standing there? Why are you delaying?"
+  },
+  {
+    "id": "p-6b90cc",
+    "offset": 16172,
+    "text": "DAVUS:\nI’m going. (PAMPHILUS and CHARINUS go into the house of GLYCERIUM. DAVUS then comes forward and addresses the Audience.) Don’t you wait until they come out from there; she will be betrothed within: if there is any thing else that remains, it will be transacted in-doors."
+  },
+  {
+    "id": "p-b15c54",
+    "offset": 16451,
+    "text": "Grant us your applause."
+  }
+]

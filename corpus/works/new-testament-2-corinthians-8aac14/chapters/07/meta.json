@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-2-corinthians-8aac14",
+  "work_title": "2 Corinthians",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "807bfe2c-db79-5d43-8e4f-786c56c9cf95",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 329,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b3506c4-3553-598b-94ba-72ec881c4f13",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 444,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-eng2:7"
+    }
+  ]
+}

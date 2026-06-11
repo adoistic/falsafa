@@ -1,0 +1,38 @@
+{
+  "work_slug": "pseudo-lucian-demosthenis-encomium-f5c618",
+  "work_title": "Demosthenis encomium",
+  "chapter_number": 1,
+  "chapter_title": "Demosthenis encomium",
+  "chapter_slug": "01-demosthenis-encomium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4931e69d-b825-5146-84a5-9d060ea78125",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5154,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0061.tlg003.1st1K-grc1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "742c460b-8705-5e8b-a718-fcc79ed34d97",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6724,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0061.tlg003.perseus-eng1"
+    }
+  ]
+}

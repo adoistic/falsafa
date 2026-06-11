@@ -1,0 +1,38 @@
+{
+  "work_slug": "homeric-hymns-hymn-2-to-demeter-1c9cbc",
+  "work_title": "Hymn 2 to Demeter",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 2 to Demeter",
+  "chapter_slug": "01-hymn-2-to-demeter",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f068b25-a269-5054-a684-d28ecd2c4066",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3413,
+      "paragraph_count": 498,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4e34627-7d8c-546b-a476-f642d11f150f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5096,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg002.perseus-eng2"
+    }
+  ]
+}

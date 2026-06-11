@@ -1,0 +1,39 @@
+{
+  "work_slug": "plautus-titus-maccius-mostellaria-651c20",
+  "work_title": "Mostellaria",
+  "chapter_number": 1,
+  "chapter_title": "Chapter front",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "98e3ce3d-cdb1-5ac0-bca9-3e44dc8386a0",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2697,
+      "paragraph_count": 295,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi013.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2ed8ca2-62a7-506a-8c68-655bc0952c82",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 595,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi013.perseus-eng2:1"
+    }
+  ]
+}

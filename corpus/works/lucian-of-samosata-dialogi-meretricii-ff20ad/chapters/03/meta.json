@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-dialogi-meretricii-ff20ad",
+  "work_title": "Dialogi meretricii",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "51238ce9-a106-5da9-9cdf-503dbd02bc6f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 437,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg069.perseus-grc3:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab73cb45-f0df-5eaa-be61-7e108aca8079",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 559,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg069.perseus-eng4:3"
+    }
+  ]
+}

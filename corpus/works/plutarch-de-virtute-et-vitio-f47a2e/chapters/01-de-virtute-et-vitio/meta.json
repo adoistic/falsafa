@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-virtute-et-vitio-f47a2e",
+  "work_title": "De virtute et vitio",
+  "chapter_number": 1,
+  "chapter_title": "De virtute et vitio",
+  "chapter_slug": "01-de-virtute-et-vitio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0d57e01d-7bb7-5929-b91a-2b704a594c91",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 664,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg075.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1034bce8-38ee-5370-ac48-f01763ade700",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 986,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg075.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-c-rabirio-perduellionis-reo--f334bc",
+  "work_title": "Pro C. Rabirio Perduellionis Reo Ad Quirites",
+  "chapter_number": 1,
+  "chapter_title": "Pro C. Rabirio Perduellionis Reo Ad Quirites",
+  "chapter_slug": "01-pro-c-rabirio-perduellionis-reo-ad-quirites",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2fd7d149-d084-51db-bd45-f32d75a901f8",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3537,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi012.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82dcc191-3588-51c5-9a32-bbc7088d5ad5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6534,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi012.perseus-eng3"
+    }
+  ]
+}

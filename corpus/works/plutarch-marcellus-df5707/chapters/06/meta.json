@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-marcellus-df5707",
+  "work_title": "Marcellus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "58f459b1-81b0-50d2-b76c-1d98db2b2a02",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 344,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg022.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "53d51329-2fe0-5bd2-bace-959083655fb9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 495,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg022.perseus-eng2:6"
+    }
+  ]
+}

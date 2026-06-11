@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 53
+chapter_title: "Chapter text=Q FR:book=2:letter=14"
+chapter_slug: 53
+variant_id: "f8b8f5b1-f379-5642-a461-98494c9dc25a"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 595
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:53"
+translator: Perseus Digital Library
+---
+
+TO HIS BROTHER QUINTUS (IN GAUL) ROME (JULY)
+
+Well! this time I'll use a good pen, well-mixed ink, and superfine paper. For you say you could hardly read my previous letter, for which, my dear brother, the reason was none of those which you suppose. For I was not busy, nor agitated, nor out of temper with some one: but it is always my way to take the first pen that turns up and use it as if it were a good one. But now attend, best and dearest of brothers, to my answer to what you wrote in this same short letter in such a very business-like way. On this subject you beg that I should write back to you with brotherly candour, without concealment, or reserve, or consideration for your feelings—I mean whether you are to hasten home, as we had talked of, or to stay where you are, if there is any excuse for doing so, in order to extricate yourself from your embarrassments. If, my dear Quintus, it were some small matter on which you were asking my opinion, though I should have left it to you to do what you chose, I should yet have shewn you what mine was. But on this subject your question amounts to this—what sort of year I expect the next to be? Either quite undisturbed as far as we are concerned, or at any rate one that will find us in the highest state of preparation for defence. This is shewn by the daily throng at my house, my reception in the forum, the cheers which greet me in the theatre. My friends feel no anxiety, because they know the strength of my position in my hold upon the favour both of Caesar and Pompey. These things give me entire confidence. But if some furious outbreak of that madman occurs, everything is ready for crushing him. This is my feeling, my deliberate opinion: I write to you with entire confidence. I bid you have no doubts, and I do so with no intention of pleasing you, but with brotherly frankness. Therefore, while I should wish you to come at the time you arranged, for the sake of the pleasure we should have in each other's society, yet I prefer the course you yourself think the better one. I, too, think these objects of great importance—ample means for yourself and extrication from your load of debt. Make up your mind to this, that, free from embarrassments, we should be the happiest people alive if we keep well. For men of our habits the deficiency is small, and such as can be supplied with the greatest ease, granted only that we keep our health. There is an enormous recrudescence of bribery. Never was there anything equal to it. On the 15th of July the rate of interest rose from four to eight per cent, owing to the compact made by Memmius with the consul Domitius: I wish Scaurus could get the better of it. Messalla is very shaky. I am not exaggerating—they arrange to offer as much as 10,000 sestertia for the vote of the first century. The matter is a burning scandal. The candidates for the tribuneship have made a mutual compact—having deposited 500 sestertia apiece with Cato, they agree to conduct their canvass according to his direction, with the understanding that anyone offending against it is to be condemned by him. If this election then turns out to be pure, Cato will have been of more avail than all laws and jurors put together.

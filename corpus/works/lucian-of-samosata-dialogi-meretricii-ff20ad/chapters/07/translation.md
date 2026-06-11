@@ -1,0 +1,73 @@
+---
+work_id: "ff20ad65-5bf7-54d1-9ac1-2aa42276c275"
+work_slug: "lucian-of-samosata-dialogi-meretricii-ff20ad"
+work_title: Dialogi meretricii
+author_name: Lucian of Samosata
+chapter_number: 7
+chapter_title: Book 9
+chapter_slug: 07
+variant_id: "90c12743-cbc9-50e1-b009-ff33090f3355"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 971
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg069.perseus-eng4:7"
+translator: Francis George Fowler
+---
+
+Doris Oh, miss, we are lost, lost! Here is Polemon back from the wars a rich man, they say. I saw him myself in a mantle with a purple border and a clasp, and a whole train of men at his back. His friends when they caught sight of him crowded round to get their greetings in. I made out in the train his man who went abroad with him. So I said How d’ye do, and then asked, ‘Do tell me, Parmenon, how you got on; have you made anything to repay you for all your fighting?”
+
+Pamphilus Ah, you should not have begun with that. Thanks to all the Gods you were not killed (you ought to have said), and most of all to Zeus who guards the stranger and Athene who rules the battle! My mistress was always trying to find out how you were doing and where you were. And if you had added that she was always weeping and talking of Polemon, that would have been still better.
+
+Doris Oh, I said all that right at the beginning; but I never thought of telling you that; I wanted to get on to the news. This was how I began to Parmenon: ‘Did you and your master’s ears burn, Parmenon?’ I said; ‘mistress was always talking of him and crying; and when any one came back from the last battle and reported that many had been killed, she would tear her hair and beat her breast, and grieve so every time!?
+
+Pamphilus Ah, that was right, Dorcas.
+
+Doris And then after a little while I went on to the other questions, And he said, ‘Oh, yes, we have come back great men.’
+
+Pamphilus What, straight off like that? never a word of how Polemon had talked or thought of me, or prayed he might find me alive?
+
+Doris Yes, he said a good deal of that. But his real news was enormous riches—gold, raiment, slaves, ivory. As for the money, they didn’t count it, but measured it by the bushel, and it took some time that way. On Parmenon’s own finger was a huge queer-shaped ring with one of those three-coloured stones, the outer part red. I left him when he wanted to give me the history of how they crossed the Halys and killed somebody called Tiridates, and how Polemon distinguished himself in the battle with the Pisidians. I ran off to tell you, and give you time to think. Suppose Polemon were to come—and you may be sure he will, as soon as he has got rid of his company— and find when he asked after you that Philostratus was here; what would he do?
+
+Pamphilus Oh, Dorcas, we must find some way out of it. It would be shabby to send Philostratus about his business so soon after having that talent from him; and he is a merchant, and if he keeps all his promises And on the other hand, it is a pity not to be at home to Polemon now he is come back such a great man; besides, he is so jealous; when he was poor, there was no getting on with him for it; and what will he be like now?
+
+Doris Here he comes.
+
+Pamphilus Oh, Dorcas, what am I to do? I shall faint; how I tremble!
+
+Doris Why, here is Philostratus too.
+
+Pamphilus Oh, what will become of me? oh that the earth would swallow me up!
+
+Philinna Well, my dear, where is that wine?
+
+Pamphilus (Now he has gone and done it!) Ah, Polemon, so you are back at last; are you well?
+
+Polemon Who is this person coming to you? What, no answer? Oh, mighty fine, Pannychis! Here have I come on the wings of love—the whole way from Thermopylae in five days; and all for a woman like this! But I deserve it; I ought to be grateful; I shall not be plundered any more, that is something.
+
+Philinna And who may you be, good sir?
+
+Polemon Polemon, deme Stiria, tribe Pandionis; will that do for you? late colonel, now general of division, and Pannychis’s lover, so long as he supposed a mere man was good enough for her.
+
+Philinna At present, however, sir free-lance, Pannychis is mine. She has had one talent, and will have another as soon as my cargoes are disposed of. Come along, Pannychis; the colonel can keep his colonelling for the Odrysians.
+
+Doris She is a free woman; it is for her to say whether she will come along or not.
+
+Pamphilus What shall I do, Dorcas?
+
+Doris Better go in; Polemon is too angry to talk to now, and a little jealousy will only whet his appetite.
+
+Pamphilus Well, if you think so, let us go in.
+
+Polemon I give you both fair warning that you drink your last drink to-day; I ought to know by this time how to part soul from body. Parmenon, the Thracians. Full armour, battle array, this alley blocked. Pikemen in the centre, slingers and archers on the flanks, and the remainder in the rear.
+
+Philinna You take us for babies, Mr. Mercenary, to judge from your appeal to our imaginations. Now I wonder whether you ever shed as much blood as runs in a cock’s veins, or ever looked on war; to stretch a point in your favour, I dare say you may have been corporal in charge of a bit of wall somewhere.
+
+Polemon You will know ere long, when you look upon our serried ranks of glittering steel.
+
+Philinna Oh, pack up your traps and come, by all means. I and my Tibius—I have only one man, you see—will scatter you so wide with a few stones and bricks that you shall never find one another again.
+
+Henry Watson Fowler

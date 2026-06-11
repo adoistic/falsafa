@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-divus-julius-442359",
+  "work_title": "Divus Julius",
+  "chapter_number": 77,
+  "chapter_title": "Chapter 77",
+  "chapter_slug": "77",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c8e450e3-67fe-5f6e-81af-b98d85a19d56",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 57,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo011.rolfe-lat1:77"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "428a2b21-1a72-51e3-80b2-afd6732c0577",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 100,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo011.rolfe-eng1:77"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-diogeiton-76c92e",
+  "work_title": "Against Diogeiton",
+  "chapter_number": 1,
+  "chapter_title": "Against Diogeiton",
+  "chapter_slug": "01-against-diogeiton",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2b606b21-f29c-5285-a91b-d63c116062bd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1696,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg032.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7fe128d-13db-56a7-808e-dd9a374ee61a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2440,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg032.perseus-eng2"
+    }
+  ]
+}

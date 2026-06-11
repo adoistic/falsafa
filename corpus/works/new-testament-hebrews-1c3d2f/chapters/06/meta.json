@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-hebrews-1c3d2f",
+  "work_title": "Hebrews",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "85ac6809-699f-5c75-a2c9-921a02711314",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 299,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg019.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9a45993-b2b4-5bbc-87b1-b83717f05be8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 429,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg019.perseus-eng2:6"
+    }
+  ]
+}

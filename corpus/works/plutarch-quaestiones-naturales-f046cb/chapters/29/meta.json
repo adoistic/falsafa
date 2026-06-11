@@ -1,0 +1,26 @@
+{
+  "work_slug": "plutarch-quaestiones-naturales-f046cb",
+  "work_title": "Quaestiones Naturales",
+  "chapter_number": 29,
+  "chapter_title": "Chapter 32",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78be6270-255d-52c6-805a-21064783b003",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 116,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg125.perseus-eng2:29"
+    }
+  ]
+}

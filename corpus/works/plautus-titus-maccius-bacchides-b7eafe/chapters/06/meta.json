@@ -1,0 +1,26 @@
+{
+  "work_slug": "plautus-titus-maccius-bacchides-b7eafe",
+  "work_title": "Bacchides",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd1beee0-fa74-5adb-b4d3-27ef39239d37",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7391,
+      "paragraph_count": 364,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi004.perseus-eng2:6"
+    }
+  ]
+}

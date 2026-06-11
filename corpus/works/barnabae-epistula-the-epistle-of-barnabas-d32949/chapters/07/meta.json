@@ -1,0 +1,38 @@
+{
+  "work_slug": "barnabae-epistula-the-epistle-of-barnabas-d32949",
+  "work_title": "The Epistle of Barnabas",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "21a0bff2-294c-5e18-aa56-e7dc107f9a8c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 426,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1216.tlg001.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f0a4086-bebd-52a8-beec-4ca170805462",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 582,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1216.tlg001.perseus-eng1:7"
+    }
+  ]
+}

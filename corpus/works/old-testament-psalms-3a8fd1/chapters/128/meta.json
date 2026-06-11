@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 128,
+  "chapter_title": "Chapter 129",
+  "chapter_slug": "128",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "702f9635-e590-5dcd-b003-f668a65dc62e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 84,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:128"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fdd2c5fb-265e-5b12-8374-800c4c2ef855",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 120,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:128"
+    }
+  ]
+}

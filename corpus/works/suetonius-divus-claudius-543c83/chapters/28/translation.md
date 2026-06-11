@@ -1,0 +1,21 @@
+---
+work_id: "543c83ed-8f5c-53fb-aaae-ef7d6d9cca25"
+work_slug: "suetonius-divus-claudius-543c83"
+work_title: Divus Claudius
+author_name: Suetonius
+chapter_number: 28
+chapter_title: Chapter 28
+chapter_slug: 28
+variant_id: "09d4d45c-7336-5815-a989-94b0862a1a42"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 221
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo015.perseus-eng2:28"
+translator: Perseus Digital Library
+---
+
+Amongst his freedmen, the greatest favourite was the eunuch Posides, whom, in his British triumph, he presented with the pointless spear, classing him among the military men. Next to him, if not equal, in favour was Felix, whom he not only preferred to commands both of cohorts and troops, but to the government of the province of Judea; and he became, in consequence of his elevation, the husband of three queens. Another favourite was Harpocras, to whom he granted the privilege of being carried in a litter within the city, and of holding public spectacles for the entertainment of the people. In this class was likewise Polybius, who assisted him in his studies, and had often the honour of walking between the two consuls. But above all others, Narcissus, his secretary, and Pallas, the comptroller of his accounts, were in high favour with him. He not only allowed them to receive, by decree of the senate, immense presents, but also to be decorated with the questorian and praetorian ensigns of honour. So much did he indulge them in amassing wealth, and plundering the public, that, upon his complaining, once, of the lowness of his exchequer, some one said, with great reason, that "It would be full enough, if those two freedmen of his would but take him into partnership with them."

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-clouds-d6b0b8",
+  "work_title": "Clouds",
+  "chapter_number": 1,
+  "chapter_title": "Clouds",
+  "chapter_slug": "01-clouds",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d62a165-573b-5f11-8977-0ffc99502f0e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10412,
+      "paragraph_count": 1657,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "701b5344-6a0e-5ecf-8312-31aa5e901e3a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15406,
+      "paragraph_count": 752,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2"
+    }
+  ]
+}

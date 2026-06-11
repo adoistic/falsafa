@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 143
+chapter_title: "Chapter text=A:book=7:letter=18"
+chapter_slug: 143
+variant_id: "d82ed2e1-3603-5ad9-a6b8-d8a6686be01c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 558
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:143"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) FORMIAE, 3 FEBRUARY
+
+On the 2nd of February our ladies came to Formiae and reported to me your services to them replete with the most affectionate kindness. I wished them, till we knew whether we were to have a dishonourable peace or an unhappy war, to remain in my Formian villa, and our two boys with them. I myself, with my brother, am starting for Capua on the 3rd of February, on which I despatch this letter, to join the consuls, having been ordered to be there on the 5th. Pompey's answer is said to be popular and to have received the approbation of a public meeting. I thought that would be the ease. If Caesar refuses to accept that he will be entirely discredited: if he accepts it! "Which, then, do you prefer?" you will say. I would have answered the question if I knew what our state of preparation was. It is reported here that Cassius has been driven from Ancona, and that city occupied by our men. If there is to be war, that will be an advantage. As for Caesar himself; say that, though he sent L. Caesar with a message as to making peace, he continues holding levies with the greatest activity, occupying posts, securing them with garrisons. What an unprincipled bandit! What a disgrace to the Republic, hardly to be outweighed by any relief from war! But let us cease anger, bow to circumstances, and accompany Pompey to Spain. It is the best of a bad job, since we failed to avert that man's second consulship from the state, even when we had the opportunity. But enough of this. I forgot to write to you about Dionysius before; but I have come to the conclusion to wait till Caesar's answer is known, so that, if I return to the city, he should await me there, but, if there is any delay, I should summon him to join me. Of course I know what his duty will be in case I have to fly, and what will be the conduct becoming a man of learning and a friend: but I don't expect too much in this way from Greeks. However, if; as I hope will not be the case, I have to send for him, pray see that I am not troubling an unwilling man. Quintus is anxious to pay you his debt by drawing on Egnatius, and Egnatius is neither unwilling nor short of cash; but when the state of things is such that Quintus Titinius —of whom we are seeing a good deal-declares that he has no money for personal expenses, and has yet announced to his debtors that they may go on with the same interest, and when L Ligur is said to have done the same, and when Quintus at this crisis has no cash in hand, and is neither able to get any from Egnatius nor to raise a new loan, he is surprised that you do not take into consideration this general tightness of the money market. For my part, though I obey the pseudo-Hesiodic maxim, "Judge not," etc., especially in the case of yourself; whom I have never seen to act unreasonably, yet I am affected by his tale of woe. Whatever this amounts to, I thought you ought to know it.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-miles-gloriosus-b33b56",
+  "work_title": "Miles Gloriosus",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "03",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "08abc714-624a-56a3-aa98-cf5d3a967116",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2980,
+      "paragraph_count": 299,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi012.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15460aa0-326d-5db2-8c65-1e7617a95212",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7649,
+      "paragraph_count": 378,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi012.perseus-eng2:3"
+    }
+  ]
+}

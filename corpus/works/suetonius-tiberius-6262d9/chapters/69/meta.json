@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-tiberius-6262d9",
+  "work_title": "Tiberius",
+  "chapter_number": 69,
+  "chapter_title": "Chapter 70",
+  "chapter_slug": "69",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a471e132-a0dd-5a45-b8f0-5793256ad6ee",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo013.perseus-lat2:69"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ba1b356-8d2a-5472-be15-80057de9e87a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 263,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo013.perseus-eng2:69"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-recta-ratione-audiendi-b9f06a",
+  "work_title": "De recta ratione audiendi",
+  "chapter_number": 1,
+  "chapter_title": "De recta ratione audiendi",
+  "chapter_slug": "01-de-recta-ratione-audiendi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eab5f0c1-96f9-514c-86db-4a9ca486096b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5114,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg069.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1a13867-299a-5652-86ff-66183f54bf9c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7490,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg069.perseus-eng4"
+    }
+  ]
+}

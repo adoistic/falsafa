@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-nahum-8db971",
+  "work_title": "Nahum",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fc6ee15f-59d0-5f31-9116-c9b93669da06",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 412,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg042.1st1K-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07922dee-ac62-520d-bb86-a40257514907",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 374,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg042.perseus-eng2:1"
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+[
+  {
+    "id": "p-6c154d",
+    "offset": 0,
+    "text": "(Enter PSEUDOLUS, from the house of SIMO.)"
+  },
+  {
+    "id": "p-a36681",
+    "offset": 44,
+    "text": "PSEUDOLUS:\nO Jupiter, whatever I undertake, how cleverly and how fortunately does it befal me."
+  },
+  {
+    "id": "p-e02ce6",
+    "offset": 140,
+    "text": "Not any plan is there stored up in my breast that I can hesitate upon or be afraid of. But it is folly to entrust a bold exploit to a timorous heart; for all things are just as you make them, so as you make them of importance. Now in my breast have I already so prepared my forces— double, aye, threefold stratagems, that when I engage with the enemy, relying upon the merits, I say, of my forefathers, and on my own industry and tricking propensity for mischief, I may easily conquer, and easily spoil my antagonists by my contrivances."
+  },
+  {
+    "id": "p-85f016",
+    "offset": 679,
+    "text": "Now will I adroitly batter down this Ballio, the common foe of me and all of you; only lend me your attention. Now will I forthwith draw out my legions against this old town. If I take it, I shall make it a pleasant matter for the citizens: I’ll load and fill myself, and my allies as well, with booty from it. I shall strike terror and fright into my enemies, so that they may know of what race I was born."
+  },
+  {
+    "id": "p-496365",
+    "offset": 1088,
+    "text": "Great exploits it befits me to perform, which long after may bespeak fame for me. But whom do I see here? Who’s this low fellow that’s presented before my eyes? I should like to know why he’s come here with his sword: I’ troth, now then I’ll lie here in ambush for him, to see the business that he’s about.\n(Retires to a distance.)"
+  },
+  {
+    "id": "p-9f0ecd",
+    "offset": 1421,
+    "text": "(Enter HARPAX, with a bay in his hand.)"
+  },
+  {
+    "id": "p-452386",
+    "offset": 1462,
+    "text": "HARPAX:\nThis is the place, and this the spot, which was pointed out to me by my master, according as I form a judgment from my eyesight. For my master, the Captain, told me to this effect, that the house was the seventh from the gate, in which lives the person to whom he requested me to carry the token and this silver * * * * * I could vastly wish that some one would inform me where this Ballio, the procurer, lives.\n(Looks from side to side.)"
+  },
+  {
+    "id": "p-690299",
+    "offset": 1910,
+    "text": "PSEUDOLUS:\n(apart.)\nHist! Silence! This man is mine, unless all Gods and men forsake me. Now have I need of a new plan; this new scheme is suddenly presented to me. This I prefer to my former one; that I shall dismiss, which, before, I had commenced to carry into effect. By my troth, I’ll then work this military messenger that’s just arrived."
+  },
+  {
+    "id": "p-7e1086",
+    "offset": 2256,
+    "text": "HARPAX:\nI’ll knock at the door, and call some one out of doors from within.\n(Goes towards the door of BALLIO’S house.)"
+  },
+  {
+    "id": "p-1e04de",
+    "offset": 2376,
+    "text": "PSEUDOLUS:\n(coming up to him.)\nWhoever you are, I wish you to spare your knocking; for I’ve just come out of doors, I, the spokesman and the defender of the door."
+  },
+  {
+    "id": "p-9ec7f6",
+    "offset": 2540,
+    "text": "HARPAX:\nAre you Ballio?"
+  },
+  {
+    "id": "p-e75d91",
+    "offset": 2565,
+    "text": "PSEUDOLUS:\nWhy, no; but I’m the deputy-Ballio."
+  },
+  {
+    "id": "p-e054fc",
+    "offset": 2613,
+    "text": "HARPAX:\nWhat means that expression?"
+  },
+  {
+    "id": "p-783a2a",
+    "offset": 2650,
+    "text": "PSEUDOLUS:\nI’m his butler-steward; the caterer for his larder."
+  },
+  {
+    "id": "p-5fb83d",
+    "offset": 2714,
+    "text": "HARPAX:\nAs though you were to say, you are his chamberlain."
+  },
+  {
+    "id": "p-0b1ee9",
+    "offset": 2775,
+    "text": "PSEUDOLUS:\nNo; I’m above his chamberlain."
+  },
+  {
+    "id": "p-073e7c",
+    "offset": 2818,
+    "text": "HARPAX:\nWhat are you, slave or free man?"
+  },
+  {
+    "id": "p-af9f2e",
+    "offset": 2860,
+    "text": "PSEUDOLUS:\nWhy, at present, I’m still a slave."
+  },
+  {
+    "id": "p-afad5a",
+    "offset": 2908,
+    "text": "HARPAX:\nSo you seem to be; and you don’t look to be one worthy to be free."
+  },
+  {
+    "id": "p-3b4fe2",
+    "offset": 2984,
+    "text": "PSEUDOLUS:\nAin’t you in the habit of looking at yourself when you abuse another person?"
+  },
+  {
+    "id": "p-90d6cd",
+    "offset": 3073,
+    "text": "HARPAX:\n(aside.)\nThis must be a roguish fellow."
+  },
+  {
+    "id": "p-0e9510",
+    "offset": 3122,
+    "text": "PSEUDOLUS:\n(aside.)\nThe Gods protect and favour me! for this is my anvil: this day will I hammer out thence full many a device."
+  },
+  {
+    "id": "p-e8c142",
+    "offset": 3251,
+    "text": "HARPAX:\nWhy is he talking to himself alone?"
+  },
+  {
+    "id": "p-483631",
+    "offset": 3296,
+    "text": "PSEUDOLUS:\nHow say you, young man—?"
+  },
+  {
+    "id": "p-c13108",
+    "offset": 3333,
+    "text": "HARPAX:\nWhat is it?"
+  },
+  {
+    "id": "p-4ed365",
+    "offset": 3354,
+    "text": "PSEUDOLUS:\nAre you, or are you not, from that Captain of Macedonia? The servant of him, II mean, who bought a damsel of us here, who gave fifteen silver minae to the procurer, my master, and is still owing five?"
+  },
+  {
+    "id": "p-f466b2",
+    "offset": 3567,
+    "text": "HARPAX:\nI am. But where in the world have you ever known me, or have ever seen or spoken to me? For in fact, before this day, I never was at Athens, nor did I ever before this day behold you with my eyes * * * * * * * * * *"
+  },
+  {
+    "id": "p-18c5b7",
+    "offset": 3792,
+    "text": "PSEUDOLUS:\nBecause you seem likely to be from him; for at the time when he went away, this was the day appointed for the money, on which he was to pay it to us, and he has not brought it as yet."
+  },
+  {
+    "id": "p-c9e977",
+    "offset": 3988,
+    "text": "HARPAX:\nYes, here it is.\n(Holding up the bag.)"
+  },
+  {
+    "id": "p-60ee93",
+    "offset": 4036,
+    "text": "PSEUDOLUS:\nWhat?—have you brought it?"
+  },
+  {
+    "id": "p-502437",
+    "offset": 4075,
+    "text": "HARPAX:\nI, myself."
+  },
+  {
+    "id": "p-051220",
+    "offset": 4095,
+    "text": "PSEUDOLUS:\nDo you at all hesitate to give it me?"
+  },
+  {
+    "id": "p-41ce92",
+    "offset": 4145,
+    "text": "HARPAX:\nI, give it you?"
+  },
+  {
+    "id": "p-92ed7b",
+    "offset": 4170,
+    "text": "PSEUDOLUS:\nAye, faith, to me, who manage the business and the accounts of my master Ballio, receive his money, and pay it to him to whom he owes it."
+  },
+  {
+    "id": "p-280759",
+    "offset": 4320,
+    "text": "HARPAX:\nBy my troth, if you were even the keeper of the treasures of supreme Jove, I would never entrust a groat of silver to you."
+  },
+  {
+    "id": "p-c217a6",
+    "offset": 4452,
+    "text": "PSEUDOLUS:\n(pointing.)\nWhile you’ve been making yourself so big, the money has become loose."
+  },
+  {
+    "id": "p-a0fba1",
+    "offset": 4546,
+    "text": "HARPAX:\nI’ll keep it the rather tied up—this way.\n(Ties the mouth of the bag.)"
+  },
+  {
+    "id": "p-530b6d",
+    "offset": 4626,
+    "text": "PSEUDOLUS:\nWoe to you! You indeed have been found to doubt my honor. As though innumerable times as much are not in the habit of being entrusted to me alone."
+  },
+  {
+    "id": "p-d7bb80",
+    "offset": 4785,
+    "text": "HARPAX:\nIt’s possible that others may think so, and that I mayn’t trust you."
+  },
+  {
+    "id": "p-dc15d1",
+    "offset": 4863,
+    "text": "PSEUDOLUS:\nAs though you meant to say that I wished to chouse you out of the money."
+  },
+  {
+    "id": "p-976586",
+    "offset": 4948,
+    "text": "HARPAX:\nWhy, yes; as though you meant to say so; and as though I, on the other hand, meant to suspect it. But what’s your name?"
+  },
+  {
+    "id": "p-eb7445",
+    "offset": 5077,
+    "text": "PSEUDOLUS:\n(aside.)\nThis procurer has a servant of the name of Syrus; I’ll say that I am he. I am Syrus."
+  },
+  {
+    "id": "p-18c082",
+    "offset": 5183,
+    "text": "HARPAX:\nSyrus?"
+  },
+  {
+    "id": "p-6f5c1f",
+    "offset": 5199,
+    "text": "PSEUDOLUS:\nThat’s my name."
+  },
+  {
+    "id": "p-668baa",
+    "offset": 5227,
+    "text": "HARPAX:\nWe are making many words. If your master’s at home, why don’t you call him out, that I may transact that for which I was sent here, whatever be your name?"
+  },
+  {
+    "id": "p-8db01f",
+    "offset": 5391,
+    "text": "PSEUDOLUS:\nIf he were within I would call him out. But if you choose to give it me, it will be more truly paid than if you were to give it to himself."
+  },
+  {
+    "id": "p-5aa93e",
+    "offset": 5543,
+    "text": "HARPAX:\nBut now do you know how it is? My master has sent me to pay this, not to lose it. But I know, to a certainty, that you are in a fever now, because you cannot lay your claws upon it. I shall entrust the money to no person except to Ballio himself."
+  },
+  {
+    "id": "p-6eee81",
+    "offset": 5799,
+    "text": "PSEUDOLUS:\nBut at present he’s full of business: a cause of his is being tried before the judge."
+  },
+  {
+    "id": "p-d6904e",
+    "offset": 5897,
+    "text": "HARPAX:\nMay the Gods prosper it! And I, when I shall think that he’s at home, will come again. Do you take this letter from me, and give it him: for in it is the token agreed upon between your master and mine about the damsel."
+  },
+  {
+    "id": "p-3531f2",
+    "offset": 6125,
+    "text": "PSEUDOLUS:\nFor my part, I understand it; the person who should bring the money and the impress of his likeness hither to us, with him he said he wished the damsel to be sent; for he left a specimen of it here as well."
+  },
+  {
+    "id": "p-94913e",
+    "offset": 6344,
+    "text": "HARPAX:\nYou understand the whole affair?"
+  },
+  {
+    "id": "p-267907",
+    "offset": 6386,
+    "text": "PSEUDOLUS:\nWhy should I not understand it?"
+  },
+  {
+    "id": "p-3c9db3",
+    "offset": 6430,
+    "text": "HARPAX:\nGive him this token then.\n(Gives the letter and token.)"
+  },
+  {
+    "id": "p-b9b033",
+    "offset": 6495,
+    "text": "PSEUDOLUS:\nVery well. But what’s your name?"
+  },
+  {
+    "id": "p-79af85",
+    "offset": 6540,
+    "text": "HARPAX:\nHarpax."
+  },
+  {
+    "id": "p-ddc655",
+    "offset": 6557,
+    "text": "PSEUDOLUS:\nGet along with you, Harpax, I like you not. By my troth, you really shan’t enter this house, lest you should be doing something in the harpy line."
+  },
+  {
+    "id": "p-e5e91c",
+    "offset": 6716,
+    "text": "HARPAX:\nI am wont to carry off my enemies alive from the battle-field; from that circumrstance is my name."
+  },
+  {
+    "id": "p-8f9c53",
+    "offset": 6824,
+    "text": "PSEUDOLUS:\nI’ faith, I think that you are much more likely to carry off the brass pots from a house."
+  },
+  {
+    "id": "p-ec426a",
+    "offset": 6926,
+    "text": "HARPAX:\nSuch is not the fact. But, Syrus, do you know what I request of you?"
+  },
+  {
+    "id": "p-0d24bb",
+    "offset": 7004,
+    "text": "PSEUDOLUS:\nI shall know, if you tell me."
+  },
+  {
+    "id": "p-33f09b",
+    "offset": 7046,
+    "text": "HARPAX:\nI shall put up outside of the gate here, at the third shop, at the house of that tun-bellied, limping, fat old woman, Chrysis."
+  },
+  {
+    "id": "p-018c40",
+    "offset": 7182,
+    "text": "PSEUDOLUS:\nWhat do you wish then?"
+  },
+  {
+    "id": "p-d94632",
+    "offset": 7217,
+    "text": "HARPAX:\nThat you’ll fetch me thence when your master comes."
+  },
+  {
+    "id": "p-231d2b",
+    "offset": 7278,
+    "text": "PSEUDOLUS:\nAt your pleasure; by all means."
+  },
+  {
+    "id": "p-1a63a5",
+    "offset": 7322,
+    "text": "HARPAX:\nFor, as I’ve come wearied off my journey, I wish to refresh myself."
+  },
+  {
+    "id": "p-4036de",
+    "offset": 7399,
+    "text": "PSEUDOLUS:\nYou are very wise, and your plan is agreable to me. But take care, please, that you are not out of the way when I send for you."
+  },
+  {
+    "id": "p-6c2228",
+    "offset": 7539,
+    "text": "HARPAX:\nWhy, when I’ve dined, I shall indulge myself with a nap."
+  },
+  {
+    "id": "p-e93d8b",
+    "offset": 7605,
+    "text": "PSEUDOLUS:\nI quite agree with you."
+  },
+  {
+    "id": "p-9d0cc1",
+    "offset": 7641,
+    "text": "HARPAX:\nDo you wish aught else?"
+  },
+  {
+    "id": "p-d8b4ad",
+    "offset": 7674,
+    "text": "PSEUDOLUS:\nThat you’ll be off to take your nap."
+  },
+  {
+    "id": "p-5d0f54",
+    "offset": 7723,
+    "text": "HARPAX:\nI’m off."
+  },
+  {
+    "id": "p-f47ee3",
+    "offset": 7741,
+    "text": "PSEUDOLUS:\nAnd, do you hear, Harpax? Order yourself to be covered up, please; you’ll receive the benefit if you take a good sweat.\n(Exit HARPAX.)"
+  },
+  {
+    "id": "p-50cbef",
+    "offset": 7888,
+    "text": "(PSEUDOLUS, alone.)"
+  },
+  {
+    "id": "p-4a72e1",
+    "offset": 7909,
+    "text": "PSEUDOLUS:\nImmortal Gods! this man has preserved me by his coming. By his supply for my journey he has brought me from my wanderings quite into the right way. For the Goddess Opportunity herself could not come to me more opportunely, than has this letter in this opportune manner been brought to me. For this has been brought as a horn of plenty, in which there is whatever I wish for: here are my wiles, here all my tricks, here my stratagems, here my money, here his mistress for my master’s son so much in love. And now how vaunting shall I show myself; how, with a breast so fertile in expedients,"
+  },
+  {
+    "id": "p-86c53a",
+    "offset": 8512,
+    "text": "I was to do each thing, how, to steal away the damsel from the procurer, I had all my plans arranged in order in my mind as I desired, fixed, planned out. But, no doubt, thus will it come to pass: this Goddess Fortune, unaided, prevails over the designs of a hundred armed men. And this is the fact, just as each person uses his fortune, so does he surpass others, and forthwith we all pronounce him wise. When we learn that the counsels of any person have turned out well, we declare that he is a prudent man; but that he is a fool who is unsuccessful. In our folly we know not how much we are mistaken, when we eagerly wish anything to be given to us; as though we ourselves could possibly know what is for our advantage."
+  },
+  {
+    "id": "p-babae4",
+    "offset": 9237,
+    "text": "We lose what is certain, while we are seeking what is uncertain. And this comes to pass, amid labours and amid sorrow, that death meanwhile comes creeping on. But there’s enough now of philosophizing; I have been talking too long, and at too great length. Immortal Gods! my lie was not dear at its weight in double-distilled gold, which I just now trumped up here on the spur of the moment, when I said that I belonged to the procurer. Now, through this letter shall I deceive three persons—my master, and the procurer, and him who gave me this letter. Excellent! another thing as well has happened, that I wished for: see, Calidorus is coming; he is bringing some one with him, I know not whom.\n(Stands apart.)"
+  },
+  {
+    "id": "p-22ab60",
+    "offset": 9950,
+    "text": "(Enter CALIDORUS and CHARINUS.)"
+  },
+  {
+    "id": "p-9586e9",
+    "offset": 9983,
+    "text": "CALIDORUS:\nThe sweets and the bitters, all have I disclosed to you. You know my love, you know my difficulty, you know my poverty."
+  },
+  {
+    "id": "p-e9a77e",
+    "offset": 10115,
+    "text": "CHARINUS:\nI well remember all; do you only let me know what you want me to do."
+  },
+  {
+    "id": "p-dc3666",
+    "offset": 10195,
+    "text": "CALIDORUS:\nPseudolus has directed me thus, that I should bring to him some bold and zealous person."
+  },
+  {
+    "id": "p-b51c5f",
+    "offset": 10296,
+    "text": "CHARINUS:\nYou observe your directions well; for you bring him one both friendly and zealous. But this Pseudolus is a stranger to me."
+  },
+  {
+    "id": "p-87c5a2",
+    "offset": 10430,
+    "text": "CALIDORUS:\nHe is a very clever fellow—he is my contriver. He said that he would effect those things for me that I have told you of."
+  },
+  {
+    "id": "p-526da5",
+    "offset": 10563,
+    "text": "PSEUDOLUS:\n(apart.)\nI’ll address this person in a very lofty strain."
+  },
+  {
+    "id": "p-ba0f6b",
+    "offset": 10633,
+    "text": "CALIDORUS:\nWhose voice is it that’s heard here?"
+  },
+  {
+    "id": "p-67c846",
+    "offset": 10682,
+    "text": "PSEUDOLUS:\nOh! thee, sovereign lord, thee, oh! thee do I address who dost rule over Pseudolus: thee do I seek, to impart to thee delights thrice three, threefold, acquired by three contrivances, obtained over three persons through craftiness and through subtlety, which in this very little sealed packet I have brought unto you.\n(Holds up the letter.)"
+  },
+  {
+    "id": "p-ea0456",
+    "offset": 11035,
+    "text": "CALIDORUS:\nThat’s the fellow;"
+  },
+  {
+    "id": "p-a5ee42",
+    "offset": 11066,
+    "text": "how the hang-dog does bluster just like a tragedian."
+  },
+  {
+    "id": "p-ec0276",
+    "offset": 11120,
+    "text": "PSEUDOLUS:\nAdvance a step on thy side towards me. Boldly stretch forth thine arm for greeting."
+  },
+  {
+    "id": "p-d17ec8",
+    "offset": 11216,
+    "text": "CALIDORUS:\n(taking his hand.)\nTell me, Pseudolus, whether, as Hope or as Safety, must I greet you?"
+  },
+  {
+    "id": "p-e40392",
+    "offset": 11316,
+    "text": "PSEUDOLUS:\nWhy both."
+  },
+  {
+    "id": "p-427476",
+    "offset": 11338,
+    "text": "CALIDORUS:\nAs both I greet you. But what has been done?"
+  },
+  {
+    "id": "p-25b801",
+    "offset": 11395,
+    "text": "Why are you silent?"
+  },
+  {
+    "id": "p-bac339",
+    "offset": 11416,
+    "text": "I have carried this person here.\n(Pointing to CHARINUS.)"
+  },
+  {
+    "id": "p-db73e2",
+    "offset": 11474,
+    "text": "PSEUDOLUS:\nHow? Carried him here?"
+  },
+  {
+    "id": "p-d57af1",
+    "offset": 11509,
+    "text": "CALIDORUS:\nBrought, I meant to say."
+  },
+  {
+    "id": "p-ffd893",
+    "offset": 11546,
+    "text": "PSEUDOLUS:\nWho’s this person?"
+  },
+  {
+    "id": "p-96d232",
+    "offset": 11577,
+    "text": "CALIDORUS:\nCharinus."
+  },
+  {
+    "id": "p-dc1b37",
+    "offset": 11599,
+    "text": "PSEUDOLUS:\nWell done; I return him thanks then."
+  },
+  {
+    "id": "p-af632c",
+    "offset": 11648,
+    "text": "CHARINUS:\nWill you then boldly enjoin me what it is necessary to do?"
+  },
+  {
+    "id": "p-b8ace3",
+    "offset": 11718,
+    "text": "PSEUDOLUS:\nMy thanks, so far. May it be well with you, Charinus; I don’t like that we should be troublesome to you."
+  },
+  {
+    "id": "p-467fa6",
+    "offset": 11835,
+    "text": "CHARINUS:\nYou, troublesome to me? Now, really, that’s troublesome."
+  },
+  {
+    "id": "p-9e15b9",
+    "offset": 11903,
+    "text": "PSEUDOLUS:\nWell, then, wait a moment.\n(Takes the letter out from under his dress.)"
+  },
+  {
+    "id": "p-f44fb2",
+    "offset": 11987,
+    "text": "CALIDORUS:\nWhat’s that?"
+  },
+  {
+    "id": "p-d43499",
+    "offset": 12012,
+    "text": "PSEUDOLUS:\nThis letter have I just now intercepted, and the token."
+  },
+  {
+    "id": "p-622595",
+    "offset": 12080,
+    "text": "CALIDORUS:\nToken? What token?"
+  },
+  {
+    "id": "p-c9ec20",
+    "offset": 12111,
+    "text": "PSEUDOLUS:\nThe one that was brought just now from the Captain. His servant, who was bringing it, with five mineae of silver, who came to fetch your mistress hence, him I have just now bamboozled."
+  },
+  {
+    "id": "p-3ac55c",
+    "offset": 12308,
+    "text": "CALIDORUS:\nHow so?"
+  },
+  {
+    "id": "p-011e38",
+    "offset": 12328,
+    "text": "PSEUDOLUS:\nFor the sake of these Spectators the play is being performed; they know, who were present here; you I’ll tell at another time."
+  },
+  {
+    "id": "p-a69c5b",
+    "offset": 12467,
+    "text": "CALIDORUS:\nWhat are we to do then?"
+  },
+  {
+    "id": "p-1848a7",
+    "offset": 12503,
+    "text": "PSEUDOLUS:\nYou shall this day embrace your mistress at liberty."
+  },
+  {
+    "id": "p-88e67f",
+    "offset": 12568,
+    "text": "CALIDORUS:\nWhat, I?"
+  },
+  {
+    "id": "p-abebc7",
+    "offset": 12589,
+    "text": "PSEUDOLUS:\nYou yourself."
+  },
+  {
+    "id": "p-9934a0",
+    "offset": 12615,
+    "text": "CALIDORUS:\nI?"
+  },
+  {
+    "id": "p-2b562d",
+    "offset": 12630,
+    "text": "PSEUDOLUS:\nYour own self, I say, if indeed this head shall exist so long; if you’ll only quickly find me out a man."
+  },
+  {
+    "id": "p-3a822c",
+    "offset": 12747,
+    "text": "CHARINUS:\nOf what description?"
+  },
+  {
+    "id": "p-4d9046",
+    "offset": 12779,
+    "text": "PSEUDOLUS:\nA cunning, crafty and clever one, who, when he has once taken hold of the beginning, may by his own ingenuity still hold fast upon what it behoves him to do; one, too, who has not often been seen here."
+  },
+  {
+    "id": "p-2d01a1",
+    "offset": 12993,
+    "text": "CHARINUS:\nIf he is a slave, does that matter at all?"
+  },
+  {
+    "id": "p-78cd21",
+    "offset": 13047,
+    "text": "PSEUDOLUS:\nWhy, I’d much rather have him than a free man."
+  },
+  {
+    "id": "p-d2de29",
+    "offset": 13106,
+    "text": "CHARINUS:\nI think that I’m able to procure for you a cunning and clever fellow, that has lately come to my father from Carystus, and hasn’t as yet gone anywhere out the house, and who never visited Athens before yesterday."
+  },
+  {
+    "id": "p-af6968",
+    "offset": 13330,
+    "text": "PSEUDOLUS:\nYou assist in right earnest. But I have need to borrow five minae of silver, which I shall repay this day, for his father (pointing to CALIDORUS) owes it me."
+  },
+  {
+    "id": "p-2e5f26",
+    "offset": 13500,
+    "text": "CHARINUS:\nI’ll lend it; don’t seek it anywhere else."
+  },
+  {
+    "id": "p-a72efe",
+    "offset": 13554,
+    "text": "PSEUDOLUS:\nO, how convenient a person for me."
+  },
+  {
+    "id": "p-0e0363",
+    "offset": 13601,
+    "text": "I have need of a scarf as well, a sword, and a broad-brimmed hat."
+  },
+  {
+    "id": "p-64864e",
+    "offset": 13668,
+    "text": "CHARINUS:\nI can provide them from my house."
+  },
+  {
+    "id": "p-355a1a",
+    "offset": 13713,
+    "text": "PSEUDOLUS:\nImmortal Gods! surely this is not Charinus for me, but Abundance. But this servant, who is come here from Carystus, is there anything in him?"
+  },
+  {
+    "id": "p-03bb9e",
+    "offset": 13867,
+    "text": "CHARINUS:\nPlenty of the stinking goat in him."
+  },
+  {
+    "id": "p-eec150",
+    "offset": 13914,
+    "text": "PSEUDOLUS:\nIt befits the fellow, then, to have a tunic with long sleeves Has the chap anything sharp in his breast?"
+  },
+  {
+    "id": "p-80b81e",
+    "offset": 14031,
+    "text": "CHARINUS:\nAye, of the very sharpest."
+  },
+  {
+    "id": "p-bac4f9",
+    "offset": 14069,
+    "text": "PSEUDOLUS:\nBut if it is necessary for him to draw forth what is sweet from the same place, has he aught of that?"
+  },
+  {
+    "id": "p-faeab2",
+    "offset": 14183,
+    "text": "CHARINUS:\nDo you ask that He has wine of myrrh, sweet raisin wine, spice wine honey wine, sweets of every sort. Why, he once began to set up a hot liquor-shop in his breast."
+  },
+  {
+    "id": "p-e160f8",
+    "offset": 14358,
+    "text": "PSEUDOLUS:\nBravissimo! Why, Charinus, you beat me cleverly at my own game. But what am I to say is the name of this servant?"
+  },
+  {
+    "id": "p-e2f16f",
+    "offset": 14484,
+    "text": "CHARINUS:\nSimmia."
+  },
+  {
+    "id": "p-815252",
+    "offset": 14503,
+    "text": "PSEUDOLUS:\nIn a difficulty, does he understand how to twirl about?"
+  },
+  {
+    "id": "p-502c91",
+    "offset": 14571,
+    "text": "CHARINUS:\nA whirlwind is not so ready as he."
+  },
+  {
+    "id": "p-b5d22b",
+    "offset": 14617,
+    "text": "PSEUDOLUS:\nIs he shrewd at all?"
+  },
+  {
+    "id": "p-ee2389",
+    "offset": 14650,
+    "text": "CHARINUS:\nIn mischievous tricks very often."
+  },
+  {
+    "id": "p-c3fb25",
+    "offset": 14695,
+    "text": "PSEUDOLUS:\nHow, when he’s caught in the fact?"
+  },
+  {
+    "id": "p-6d635c",
+    "offset": 14742,
+    "text": "CHARINUS:\nHe’s a very eel; he slips out."
+  },
+  {
+    "id": "p-c6fcd6",
+    "offset": 14784,
+    "text": "PSEUDOLUS:\nIs this fellow an experienced one?"
+  },
+  {
+    "id": "p-32d65f",
+    "offset": 14831,
+    "text": "CHARINUS:\nA public ordinance is not more experienced."
+  },
+  {
+    "id": "p-374267",
+    "offset": 14886,
+    "text": "PSEUDOLUS:\nHe is a suitable person, according to what I hear you say."
+  },
+  {
+    "id": "p-a8cabb",
+    "offset": 14957,
+    "text": "CHARINUS:\nAye, and from this you may know it."
+  },
+  {
+    "id": "p-a82202",
+    "offset": 15004,
+    "text": "When he looks at you he’ll tell, of his own accord, what it is you want with him. But what are you about to do?"
+  },
+  {
+    "id": "p-969a14",
+    "offset": 15117,
+    "text": "PSEUDOLUS:\nI’ll tell you. When I’ve dressed up my man, I intend to make him become the pretended servant of the Captain; let him take this token to the procurer, with five minae of silver. There’s the whole plot for you."
+  },
+  {
+    "id": "p-e94db0",
+    "offset": 15339,
+    "text": "As for the rest, in what way he is to do each thing, I’ll instruct himself."
+  },
+  {
+    "id": "p-f87176",
+    "offset": 15416,
+    "text": "CALIDORUS:\nWhy, therefore, do we stand here then?"
+  },
+  {
+    "id": "p-b7d54e",
+    "offset": 15467,
+    "text": "PSEUDOLUS:\nBring the fellow to me just now, dressed out with all his accoutrements, to Aeschinus, the banker’s. But make all haste."
+  },
+  {
+    "id": "p-40457c",
+    "offset": 15600,
+    "text": "CALIDORUS:\nWe’ll be there before you."
+  },
+  {
+    "id": "p-bcb21e",
+    "offset": 15639,
+    "text": "PSEUDOLUS:\nGet you gone there quickly. (CALIDORUS and CHARINUS go into SIMO’S house.) Whatever before was uncertain or doubtful in my mind, is now clear-now fined to the dregs; my heart has now an open path. All my legions will I lead forth under their standards with happy omen with favorable auspices, and to my heart’s content. I have a certainty that I can rout my enemies. Now will I go to the Forum, and load Simmia with my instructions what he is to do, that he may not be tripping at all, and that he may cleverly lay the train for this plot. Soon now shall I cause the town of this procurer to be carried by storm.\n(Exit.)"
+  }
+]

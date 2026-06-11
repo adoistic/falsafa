@@ -1,0 +1,27 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 95
+chapter_title: Chapter 13
+chapter_slug: 95
+variant_id: "f5659357-3dad-537a-890a-d26b84af3a5e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 581
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:95"
+translator: Perseus Digital Library
+---
+
+The next question is about honors. And to this point I perceive that I must speak next. But I will preserve the same order in paying respect to brave men, that is usually preserved in asking their opinions.
+
+Let us, therefore, according to the usages of our ancestors, begin with Brutus, the consul elect; and, to say nothing of his former conduct,—which has indeed been most admirable, but still such as has been praised by the individual judgments of men, rather than by public authority,—what words can we find adequate to his praise at this very time? For such great virtue requires no reward except this one of praise and glory; and even if it were not to receive that, still it would be content with itself, and would rejoice at being laid up in the recollection of grateful citizens, as if it were placed in the full light. The praise then of our deliberate opinion, and of our testimony in his favor, must be given to Brutus. Therefore, O conscript fathers, I give my vote that a resolution of the senate be passed a these words:
+
+“As Decimus Brutus, imperator, consul elect, is maintaining the province of Gaul in obedience to the senate and people of Rome; and as he has enlisted and collected in so short a time a very numerous army, being aided by the admirable zeal of the municipal towns and colonies of the province of Gaul, which has deserved and still does deserve admirably well of the republic; he has acted rightly and virtuously, and greatly for the advantage of the republic. And that most excellent service done by Decimus Brutus to the republic, is and always will be, grateful to the senate and people of Rome. Therefore, the senate and the Roman people is of opinion that the exertions, and prudence, and virtue of Decimus Brutus, imperator and consul-elect, and the incredible zeal and unanimity of the province of Gaul, have been a great assistance to the republic, at a most critical time.”
+
+What honor, O conscript fathers, can be too great to be due to such a mighty service as this of Brutus, and to such important aid as he has afforded the republic? For if Gaul had been open to Marcus Antonius—if after having overwhelmed the municipal towns and colonies unprepared to resist him, he had been able to penetrate into that farther Gaul—what great danger would have hung over the republic! That most insane of men, that man so headlong and furious in all his courses,—would have been likely I suppose to hesitate at waging war against us not only with his own army but with all the savage troops of barbarism, so that even the wall of the Alps would not have enabled us to check his frenzy. These thanks then will be deservedly paid to Decimus Brutus, who, before any authority of yours had been interposed, acting on his own judgment and responsibility, refused to receive him as consul, but repelled him from Gaul as an enemy, and preferred to be besieged himself rather than to allow this city to be so. Let him therefore have, by your decree, an everlasting testimony to this most important and glorious action, and let Gaul, which always is and has been a protection to this empire and to the general liberty be deservedly and truly praised for not having surrendered herself and her power to Antonius but for having opposed him with them.

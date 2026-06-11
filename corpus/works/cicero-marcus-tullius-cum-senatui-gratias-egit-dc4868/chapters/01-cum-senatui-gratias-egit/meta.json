@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-cum-senatui-gratias-egit-dc4868",
+  "work_title": "Cum Senatui gratias egit",
+  "chapter_number": 1,
+  "chapter_title": "Cum Senatui gratias egit",
+  "chapter_slug": "01-cum-senatui-gratias-egit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "278c4a4a-0049-5bab-85f8-8b035de14423",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4228,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi019.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86c2d2f1-f267-5ef0-baa5-e9db1456cb2a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9002,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi019.perseus-eng2"
+    }
+  ]
+}

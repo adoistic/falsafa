@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-symposium-695dbe",
+  "work_title": "Symposium",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ec74d152-4a54-5497-8ef8-3fac6a089179",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 452,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg004.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b587d684-c8da-5014-bd2e-cfb93bc67027",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 681,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg004.perseus-eng2:6"
+    }
+  ]
+}

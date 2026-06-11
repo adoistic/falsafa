@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 112
+chapter_title: "Chapter text=A:book=5:letter=18"
+chapter_slug: 112
+variant_id: "c53e2263-41fa-5eaa-b853-0b51a032a117"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 713
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:112"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (IN EPIRUS) CYBISTRA, SEPTEMBER
+
+How I wish you were in Rome, if by chance you are not there! For I have nothing to go upon except having received a letter from you dated 19th July, in which you said that, you intend going to Epirus about the 1st of August. But whether you are in Rome or Epirus, the Parthians have crossed the Euphrates under Pacorus, son of the Parthian king Orodes, with nearly all his forces. I have not yet heard of the arrival of Bibulus in Syria. Cassius is in the town of Antioch with the whole army: I am in Cappadocia, close to the Taurus, with my army near Cybistra: the enemy is in Cyrrhestica, which is the part of Syria next to my province. On these subjects I have sent a despatch to the senate. This despatch please look at, if you are in Rome, and consider whether you think it ought to be delivered; and so with many other things, or rather with all, chief of which is that there be no "slip betwixt the cup and the lip" —as the saying is—to add additional burden upon me, or an extension of my time. For, considering the weakness of my army, and the short supply of allies, especially faithful ones, my most trustworthy support is winter. If that has once come, and they have not first crossed into my province, the only thing I fear is that the senate will not allow Pompey to leave Rome, owing to the alarming state of affairs in the city. But if it sends some one else next spring, I do not trouble myself, always providing that my term of office is not prolonged. So much for you if you are at Rome. But if you are out of town, or even if you are not, the state of affairs here is this: we are in good spirits; and since, as it seems, our plans are well laid, we cherish the hope that we are strong enough also to carry them out. We have pitched our camp in a safe spot, well supplied in the matter of corn, almost commanding a view of Cilicia, convenient for shifting quarters, and with an army which, although small, is yet, I hope, entirely loyal to me; and we are about to double its numbers by the arrival of Deiotarus in full force. I have found the allies much more loyal than anyone has ever done: and they can scarcely believe their eyes when they see the mildness of my administration and the purity of my conduct. A levy of Roman citizens is being held; corn is being carted from the country to places of safety. If, then, occasion arises, we shall defend ourselves by force; if not, by the strength of our position. Wherefore do not be alarmed. For I have you before my eyes, and I perceive, as though you were present, your affectionate solicitude for me. Now I beg you, if it is in any way possible, supposing my affair to remain undecided up to the 1st of January, to be in Rome in January. I am quite certain of receiving no unfair treatment if you are on the spot. The consuls are my friends, the tribune Furnius is wholly devoted to me. Still there is need of your persistence, good sense, and popularity. It is a momentous crisis. But it is not decent for me to press you at greater length. Our two Ciceros are staying with Deiotarus, but, if it shall be necessary, they will be transferred to Rhodes. Do you, if in Rome, with your accustomed punctuality, and anyhow, even if you are in Epirus, send one of your servants with letters, that both you may know what I am doing, and I what you are doing or about to do. I am doing your friend Brutus's business for him better than he would have done it himself. But I now produce my ward, and do not attempt to defend him. For they are a dilatory lot, and there is nothing to be got out of them. However, I will satisfy you, which is more difficult than satisfying Brutus himself. But in truth, I will satisfy you both.

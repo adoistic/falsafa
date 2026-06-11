@@ -1,0 +1,31 @@
+---
+work_id: "e957824a-e031-5461-892b-7e0e232f8c7c"
+work_slug: "plutarch-phocion-e95782"
+work_title: Phocion
+author_name: Plutarch
+chapter_number: 30
+chapter_title: Chapter 30
+chapter_slug: 30
+variant_id: "7f035f23-4ebb-53e5-9736-bb65fcc73efa"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 520
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg049.perseus-eng2:30"
+translator: Bernadotte Perrin
+---
+
+When Menyllus offered Phocion a gift of money, he replied that neither was Menyllus better than Alexander, nor was there any stronger reason why the man who would not accept it then should take it now. Menyllus, however, begged him to take the money for his son Phocus at least, whereupon Phocion said: For Phocus, should he be converted to sobriety of life, his patrimony will be enough; but as he is now, nothing is sufficient. Again, when Antipater desired him to do something that was not seemly, he gave him a sharper answer, saying: Antipater cannot have from me the services of friend and flatterer at once.
+
+And Antipater himself once said, as we are told, that be had two friends at Athens, Phocion and Demades; one he could never persuade to take anything, the other he could never satisfy with his gifts. And verily Phocion displayed as a virtue the poverty in which; though he had been so many times a general of Athens and had enjoyed the friendship of kings, he had come to old age; whereas Demades made a great parade of his wealth, even though he was violating the laws to do so.
+
+For instance, there was a law of Athens at this time forbidding a choregus to have a foreigner in his chorus, under penalty of a thousand drachmas; but Demades presented a chorus of a hundred members all of whom were foreigners, and at the same time brought into the theatre his fine of a thousand drachmas for each one of them. Again, when he was bringing home a wife for his son Demeas, he said to him: When I married thy mother, my son, not even a neighbour noticed it; but to thy nuptials kings and potentates are contributing.
+
+When the Athenians importuned Phocion to go and persuade Antipater to remove the garrison, whether it was because he despaired of persuading him, or because he saw that the people were more sensible and conducted public affairs with more decorum when they were thus under the influence of fear, he continually rejected that mission; he did, however, persuade Antipater not to exact the moneys due from the city, but to delay, and postpone their payment. The people, accordingly, transferred their importunities to Demades.
+
+He readily undertook the mission, and taking his son with him set out for Macedonia. He arrived there, as some heavenly power, doubtless, would have it, precisely at the time when Antipater was already afflicted with sickness, and when Cassander, who had assumed control of affairs, had found a letter which Demades had written to Antigonus in Asia, beseeching him to present himself suddenly in Greece and Macedonia, which hung by an old and rotten thread, as he facetiously called Antipater.
+
+When, therefore, Cassander saw Demades after his arrival, he arrested him, and first slaughtered his son, whom he had brought so near that the folds of his father’s robe caught the blood of his murder and were filled with it, and then, after heaping much insult and abuse upon him for his ingratitude and treachery, slew the father too.

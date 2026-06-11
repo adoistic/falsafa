@@ -1,0 +1,21 @@
+---
+work_id: "baa73a2b-3cba-5dee-a943-67dbcdc6d79b"
+work_slug: "claudian-panegyricus-de-sexto-consulatu-h-baa73a"
+work_title: Panegyricus de sexto consulatu Honorii Augusti
+author_name: Claudian
+chapter_number: 1
+chapter_title: Chapter praef
+chapter_slug: 01
+variant_id: "55438bbe-792e-5d40-a0b1-aca2c59cf8d4"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 259
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa012.perseus-eng1:1"
+translator: Maurice Platnauer
+---
+
+All things that with waking sense desire ponders kindly repose brings back to the slumbering mind. The huntsman stretches his weary limbs upon the couch, yet his mind ever returns to the woods where his quarry lurks. The judge dreams of law-suits, the charioteer of his chariot the nightly steeds of which he guides past a shadowy turning-point. The lover repeats love's mysteries, the merchant makes exchange of goods, the miser still watchfully grasps at elusive riches, and to thirsty sufferers all-pervading sleep offers from a cooling spring idly alluring draughts. I am a lover of the Muses and in the silent night I too am haunted by that my accustomed task. For meseemed I stood upon the very summit of the starry sky and laid my songs at Jove's feet, and, in the flattery of sleep, the gods and all the sacred band gathered about Jove's throne gave applause to my words. I sang of Enceladus and conquered Typhoeus, the first a prisoner beneath Inarime, the second oppressed by the weight of Etna. How joyous was that Jove whom, after the war with the giants, heaven welcomed, enriched with the spoils from Phlegra's field! My dream has come true; 'twas no vain imagining; nor did the false ivory gate ^ send forth an unaccomplished dream. Behold our lord, behold earth towering to heaven's height! Here before me are gods such as I then saw, gods worthy of all reverence. Nought greater could dreams have fancied; this noble assembly offers the poet an audience like to that of heaven.

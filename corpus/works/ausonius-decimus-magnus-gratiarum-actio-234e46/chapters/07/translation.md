@@ -1,0 +1,21 @@
+---
+work_id: "234e46b3-b72c-533b-a755-365940a803c3"
+work_slug: "ausonius-decimus-magnus-gratiarum-actio-234e46"
+work_title: Gratiarum Actio
+author_name: Ausonius, Decimus Magnus
+chapter_number: 7
+chapter_title: Chapter 7
+chapter_slug: 07
+variant_id: "0b068e38-7a87-5167-affe-257fe470977c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 489
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa014.perseus-eng1:7"
+translator: Perseus Digital Library
+---
+
+But again someone will comment freely in speech, yet more freely in thought: Were there not in the past and even in ancient times many such tutors? Or are you the only man who has had an Emperor for his pupil? No, indeed! But while I am only one of many so far as my employment goes, I stand apart with very few in virtue of this distinction. I do not wish to cast reflections upon my fellows in this calling in the age of Constantine: there were princes and they were instructed. I will go back to earlier times. Fact proves more surely than words that Seneca, who for all his wealth was not a consul, did not discipline the nature of Nero, but merely gave arms to his cruelty. And though Quintilian obtained the consular distinction by grace of Clemens,1 he seems to have held an honorary title rather than the actual emblems of power. So too with the tutor Titianus; 2 but for all his boastful assumption, while alternating between the provincial school of Visontio (Besancon) and Lugdunum (Lyons), not through years but through light esteem he fell into a decline. The one and only precedent and one which I must frankly accept is the case of Fronto; 3 and yet this tutor to an Emperor, though he had the distinction of a consulate, was never invested with the authority of a prefect. But what sort of a consulship was it which he held? Acting as the substitute to an ordinary 4 consul, made to fill up a gap of two months, and dismissed in the sixth part of a year, this great orator has left us to find out for ourselves in which year he held the consulate. But here is another objection which may be raised: Are you then so conceited as to exalt yourself to the height attained by that great orator? To such a question I will answer briefly: No, I do not set myself up as Fronto's rival, but I rank Gratian before Antoninus. It is true 1 that all the world over, every city which lives under our governance observes these annual days of festival, Rome as a matter of custom, Constantinople out of imitation, Antioch out of love for indulgence, as also do degenerate Carthage and Alexandria, the gift of its river 2; but Trèves is enabled to do this by the kindness of our prince, and will soon do so in company with the author of that kindness. All these places are far apart, but the prayers they offer up are all to one effect: one name is on the lips of all—the name of Gratian, Gratian who in virtue of his authority is styled Imperator; of his courage, the Victorious; of his sacred person, Augustus; of his devotion, Pontifex; of his tenderness, Father; of his age, a Son; and of natural affection, both one and the other.

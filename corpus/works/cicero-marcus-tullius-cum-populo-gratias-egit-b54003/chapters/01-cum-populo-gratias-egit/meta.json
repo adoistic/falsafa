@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-cum-populo-gratias-egit-b54003",
+  "work_title": "Cum populo gratias egit",
+  "chapter_number": 1,
+  "chapter_title": "Cum populo gratias egit",
+  "chapter_slug": "01-cum-populo-gratias-egit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "06e96650-1dea-56d8-85b2-91b584cdef54",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2573,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi018.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d6fa058-202e-59cd-8e9d-9ff1cfdc79fa",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4761,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi018.perseus-eng2"
+    }
+  ]
+}

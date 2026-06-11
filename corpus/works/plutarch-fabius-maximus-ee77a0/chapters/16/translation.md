@@ -1,0 +1,35 @@
+---
+work_id: "ee77a005-7f33-54f3-9e5e-cfca4d386764"
+work_slug: "plutarch-fabius-maximus-ee77a0"
+work_title: Fabius Maximus
+author_name: Plutarch
+chapter_number: 16
+chapter_title: Chapter 16
+chapter_slug: 16
+variant_id: "1f6ad40d-0503-573e-af62-7272aae03eba"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 628
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg013.perseus-eng2:16"
+translator: Bernadotte Perrin
+---
+
+In the battle Hannibal practiced a double strategy. In the first place, he took advantage of the ground to put the wind at his back. This wind came down like a fiery hurricane, and raised a huge cloud of dust from the exposed and sandy plains and drove it over the Carthaginian lines hard into the faces of the Romans, who turned away to avoid it, and so fell into confusion.
+
+In the second place, he formed his troops as follows: the sturdiest and most warlike part of his force he stationed on either side of the centre, and manned the centre itself with his poorest soldiers, intending to use this as a wedge jutting out far in advance of the rest of his line. But orders were given to the picked troops, when the Romans should have cut the troops in the centre to pieces, pursued them hotly as they retreated and formed a deep hollow, and so got within their enemy’s line of battle,—then to turn sharply from either side, smite them on the flanks, and envelop them by closing in upon their rear.
+
+And it was this which seems to have produced time greatest slaughter. For the centre gave way and was followed by the Romans in pursuit, Hannibal’s line of battle thus changing its shape into that of a crescent; and the commanders of the picked troops on his wings wheeled them swiftly to left and right and fell upon the exposed sides of their enemy, all of whom, except those who retired before they were surrounded, were then overwhelmed and destroyed.
+
+It is said, further, that a strange calamity befell the Roman cavalry also. The horse of Paulus, as it appears, was wounded and threw his rider off, and one after another of his attendants dismounted and sought to defend the consul on foot. When the horsemen saw this, supposing that a general order had been given, they all dismounted and engaged the enemy on foot. On seeing this, Hannibal said: This is more to my wish than if they had been handed over to me in fetters.
+
+But such particulars as these may be found in the detailed histories of the war. As for the consuls, Varro galloped off with a few followers to the city of Venusia, but Paulus, caught in the deep surges of that panic flight and covered with many missiles which hung in his wounds, weighed down in body and spirit by so vast a misfortune, sat down, leaning against a stone, and waiting for an enemy to dispatch him.
+
+His head and face were so profusely smeared with blood that few could recognize him; even his friends and retainers passed him by without knowing him. Only Cornelius Lentulus, a young man of the patrician order, saw who he was, and leaping from his horse, led him to Paulus and besought the consul to take him and save himself for the sake of his fellow-citizens, who now more than ever needed a brave commander.
+
+But Paulus rejected this prayer, and forced the youth, all tears, to mount his horse again, and then rose up and clasped his hand and said: Lentulus, tell Fabius Maximus, and be thyself a witness to what thou tellest, that Paulus Aemilius was true to his precepts up to the end, and broke not one of the agreements made with him, but was vanquished first by Varro, and then by Hannibal.
+
+With such injunctions, he sent Lentulus away, then threw himself into the midst of the slaughter and perished. And it is said that fifty thousand Romans fell in that battle, that four thousand were taken alive, and that after the battle there were captured in both consular camps no less than ten thousand.

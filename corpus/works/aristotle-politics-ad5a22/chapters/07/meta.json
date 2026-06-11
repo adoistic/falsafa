@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-politics-ad5a22",
+  "work_title": "Politics",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "12c74945-c36a-5e6f-b084-26f773e130cc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10199,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg035.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "937bce3c-800e-5e40-a27e-63c2a58b4f79",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14994,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg035.perseus-eng2:7"
+    }
+  ]
+}

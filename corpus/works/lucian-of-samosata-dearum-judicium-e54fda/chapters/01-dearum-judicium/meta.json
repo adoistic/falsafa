@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-dearum-judicium-e54fda",
+  "work_title": "Dearum judicium",
+  "chapter_number": 1,
+  "chapter_title": "Dearum judicium",
+  "chapter_slug": "01-dearum-judicium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "64e8f670-c89f-53cb-bef9-41fad1400a4a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2064,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg032.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dbee2e0a-9fa2-52f2-abb6-3f348fb1559d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2716,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg032.perseus-eng2"
+    }
+  ]
+}

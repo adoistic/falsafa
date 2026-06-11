@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 117,
+  "chapter_title": "Chapter 118",
+  "chapter_slug": "117",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e6315e16-8298-5dcf-8931-ad1926036c1c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2504,
+      "paragraph_count": 342,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:117"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fbb9f6f4-0673-52ed-81b6-6cf8de1efb76",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 432,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:117"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-cistellaria-3f92d2",
+  "work_title": "Cistellaria",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "04",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "65d27ae3-ca00-5ece-8ae6-06e20b1374fc",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1085,
+      "paragraph_count": 137,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi007.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a38b5e22-d579-5639-8f6d-1abbed9df55b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 390,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi007.perseus-eng2:4"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-panegyricus-de-sexto-consulatu-h-baa73a",
+  "work_title": "Panegyricus de sexto consulatu Honorii Augusti",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0af4664b-bae1-55cd-bb64-91d2885b7b3b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4007,
+      "paragraph_count": 185,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa012.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2cab4b28-3248-5595-8d28-b052ec6307e6",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7122,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa012.perseus-eng1:2"
+    }
+  ]
+}

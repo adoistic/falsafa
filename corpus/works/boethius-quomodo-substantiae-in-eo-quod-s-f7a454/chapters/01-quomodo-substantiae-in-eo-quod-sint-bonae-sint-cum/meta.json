@@ -1,0 +1,38 @@
+{
+  "work_slug": "boethius-quomodo-substantiae-in-eo-quod-s-f7a454",
+  "work_title": "Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substantialia Bona",
+  "chapter_number": 1,
+  "chapter_title": "Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substantialia Bona",
+  "chapter_slug": "01-quomodo-substantiae-in-eo-quod-sint-bonae-sint-cum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "288326f8-68a7-5d6f-967a-9fe176a61873",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1391,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa003.perseus-lat1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "16f1bc89-abae-5240-a078-58a271dcc574",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1811,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa003.perseus-eng1"
+    }
+  ]
+}

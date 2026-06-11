@@ -1,0 +1,38 @@
+{
+  "work_slug": "lycurgus-against-leocrates-0dcab5",
+  "work_title": "Against Leocrates",
+  "chapter_number": 1,
+  "chapter_title": "Against Leocrates",
+  "chapter_slug": "01-against-leocrates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "37fd2055-f398-5fbf-ac60-cab087983b74",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10905,
+      "paragraph_count": 272,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0034.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "806a1f02-2ce9-55e9-8ba6-897f336cca7d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14696,
+      "paragraph_count": 269,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0034.tlg001.perseus-eng2"
+    }
+  ]
+}

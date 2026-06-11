@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-themistocles-24aecf",
+  "work_title": "Themistocles",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "635bc9be-7bae-5774-b70b-278e521f7395",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 152,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08416a17-4abc-5def-8335-24dab6484762",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 232,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-eng2:1"
+    }
+  ]
+}

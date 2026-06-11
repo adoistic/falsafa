@@ -1,0 +1,31 @@
+---
+work_id: "dfd661a7-7a0f-5411-9892-ecdc6f527cb6"
+work_slug: "plutarch-lysander-dfd661"
+work_title: Lysander
+author_name: Plutarch
+chapter_number: 22
+chapter_title: Chapter 22
+chapter_slug: 22
+variant_id: "2614ab94-2a40-5768-9f74-dcfb860af731"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 470
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg032.perseus-eng2:22"
+translator: Bernadotte Perrin
+---
+
+He was harsh of speech also, and terrifying to his opponents. For instance, when the Argives were disputing about boundaries, and thought they made a juster plea than the Lacedaemonians, he pointed to his sword, and said to them: He who is master of this discourses best about boundaries. And when a Megarian, in some conference with him, grew bold in speech, he said: Thy words, Stranger, lack a city.
+
+And when the Boeotians tried to play a double game with him, he asked them whether he should march through their territory with spears upright, or levelled. And once when the Corinthians had revolted, and, on coming to their walls, he saw that the Lacedaemonians hesitated to make an assault, a hare was seen leaping across the moat whereupon he said Are ye not ashamed to fear enemies who are so lazy that hares sleep on their walls?
+
+When Agis the king died, leaving a brother, Agesilaus, and a reputed son, Leotychides, Lysander, who had been a lover of Agesilaus, persuaded him to lay claim to the kingdom, on the ground that he was a genuine descendant of Heracles. For Leotychides was accused of being a son of Alcibiades, who had secret commerce with Timaea, the wife of Agis, while he was living in exile at Sparta.
+
+Now Agis, as they tell us, being convinced by a computation of time that his wife had not conceived by him, ignored Leotychides, and manifestly repudiated him up to the last. But when he was carried sick to Heraea and was about to die, he yielded to the entreaties of the young man himself and of his friends, and declared in the hearing of many that Leotychides was his own son, and after begging those who were present to bear witness of this to the Lacedaemonians, died.
+
+Accordingly, they did so bear witness in favour of Leotychides. Moreover, Agesilaus, who was otherwise illustrious, and had Lysander as a champion, was injured in his claim by Diopeithes, a man in high repute for his interpretation of oracles, who published the following prophecy with reference to the lameness of Agesilaus:— Bethink thee now, O Sparta, although thou art very proud, Lest from thee, sound of foot, there spring a maimed royalty; For long will unexpected toils oppress thee, And onward rolling billows of man-destroying war.
+
+Many, therefore, out of deference to the oracle, inclined to Leotychides, but Lysander declared that Diopeithes did not interpret the prophecy correctly; for it did not mean that the god would be displeased if one who was lame should rule the Lacedaemonians, but the kingdom would be maimed if bastards and ill-born men should be kings in a line with the posterity of Heracles. By such arguments, and because he had very great influence, he prevailed, and Agesilaus became king.

@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 413
+chapter_title: "Chapter text=F:book=11:letter=13.1-4"
+chapter_slug: 413
+variant_id: "cc077259-f99f-5a89-8583-458a898da8fb"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 419
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:413"
+translator: Perseus Digital Library
+---
+
+DECIMUS BRUTUS TO CICERO (AT ROME) POLLENTIA (12 MAY)
+
+I am not going to thank you any more; for when one can make a man no return in deeds, it is impossible to satisfy his just claims by mere words. I want you to notice what I have on my hands. For your insight is so great that you will take in the whole situation, if you read my letter with care. I was unable, my dear Cicero, to pursue Antony at once for the following reasons. I had no cavalry, no transport animals; I did not know that Hirtius was dead; I did not know that Aquila was dead; I couldn't put any confidence in Caesar without first visiting and holding a conversation with him. So passed the first day. Next day early I was summoned by Pansa to Bononia. While I was on the way news was brought to me that he was dead. I hurried back to my poor little force—for I can call it so with truth. It was most woefully reduced and in the very worst condition from want of every kind of necessary. Antony thus got two days start of me. He made much longer marches, as being in retreat, than I could in pursuit. For he marched in loose order, I in close. Wherever he came he broke open the slave-barracks and forcibly requisitioned the men. He never made any halt anywhere till he reached Vada. I would like you to know about this place. It lies between the Apennines and the Alps, very difficult to reach by a march. When I was thirty miles from it, and when Ventidius had already effected a junction with him, a public speech delivered by Antony was reported to me, in which he began entreating his men to follow him across the Alps, telling them that he had an understanding with Marcus Lepidus. There was some murmuring, and from a good many of Ventidius's men—for Antony has very few of his own—that it was their duty to perish or conquer in Italy; and they began begging him to allow them to march to Pollentia. Not being able to withstand them, he arranged to begin his march the next day. When I received this intelligence I at once sent forward five cohorts to Pollentia and directed my march to that place. My advanced guard arrived at Pollentia an hour before Trebellius with his cavalry. I was greatly delighted: for I think that this constitutes a victory....

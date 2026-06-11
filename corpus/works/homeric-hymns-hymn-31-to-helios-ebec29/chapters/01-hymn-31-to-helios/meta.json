@@ -1,0 +1,39 @@
+{
+  "work_slug": "homeric-hymns-hymn-31-to-helios-ebec29",
+  "work_title": "Hymn 31 to Helios",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 31 to Helios",
+  "chapter_slug": "01-hymn-31-to-helios",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9580bee8-df09-55c2-997c-faed45d75d36",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 131,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg031.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b587f37-9a4c-526f-8b79-3212238763d1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 187,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg031.perseus-eng2"
+    }
+  ]
+}

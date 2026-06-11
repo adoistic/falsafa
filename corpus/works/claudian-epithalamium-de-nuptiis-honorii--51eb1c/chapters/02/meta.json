@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-epithalamium-de-nuptiis-honorii--51eb1c",
+  "work_title": "Epithalamium de nuptiis Honorii Augusti",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab6e2f53-cd20-5ba0-a4af-20c86b4ad657",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2067,
+      "paragraph_count": 146,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa006.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57b1f82c-76bf-5e08-8ae0-17c5682a071f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3626,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa006.perseus-eng1:2"
+    }
+  ]
+}

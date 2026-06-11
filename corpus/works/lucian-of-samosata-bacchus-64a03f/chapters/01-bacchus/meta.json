@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-bacchus-64a03f",
+  "work_title": "Bacchus",
+  "chapter_number": 1,
+  "chapter_title": "Bacchus",
+  "chapter_slug": "01-bacchus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "718597c1-c9f0-56f3-9d36-963f03bcd6aa",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1031,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e38d9c9-db4c-56e9-ae7b-c0bd7139432c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1255,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg003.perseus-eng4"
+    }
+  ]
+}

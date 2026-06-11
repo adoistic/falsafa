@@ -1,0 +1,26 @@
+{
+  "work_slug": "unknown-the-fables-of-phaedrus-6b12c9",
+  "work_title": "The Fables of Phaedrus",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d70451a5-fbad-542d-8378-c1e24abf1479",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2189,
+      "paragraph_count": 348,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-eng1:5"
+    }
+  ]
+}

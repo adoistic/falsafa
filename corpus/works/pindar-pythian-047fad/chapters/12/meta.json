@@ -1,0 +1,39 @@
+{
+  "work_slug": "pindar-pythian-047fad",
+  "work_title": "Pythian",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5a0a258e-bf42-5091-bdba-6809856292db",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 201,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg002.perseus-grc2:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a271800-88ed-5316-9584-604eda1951c0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 320,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg002.perseus-eng3:12"
+    }
+  ]
+}

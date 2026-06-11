@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 444
+chapter_title: "Chapter text=A:book=16:letter=14"
+chapter_slug: 444
+variant_id: "4e56ee91-73e9-5ccd-8252-93179793c7a5"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 429
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:444"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) ARPINUM (NOVEMBER)
+
+I have absolutely nothing to write about. For when I was at Puteoli there was always something new about Octavian, much also that was false about Antony. However, in regard to what you have said in your letters—for I received three from you on the 11th—I quite agree with you that, if Octavian gets much power, the acta of the tyrant will be confirmed much more decisively than they were in the temple of Tellus, and that this will be against the interests of Brutus. Yes, but if he is beaten, you perceive that Antony becomes intolerable: so that you can't tell which to prefer. What a rascal that letter-carrier of Sestius is! He said he would be at Rome on the day after leaving Puteoli. You advise me to move cautiously. Yes, I agree with you; though I had once other ideas. I am not influenced by Philippus or Marcellus. For their position is different; and if it isn't, it is nevertheless thought so. But though that young man has plenty of spirit, he lacks prestige. Nevertheless, consider whether I can be safely in my house at Tusculum, and whether it would be better for me to be there. I should prefer it: for then I shall be up to date in my information. Or had I better stay here when Antony arrives? But to turn to another subject—I am quite satisfied that what the Greeks call kaqh=kon (duty) we call officium. Now, why should you doubt of this being also applicable to the language of public life? Don't we speak of the officium of consuls, of senate, or of an imperator? It is eminently applicable: if not, suggest some other word. I am very sorry to hear your news about the son of Nepos. I am much disturbed and sincerely sorry. I did not know that he had a son at all. I have lost Caninius —a man who, as far as I am concerned, was the reverse of ungrateful. There is no occasion for you to whip up Athenodorus: he has sent me a very good précis. Pray use every possible means to get rid of your cold. The great-grandson of your grandfather writes to the grandson of my father, that after the Nones, in which I made my, famous coup, he intends to unfold the story of the temple of Ops, and that too in the face of the whole people. You will look out, therefore, and write me word. I am anxious to hear the criticism of Sextus.

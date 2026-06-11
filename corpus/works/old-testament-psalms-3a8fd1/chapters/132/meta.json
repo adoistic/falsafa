@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 132,
+  "chapter_title": "Chapter 133",
+  "chapter_slug": "132",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "22038e0a-2d99-53bc-a7ca-3a81705d8ed6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 174,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:132"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47d05757-fc6c-5be6-8390-55b54346a560",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 64,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:132"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "unknown-the-history-of-rome-by-titus-liv-66bdec",
+  "work_title": "The History of Rome by Titus Livius, the first eight books - 8",
+  "chapter_number": 1,
+  "chapter_title": "The History of Rome by Titus Livius, the first eight books - 8",
+  "chapter_slug": "01-the-history-of-rome-by-titus-livius-the-first-eigh",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3585ced3-7835-5125-a443-1d302906ac72",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 23024,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi0018.perseus-eng2"
+    }
+  ]
+}

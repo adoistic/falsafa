@@ -1,0 +1,727 @@
+---
+work_id: "6b932509-115b-5566-9776-9ff2a6ca2970"
+work_slug: "aristotle-rhetoric-6b9325"
+work_title: Rhetoric
+author_name: Aristotle
+chapter_number: 1
+chapter_title: Book 1
+chapter_slug: 01
+variant_id: "d0e0c5c2-2bcb-52c4-ae45-8f0ece4bcb9c"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 23429
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg038.perseus-eng2:1"
+translator: John Henry Freese
+---
+
+Rhetoric is a counterpart of Dialectic; for both have to do with matters that are in a manner within the cognizance of all men and not confined to any special science. Hence all men in a manner have a share of both; for all, up to a certain point, endeavor to criticize or uphold an argument, to defend themselves or to accuse.
+
+Now, the majority of people do this either at random or with a familiarity arising from habit. But since both these ways are possible, it is clear that matters can be reduced to a system, for it is possible to examine the reason why some attain their end by familiarity and others by chance; and such an examination all would at once admit to be the function of an art.
+
+Now, previous compilers of Arts of Rhetoric have provided us with only a small portion of this art, for proofs are the only things in it that come within the province of art; everything else is merely an accessory. And yet they say nothing about enthymemes which are the body of proof, but chiefly devote their attention to matters outside the subject;
+
+for the arousing of prejudice, compassion, anger, and similar emotions has no connection with the matter in hand, but is directed only to the dicast. The result would be that, if all trials were now carried on as they are in some States, especially those that are well administered, there would be nothing left for the rhetorician to say.
+
+For all men either think that all the laws ought so to prescribe, or in fact carry out the principle and forbid speaking outside the subject, as in the court of Areopagus, and in this they are right. For it is wrong to warp the dicast's feelings, to arouse him to anger, jealousy or compassion, which would be like making the rule crooked which one intended to use.
+
+Further, it is evident that the only business of the litigant is to prove that the fact in question is or is not so, that it has happened or not; whether it is important or unimportant, just or unjust, in all cases in which the legislator has not laid down a ruling, is a matter for the dicast himself to decide; it is not the business of the litigants to instruct him.
+
+First of all, therefore, it is proper that laws, properly enacted, should themselves define the issue of all cases as far as possible, and leave as little as possible to the discretion of the judges; in the first place, because it is easier to find one or a few men of good sense, capable of framing laws and pronouncing judgements, than a large number; secondly, legislation is the result of long consideration, whereas judgements are delivered on the spur of the moment, so that it is difficult for the judges properly to decide questions of justice or expediency. But what is most important of all is that the judgement of the legislator does not apply to a particular case, but is universal and applies to the future, whereas the member of the public assembly and the dicast have to decide present and definite issues, and in their case love, hate, or personal interest is often involved, so that they are no longer capable of discerning the truth adequately, their judgement being obscured by their own pleasure or pain.
+
+All other cases, as we have just said, should be left to the authority of the judge as seldom as possible, except where it is a question of a thing having happened or not, of its going to happen or not, of being or not being so; this must be left to the discretion of the judges, for it is impossible for the legislator to foresee such questions.
+
+If this is so, it is obvious that all those who definitely lay down, for instance, what should be the contents of the exordium or the narrative, or of the other parts of the discourse, are bringing under the rules of art what is outside the subject; for the only thing to which their attention is devoted is how to put the judge into a certain frame of mind. They give no account of the artificial proofs, which make a man a master of rhetorical argument.
+
+Hence, although the method of deliberative and forensic Rhetoric is the same, and although the pursuit of the former is nobler and more worthy of a statesman than that of the latter, which is limited to transactions between private citizens, they say nothing about the former, but without exception endeavor to bring forensic speaking under the rules of art. The reason of this is that in public speaking it is less worth while to talk of what is outside the subject, and that deliberative oratory lends itself to trickery less than forensic, because it is of more general interest. For in the assembly the judges decide upon their own affairs, so that the only thing necessary is to prove the truth of the statement of one who recommends a measure, but in the law courts this is not sufficient; there it is useful to win over the hearers, for the decision concerns other interests than those of the judges, who, having only themselves to consider and listening merely for their own pleasure, surrender to the pleaders but do not give a real decision. That is why, as I have said before, in many places the law prohibits speaking outside the subject in the law courts, whereas in the assembly the judges themselves take adequate precautions against this.
+
+It is obvious, therefore, that a system arranged according to the rules of art is only concerned with proofs; that proof is a sort of demonstration, since we are most strongly convinced when we suppose anything to have been demonstrated; that rhetorical demonstration is an enthymeme, which, generally speaking, is the strongest of rhetorical proofs and lastly, that the enthymeme is a kind of syllogism. Now, as it is the function of Dialectic as a whole, or of one of its parts, to consider every kind of syllogism in a similar manner, it is clear that he who is most capable of examining the matter and forms of a syllogism will be in the highest degree a master of rhetorical argument, if to this he adds a knowledge of the subjects with which enthymemes deal and the differences between them and logical syllogisms. For, in fact, the true and that which resembles it come under the purview of the same faculty, and at the same time men have a sufficient natural capacity for the truth and indeed in most cases attain to it; wherefore one who divines well in regard to the truth will also be able to divine well in regard to probabilities.
+
+It is clear, then, that all other rhetoricians bring under the rules of art what is outside the subject, and have rather inclined to the forensic branch of oratory.
+
+Nevertheless, Rhetoric is useful, because the true and the just are naturally superior to their opposites, so that, if decisions are improperly made, they must owe their defeat to their own advocates; which is reprehensible. Further, in dealing with certain persons, even if we possessed the most accurate scientific knowledge, we should not find it easy to persuade them by the employment of such knowledge. For scientific discourse is concerned with instruction, but in the case of such persons instruction is impossible; our proofs and arguments must rest on generally accepted principles, as we said in the Topics, when speaking of converse with the multitude. Further, the orator should be able to prove opposites, as in logical arguments; not that we should do both (for one ought not to persuade people to do what is wrong), but that the real state of the case may not escape us, and that we ourselves may be able to counteract false arguments, if another makes an unfair use of them. Rhetoric and Dialectic alone of all the arts prove opposites; for both are equally concerned with them. However, it is not the same with the subject matter, but, generally speaking, that which is true and better is naturally always easier to prove and more likely to persuade. Besides, it would be absurd if it were considered disgraceful not to be able to defend oneself with the help of the body, but not disgraceful as far as speech is concerned, whose use is more characteristic of man than that of the body.
+
+If it is argued that one who makes an unfair use of such faculty of speech may do a great deal of harm, this objection applies equally to all good things except virtue, and above all to those things which are most useful, such as strength, health, wealth, generalship; for as these, rightly used, may be of the greatest benefit, so, wrongly used, they may do an equal amount of harm.
+
+It is thus evident that Rhetoric does not deal with any one definite class of subjects, but, like Dialectic, [is of general application]; also, that it is useful; and further, that its function is not so much to persuade, as to find out in each case the existing means of persuasion. The same holds good in respect to all the other arts. For instance, it is not the function of medicine to restore a patient to health, but only to promote this end as far as possible; for even those whose recovery is impossible may be properly treated. It is further evident that it belongs to Rhetoric to discover the real and apparent means of persuasion, just as it belongs to Dialectic to discover the real and apparent syllogism. For what makes the sophist is not the faculty but the moral purpose. But there is a difference: in Rhetoric, one who acts in accordance with sound argument, and one who acts in accordance with moral purpose, are both called rhetoricians; but in Dialectic it is the moral purpose that makes the sophist, the dialectician being one whose arguments rest, not on moral purpose but on the faculty.
+
+Let us now endeavor to treat of the method itself, to see how and by what means we shall be able to attain our objects. And so let us as it were start again, and having defined Rhetoric anew, pass on to the remainder of the subject.
+
+Rhetoric then may be defined as the faculty of discovering the possible means of persuasion in reference to any subject whatever. This is the function of no other of the arts, each of which is able to instruct and persuade in its own special subject; thus, medicine deals with health and sickness, geometry with the properties of magnitudes, arithmetic with number, and similarly with all the other arts and sciences. But Rhetoric, so to say, appears to be able to discover the means of persuasion in reference to any given subject. That is why we say that as an art its rules are not applied to any particular definite class of things.
+
+As for proofs, some are artificial, others inartificial. By the latter I understand all those which have not been furnished by ourselves but were already in existence, such as witnesses, tortures, contracts, and the like; by the former, all that can be constructed by system and by our own efforts. Thus we have only to make use of the latter, whereas we must invent the former.
+
+Now the proofs furnished by the speech are of three kinds. The first depends upon the moral character of the speaker, the second upon putting the hearer into a certain frame of mind, the third upon the speech itself, in so far as it proves or seems to prove.
+
+The orator persuades by moral character when his speech is delivered in such a manner as to render him worthy of confidence; for we feel confidence in a greater degree and more readily in persons of worth in regard to everything in general, but where there is no certainty and there is room for doubt, our confidence is absolute. But this confidence must be due to the speech itself, not to any preconceived idea of the speaker's character; for it is not the case, as some writers of rhetorical treatises lay down in their Art, that the worth of the orator in no way contributes to his powers of persuasion; on the contrary, moral character, so to say, constitutes the most effective means of proof.
+
+The orator persuades by means of his hearers, when they are roused to emotion by his speech; for the judgements we deliver are not the same when we are influenced by joy or sorrow, love or hate; and it is to this alone that, as we have said, the present-day writers of treatises endeavor to devote their attention. (We will discuss these matters in detail when we come to speak of the emotions.)
+
+Lastly, persuasion is produced by the speech itself, when we establish the true or apparently true from the means of persuasion applicable to each individual subject.
+
+Now, since proofs are effected by these means, it is evident that, to be able to grasp them, a man must be capable of logical reasoning, of studying characters and the virtues, and thirdly the emotions—the nature and character of each, its origin, and the manner in which it is produced. Thus it appears that Rhetoric is as it were an offshoot of Dialectic and of the science of Ethics, which may be reasonably called Politics. That is why Rhetoric assumes the character of Politics, and those who claim to possess it, partly from ignorance, partly from boastfulness, and partly from other human weaknesses, do the same. For, as we said at the outset, Rhetoric is a sort of division or likeness of Dialectic, since neither of them is a science that deals with the nature of any definite subject, but they are merely faculties of furnishing arguments. We have now said nearly enough about the faculties of these arts and their mutual relations.
+
+But for purposes of demonstration, real or apparent, just as Dialectic possesses two modes of argument, induction and the syllogism, real or apparent, the same is the case in Rhetoric; for the example is induction, and the enthymeme a syllogism, and the apparent enthymeme an apparent syllogism. Accordingly I call an enthymeme a rhetorical syllogism, and an example rhetorical induction. Now all orators produce belief by employing as proofs either examples or enthymemes and nothing else; so that if, generally speaking, it is necessary to prove any fact whatever either by syllogism or by induction—and that this is so is clear from the Analytics —each of the two former must be identical with each of the two latter.
+
+The difference between example and enthymeme is evident from the Topics, where, in discussing syllogism and induction, it has previously been said that the proof from a number of particular cases that such is the rule, is called in Dialectic induction, in Rhetoric example; but when, certain things being posited, something different results by reason of them, alongside of them, from their being true, either universally or in most cases, such a conclusion in Dialectic is called a syllogism, in Rhetoric an enthymeme.
+
+It is evident that Rhetoric enjoys both these advantages — for what has been said in the Methodica holds good also in this case—for rhetorical speeches are sometimes characterized by examples and sometimes by enthymemes, and orators themselves may be similarly distinguished by their fondness for one or the other. Now arguments that depend on examples are not less calculated to persuade, but those which depend upon enthymemes meet with greater approval.
+
+Their origin and the way in which each should be used will be discussed later; for the moment let us define more clearly these proofs themselves.
+
+Now, that which is persuasive is persuasive in reference to some one, and is persuasive and convincing either at once and in and by itself, or because it appears to be proved by propositions that are convincing; further, no art has the particular in view, medicine for instance what is good for Socrates or Callias, but what is good for this or that class of persons (for this is a matter that comes within the province of an art, whereas the particular is infinite and cannot be the subject of a true science); similarly, therefore, Rhetoric will not consider what seems probable in each individual case, for instance to Socrates or Hippias, but that which seems probable to this or that class of persons. It is the same with Dialectic, which does not draw conclusions from any random premises—for even madmen have some fancies—but it takes its material from subjects which demand reasoned discussion, as Rhetoric does from those which are common subjects of deliberation.
+
+The function of Rhetoric, then, is to deal with things about which we deliberate, but for which we have no systematic rules; and in the presence of such hearers as are unable to take a general view of many stages, or to follow a lengthy chain of argument. But we only deliberate about things which seem to admit of issuing in two ways; as for those things which cannot in the past, present, or future be otherwise, no one deliberates about them, if he supposes that they are such; for nothing would be gained by it.
+
+Now, it is possible to draw conclusions and inferences partly from what has been previously demonstrated syllogistically, partly from what has not, which however needs demonstration, because it is not probable. The first of these methods is necessarily difficult to follow owing to its length, for the judge is supposed to be a simple person; the second will obtain little credence, because it does not depend upon what is either admitted or probable. The necessary result then is that the enthymeme and the example are concerned with things which may, generally speaking, be other than they are, the example being a kind of induction and the enthymeme a kind of syllogism, and deduced from few premises, often from fewer than the regular syllogism; for if any one of these is well known, there is no need to mention it, for the hearer can add it himself. For instance, to prove that Dorieus was the victor in a contest at which the prize was a crown, it is enough to say that he won a victory at the Olympic games; there is no need to add that the prize at the Olympic games is a crown, for everybody knows it.
+
+But since few of the propositions of the rhetorical syllogism are necessary, for most of the things which we judge and examine can be other than they are, human actions, which are the subject of our deliberation and examination, being all of such a character and, generally speaking, none of them necessary; since, further, facts which only generally happen or are merely possible can only be demonstrated by other facts of the same kind, and necessary facts by necessary propositions (and that this is so is clear from the Analytics), it is evident that the materials from which enthymemes are derived will be sometimes necessary, but for the most part only generally true; and these materials being probabilities and signs, it follows that these two elements must correspond to these two kinds of propositions, each to each.
+
+For that which is probable is that which generally happens, not however unreservedly, as some define it, but that which is concerned with things that may be other than they are, being so related to that in regard to which it is probable as the universal to the particular.
+
+As to signs, some are related as the particular to the universal, others as the universal to the particular. Necessary signs are called tekmeria; those which are not necessary have no distinguishing name.
+
+I call those necessary signs from which a logical syllogism can be constructed, wherefore such a sign is called tekmērion; for when people think that their arguments are irrefutable, they think that they are bringing forward a tekmērion, something as it were proved and concluded; for in the old language tekmar and peras have the same meaning (limit, conclusion).
+
+Among signs, some are related as the particular to the universal; for instance, if one were to say that all wise men are just, because Socrates was both wise and just. Now this is a sign, but even though the particular statement is true, it can be refuted, because it cannot be reduced to syllogistic form. But if one were to say that it is a sign that a man is ill, because he has a fever, or that a woman has had a child because she has milk, this is a necessary sign. This alone among signs is a tekmērion; for only in this case, if the fact is true, is the argument irrefutable. Other signs are related as the universal to the particular, for instance, if one were to say that it is a sign that this man has a fever, because he breathes hard; but even if the fact be true, this argument also can be refuted, for it is possible for a man to breathe hard without having a fever. We have now explained the meaning of probable, sign, and necessary sign, and the difference between them; in the Analytics we have defined them more clearly and stated why some of them can be converted into logical syllogisms, while others cannot.
+
+We have said that example is a kind of induction and with what kind of material it deals by way of induction. It is neither the relation of part to whole, nor of whole to part, nor of one whole to another whole, but of part to part, of like to like, when both come under the same genus, but one of them is better known than the other. For example, to prove that Dionysius is aiming at a tyranny, because he asks for a bodyguard, one might say that Pisistratus before him and Theagenes of Megara did the same, and when they obtained what they asked for made themselves tyrants. All the other tyrants known may serve as an example of Dionysius, whose reason, however, for asking for a bodyguard we do not yet know. All these examples are contained under the same universal proposition, that one who is aiming at a tyranny asks for a bodyguard.
+
+We have now stated the materials of proofs which are thought to be demonstrative.
+
+But a very great difference between enthymemes has escaped the notice of nearly every one, although it also exists in the dialectical method of syllogisms. For some of them belong to Rhetoric, some syllogisms only to Dialectic, and others to other arts and faculties, some already existing and others not yet established. Hence it is that this escapes the notice of the speakers, and the more they specialize in a subject, the more they transgress the limits of Rhetoric and Dialectic. But this will be clearer if stated at greater length.
+
+I mean by dialectical and rhetorical syllogisms those which are concerned with what we call topics, which may be applied alike to Law, Physics, Politics, and many other sciences that differ in kind, such as the topic of the more or less, which will furnish syllogisms and enthymemes equally well for Law, Physics, or any other science whatever, although these subjects differ in kind. Specific topics on the other hand are derived from propositions which are peculiar to each species or genus of things; there are, for example, propositions about Physics which can furnish neither enthymemes nor syllogisms about Ethics, and there are propositions concerned with Ethics which will be useless for furnishing conclusions about Physics; and the same holds good in all cases. The first kind of topics will not make a man practically wise about any particular class of things, because they do not deal with any particular subject matter; but as to the specific topics, the happier a man is in his choice of propositions, the more he will unconsciously produce a science quite different from Dialectic and Rhetoric. For if once he hits upon first principles, it will no longer be Dialectic or Rhetoric, but that science whose principles he has arrived at.
+
+Most enthymemes are constructed from these specific topics, which are called particular and special, fewer from those that are common or universal. As then we have done in the Topics, so here we must distinguish the specific and universal topics, from which enthymemes may be constructed. By specific topics I mean the propositions peculiar to each class of things, by universal those common to all alike. Let us then first speak of the specific topics, but before doing so let us ascertain the different kinds of Rhetoric, so that, having determined their number, we may separately ascertain their elements and propositions.
+
+The kinds of Rhetoric are three in number, corresponding to the three kinds of hearers. For every speech is composed of three parts: the speaker, the subject of which he treats, and the person to whom it is addressed, I mean the hearer, to whom the end or object of the speech refers.
+
+Now the hearer must necessarily be either a mere spectator or a judge, and a judge either of things past or of things to come. For instance, a member of the general assembly is a judge of things to come; the dicast, of things past; the mere spectator, of the ability of the speaker.
+
+Therefore there are necessarily three kinds of rhetorical speeches, deliberative, forensic, and epideictic.
+
+The deliberative kind is either hortatory or dissuasive; for both those who give advice in private and those who speak in the assembly invariably either exhort or dissuade. The forensic kind is either accusatory or defensive; for litigants must necessarily either accuse or defend. The epideictic kind has for its subject praise or blame.
+
+Further, to each of these a special time is appropriate: to the deliberative the future, for the speaker, whether he exhorts or dissuades, always advises about things to come; to the forensic the past, for it is always in reference to things done that one party accuses and the other defends; to the epideictic most appropriately the present, for it is the existing condition of things that all those who praise or blame have in view. It is not uncommon, however, for epideictic speakers to avail themselves of other times, of the past by way of recalling it, or of the future by way of anticipating it.
+
+Each of the three kinds has a different special end, and as there are three kinds of Rhetoric, so there are three special ends. The end of the deliberative speaker Is the expedient or harmful; for he who exhorts recommends a course of action as better, and he who dissuades advises against it as worse; all other considerations, such as justice and injustice, honor and disgrace, are included as accessory in reference to this. The end of the forensic speaker is the just or the unjust; in this case also all other considerations are included as accessory. The end of those who praise or blame is the honorable and disgraceful; and they also refer all other considerations to these.
+
+A sign that what I have stated is the end which each has in view is the fact that sometimes the speakers will not dispute about the other points. For example, a man on trial does not always deny that an act has been committed or damage inflicted by him, but he will never admit that the act is unjust; for otherwise a trial would be unnecessary. Similarly, the deliberative orator, although he often sacrifices everything else, will never admit that he is recommending what is inexpedient or is dissuading from what is useful; but often he is quite indifferent about showing that the enslavement of neighboring peoples, even if they have done no harm, is not an act of injustice. Similarly, those who praise or blame do not consider whether a man has done what is expedient or harmful, but frequently make it a matter for praise that, disregarding his own interest, he performed some deed of honor. For example, they praise Achilles because he went to the aid of his comrade Patroclus, knowing that he was fated to die, although he might have lived. To him such a death was more honorable, although life was more expedient.
+
+From what has been said it is evident that the orator must first have in readiness the propositions on these three subjects. Now, necessary signs, probabilities, and signs are the propositions of the rhetorician; for the syllogism universally consists of propositions, and the enthymeme is a syllogism composed of the propositions above mentioned.
+
+Again, since what is impossible can neither have been done nor will be done, but only what is possible, and since what has not taken place nor will take place can neither have been done nor will be done, it is necessary for each of the three kinds of orators to have in readiness propositions dealing with the possible and the impossible, and as to whether anything has taken place or will take place, or not.
+
+Further, since all, whether they praise or blame, exhort or dissuade, accuse or defend, not only endeavor to prove what we have stated, but also that the same things, whether good or bad, honorable or disgraceful, just or unjust, are great or small, either in themselves or when compared with each other, it is clear that it will be necessary for the orator to be ready with propositions dealing with greatness and smallness and the greater and the less, both universally and in particular; for instance, which is the greater or less good, or act of injustice or justice; and similarly with regard to all other subjects. We have now stated the topics concerning which the orator must provide himself with propositions; after this, we must distinguish between each of them individually, that is, what the three kinds of Rhetoric, deliberative, epideictic, and forensic, are concerned with.
+
+We must first ascertain about what kind of good or bad things the deliberative orator advises, since he cannot do so about everything, but only about things which may possibly happen or not.
+
+Everything which of necessity either is or will be, or which cannot possibly be or come to pass, is outside the scope of deliberation.
+
+Indeed, even in the case of things that are possible advice is not universally appropriate; for they include certain advantages, natural and accidental, about which it is not worth while to offer advice. But it is clear that advice is limited to those subjects about which we take counsel; and such are all those which can naturally be referred to ourselves and the first cause of whose origination is in our own power; for our examination is limited to finding out whether such things are possible or impossible for us to perform.
+
+However, there is no need at present to endeavor to enumerate with scrupulous exactness or to classify those subjects which men are wont to discuss, or to define them as far as possible with strict accuracy, since this is not the function of the rhetorical art but of one that is more intelligent and exact, and further, more than its legitimate subjects of inquiry have already been assigned to it.
+
+For what we have said before is true: that Rhetoric is composed of analytical science and of that branch of political science which is concerned with Ethics, and that it resembles partly Dialectic and partly sophistical arguments.
+
+But in proportion as anyone endeavors to make of Dialectic or Rhetoric, not what they are, faculties, but sciences, to that extent he will, without knowing it, destroy their real nature, in thus altering their character, by crossing over into the domain of sciences, whose subjects are certain definite things, not merely words.
+
+Nevertheless, even at present we may mention such matters as it is worth while to analyze, while still leaving much for political science to investigate.
+
+Now, we may say that the most important subjects about which all men deliberate and deliberative orators harangue, are five in number, to wit: ways and means, war and peace, the defence of the country, imports and exports, legislation.
+
+Accordingly, the orator who is going to give advice on ways and means should be acquainted with the nature and extent of the State resources, so that if any is omitted it may be added, and if any is insufficient, it may be increased. Further, he should know all the expenses of the State, that if any is superfluous, it may be removed, or, if too great, may be curtailed. For men become wealthier, not only by adding to what they already possess, but also by cutting down expenses. Of these things it is not only possible to acquire a general view from individual experience, but in view of advising concerning them it is further necessary to be well informed about what has been discovered among others.
+
+In regard to war and peace, the orator should be acquainted with the power of the State, how great it is already and how great it may possibly become; of what kind it is already and what additions may possibly be made to it; further, what wars it has waged and its conduct of them. These things he should be acquainted with, not only as far as his own State is concerned, but also in reference to neighboring States, and particularly those with whom there is a likelihood of war, so that towards the stronger a pacific attitude may be maintained, and in regard to the weaker, the decision as to making war on them may be left to his own State. Again, he should know whether their forces are like or unlike his own, for herein also advantage or disadvantage may lie. With reference to these matters he must also have examined the results, not only of the wars carried on by his own State, but also of those carried on by others; for similar results naturally arise from similar causes.
+
+Again, in regard to the defense of the country, he should not be ignorant how it is carried on; he should know both the strength of the guard, its character, and the positions of the guard-houses (which is impossible for one who is unacquainted with the country), so that if any guard is insufficient it may be increased, or if any is superfluous it may be disbanded, and greater attention devoted to suitable positions.
+
+Again, in regard to food, he should know what amount of expenditure is sufficient to support the State; what kind of food is produced at home or can be imported; and what exports and imports are necessary, in order that contracts and agreements may be made with those who can furnish them; for it is necessary to keep the citizens free from reproach in their relations with two classes of people—those who are stronger and those who are useful for commercial purposes.
+
+With a view to the safety of the State, it is necessary that the orator should be able to judge of all these questions, but an understanding of legislation is of special importance, for it is on the laws that the safety of the State is based. Wherefore he must know how many forms of government there are; what is expedient for each; and the natural causes of its downfall, whether they are peculiar to the particular form of government or opposed to it. By being ruined by causes peculiar to itself, I mean that, with the exception of the perfect form of government, all the rest are ruined by being relaxed or strained to excess. Thus democracy, not only when relaxed, but also when strained to excess, becomes weaker and will end in an oligarchy; similarly, not only does an aquiline or snub nose reach the mean, when one of these defects is relaxed, but when it becomes aquiline or snub to excess, it is altered to such an extent that even the likeness of a nose is lost.
+
+Moreover, with reference to acts of legislation, it is useful not only to understand what form of government is expedient by judging in the light of the past, but also to become acquainted with those in existence in other nations, and to learn what kinds of government are suitable to what kinds of people. It is clear, therefore, that for legislation books of travel are useful, since they help us to understand the laws of other nations, and for political debates historical works. All these things, however, belong to Politics and not to Rhetoric.
+
+Such, then, are the most important questions upon which the would-be deliberative orator must be well informed. Now let us again state the sources whence we must derive our arguments for exhortation or discussion on these and other questions.
+
+Men, individually and in common, nearly all have some aim, in the attainment of which they choose or avoid certain things. This aim, briefly stated, is happiness and its component parts.
+
+Therefore, for the sake of illustration, let us ascertain what happiness, generally speaking, is, and what its parts consist in; for all who exhort or dissuade discuss happiness and the things which conduce or are detrimental to it. For one should do the things which procure happiness or one of its parts, or increase instead of diminishing it, and avoid doing those things which destroy or hinder it or bring about what is contrary to it.
+
+Let us then define happiness as well-being combined with virtue, or independence of life, or the life that is most agreeable combined with security, or abundance of possessions and slaves, combined with power to protect and make use of them; for nearly all men admit that one or more of these things constitutes happiness.
+
+If, then, such is the nature of happiness, its component parts must necessarily be: noble birth, numerous friends, good friends, wealth, good children, numerous children, a good old age; further, bodily excellences, such as health, beauty, strength, stature, fitness for athletic contests, a good reputation, honor, good luck, virtue. For a man would be entirely independent, provided he possessed all internal and external goods; for there are no others. Internal goods are those of mind and body; external goods are noble birth, friends, wealth, honor. To these we think should be added certain capacities and good luck; for on these conditions life will be perfectly secure. Let us now in the same way define each of these in detail.
+
+Noble birth, in the case of a nation or State, means that its members or inhabitants are sprung from the soil, or of long standing; that its first members were famous as leaders, and that many of their descendants have been famous for qualities that are highly esteemed. In the case of private individuals, noble birth is derived from either the father's or the mother's side, and on both sides there must be legitimacy; and, as in the case of a State, it means that its founders were distinguished for virtue, or wealth, or any other of the things that men honor, and that a number of famous persons, both men and women, young and old, belong to the family.
+
+The blessing of good children and numerous children needs little explanation. For the commonwealth it consists in a large number of good young men, good in bodily excellences, such as stature, beauty, strength, fitness for athletic contests; the moral excellences of a young man are self-control and courage. For the individual it consists in a number of good children of his own, both male and female, and such as we have described. Female bodily excellences are beauty and stature, their moral excellences self-control and industrious habits, free from servility. The object of both the individual and of the community should be to secure the existence of each of these qualities in both men and women; for all those States in which the character of women is unsatisfactory, as in Lacedaemon, may be considered only half-happy.
+
+Wealth consists in abundance of money, ownership of land and properties, and further of movables, cattle, and slaves, remarkable for number, size, and beauty, if they are all secure, liberal, and useful. Property that is productive is more useful, but that which has enjoyment for its object is more liberal. By productive I mean that which is a source of income, by enjoyable that which offers no advantage beyond the use of it—at least, none worth mentioning. Security may be defined as possession of property in such places and on such conditions that the use of it is in our own hands; and ownership as the right of alienation or not, by which I mean giving the property away or selling it. In a word, being wealthy consists rather in use than in possession; for the actualization and use of such things is wealth.
+
+A good reputation consists in being considered a man of worth by all, or in possessing something of such a nature that all or most men, or the good, or the men of practical wisdom desire it.
+
+Honor is a token of a reputation for doing good; and those who have already done good are justly and above all honored, not but that he who is capable of doing good is also honored. Doing good relates either to personal security and all the causes of existence; or to wealth; or to any other good things which are not easy to acquire, either in any conditions, or at such a place, or at such a time; for many obtain honor for things that appear trifling, but this depends upon place and time. The components of honor are sacrifices, memorials in verse and prose, privileges, grants of land, front seats, public burial, State maintenance, and among the barbarians, prostration and giving place, and all gifts which are highly prized in each country. For a gift is at once a giving of a possession and a token of honor; wherefore gifts are desired by the ambitious and by those who are fond of money, since they are an acquisition for the latter and an honor for the former; so that they furnish both with what they want.
+
+Bodily excellence is health, and of such a kind that when exercising the body we are free from sickness; for many are healthy in the way Herodicus is said to have been, whom no one would consider happy in the matter of health, because they are obliged to abstain from all or nearly all human enjoyments.
+
+Beauty varies with each age. In a young man, it consists in possessing a body capable of enduring all efforts, either of the racecourse or of bodily strength, while he himself is pleasant to look upon and a sheer delight. This is why the athletes in the pentathlon are most beautiful, because they are naturally adapted for bodily exertion and for swiftness of foot. In a man who has reached his prime, beauty consists in being naturally adapted for the toils of war, in being pleasant to look upon and at the same time awe-inspiring. In an old man, beauty consists in being naturally adapted to contend with unavoidable labors and in not causing annoyance to others, thanks to the absence of the disagreeable accompaniments of old age.
+
+Strength consists in the power of moving another as one wills, for which purpose it is necessary to pull or push, to lift, to squeeze or crush, so that the strong man is strong by virtue of being able to do all or some of these things.
+
+Excellence of stature consists in being superior to most men in height, depth, and breadth, but in such proportion as not to render the movements of the body slower as the result of excess.
+
+Bodily excellence in athletics consists in size, strength, and swiftness of foot; for to be swift is to be strong. For one who is able to throw his legs about in a certain way, to move them rapidly and with long strides, makes a good runner; one who can hug and grapple, a good wrestler; one who can thrust away by a blow of the fist, a good boxer; one who excels in boxing and wrestling is fit for the pancratium, he who excels in all for the pentathlon.
+
+A happy old age is one that comes slowly with freedom from pain; for neither one who rapidly grows old nor one who grows old insensibly but with pain enjoys a happy old age. This also depends upon bodily excellences and good fortune; for unless a man is free from illness and is strong, he will never be free from suffering, nor will he live long and painlessly without good fortune. Apart from health and strength, however, there is a power of vitality in certain cases; for many live long who are not endowed with bodily excellences. But a minute examination of such questions is needless for the present purpose.
+
+The meaning of numerous and worthy friends is easy to understand from the definition of a friend. A friend is one who exerts himself to do for the sake of another what he thinks is advantageous to him. A man to whom many persons are so disposed, has many friends; if they are virtuous, he has worthy friends.
+
+Good fortune consists in the acquisition or possession of either all, or the most, or the most important of those goods of which fortune is the cause. Now fortune is the cause of some things with which the arts also are concerned, and also of many which have nothing to do with art, for instance, such as are due to nature (though it is possible that the results of fortune may be contrary to nature); for art is a cause of health, but nature of beauty and stature. Speaking generally, the goods which come from fortune are such as excite envy. Fortune is also a cause of those goods which are beyond calculation; for instance, a man's brothers are all ugly, while he is handsome; they did not see the treasure, while he found it; the arrow hit one who stood by and not the man aimed at; or, one who frequented a certain place was the only one who did not go there on a certain occasion, while those who went there then for the first time met their death. All such instances appear to be examples of good fortune.
+
+The definition of virtue, with which the topic of praise is most closely connected, must be left until we come to treat of the latter.
+
+It is evident, then, what things, likely to happen or already existing, the orator should aim at, when exhorting, and what when dissuading; for they are opposites. But since the aim before the deliberative orator is that which is expedient, and men deliberate, not about the end, but about the means to the end, which are the things which are expedient in regard to our actions; and since, further, the expedient is good, we must first grasp the elementary notions of good and expedient in general.
+
+Let us assume good to be whatever is desirable for its own sake, or for the sake of which we choose something else; that which is the aim of all things, or of all things that possess sensation or reason; or would be, if they could acquire the latter. Whatever reason might assign to each and whatever reason does assign to each in individual cases, that is good for each; and that whose presence makes a man fit and also independent; and independence in general; and that which produces or preserves such things, or on which such things follow, or all that is likely to prevent or destroy their opposites.
+
+Now things follow in two ways—simultaneously or subsequently; for instance, knowledge is subsequent to learning, but life is simultaneous with health. Things which produce act in three ways; thus, healthiness produces health; and so does food; and exercise as a rule.
+
+This being laid down, it necessarily follows that the acquisition of good things and the loss of evil things are both good; for it follows simultaneously on the latter that we are rid of that which is bad, and subsequently on the former that we obtain possession of that which is good.
+
+The same applies to the acquisition of a greater in place of a less good, and a less in place of a greater evil; for in proportion as the greater exceeds the less, there is an acquisition of the one and a loss of the other.
+
+The virtues also must be a good thing; for those who possess them are in a sound condition, and they are also productive of good things and practical. However, we must speak separately concerning each—what it is, and of what kind.
+
+Pleasure also must be a good; for all living creatures naturally desire it. Hence it follows that both agreeable and beautiful things must be good; for the former produce pleasure, while among beautiful things some are pleasant and others are desirable in themselves.
+
+To enumerate them one by one, the following things must necessarily be good. Happiness, since it is desirable in itself and self-sufficient, and to obtain it we choose a number of things.
+
+Justice, courage, self-control, magnanimity, magnificence, and all other similar states of mind, for they are virtues of the soul.
+
+Health, beauty, and the like, for they are virtues of the body and produce many advantages; for instance, health is productive of pleasure and of life, wherefore it is thought to be best of all, because it is the cause of two things which the majority of men prize most highly.
+
+Wealth, since it is the excellence of acquisition and productive of many things.
+
+A friend and friendship, since a friend is desirable in himself and produces many advantages.
+
+Honor and good repute, since they are agreeable and produce many advantages, and are generally accompanied by the possession of those things for which men are honored.
+
+Eloquence and capacity for action; for all such faculties are productive of many advantages.
+
+Further, natural cleverness, good memory, readiness to learn, quick-wittedness, and all similar qualities; for these faculties are productive of advantages. The same applies to all the sciences, arts, and even life, for even though no other good should result from it, it is desirable in itself. Lastly, justice, since it is expedient in general for the common weal.
+
+These are nearly all the things generally recognized as good;
+
+in the case of doubtful goods, the arguments in their favor are drawn from the following. That is good the opposite of which is evil, or the opposite of which is advantageous to our enemies; for instance, if it is specially advantageous to our enemies that we should be cowards, it is clear that courage is specially advantageous to the citizens.
+
+And, speaking generally, the opposite of what our enemies desire or of that in which they rejoice, appears to be advantageous; wherefore it was well said: Of a truth Priam would exult.
+
+This is not always the case, but only as a general rule, for there is nothing to prevent one and the same thing being sometimes advantageous to two opposite parties; hence it is said that misfortune brings men together, when a common danger threatens them.
+
+That which is not in excess is good, whereas that which is greater than it should be, is bad.
+
+And that which has cost much labor and expense, for it at once is seen to be an apparent good, and such a thing is regarded as an end, and an end of many efforts; now, an end is a good. Wherefore it was said: And they would [leave Argive Helen for Priam and the Trojans] to boast of, and, It is disgraceful to tarry long, and the proverb, [to break] the pitcher at the door.
+
+And that which many aim at and which is seen to be competed for by many; for that which all aim at was recognized as a good, and the majority may almost stand for all.
+
+And that which is the object of praise, for no one praises that which is not good. And that which is praised by enemies; for if even those who are injured by it acknowledge its goodness, this amounts to a universal recognition of it; for it is because of its goodness being evident that they acknowledge it, just as those whom their enemies praise are worthless. Wherefore the Corinthians imagined themselves insulted by Simonides, when he wrote, Ilium does not blame the Corinthians.
+
+And that which one of the practically wise or good, man or woman, has chosen before others, as Athene chose Odysseus, Theseus Helen, the goddesses Alexander Paris, and Homer Achilles.
+
+And, generally speaking, all that is deliberately chosen is good. Now, men deliberately choose to do the things just mentioned, and those which are harmful to their enemies, and advantageous to their friends, and things which are possible.
+
+The last are of two kinds: things which might happen, and things which easily happen; by the latter are meant things that happen without labor or in a short time, for difficulty is defined by labor or length of time. And anything that happens as men wish is good; and what they wish is either what is not evil at all or is less an evil than a good, which will be the case for instance, whenever the penalty attached to it is unnoticed or light.
+
+And things that are peculiar to them, or which no one else possesses, or which are out of the common; for thus the honor is greater. And things which are appropriate to them; such are all things befitting them in respect of birth and power. And things which they think they lack, however unimportant; for none the less they deliberately choose to acquire them.
+
+And things which are easy of accomplishment, for being easy they are possible; such things are those in which all, or most men, or those who are equals or inferiors have been successful. And things whereby they will gratify friends or incur the hatred of enemies. And all things that those whom they admire deliberately choose to do. And those things in regard to which they are clever naturally or by experience; for they hope to be more easily successful in them. And things which no worthless man would approve, for that makes them the more commendable. And things which they happen to desire, for such things seem not only agreeable, but also better.
+
+Lastly, and above all, each man thinks those things good which are the object of his special desire, as victory of the man who desires victory, honor of the ambitious man, money of the avaricious, and so in other instances. These then are the materials from which we must draw our arguments in reference to good and the expedient.
+
+But since men often agree that both of two things are useful, but dispute which is the more so, we must next speak of the greater good and the more expedient.
+
+Let one thing, then, be said to exceed another, when it is as great and something more—and to be exceeded when it is contained in the other. Greater and more always imply a relation with less; great and small, much and little with the general size of things; the great is that which exceeds, and that which falls short of it is small; and similarly much and little.
+
+Since, besides, we call good that which is desirable for its own sake and not for anything else, and that which all things aim at and which they would choose if they possessed reason and practical wisdom; and that which is productive or protective of good, or on which such things follow; and since that for the sake of which anything is done is the end, and the end is that for the sake of which everything else is done, and that is good for each man which relatively to him presents all these conditions, it necessarily follows that a larger number of good things is a greater good than one or a smaller number, if the one or the smaller number is reckoned as one of them; for it exceeds them and that which is contained is exceeded.
+
+And if that which is greatest in one class surpass that which is greatest in another class, the first class will surpass the second; and whenever one class surpasses another, the greatest of that class will surpass the greatest of the other. For instance, if the biggest man is greater than the biggest woman, men in general will be bigger than women; and if men in general are bigger than women, the biggest man will be bigger than the biggest woman; for the superiority of classes and of the greatest things contained in them are proportionate.
+
+And when this follows on that, but not that on this [then that is the greater good]; for the enjoyment of that which follows is contained in that of the other. Now, things follow simultaneously, or successively, or potentially; thus, life follows simultaneously on health, but not health on life; knowledge follows subsequently on learning [but not learning on knowledge]; and simple theft potentially on sacrilege, for one who commits sacrilege will also steal.
+
+And things which exceed the same thing by a greater amount [than something else] are greater, for they must also exceed the greater.
+
+And things which produce a greater good are greater; for this we agreed was the meaning of productive of greater. And similarly, that which is produced by a greater cause; for if that which produces health is more desirable than that which produces pleasure and a greater good, then health is a greater good than pleasure.
+
+And that which is more desirable in itself is superior to that which is not; for example, strength is a greater good than the wholesome, which is not desirable for its own sake, while strength is; and, this we agreed was the meaning of a good.
+
+And the end is a greater good than the means; for the latter is desirable for the sake of something else, the former for its own sake; for instance, exercise is only a means for the acquirement of a good constitution.
+
+And that which has less need of one or several other things in addition is a greater good, for it is more independent (and having less need means needing fewer or easier additions).
+
+And when one thing does not exist or cannot be brought into existence without the aid of another, but that other can, then that which needs no aid is more independent, and accordingly is seen to be a greater good.
+
+And if one thing is a first principle, and another not; if one thing is a cause and another not, for the same reason; for without cause or first principle nothing can exist or come into existence. And if there are two first principles or two causes, that which results from the greater is greater; and conversely, when there are two first principles or two causes, that which is the first cause or principle of the greater is greater.
+
+It is clear then, from what has been said, that a thing may be greater in two ways; for if it is a first principle but another is not, it will appear to be greater, and if it is not a first principle [but an end], while another is; for the end is greater and not a first principle. Thus, Leodamas, when accusing Callistratus, declared that the man who had given the advice was more guilty than the one who carried it out; for if he had not suggested it, it could not have been carried out. And conversely, when accusing Chabrias, he declared that the man who had carried out the advice was more guilty than the one who had given it; for it could not have been carried out, had there not been some one to do so, and the reason why people devised plots was that others might carry them out.
+
+And that which is scarcer is a greater good than that which is abundant, as gold than iron, although it is less useful, but the possession of it is more valuable, since it is more difficult of acquisition. From another point of view, that which is abundant is to be preferred to that which is scarce, because the use of it is greater, for often exceeds seldom,; whence the saying: Water is best.
+
+And, speaking generally, that which is more difficult is preferable to that which is easier of attainment, for it is scarcer; but from another point of view that which is easier is preferable to that which is more difficult; for its nature is as we wish.
+
+And that, the contrary or the deprivation of which is greater, is the greater good. And virtue is greater than non-virtue, and vice than non-vice; for virtues and vices are ends, the others not.
+
+And those things whose works are nobler or more disgraceful are themselves greater; and the works of those things, the vices and virtues of which are greater, will also be greater, since between causes and first principles compared with results there is the same relation as between results compared with causes and first principles.
+
+Things, superiority in which is more desirable or nobler, are to be preferred; for instance, sharpness of sight is preferable to keenness of smell for sight is better than smell. And loving one's friends more than money is nobler, whence it follows that love of friends is nobler than love of money. And, on the other hand, the better and nobler things are, the better and nobler will be their superiority; and similarly, those things, the desire for which is nobler and better, are themselves nobler and better, for greater longings are directed towards greater objects. For the same reason, the better and nobler the object, the better and nobler are the desires.
+
+And when the sciences are nobler and more dignified, the nobler and more dignified are their subjects; for as is the science, so is the truth which is its object, and each science prescribes that which properly belongs to it; and, by analogy, the nobler and more dignified the objects of a science, the nobler and more dignified is the science itself, for the same reasons.
+
+And that which men of practical wisdom, either all, or more, or the best of them, would judge, or have judged, to be a greater good, must necessarily be such, either absolutely or in so far as they have judged as men of practical wisdom. The same may be said in regard to everything else; for the nature, quantity, and quality of things are such as would be defined by science and practical wisdom. But our statement only applies to goods; for we defined that as good which everything, if possessed of practical wisdom, would choose; hence it is evident that that is a greater good to which practical wisdom assigns the superiority.
+
+So also are those things which better men possess, either absolutely, or in so far as they are better; for instance courage is better than strength. And what the better man would choose, either absolutely or in so far as he is better; thus, it is better to suffer wrong than to commit it, for that is what the juster man would choose.
+
+And that which is more agreeable rather than that which is less so; for all things pursue pleasure and desire it for its own sake; and it is by these conditions that the good and the end have been defined. And that is more agreeable which is less subject to pain and is agreeable for a longer time.
+
+And that which is nobler than that which is less noble; for the noble is that which is either agreeable or desirable in itself.
+
+And all things which we have a greater desire to be instrumental in procuring for ourselves or for our friends are greater goods, and those as to which our desire is least are greater evils.
+
+And things that last longer are preferable to those that are of shorter duration, and those that are safer to those that are less so; for time increases the use of the first and the wish that of the second; for whenever we wish, we can make greater use of things that are safe.
+
+And things in all cases follow the relations between coordinates and similar inflections; for instance, if courageously is nobler than and preferable to temperately, then courage is preferable to temperance, and it is better to be courageous than temperate.
+
+And that which is chosen by all is better than that which is not; and that which the majority choose than that which the minority choose; for, as we have said, the good is that which all desire, and consequently a good is greater, the more it is desired. The same applies to goods which are recognized as greater by opponents or enemies, by judges, or by those whom they select; for in the one case it would be, so to say, the verdict of all mankind, in the other that of those who are acknowledged authorities and experts.
+
+And sometimes a good is greater in which all participate, for it is a disgrace not to participate in it; sometimes when none or only a few participate in it, for it is scarcer.
+
+And things which are more praiseworthy, since they are nobler. And in the same way things which are more highly honored, for honor is a sort of measure of worth; and conversely those things are greater evils, the punishment for which is greater.
+
+And those things which are greater than what is acknowledged, or appears, to be great, are greater. And the same whole when divided into parts appears greater, for there appears to be superiority in a greater number of things. Whence the poet says that Meleager was persuaded to rise up and fight by the recital of All the ills that befall those whose city is taken; the people perish, and fire utterly destroys the city, and strangers carry off the children.
+
+Combination and building up, as employed by Epicharmus, produce the same effect as division, and for the same reason; for combination is an exhibition of great superiority and appears to be the origin and cause of great things.
+
+And since that which is harder to obtain and scarcer is greater, it follows that special occasions, ages, places, times, and powers, produce great effects; for if a man does things beyond his powers, beyond his age, and beyond what his equals could do, if they are done in such a manner, in such a place, and at such a time, they will possess importance in actions that are noble, good, or just, or the opposite. Hence the epigram on the Olympian victor: Formerly, with a rough basket on my shoulders, I used to carry fish from Argos to Tegea.
+
+And Iphicrates lauded himself, saying, Look what I started from!
+
+And that which is natural is a greater good than that which is acquired, because it is harder. Whence the poet says: Self-taught am I.
+
+And that which is the greatest part of that which is great is more to be desired; as Pericles said in his Funeral Oration, that the removal of the youth from the city was like the year being robbed of its spring.
+
+And those things which are available in greater need, as in old age and illness, are greater goods. And of two things that which is nearer the end proposed is preferable. And that which is useful for the individual is preferable to that which is useful absolutely; that which is possible to that which is impossible; for it is the possible that is useful to us, not the impossible. And those things which are at the end of life; for things near the end are more like ends.
+
+And real things are preferable to those that have reference to public opinion, the latter being defined as those which a man would not choose if they were likely to remain unnoticed by others. It would seem then that it is better to receive than to confer a benefit; for one would choose the former even if it should pass unnoticed, whereas one would not choose to confer a benefit, if it were likely to remain unknown.
+
+Those things also are to be preferred, which men would rather possess in reality than in appearance, because they are nearer the truth; wherefore it is commonly said that justice is a thing of little importance, because people prefer to appear just than to be just; and this is not the case, for instance, in regard to health.
+
+The same may be said of things that serve several ends; for instance, those that assist us to live, to live well, to enjoy life, and to do noble actions; wherefore health and wealth seem to be the greatest goods, for they include all these advantages.
+
+And that which is more free from pain and accompanied by pleasure is a greater good; for there is more than one good, since pleasure and freedom from pain combined are both goods. And of two goods the greater is that which, added to one and the same, makes the whole greater.
+
+And those things, the presence of which does not escape notice, are preferable to those which pass unnoticed, because they appear more real; whence being wealthy would appear to be a greater good than the appearance of it.
+
+And that which is held most dear, sometimes alone, sometimes accompanied by other things, is a greater good. Wherefore he who puts out the eye of a one-eyed man and he who puts out one eye of another who has two, does not do equal injury; for in the former case, a man has been deprived of that which he held most dear.
+
+These are nearly all the topics from which arguments may be drawn in persuading and dissuading; but the most important and effective of all the means of persuasion and good counsel is to know all the forms of government and to distinguish the manners and customs, institutions, and interests of each;
+
+for all men are guided by considerations of expediency, and that which preserves the State is expedient. Further, the declaration of the authority is authoritative, and the different kinds of authority are distinguished according to forms of government; in fact, there are as many authorities as there are forms of government.
+
+Now, there are four kinds of government, democracy, oligarchy, aristocracy, monarchy, so that the supreme and deciding authority is always a part or the whole of these.
+
+Democracy is a form of government in which the offices are distributed by the people among themselves by lot; in an oligarchy, by those who possess a certain property-qualification; in an aristocracy, by those who possess an educational qualification, meaning an education that is laid down by the law. In fact, in an aristocracy, power and office are in the hands of those who have remained faithful to what the law prescribes, and who must of necessity appear best, whence this form of government has taken its name. In a monarchy, as its name indicates, one man alone is supreme over all; if it is subject to certain regulations, it is called a kingdom; if it is unlimited, a tyranny.
+
+Nor should the end of each form of government be neglected, for men choose the things which have reference to the end. Now, the end of democracy is liberty, of oligarchy wealth, of aristocracy things relating to education and what the law prescribes,..., of tyranny self-protection. It is clear then that we must distinguish the manners and customs, institutions, and interests of each form of government, since it is in reference to this that men make their choice.
+
+But as proofs are established not only by demonstrative, but also by ethical argument—since we have confidence in an orator who exhibits certain qualities, such as goodness, goodwill, or both—it follows that we ought to be acquainted with the characters of each form of government; for, in reference to each, the character most likely to persuade must be that which is characteristic of it. These characters will be understood by the same means; for characters reveal themselves in accordance with moral purpose, and moral purpose has reference to the end.
+
+We have now stated what things, whether future or present, should be the aim of those who recommend a certain course; from what topics they should derive their proofs of expediency; further, the ways and means of being well equipped for dealing with the characters and institutions of each form of government, so far as was within the scope of the present occasion; for the subject has been discussed in detail in the Politics.
+
+We will next speak of virtue and vice, of the noble and the disgraceful, since they constitute the aim of one who praises and of one who blames; for, when speaking of these, we shall incidentally bring to light the means of making us appear of such and such a character, which, as we have said, is a second method of proof; for it is by the same means that we shall be able to inspire confidence in ourselves or others in regard to virtue.
+
+But since it happens that men, seriously or not, often praise not only a man or a god but even inanimate things or any ordinary animal, we ought in the same way to make ourselves familiar with the propositions relating to these subjects. Let us, then, discuss these matters also, so far as may serve for illustration.
+
+The noble, then, is that which, being desirable in itself is at the same time worthy of praise, or which, being good, is pleasant because it is good. If this is the noble, then virtue must of necessity be noble, for, being good, it is worthy of praise.
+
+Virtue, it would seem, is a faculty of providing and preserving good things, a faculty productive of many and great benefits, in fact, of all things in all cases.
+
+The components of virtue are justice, courage, self-control, magnificence, magnanimity, liberality, gentleness, practical and speculative wisdom.
+
+The greatest virtues are necessarily those which are most useful to others, if virtue is the faculty of conferring benefits. For this reason justice and courage are the most esteemed, the latter being useful to others in war, the former in peace as well. Next is liberality, for the liberal spend freely and do not dispute the possession of wealth, which is the chief object of other men's desire.
+
+Justice is a virtue which assigns to each man his due in conformity with the law; injustice claims what belongs to others, in opposition to the law.
+
+Courage makes men perform noble acts in the midst of dangers according to the dictates of the law and in submission to it; the contrary is cowardice.
+
+Self-control is a virtue which disposes men in regard to the pleasures of the body as the law prescribes; the contrary is licentiousness.
+
+Liberality does good in many matters; the contrary is avarice.
+
+Magnanimity is a virtue productive of great benefits; the contrary is little-mindedness.
+
+Magnificence is a virtue which produces greatness in matters of expenditure; the contraries are little-mindedness and meanness.
+
+Practical wisdom is a virtue of reason, which enables men to come to a wise decision in regard to good and evil things, which have been mentioned as connected with happiness.
+
+Concerning virtue and vice in general and their separate parts, enough has been said for the moment. To discern the rest presents no difficulty; for it is evident that whatever produces virtue, as it tends to it, must be noble, and so also must be what comes from virtue; for such are its signs and works.
+
+But since the signs of virtue and such things as are the works and sufferings of a good man are noble, it necessarily follows that all the works and signs of courage and all courageous acts are also noble. The same may be said of just things and of just actions; (but not of what one suffers justly; for in this alone amongst the virtues that which is justly done is not always noble, and a just punishment is more disgraceful than an unjust punishment). The same applies equally to the other virtues.
+
+Those things of which the reward is honor are noble; also those which are done for honor rather than money. Also, those desirable things which a man does not do for his own sake;
+
+things which are absolutely good, which a man has done for the sake of his country, while neglecting his own interests; things which are naturally good; and not such as are good for the individual, since such things are inspired by selfish motives.
+
+And those things are noble which it is possible for a man to possess after death rather than during his lifetime, for the latter involve more selfishness;
+
+all acts done for the sake of others, for they are more disinterested; the successes gained, not for oneself but for others; and for one's benefactors, for that is justice; in a word, all acts of kinds, for they are disinterested.
+
+And the contrary of those things of which we are ashamed; for we are ashamed of what is disgraceful, in words, acts, or intention; as, for instance, when Alcaeus said: I would fain say something, but shame holds me back,
+
+Sappho rejoined: Hadst thou desired what was good or noble, and had not thy tongue stirred up some evil to utter it, shame would not have filled thine eyes; but thou would'st have spoken of what is right.
+
+Those things also are noble for which men anxiously strive, but without fear; for men are thus affected about goods which lead to good repute.
+
+Virtues and actions are nobler, when they proceed from those who are naturally worthier, for instance, from a man rather than from a woman.
+
+It is the same with those which are the cause of enjoyment to others rather than to ourselves; this is why justice and that which is just are noble.
+
+To take vengeance on one's enemies is nobler than to come to terms with them; for to retaliate is just, and that which is just is noble; and further, a courageous man ought not to allow himself to be beaten.
+
+Victory and honor also are noble; for both are desirable even when they are fruitless, and are manifestations of superior virtue. And things worthy of remembrance, which are the more honorable the longer their memory lasts; those which follow us after death; those which are accompanied by honor; and those which are out of the common. Those which are only possessed by a single individual, because they are more worthy of remembrance.
+
+And possessions which bring no profit; for they are more gentlemanly. Customs that are peculiar to individual peoples and all the tokens of what is esteemed among them are noble; for instance, in Lacedaemon it is noble to wear one's hair long, for it is the mark of a gentleman, the performance of any servile task being difficult for one whose hair is long.
+
+And not carrying on any vulgar profession is noble, for a gentleman does not live in dependence on others.
+
+We must also assume, for the purpose of praise or blame, that qualities which closely resemble the real qualities are identical with them; for instance, that the cautious man is cold and designing, the simpleton good-natured, and the emotionless gentle.
+
+And in each case we must adopt a term from qualities closely connected, always in the more favorable sense; for instance, the choleric and passionate man may be spoken of as frank and open, the arrogant as magnificent and dignified; those in excess as possessing the corresponding virtue, the fool-hardy as courageous, the recklessly extravagant as liberal. For most people will think so, and at the same time a fallacious argument may be drawn from the motive; for if a man risks his life when there is no necessity, much more will he be thought likely to do so when it is honorable; and if he is lavish to all comers, the more so will he be to his friends; for the height of virtue is to do good to all.
+
+We ought also to consider in whose presence we praise, for, as Socrates said, it is not difficult to praise Athenians among Athenians. We ought also to speak of what is esteemed among the particular audience, Scythians, Lacedaemonians, or philosophers, as actually existing there. And, generally speaking, that which is esteemed should be classed as noble, since there seems to be a close resemblance between the two.
+
+Again, all such actions as are in accord with what is fitting are noble; if, for instance, they are worthy of a man's ancestors or of his own previous achievements; for to obtain additional honor is noble and conduces to happiness. Also, if the tendency of what is done is better and nobler, and goes beyond what is to be expected; for instance, if a man is moderate in good fortune and stout-hearted in adversity, or if, when he becomes greater, he is better and more forgiving. Such was the phrase of Iphicrates, Look what I started from! and of the Olympian victor: Formerly, with a rough basket on my shoulders, I used to carry fish from Argos to Tegea.
+
+and of Simonides: Daughter, wife, and sister of tyrants.
+
+Since praise is founded on actions, and acting according to moral purpose is characteristic of the worthy man, we must endeavor to show that a man is acting in that manner, and it is useful that it should appear that he has done so on several occasions. For this reason also one must assume that accidents and strokes of good fortune are due to moral purpose; for if a number of similar examples can be adduced, they will be thought to be signs of virtue and moral purpose.
+
+Now praise is language that sets forth greatness of virtue; hence it is necessary to show that a man's actions are virtuous. But encomium deals with achievements—all attendant circumstances, such as noble birth and education, merely conduce to persuasion; for it is probable that virtuous parents will have virtuous offspring and that a man will turn out as he has been brought up. Hence we pronounce an encomium upon those who have achieved something. Achievements, in fact, are signs of moral habit; for we should praise even a man who had not achieved anything, if we felt confident that he was likely to do so.
+
+Blessing and felicitation are identical with each other, but are not the same as praise and encomium, which, as virtue is contained in happiness, are contained in felicitation.
+
+Praise and counsels have a common aspect; for what you might suggest in counseling becomes encomium by a change in the phrase.
+
+Accordingly, when we know what we ought to do and the qualities we ought to possess, we ought to make a change in the phrase and turn it, employing this knowledge as a suggestion. For instance, the statement that one ought not to pride oneself on goods which are due to fortune, but on those which are due to oneself alone, when expressed in this way, has the force of a suggestion; but expressed thus, he was proud, not of goods which were due to fortune, but of those which were due to himself alone, it becomes praise. Accordingly, if you desire to praise, look what you would suggest; if you desire to suggest, look what you would praise.
+
+The form of the expression will necessarily be opposite, when the prohibitive has been changed into the non-prohibitive.
+
+We must also employ many of the means of amplification; for instance, if a man has done anything alone, or first, or with a few, or has been chiefly responsible for it; all these circumstances render an action noble. Similarly, topics derived from times and seasons, that is to say, if our expectation is surpassed. Also, if a man has often been successful in the same thing; for this is of importance and would appear to be due to the man himself, and not to be the result of chance. And if it is for his sake that distinctions which are an encouragement or honor have been invented and established; and if he was the first on whom an encomium was pronounced, as Hippolochus, or to whom a statue was set up in the market-place, as to Harmodius and Aristogiton. And similarly in opposite cases. If he does not furnish you with enough material in himself, you must compare him with others, as Isocrates used to do, because of his inexperience of forensic speaking. And you must compare him with illustrious personages, for it affords ground for amplification and is noble, if he can be proved better than men of worth.
+
+Amplification is with good reason ranked as one of the forms of praise, since it consists in superiority, and superiority is one of the things that are noble. That is why, if you cannot compare him with illustrious personages, you must compare him with ordinary persons, since superiority is thought to indicate virtue.
+
+Speaking generally, of the topics common to all rhetorical arguments, amplification is most suitable for epideictic speakers, whose subject is actions which are not disputed, so that all that remains to be done is to attribute beauty and importance to them. Examples are most suitable for deliberative speakers, for it is by examination of the past that we divine and judge the future. Enthymemes are most suitable for forensic speakers, because the past, by reason of its obscurity, above all lends itself to the investigation of causes and to demonstrative proof.
+
+Such are nearly all the materials of praise or blame, the things which those who praise or blame should keep in view, and the sources of encomia and invective; for when these are known their contraries are obvious, since blame is derived from the contrary things.
+
+We have next to speak of the number and quality of the propositions of which those syllogisms are constructed which have for their object accusation and defence.
+
+Three things have to be considered; first, the nature and the number of the motives which lead men to act unjustly; secondly, what is the state of mind of those who so act; thirdly, the character and dispositions of those who are exposed to injustice.
+
+We will discuss these questions in order, after we have first defined acting unjustly.
+
+Let injustice, then, be defined as voluntarily causing injury contrary to the law. Now, the law is particular or general. By particular, I mean the written law in accordance with which a state is administered; by general, the unwritten regulations which appear to be universally recognized. Men act voluntarily when they know what they do, and do not act under compulsion. What is done voluntarily is not always done with premeditation; but what is done with premeditation is always known to the agent, for no one is ignorant of what he does with a purpose.
+
+The motives which lead men to do injury and commit wrong actions are depravity and incontinence. For if men have one or more vices, it is in that which makes him vicious that he shows himself unjust; for example, the illiberal in regard to money, the licentious in regard to bodily pleasures, the effeminate in regard to what makes for ease, the coward in regard to dangers, for fright makes him desert his comrades in peril; the ambitious in his desire for honor, the irascible owing to anger, one who is eager to conquer in his desire for victory, the rancorous in his desire for vengeance; the foolish man from having mistaken ideas of right and wrong, the shameless from his contempt for the opinion of others. Similarly, each of the rest of mankind is unjust in regard to his special weakness.
+
+This will be perfectly clear, partly from what has already been said about the virtues, and partly from what will be said about the emotions. It remains to state the motives and character of those who do wrong and of those who suffer from it.
+
+First, then, let us decide what those who set about doing wrong long for or avoid; for it is evident that the accuser must examine the number and nature of the motives which are to be found in his opponent; the defendant, which of them are not to be found in him.
+
+Now, all human actions are either the result of man's efforts or not. Of the latter some are due to chance, others to necessity. Of those due to necessity, some are to be attributed to compulsion, others to nature, so that the things which men do not do of themselves are all the result of chance, nature, or compulsion. As for those which they do of themselves and of which they are the cause, some are the result of habit, others of longing, and of the latter some are due to rational, others to irrational longing.
+
+Now wish is a [rational] longing for good, for no one wishes for anything unless he thinks it is good; irrational longings are anger and desire. Thus all the actions of men must necessarily be referred to seven causes: chance, nature, compulsion, habit, reason, anger, and desire.
+
+But it is superfluous to establish further distinctions of men's acts based upon age, moral habits, or anything else. For if the young happen to be irascible, or passionately desire anything, it is not because of their youth that they act accordingly, but because of anger and desire. Nor is it because of wealth or poverty; but the poor happen to desire wealth because of their lack of it, and the rich desire unnecessary pleasures because they are able to procure them. Yet in their case too it will not be wealth or poverty, but desire, that will be the mainspring of their action. Similarly, the just and the unjust, and all the others who are said to act in accordance with their moral habits, will act from the same causes, either from reason or emotion, but some from good characters and emotions, and others from the opposite.
+
+Not but that it does happen that such and such moral habits are followed by such and such consequences; for it may be that from the outset the fact of being temperate produces in the temperate man good opinions and desires in the matter of pleasant things, in the intemperate man the contrary.
+
+Therefore we must leave these distinctions on one side, but we must examine what are the usual consequences of certain conditions. For, if a man is fair or dark, tall or short, there is no rule that any such consequences should follow, but if he is young or old, just or unjust, it does make a difference. In a word, it will be necessary to take account of all the circumstances that make men's characters different; for instance, if a man fancies himself rich or poor, fortunate or unfortunate, it will make a difference. We will, however, discuss this later; let us now speak of what remains to be said here.
+
+Things which are the result of chance are all those of which the cause is indefinite, those which happen without any end in view, and that neither always, nor generally, nor regularly. The definition of chance will make this clear.
+
+Things which are the result of nature are all those of which the cause is in themselves and regular; for they turn out always, or generally, in the same way. As for those which happen contrary to nature there is no need to investigate minutely whether their occurrence is due to a certain force of nature or some other cause
+
+(it would seem, however, that such cases also are due to chance). Those things are the result of compulsion which are done by the agents themselves in opposition to their desire or calculation.
+
+Things are the result of habit, when they are done because they have often been done.
+
+Things are the result of calculation which are done because, of the goods already mentioned, they appear to be expedient either as an end or means to an end, provided they are done by reason of their being expedient; for even the intemperate do certain things that are expedient, for the sake, not of expediency, but of pleasure. Passion and anger are the causes of acts of revenge.
+
+But there is a difference between revenge and punishment; the latter is inflicted in the interest of the sufferer, the former in the interest of him who inflicts it, that he may obtain satisfaction.
+
+We will define anger when we come to speak of the emotions. Desire is the cause of things being done that are apparently pleasant. The things which are familiar and to which we have become accustomed are among pleasant things; for men do with pleasure many things which are not naturally pleasant, when they have become accustomed to them.
+
+In short, all things that men do of themselves either are, or seem, good or pleasant; and since men do voluntarily what they do of themselves, and involuntarily what they do not, it follows that all that men do voluntarily will be either that which is or seems good, or that which is or seems pleasant. For I reckon among good things the removal of that which is evil or seems evil, or the exchange of a greater evil for a less, because these two things are in a way desirable; in like manner, I reckon among pleasant things the removal of that which is or appears painful, and the exchange of a greater pain for a less. We must therefore make ourselves acquainted with the number and quality of expedient and pleasant things.
+
+We have already spoken of the expedient when discussing deliberative rhetoric; let us now speak of the pleasant. And we must regard our definitions as sufficient in each case, provided they are neither obscure nor too precise.
+
+Let it be assumed by us that pleasure is a certain movement of the soul, a sudden and perceptible settling down into its natural state, and pain the opposite.
+
+If such is the nature of pleasure, it is evident that that which produces the disposition we have just mentioned is pleasant, and that that which destroys it or produces the contrary settling down is painful.
+
+Necessarily, therefore, it must be generally pleasant to enter into a normal state (especially when what is done in accordance with that state has come into its own again); and the same with habits. For that which has become habitual becomes as it were natural; in fact, habit is something like nature, for the distance between often and always is not great, and nature belongs to the idea of always, habit to that of often.
+
+That which is not compulsory is also pleasant, for compulsion is contrary to nature. That is why what is necessary is painful, and it was rightly said, For every act of necessity is disagreeable.
+
+Application, study, and intense effort are also painful, for these involve necessity and compulsion, if they have not become habitual; for then habit makes them pleasant. Things contrary to these are pleasant; wherefore states of ease, idleness, carelessness, amusement, recreation, and sleep are among pleasant things, because none of these is in any way compulsory.
+
+Everything of which we have in us the desire is pleasant, for desire is a longing for the pleasant.
+
+Now, of desires some are irrational, others rational. I call irrational all those that are not the result of any assumption. Such are all those which are called natural; for instance, those which come into existence through the body—such as the desire of food, thirst, hunger, the desire of such and such food in particular; the desires connected with taste, sexual pleasures, in a word, with touch, smell, hearing, and sight. I call those desires rational which are due to our being convinced; for there are many things which we desire to see or acquire when we have heard them spoken of and are convinced that they are pleasant.
+
+And if pleasure consists in the sensation of a certain emotion, and imagination is a weakened sensation, then both the man who remembers and the man who hopes will be attended by an imagination of what he remembers or hopes. This being so, it is evident that there is pleasure both for those who remember and for those who hope, since there is sensation.
+
+Therefore all pleasant things must either be present in sensation, or past in recollection, or future in hope; for one senses the present, recollects the past, and hopes for the future.
+
+Therefore our recollections are pleasant, not only when they recall things which when present were agreeable, but also some things which were not, if their consequence subsequently proves honorable or good; whence the saying: Truly it is pleasant to remember toil after one has escaped it, and, When a man has suffered much and accomplished much, he afterwards takes pleasure even in his sorrows when he recalls them.
+
+The reason of this is that even to be free from evil is pleasant. Things which we hope for are pleasant, when their presence seems likely to afford us great pleasure or advantage, without the accompaniment of pain. In a word, all things that afford pleasure by their presence as a rule also afford pleasure when we hope for or remember them. Wherefore even resentment is pleasant, as Homer said of anger that it is Far sweeter than dripping honey;
+
+for no one feels resentment against those whom vengeance clearly cannot overtake, or those who are far more powerful than he is; against such, men feel either no resentment or at any rate less.
+
+Most of our desires are accompanied by a feeling of pleasure, for the recollection of a past or the hope of a future pleasure creates a certain pleasurable enjoyment; thus, those suffering from fever and tormented by thirst enjoy the remembrance of having drunk and the hope that they will drink again.
+
+The lovesick always take pleasure in talking, writing, or composing verses about the beloved; for it seems to them that in all this recollection makes the object of their affection perceptible. Love always begins in this manner, when men are happy not only in the presence of the beloved, but also in his absence when they recall him to mind.
+
+This is why, even when his absence is painful, there is a certain amount of pleasure even in mourning and lamentation; for the pain is due to his absence, but there is pleasure in remembering and, as it were, seeing him and recalling his actions and personality. Wherefore it was rightly said by the poet; Thus he spake, and excited in all a desire of weeping.
+
+And revenge is pleasant; for if it is painful to be unsuccessful, it is pleasant to succeed. Now, those who are resentful are pained beyond measure when they fail to secure revenge, while the hope of it delights them.
+
+Victory is pleasant, not only to those who love to conquer, but to all; for there is produced an idea of superiority, which all with more or less eagerness desire.
+
+And since victory is pleasant, competitive and disputatious amusements must be so too, for victories are often gained in them; among these we may include games with knuckle-bones, ball-games, dicing, and draughts. It is the same with serious sports; for some become pleasant when one is familiar with them, while others are so from the outset, such as the chase and every description of outdoor sport; for rivalry implies victory. It follows from this that practice in the law courts and disputation are pleasant to those who are familiar with them and well qualified.
+
+Honor and good repute are among the most pleasant things, because every one imagines that he possesses the qualities of a worthy man, and still more when those whom he believes to be trustworthy say that he does. Such are neighbors rather than those who live at a distance; intimate friends and fellow-citizens rather than those who are unknown; contemporaries rather than those who come later; the sensible rather than the senseless; the many rather than the few; for such persons are more likely to be trustworthy than their opposites. As for those for whom men feel great contempt, such as children and animals, they pay no heed to their respect or esteem, or, if they do, it is not for the sake of their esteem, but for some other reason.
+
+A friend also is among pleasant things, for it is pleasant to love —for no one loves wine unless he finds pleasure in it—just as it is pleasant to be loved; for in this case also a man has an impression that he is really endowed with good qualities, a thing desired by all who perceive it; and to be loved is to be cherished for one's own sake.
+
+And it is pleasant to be admired, because of the mere honor. Flattery and the flatterer are pleasant, the latter being a sham admirer and friend.
+
+It is pleasant to do the same things often; for that which is familiar is, as we said, pleasant.
+
+Change also is pleasant, since change is in the order of nature; for perpetual sameness creates an excess of the normal condition; whence it was said: Change in all things is sweet.
+
+This is why what we only see at intervals, whether men or things, is pleasant; for there is a change from the present, and at the same time it is rare.
+
+And learning and admiring are as a rule pleasant; for admiring implies the desire to learn, so that what causes admiration is to be desired, and learning implies a return to the normal.
+
+It is pleasant to bestow and to receive benefits; the latter is the attainment of what we desire, the former the possession of more than sufficient means, both of them things that men desire. Since it is pleasant to do good, it must also be pleasant for men to set their neighbors on their feet, and to supply their deficiencies.
+
+And since learning and admiring are pleasant, all things connected with them must also be pleasant; for instance, a work of imitation, such as painting, sculpture, poetry, and all that is well imitated, even if the object of imitation is not pleasant; for it is not this that causes pleasure or the reverse, but the inference that the imitation and the object imitated are identical, so that the result is that we learn something.
+
+The same may be said of sudden changes and narrow escapes from danger; for all these things excite wonder.
+
+And since that which is in accordance with nature is pleasant, and things which are akin are akin in accordance with nature, all things akin and like are for the most part pleasant to each other, as man to man; horse to horse, youth to youth. This is the origin of the proverbs: The old have charms for the old, the young for the young, Like to like, Beast knows beast, Birds of a feather flock together, and all similar sayings.
+
+And since things which are akin and like are always pleasant to one another, and every man in the highest degree feels this in regard to himself, it must needs be that all men are more or less selfish; for it is in himself above all that such conditions are to be found. Since, then, all men are selfish, it follows that all find pleasure in what is their own, such as their works and words. That is why men as a rule are fond of those who flatter and love them, of honor, and of children; for the last are their own work. It is also pleasant to supply what is wanting, for then it becomes our work. And since it is most pleasant to command, it is also pleasant to be regarded as wise for practical wisdom is commanding, and philosophy consists In the knowledge of many things that excite wonder. Further, since men are generally ambitious, it follows that it is also agreeable to find fault with our neighbors.
+
+And if a man thinks he excels in anything, he likes to devote his time to it; as Euripides says: And allotting the best part of each day to that in which he happens to surpass himself, he presses eagerly towards it.
+
+Similarly, since amusement, every kind of relaxation, and laughter are pleasant, ridiculous things—men, words, or deeds—must also be pleasant. The ridiculous has been discussed separately in the Poetics. Let this suffice for things that are pleasant; those that are painful will be obvious from the contraries of these.
+
+Such are the motives of injustice; let us now state the frame of mind of those who commit it, and who are the sufferers from it. Men do wrong when they think that it can be done and that it can be done by them; when they think that their action will either be undiscovered, or if discovered will remain unpunished; or if it is punished, that the punishment will be less than the profit to themselves or to those for whom they care.
+
+As for the kind of things which seem possible or impossible, we will discuss them later, for these topics are common to all kinds of rhetoric. Now men who commit wrong think they are most likely to be able to do so with impunity, if they are eloquent, business-like, experienced in judicial trials, if they have many friends, and if they are wealthy.
+
+They think there is the greatest chance of their being able to do so, if they themselves belong to the above classes; if not, if they have friends, servants, or accomplices who do; for thanks to these qualities they are able to commit wrong and to escape discovery and punishment.
+
+Similarly, if they are friends of those who are being wronged, or of the judges; for friends are not on their guard against being wronged and, besides, they prefer reconciliation to taking proceedings; and judges favor those whom they are fond of, and either let them off altogether or inflict a small penalty.
+
+Those are likely to remain undetected whose qualities are out of keeping with the charges, for instance, if a man wanting in physical strength were accused of assault and battery, or a poor and an ugly man of adultery. Also, if the acts are done quite openly and in sight of all; for they are not guarded against, because no one would think them possible.
+
+Also, if they are so great and of such a nature that no one would even be likely to attempt them, for these also are not guarded against; for all guard against ordinary ailments and wrongs, but no one takes precautions against those ailments from which no one has ever yet suffered.
+
+And those who have either no enemy at all or many; the former hope to escape notice because they are not watched, the latter do escape because they would not be thought likely to attack those who are on their guard and because they can defend themselves by the plea that they would never have attempted it.
+
+And, those who have ways or places of concealment for stolen property, or abundant opportunities of disposing of it. And those who, even if they do not remain undetected, can get the trial set aside or put off, or corrupt the judges. And those who, if a fine be imposed, can get payment in full set aside or put off for a long time, or those who, owing to poverty, have nothing to lose.
+
+And in cases where the profit is certain, large, or immediate, while the punishment is small, uncertain, or remote. And where there can be no punishment equal to the advantages, as seems to be the case in a tyranny.
+
+And when the unjust acts are real gains and the only punishment is disgrace; and when, on the contrary, the unjust acts tend to our credit, for instance, if one avenges father or mother, as was the case with Zeno, while the punishment only involves loss of money, exile, or something of the kind. For men do wrong from both these motives and in both these conditions of mind; but the persons are not the same, and their characters are exactly opposite.
+
+And those who have often been undetected or have escaped punishment; and those who have often been unsuccessful; for in such cases, as in actual warfare, there are always men ready to return to the fight.
+
+And all who hope for pleasure and profit at once, while the pain and the loss come later; such are the intemperate, intemperance being concerned with all things that men long for.
+
+And when, on the contrary, the pain or the loss is immediate, while the pleasure and the profit are later and more lasting; for temperate and wiser men pursue such aims.
+
+And those who may possibly be thought to have acted by chance or from necessity, from some natural impulse or from habit, in a word, to have committed an error rather than a crime.
+
+And those who hope to obtain indulgence; and all those who are in need, which is of two kinds; for men either need what is necessary, as the poor, or what is superfluous, as the wealthy.
+
+And those who are highly esteemed or held in great contempt; the former will not be suspected, the latter no more than they are already.
+
+In such a frame of mind men attempt to do wrong, and the objects of their wrongdoing are men and circumstances of the following kind. Those who possess what they themselves lack, things either necessary, or superfluous, or enjoyable;
+
+both those who are far off and those who are near, for in the one case the gain is speedy, in the other reprisals are slow, as if, for instance, Greeks were to plunder Carthaginians.
+
+And those who never take precautions and are never on their guard, but are confiding; for all these are easily taken unawares. And those who are indolent; for it requires a man who takes pains to prosecute. And those who are bashful; for they are not likely to fight about money.
+
+And those who have often been wronged but have not prosecuted, being, as the proverb says, Mysian booty.
+
+And those who have never, or those who have often, suffered wrong; for both are off their guard, the one because they have never yet been attacked, the others because they do not expect to be attacked again.
+
+And those who have been slandered, or are easy to slander; for such men neither care to go to law, for fear of the judges, nor, if they do, can they convince them; to this class belong those who are exposed to hatred or envy.
+
+And those against whom the wrongdoer can pretend that either their ancestors, or themselves, or their friends, have either committed, or intended to commit, wrong either against himself, or his ancestors, or those for whom he has great regard; for, as the proverb says, evil-doing only needs an excuse.
+
+And both enemies and friends; for it is easy to injure the latter, and pleasant to injure the former. And those who are friendless. And those who are unskilled in speech or action; for either they make no attempt to prosecute, or come to terms, or accomplish nothing.
+
+And those to whom it is no advantage to waste time waiting for the verdict or damages, such as strangers or husbandmen; for they are ready to compromise on easy terms and to drop proceedings.
+
+And those who have committed numerous wrongs, or such as those from which they themselves are suffering; for it seems almost an act of justice that a man should suffer a wrong such as he had been accustomed to make others suffer; if, for instance, one were to assault a man who was in the habit of outraging others.
+
+And those who have already injured us, or intended, or intend, or are about to do so; for in such a case vengeance is both pleasant and honorable, and seems to be almost an act of justice.
+
+And those whom we wrong in order to ingratiate ourselves with our friends, or persons whom we admire or love, or our masters, in a word, those by whom our life is ruled.
+
+And those in reference to whom there is a chance of obtaining merciful consideration. And those against whom we have a complaint, or with whom we have had a previous difference, as Callippus acted in the matter of Dion; for in such cases it seems almost an act of justice.
+
+And those who are going to be attacked by others, if we do not attack first, since it is no longer possible to deliberate; thus, Aenesidemus is said to have sent the prize in the game of cottabus to Gelon, who, having reduced a town to slavery, had anticipated him by doing what he had intended to do himself.
+
+And those to whom, after having injured them, we shall be enabled to do many acts of justice, in the idea that it will he easy to repair the wrong; as Jason the Thessalian said one should sometimes commit injustice, in order to be able also to do justice often.
+
+Men are ready to commit wrongs which all or many are in the habit of committing, for they hope to be pardoned for their offences.
+
+They steal objects that are easy to conceal; such are things that are quickly consumed, as eatables; things which can easily be changed in form or color or composition;
+
+things for which there are many convenient hiding-places, such as those that are easy to carry or stow away in a corner;
+
+those of which a thief already possesses a considerable number exactly similar or hard to distinguish. Or they commit wrongs which the victims are ashamed to disclose, such as outrages upon the women of their family, upon themselves, or upon their children. And all those wrongs in regard to which appeal to the law would create the appearance of litigiousness; such are wrongs which are unimportant or venial. These are nearly all the dispositions which induce men to commit wrong, the nature and motive of the wrongs, and the kind of persons who are the victims of wrong.
+
+Let us now classify just and unjust actions generally, starting from what follows. Justice and injustice have been defined in reference to laws and persons in two ways.
+
+Now there are two kinds of laws, particular and general. By particular laws I mean those established by each people in reference to themselves, which again are divided into written and unwritten; by general laws I mean those based upon nature. In fact, there is a general idea of just and unjust in accordance with nature, as all men in a manner divine, even if there is neither communication nor agreement between them. This is what Antigone in Sophocles evidently means, when she declares that it is just, though forbidden, to bury Polynices, as being naturally just: For neither to-day nor yesterday, but from all eternity, these statutes live and no man knoweth whence they came.
+
+And as Empedocles says in regard to not killing that which has life, for this is not right for some and wrong for others, But a universal precept, which extends without a break throughout the wide-ruling sky and the boundless earth.
+
+Alcidamas also speaks of this precept in his Messeniacus....
+
+And in relation to persons, there is a twofold division of law; for what one ought to do or ought not to do is concerned with the community generally, or one of its members.
+
+Therefore there are two kinds of just and unjust acts, since they can be committed against a definite individual or against the community; he who commits adultery or an assault is guilty of wrong against a definite individual, he who refuses to serve in the army of wrong against the State.
+
+All kinds of wrong acts having been thus distinguished, some of which affect the State, others one or several individuals, let us repeat the definition of being wronged, and then go on to the rest.
+
+Being wronged is to suffer injustice at the hands of one who voluntarily inflicts it, for it has been established that injustice is a voluntary act.
+
+And since the man who suffers injustice necessarily sustains injury and that against his will, it is evident from what has been said in what the injuries consist; for things good and bad have already been distinguished in themselves, and it has been said that voluntary acts are all such as are committed with knowledge of the case.
+
+Hence it necessarily follows that all accusations concern the State or the individual, the accused having acted either ignorantly and against his will, or voluntarily and with knowledge, and in the latter case with malice aforethought or from passion.
+
+We will speak of anger when we come to treat of the passions, and we have already stated in what circumstances and with what dispositions men act with deliberate purpose.
+
+But since a man, while admitting the fact, often denies the description of the charge or the point on which it turns—for instance, admits that he took something, but did not steal it; that he was the first to strike, but committed no outrage; that he had relations, but did not commit adultery, with a woman; or that he stole something but was not guilty of sacrilege, since the object in question was not consecrated; or that he trespassed, but not on public land; or that he held converse with the enemy, but was not guilty of treason—for this reason it will be necessary that a definition should be given of theft, outrage, or adultery, in order that, if we desire to prove that an offence has or has not been committed, we may be able to put the case in a true light.
+
+In all such instances the question at issue is to know whether the supposed offender is a wrongdoer and a worthless person, or not; for vice and wrongdoing consist in the moral purpose, and such terms as outrage and theft further indicate purpose; for if a man has struck, it does not in all cases follow that he has committed an outrage, but only if he has struck with a certain object, for instance, to bring disrepute upon the other or to please himself. Again, if a man has taken something by stealth, it is by no means certain that he has committed theft, but only if he has taken it to injure another or to get something for himself. It is the same in all other cases as in these.
+
+We have said that there are two kinds of just and unjust actions (for some are written, but others are unwritten), and have spoken of those concerning which the laws are explicit; of those that are unwritten there are two kinds.
+
+One kind arises from an excess of virtue or vice, which is followed by praise or blame, honor or dishonor, and rewards; for instance, to be grateful to a benefactor, to render good for good, to help one's friends, and the like; the other kind contains what is omitted in the special written law.
+
+For that which is equitable seems to be just, and equity is justice that goes beyond the written law. These omissions are sometimes involuntary, sometimes voluntary, on the part of the legislators; involuntary when it may have escaped their notice, voluntary when, being unable to define for all cases, they are obliged to make a universal statement, which is not applicable to all, but only to most, cases; and whenever it is difficult to give a definition owing to the infinite number of cases, as, for instance, the size and kind of an iron instrument used in wounding; for life would not be long enough to reckon all the possibilities.
+
+If then no exact definition is possible, but legislation is necessary, one must have recourse to general terms; so that, if a man wearing a ring lifts up his hand to strike or actually strikes, according to the written law he is guilty of wrongdoing, but in reality he is not; and this is a case for equity.
+
+If then our definition of equity is correct, it is easy to see what things and persons are equitable or not.
+
+Actions which should be leniently treated are cases for equity; errors, wrong acts, and misfortunes, must not be thought deserving of the same penalty. Misfortunes are all such things as are unexpected and not vicious; errors are not unexpected, but are not vicious; wrong acts are such as might be expected and vicious, for acts committed through desire arise from vice.
+
+And it is equitable to pardon human weaknesses, and to look, not to the law but to the legislator; not to the letter of the law but to the intention of the legislator; not to the action itself, but to the moral purpose;
+
+not to the part, but to the whole; not to what a man is now, but to what he has been, always or generally; to remember good rather than ill treatment, and benefits received rather than those conferred; to bear injury with patience; to be willing to appeal to the judgement of reason rather than to violence;
+
+to prefer arbitration to the law court, for the arbitrator keeps equity in view, whereas the dicast looks only to the law, and the reason why arbitrators were appointed was that equity might prevail. Let this manner of defining equity suffice.
+
+Wrong acts are greater in proportion to the injustice from which they spring. For this reason the most trifling are sometimes the greatest, as in the charge brought by Callistratus against Melanopus that he had fraudulently kept back three consecrated half-obols from the temple-builders; whereas, in the case of just actions, it is quite the contrary. The reason is that the greater potentially inheres in the less; for he who has stolen three consecrated half-obols will commit any wrong whatever. Wrong acts are judged greater sometimes in this way, sometimes by the extent of the injury done.
+
+A wrong act is greater when there is no adequate punishment for it, but all are insufficient; when there is no remedy, because it is difficult if not impossible to repair it; and when the person injured cannot obtain legal satisfaction, since it is irremediable; for justice and punishment are kinds of remedies.
+
+And if the sufferer, having been wronged, has inflicted some terrible injury upon himself, the guilty person deserves greater punishment; wherefore Sophocles, when pleading on behalf of Euctemon, who had committed suicide after the outrage he had suffered, declared that he would not assess the punishment at less than the victim had assessed it for himself.
+
+A wrong act is also greater when it is unprecedented, or the first of its kind, or when committed with the aid of few accomplices; and when it has been frequently committed; or when because of it new prohibitions and penalties have been sought and found: thus, at Argos the citizen owing to whom a new law has been passed, is punished, as well as those on whose account a new prison had to be built.
+
+The crime is greater, the more brutal it is; or when it has been for a long time premeditated; when the recital of it inspires terror rather than pity. Rhetorical tricks of the following kind may be used:—the statement that the accused person has swept away or violated several principles of justice, for example, oaths, pledges of friendship, plighted word, the sanctity of marriage; for this amounts to heaping crime upon crime.
+
+Wrong acts are greater when committed in the very place where wrongdoers themselves are sentenced, as is done by false witnesses; for where would a man not commit wrong, if he does so in a court of justice? They are also greater when accompanied by the greatest disgrace; when committed against one who has been the guilty person's benefactor, for in that case, the wrongdoer is guilty of wrong twice over, in that he not only does wrong, but does not return good for good.
+
+So too, again, when a man offends against the unwritten laws of right, for there is greater merit in doing right without being compelled; now the written laws involve compulsion, the unwritten do not. Looked at in another way, wrongdoing is greater, if it violates the written laws; for a man who commits wrongs that alarm him and involve punishment, will be ready to commit wrong for which he will not be punished. Let this suffice for the treatment of the greater or less degree of wrongdoing.
+
+Following on what we have just spoken of, we have now briefly to run over what are called the inartificial proofs, for these properly belong to forensic oratory.
+
+These proofs are five in number: laws, witnesses, contracts, torture, oaths.
+
+Let us first then speak of the laws, and state what use should be made of them when exhorting or dissuading, accusing or defending.
+
+For it is evident that, if the written law is counter to our case, we must have recourse to the general law and equity, as more in accordance with justice;
+
+and we must argue that, when the dicast takes an oath to decide to the best of his judgement, he means that he will not abide rigorously by the written laws;
+
+that equity is ever constant and never changes, even as the general law, which is based on nature, whereas the written laws often vary (this is why Antigone in Sophocles justifies herself for having buried Polynices contrary to the law of Creon, but not contrary to the unwritten law: For this law is not of now or yesterday, but is eternal... this I was not likely [to infringe through fear of the pride] of any man);
+
+and further, that justice is real and expedient, but not that which only appears just; nor the written law either, because it does not do the work of the law; that the judge is like an assayer of silver, whose duty is to distinguish spurious from genuine justice;
+
+that it is the part of a better man to make use of and abide by the unwritten rather than the written law.
+
+Again, it is necessary to see whether the law is contradictory to another approved law or to itself; for instance, one law enacts that all contracts should be binding, while another forbids making contracts contrary to the law.
+
+If the meaning of the law is equivocal, we must turn it about, and see in which way it is to be interpreted so as to suit the application of justice or expediency, and have recourse to that.
+
+If the conditions which led to the enactment of the law are now obsolete, while the law itself remains, one must endeavor to make this clear and to combat the law by this argument.
+
+But if the written law favors our case, we must say that the oath of the dicast to decide to the best of his judgement does not justify him in deciding contrary to the law, but is only intended to relieve him from the charge of perjury, if he is ignorant of the meaning of the law; that no one chooses that which is good absolutely, but that which is good for himself; that there is no difference between not using the laws and their not being enacted; that in the other arts there is no advantage in trying to be wiser than the physician, for an error on his part does not do so much harm as the habit of disobeying the authority; that to seek to be wiser than the laws is just what is forbidden in the most approved laws. Thus much for the laws.
+
+Witnesses are of two kinds, ancient and recent; of the latter some share the risk of the trial, others are outside it. By ancient I mean the poets and men of repute whose judgements are known to all; for instance, the Athenians, in the matter of Salamis, appealed to Homer as a witness, and recently the inhabitants of Tenedos to Periander of Corinth against the Sigeans. Cleophon also made use of the elegiacs of Solon against Critias, to prove that his family had long been notorious for licentiousness, otherwise Solon would never have written: Bid me the fair-haired Critias listen to his father.
+
+One should appeal to such witnesses for the past, but also to interpreters of oracles for the future; thus, for instance, Themistocles interpreted the wooden wall to mean that they must fight at sea. Further, proverbs, as stated, are evidence; for instance, if one man advises another not to make a friend of an old man, he can appeal to the proverb, Never do good to an old man. And if he advises another to kill the children, after having killed the fathers, he can say, Foolish is he who, having killed the father, suffers the children to live.
+
+By recent witnesses I mean all well-known persons who have given a decision on any point, for their decisions are useful to those who are arguing about similar cases. Thus for instance, Eubulus, when attacking Chares in the law courts, made use of what Plato said against Archibius, namely, that the open confession of wickedness had increased in the city.
+
+And those who share the risk of the trial, if they are thought to be perjurers. Such witnesses only serve to establish whether an act has taken place or not, whether it is or is not the case; but if it is a question of the quality of the act, for instance, whether it is just or unjust, expedient or inexpedient, they are not competent witnesses; but witnesses from a distance are very trustworthy even in regard to this. But ancient witnesses are the most trustworthy of all, for they cannot be corrupted. In regard to the confirmation of evidence, when a man has no witnesses, he can say that the decision should be given in accordance with probabilities, and that this is the meaning of the oath according to the best of one's judgement; that probabilities cannot be bribed to deceive, and that they cannot be convicted of bearing false witness. But if a man has witnesses and his adversary has none, he can say that probabilities incur no responsibility, and that there would have been no need of evidence, if an investigation according to the arguments were sufficient.
+
+Evidence partly concerns ourselves, partly our adversary, as to the fact itself or moral character; so that it is evident that one never need lack useful evidence. For, if we have no evidence as to the fact itself, neither in confirmation of our own case nor against our opponent, it will always be possible to obtain some evidence as to character that will establish either our own respectability or the worthlessness of our opponent.
+
+As for all the other questions relative to a witness, whether he is a friend, an enemy, or neutral, of good or bad or middling reputation, and for all other differences of this kind, we must have recourse to the same topics as those from which we derive our enthymemes.
+
+As for contracts, argument may be used to the extent of magnifying or minimizing their importance, of proving that they do or do not deserve credit. If we have them on our side, we must try to prove them worthy of credit and authoritative; but if they are on the side of our opponent, we must do the opposite.
+
+In view of rendering them worthy or unworthy of credit, the method of procedure is exactly the same as in the case of witnesses; for contracts are trustworthy according to the character of their signatories or depositaries. When the existence of the contract is admitted, if it is in our favor, we must strengthen it by asserting that the contract is a law, special and partial; and it is not the contracts that make the law authoritative, but it is the laws that give force to legal contracts. And in a general sense the law itself is a kind of contract, so that whoever disobeys or subverts a contract, subverts the laws.
+
+Further, most ordinary and all voluntary transactions are carried out according to contract; so that if you destroy the authority of contracts, the mutual intercourse of men is destroyed. All other arguments suitable to the occasion are easy to see.
+
+But if the contract is against us and in favor of our opponents, in the first place those arguments are suitable which we should oppose to the law if it were against us; that it would be strange if, while we consider ourselves entitled to refuse to obey ill-made laws, whose authors have erred, we should be obliged to consider ourselves always bound by contracts.
+
+Or, that the judge is the dispenser of justice; so that it is not the contents of the contract that he has to consider, but what is juster.
+
+Further, that one cannot alter justice either by fraud or compulsion, for it is based upon nature, whereas contracts may be entered into under both conditions. In addition to this, we must examine whether the contract is contrary to any written law of our own or foreign countries, or to any general law, or to other previous or subsequent contracts. For either the latter are valid and the former not, or the former are right and the latter fraudulent; we may put it in whichever way it seems fit. We must also consider the question of expediency—whether the contract is in any way opposed to the interest of the judges. There are a number of other arguments of the same kind, which are equally easy to discern.
+
+Torture is a kind of evidence, which appears trustworthy, because a sort of compulsion is attached to it. Nor is it difficult to see what may be said concerning it, and by what arguments, if it is in our favor, we can exaggerate its importance by asserting that it is the only true kind of evidence; but if it is against us and in favor of our opponent, we can destroy its value by telling the truth about all kinds of torture generally; for those under compulsion are as likely to give false evidence as true, some being ready to endure everything rather than tell the truth, while others are equally ready to make false charges against others, in the hope of being sooner released from torture. It is also necessary to be able to quote actual examples of the kind with which the judges are acquainted. It may also be said that evidence given under torture is not true; for many thick-witted and thick-skinned persons, and those who are stout-hearted heroically hold out under sufferings, while the cowardly and cautious, before they see the sufferings before them, are bold enough; wherefore evidence from torture may be considered utterly untrustworthy.
+
+As to oaths four divisions may be made; for either we tender an oath and accept it, or we do neither, or one without the other, and in the last case we either tender but do not accept, or accept but do not tender. Besides this, one may consider whether the oath has already been taken by us or by the other party.
+
+If you do not tender the oath to the adversary, it is because men readily perjure themselves, and because, after he has taken the oath, he will refuse to repay the money, while, if he does not take the oath, you think that the dicasts will condemn him; and also because the risk incurred in leaving the decision to the dicasts is preferable, for you have confidence in them, but not in your adversary.
+
+If you refuse to take the oath yourself, you may argue that the oath is only taken with a view to money; that, if you had been a scoundrel, you would have taken it at once, for it is better to be a scoundrel for something than for nothing; that, if you take it, you will win your case, if not, you will probably lose it; consequently, your refusal to take it is due to moral excellence, not to fear of committing perjury. And the apophthegm of Xenophanes is apposite— that it is unfair for an impious man to challenge a pious one, for it is the same as a strong man challenging a weak one to hit or be hit.
+
+If you accept the oath, you may say that you have confidence in yourself, but not in your opponent, and, reversing the apophthegm of Xenophanes, that the only fair way is that the impious man should tender the oath and the pious man take it; and that it would be monstrous to refuse to take the oath yourself, while demanding that the judges should take it before giving their verdict.
+
+But if you tender the oath, you may say that it is an act of piety to be willing to leave the matter to the gods; that your opponent has no need to look for other judges, for you allow him to make the decision himself;
+
+and that it would be ridiculous that he should be unwilling to take an oath in cases where he demands that the dicasts should take one.
+
+Now, since we have shown how we must deal with each case individually, it is clear how we must deal with them when taken two and two; for instance, if we wish to take the oath but not to tender it, to tender it but not to take it, to accept and tender it, or to do neither the one nor the other. For such cases, and similarly the arguments, must be a combination of those already mentioned. And if we have already taken an oath which contradicts the present one, we may argue that it is not perjury; for whereas wrongdoing is voluntary, and perjury is wrongdoing, what is done in error or under compulsion is involuntary.
+
+Here we must draw the conclusion that perjury consists in the intention, not in what is said. But if the opponent has taken such an oath, we may say that one who does not abide by what be has sworn subverts everything, for this is the reason why the dicasts take an oath before applying the laws; and [we may make this appeal]: They demand that you abide by your oath as judges, while they themselves do not abide by theirs. Further, we should employ all means of amplification. Let this suffice for the inartificial proofs.

@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 70
+chapter_title: Chapter 9
+chapter_slug: 70
+variant_id: "9f867c1a-4d8a-5897-9f2c-a79b2e3b8cd9"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 440
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:70"
+translator: Perseus Digital Library
+---
+
+But in the most melancholy circumstances what mirth does he not provoke? I have committed to memory some short phrases of one edict, which he appears to think particularly clever; but I have not as yet found any one who has understood what he intended by them. “That is no insult which a worthy man does.” Now, in the first place, what is the meaning of “worthy?” For there are many men worthy of punishment, as he himself is. Does he mean what a man does who is invested with any dignity? if so, what insult can be greater? Moreover, what is the meaning of “doing an insult?” Who ever uses such an expression? Then comes, “Nor any fear which an enemy threatens.” What then? is fear usually threatened by a friend? Then came many similar sentences. Is it not better to be dumb, than to say what no one can understand? Now see why his tutor, exchanging pleas for plows, has had given to him in the public domain of the Roman people two thousand acres of land in the Leontine district, exempt from all taxes, for making a stupid man still stupider at the public expense.
+
+However, these perhaps are trifling matters. I ask now, why all on a sudden he became so gentle in the senate, after having been so fierce in his edicts? For what was the object of threatening Lucius Cassius, a most fearless tribune of the people, and a most virtuous and loyal citizen, with death if he came to the senate? of expelling Decimus Carfulenus, a man thoroughly attached to the republic, from the senate by violence and threats of death? of interdicting Titus Canutius, by whom he had been repeatedly and deservedly harassed by most legitimate attacks, not only from the temple itself, but from all approach to it? What was the resolution of the senate which he was afraid that they would stop by the interposition of their veto? That, I suppose, respecting the supplication in honor of Marcus Lepidus, a most illustrious man! Certainly there was a great danger of our hindering an ordinary compliment to a man on whom we were every day thinking of conferring some extraordinary honor. However, that he might not appear to have had no reason at all for ordering the senate to meet, he was on the point of bringing forward some motion about the republic when the news about the fourth legion came; which entirely bewildered him, and hastening to flee away, he took a division on the resolution for decreeing this supplication, though such a proceeding had never been heard of before.

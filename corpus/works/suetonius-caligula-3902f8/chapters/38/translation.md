@@ -1,0 +1,21 @@
+---
+work_id: "3902f872-70c1-51cc-bb46-4f90c7c8bdde"
+work_slug: "suetonius-caligula-3902f8"
+work_title: Caligula
+author_name: Suetonius
+chapter_number: 38
+chapter_title: Chapter 38
+chapter_slug: 38
+variant_id: "2475adf5-a678-5624-b699-cc381c09a8e0"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 432
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-eng2:38"
+translator: Perseus Digital Library
+---
+
+Having therefore quite exhausted these funds, and being in want of money, he had recourse to plundering the people, by every mode of false accusation, confiscation, and taxation, that could be invented. He declared that no one had any right to the freedom of Rome, although their ancestors had acquired it for themselves and their posterity, unless they were sons; for that none beyond that degree ought to be considered as posterity. When the grants of the Divine Julius and Augustus were produced to him, he only said, that he was very sorry that they were obsolete and out of date. He also charged all those with making false returns, who, after the taking of the census, had by any means whatever increased their property. He annulled the wills of all who had been centurions of the first rank, as testimonies of their base ingratitude, if from the beginning of Tiberius 's reign they had not left either that prince or himself their heir. He also set aside the wills of all others, if any person only pretended to say, that they designed at their death to leave Caesar their heir. The public becoming terrified at this proceeding, he was now appointed joint-heir with their friends, and in the case of parents with their children, by persons unknown to him. Those who lived any considerable time after making such a will, he said, were only making game of him; and accordingly he sent many of them poisoned cakes. He used to try such causes himself; fixing previously the sum he proposed to raise during the sitting, and, after he had secured it, quitting the tribunal. Impatient of the least delay, he condemned by a single sentence forty persons, against whom there were different charges; boasting to Caesonia when she awoke, "how much business he had dispatched while she was taking her mid-day sleep." He exposed to sale by auction, the remains of the apparatus used in the public spectacles; and exacted such biddings, and raised the prices so high, that some of the purchasers were ruined, and bled themselves to death. There is a well-known story told of Aponius Saturninae, who happening to fall asleep as he sat on a bench at the sale, Caius called out to the auctioneer, not to overlook the praetorian personage who nodded to him so often; and accordingly the salesman went on, pretending to take the nods for tokens of assent, until thirteen gladiators were knocked down to him at the sum of nine millions of sesterces, he being in total ignorance of what was doing.

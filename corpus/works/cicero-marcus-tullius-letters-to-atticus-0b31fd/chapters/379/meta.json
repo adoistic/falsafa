@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 379,
+  "chapter_title": "Chapter text=A:book=14:letter=14",
+  "chapter_slug": "379",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b0871c4-010a-54b6-8061-2c1e0ee83e49",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 862,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:379"
+    }
+  ]
+}

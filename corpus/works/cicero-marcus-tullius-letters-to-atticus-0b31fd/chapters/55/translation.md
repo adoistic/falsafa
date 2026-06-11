@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 55
+chapter_title: "Chapter text=A:book=3:letter=10"
+chapter_slug: 55
+variant_id: "448017b4-c40b-5339-be86-3ec0ffa5511f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 486
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:55"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) THESSALONICA, 17 JUNE
+
+The public transactions up to the 25th of May I have learnt from your letter. I am waiting for the rest, as you advised, at Thessalonica; and when they arrive I shall be better able to decide where to be. For if there is any reason, if any action is being taken, if I shall see any hopes, I shall either wait in the same place or go to your house; but if, as you say, these hopes have vanished into air, I shall look out for something else. At present you do not give me any indication except the disagreement of those friends of yours, which, however, arises between them on every kind of subject rather than myself. Therefore I don't see what good it is to me. However, as long as you all will have me hope, I shall obey you. For as to your scoldings so frequent and so severe, and your saying that I am faint-hearted, I would ask you what misery is there so heavy as not to be included in my disfranchisement? Did anyone ever fall from such a high position, in so good a cause, with such endowments of genius, wisdom and popularity, with such powerful supports from all loyalists? Can I forget what I was, and not feel what I am? Of what honour, of what glory, of what children, of what means, of what a brother I am deprived? This last, indeed, to draw your attention to a new kind of disaster—though I valued him, and always had done so, more than myself—I have avoided seeing, lest I should behold his grief and mourning, or lest I-whom he had left in the highest prosperity-should obtrude myself upon him in a state of ruin and humiliation. I pass over the other particulars that are past bearing: for I am prevented by my tears. And here, let me ask, am I to be blamed for my grief, or for the unfortunate mistake of not retaining these advantages (and I could easily have done so, had not a plot for my destruction been hatched within my own walls), or at least of not losing them without losing my life at the same time? My purpose in writing these words is that you should rather console me, as you do, than think me deserving of correction or chiding; and the reason of the comparative brevity of my letters is, in the first place, that I am hindered by outbursts of sorrow, and, in the second place, that I have news to expect from Rome rather than any to communicate myself. But when that news arrives I will let you know my plans. Pray, as you have done hitherto, write to me on as many subjects as possible, that I may not be ignorant of any possible thing there is to know. Thessalonica, 17 June.

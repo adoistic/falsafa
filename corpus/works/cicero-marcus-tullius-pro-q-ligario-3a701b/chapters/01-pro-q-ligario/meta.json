@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-q-ligario-3a701b",
+  "work_title": "Pro Q. Ligario",
+  "chapter_number": 1,
+  "chapter_title": "Pro Q. Ligario",
+  "chapter_slug": "01-pro-q-ligario",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3caf64f5-b89e-56a8-84ca-49799688843a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3107,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi033.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f66b355-5649-5196-9b5d-960accdb0567",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6113,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi033.perseus-eng1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "pseudo-lucian-asinus-fb2b44",
+  "work_title": "Asinus",
+  "chapter_number": 1,
+  "chapter_title": "Asinus",
+  "chapter_slug": "01-asinus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9035c656-15a3-570d-a583-d83855b144bc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9674,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0061.tlg001.1st1K-grc1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "40ae3cc2-267d-52df-9580-c901c23edc47",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10426,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0061.tlg001.perseus-eng1"
+    }
+  ]
+}

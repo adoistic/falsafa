@@ -1,0 +1,211 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 6
+chapter_title: "Chapter text=A:book=1:letter=10"
+chapter_slug: 06
+variant_id: "e69331d5-70d5-59b8-a8e8-91d4131a3b80"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 6261
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-lat1:6"
+curator: thothica
+---
+
+Scr. Laodiceae vi K. Mart. a. 704 (50).
+
+CICERO ATTICO salutem tuas litteras a. d. quintum Terminalia Laodiceae; quas legi libentissime plenissimas amoris, humanitatis, offici, diligentiae. igitur respondebo non χρύσεα χαλκείων (sic enim postulas) nec οἰκονομίαν meam instituam, sed ordinem conservabo tuum. a Cybistris te meas litteras habere ais a. d. xi Kalendas Octobris datas et scire vis tuas ego quas acceperim. fere quas commemoras, praeter eas quas scribis Lentuli pueris et Equotutico et Brundisio datas. re non οἴχεται tua industria quod vereris sed praeclare ponitur, si quidem id egisti ut ego delectarer. nulla re sum delectatus magis.
+
+meam βαθύτητα in Appio tibi, liberalitatem etiam in Bruto probo, vehementer gaudeo; ac putaram paulo secus. Appius enim ad me ex itinere bis terve ὑπομεμψιμοίρουσ litteras miserat quod quaedam a se constituta rescinderem. ut si medicus, cum aegrotus alii medico traditus sit, irasci velit ei medico qui sibi successerit si quae ipse in curando constituerit mutet ille, sic Appius, cum ἐξ ἀφαιρέσεωσ provinciam curarit, sanguinem miserit, quicquid potuit detraxerit, mihi tradiderit enectam, προσανατρεφομένην eam a me non libenter videt sed modo suscenset, modo gratias agit. enim a me fit cum ulla illius contumelia; tantum modo dissimilitudo meae rationis offendit hominem. enim potest esse tam dissimile quam illo imperante exhaustam esse sumptibus et iacturis provinciam, nobis eam obtinentibus nummum nullum esse erogatum nec privatim nec publice? dicam de illius praefectis, comitibus, legatis etiam? de rapinis, de libidinibus, de contumeliis? autem domus me hercule nulla tanto consilio aut tanta disciplina gubernatur aut tam modesta est quam nostra tota provincia. non nulli amici Appi ridicule interpretantur qui me idcirco putent bene audire velle ut ille male audiat, et recte facere non meae laudis sed illius contumeliae causa. Appius, ut Bruti litterae quas ad te misit significabant, gratias nobis agit non moleste fero, sed tamen eo ipso die quo haec ante lucem scribebam, cogitabam eius multa inique constituta et acta tollere.
+
+venio ad Brutum quem ego omni studio te auctore sum complexus, quem etiam amare coeperam; sed ilico me revocavi, ne te offenderem. enim putare me quicquam maluisse quam ut mandatis satis facerem nec ulla de re plus laborasse. autem mihi libellum dedit, isdemque de rebus tu mecum egeras. sum diligentissime persecutus. ab Ariobarzane sic contendi ut talenta quae mihi pollicebatur illi daret. mecum rex fuit, perbono loco res erat; post a Pompei procuratoribus sescentis premi coeptus est. Pompeius autem quom ob ceteras causas plus potest unus quam ceteri omnes, tum quod putatur ad bellum Parthicum esse venturus. tamen sic nunc solvitur, tricesimo quoque die talenta Attica xxxiii et hoc ex tributis. inde satis efficitur in usuram menstruam.
+
+Gnaeus noster clementer id fert; sorte caret, usura nec ea solida contentus est. neque solvit cuiquam nec potest solvere; nullum enim aerarium, nullum vectigal habet. Appi instituto tributa imperat. vix in faenus Pompei quod satis sit efficiunt. regis duo tresve perdivites sunt sed ii suum tam diligenter tenent quam ego aut tu. non desino tamen per litteras rogare, suadere, accusare regem.
+
+Deiotarus etiam mihi narravit se ad eum legatos misisse de re Bruti; eos sibi responsum rettulisse illum non habere. me hercule ego ita iudico, nihil illo regno spoliatius, nihil rege egentius. aut tutela cogito me abdicare aut ut pro Glabrione Scaevola faenus et impendium recusare. tamen quas per te Bruto promiseram praefecturas, M. Scaptio, L. Gavio, qui in regno rem Bruti procurabant, detuli; nec enim in provincia mea negotiabantur. autem meministi nos sic agere ut quot vellet praefecturas sumeret, dum ne negotiatori. duas ei praeterea dederam. ii quibus petierat de provincia decesserant.
+
+cognosce de Salaminiis, quod video tibi etiam novum accidisse tamquam mihi. enim ex illo audivi illam pecuniam esse suam; quin etiam libellum ipsius habeo, in quo est, Salaminii pecuniam debent M. Scaptio et P. Matinio, familiaribus meis. mihi commendat; adscribit etiam et quasi calcar admovet intercessisse se pro iis magnam pecuniam. ut solverent centesimis bienni ductis cum renovatione singulorum annorum. Scaptius quaternas postulabat., si impetrasset, ne tu ipse me amare desineres; nam ab edicto meo recessissem et civitatem in Catonis et in ipsius Bruti fide locatam meisque beneficiis ornatam funditus perdidissem.
+
+hoc tempore ipso impingit mihi epistulam Scaptius Bruti rem illam suo periculo esse, quod nec mihi umquam Brutus dixerat nec tibi, etiam ut praefecturam Scaptio deferrem. vero per te exceperamus ne negotiatori; quod si cuiquam, huic tamen non. enim praefectus Appio et quidem habuerat turmas equitum quibus inclusum in curia senatum Salamine obsederat, ut fame senatores quinque morerentur. ego, quo die tetigi provinciam, cum mihi Cyprii legati Ephesum obviam venissent, litteras misi ut equites ex insula statim decederent. de causis credo Scaptium iniquius de me aliquid ad Brutum scripsisse. tamen hoc sum animo. Brutus putabit me quaternas centesimas oportuisse decernere, cum tota provincia singulas observarem itaque edixissem idque etiam acerbissimis faeneratoribus probaretur, si praefecturam negotiatori denegatam queretur, quod ego Torquato nostro in tuo Laenio, Pompeio ipsi in Sex. Statio negavi et iis probavi, si equites deductos moleste feret, accipiam equidem dolorem mihi illum irasci sed multo maiorem non esse eum talem qualem putassem.
+
+quidem fatebitur Scaptius, me ius dicente sibi omnem pecuniam ex edicto meo auferendi potestatem fuisse. etiam illud quod vereor tibi ipsi ut probem. usura debuit quae erat in edicto meo. volebant: impetravi a Salaminiis ut silerent. illi quidem mihi dederunt, sed quid iis fiet, si huc Paulus venerit? totum hoc Bruto dedi; qui de me ad te humanissimas litteras scripsit, ad me autem, etiam cum rogat aliquid, contumaciter, adroganter, ἀκοινονοήτωσ solet scribere. autem velim ad eum scribas de his rebus, ut sciam quo modo haec accipiat; facies enim me certiorem. haec superioribus litteris diligenter ad te per scripseram sed plane te intellegere volui mihi non excidisse illud quod tu ad me quibusdam litteris scripsisses, si nihil aliud de hac provincia nisi illius benevolentiam deportassem, mihi id satis esse. sane, quoniam ita tu vis, sed tamen cum eo credo quod sine peccato meo fiat. meo decreto soluta res Scaptio stat. id rectum sit tu iudicabis; ne ad Catonem quidem provocabo.
+
+noli me putare ἐγκελεύσματα illa tua abiecisse quae mihi in visceribus haerent. mihi meam famam commendasti; quae epistula tua est in qua non eius mentionem facias? irascatur qui volet; patiar. τὸ γὰρ εὖ praesertim cum sex libris tamquam praedibus me ipse obstrinxerim, quos tibi tam valde probari gaudeo. e quibus unum ἱστορικὸν requiris de Cn. Flavio, Anni filio. vero ante decemviros non fuit quippe qui aedilis curulis fuerit, qui magistratus multis annis post decemviros institutus est. ergo profecit quod protulit fastos? putant quodam tempore istam tabulam, ut dies agendi peterentur a paucis. vero pauci sunt auctores Cn. Flavium scribam fastos protulisse actionesque composuisse, ne me hoc vel potius Africanum (is enim loquitur) commentum putes. οὐκ ἔλαθέ σε illud de gestu histrionis. sceleste suspicaris, ego ἀφελῶσ scripsi. me imperatore scribis te ex Philotimi litteris cognosse; sed credo te, iam in Epiro cum esses, binas meas de omnibus rebus accepisse, unas a Pindenisso capto, alteras Laodicea, utrasque tuis pueris datas. de rebus propter casum navigandi per binos tabellarios misi Romam publice litteras.
+
+Tullia mea tibi adsentior scripsique ad eam et ad Terentiam mihi placere. enim ad me iam ante scripseras, vellem te in tuum veterem gregem rettulisses. vero epistula Memmiana nihil negoti fuit; multo enim malo hunc a Pontidia quam illum a Servilia. re adiunges Saufeium nostrum, hominem semper amantem mei, nunc credo eo magis quod debet etiam fratris Appi amorem erga me cum reliqua hereditate crevisse; qui declaravit quanti me faceret cum saepe tum in Bursa. tu me sollicitudine magna liberaris.
+
+Furni exceptio mihi non placet; nec enim ego ullum aliud tempus timeo nisi quod ille solum excipit. scriberem ad te de hoc plura, si Romae esses. Pompeio te spem omnem oti ponere non miror. res est removendumque censeo illud dissimulantem. enim οἰκονομία si perturbatior est, tibi adsignato. enim sequor σχεδιάζοντα.
+
+Cicerones pueri amant inter se, exercentur, sed discunt, alter, uti dixit Isocrates in Ephoro et Theopompo, frenis eget, alter calcaribus. Quinto togam puram Liberalibus cogitabam dare; mandavit enim pater. sic observabo quasi intercalatum non sit. Dionysius mihi quidem in amoribus est; pueri autem aiunt eum furenter irasci; sed homo nec doctior nec sanctior fieri potest nec tui meique amantior.
+
+Thermum, Silium vere audis laudari. honeste se gerunt. M. Nonium, Bibulum, me, si voles. Scrofa vellem haberet ubi posset; est enim lautum negotium. infirmant πολίτευμα Catonis. Hortensio quod causam meam commendas valde gratum.
+
+Amiano spei nihil putat esse Dionysius. Terenti nullum vestigium adgnovi. Moeragenes certe periit. iter per eius possessionem in qua animal reliquum nullum est. non noram tum, cum Democrito tuo cum locutus sum. Rhosica vasa mandavi. heus tu! quid cogitas? in felicatis lancibus et splendidissimis canistris holusculis nos soles pascere; quid te in vasis fictilibus appositurum putem? κέρασ Phemio mandatum est; reperietur, modo aliquid illo dignum canat.
+
+Parthicum bellum impendet. Cassius ineptas litteras misit, necdum Bibuli erant adlatae. recitatis puto fore ut aliquando commoveatur senatus. sum in magna animi perturbatione., ut opto, non prorogatur nostrum negotium, habeo Iunium et Quintilem in metu.; duos quidem mensis sustinebit Bibulus. illo fiet quem reliquero, praesertim si fratrem? quid me autem, si non tam cito decedo? Magna turba est. tamen cum Deiotaro convenit ut ille in meis castris esset cum suis copiis omnibus. autem cohortis quadringenarias nostra armatura XXX, equitum cIↃ cIↃ. ad sustentandum quoad Pompeius veniat; qui litteris quas ad me mittit significat suum negotium illud fore. in nostra provincia Parthi; exspectatur ipse Orodes. quaeris? aliquantum est negoti.
+
+Bibuli edicto nihil novi praeter illam exceptionem de qua tu ad me scripseras nimis gravi praeiudicio in ordinem nostrum. tamen habeo ἰσοδυναμοῦσαν sed tectiorem ex Q. Muci P. L edicto Asiatico, extra quam si ita negotium gestum est ut eo stari non oporteat ex fide bona, multaque sum secutus Scaevolae, in iis illud in quo sibi libertatem censent Graeci datam, ut Graeci inter se disceptent suis legibus. autem edictum est propter hanc meam διαίρεσιν quod duobus generibus edicendum putavi. unum est provinciale in quo est de rationibus civitatum, de aere alieno, de usura, de syngraphis, in eodem omnia de publicanis; alterum, quod sine edicto satis commode transigi non potest, de hereditatum possessionibus, de bonis possidendis, vendendis, magistris faciendis, quae ex edicto et postulari et fieri solent. de reliquo iure dicundo ἄγραφον reliqui. me de eo genere mea decreta ad edicta urbana accommodaturum. curo et satis facio adhuc omnibus. Graeci vero exsultant quod peregrinis iudicibus utuntur. quidem inquies. refert? tamen se αὐτονομίαν adeptos putant. enim credo gravis habent Turpionem sutorium et Vettium mancipem.
+
+publicanis quid agam videris quaerere. in deliciis, obsequor, verbis laudo, orno; efficio ne cui molesti sint. τὸ, usuras eorum quas pactionibus adscripserant servavit etiam Servilius. sic. statuo satis laxam, quam ante si solverint, dico me centesimas ducturum; si non solverint, ex pactione. et Graeci solvunt tolerabili faenore et publicanis res est gratissima, si illa iam habent pleno modio, verborum honorem, invitationem crebram. plura? sunt omnes ita mihi familiares ut se quisque maxime putet. tamen μηδὲν αὐτοῖσ —scis reliqua.
+
+statua Africani (ὢ πραγμάτων! sed me id ipsum delectavit in tuis litteris) ain tu? Scipio hic Metellus proavum suum nescit censorem non fuisse? nihil habuit aliud inscriptum nisi cos ea statua quae ad Opis †per te† posita in excelso est. illa autem quae est ad Πολυκλέουσ Herculem inscriptum est consul; quam esse eiusdem status, amictus, anulus, imago ipsa declarat. me hercule ego, cum in turma inauratarum equestrium quas hic Metellus in Capitolio posuit animadvertissem in Serapionis subscriptione Africani imaginem, erratum fabrile putavi, nunc video Metelli.
+
+o ἀνιστορησίαν turpem! illud de Flavio et fastis, si secus est, commune erratum est et tu belle ἠπόρησασ et nos publicam prope opinionem secuti sumus, ut multa apud Graecos. enim non dixit Εὔπολιν τὸν τῆσ ἀρχαίασ ab Alcibiade navigante in Siciliam deiectum esse in mare?
+
+Eratosthenes; adfert enim quas ille post id tempus fabulas docuerit. idcirco Duris Samius, homo in historia diligens, quod cum multis erravit, inridetur?
+
+Zaleucum leges Locris scripsisse non dixit? igitur iacet Theophrastus si id a Timaeo tuo familiari reprensum est? nescire proavum suum censorem non fuisse turpe est, praesertim cum post eum consulem nemo Cornelius illo vivo censor fuerit.
+
+de Philotimo et de solutione HS X_X_DC scribis, Philotimum circiter Kal. Ianuarias in Chersonesum audio venisse. mi ab eo nihil adhuc. mea Camillus scribit se accepisse. quae sint nescio et aveo scire. haec posterius et coram fortasse commodius.
+
+me, mi Attice, in extrema fere parte epistulae commovit; scribis enim sic, τί λοιπόν; deinde me obsecras amantissime ne obliviscar vigilare et ut animadvertam quae fiant. quid de quo inaudisti? nihil eius modi est. πολλοῦ γε. enim me fefellisset nec fallet. ista admonitio tua tam accurata nescio quid mihi significare visa est.
+
+M. Octavio iterum iam tibi rescribo te illi probe respondisse; paulo vellem fidentius. Caelius libertum ad me misit et litteras accurate scriptas et de pantheris et† a civitatibus. alterum me moleste ferre, si ego in tenebris laterem nec audiretur Romae nullum in mea provincia nummum nisi in aes alienum erogari, docuique nec mihi conciliare pecuniam licere nec illi capere monuique eum quem plane diligo ut cum alios accusasset cautius viveret; illud autem alterum alienum esse existimatione mea, Cibyratas imperio meo publice venari.
+
+Lepta tua epistula gaudio exsultat; etenim scripta belle est meque apud eum magna in gratia posuit. tua gratum mihi fecit quod tibi diligenter mandavit ut mihi salutem adscriberes, gratum etiam Pilia, sed illa officiosius quod mihi quem iam pridem numquam vidit. tu quoque salutem utrique adscribito. datarum dies pr. Kal. Ianuar. suavem habuit recordationem clarissimi iuris iurandi quod ego non eram oblitus. Magnus enim praetextatus illo die fui. ad omnia., ut postulasti, χρύσεα χαλκείων sed paria paribus respondimus.
+
+autem alia pusilla epistula quam non relinquam ἀναντιφώνητον. me hercule †potuit Lucceius Tusculanum, nisi forte (solet enim) cum suo tibicine†. velim scire qui sit eius status. Lentulum quidem nostrum omnia praeter Tusculanum proscripsisse audio. hos expeditos videre, cupio etiam Sestium, adde sis Caelium; in quibus omnibus est αἴδεσθεν μὲν
+
+Memmio restituendo ut Curio cogitet te audisse puto.
+
+Egnati Sidicini nomine nec nulla nec magna spe sumus. Pinarium quem mihi commendas diligentissime Deiotarus curat graviter aegrum. etiam minori.
+
+velim dum ero Laodiceae, id est ad Idus Maias, quam saepissime mecum per litteras colloquare et cum Athenas veneris (iam enim sciemus de rebus urbanis, de provinciis, quae omnia in mensem Martium sunt conlata), utique ad me tabellarios mittas.
+
+heus tu! †genuarios† a Caesare per Herodem talenta Attica L extorsistis? in quo, ut audio, magnum odium Pompei suscepistis. enim suos nummos vos comedisse, Caesarem in Nemore aedificando diligentiorem fore. ego ex P. Vedio, magno nebulone sed Pompei tamen familiari, audivi. Vedius mihi obviam venit cum duobus essedis et raeda equis iuncta et lectica et familia magna pro qua, si Curio legem pertulerit, HS centenos pendat necesse est. praeterea cynocephalus in essedo nec deerant onagri. vidi hominem nequiorem. extremum audi. est Laodiceae apud Pompeium Vindullum. lbi sua deposuit cum ad me profectus est. interim Vindullus; quae res ad Magnum Pompeium pertinere putabatur. C. Vennonius domum Vindulli venit. omnia obsignaret, in Vedianas res incidit. his inventae sunt quinque imagunculae matronarum in quibus una sororis amici tui hominis bruti qui hoc utatur et illius lepidi qui haec tam neglegenter ferat. te volui παριστορῆσαι. enim ambo belle curiosi.
+
+etiam velim cogites. Appium πρόπυλον Eleusine facere. inepti fuerimus si nos quoque Academiae fecerimus?
+
+inquies. id ipsum scribes ad me. valde ipsas Athenas amo. esse aliquod monumentum; odi falsas inscriptiones statuarum alienarum. ut tibi placebit, faciesque me in quem diem Romana incidant mysteria certiorem et quo modo hiemaris. ut valeas. Leuctricam pugnam die septingentesimo sexagesimo quinto.
+
+Scr. Laodiceae in m. Mai. a. 704 (50).
+
+CICERO ATTICO salutem
+
+Philogenes libertus tuus Laodiceam ad me salutandi causa venisset et se statim ad te navigaturum esse diceret, has ei litteras dedi quibus ad eas rescripsi quas acceperam a Bruti tabellario. respondebo primum postremae tuae paginae quae mihi magnae molestiae fuit quod ad te scriptum est a Cincio de Stati sermone; in quo hoc molestissimum est, Statium dicere a me quoque id consilium probari.
+
+autem? isto hactenus dixerim, me vel plurima vincla tecum summae coniunctionis optare, etsi sunt amoris artissima; tantum abest ut ego ex eo quo astricti sumus laxari aliquid velim.
+
+autem multa de istis rebus asperius solete loqui saepe sum expertus, saepe etiam lenivi iratum. scire te arbitror. hac autem peregrinatione militiave nostra saepe incensum ira vidi, saepe placatum. ad Statium scripserit nescio. acturus de tali re fuit, scribendum tamen ad libertum non fuit. autem erit maximae curae ne quid fiat secus quam volumus quamque oportet. satis est in eius modi re se quemque praestare ac maximae partes istius offici sunt pueri Ciceronis sive iam adulescentis; quod quidem illum soleo hortari. mihi videtur matrem valde, ut debet, amare teque mirifice. est magnum illud quidem verum tamen multiplex pueri ingenium; in quo ego regendo habeo negoti satis.
+
+respondi postremae tuae paginae prima mea, nunc ad primam revertar tuam. Peloponnesias civitates omnis maritimas esse hominis non nequam sed etiam tuo iudicio probati Dicaearchi tabulis credidi. multis nominibus in Trophoniana Chaeronis narratione Graecos in eo reprendit quod mare tantum secuti sint nec ullum in Peloponneso locum excipit. mihi auctor placeret (etenim erat ἱστορικώτατοσ et vixerat in Peloponneso), admirabar tamen et vix adcredens communicavi cum Dionysio. is primo est commotus, deinde, quod de †deo cum† isto Dicaearcho non minus bene existimabat quam tu de C. Vestorio, ego de M. Cluvio, non dubitabat quin ei crederemus. Arcadiae censebat esse Lepreon quoddam maritimum; Tenea autem et Aliphera et Tritia νεόκτιστα ei videbantur, idque τῷ τῶν νεῶν καταλόγῳ confirmabat ubi mentio non fit istorum. istum ego locum totidem verbis a Dicaearcho transtuli. Phliasios autem dici sciebam et ita fac ut habeas; nos quidem sic habemus. primo me ἀναλογία deceperat, Φλιοῦσ, Ὀποῦσ, Σιποῦσ, quod Ὀπούντιοι, Σιπούντιοι. hoc continuo correximus.
+
+te nostra moderatione et continentia video. id magis faceres, si adesses. hoc foro quod egi ex Idibus Februariis Laodiceae ad Kal. Maias omnium dioecesium praeter Ciliciae mirabilia quaedam effecimus. multae civitates omni aere alieno liberatae, multae valde levatae sunt, omnes suis legibus et iudiciis usae αὐτονομίαν adeptae revixerunt. ego duobus generibus facultatem ad se aere alieno liberandas aut levandas dedi, uno quod omnino nullus in imperio meo sumptus factus est (nullum cum dico non loquor ὑπερβολικῶσ), nullus inquam, ne terruncius quidem.
+
+autem re incredibile est quantum civitates emerserint. altera. erant in civitatibus ipsorum furta Graecorum quae magistratus sui fecerant. ipse de iis qui annis decem proximis magistratum gesserant. fatebantur. sine ulla ignominia suis umeris pecunias populis rettulerunt. autem nullo gemitu publicanis quibus hoc ipso lustro nihil solverant etiam superioris lustri reliqua reddiderunt. publicanis in oculis sumus.
+
+inquis viris.. cetera iuris dictio nec imperita et clemens cum admirabili facilitate; aditus autem ad me minime provinciales; nihil per cubicularium; ante lucem inambulabam domi ut olim candidatus. haec et magna mihique nondum laboriosa ex illa vetere militia.
+
+Nonis Maiis in Ciliciam cogitabam. cum Iunium mensem consumpsissem (atque utinam in pace! magnum enim bellum impendet a Parthis), Quintilem in reditu ponere. enim mihi operae a. d. iii Kal. Sextil. emerentur. autem in spe sum mihi nihil temporis prorogatum iri. acta urbana usque ad Nonas Martias; e quibus intellegebam Curionis nostri constantia omnia potius actum iri quam de provinciis., ut spero, prope diem te videbo.
+
+ad Brutum tuum, immo nostrum, sic enim mavis. omnia feci quae potui aut in mea provincia perficere aut in regno experiri. igitur modo egi cum rege et ago cotidie per litteras scilicet. enim triduum quadriduumve mecum habui turbulentis in rebus quibus eum liberavi. et tum praesens et postea creberrimis litteris non destiti rogare et petere mea causa; suadere et hortari sua. profeci sed quantum non plane, quia longe absum, scio. Salaminios autem (hos enim poteram coercere) adduxi ut totum nomen Scaptio vellent solvere sed centesimis ductis a proxima quidem syngrapha nec perpetuis sed renovatis quotannis. nummi; noluit Scaptius. qui ais Brutum cupere aliquid perdere? quaternas habebat in syngrapha. non poterat nec, si posset, ego pati possem. omnino Scaptium paenitere. quod senatus consultum esse dicebat ut ius ex syngrapha diceretur, eo consilio factum est quod pecuniam Salaminii contra legem Gabiniam sumpserant. autem Auli lex ius dici de ita sumpta pecunia. igitur senatus ut ius diceretur ex ista syngrapha. ista habet iuris idem quod ceterae, nihil praecipui.
+
+a me ordine facta puto me Bruto probaturum, tibi nescio, Catoni certe probabo. iam ad te ipsum revertor. ain tandem, Attice, laudator integritatis et elegantiae nostrae, ausus es hoc ex ore tuo— — inquit Ennius, ut equites Scaptio ad pecuniam cogendam darem me rogare? tu si mecum esses qui scribis morderi te interdum quod non simul sis, paterere me id facere si vellem?
+
+amplius inquis quinquaginta.
+
+Spartaco minus multi primo fuerunt. tandem isti mali in tam tenera insula non fecissent? fecissent autem? immo quid ante adventum meum non fecerunt? in curia senatum habuerunt Salaminium ita multos dies ut interierint non nulli fame. enim praefactus Appi Scaptius et habebat turmas ab Appio. me igitur tu cuius me hercule os mihi ante oculos solet versari cum de aliquo officio ac laude cogito, tu me inquam rogas praefectus ut Scaptius sit? hoc statueramus ut negotiatorem neminem idque Bruto probaramus. is turmas? cur potius quam cohortis? iam nepos evadit Scaptius.
+
+inquit principes.; nam ad me Ephesum usque venerunt flentesque equitum scelera et miserias suas detulerunt. statim dedi litteras ut ex Cypro equites ante certam diem decederent, ob eamque causam tum ob ceteras Salaminii nos in caelum decretis suis sustulerunt. iam quid opus equitatu? solvunt enim Salaminii; nisi forte id volumus armis efficere ut faenus quaternis centesimis ducant. ego audebo legere umquam aut attingere eos libros quos tu dilaudas, si tale quid fecero? inquam in isto Brutum amasti, dulcissime Attice, nos vereor ne parum. haec scripsi ego ad Brutum scripsisse te ad me.
+
+nunc cetera. Appio nos hic omnia facimus honeste tamen sed plane libenter. enim ipsum odimus et Brutum amamus et Pompeius mirifice a me contendit quem me hercule plus plusque in dies diligo. C. Coelium quaestorem huc venire audisti. quid sit hominis. Pammenia illa mihi non placent. me spero Athenis fore mense Septembri. itinerum tempora scire sane velim. εὐήθειαν Semproni Rufi cognovi ex epistula tua Corcyraea. quaeris? invideo potentiae Vestori.
+
+etiam nunc plura garrire sed lucet; urget turba, festinat Philogenes. igitur et valere Piliam et Caeciliam nostram iubebis litteris et salvebis a meo Cicerone.
+
+Scr. in Cilicia tim. liam ante v K. Quint. a. 704 (50).
+
+CICERO ATTICO salutem nil sane habebam novi quod post accidisset quam dedissem ad te Philogeni liberto tuo litteras, tamen cum Philotimum Romam remitterem, scribendum aliquid ad te fuit. primum illud quod me maxime angebat—non quo me aliquid iuvare posses; quippe; res enim est in manibus, tu autem abes longe gentium; πολλὰ δ' ἐν μεταιχμίῳ
+
+νότοσ κυλίνδει κύματ' εὐρείησ ἁλός.
+
+obrepit dies, ut vides (mihi enim a. d. iii Kal. Sextil. de provincia decedendum est), nec succeditur. relinquam qui provinciae praesit? quidem et opinio hominum postulat fratrem, primum quod videtur esse honos, nemo igitur potior; deinde quod solum habeo praetorium. Pomptinus enim ex pacto et convento (nam ea lege exierat) iam a me discesserat; quaestorem nemo dignum putat; etenim est levis, libidinosus, tagax.
+
+fratre autem primum illud est: persuaderi ei non posse arbitror; odit enim provinciam, et hercule nihil odiosius, nihil molestius. ut mihi nolit negare, quidnam mei sit offici? cum bellum esse in Syria magnum putetur, id videatur in hanc provinciam erupturum, hic praesidi nihil sit, sumptus annuus decretus sit, videaturne aut pietatis esse meae fratrem relinquere aut diligentiae nugarum aliquid relinquere? igitur, ut vides, sollicitudine adficior, magna inopia consili. quaeris? toto negotio nobis opus non fuit. tua provincia melior! cum voles, nisi forte iam decessisti; quem videbitur praeficies Thesprotiae et Chaoniae. tamen ego Quintum conveneram, ut iam, si id placeret, scirem possetne ab eo impetrari; nec tamen, si posset, quid vellem habebam.
+
+est igitur eius modi.
+
+plena adhuc et laudis et gratiae, digna iis libris quos dilaudas, conservatae civitates, cumulate publicanis satis factum, offensus contumelia nemo, decreto iusto et severo perpauci nec tamen quisquam ut queri audeat, res gestae dignae triumpho; de quo ipso nihil cupide agemus, sine tuo quidem consilio certe nihil. est difficilis in tradenda provincia. haec deus aliquis gubernabit.
+
+urbanis rebus scilicet plura tu scis; saepius et certiora audis; equidem doleo non me tuis litteris certiorem fieri. enim odiosa adferebantur de Curione, de Paulo; non quo ullum periculum videam stante Pompeio vel etiam sedente, valeat modo; sed me hercule Curionis et Pauli meorum familiarium vicem doleo. igitur mihi totius rei publicae, si iam es Romae aut cum eris, velim mittas quae mihi obviam veniat ex qua me fingere possim et praemeditari quo animo accedam ad urbem. enim quiddam advenientem non esse peregrinum atque hospitem.
+
+quod paene praeterii, Bruti tui causa, ut saepe ad te scripsi, feci omnia. Cyprii numerabant; sed Scaptius centesimis renovato in singulos annos faenore contentus non fuit. Ariobarzanes non in Pompeium prolixior per ipsum quam per me in Brutum. tamen ego praestare non poteram; erat enim rex perpauper aberamque ab eo ita longe ut nihil possem nisi litteris; quibus pugnare non destiti. haec est. ratione pecuniae liber alius est Brutus tractatus quam Pompeius. Bruto curata hoc anno talenta circiter c, Pompeio in sex mensibus promissa cc. in Appi negotio quantum tribuerim Bruto dici vix potest. est igitur quod laborem? habet meras nugas, Matinium, Scaptium. quia non habuit a me turmas equitum quibus Cyprum vexaret, ut ante me fecerat, fortasse suscenset, aut quia praefectus non est, quod ego nemini tribui negotiatori, non C. Vennonio meo familiari, non tuo M. Laenio, et quod tibi Romae ostenderam me servaturum; in quo perseveravi. quid poterit queri is qui auferre pecuniam cum posset noluit? † Scaptius† qui in Cappadocia fuit, puto esse satis factum. a me tribunatum cum accepisset quem ego ex Bruti litteris ei detulissem, postea scripsit ad me se uti nolle eo tribunatu.
+
+Gavius est quidam cui cum praefecturam detulissem Bruti rogatu multa et dixit et fecit cum quadam mea contumelia, P. Clodi canis. me nec proficiscentem Apameam prosecutus est nec, cum postea in castra venisset atque inde discederet, num quid vellem rogavit et fuit aperte mihi nescio qua re non amicus. ego si in praefectis habuissem, quem tu me hominem putares?, ut scis, potentissimorum hominum contumaciam numquam tulerim, ferrem huius adseculae? etsi hoc plus est quam ferre, tribuere etiam aliquid benefici et honoris. igitur Gavius, cum Apameae me nuper vidisset Romam proficiscens, me ita appellavit ut Culleolum vix auderem, unde inquit me iubes petere cibaria praefecti? lenius quam putabant oportuisse qui aderant me non instituisse iis dare cibaria quorum opera non essem usus. iratus.
+
+nebulonis oratione si Brutus moveri potest, licebit eum solus ames, me aemulum non habebis. illum eum futurum esse puto qui esse debet. tamen causam notam esse volui et ad ipsum haec perscripsi diligentissime. (soli enim sumus) nullas umquam ad me litteras misit Brutus, ne proxime quidem de Appio, in quibus non inesset adrogans, ἀκοινονόητον aliquid. autem valde solet in ore esse Granius autem contemnere se et reges odisse superbos.
+
+quo tamen ille mihi risum magis quam stomachum movere solet. plane parum cogitat quid scribat aut ad quem.
+
+Q. Cicero puer legit, ut opinor, et certe, epistulam inscriptam patri suo. enim aperire idque de meo consilio, si quid forte sit quod opus sit sciri. ea autem epistula erat idem illud de sorore quod ad me. conturbatum vidi puerum. mecum est questus. quaeris? miram in eo pietatem suavitatem humanitatemque perspexi. maiorem spem habeo nihil fore aliter ac deceat. te igitur scire volui.
+
+illud quidem praetermittam. Hortensius filius fuit Laodiceae gladiatoribus flagitiose et turpiter. ego patris causa vocavi ad cenam quo die venit, et eiusdem patris causa nihil amplius. mihi dixit se Athenis me exspectaturum ut mecum decederet. inquam; quid enim dicerem? puto nihil esse quod dixit; nolo quidem, ne offendam patrem quem me hercule multum so diligo. fuerit meus comes, moderabor ita ne quid eum offendam quem minime volo. sunt; etiam illud. Q. Celeris mihi velim mittas contra M. Servilium. mitte quam primum; si nihil, nihil fieri vel per tuum tabellarium. Piliae et filiae salutem. ut valeas.
+
+Scr. in itinere paulo post Non. Iun. a. 704 (50).
+
+CICERO ATTICO salutem
+
+Tarsum venimus Nonis Iuniis. me multa moverunt, magnum in Syria bellum, magna in Cilicia latrocinia, mihi difficilis ratio administrandi, quod paucos dies habebam reliquos annui muneris, illud autem difficillimum, relinquendus erat ex senatus consulto qui praeesset. minus probari poterat quam quaestor Mescinius. de Coelio nihil audiebamus. videbatur fratrem cum imperio relinquere; in quo multa molesta, discessus noster, belli periculum, militum improbitas, sescenta praeterea. o rem totam odiosam! haec fortuna viderit, quoniam consilio non multum uti licet.
+
+quando Romam salvus ut spero venisti, videbis, ut soles, omnia quae intelleges nostra interesse, imprimis de Tullia mea, cuius de condicione quid mihi placeret scripsi ad Terentiam cum tu in Graecia esses; deinde de honore nostro. enim tu afuisti, vereor ut satis diligenter actum in senatu sit de litteris meis. praeterea μυστικώτερον ad te scribam, tu sagacius a odorabere. τῆσ δάμαρτόσ μου ὁ ἀπελεύθεροσ (οἶσθα ὃν) ἔδοξέ μοι πρώην, ἐξ ὧν ἀλογευόμενος παρεφθέγγετο, πεφυρακέναι τὰσ ψήφουσ ἐκ τῆσ ὠνῆσ τῶν ὑπαρχόντων τῶν τοῦ † νοήσῃς. † εἷσ δήπου. queo tantum quantum vereor scribere; tu autem fac ut mihi tuae litterae volent obviae. festinans scripsi in itinere atque agmine. Piliae et puellae Caeciliae bellissimae salutem dices.
+
+Scr. in castris v K. Quint. a. 704 (50).
+
+CICERO ATTICO salutem quidem profecto Romae es. te, si ita est, salvum venisse gaudeo; unde quidem quam diu afuisti, magis a me abesse videbare quam si domi esses; minus enim mihi meae notae res erant, minus etiam publicae. re velim, etsi ut spero te haec legente aliquantum iam viae processero, tamen obvias mihi litteras quam argutissimas de omnibus rebus crebro mittas, imprimis de quo scripsi ad te antea. τῆσ ξυναόρου τῆσ ἐμῆσ οὑξελεύθεροσ ἔδοξέ. tu indaga, ut soles, et hoc magis.
+
+ἐξ ἄστεωσ ἑπταλόφου στείχων παρέδωκεν μνῶν κδ, μη, o)fei/lhma tw=| *kami/llw|, e(auto/n te o)fei/lonta mna=s κδ e)k tw=n *krotwniatikw=n kai\ e)k tw=n *xerronhsitikw=n μη kai\ mna=s klhronomh=sai χμ, κμ. tou/twn de\ mhde\ o)bolo\n dieuluth=sqai, pa/ntwn o)feilhqe/ntwn tou= deute/rou mhno\s th=| noumhni/a|. to\n de\ a)peleu/qeron au)tou=, o)/nta o(mw/numon tw=| *ko/nwnos patri/, mhde\n o(losxerw=s pefrontike/nai. tau=ta ou)=n prw=ton me\n i(/na pa/nta sw/|zhtai, deu/teron de\ i(/na mhde\ tw=n to/kwn o)ligwrh/sh|s tw=n a)po\ th=s proekkeime/nhs h(me/ras. o(/sas au)to\n h)ne/gkamen sfo/dra de/doika: kai\ ga\r parh=n pro\s h(ma=s kataskeyo/menos kai/ ti sxedo\n e)lpi/sas: a)pognou\s d' a)lo/gws a)pe/sth e)peipw/n εἴκω: αἰσχρόν τοι δηρόν τε μένειν —, meque obiurgavit vetere proverbio τὰ μὲν —. vide et quantum fieri potest perspice.
+
+etsi annuum tempus prope iam emeritum habebamus (dies enim xxxiii erant reliqui), sollicitudine provinciae tamen vel maxime urgebamur. enim arderet Syria bello et Bibulus in tanto maerore suo maximam curam belli sustineret ad meque legati eius quaestor et amici eius litteras mitterent ut subsidio venirem, etsi exercitum infirmum habebam, auxilia sane bona sed ea Galatarum, Pisidarum, Lyciorum (haec enim sunt nostra robora), tamen esse officium meum putavi exercitum habere quam proxime hostem quoad mihi praeesse provinciae per senatus consultum liceret. quo ego maxime delectabar, Bibulus molestus mihi non erat, de omnibus rebus scribebat ad me potius. mihi decessionis dies λεληθότωσ obrepebat. cum advenerit, ἄλλο πρόβλημα quem praeficiam, nisi Caldus quaestor venerit; de quo adhuc nihil certi habebamus.
+
+me hercule longiorem epistulam facere, sed nec erat res de qua scriberem nec iocari prae cura poteram. igitur et puellae salutem Atticulae dices nostraeque Piliae.
+
+Scr. Rhodi circ. iv Id. Sext. a. 704 (50).
+
+CICERO ATTICO salutem dum in provincia omnibus rebus Appium orno, subito sum factus accusatoris eius socer. quidem inquis di approbent! velim teque ita cupere certo scio. crede mihi, nihil minus putaram ego qui de Ti. Nerone qui mecum egerat certos homines ad mulieres miseram, qui Romam venerunt factis sponsalibus. hoc spero melius; mulieres quidem valde intellego delectari obsequio et comitate adulescentis. noli ἐξακανθίζειν.
+
+heus tu! πυροὺσ εἰσ δῆμον Athenis? placet hoc tibi? non impediebant mei certe libri. enim ista largitio fuit in civis sed in hospites liberalitas. tamen de Academiae προπύλῳ iubes cogitare, cum iam Appius de Eleusine non cogitet? Hortensio te certo scio dolere; equidem excrucior; decreram enim cum eo valde familiariter vivere.
+
+provinciae praefecimus Coelium.
+
+inquies et fortasse fatuum et non gravem et non continentem!; fieri non potuit aliter. quas multo ante tuas acceperam litteras in quibus ἐπέχειν te scripseras quid esset mihi faciendum de relinquendo, eae me pungebant; videbam enim quae tibi essent ἐποχῆσ causae, et erant eaedem mihi. tradere? fratri autem? non utile nobis. praeter fratrem nemo erat quem sine contumelia quaestori, nobili praesertim, anteferrem., dum impendere Parthi videbantur, statueram fratrem relinquere aut etiam rei publicae causa contra senatus consultum ipse remanere. postea quam incredibili felicitate discesserunt sublata dubitatio est. sermones, hui, fratrem reliquit! est hoc non plus annum obtinere provinciam? quod senatus eos voluit praeesse provinciis qui non praefuissent? hic triennium! haec ad populum.
+
+quae tecum? essem sine cura, si quid iracundius contumeliosius aut neglegentius, quae fert vita hominum. si quid filius puer et puer bene sibi fidens? qui esset dolor? quem pater non dimittebat teque id censere moleste ferebat. nunc Coelius non dico equidem quod egerit —, sed tamen multo minus laboro. illud. Pompeius, eo robore vir, iis radicibus, Q. Cassium sine sorte delegit, Caesar Antonium; ego sorte datum offenderem, ut etiam inquireret in eum quem reliquissem? melius, et huius rei plura exempla, senectuti quidem nostrae profecto aptius. te apud eum, di boni, quanta in gratia posui! eique legi litteras non tuas sed librari tui.
+
+litterae me ad triumphum vocant, rem a nobis, ut ego arbitror, propter hanc παλιγγενεσίαν nostram non neglegendam. re tu quoque, mi Attice, incipe id cupere quo nos minus inepti videamur.
+
+Scr. Tarsi ante iii K. Sext. a. 704 (50).
+
+CICERO ATTICO salutem
+
+Quintus filius pie sane, me quidem certe multum hortante, sed currentem animum patris sui sorori tuae reconciliavit. valde tuae litterae excitarunt. quaeris? confido rem ut volumus esse. ad te antea scripsi de re mea familiari, si modo tibi redditae litterae sunt, Graece ἐν αἰνιγμοῖσ. nihil est movendum; sed tamen ἀφελῶσ percontando de nominibus Milonis et ut expediat ut mihi receperit hortando aliquid †aut† proficies
+
+Laodiceae quaestorem Mescinium exspectare iussi, ut confectas rationes lege Iulia apud duas civitates possem relinquere. Rhodum volo puerorum causa, inde quam primum Athenas, etsi etesiae valde reflant; sed plane volo his magistratibus quorum voluntatem in supplicatione sum expertus. tamen mitte mihi, quaeso, obviam litteras numquid putes rei publicae nomine tardandum esse nobis. Tiro ad te dedisset litteras, nisi eum graviter aegrum Issi reliquissem. nuntiant melius esse. tamen angor; nihil enim illo adulescente castius, nihil diligentius.
+
+Scr. Ephes i K. Oct. a. 704 (50).
+
+CICERO ATTICO salutem instituissem ad te scribere calamumque sumpsissem, Batonius e navi recta ad me venit domum Ephesi et epistulam tuam reddidit pridie Kal. Octobris. sum felicitate navigationis tuae, opportunitate Piliae, etiam hercule sermone eiusdem de coniugio Tulliae meae.
+
+Batonius autem meros terrores ad me attulit Caesarianos, cum Lepta etiam plura locutus est, spero falsa, sed certe horribilia, exercitum nullo modo dimissurum, cum illo praetores designatos, Cassium tribunum pl., Lentulum consulem facere, Pompeio in animo esse urbem relinquere.
+
+heus tu! numquid moleste fers de illo qui se solet anteferre patruo sororis tuae fili? at a quibus victus! ad rem.
+
+etesiae vehementissime tardarunt; detraxit xx ipsos dies etiam aphractus Rhodiorum. Kal. Octobr. Epheso conscendentes hanc epistulam dedimus L. Tarquitio simul e portu egredienti sed expeditius naviganti. Rhodiorum aphractis ceterisque longis navibus tranquillitates aucupaturi eramus; ita tamen properabamus ut non posset magis.
+
+raudusculo Puteolano gratum. velim dispicias res Romanas, videas quid nobis de triumpho cogitandum putes ad quem amici me vocant. nisi Bibulus qui, dum unus hostis in Syria fuit, pedem porta non plus extulit quam domo sua, adniteretur de triumpho, aequo animo essem. vero αἰσχρὸν. explora rem totam, ut quo die congressi erimus consilium capere possimus. multa, qui et properarem et ei litteras darem qui aut mecum aut paulo ante venturus esset. Cicero tibi plurimam salutem dicit. dices utriusque nostrum verbis et Piliae tuae et filiae.
+
+Scr. Athenis Id. Oct. a. 704 (50).
+
+CICERO ATTICO salutem
+
+Piraeea cum exissem pridie Idus Octobr., accepi ab Acasto servo meo statim tuas litteras. quidem cum exspectassem iam diu, admiratus sum, ut vidi obsignatam epistulam, brevitatem eius, ut aperui, rursus σύγχυσιν litterularum, quia solent tuae compositissimae et clarissimae esse, ac, ne multa, cognovi ex eo quod ita scripseras te Romam venisse a. d. xii Kal. Oct. cum febri. vehementer nec magis quam debui, statim quaero ex Acasto. et tibi et sibi visum et ita se domi ex tuis audisse ut nihil esset incommode. videbatur approbare quod erat in extremo, febriculam tum te habentem scripsisse. te amavi tamen admiratusque sum quod nihilo minus ad me tua manu scripsisses. re de hoc satis. enim, quae tua prudentia et temperantia est, et hercule, ut me iubet Acastus, confido te iam ut volumus valere.
+
+a Turranio te accepisse meas litteras gaudeo. παραφύλαξον, si me amas, τὴν τοῦ φυρατοῦ φιλοτιμίαν: αὐτότατα., quae me hercule mihi magno dolori est (dilexi enim hominem), procura, quantulacumque est, Precianam hereditatem prorsus ille ne attingat. nummos mihi opus esse ad apparatum triumphi. quo, ut praecipis, nec me κενὸν in expetendo cognosces nec ἄτυφον in abiciendo.
+
+ex tuis litteris te ex Turranio audisse a me provinciam fratri traditam. adeon ego non perspexeram prudentiam litterarum tuarum? ἐπέχειν te scribebas. erat dubitatione dignum, si esset quicquam cur placeret fratrem et talem fratrem relinqui? ἀθέτησισ ista mihi tua, non ἐποχὴ videbatur. de Q. Cicerone puero ut eum quidem neutiquam relinquerem. τοὐμὸν ὄνειρον. omnia quasi conlocuti essemus vidimus. fuit faciendum aliter meque ἐπιχρονία tua dubitatione liberavit. puto te accepisse de hac re epistulam scriptam accuratius.
+
+tabellarios postero die ad vos eram missurus; quos puto ante venturos quam nostrum Saufeium. eum sine meis litteris ad te venire vix rectum erat. mihi, ut polliceris, de Tulliola mea, id est de Dolabella, perscribes, de re publica quam praevideo in summis periculis, de censoribus, maximeque de signis, tabulis quid fiat, referaturne. Idibus Octobribus has dedi litteras, quo die, ut scribis, Caesar Placentiam legiones iiii., quid nobis futurum est? arce Athenis statio mea nunc placet.

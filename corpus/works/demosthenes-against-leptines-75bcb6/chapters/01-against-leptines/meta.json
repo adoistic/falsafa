@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-leptines-75bcb6",
+  "work_title": "Against Leptines",
+  "chapter_number": 1,
+  "chapter_title": "Against Leptines",
+  "chapter_slug": "01-against-leptines",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "08df8a95-8f14-5c0f-a75a-a8ca73e0d858",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11329,
+      "paragraph_count": 190,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg020.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0d94942-bf6d-5d1f-96ae-b194a150d161",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15720,
+      "paragraph_count": 188,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg020.perseus-eng2"
+    }
+  ]
+}

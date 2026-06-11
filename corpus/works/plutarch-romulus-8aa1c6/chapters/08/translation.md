@@ -1,0 +1,33 @@
+---
+work_id: "8aa1c6d4-f942-5da5-b61e-4cf90ebaa660"
+work_slug: "plutarch-romulus-8aa1c6"
+work_title: Romulus
+author_name: Plutarch
+chapter_number: 8
+chapter_title: Chapter 8
+chapter_slug: 08
+variant_id: "2647a519-f69a-58bc-b8fd-47e2bd9040d3"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 562
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-eng2:8"
+translator: Bernadotte Perrin
+---
+
+But Faustulus, on hearing that Remus had been seized and delivered up to Numitor, called upon Romulus to go to his aid, and then told him clearly the particulars of their birth; before this also he had hinted at the matter darkly, and revealed enough to give them ambitious thoughts when they dwelt upon it. He himself took the trough and went to see Numitor, full of anxious fear lest he might not be in season.
+
+Naturally enough, the guards at the king’s gate were suspicious of him, and when he was scrutinized by them and made confused replies to their questions, he was found to be concealing the trough in his cloak. Now by chance there was among the guards one of those who had taken the boys to cast them into the river, and were concerned in their exposure. This man, now seeing the trough, and recognizing it by its make and inscription, conceived a suspicion of the truth, and without any delay told the matter to the king, and brought the man before him to be examined.
+
+In these dire and pressing straits, Faustulus did not entirely hold his own, nor yet was his secret wholly forced from him. He admitted that the boys were alive and well, but said they lived at a distance from Alba as herdsmen; he himself was carrying the trough to Ilia, who had often yearned to see and handle it, in confirmation of her hope for her children.
+
+As, then, men naturally fare who are confounded, and act with fear or in a passion, so it fell out that Amulius fared. For he sent in all haste an excellent man and a friend of Numitor’s, with orders to learn from Numitor whether any report had come to him of the children’s being alive.
+
+When, accordingly, the man was come, and beheld Remus almost in the affectionate embraces of Numitor, he confirmed them in their confident hope, and entreated them to proceed at once to action, promptly joining their party himself and furthering their cause. And the opportunity admitted of no delay, even had they wished it; for Romulus was now close at hand, and many of the citizens who hated and feared Amulius were running forth to join him.
+
+He was also leading a large force with him, divided into companies of a hundred men, each company headed by a man who bore aloft a handful of hay and shrubs tied round a pole (the Latin word for handful is manipulus, and hence in their armies they still call the men in such companies manipulares.). And when Remus incited the citizens within the city to revolt, and at the same time Romulus attacked from without, the tyrant, without taking a single step or making any plan for his own safety, from sheer perplexity and confusion, was seized and put to death.
+
+Although most of these particulars are related by Fabius and Diodes of Peparethus, who seems to have been the first to publish a Founding of Rome, some are suspicious of their fictitious and fabulous quality; but we should not be incredulous when we see what a poet fortune sometimes is, and when we reflect that the Roman state would not have attained to its present power, had it not been of a divine origin, and one which was attended by great marvels.

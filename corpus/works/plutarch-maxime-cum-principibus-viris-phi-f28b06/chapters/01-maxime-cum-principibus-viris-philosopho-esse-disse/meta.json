@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-maxime-cum-principibus-viris-phi-f28b06",
+  "work_title": "Maxime Cum Principibus Viris Philosopho Esse Disserendum",
+  "chapter_number": 1,
+  "chapter_title": "Maxime Cum Principibus Viris Philosopho Esse Disserendum",
+  "chapter_slug": "01-maxime-cum-principibus-viris-philosopho-esse-disse",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9663517f-1233-5b2a-931f-06058097bb2c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1535,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg115.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c822723d-6223-5224-8ef0-fa91d5cfac75",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2990,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg115.perseus-eng4"
+    }
+  ]
+}

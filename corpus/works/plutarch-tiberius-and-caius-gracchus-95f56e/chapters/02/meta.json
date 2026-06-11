@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-tiberius-and-caius-gracchus-95f56e",
+  "work_title": "Tiberius and Caius Gracchus",
+  "chapter_number": 2,
+  "chapter_title": "Book Caius",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "877c28d0-1dc8-5c45-b26f-ddb0d60192c9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4147,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg052.perseus-grc1:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86eae564-030a-5670-b242-a372cdb9d138",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6470,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg052.perseus-eng1:2"
+    }
+  ]
+}

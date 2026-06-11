@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-esu-carnium-i-09dd9a",
+  "work_title": "De esu carnium I",
+  "chapter_number": 1,
+  "chapter_title": "De esu carnium I",
+  "chapter_slug": "01-de-esu-carnium-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7abe55fd-d3a0-54d1-8914-78b6c46d701a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1587,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg131.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8dc52b8e-bd74-54e6-ae10-f3c63815e5e3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2600,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg131.perseus-eng4"
+    }
+  ]
+}

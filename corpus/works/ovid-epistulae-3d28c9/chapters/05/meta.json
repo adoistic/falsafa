@@ -1,0 +1,39 @@
+{
+  "work_slug": "ovid-epistulae-3d28c9",
+  "work_title": "Epistulae",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dadbca61-e0f6-535c-a897-08671d2fdfe0",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 955,
+      "paragraph_count": 146,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb966bde-c2f2-50b6-9d76-759bf7357f45",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1612,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-eng2:5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "epictetus-discourses-233756",
+  "work_title": "Discourses",
+  "chapter_number": 2,
+  "chapter_title": "Book 1",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5485ddb4-c269-5d84-a690-716fe4094962",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 18174,
+      "paragraph_count": 720,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg001.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "870dea91-4ed8-5bc5-8fd1-ce86f88d5694",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 24248,
+      "paragraph_count": 352,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg001.perseus-eng4:2"
+    }
+  ]
+}

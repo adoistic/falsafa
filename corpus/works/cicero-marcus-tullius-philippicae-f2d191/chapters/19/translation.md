@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 19
+chapter_title: Chapter 4
+chapter_slug: 19
+variant_id: "7ced34b8-7b80-51a7-a4b9-f8373ce0bbe7"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 565
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:19"
+translator: Perseus Digital Library
+---
+
+But he also read letters which he said that I had sent to him, like a man devoid of humanity and ignorant of the common usages of life. For who ever, who was even but slightly acquainted with the habits of polite men, produced in an assembly and openly read letters which had been sent to him by a friend, just because some quarrel had arisen between them? Is not this destroying all companionship in life, destroying the means by which absent friends converse together? How many jests are frequently put in letters, which if they were produced in public, would appear stupid! How many serious opinions, which, for all that, ought not to be published! Let this be a proof of your utter ignorance of courtesy. Now mark, also, his incredible folly. What have you to oppose to me, O you eloquent man, as you seem at least to Mustela Tamisius, and to Tiro Numisius? And while these men are standing at this very time in the sight of the senate with drawn swords, I too will think you an eloquent man if you will show bow you would defend them if they were charged with being assassins, However, what answer would you make if I were to deny that I ever sent those letters to you? By what evidence could you convict me? by my handwriting? Of handwriting indeed you have a lucrative knowledge. How can you prove it in that manner? for the letters are written by an amanuensis. By this time I envy your teacher, who for all that payment, which I shall mention presently, has taught you to know nothing.
+
+For what can be less like, I do not say an orator, but a man, than to reproach an adversary with a thing which if be denies by one single word, he who has reproached him cannot advance one step further? But I do not deny it; and in this very point I convict you not only of inhumanity but also of madness. For what expression is there in those letters which is not full of humanity and service and benevolence? and the whole of your charge amounts to this, that I do not express a bad opinion of you in those letters; that in them I wrote as to a citizen, and as to a virtuous man, not as to a wicked man and a robber. But your letters I will not produce, although I fairly might, now that I am thus challenged by you; letters in which you beg of me that you may be enabled by my consent to procure the recall of some one from exile; and you will not attempt it if I have any objection, and you prevail on me by your entreaties. For why should I put myself in the way of your audacity? when neither the authority of this body, nor the opinion of the Roman people, nor any laws are able to restrain you. However, what was the object of your addressing these entreaties to me, if the man for whom you were entreating was already restored by a law of Caesar's? I suppose the truth was, that he wished it to be done by me as a favour; in which matter there could not be any favour done even by himself, if a law was already passed for the purpose.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-corinthians-845e7d",
+  "work_title": "1 Corinthians",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "765d0d61-7524-5e30-b871-29e4a49a2e7d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 608,
+      "paragraph_count": 110,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg007.perseus-grc2:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5a92d0c3-c5af-57fc-ae2a-f1d97902f734",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 880,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg007.perseus-eng2:14"
+    }
+  ]
+}

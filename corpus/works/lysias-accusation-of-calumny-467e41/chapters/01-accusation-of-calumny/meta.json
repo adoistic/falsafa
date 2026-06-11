@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-accusation-of-calumny-467e41",
+  "work_title": "Accusation of Calumny",
+  "chapter_number": 1,
+  "chapter_title": "Accusation of Calumny",
+  "chapter_slug": "01-accusation-of-calumny",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7471762e-3f73-53ad-8abb-208e96b22c19",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1039,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg008.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf18ddad-a295-557d-a584-99cfa918da97",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1611,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg008.perseus-eng2"
+    }
+  ]
+}

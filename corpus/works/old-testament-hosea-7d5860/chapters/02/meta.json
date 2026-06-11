@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-hosea-7d5860",
+  "work_title": "Hosea",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "90f4f0df-388b-52d9-aded-5dd635c09a0f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 671,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg036.1st1K-grc1:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d9bbbd5-f2d3-5e2f-967d-987e57a18c41",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 666,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg036.perseus-eng2:2"
+    }
+  ]
+}

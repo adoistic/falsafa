@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-aquane-an-ignis-sit-utilior-89bce7",
+  "work_title": "Aquane an ignis sit utilior",
+  "chapter_number": 1,
+  "chapter_title": "Aquane an ignis sit utilior",
+  "chapter_slug": "01-aquane-an-ignis-sit-utilior",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2c93ec16-758e-5282-bbae-5731da75af69",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1626,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg128.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b4dccd9-aae2-5548-89a8-523205b7bb6e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2281,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg128.perseus-eng4"
+    }
+  ]
+}

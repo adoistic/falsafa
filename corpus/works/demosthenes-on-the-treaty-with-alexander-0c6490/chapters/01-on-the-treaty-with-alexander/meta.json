@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-on-the-treaty-with-alexander-0c6490",
+  "work_title": "On the Treaty with Alexander",
+  "chapter_number": 1,
+  "chapter_title": "On the Treaty with Alexander",
+  "chapter_slug": "01-on-the-treaty-with-alexander",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a3585c1b-550b-504e-811d-0869effe0b8e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1788,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg017.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "588e63f2-0591-5faf-bd0d-a10b5c48fa5f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2639,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg017.perseus-eng2"
+    }
+  ]
+}

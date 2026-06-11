@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-ion-55ef01",
+  "work_title": "Ion",
+  "chapter_number": 1,
+  "chapter_title": "Ion",
+  "chapter_slug": "01-ion",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c1d7975a-0702-5de7-8db9-213aed66ee2f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9832,
+      "paragraph_count": 1682,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "560b84fe-f7ba-5732-be81-604daee6c0aa",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15425,
+      "paragraph_count": 664,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg010.perseus-eng2"
+    }
+  ]
+}

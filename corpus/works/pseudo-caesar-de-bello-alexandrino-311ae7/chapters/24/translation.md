@@ -1,0 +1,21 @@
+---
+work_id: "311ae72f-0571-54bf-84ba-1c4cffbaf679"
+work_slug: "pseudo-caesar-de-bello-alexandrino-311ae7"
+work_title: De Bello Alexandrino
+author_name: "Pseudo-Caesar"
+chapter_number: 24
+chapter_title: Chapter 24
+chapter_slug: 24
+variant_id: "dac97b2e-9c10-5f97-af04-59d8a84d5b9b"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 387
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-eng1:24"
+translator: Perseus Digital Library
+---
+
+Though Caesar was well aware that they were a deceitful race, always pretending something different from their real intentions, yet he decided that it was expedient to satisfy their plea for clemency, since, if their demands in any way reflected their feelings, then he believed the king would remain loyal when released but if, on the other hand, they wanted to have the king to lead them with a view to waging the war—and that was more in keeping with their character—then he thought there would be greater honour and distinction for him in waging war against a king than against a motley collection of refugees. Accordingly, he urged the king to take thought for the kingdom of his fathers, to have pity on his most illustrious country, shamefully scarred as it was by fire and desolation, to recall his citizens to sanity first and then to preserve them therein, and to prove his loyalty to the Roman people and to Caesar, inasmuch as Caesar himself had such faith in him that he was sending him to join an enemy under arms. Then, grasping his right hand in his own, Caesar made to take leave of the boy—already grown to manhood. But the royal mind, schooled in all the lessons of utter deceit, was loth to fall short of the customary standards of his race and so with tears he proceeded to beseech Caesar to the opposite effect not to send him away: his very kingdom, he declared, was not more pleasing to him than the sight of Caesar. Checking the lad’s tears, albeit not unmoved himself, Caesar declared that, if that was the way he felt, they would speedily be reunited, and so sent him back to his people. Like a horse released from the starting-gate and given his head, the king proceeded to wage war against Caesar so energetically that the tears he had shed at their conference seemed to have been tears of joy. Not a few of Caesar’s officers and friends and many of the centurions and soldiers were delighted at this turn of events, inasmuch as Caesar’s over-generosity had, they felt, been made fun of by the deceitful tricks of a boy. As if indeed it was merely generosity and not the most far-sighted strategy which had led him to do it!

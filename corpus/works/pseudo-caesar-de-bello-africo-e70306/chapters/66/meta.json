@@ -1,0 +1,38 @@
+{
+  "work_slug": "pseudo-caesar-de-bello-africo-e70306",
+  "work_title": "De Bello Africo",
+  "chapter_number": 66,
+  "chapter_title": "Chapter 66",
+  "chapter_slug": "66",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de767623-3c3d-5c0e-ae0e-a3abc98b8106",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 110,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0426.phi001.perseus-lat1:66"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "98f3a3c0-d47c-5ae8-83e0-c5c2a430a78d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 174,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0426.phi001.perseus-eng1:66"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "quintilian-institutio-oratoria-6bfe91",
+  "work_title": "Institutio Oratoria",
+  "chapter_number": 4,
+  "chapter_title": "Book 3",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "caf3d5ea-4d69-52f9-bef0-2a8a858b52f4",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13330,
+      "paragraph_count": 333,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1002.phi001.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfc63ec5-a754-5e87-9f0f-d8088a06d2c1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 25021,
+      "paragraph_count": 314,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1002.phi001.perseus-eng2:4"
+    }
+  ]
+}

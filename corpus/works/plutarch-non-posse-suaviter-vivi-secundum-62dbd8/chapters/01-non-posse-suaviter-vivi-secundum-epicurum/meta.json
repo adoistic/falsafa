@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-non-posse-suaviter-vivi-secundum-62dbd8",
+  "work_title": "Non Posse Suaviter Vivi Secundum Epicurum",
+  "chapter_number": 1,
+  "chapter_title": "Non Posse Suaviter Vivi Secundum Epicurum",
+  "chapter_slug": "01-non-posse-suaviter-vivi-secundum-epicurum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7332fd46-dde7-56e4-b071-594005763eb9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9714,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg139.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "993d6a43-ce5c-5144-8547-8f19c3837b78",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15693,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg139.perseus-eng2"
+    }
+  ]
+}

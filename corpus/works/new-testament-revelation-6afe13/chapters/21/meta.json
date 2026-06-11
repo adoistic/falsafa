@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-revelation-6afe13",
+  "work_title": "Revelation",
+  "chapter_number": 21,
+  "chapter_title": "Chapter 21",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d22100bd-8cfb-53b4-91a6-b491cf383ee2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 604,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg027.perseus-grc2:21"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "881036b1-1738-5fd9-9ae3-340b4679ba93",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 696,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg027.perseus-eng2:21"
+    }
+  ]
+}

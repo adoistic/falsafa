@@ -1,0 +1,26 @@
+{
+  "work_slug": "appianus-of-alexandria-punic-wars-5471a2",
+  "work_title": "Punic Wars",
+  "chapter_number": 22,
+  "chapter_title": "Chapter Appendix_B",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae0de5ba-c507-5496-b02a-d440b9ad62d4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1230,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg009.perseus-eng2:22"
+    }
+  ]
+}

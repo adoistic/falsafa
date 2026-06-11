@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 23
+chapter_title: "Chapter text=F:book=1:letter=5"
+chapter_slug: 23
+variant_id: "82abfa90-7619-5038-b29e-b1a1e4ac3943"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 474
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:23"
+translator: Perseus Digital Library
+---
+
+TO P. LENTULUS SPINTHER (IN CILICIA) ROME, FEBRUARY
+
+Though the first wish of my heart is that my warmest gratitude to you should be recognized first of all by yourself and then by everybody else, yet I am deeply grieved that such a state of things has followed your departure as to give you occasion, in your absence, to test the loyalty and good disposition towards you both of myself and others. That you see and feel that men are shewing the same loyalty in main taining your position as I experienced in the matter of my restoration, I have understood from your letter. Just when I was depending most securely on my policy, zeal, activity, and influence in the matter of the king, there was suddenly sprung on us the abominable bill of Cato's, to hamper all our zeal and withdraw our thoughts from a lesser anxiety to a most serious alarm. However, in a political upset of that kind, though there is nothing that is not a source of terror, yet the thing to be chiefly feared is treachery: and Cato, at any rate, whatever happens, we have no hesitation in opposing. As to the business of Alexandria and the cause of the king, I can only promise you thus much, that I will to the utmost of my power satisfy both you, who are absent, and your friends who are here. But I fear the king's cause may either be snatched from our hands or abandoned altogether, and I cannot easily make up my mind which of the two alternatives I would least wish. But if the worst comes to the worst, there is a third alternative, which is not wholly displeasing either to Selicius or myself-namely, that we should not let the matter drop, and yet should not allow the appointment, in spite of our protests, to be transferred to the man to whom it is now regarded as practically transferred. We will take the utmost care not to omit struggling for any point that it seems possible to maintain, and not to present the appearance of defeat if we have in any case failed to maintain it. You must shew your wisdom and greatness of mind by regarding your fame and high position as resting on your virtue, your public services, and the dignity of your character, and by believing that, if the perfidy of certain individuals has deprived you of any of those honours which fortune has lavished on you, it will be more injurious to them than to you. I never let any opportunity slip either of acting or thinking for your interests. I avail myself of the aid of Q. Selicius in everything: nor do I think that there is any one of all your friends either shrewder, or more faithful, or more attached to you.

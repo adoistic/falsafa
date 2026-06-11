@@ -1,0 +1,31 @@
+---
+work_id: "4ad6b639-d4b7-5a5b-b4ac-d62c04090fd8"
+work_slug: "plutarch-agesilaus-4ad6b6"
+work_title: Agesilaus
+author_name: Plutarch
+chapter_number: 11
+chapter_title: Chapter 11
+chapter_slug: 11
+variant_id: "10b29f22-07fb-5cbe-ab35-354d229202bb"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 547
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg044.perseus-eng2:11"
+translator: Bernadotte Perrin
+---
+
+As for himself, he stationed his army in the province of Pharnabazus, where he not only lived in universal plenty, but also accumulated much money. He also advanced to the confines of Paphiagonia and brought Cotys, the king of the Paphlagonians, into alliance with him, for his virtues, and the confidence which he inspired, inclined the king to desire his friendship.
+
+Spithridates also, from the time when he abandoned Pharnabazus and came to Agesilaüs, always accompanied him in his journeys and expeditions. Spithridates had a son, a very beautiful boy, named Megabates, of whom Agesilaüs was ardently enamoured, and a beautiful daughter also, a maiden of marriageable age. This daughter Agesilaüs persuaded Cotys to marry, and then receiving from him a thousand horsemen and two thousand targeteers, he retired again into Phrygia, and harassed the country of Pharnabazus, who did not stand his ground nor trust in his defences, but always kept most of his valued and precious things with him, and withdrew or fled from one part of the country to another, having no abiding place. At last Spithridates, who had narrowly watched him, in conjunction with Herippidas the Spartan, seized his camp and made himself master of all his treasures.
+
+Here, however, Herippidas, who had too sharp an eye to the booty that was stolen, and forced the Barbarians to restore it, watching over and enquiring into everything, exasperated Spithridates, so that he marched off at once to Sardis with the Paphlagonians. This is said to have annoyed Agesilaüs beyond all else. For he was pained at the loss of a gallant man in Spithridates, and with him of a considerable force, and was ashamed to labour under the charge of pettiness and illiberality, from which he was always ambitious to keep not only himself, but also his country, pure and free.
+
+And apart from these manifest reasons, he was irritated beyond measure by his love for the boy, which was now instilled into his heart, although when the boy was present he would summon all his resolution and strive mightily to battle against his desires. Indeed, when Megabates once came up and offered to embrace and kiss him, he declined his caresses.
+
+The boy was mortified at this, and desisted, and afterwards kept his distance when addressing him, whereupon Agesilaüs, distressed now and repentant for having avoided his kiss, pretended to wonder what ailed Megabates that he did not greet him with a kiss. It is thy fault, the king’s companions said; thou didst not accept, but didst decline the fair one’s kiss in fear and trembling; yet even now he might be persuaded to come within range of thy lips; but see that thou dost not again play the coward.
+
+Then, after some time spent in silent reflection, Agesilaüs said: There is no harm in your persuading him; for I think I would more gladly fight that battle of the kiss over again than possess all the gold I have ever seen. Of such a mind was he while Megabates was with him, though when the boy was gone, he was so on fire with love for him that it were hard to say whether, had the boy come back into his presence, he would have had the strength to refuse his kisses.

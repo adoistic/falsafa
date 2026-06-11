@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-habakkuk-50c870",
+  "work_title": "Habakkuk",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "403beb2b-525c-5d9a-a172-76a59ff5beb3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 333,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg043.1st1K-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfdb70ba-0752-5bb8-af0f-6c61be078071",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 389,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg043.perseus-eng2:1"
+    }
+  ]
+}

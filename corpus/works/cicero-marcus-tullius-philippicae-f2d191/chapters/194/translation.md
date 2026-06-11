@@ -1,0 +1,45 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 194
+chapter_title: Chapter 21
+chapter_slug: 194
+variant_id: "afd0410e-6932-5eb5-b2d1-c2d1e551f6b8"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 941
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:194"
+translator: Perseus Digital Library
+---
+
+Let us come at last to the end.
+
+“I do not believe that ambassadors are coming—”
+
+He knows me well.
+
+“To a place where war exists.”
+
+Especially with the example of Dolabella before our eyes ambassadors, I should think, will have privileges more respected than two consuls against whom he is bearing arms; or than Caesar, whose father's priest he is; or than the consul elect, whom he is attacking; or than Mutina, which he is besieging; or than his country, which he is threatening with fire and sword.
+
+“When they do come I shall see what they demand.
+
+Plagues and tortures seize you! Will any one come to you unless he be a man like Ventidius? We sent men of the very highest character to extinguish the rising conflagration; you rejected them. Shall we now send men when the fire has become so large and has risen to such a height, and when you have left yourself no possible room, not only for peace, but not even for a surrender?
+
+I have read you this letter, O conscript fathers, not because I thought it worth reading, but in order to let you see all his parricidal treasons revealed by his own confessions. Would Marcus Lepidus, that man so richly endowed with all the gifts of virtue and fortune, if he saw this letter, either wish for peace with this man, or even think it possible that peace should be made? “Sooner shall fire and water mingle,” as some poet or other says; sooner shall any thing in the world happen than either the republic become reconciled to the Antonii, or the Antonii to the republic. Those men are monsters, prodigies, portentous pests of the republic. It would be better for this city to be uplifted from its foundations and transported, if such a thing were possible, into other regions, where it should never hear of the actions or the name of the Antonii, than for it to see those men, driven out by the valor of Caesar, and hemmed in by the courage of Brutus, inside these walls. The most desirable thing is victory; the next best thing is to think no disaster too great to bear in defense of the dignity and freedom of one's country. The remaining alternative, I will not call it the third, but the lowest of all, is to undergo the greatest disgrace from a desire of life.
+
+Since, then, this is the case, as to the letters and messages of Marcus Lepidus, that most illustrious man, I agree with Servilius. And I further give my vote, that Magnus Pompeius, the son of Cnaeus, has acted as might have been expected from the affection and zeal of his father and forefathers toward the republic, and from his own previous virtue and industry and loyal principles in promising to the senate and people of Rome his own assistance, and that of those men whom he has with him; and that that conduct of his is grateful and acceptable to the senate and people of Rome, and that it shall tend to his own honor and dignity. This may either be added to the resolution of the senate which is before us, or it may be separated from it and drawn up by itself, so as to let Pompeius be seen to be extolled in a distinct resolution of the senate.
+
+After the last speech was delivered, Brutus gained great advantages in Macedonia over Caius Antonius, and took him prisoner. He treated him with great lenity, so much so as to displease Cicero, who remonstrated with him strongly on his design of setting him at liberty. He was also under some apprehension as to the steadiness of Plancus's loyalty to the senate; but on his writing to that body to assure them of his obedience, Cicero procured a vote of some extraordinary honors to him,
+
+Cassius also about the same time was very successful in Syria, of which he wrote Cicero a full account. Meantime reports were being spread in the city by the partisans of Antonius, of his success before Mutina; and even of his having gained over the consuls. Cicero too was personally much annoyed at a report which they spread of his having formed the design of making himself master of the city and assuming the title of Dictator, but when Apuleius, one of his friends and a tribune of the people, proceeded to make a speech to the people in Cicero's justification, the people all cried out that he had never done any thing which was not for the advantage of the republic. About the same time news arrived of a victory gained over Antonius at Mutina.
+
+Pansa was now on the point of joining Hirtius with four pew legions and Antonius endeavored to surprise him on the road before he could effect that junction. A severe battle ensued, in which Hirtius came to Pansa's aid, and Antonius was defeated with great loss. On the receipt of the news, the populace assembled about Cicero's house, and carried him in triumph to the Capitol. The next day Marcus Cornutus, the praetor, summoned the senate to deliberate on the letters received from the consuls and Octavius, giving an account of the victory. Servilius declared his opinion that the citizens should relinquish the sagum, or robe of war; and that a supplication should be decreed in honor of the consuls and Octavius. Cicero rose next and delivered the following speech, objecting to the relinquishment of the robe of war, and blaming Servilius for not calling Antonius an enemy.
+
+The measures which he himself proposed were carried.

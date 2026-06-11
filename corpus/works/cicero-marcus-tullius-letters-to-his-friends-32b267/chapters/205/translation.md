@@ -1,0 +1,25 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 205
+chapter_title: "Chapter text=F:book=13:letter=10"
+chapter_slug: 205
+variant_id: "1b50052b-b40f-5184-9037-e79094dc052f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 793
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:205"
+translator: Perseus Digital Library
+---
+
+Cicero, having returned to Rome in the autumn of the previous year, spends this one in comparative peace, and in something like his old manner of life. Any uneasiness he may still have felt as to his political position ceased after Caesar's victory over the Pompeians at Thapsus in April. He, however, seems to have lived in retirement, and to have devoted himself to literary work, producing two oratorical treatises—Partitiones Oratoriae, Orator ad M. Brutum. After Caesar's return to Rome (26 July) he twice came out of his retirement: once to deliver a speech (pro Marcello) in the senate thanking Caesar for recalling M. Claudius Marcellus, the consul of B.C. 55, and again to defend Q. Ligarius, accused of vis, for his conduct in Africa in B.C. 49. His discontent with the" tyranny" is only cautiously expressed in his letters, but his panegyric on Cato called out a reply from Caesar himself. Some time in this year his dissatisfaction with Terentia culminated in a divorce, and he married a young and rich wife, Publilia. This year consisted ot 444 days, 90 days being intercalated to correct the Kalendar, under Caesar's directions. The letters, though often touching on politics generally, do not contain sufficiently clear indications of contemporary events to allow of their being exactly dated, and the order of their succession is not often clear.
+
+TO M. IUNIUS BRUTUS (IN CISALPINE GAUL) ROME (?JANUARY)
+
+As Marcus Varro was starting to join you as your quaestor, I did not think that he stood in need of any recommendation: for I thought him sufficiently recommended to you by the custom of our ancestors, which ordained—as you are doubtless aware—that this connexion of a quaestor with his chief should be as nearly as possible that of sons to their father. But as he has convinced himself that a letter from me, carefully expressed in regard to him, would be likely to have great weight with you, and as he pressed me warmly to write as fully as possible, I preferred to do what an intimate friend thought to be of so much importance to himself. I will shew you, then, that I am bound to act thus. From his first entrance into public life M. Terentius attached himself to me. Presently, when he had established his position, two additional reasons appeared to increase my warm feelings towards him: one was the fact that he was engaged in the same pursuit as myself, that which still forms my greatest delight, displaying, as you are aware, both genius and no lack of industry; the second was that he early embarked on the companies of publicani-unfortunately, as it turned out, for he suffered very heavy losses: still, the interests of an order to which I was very closely bound being thus shared by us both made our friendship all the stronger. Once more, after an honourable and creditable career on both benches, just before the recent revolution he became a candidate for office, and looked upon that as the most honourable fruit of his toil. Again, in the late crisis he went from my house at Brundisium with a message and letter for Caesar: in which affair I had clear proof of his affection in undertaking the business, and of his good faith in carrying it through and bring mg me back an answer. I had intended to speak separately as to his uprightness and high character, but it seems to me that in thus beginning with a statement of the reason for my loving him, I have in that statement already said enough about his uprightness. Nevertheless, I do promise as a separate thing, and pledge my word, that he will be at once delightful and useful to you. For you will find him a steady, sensible man, as far removed as possible from any self-seeking, and, moreover, a man of the most laborious and industrious character. Now it is no business of mine to promise what you must form your own judgment upon, when you have become well acquainted with him: yet, after all, in forming new connexions the first approach is always of consequence, and by what kind of introduction the door of friendship, so to speak, is opened. This is what I wished to effect by the present letter: though the tie between a quaestor and his chief ought in itself to have effected it. Vet it will not, after all, be any the weaker by this addition. Be careful, therefore, if you value me as highly as Varro thinks, and I feel that you do, to let me know as soon as possible that my recommendation has done him as much service as he himself hoped, and I had no doubt, that it would.

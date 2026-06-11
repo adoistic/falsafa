@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 206
+chapter_title: "Chapter text=F:book=13:letter=11"
+chapter_slug: 206
+variant_id: "0cc5862c-45f5-58c4-a782-e131c132fc49"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 395
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:206"
+translator: Perseus Digital Library
+---
+
+TO M. IUNIUS BRUTUS (IN CISALPINE GAUL) ROME (?)
+
+I have observed that you take great pains to allow nothing which concerns me to be unknown to you; I therefore feel no doubt that you know not only to what municipium I belong, but also how careful I am to defend the interests of my fellow townsmen of Arpinum. Now their entire income and resources, which enable them to keep their temples and other public buildings in repair, depend upon the rents which they own in the province of Gallia. To visit these estates, to collect the moneys owed by the tenants, and generally to investigate and provide for the management of the whole property, we are sending a commission of Roman knights, Quintus Fufidius, son of Quintus, Marcus Faucius, son of Marcus, Quintus Mamercius, son of Quintus. be explained as "advocate and juryman," for the use of subsellia for the seats of the jury is doubtful, and for the praetor (in a civil suit) it would be "tribunal." I beg you with more than common earnestness, in the name of our friendship, that you would have an eye to this affair, and take pains that as far as you are concerned the business of the municipium may be transacted with as little difficulty, and finished as promptly, as possible; and that you would treat the persons themselves, whose names I have given, with all the honour and kindness which characterize you. By doing so you will have attached men of honour to your person, and have put a most grateful municipium under an obligation to you for your kind service. For myself, you will have done me a more than common favour, because, while it has been my invariable custom to protect my fellow townsmen's interests, this particular year has a special claim upon my attention and service to them. For this year I have, for the sake of settling the affairs of the municipium, consented that my son, and nephew, and M. Caesius—a very intimate friend of mine-should be aediles; for that and no other is the magistrate customarily elected in our municipium. You will have contributed to the reputation of these last, if the public business of the municipium should, thanks to your kindness and attention, turn out to have been well managed. I beg you warmly and repeatedly to do this.

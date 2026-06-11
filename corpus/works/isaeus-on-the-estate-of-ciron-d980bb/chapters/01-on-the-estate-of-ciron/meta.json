@@ -1,0 +1,38 @@
+{
+  "work_slug": "isaeus-on-the-estate-of-ciron-d980bb",
+  "work_title": "On The Estate of Ciron",
+  "chapter_number": 1,
+  "chapter_title": "On The Estate of Ciron",
+  "chapter_slug": "01-on-the-estate-of-ciron",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "028f30fb-b9cd-5a75-9472-8e8548707778",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3191,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg008.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d4505b5-e430-5b98-b62e-4a9699f5d7f8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4797,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg008.perseus-eng2"
+    }
+  ]
+}

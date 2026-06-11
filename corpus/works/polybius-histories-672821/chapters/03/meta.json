@@ -1,0 +1,38 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0566b4b3-5f3a-5bf6-929b-9475a56e4270",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 32087,
+      "paragraph_count": 1219,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8377cb95-340a-5958-82c7-8de5dae558d4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 41607,
+      "paragraph_count": 210,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:3"
+    }
+  ]
+}

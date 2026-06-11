@@ -1,0 +1,21 @@
+---
+work_id: "e7030675-2a66-5a8e-83bd-fff726371b13"
+work_slug: "pseudo-caesar-de-bello-africo-e70306"
+work_title: De Bello Africo
+author_name: "Pseudo-Caesar"
+chapter_number: 63
+chapter_title: Chapter 63
+chapter_slug: 63
+variant_id: "55ad56dc-01e3-5a5c-bb11-416ae9a4531d"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 287
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0426.phi001.perseus-eng1:63"
+translator: Perseus Digital Library
+---
+
+Meanwhile a message speedily acquainted Caesar with the news as he was touring the defence works in his camp, which was six miles distant from the harbour. Putting everything else on one side and giving his horse its head he speedily reached Leptis, where he insisted that all the ships should follow his lead: he himself then went aboard a small cutter. As he sailed on he came up with Aquila, who was filled with panic and confusion at the large number of the enemy ships, and then set off in pursuit of the enemy squadron. Meanwhile Varus, disconcerted by Caesar’s promptitude and boldness, had turned about with his entire squadron and was now beating a hasty retreat to Hadrumetum. In four miles’ sail Caesar overhauled him, recovered one of his quinqueremes, complete with all its crew, and capturing in addition the enemy prize-crew aboard her, one hundred-and-thirty strong, and then captured the nearest enemy trireme, which in the course of the action had lagged behind the rest, with its full complement of rowers and marines. The rest of the enemy fleet doubled the headland, and one and all sought refuge in the inner harbour of Hadrumetum. But the wind did not hold for Caesar also to be able to double the headland; so after riding out that night at anchor in deep water he approached Hadrumetum at dawn. There he set fire to the transports which were outside the inner harbour and then, as all the others had either been beached by the enemy or massed inside the inner harbour, he waited a little while to see if by chance the enemy were disposed to fight a naval action and then withdrew back to his camp.

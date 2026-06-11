@@ -1,0 +1,29 @@
+---
+work_id: "4ad6b639-d4b7-5a5b-b4ac-d62c04090fd8"
+work_slug: "plutarch-agesilaus-4ad6b6"
+work_title: Agesilaus
+author_name: Plutarch
+chapter_number: 26
+chapter_title: Chapter 26
+chapter_slug: 26
+variant_id: "76950023-f666-5881-b38e-38fc7f73c930"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 412
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg044.perseus-eng2:26"
+translator: Bernadotte Perrin
+---
+
+But after Sphodrias was acquitted, and the Athenians, on learning of it, were inclined to go to war, Agesilaüs was very harshly criticized. It was thought that, to gratify an absurd and childish desire, he had opposed the course of justice in a trial, and made the city accessory to great crimes against the Greeks.
+
+Besides, when he saw that his colleague Cleombrotus was little inclined to make war upon the Thebans, he waived the exemption by law which he had formerly claimed in the matter of the expedition, and presently led an incursion into Boeotia himself, where he inflicted damage upon the Thebans, and in his turn met with reverses, so that one day when he was wounded, Antalcidas said to him: Indeed, this is a fine tuition-fee which thou art getting from the Thebans, for teaching them how to fight when they did not wish to do it, and did not even know how.
+
+For the Thebans are said to have been really more warlike at this time than ever before, owing to the many expeditions which the Lacedaemonians made against them, by which they were virtually schooled in arms. And Lycurgus of old, in one of his three so-called rhetras, forbade his people to make frequent expeditions against the same foes, in order that those foes might not learn how to make war. Moreover, the allies of the Lacedaemonians were offended at Agesilaüs, because, as they said, it was not upon any public ground of complaint, but by reason of some passionate resentment of his own, that he sought to destroy the Thebans.
+
+Accordingly, they said they had no wish to be dragged hither and thither to destruction every year, they themselves so many, and the Lacedaemonians, with whom they followed, so few. It was at this time, we are told, that Agesilaüs, wishing to refute their argument from numbers, devised the following scheme. He ordered all the allies to sit down by themselves promiscuously, and the Lacedaemonians apart by themselves.
+
+Then his herald called upon the potters to stand up first, and after them the smiths, next, the carpenters in their turn, and the builders, and so on through all the handicrafts. In response, almost all the allies rose up, but not a man of the Lacedaemonians; for they were forbidden to learn or practise a manual art. Then Agesilaüs said with a laugh: You see, O men, how many more soldiers than you we are sending out.

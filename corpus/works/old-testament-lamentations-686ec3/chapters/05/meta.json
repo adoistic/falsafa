@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-lamentations-686ec3",
+  "work_title": "Lamentations",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2875d81c-1a0c-5660-9709-a6a9a86bcdaf",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 316,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg051.1st1K-grc1:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "429bcabd-fad0-55d7-9489-5b82427ce7f5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 288,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg051.perseus-eng2:5"
+    }
+  ]
+}

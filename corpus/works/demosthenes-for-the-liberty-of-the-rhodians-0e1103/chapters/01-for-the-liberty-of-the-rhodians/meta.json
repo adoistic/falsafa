@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-for-the-liberty-of-the-rhodians-0e1103",
+  "work_title": "For the Liberty of the Rhodians",
+  "chapter_number": 1,
+  "chapter_title": "For the Liberty of the Rhodians",
+  "chapter_slug": "01-for-the-liberty-of-the-rhodians",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c120c597-6464-56f6-9615-73af98897cea",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2206,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg015.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "256f9e31-65ef-53ea-a3b1-f50ccc3b23f1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3128,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg015.perseus-eng2"
+    }
+  ]
+}

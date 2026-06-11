@@ -1,0 +1,35 @@
+---
+work_id: "5ac08c3d-13cf-5316-8692-9278bf630581"
+work_slug: "plutarch-caesar-5ac08c"
+work_title: Caesar
+author_name: Plutarch
+chapter_number: 69
+chapter_title: Chapter 69
+chapter_slug: 69
+variant_id: "f8807840-b722-554a-a51e-7d943c275797"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 568
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2:69"
+translator: Bernadotte Perrin
+---
+
+At the time of his death Caesar was fully fifty-six years old, but he had survived Pompey not much more than four years, while of the power and dominion which he had sought all his life at so great risks, and barely achieved at last, of this he had reaped no fruit but the name of it only, and a glory which had awakened envy on the part of his fellow citizens.
+
+However, the great guardian-genius of the man, whose help he had enjoyed through life, followed upon him even after death as an avenger of his murder, driving and tracking down his slayers over every land and sea until not one of them was left, but even those who in any way soever either put hand to the deed or took part in the plot were punished.
+
+Among events of man’s ordering, the most amazing was that which befell Cassius; for after his defeat at Philippi he slew himself with that very dagger which he had used against Caesar; and among events of divine ordering, there was the great comet, which showed itself in great splendour for seven nights after Caesar’s murder, and then disappeared; also, the obscuration of the sun’s rays.
+
+For during all that year its orb rose pale and without radiance, while the heat that came down from it was slight and ineffectual, so that the air in its circulation was dark and heavy owing to the feebleness of the warmth that penetrated it, and the fruits, imperfect and half ripe, withered away and shrivelled up on account of the coldness of the atmosphere.
+
+But more than anything else the phantom that appeared to Brutus showed that the murder of Caesar was not pleasing to the gods; and it was on this wise. As he was about to take his army across from Abydos to the other continent, he was lying down at night, as his custom was, in his tent, not sleeping, but thinking of the future; for it is said that of all generals Brutus was least given to sleep, and that he naturally remained awake a longer time than anybody else.
+
+And now he thought he heard a noise at the door, and looking towards the light of the lamp, which was slowly going out, he saw a fearful vision of a man of unnatural size and harsh aspect. At first he was terrified, but when he saw that the visitor neither did nor said anything, but stood in silence by his couch, he asked him who he was.
+
+Then the phantom answered him: I am thy evil genius, Brutus, and thou shalt see me at Philippi. At the time, then, Brutus said courageously: I shall see thee; and the heavenly visitor at once went away. Subsequently, however, when arrayed against Antony and Caesar at Philippi, in the first battle he conquered the enemy in his front, routed and scattered them, and sacked the camp of Caesar;
+
+but as he was about to fight the second battle, the same phantom visited him again at night, and though it said nothing to him, Brutus understood his fate, and plunged headlong into danger. He did not fall in battle, however, but after the rout retired to a crest of ground, put his naked sword to his breast (while a certain friend, as they say, helped to drive the blow home), and so died.

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "p-4d6b49",
+    "offset": 0,
+    "text": "(Enter AESCHINUS and PARMENO with the MUSIC-GIRL, followed by SANNIO and a crowd of people.)"
+  },
+  {
+    "id": "p-a437be",
+    "offset": 94,
+    "text": "SANNIO:\nI beseech you, fellow-citizens, do give aid to a miserable and innocent man; do assist the distressed."
+  },
+  {
+    "id": "p-f43e91",
+    "offset": 206,
+    "text": "AESCHINUS:\n(to the GIRL.)\nBe quiet, and now then stand here just where you are. Why do you look back? There’s no danger; he shall never touch you while I am here."
+  },
+  {
+    "id": "p-852073",
+    "offset": 370,
+    "text": "SANNIO:\nI’ll have her, in spite of all."
+  },
+  {
+    "id": "p-b860f0",
+    "offset": 411,
+    "text": "AESCHINUS:\nThough he is a villain, he’ll not risk, to-day, getting a second beating."
+  },
+  {
+    "id": "p-4221b6",
+    "offset": 497,
+    "text": "SANNIO:\nHear me, Aeschinus, that you may not say that you were in ignorance of my calling; I am a Procurer."
+  },
+  {
+    "id": "p-5a819d",
+    "offset": 606,
+    "text": "AESCHINUS:\nI know it."
+  },
+  {
+    "id": "p-8f9e15",
+    "offset": 629,
+    "text": "SANNIO:\nAnd of as high a character as any one ever was. When you shall be excusing yourself by-and-by, how that you wish this injury had not been done me, I shall not value it this (snapping his fingers). Depend upon it, I’ll prosecute my rights; and you shall never pay with words for the evil that you have done me in deed."
+  },
+  {
+    "id": "p-6d1033",
+    "offset": 956,
+    "text": "I know those ways of yours: I wish it hadn’t happened; I’ll take my oath that you did not deserve this injustice; while I myself have been treated in a disgraceful manner."
+  },
+  {
+    "id": "p-191da3",
+    "offset": 1129,
+    "text": "AESCHINUS:\n(to PARMENO.)\nGo first with all dispatch and open the door.\n(PARMENO opens the door.)"
+  },
+  {
+    "id": "p-3f7c69",
+    "offset": 1227,
+    "text": "SANNIO:\nBut you will avail nothing by this."
+  },
+  {
+    "id": "p-982723",
+    "offset": 1272,
+    "text": "AESCHINUS:\n(To the GIRL.)\nNow then, step in."
+  },
+  {
+    "id": "p-be920f",
+    "offset": 1318,
+    "text": "SANNIO:\n(coming between.)\nBut I’ll not let her."
+  },
+  {
+    "id": "p-2cf458",
+    "offset": 1367,
+    "text": "AESCHINUS:\nStep this way, Parmeno; you are gone too far that way; here (pointing), stand close by him; there, that’s what I want."
+  },
+  {
+    "id": "p-907ea9",
+    "offset": 1498,
+    "text": "Now then, take care you don’t move your eyes in any direction from mine, that there may be no delay if I give you the sign, to your fist being instantly planted in his jaws."
+  },
+  {
+    "id": "p-a3594e",
+    "offset": 1673,
+    "text": "SANNIO:\nI’d have him then try that."
+  },
+  {
+    "id": "p-d1b0dc",
+    "offset": 1710,
+    "text": "AESCHINUS:\n(to PARMENO.)\nNow then, observe me."
+  },
+  {
+    "id": "p-a1d795",
+    "offset": 1758,
+    "text": "PARMENO:\n(to SANNIO.)\nLet go the woman.\n(Strikes him.)"
+  },
+  {
+    "id": "p-089e3f",
+    "offset": 1814,
+    "text": "SANNIO:\nOh! scandalous deed!"
+  },
+  {
+    "id": "p-560bc8",
+    "offset": 1844,
+    "text": "AESCHINUS:\nHe shall repeat it, if you don’t take care.\n(PARMENO strikes him again.)"
+  },
+  {
+    "id": "p-661142",
+    "offset": 1929,
+    "text": "SANNIO:\nOh shocking!"
+  },
+  {
+    "id": "p-3b7865",
+    "offset": 1951,
+    "text": "AESCHINUS:\n(to PARMENO.)\nI didn’t give the sign; but still make your mistakes on that side in preference."
+  },
+  {
+    "id": "p-d0bb34",
+    "offset": 2058,
+    "text": "Now then, go.\n(PARMENO goes with the MUSIC-GIRL into MICIO’S house.)"
+  },
+  {
+    "id": "p-eca7b7",
+    "offset": 2128,
+    "text": "SANNIO:\nWhat is the meaning of this? Have you the sway here, Aeschinus?"
+  },
+  {
+    "id": "p-44222f",
+    "offset": 2201,
+    "text": "AESCHINUS:\nIf I had it, you should be exalted for your deserts."
+  },
+  {
+    "id": "p-95c3af",
+    "offset": 2266,
+    "text": "SANNIO:\nWhat business have you with me?"
+  },
+  {
+    "id": "p-ac3b2e",
+    "offset": 2307,
+    "text": "AESCHINUS:\nNone."
+  },
+  {
+    "id": "p-a4e165",
+    "offset": 2325,
+    "text": "SANNIO:\nHow then, do you know who I am?"
+  },
+  {
+    "id": "p-7f9a9f",
+    "offset": 2366,
+    "text": "AESCHINUS:\nI don’t want to."
+  },
+  {
+    "id": "p-64a4b5",
+    "offset": 2395,
+    "text": "SANNIO:\nHave I touched any thing of yours?"
+  },
+  {
+    "id": "p-ef7a12",
+    "offset": 2439,
+    "text": "AESCHINUS:\nIf you had touched it, you’d have got a drubbing."
+  },
+  {
+    "id": "p-ed0464",
+    "offset": 2501,
+    "text": "SANNIO:\nWhat greater right then have you to take my property, for which I paid my money?"
+  },
+  {
+    "id": "p-e76d2e",
+    "offset": 2591,
+    "text": "Answer me that."
+  },
+  {
+    "id": "p-ca36b9",
+    "offset": 2608,
+    "text": "AESCHINUS:\nIt were better for you not to be making a disturbance here before the house; for if you persist in being impertinent, you shall be dragged in at once, and there you shall be lashed to death with whips."
+  },
+  {
+    "id": "p-24c007",
+    "offset": 2822,
+    "text": "SANNIO:\nA free man, with whips?"
+  },
+  {
+    "id": "p-e5140d",
+    "offset": 2855,
+    "text": "AESCHINUS:\nSo it shall be."
+  },
+  {
+    "id": "p-2a17e9",
+    "offset": 2883,
+    "text": "SANNIO:\nOh, you shameless fellow! Is this the place where they say there is equal liberty for all?"
+  },
+  {
+    "id": "p-ce3413",
+    "offset": 2983,
+    "text": "AESCHINUS:\nIf you have now raved enough, Procurer, now then listen, if you please."
+  },
+  {
+    "id": "p-59114f",
+    "offset": 3067,
+    "text": "SANNIO:\nWhy, is it I that have been raving, or you against me?"
+  },
+  {
+    "id": "p-f9a084",
+    "offset": 3131,
+    "text": "AESCHINUS:\nLeave alone all that, and come to the point."
+  },
+  {
+    "id": "p-2b81e4",
+    "offset": 3188,
+    "text": "SANNIO:\nWhat point? Where am I to come to?"
+  },
+  {
+    "id": "p-c4e715",
+    "offset": 3232,
+    "text": "AESCHINUS:\nAre you willing now that I should say something that concerns you?"
+  },
+  {
+    "id": "p-a8d41c",
+    "offset": 3311,
+    "text": "SANNIO:\nWith all my heart, only so it be something that’s fair."
+  },
+  {
+    "id": "p-a6e1bc",
+    "offset": 3376,
+    "text": "AESCHINUS:\nVery fine! a Procurer wishing me not to say what’s unfair."
+  },
+  {
+    "id": "p-a1f90f",
+    "offset": 3447,
+    "text": "SANNIO:\nI am a Procurer, I confess it—the common bane of youth—a perjurer, a public nuisance; still, no injury has befallen you from me."
+  },
+  {
+    "id": "p-deb121",
+    "offset": 3585,
+    "text": "AESCHINUS:\nWhy, faith, that remains to come—"
+  },
+  {
+    "id": "p-539134",
+    "offset": 3631,
+    "text": "SANNIO:\nPray, Aeschinus, do come back to the point at which you set out."
+  },
+  {
+    "id": "p-6e93ea",
+    "offset": 3705,
+    "text": "AESCHINUS:\nYou bought her for twenty nine; and may your bargain never thrive! That sum shall be given for her."
+  },
+  {
+    "id": "p-598314",
+    "offset": 3817,
+    "text": "SANNIO:\nWhat if I don’t choose to sell her to you? Will you compel me?"
+  },
+  {
+    "id": "p-ca5c5f",
+    "offset": 3889,
+    "text": "AESCHINUS:\nBy no means."
+  },
+  {
+    "id": "p-c15df7",
+    "offset": 3914,
+    "text": "SANNIO:\nI was afraid you would."
+  },
+  {
+    "id": "p-8bc4b8",
+    "offset": 3947,
+    "text": "AESCHINUS:\nNeither do I think that a woman can be sold who is free; for I claim her by action of freedom."
+  },
+  {
+    "id": "p-199b53",
+    "offset": 4054,
+    "text": "Now consider which you choose; take the money, or prepare yourself for the action. Think of it, Procurer, till I return.\n(He goes into the house of MICIO.)"
+  },
+  {
+    "id": "p-8ae97f",
+    "offset": 4211,
+    "text": "SANNIO:\n(to himself.)\nO supreme Jupiter! I do by no means wonder that men run mad through ill usage. He has dragged me out of my house, beaten me, taken my property away against my will, and has given me, unfortunate wretch, more than five hundred blows."
+  },
+  {
+    "id": "p-b801b5",
+    "offset": 4467,
+    "text": "In return for all this ill usage he demands the girl to be made over to him for just the same price at which she was bought. But however, since he has so well deserved of me, be it so: he demands what is his due. Very well, I consent then, provided he only gives the money. But I suspect this; when I have said that I will sell her for so much, he’ll be getting witnesses forthwith that I have sold her. As to getting the money, it’s all a dream. Call again by and by; come back to-morrow."
+  },
+  {
+    "id": "p-e4c8ac",
+    "offset": 4958,
+    "text": "I could bear with that too, hard as it is, if he would only pay it. But I consider this to be the fact; when you take up this trade, you must brook and bear in silence the affronts of these young fellows. However, no one will pay me; it’s in vain for me to be reckoning upon that."
+  },
+  {
+    "id": "p-1d2772",
+    "offset": 5240,
+    "text": "(Enter SYRUS, from the house of MICIO.)"
+  },
+  {
+    "id": "p-44a4ed",
+    "offset": 5281,
+    "text": "SYRUS:\n(speaking to AECHINUS within.)\nSay no more; I myself will arrange with him; I’ll make him glad to take the money at once, and say besides that he has been fairly dealt with. (Addressing SANNIO.) Sannio, how is this, that I hear you have been having some dispute or other with my master?"
+  },
+  {
+    "id": "p-334385",
+    "offset": 5576,
+    "text": "SANNIO:\nI never saw a dispute on more unequal terms than the one that has happened to-day between us; I, with being thumped, he, with beating me, were both of us quite tired."
+  },
+  {
+    "id": "p-88908d",
+    "offset": 5752,
+    "text": "SYRUS:\nYour own fault."
+  },
+  {
+    "id": "p-282414",
+    "offset": 5776,
+    "text": "SANNIO:\nWhat could I do?"
+  },
+  {
+    "id": "p-b9f3e6",
+    "offset": 5802,
+    "text": "SYRUS:\nYou ought to have yielded to the young man."
+  },
+  {
+    "id": "p-2df06b",
+    "offset": 5854,
+    "text": "SANNIO:\nHow could I more so, when to-day I have even afforded my face to his blows?"
+  },
+  {
+    "id": "p-9a470b",
+    "offset": 5939,
+    "text": "SYRUS:\nWell—are you aware of what I tell you? To slight money on some occasions is sometimes the surest gain."
+  },
+  {
+    "id": "p-3fa209",
+    "offset": 6050,
+    "text": "What!— were you afraid, you greatest simpleton alive, if you had parted with ever so little of your right, and had humored the young man, that he would not repay you with interest?"
+  },
+  {
+    "id": "p-57114e",
+    "offset": 6232,
+    "text": "SANNIO:\nI do not pay ready money for hope."
+  },
+  {
+    "id": "p-6224b0",
+    "offset": 6276,
+    "text": "SYRUS:\nThen you’ll never make a fortune. Get out with you, Sannio; you don’t know how to take in mankind."
+  },
+  {
+    "id": "p-86a830",
+    "offset": 6383,
+    "text": "SANNIO:\nI believe that to be the better plan—but I was never so cunning as not, whenever I was able to get it, to prefer getting ready money."
+  },
+  {
+    "id": "p-ba8252",
+    "offset": 6526,
+    "text": "SYRUS:\nCome, come, I know your spirit; as if twenty minae were any thing at all to you in comparison to obliging him; besides, they say that you are setting out for Cyprus —"
+  },
+  {
+    "id": "p-652b0e",
+    "offset": 6701,
+    "text": "SANNIO:\n(aside.) Hah!"
+  },
+  {
+    "id": "p-fd9f33",
+    "offset": 6724,
+    "text": "SYRUS:\nThat you have been buying up many things to take thither; and that the vessel is hired. This I know, your mind is in suspense; however, when you return thence, I hope you’ll settle the matter."
+  },
+  {
+    "id": "p-ba3993",
+    "offset": 6925,
+    "text": "SANNIO:\nNot a foot do stir: Heavens! I’m undone! (Aside.) It was upon this hope they devised their project."
+  },
+  {
+    "id": "p-338b25",
+    "offset": 7034,
+    "text": "SYRUS:\n(aside.)\nHe is alarmed. I’ve brought the fellow into a fix."
+  },
+  {
+    "id": "p-0b5f69",
+    "offset": 7102,
+    "text": "SANNIO:\n(aside.)\nOh, what villainy!—Just look at that; how he has nicked me in the very joint. Several women have been purchased, and other things as well, for me to take to Cyprus."
+  },
+  {
+    "id": "p-c78f29",
+    "offset": 7285,
+    "text": "If I don’t get there to the fair, my loss will, be very great. Then if I postpone this business, and settle it when I come back from there, it will be of no use; the matter will be quite forgotten. Come at last? they’ll say. Why did you delay it? Where have you been? So that I had better lose it altogether than either stay here so long, or be suing for it then."
+  },
+  {
+    "id": "p-4c2ac0",
+    "offset": 7650,
+    "text": "SYRUS:\nHave you by this reckoned up what you calculate will be your profits?"
+  },
+  {
+    "id": "p-b3fe6d",
+    "offset": 7728,
+    "text": "SANNIO:\nIs this honorable of him? Ought Aeschinus to attempt this? Ought he to endeavor to take her away from me by downright violence?"
+  },
+  {
+    "id": "p-2c0a82",
+    "offset": 7865,
+    "text": "SYRUS:\n(aside.)\nHe gives ground. (To SANNIO.) I have this one proposal to make; see if you fully approve of it."
+  },
+  {
+    "id": "p-9845c7",
+    "offset": 7978,
+    "text": "Rather than you should run the risk, Sannio, of getting or losing the whole, halve it. He will manage to scrape together ten minae from some quarter or other."
+  },
+  {
+    "id": "p-40e42c",
+    "offset": 8138,
+    "text": "SANNIO:\nAh me! unfortunate wretch, I am now in danger of even losing part of the principal. Has he no shame? He has loosened all my teeth;\nmy head, too, is full of bumps with his cuffs; and would he defraud me as well? I shall go nowhere."
+  },
+  {
+    "id": "p-336f30",
+    "offset": 8378,
+    "text": "SYRUS:\nJust as you please. Have you any thing more to say before I go?"
+  },
+  {
+    "id": "p-7bf0e2",
+    "offset": 8450,
+    "text": "SANNIO:\nWhy yes, Syrus, i’ faith, I have this to request. Whatever the matters that are past, rather than go to law, let what is my own be returned me; at least, Syrus, the sum she cost me."
+  },
+  {
+    "id": "p-1be7ba",
+    "offset": 8641,
+    "text": "I know that you have not hitherto made trial of my friendship; you will have no occasion to say that I am unmindful or ungrateful."
+  },
+  {
+    "id": "p-730c02",
+    "offset": 8773,
+    "text": "SYRUS:\nI’ll do the best I can. But I see Ctesipho; he’s in high spirits about his mistress."
+  },
+  {
+    "id": "p-2db796",
+    "offset": 8866,
+    "text": "SANNIO:\nWhat about what I was asking you?"
+  },
+  {
+    "id": "p-63f07d",
+    "offset": 8909,
+    "text": "SYRUS:\nStay a little."
+  },
+  {
+    "id": "p-1a9d76",
+    "offset": 8932,
+    "text": "(Enter CTESIPHO, at the other side of the stage.)"
+  },
+  {
+    "id": "p-08f95a",
+    "offset": 8983,
+    "text": "CTESIPHO:\nFrom any man, when you stand in need of it, you are glad to receive a service;"
+  },
+  {
+    "id": "p-638117",
+    "offset": 9073,
+    "text": "but of a truth it is doubly acceptable, if he does you a kindness who ought to do so. O brother, brother, how can I sufficiently commend you? This I am quite sure of; I can never speak of you in such high terms but that your deserts will surpass it. For I am of opinion that I possess this one thing in especial beyond all others, a brother than whom no individual is more highly endowed with the highest qualities."
+  },
+  {
+    "id": "p-cd133d",
+    "offset": 9490,
+    "text": "SYRUS:\nO Ctesipho!"
+  },
+  {
+    "id": "p-ad3093",
+    "offset": 9510,
+    "text": "CTESIPHO:\nO Syrus, where is Aeschinus?"
+  },
+  {
+    "id": "p-8d9479",
+    "offset": 9550,
+    "text": "SYRUS:\nWhy, look—he’s at home, waiting for you."
+  },
+  {
+    "id": "p-624a11",
+    "offset": 9599,
+    "text": "CTESIPHO:\n(speaking joyously.)\nHa!"
+  },
+  {
+    "id": "p-4dce83",
+    "offset": 9635,
+    "text": "SYRUS:\nWhat’s the matter?"
+  },
+  {
+    "id": "p-3fa9ad",
+    "offset": 9662,
+    "text": "CTESIPHO:\nWhat’s the matter?’Tis through him, Syrus, that I am now alive—generous creature! Has he not deemed every thing of secondary importance to himself in comparison with my happiness? The reproach, the discredit, my own amour and imprudence, he has taken upon himself. There can be nothing beyond this; but what means that noise at the door?"
+  },
+  {
+    "id": "p-f32e61",
+    "offset": 10011,
+    "text": "SYRUS:\nStay, stay;’tis Aeschinus himself coming out."
+  },
+  {
+    "id": "p-1f0f55",
+    "offset": 10065,
+    "text": "(Enter AESCHINUS, from the house of MICIO.)"
+  },
+  {
+    "id": "p-9b2e04",
+    "offset": 10110,
+    "text": "AESCHINUS:\nWhere is that villain?"
+  },
+  {
+    "id": "p-e94d99",
+    "offset": 10145,
+    "text": "SANNIO:\n(aside.)\nHe’s looking for me. Is he bringing any thing with him? Confusion! I don’t see any thing."
+  },
+  {
+    "id": "p-f60d18",
+    "offset": 10253,
+    "text": "AESCHINUS:\n(to CTESIPHO.)\nHa! well met; you are the very man I was looking for. How goes it, Ctesipho? All is safe: away then with your melancholy."
+  },
+  {
+    "id": "p-658c35",
+    "offset": 10402,
+    "text": "CTESIPHO:\nBy my troth, I certainly will away with it, when I have such a brother as you. O my dear Aeschinus! O my brother! Alas! I am unwilling to praise you any more to your face, lest you should think I do so rather for flattery than through gratitude."
+  },
+  {
+    "id": "p-3c7e60",
+    "offset": 10659,
+    "text": "AESCHINUS:\nGo to, you simpleton! as though we didn’t by this time understand each other, Ctesipho. This grieves me, that we knew of it almost too late, and that the matter had come to such a pass, that if all mankind had wished they could not possibly have assisted you."
+  },
+  {
+    "id": "p-386809",
+    "offset": 10931,
+    "text": "CTESIPHO:\nI felt ashamed."
+  },
+  {
+    "id": "p-e03a84",
+    "offset": 10958,
+    "text": "AESCHINUS:\nPooh! that is folly, not shame; about such a trifling matter to be almost flying the country!’Tis shocking to be mentioned; I pray the Gods may forbid it!"
+  },
+  {
+    "id": "p-c647b7",
+    "offset": 11125,
+    "text": "CTESIPHO:\nI did wrong."
+  },
+  {
+    "id": "p-99c919",
+    "offset": 11149,
+    "text": "AESCHINUS:\n(in a lower voice.)\nWhat says Sannio to us at last?"
+  },
+  {
+    "id": "p-83d785",
+    "offset": 11213,
+    "text": "SYRUS:\nHe is pacified at last."
+  },
+  {
+    "id": "p-3ca26a",
+    "offset": 11245,
+    "text": "AESCHINUS:\nI’ll go to the Forum to pay him off; you, Ctesipho, step in-doors to her."
+  },
+  {
+    "id": "p-b2a9b0",
+    "offset": 11331,
+    "text": "SANNIO:\n(aside to SYRUS.)\nSyrus, do urge the matter."
+  },
+  {
+    "id": "p-620477",
+    "offset": 11385,
+    "text": "SYRUS:\n(to AESCHINUS.)\nLet us be off, for he is in haste foe’ Cyprus."
+  },
+  {
+    "id": "p-c44de3",
+    "offset": 11456,
+    "text": "SANNIO:\nNot particularly so; although still, I’m stopping here doing nothing at all."
+  },
+  {
+    "id": "p-e76029",
+    "offset": 11542,
+    "text": "SYRUS:\nIt shall be paid, don’t fear."
+  },
+  {
+    "id": "p-60d1bb",
+    "offset": 11580,
+    "text": "SANNIO:\nBut he is to pay it all."
+  },
+  {
+    "id": "p-769012",
+    "offset": 11614,
+    "text": "SYRUS:\nHe shall pay it all; only hold your tongue and follow us this way."
+  },
+  {
+    "id": "p-2be674",
+    "offset": 11689,
+    "text": "SANNIO:\nI’ll follow."
+  },
+  {
+    "id": "p-b9800a",
+    "offset": 11711,
+    "text": "CTESIPHO:\n(as SYRUS is going.)\nHarkye, harkye, Syrus."
+  },
+  {
+    "id": "p-4ee545",
+    "offset": 11766,
+    "text": "SYRUS:\n(turning back.)\nWell now, what is it?"
+  },
+  {
+    "id": "p-97eaec",
+    "offset": 11812,
+    "text": "CTESIPHO:\n(aside.)\nPray do discharge that most abominable fellow as soon as possible; for fear, in case he should become more angry, by some means or other this matter should reach my father, and then I should be ruined forever."
+  },
+  {
+    "id": "p-692122",
+    "offset": 12042,
+    "text": "SYRUS:\nThat shall not happen, be of good heart; meanwhile enjoy yourself in-doors with her, and order the couches to be spread for us, and the other things to be got ready. As soon as this business is settled, I shall come home with the provisions."
+  },
+  {
+    "id": "p-f2bc13",
+    "offset": 12292,
+    "text": "CTESIPHO:\nPray do so. Since this has turned out so well, let us make a cheerful day of it.\n(CTESIPHO goes into the house of MICIO; and exeunt AESCHINUS and SYRUS, followed by SANNIO.)"
+  }
+]

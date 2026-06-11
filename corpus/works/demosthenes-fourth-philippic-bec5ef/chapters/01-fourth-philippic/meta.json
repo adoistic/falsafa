@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-fourth-philippic-bec5ef",
+  "work_title": "Fourth Philippic",
+  "chapter_number": 1,
+  "chapter_title": "Fourth Philippic",
+  "chapter_slug": "01-fourth-philippic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d38dc53c-61b1-5229-89f7-f08a8aad03a0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4438,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg010.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "790945b0-9999-5788-a2df-acea4871d50c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6360,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg010.perseus-eng2"
+    }
+  ]
+}

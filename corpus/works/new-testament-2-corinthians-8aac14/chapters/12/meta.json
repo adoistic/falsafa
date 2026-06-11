@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-2-corinthians-8aac14",
+  "work_title": "2 Corinthians",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "af949b57-066f-5dab-a55e-65b98544feeb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 409,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-grc2:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4855e7c-eeed-5f1c-a4d5-9eb49712df11",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 613,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-eng2:12"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 55
+chapter_title: "Chapter text=F:book=7:letter=17"
+chapter_slug: 55
+variant_id: "20e9ef7f-bdbf-5567-b18d-021ceb79fc19"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 539
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:55"
+translator: Perseus Digital Library
+---
+
+TO C. TREBATIUS TESTA (IN GAUL) ROME (SEPTEMBER)
+
+From what I gather from your letter I have thanked my brother Quintus, and can besides at last heartily commend you, because you at length seem to have come to some fixed resolution. For I was much put out by your letters in the first months of your absence, because at times you seemed to me—pardon the expression—to be light-minded in your longing for the city and city life, at others timid in undertaking military work, and often even a little inclined to presumption—a thing as unlike your usual self as can be. For, as though you had brought a bill of exchange, and not a letter of recommendation to your commander-in-chief, you were all in a hurry to get your money and return home; and it never occurred to you that those who went to Alexandria with real bills of exchange have as yet not been able to get a farthing. If I looked only to my own interests, I should wish, above all things, to have you with me: for I used to find not only pleasure of no ordinary kind in your society, but also much advantage from your advice and active assistance. But since from your earliest manhood you had devoted yourself to my friendship and protection, I thought it my duty not only to see that you came to no harm, but to advance your fortunes and secure your promotion. Accordingly, as long as I thought I should be going abroad to a province, I am sure you remember the voluntary offers I made you. After that plan had been changed, perceiving that I was being treated by Caesar with the highest consideration, and was regarded by him with unusual affection, and knowing as I did his incredible liberality and unsurpassed loyalty to his word, I recommended you to him in the weightiest and most earnest words at my command. And he accepted this recommendation in a gratifying manner, and repeatedly indicated to me in writing and shewed you by word and deed, that he had been powerfully affected by my recommendation. Having got such a man as your patron, if you believe me to have any insight, or to be your well-wisher, do not let him go; and if by chance something at times has annoyed you, when from being busy or in difficulties he has seemed to you somewhat slow to serve you, hold on and wait for the end, which I guarantee will be gratifying and honourable to you. I need not exhort you at any greater length: I only give you this warning, that you will never find a better opportunity, if you let this slip, either of securing the friendship of a most illustrious and liberal man, or of enjoying a wealthier province or a more suitable time of life. "Quintus Cornelius concurred," as you say in your law books. I am glad you didn't go to Britain, because you have been saved some hard work, and I the necessity of listening to your stories about that expedition. Pray write to me at full length as to where you are going to winter, and what your hopes and present position are.

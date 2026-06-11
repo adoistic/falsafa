@@ -1,0 +1,21 @@
+---
+work_id: "5fa68674-5128-526b-ad8e-7e50aa516351"
+work_slug: "tacitus-cornelius-dialogus-5fa686"
+work_title: Dialogus
+author_name: Tacitus, Cornelius
+chapter_number: 17
+chapter_title: Chapter 17
+chapter_slug: 17
+variant_id: "abea223b-1cc4-58f5-9c41-9f6e9c94e2ab"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 368
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:17"
+translator: William Jackson Brodribb
+---
+
+But I pass to the Latin orators. Among them, it is not, I imagine, Menenius Agrippa, who may seem ancient, whom you usually prefer to the speakers of our day, but Cicero, Caelius, Calvus, Brutus, Asinius, Messala. Why you assign them to antiquity rather than to our own times, I do not see. With respect to Cicero himself, it was in the consulship of Hirtius and Pansa, as his freedman Tiro has stated, on the 5th of December, that he was slain. In that same year the Divine Augustus elected himself and Quintus Pedius consuls in the room of Pansa and Hirtius. Fix at fifty-six years the subsequent rule of the Divine Augustus over the state; add Tiberius 's three-and-twenty years, the four years or less of Caius, the twenty-eight years of Claudius and Nero, the one memorable long year of Galba, Otho, and Vitellius, and the now six years of the present happy reign, during which Vespasian has been fostering the public weal, and the result is that from Cicero 's death to our day is a hundred and twenty years, one man's life-time. For I saw myself an old man in Britain who declared that he was present at the battle in which they strove to drive and beat back from their shores the arms of C&aelig;sar when he attacked their island. So, had this man who encountered C&aelig;sar in the field, been brought to Rome either as a prisoner, or by his own choice or by some destiny, he might have heard C&aelig;sar himself and Cicero, and also have been present at our own speeches. At the last largess of the Emperor you saw yourselves several old men who told you that they had actually shared once and again in the gifts of the divine Augustus. Hence we infer that they might have heard both Corvinus and Asinius. Corvinus indeed lived on to the middle of the reign of Augustus, Asinius almost to its close. You must not then divide the age, and habitually describe as old and ancient orators those with whom the ears of the self-same men might have made acquaintance, and whom they might, so to say, have linked and coupled together.

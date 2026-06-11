@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-carminum-minorum-corpusculum-63b5eb",
+  "work_title": "Carminum minorum corpusculum",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9fee5722-3df2-51cd-8712-1ef6b4d230ac",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 122,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa001.perseus-lat2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97fb896c-f4ac-51df-86d9-b88c5087ea8f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 255,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa001.perseus-eng1:9"
+    }
+  ]
+}

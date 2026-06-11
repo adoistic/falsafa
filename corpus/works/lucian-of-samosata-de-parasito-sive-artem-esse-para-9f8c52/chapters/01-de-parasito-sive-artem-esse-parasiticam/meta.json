@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-de-parasito-sive-artem-esse-para-9f8c52",
+  "work_title": "De parasito sive artem esse parasiticam",
+  "chapter_number": 1,
+  "chapter_title": "De parasito sive artem esse parasiticam",
+  "chapter_slug": "01-de-parasito-sive-artem-esse-parasiticam",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c6b8748a-a44f-5d0e-ac69-2291ebc4dba0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6557,
+      "paragraph_count": 216,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg030.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0298bd76-3364-5b27-9e0e-b1bb40a10cb0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7454,
+      "paragraph_count": 203,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg030.perseus-eng4"
+    }
+  ]
+}

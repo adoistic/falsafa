@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-lysander-and-sulla-3ee670",
+  "work_title": "Comparison of Lysander and Sulla",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be8611e1-5c6e-5a2d-90fa-00e225abb7d4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 307,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg034.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e044e9ae-2aa6-59ca-80e9-e78f631008bc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 430,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg034.perseus-eng2:3"
+    }
+  ]
+}

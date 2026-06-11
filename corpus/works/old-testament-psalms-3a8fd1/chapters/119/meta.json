@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 119,
+  "chapter_title": "Chapter 120",
+  "chapter_slug": "119",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "862c6c0f-c721-5d03-be37-8255d8bf2b91",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 94,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:119"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc2e2450-b7e5-55b4-8603-2378fe17f901",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 88,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:119"
+    }
+  ]
+}

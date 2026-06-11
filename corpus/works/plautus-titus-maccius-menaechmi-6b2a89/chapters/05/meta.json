@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-menaechmi-6b2a89",
+  "work_title": "Menaechmi",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "05",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d7139f97-93f5-535a-93b4-0da0a390e902",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1325,
+      "paragraph_count": 171,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi010.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a81c96e8-f24b-5771-bb4a-5d5829886b57",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1446,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi010.perseus-eng2:5"
+    }
+  ]
+}

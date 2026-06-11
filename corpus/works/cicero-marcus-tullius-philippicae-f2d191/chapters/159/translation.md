@@ -1,0 +1,21 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 159
+chapter_title: Chapter 13
+chapter_slug: 159
+variant_id: "4109b393-a071-5540-9dd0-6ba9b8f6b1a5"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 422
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:159"
+translator: Perseus Digital Library
+---
+
+By this resolution of the senate you will inflame the existing ardor of Cassius, and you will give him additional arms; for you can not be ignorant of his disposition, or of the resources which he has at present. His disposition is such as you see; his resources, which you have heard stated to you, are those of a gallant and resolute man, who, even while Trebonius was alive, would not permit the piratical crew of Dolabella to penetrate into Syria. Allienus, my intimate friend and connection, who went thither after the death of Trebonius, will not permit himself to be called the lieutenant of Dolabella. The army of Quintus Caecilius Bassus, a man indeed without any regular appointment, but a brave and eminent man, is vigorous and victorious. The army of Deiotarus the king, both father and son, is very numerous; and equipped in our fashion. Moreover, in the son there is the greatest hope, the greatest vigor of genius and a good disposition, and the most eminent valor. Why need I speak of the father? whose good-will toward the Roman people is coeval with his life; who has not only been the ally of our commanders in their wars, but has also served himself as the general of his own troops. What great things have Sulla, and Murena, and Servilius, and Lucullus said of that man; what complimentary, what honorable and dignified mention have they often made of him in the senate! Why should I speak of Cnaeus Pompeius? who considered Deiotarus the only friend and real well-wisher from his heart, the only really loyal man to the Roman people in the whole world? We were generals, Marcus Bibulus and I, in neighboring provinces bordering on his kingdom; and we were assisted by that same monarch both with cavalry and infantry. Then followed this most miserable and disastrous civil war; in which I need not say what Deiotarus ought to have done, or what would have been the most proper course which he could have adopted, especially as victory decided for the party opposed to the wishes of Deiotarus. And if in that war he committed any error, he did so in common with the senate. If his judgment was the right one, then even though defeated it does not deserve to be blamed. To these resources other kings and other levies of troops will be added. Nor will fleets be wanting to us; so greatly do the Tyrians esteem Cassius, so mighty is his name in Syria and Phoenicia.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "hippocrates-de-capitis-vulneribus-ceb188",
+  "work_title": "De capitis vulneribus",
+  "chapter_number": 1,
+  "chapter_title": "De capitis vulneribus",
+  "chapter_slug": "01-de-capitis-vulneribus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ea3c0fdd-2381-5417-a935-e7ba8771058b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5014,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg007.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aaf0b067-3369-5eac-a27e-8086c550abc5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6156,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg007.perseus-eng2"
+    }
+  ]
+}

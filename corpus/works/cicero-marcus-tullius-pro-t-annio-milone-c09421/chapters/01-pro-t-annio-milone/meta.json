@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-t-annio-milone-c09421",
+  "work_title": "Pro T. Annio Milone",
+  "chapter_number": 1,
+  "chapter_title": "Pro T. Annio Milone",
+  "chapter_slug": "01-pro-t-annio-milone",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1a39d215-d7fe-515b-9450-07e1c8540e0a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10091,
+      "paragraph_count": 105,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi031.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc38bf42-1f1a-5818-b86e-38d924ce55a6",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 19483,
+      "paragraph_count": 93,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi031.perseus-eng1"
+    }
+  ]
+}

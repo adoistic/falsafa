@@ -1,0 +1,21 @@
+---
+work_id: "5fa68674-5128-526b-ad8e-7e50aa516351"
+work_slug: "tacitus-cornelius-dialogus-5fa686"
+work_title: Dialogus
+author_name: Tacitus, Cornelius
+chapter_number: 31
+chapter_title: Chapter 31
+chapter_slug: 31
+variant_id: "6d25f272-ab88-5764-8ca3-d46932a4c980"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 420
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:31"
+translator: William Jackson Brodribb
+---
+
+Such was the conviction of the ancients, and to produce this result they were aware that it was necessary not only to declaim in the schools of rhetoricians, or to exercise the tongue and the voice in fictitious controversies quite remote from reality, but also to imbue the mind with those studies which treat of good and evil, of honour and dishonour, of right and wrong. All this, indeed, is the subject-matter of the orator's speeches. Equity in the law-court, honour in the council-chamber, are our usual topics of discussion. Still, these often pass into each other, and no one can speak on them with fulness, variety, and elegance but he who has studied human nature, the power of virtue, the depravity of vice, and the conception of those things which can be classed neither among virtues nor vices. These are the sources whence flows the greater ease with which he who knows what anger is, rouses or soothes the anger of a judge, the readier power with which he moves to pity who knows what pity is, and what emotions of the soul excite it. An orator practised in such arts and exercises, whether he has to address the angry, the biassed, the envious, the sorrowful, or the trembling, will understand different mental conditions, apply his skill, adapt his style, and have every instrument of his craft in readiness, or in reserve for every occasion. Some there are whose assent is more secured by an incisive and terse style, in which each inference is rapidly drawn. With such, it will be an advantage to have studied logic. Others are more attracted by a diffuse and smoothly flowing speech, appealing to the common sentiments of humanity. To impress such we must borrow from the Peripatetics commonplaces suited and ready prepared for every discussion. The Academy will give us combativeness, Plato, sublimity, Xenophon, sweetness. Nor will it be unseemly in an orator to adopt even certain exclamations of honest emotion, from Epicurus and Metrodorus, and to use them as occasion requires. It is not a philosopher after the Stoic school whom we are forming, but one who ought to imbibe thoroughly some studies, and to have a taste of all. Accordingly, knowledge of the civil law was included in the training of the ancient orators, and they also imbued their minds with grammar, music, and geometry. In truth, in very many, I may say in all cases, acquaintance with law is desirable, and in several this last-mentioned knowledge is a necessity.

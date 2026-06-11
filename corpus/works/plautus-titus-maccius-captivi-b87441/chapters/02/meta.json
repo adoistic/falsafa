@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-captivi-b87441",
+  "work_title": "Captivi",
+  "chapter_number": 2,
+  "chapter_title": "Chapter prologue",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f620e49d-539f-5a0e-962d-244a6b8fb169",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 881,
+      "paragraph_count": 101,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi005.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e46e30fd-fb67-5404-a11d-01468bd89c4b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 773,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi005.perseus-eng2:2"
+    }
+  ]
+}

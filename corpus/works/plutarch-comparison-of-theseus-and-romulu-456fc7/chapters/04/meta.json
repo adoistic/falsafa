@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-theseus-and-romulu-456fc7",
+  "work_title": "Comparison of Theseus and Romulus",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d44422aa-b59d-5903-98fc-279b0050c607",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 144,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg003.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ea2735b-df1d-5889-acba-75b264cad13d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 217,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg003.perseus-eng2:4"
+    }
+  ]
+}

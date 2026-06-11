@@ -1,0 +1,21 @@
+---
+work_id: "e7030675-2a66-5a8e-83bd-fff726371b13"
+work_slug: "pseudo-caesar-de-bello-africo-e70306"
+work_title: De Bello Africo
+author_name: "Pseudo-Caesar"
+chapter_number: 19
+chapter_title: Chapter 19
+chapter_slug: 19
+variant_id: "ae8619ad-056b-54d4-aa3e-56cbecbf3963"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 409
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0426.phi001.perseus-eng1:19"
+translator: Perseus Digital Library
+---
+
+Meanwhile after this engagement had taken place and when the action had been broken off, quite a number of all ranks of the opposing side deserted to Caesar, and in addition not a few of the enemy cavalry and infantry were taken prisoner. From them the enemy’s plan became known. He had come with the intention of trying out new and unfamiliar battle tactics upon Caesar’s legionaries, in order that—raw recruits and few in numbers as they were—they should be demoralised thereby, and be enveloped and crushed by the cavalry, as Curio had been; and Labienus had spoken to this effect to his troops on parade, that he would furnish Caesar’s opponents with so vast a number of auxiliaries that Caesar’s men would be quite exhausted even with killing them, and so would be vanquished in the very hour of victory, and mastered by his forces. In fact, quite apart from the aid of those auxiliaries, he had reason for self-confidence: first because he had heard that at Rome the veteran legions were mutinous and refusing to cross into Africa; next because he had kept his own troops in Africa for three years: they were acclimatised and he had now secured their loyalty to himself; he had, moreover, very large auxiliary forces composed of Numidian cavalry and light-armed troops and, besides these, the German and Gallic cavalry which, after the defeat and rout of Pompeius, he, Labienus, had brought across with him from Buthrotum, as well as those which he had levied later on in Africa from half-castes, freedmen and slaves, and had armed and taught to handle a bridled horse: he had in addition royal auxiliary forces, as well as a hundred and twenty elephants and innumerable cavalry; and finally, legions raised from more than twelve thousand men of every type. On such considerations was based the reckless confidence that fired Labienus, with his sixteen hundred Gallic and German cavalry, his eight thousand Numidians who rode without bridles, reinforced in addition by the cavalry contingent of Petreius, sixteen hundred strong, and with his infantry and light-armed force, four times as big, and with his numerous archers, slingers and mounted archers. These were the forces which on January 4th, five days after Caesar reached Africa, on a perfectly flat and unimpeded plain were engaged in a contest from the fifth hour of the day continuously till sundown. In that battle Petreius was gravely wounded and retired from the field.

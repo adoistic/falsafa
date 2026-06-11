@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-liberis-educandis-ff6ca0",
+  "work_title": "De liberis educandis",
+  "chapter_number": 1,
+  "chapter_title": "De liberis educandis",
+  "chapter_slug": "01-de-liberis-educandis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b1115a41-01fd-5557-b547-17931b7bb772",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6136,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg067.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70c9b9af-4027-51f2-b9f8-84cb2f9bedb2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10033,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg067.perseus-eng4"
+    }
+  ]
+}

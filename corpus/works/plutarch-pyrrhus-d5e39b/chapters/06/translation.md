@@ -1,0 +1,29 @@
+---
+work_id: "d5e39b37-e85c-5e93-93f5-26c6ad3bd1a5"
+work_slug: "plutarch-pyrrhus-d5e39b"
+work_title: Pyrrhus
+author_name: Plutarch
+chapter_number: 6
+chapter_title: Chapter 6
+chapter_slug: 06
+variant_id: "1944a542-d771-5837-8a70-0ffa429b07b4"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 380
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg030.perseus-eng2:6"
+translator: Bernadotte Perrin
+---
+
+And now, in honour of Berenicé and Ptolemy, he gave the name of Ptolemy to his infant son by Antigone, and called the city which he had built on the peninsula of Epeirus, Berenicis. After this, he began to revolve many large projects in his mind; but his hopes were fixed first and more especially on undertakings close at hand, and he found a way to take direct part in Macedonian affairs, on grounds something like the following.
+
+Of Cassander’s sons, the elder, Antipater, killed his mother Thessalonicé and drove away his brother Alexander. Alexander sent to Demetrius begging for help, and also called upon Pyrrhus. Demetrius was delayed by matters that he had in hand; but Pyrrhus came, and demanded as a reward for his alliance Stymphaea and Parauaea in Macedonia, and, of the countries won by the allies, Ambracia, Acarnania, and Amphilochia.
+
+The youthful Alexander gave way to his demands, and Pyrrhus took possession of these countries and held them for himself with garrisons; he also proceeded to strip from Antipater the remaining parts of his kingdom and turn them over to Alexander. Now Lysimachus the king, who was eager to give aid to Antipater, was fully occupied himself and could not come in person; but knowing that Pyrrhus was desirous to do Ptolemy every favour and refuse him nothing, he sent a forged letter to him which stated that Ptolemy urged him to give up his expedition on payment of three hundred talents from Antipater.
+
+As soon as Pyrrhus opened the letter he perceived the fraud of Lysimachus; for the letter did not have the customary address, The father, to the son, health and happiness, but instead, King Ptolemy, to King Pyrrhus, health and happiness. Pyrrhus reviled Lysimachus for the fraud, but nevertheless made the desired peace, and they all met to ratify it with sacrificial oaths.
+
+However, after a bull, a boar, and a ram had been brought up for sacrifice, of its own accord the ram fell down dead. The rest of the spectators were moved to laughter, but Theodotus the seer prevented Pyrrhus from taking the oath by declaring that Heaven thus betokened in advance the death of one of the three kings. In this way, then, Pyrrhus was led to renounce the peace.

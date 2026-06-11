@@ -1,0 +1,21 @@
+---
+work_id: "6262d942-d888-55cb-84ac-42634338c3dc"
+work_slug: "suetonius-tiberius-6262d9"
+work_title: Tiberius
+author_name: Suetonius
+chapter_number: 51
+chapter_title: Chapter 51
+chapter_slug: 51
+variant_id: "c80d3b54-6f82-512a-923b-7b0246706d72"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 270
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo013.perseus-eng2:51"
+translator: Perseus Digital Library
+---
+
+He afterwards proceeded to an open rupture with her, and, as is said, upon this occasion. She having frequently urged him to place among the judges a person who had been made free of the, city, he refused her request, unless she would allow it to be inscribed on the roll, "That the appointment had been extorted from him by his mother." Enraged at this, Livia brought forth from her chapel some letters from Augustus to her, complaining of the sourness and insolence of Tiberius 's temper, and these she read. So much was he offended at these letters having been kept so long, and now produced with so much bitterness against him, that some considered this incident as one of the causes of his going into seclusion, if not the principal reason for so doing. In the whole years he lived during his retirement, he saw her but once, and that for a few hours only. When she fell sick shortly afterwards, he was quite unconcerned about visiting her in her illness; and when she died, after promising to attend her funeral, he deferred his coming for several days, so that the corpse was in a state of decay and putrefaction before die interment; and he then forbad divine honours being paid to her, pretending that he acted according to her own directions. He likewise annulled her will, and in a short time ruined all her friends and acquaintance; not even sparing those to whom, on her death-bed, she had recommended the care of her funeral, but condemning one of them, a man of equestrian rank, to the tread-mill.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-birds-8b2032",
+  "work_title": "Birds",
+  "chapter_number": 1,
+  "chapter_title": "Birds",
+  "chapter_slug": "01-birds",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "921b778d-aa22-57a4-bb10-fb779b3aed26",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11547,
+      "paragraph_count": 1966,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99ef300f-0b50-5fe9-ac4f-352accc16795",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16844,
+      "paragraph_count": 899,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg006.perseus-eng2"
+    }
+  ]
+}

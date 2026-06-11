@@ -1,0 +1,38 @@
+{
+  "work_slug": "homeric-hymns-hymn-4-to-hermes-b34461",
+  "work_title": "Hymn 4 to Hermes",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 4 to Hermes",
+  "chapter_slug": "01-hymn-4-to-hermes",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e4d9fa66-071e-5e80-a22d-c3bc09478c36",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4056,
+      "paragraph_count": 586,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "108cccba-da10-5ddf-929c-cb5c07492bd3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5997,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg004.perseus-eng2"
+    }
+  ]
+}

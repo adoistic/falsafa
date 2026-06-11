@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-philopseudes-sive-incredulus-a487eb",
+  "work_title": "Philopseudes sive incredulus",
+  "chapter_number": 1,
+  "chapter_title": "Philopseudes sive incredulus",
+  "chapter_slug": "01-philopseudes-sive-incredulus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "23d858a4-6bba-5816-8d26-785e8c44c88a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6327,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg031.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ff08199-300e-5090-b04f-f2feca4cd5a0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7893,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg031.perseus-eng4"
+    }
+  ]
+}

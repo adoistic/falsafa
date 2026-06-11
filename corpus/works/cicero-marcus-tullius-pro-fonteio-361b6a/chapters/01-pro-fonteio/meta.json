@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-fonteio-361b6a",
+  "work_title": "Pro Fonteio",
+  "chapter_number": 1,
+  "chapter_title": "Pro Fonteio",
+  "chapter_slug": "01-pro-fonteio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd3b4f1c-2ba9-558e-b0cc-3e5b1f0c266e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4415,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi007.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "029f90e8-8ed7-5e79-8974-bd64a9bd8dc2",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7580,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi007.perseus-eng2"
+    }
+  ]
+}

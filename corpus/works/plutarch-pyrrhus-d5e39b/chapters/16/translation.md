@@ -1,0 +1,35 @@
+---
+work_id: "d5e39b37-e85c-5e93-93f5-26c6ad3bd1a5"
+work_slug: "plutarch-pyrrhus-d5e39b"
+work_title: Pyrrhus
+author_name: Plutarch
+chapter_number: 16
+chapter_title: Chapter 16
+chapter_slug: 16
+variant_id: "14ce58a3-1e43-5977-996d-7a26f651c532"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 861
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg030.perseus-eng2:16"
+translator: Bernadotte Perrin
+---
+
+With these Pyrrhus set out for Tarentum, where Cineas, on learning of his approach, led out his soldiers to meet him. Entering the city, he did nothing that was against the wishes of the Tarentines, nor did he put any compulsion upon them, until his ships came back in safety from the sea and the greater part of his forces were assembled.
+
+Then, however, seeing that the multitude were incapable, unless under strong constraint, of either saving themselves or saving others, but were inclined to let him do their fighting for them while they remained at home in the enjoyment of their baths and social festivities, he closed up the gymnasia and the public walks, where, as they strolled about, they fought out their country’s battles in talk; he also put a stop to drinking-bouts, revels, and festivals, as unseasonable, called the men to arms, and was stern and inexorable in his enrolment of them for military service. Many therefore left the city, since they were not accustomed to being under orders, and called it servitude not to live as they pleased.
+
+And now word was brought to Pyrrhus that Laevinus the Roman consul was coming against him with a large army and plundering Lucania as he came. Pyrrhus had not yet been joined by his allies, but thinking it an intolerable thing to hold back and suffer his enemies to advance any nearer, he took the field with his forces, having first sent a herald to the Romans with the enquiry whether it was their pleasure, before waging war, to receive satisfaction from the Italian Greeks, employing him as arbiter and mediator.
+
+But Laevinus made answer that the Romans neither chose Pyrrhus as a mediator nor feared him as a foe. Pyrrhus therefore went forward and pitched his camp in the plain between the cities of Pandosia and Heracleia. When he learned that the Romans were near and lay encamped on the further side of the river Sins, he rode up to the river to get a view of them; and when he had observed their discipline, the appointment of their watches, their order, and the general arrangement of their camp, he was amazed, and said to the friend who was nearest him: The discipline of these Barbarians is not barbarous; but the result will show us what it amounts to. He was now less confident of the issue, and determined to wait for his allies; but he stationed a guard on the bank of the river to check the Romans if, in the meantime, they should attempt to cross it.
+
+The Romans, however, anxious to anticipate the coming of the forces which Pyrrhus had decided to await, attempted the passage, their infantry crossing the river by a ford, and their cavalry dashing through the water at many points, so that the Greeks on guard, fearing that they would be surrounded, withdrew. When Pyrrhus saw this, he was greatly disturbed, and charging his infantry officers to form in line of battle at once and stand under arms, he himself rode out with his three thousand horsemen, hoping to come upon the Romans while they were still crossing, and to find them scattered and in disorder.
+
+But when he saw a multitude of shields gleaming on the bank of the river and the cavalry advancing upon him in good order, he formed his men in close array and led them to the attack. He was conspicuous at once for the beauty and splendour of his richly ornamented armour, and showed by his deeds that his valour did not belie his fame; and this most of all because, while actively participating in the fight and vigorously repelling his assailants, he did not become confused in his calculations nor lose his presence of mind, but directed the battle as if he were surveying it from a distance, darting hither and thither himself and bringing aid to those whom he thought to be overwhelmed. Here Leonnatus the Macedonian, observing that an Italian was intent upon Pyrrhus, and was riding out against him and following him in every movement from place to place, said: Seest thou, O King, that Barbarian yonder, riding the black horse with white feet? He looks like a man who has some great and terrible design in mind.
+
+For he keeps his eyes fixed upon thee, and is intent to reach thee with all his might and main, and pays no heed to anybody else. So be on thy guard against the man. To him Pyrrhus made reply: What is fated O Leonnatus, it is impossible to escape; but with impunity neither he nor any other Italian shall come to close quarters with me. While they were still conversing thus, the Italian levelled his spear, wheeled his horse, and charged upon Pyrrhus.
+
+Then at the same instant the Barbarian’s spear smote the king’s horse, and his own horse was smitten by the spear of Leonnatus. Both horses fell, but while Pyrrhus was seized and rescued by his friends, the Italian, fighting to the last, was killed. He was a Frentanian by race, captain of a troop of horse, Oplax by name.

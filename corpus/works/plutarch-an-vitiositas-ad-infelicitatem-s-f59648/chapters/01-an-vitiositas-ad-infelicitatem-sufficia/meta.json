@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-an-vitiositas-ad-infelicitatem-s-f59648",
+  "work_title": "An vitiositas ad infelicitatem sufficia",
+  "chapter_number": 1,
+  "chapter_title": "An vitiositas ad infelicitatem sufficia",
+  "chapter_slug": "01-an-vitiositas-ad-infelicitatem-sufficia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cf2dab57-d248-5512-88ec-f5d75729ac3e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 862,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg099.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "efe0318c-07b7-54ad-a069-8903c445d080",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1397,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg099.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-caligula-3902f8",
+  "work_title": "Caligula",
+  "chapter_number": 61,
+  "chapter_title": "Chapter note",
+  "chapter_slug": "61",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c15950ee-689d-5f26-8a2e-78ccf015df03",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 946,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-eng2:61"
+    }
+  ]
+}

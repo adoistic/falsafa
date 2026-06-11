@@ -1,0 +1,25 @@
+---
+work_id: "df57072f-cc49-5e2f-a3ee-0a3e35a236cc"
+work_slug: "plutarch-marcellus-df5707"
+work_title: Marcellus
+author_name: Plutarch
+chapter_number: 3
+chapter_title: Chapter 3
+chapter_slug: 03
+variant_id: "acead0e7-a498-5602-a253-1948cf1033d5"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 341
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg022.perseus-eng2:3"
+translator: Bernadotte Perrin
+---
+
+After the first Punic war had come to an end in its twenty-second year, Rome was called upon to renew her struggles with the Gauls. The Insubrians, a people of Celtic stock inhabiting that part of Italy which lies at the foot of the Alps, and strong even by themselves, called out their forces, and summoned to their aid the mercenary Gauls called Gaesatae.
+
+It seemed a marvellous piece of good fortune that the Gallic war did not break out while the Punic war was raging, but that the Gauls, like a third champion sitting by and awaiting his turn with the victor, remained strictly quiet while the other two nations were fighting, and then only stripped for combat when the victors were at liberty to receive their challenge. Nevertheless, the Romans were greatly alarmed by the proximity of their country to the enemy, with whom they would wage war so near their own boundaries and homes, as well as by the ancient renown of the Gauls, whom the Romans seem to have feared more than any other people. For Rome had once been taken by them, and from that time on a Roman priest was legally exempt from military service only in case no Gallic war occurred again. Their alarm was also shown by their preparations for the war (neither before nor since that time, we are told, were there so many thousands of Romans in arms at once), and by the extraordinary sacrifices which they made to the gods.
+
+For though they have no barbarous or unnatural practices, but cherish towards their deities those mild and reverent sentiments which especially characterize Greek thought, at the time when this war burst upon them they were constrained to obey certain oracular commands from the Sibylline books, and to bury alive two Greeks, a man and a woman, and likewise two Gauls, in the place called the forum boarium, or cattle-market; and in memory of these victims, they still to this day, in the month of November, perform mysterious and secret ceremonies.

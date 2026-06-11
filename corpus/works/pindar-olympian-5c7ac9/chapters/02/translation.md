@@ -1,0 +1,41 @@
+---
+work_id: "5c7ac936-bfc5-5422-99dc-b48968e04ea6"
+work_slug: "pindar-olympian-5c7ac9"
+work_title: Olympian
+author_name: Pindar
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "354f1223-5ce5-59d6-8763-92a515ab986e"
+content_type: translation
+layout: verse
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 953
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2:2"
+translator: Diane Svarlien
+---
+
+Songs, rulers of the lyre, what god, what hero, what man shall we celebrate? Indeed, Pisa belongs to Zeus; and Heracles established the Olympic festival, as the finest trophy of battle;
+
+and Theron must be proclaimed because of his victorious four-horse chariot, Theron who is just in his regard for guests, and is the bulwark of Acragas, the strength of the city, the choicest bloom of illustrious ancestors, who labored much with their spirits, and won a sacred home by the river, and were the eye of Sicily; their allotted lifetime attended them, bringing wealth and grace to their inborn excellence. But you, son of Cronus and Rhea, who rule over your home on Olympus, and over the foremost of festivals, and over the ford of Alpheus, be warmed by our songs and graciously preserve their ancestral land for their future generations. When deeds have been accomplished, whether justly or contrary to justice, not even Time the father of all things could undo the outcome. But forgetfulness may come, with favorable fortune. Under the power of noble joys, malignant pain is subdued and dies, whenever god-sent Fate lifts prosperity on high. This saying applies to the daughters of Cadmus on their lovely thrones: they suffered greatly, but their heavy sorrow collapsed in the presence of greater blessings.
+
+Long-haired Semele, who died in the roar of the thunderbolt, lives among the Olympians; Pallas is her constant friend, and indeed so is father Zeus, and she is loved by her ivy-crowned son.
+
+And they say that even in the sea, among the ocean-daughters of Nereus, immortal life is granted to Ino for all time. Truly, for mortal men at least, the time when we will reach the limit of death is by no means fixed, nor when we will bring a peaceful day, the sun’s child, to an end in unworried well-being. But at various times various currents, both of pleasure and of toil, come to men.
+
+In such a way does Fate, who keeps their pleasant fortune to be handed from father to son, bring at another time some painful reversal together with god-sent prosperity, since the destined son met and killed Laius, and fulfilled the oracle of Pytho, spoken long before.
+
+But the sharp-eyed Erinys saw it, and destroyed his warlike sons through mutual slaughter. Yet Polyneices, when laid low, left behind him a son, Thersander, honored in youthful contests and in the battles of war, a scion to defend the house of the descendants of Adrastus. And it is fitting that the son of Aenesidamus, whose roots grew from that seed, should meet with songs of praise and with the lyre.
+
+For in Olympia he himself received a prize of honor; at Pytho and at the Isthmus, the Graces who love them both brought garlands of flowers to his equally blessed brother for his four-horse team, victorious in the twelve courses of the race. To attempt a contest and be successful brings release from sadness. Wealth adorned with excellence brings many opportunities, rousing deep wild ambitions;
+
+it is a brilliant star, a man’s true light, at least if one has and knows the future, that the reckless souls of those who have died on earth immediately pay the penalty—and for the crimes committed in this realm of Zeus there is a judge below the earth; with hateful compulsion he passes his sentence.
+
+But having the sun always in equal nights and equal days, the good receive a life free from toil, not scraping with the strength of their arms the earth, nor the water of the sea, for the sake of a poor sustenance. But in the presence of the honored gods, those who gladly kept their oaths enjoy a life without tears, while the others undergo a toil that is unbearable to look at.
+
+Those who have persevered three times, on either side, to keep their souls free from all wrongdoing, follow Zeus’ road to the end, to the tower of Cronus, where ocean breezes blow around the island of the blessed, and flowers of gold are blazing, some from splendid trees on land, while water nurtures others. With these wreaths and garlands of flowers they entwine their hands according to the righteous counsels of Rhadamanthys, whom the great father, the husband of Rhea whose throne is above all others, keeps close beside him as his partner. Peleus and Cadmus are counted among them, and Achilles who was brought there by his mother, when she had persuaded the heart of Zeus with her prayers—
+
+Achilles, who laid low Hector, the irresistible, unswerving pillar of Troy, and who consigned to death Memnon the Ethiopian, son of the Dawn. I have many swift arrows in the quiver under my arm, arrows that speak to the initiated. But the masses need interpreters. The man who knows a great deal by nature is truly skillful, while those who have only learned chatter with raucous and indiscriminate tongues in vain like crows against the divine bird of Zeus. Now, bend your bow toward the mark; tell me, my mind, whom are we trying to hit as we shoot arrows of fame from a gentle mind? I will aim at Acragas, and speak with true intent a word sworn by oath: no city for a hundred years has given birth to a man more beneficent in his mind or more generous with his hand than Theron. But praise is confronted by greed, which is not accompanied by justice, but stirred up by depraved men, eager to babble and to bury the fine deeds of noble men. Since the sand of the shore is beyond all counting, who could number all the joys that Theron has given others?

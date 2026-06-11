@@ -1,0 +1,35 @@
+---
+work_id: "3d5f5527-8162-539f-82f0-7c5bcc0cbcdc"
+work_slug: "plutarch-sulla-3d5f55"
+work_title: Sulla
+author_name: Plutarch
+chapter_number: 28
+chapter_title: Chapter 28
+chapter_slug: 28
+variant_id: "e4cd7291-4714-59a4-9c80-ac01a89d2787"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 655
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:28"
+translator: Bernadotte Perrin
+---
+
+But Sulla, seeing that his enemies still surrounded him on all sides with many armies and large forces, had recourse to craft as well as force, and invited Scipio, the other consul, to make terms of peace.
+
+He accepted the proposal, and several meetings and conferences were held; but Sulla continually interposed some pretext for gaining time, and gradually corrupted Scipio’s soldiers by means of his own, who were practised in deceit and every kind of jugglery, like their general himself. For they entered the camp of their enemies, mingled freely with them, and gradually won them over to Sulla’s cause, some at once with money, others with promises, and others still with persuasive flatteries.
+
+And finally, when Sulla drew near with twenty cohorts, his men greeted those of Scipio, who answered their greetings and went over to them. Scipio, who was left alone, was taken in his tent, but dismissed; while Sulla, who had used his twenty cohorts as decoy-birds to catch the forty cohorts of the enemy, led them all back to his camp. It was on this occasion, too, that Carbo is said to have remarked that in making war upon the fox and the lion in Sulla, he was more annoyed by the fox.
+
+After this, at Signia, Marius, with eighty-five cohorts, challenged Sulla to battle. Now Sulla was very eager to have the issue settled on that day; for he had seen a vision in his dreams, as follows. He thought he saw the elder Marius, who was long since dead, advising his son Marius to beware of the ensuing day, since it would bring him a great calamity. For this reason, then, Sulla was eager to fight a battle, and was trying to get Dolabella, who was encamped at some distance, to join him.
+
+But the enemy beset the roads and hemmed Sulla in, and his soldiers were worn out with fighting to open a passage. Much rain also came upon them while they were at work amid added to their distress. The tribunes therefore came to Sulla and begged him to defer the battle, showing him the soldiers prostrated with weariness and resting on their shields, which they had laid upon the ground.
+
+Sulla yielded reluctantly, and gave orders to pitch a camp, but just as his men were beginning to dig a trench and throw the rampart before it, Marius attacked them confidently, riding ahead of his lines, and hoping to scatter his enemies while they were in disorder and confusion. There the Deity fulfilled the words which Sulla had heard in his dreams. For Sulla’s rage imparted itself to his soldiers, and leaving off their work, they planted their javelins in the trench, drew their swords, and with a general shout came to close quarters with their enemies. These did not hold their ground long, but took to flight, and were slain in great numbers.
+
+Marius fled to Praeneste, but found the gate already closed. A rope was thrown down to him, however, and after fastening this around his waist, he was hoisted to the top of the wall. But there are some who say, and Fenestella is one of these, that Marius knew nothing of the battle, but was forced by loss of sleep and weariness to cast himself upon the ground in a shady place when the signal for battle was given, and there gave way to sleep, and was then roused with difficulty when the rout took place.
+
+In this battle Sulla says he lost only twenty-three men, but killed twenty thousand of the enemy, and took eight thousand prisoners. His other plans were carried out with like success by his generals, Pompey, Crassus, Metellus, and Servilius. For with few or no reverses these annihilated large forces of the enemy, so that Carbo, the chief supporter of the opposite faction, ran away from his own army by night, and sailed off to Libya.

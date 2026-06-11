@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-against-vatinius-33ee80",
+  "work_title": "Against Vatinius",
+  "chapter_number": 1,
+  "chapter_title": "Against Vatinius",
+  "chapter_slug": "01-against-vatinius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b9a58f17-8735-5040-992f-7753a75e83a8",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4366,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi023.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82f09840-f01a-58d6-81a5-0322c7345d42",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8539,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi023.perseus-eng1"
+    }
+  ]
+}

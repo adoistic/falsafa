@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-2-corinthians-8aac14",
+  "work_title": "2 Corinthians",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3f11501c-1b2a-5990-9449-9d6a5934a55e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 499,
+      "paragraph_count": 91,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-grc2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52dcc044-4655-5703-9627-642d5cb77c66",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 719,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-eng2:11"
+    }
+  ]
+}

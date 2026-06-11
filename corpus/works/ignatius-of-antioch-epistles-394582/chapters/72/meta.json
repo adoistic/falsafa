@@ -1,0 +1,38 @@
+{
+  "work_slug": "ignatius-of-antioch-epistles-394582",
+  "work_title": "Epistles",
+  "chapter_number": 72,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "72",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e16dc808-4b50-5e18-b744-8151f73c5e6e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 134,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:72"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "738740d7-fba6-55ec-82a8-196198121c06",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 117,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1443.tlg001.perseus-eng1:72"
+    }
+  ]
+}

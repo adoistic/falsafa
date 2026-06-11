@@ -1,0 +1,29 @@
+---
+work_id: "764eec7b-e2b1-5542-bb57-9ac51470d177"
+work_slug: "plutarch-pericles-764eec"
+work_title: Pericles
+author_name: Plutarch
+chapter_number: 29
+chapter_title: Chapter 29
+chapter_slug: 29
+variant_id: "b48ead4c-c2ad-50cb-acc3-cab087c3df15"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 502
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:29"
+translator: Bernadotte Perrin
+---
+
+After this, when the billows of the Peloponnesian War were already rising and swelling, he persuaded the people to send aid and succour to the Corcyraeans in their war with the Corinthians, and so to attach to themselves an island with a vigorous naval power at a time when the Peloponnesians were as good as actually at war with them.
+
+But when the people had voted to send the aid and succour, he despatched Lacedaemonius, the son of Cimon, with only ten ships, as it were in mockery of him. Now there was much good-will and friendship on the part of the house of Cimon towards the Lacedaemonians. In order, therefore, that in case no great or conspicuous achievement should be performed under the generalship of Lacedaemonius, he might so be all the more calumniated for his Iaconism, or sympathy with Sparta, Pericles gave him only a few ships, and sent him forth against his will.
+
+And in general he was prone to thwart and check the sons of Cimon, on the plea that not even in their names were they genuinely native, but rather aliens and strangers, since one of them bore the name of Lacedaemonius, another that of Thessalus, and a third that of Eleius. And they were all held to be the sons of a woman of Arcadia. Accordingly, being harshly criticized because of these paltry ten ships on the ground that he had furnished scanty aid and succour to the needy friends of Athens, but a great pretext for war to her accusing enemies, he afterwards sent out other ships, and more of them, to Corcyra,—the ones which got there after the battle.
+
+The Corinthians were incensed at this procedure, and denounced the Athenians at Sparta, and were joined by the Megarians, who brought their complaint that from every market-place and from all the harbors over which the Athenians had control, they were excluded and driven away, contrary to the common law and the formal oaths of the Greeks; the Aeginetans also, deeming themselves wronged and outraged, kept up a secret wailing in the ears of the Lacedaemonians, since they had not the courage to accuse the Athenians openly. At this juncture Potidaea, too, a city that was subject to Athens, although a colony of Corinth, revolted, and the siege laid to her hastened on the war all the more.
+
+Notwithstanding all, since embassies were repeatedly sent to Athens, and since Archidamus, the king of the Lacedaemonians, tried to bring to a peaceful settlement most of the accusations of his allies and to soften their anger, it does not seem probable that the war would have come upon the Athenians for any remaining reasons, if only they could have been persuaded to rescind their decree against the Megarians and be reconciled with them. And therefore, since it was Pericles who was most of all opposed to this, and who incited the people to abide by their contention with the Megarians, he alone was held responsible for the war.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-agoratus-2a1d58",
+  "work_title": "Against Agoratus",
+  "chapter_number": 1,
+  "chapter_title": "Against Agoratus",
+  "chapter_slug": "01-against-agoratus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "65f2dd39-576c-54da-86b4-280d10e255b5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4817,
+      "paragraph_count": 116,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg013.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3b2f666-ae5b-5f75-9465-2706f60c0c35",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6956,
+      "paragraph_count": 92,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg013.perseus-eng2"
+    }
+  ]
+}

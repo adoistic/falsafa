@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alexander-1ed01a",
+  "work_title": "Alexander",
+  "chapter_number": 73,
+  "chapter_title": "Chapter 73",
+  "chapter_slug": "73",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d152a583-7cad-50e1-9bb6-de7ca4deafbd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 223,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2:73"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "108386a2-c026-562e-bb33-a9375a1fcd5e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 345,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2:73"
+    }
+  ]
+}

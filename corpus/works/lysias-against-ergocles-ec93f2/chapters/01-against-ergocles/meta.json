@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-ergocles-ec93f2",
+  "work_title": "Against Ergocles",
+  "chapter_number": 1,
+  "chapter_title": "Against Ergocles",
+  "chapter_slug": "01-against-ergocles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5e8fff63-c2c2-5e47-a581-c0df17b0095e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 911,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg028.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88773eb1-1ad5-5b2a-a8db-b63d28c753be",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1277,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg028.perseus-eng2"
+    }
+  ]
+}

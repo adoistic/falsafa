@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-praecepta-gerendae-reipublicae-8891df",
+  "work_title": "Praecepta gerendae reipublicae",
+  "chapter_number": 1,
+  "chapter_title": "Praecepta gerendae reipublicae",
+  "chapter_slug": "01-praecepta-gerendae-reipublicae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de1e96f5-1054-5802-bf0a-40e72d0acfc2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12449,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg118.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fba4bd5c-3873-550f-b913-fe0b46e20a0a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 19304,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg118.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 230,
+  "chapter_title": "Chapter text=A:book=11:letter=6",
+  "chapter_slug": "230",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1db75b7e-1871-5a60-aac4-aa3bc4b373be",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 817,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:230"
+    }
+  ]
+}

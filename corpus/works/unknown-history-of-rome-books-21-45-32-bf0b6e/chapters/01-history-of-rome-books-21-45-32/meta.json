@@ -1,0 +1,26 @@
+{
+  "work_slug": "unknown-history-of-rome-books-21-45-32-bf0b6e",
+  "work_title": "History of Rome, books 21-45 - 32",
+  "chapter_number": 1,
+  "chapter_title": "History of Rome, books 21-45 - 32",
+  "chapter_slug": "01-history-of-rome-books-21-45-32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc1de902-c952-5751-9942-8dca397f966a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 17590,
+      "paragraph_count": 430,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi00132.perseus-eng3"
+    }
+  ]
+}

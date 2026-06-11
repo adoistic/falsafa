@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-apollodorus-against-polycles-f8aaa1",
+  "work_title": "Apollodorus Against Polycles",
+  "chapter_number": 1,
+  "chapter_title": "Apollodorus Against Polycles",
+  "chapter_slug": "01-apollodorus-against-polycles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "951ad895-6295-5947-b5c6-a643e7617a56",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4613,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg050.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "413151b5-4c0d-5b8c-b8d9-337e3acf9a04",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6824,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg050.perseus-eng2"
+    }
+  ]
+}

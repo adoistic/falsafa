@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-meno-935e83",
+  "work_title": "Meno",
+  "chapter_number": 1,
+  "chapter_title": "Meno",
+  "chapter_slug": "01-meno",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d968bb94-c3b9-5661-a2ea-f81341f6b3b9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10244,
+      "paragraph_count": 590,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg024.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b491a8ca-9400-55bb-9450-cd70483d448a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13699,
+      "paragraph_count": 569,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg024.perseus-eng2"
+    }
+  ]
+}

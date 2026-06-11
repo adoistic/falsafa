@@ -1,0 +1,38 @@
+{
+  "work_slug": "sophocles-philoctetes-9468b4",
+  "work_title": "Philoctetes",
+  "chapter_number": 1,
+  "chapter_title": "Philoctetes",
+  "chapter_slug": "01-philoctetes",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "85e1f1f0-70cc-5e61-9c75-bf3c3e3369f5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9237,
+      "paragraph_count": 1465,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b19f228-b704-5954-88d8-174af45e0641",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13922,
+      "paragraph_count": 574,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg006.perseus-eng2"
+    }
+  ]
+}

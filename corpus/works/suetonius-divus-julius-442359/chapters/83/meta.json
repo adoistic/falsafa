@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-divus-julius-442359",
+  "work_title": "Divus Julius",
+  "chapter_number": 83,
+  "chapter_title": "Chapter 83",
+  "chapter_slug": "83",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6bb050f3-ce42-5b39-8f94-25fc61e7c0cb",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 179,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo011.rolfe-eng1:83"
+    }
+  ]
+}

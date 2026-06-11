@@ -1,0 +1,38 @@
+{
+  "work_slug": "clemens-romanus-clement--the-second-epistle-of-clement-to-936aca",
+  "work_title": "The Second Epistle of Clement to the Corinthians",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0681881a-894e-5959-b1f1-a0e29bf9729c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 120,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1271.tlg002.1st1K-grc1:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c8257c4-f571-5ad2-a5ce-42440015e47d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 171,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1271.tlg002.perseus-eng1:7"
+    }
+  ]
+}

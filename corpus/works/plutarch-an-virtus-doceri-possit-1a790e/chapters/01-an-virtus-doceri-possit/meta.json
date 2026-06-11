@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-an-virtus-doceri-possit-1a790e",
+  "work_title": "An Virtus Doceri Possit",
+  "chapter_number": 1,
+  "chapter_title": "An Virtus Doceri Possit",
+  "chapter_slug": "01-an-virtus-doceri-possit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "01d0104a-c3c9-5f65-a522-7bee6342d10b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 654,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg093.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fce48c10-209e-5883-b576-cc07756ade4d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1105,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg093.perseus-eng4"
+    }
+  ]
+}

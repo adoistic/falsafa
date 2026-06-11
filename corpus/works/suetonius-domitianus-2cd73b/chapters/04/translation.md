@@ -1,0 +1,21 @@
+---
+work_id: "2cd73b1a-3d49-5c0c-9c80-9216239aed07"
+work_slug: "suetonius-domitianus-2cd73b"
+work_title: Domitianus
+author_name: Suetonius
+chapter_number: 4
+chapter_title: Chapter 4
+chapter_slug: 04
+variant_id: "e8700373-658a-5175-806b-f738d437e978"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 599
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo022.perseus-eng2:4"
+translator: Perseus Digital Library
+---
+
+He frequently entertained the people with most magnificent and costly shows, not only in the amphitheatre, but the circus; where, besides the usual races with chariots drawn by two or four horses a-breast, he exhibited the representation of an engagement between both horse and foot, and a sea-fight in the amphitheatre. The people were also entertained with the chase of wild beasts and the combat of gladiators, even in the night-time, by torch-light. Nor did men only fight in these spectacles, but women also. He constantly attended at the games given by the quaestors, which had been disused for some time, but were revived by him; and upon those occasions, always gave the people the liberty of demanding two pair of gladiators out of his own school, who appeared last in court uniforms. Whenever he attended the shows of gladiators, there stood at his feet a little boy dressed in scarlet, with a prodigiously small head, with whom he used to talk very much, and sometimes seriously. We are assured, that he was overheard asking him, "if he knew for what reason he had in the late appointment, made Metius Rufus governor of Egypt?" He presented the people with naval fights, performed by fleets almost as numerous as those usually employed in real engagements; making a vast lake near the Tiber, and building seats round it. And he witnessed them himself during a very heavy rain. He likewise celebrated the Secular games, reckoning not from the year in which they had been exhibited by Claudius, but from the time of Augustus's celebration of them. In these, upon the day of the Circensian sports, in order to have a hundred races performed, he reduced each course from seven rounds to five. He likewise instituted, in honour of Jupiter Capitolinus, a solemn contest in music to be performed every five years; besides horse-racing and gymnastic exercises, with more prizes than are at present allowed. There was also a public performance in elocution, both Greek and Latin; and besides the musicians who sung to the harp, there were others who played concerted pieces or solos, without vocal accompaniment. Young girls also ran races in the Stadium, at which he presided in his sandals, dressed in a purple robe made after the Grecian fashion, and wearing upon his head a golden crown bearing the effigies of Jupiter, Juno, and Minerva; with the flamen of Jupiter, and the college of priests sitting by his side in the same dress; excepting only that their crowns had also his own image on them. He celebrated also upon the Alban mount every year the festival of Minerva, for whom he had appointed a college of priests, out of which were chosen by lot persons to preside as governors over the college; who were obliged to entertain the people with extraordinary chases of wild beasts, and stage-plays, besides contests for prizes in oratory and poetry. He thrice bestowed upon the people largess of three hundred sesterces each man; and, at a public show of gladiators, a very plentiful feast. At the festival of the Seven Hills, he distributed large hampers of provisions to the senatorian and equestrian orders, and small baskets to the common people, and encouraged them to eat by setting them the example. The day after, he scattered among the people a variety of cakes and other delicacies to be scrambled for; and on the greater part of them falling amidst the seats of the crowd, he ordered five hundred tickets to be thrown into each range of benches belonging to the senatorian and equestrian orders.

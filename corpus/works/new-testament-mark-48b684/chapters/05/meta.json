@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-mark-48b684",
+  "work_title": "Mark",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6fbb57e3-5e33-5c2e-bcb1-221d140fb4b7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 699,
+      "paragraph_count": 115,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg002.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6eca325-2bff-5cba-b179-8de98678a72f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 908,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg002.perseus-eng2:5"
+    }
+  ]
+}

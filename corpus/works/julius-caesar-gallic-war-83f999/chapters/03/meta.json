@@ -1,0 +1,38 @@
+{
+  "work_slug": "julius-caesar-gallic-war-83f999",
+  "work_title": "Gallic War",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a3c7c47-7cf7-58d2-a2c1-62a2bdfd9270",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3587,
+      "paragraph_count": 134,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0448.phi001.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d7121ff2-abc9-54ea-afdd-798a6225abbe",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6033,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0448.phi001.perseus-eng2:3"
+    }
+  ]
+}

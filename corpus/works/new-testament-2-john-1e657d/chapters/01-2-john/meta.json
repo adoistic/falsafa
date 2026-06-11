@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-2-john-1e657d",
+  "work_title": "2 John",
+  "chapter_number": 1,
+  "chapter_title": "2 John",
+  "chapter_slug": "01-2-john",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f1aeeaa-7705-5795-b60e-b709aaf368c3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 245,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg024.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d323f24-9005-56af-ab74-2f760a054d44",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 298,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg024.perseus-eng2"
+    }
+  ]
+}

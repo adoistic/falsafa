@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-simon-d12d84",
+  "work_title": "Against Simon",
+  "chapter_number": 1,
+  "chapter_title": "Against Simon",
+  "chapter_slug": "01-against-simon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd10226a-6e32-5127-ba57-1116460d5a16",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2181,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b4b20da-8174-5fee-855f-3617236ac9ae",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3201,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg003.perseus-eng2"
+    }
+  ]
+}

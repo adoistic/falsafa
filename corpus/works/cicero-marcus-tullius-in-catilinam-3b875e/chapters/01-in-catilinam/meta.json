@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-in-catilinam-3b875e",
+  "work_title": "In Catilinam",
+  "chapter_number": 1,
+  "chapter_title": "In Catilinam",
+  "chapter_slug": "01-in-catilinam",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "edde2a09-ceee-59e6-96bc-206414ed5929",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12259,
+      "paragraph_count": 142,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi013.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "259279ac-44dc-59f5-92c7-2a8b64c15ce7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 22304,
+      "paragraph_count": 120,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi013.perseus-eng2"
+    }
+  ]
+}

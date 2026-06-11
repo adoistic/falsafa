@@ -1,0 +1,38 @@
+{
+  "work_slug": "epictetus-the-handbook-ae73b2",
+  "work_title": "The Handbook",
+  "chapter_number": 26,
+  "chapter_title": "Chapter 31",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b1ac345-ddf6-59fa-a5fa-e6e08be6e959",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 70,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-grc2:26"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8731f8a5-8def-5e6a-b790-f0b276e27f1b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 337,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-eng4:26"
+    }
+  ]
+}

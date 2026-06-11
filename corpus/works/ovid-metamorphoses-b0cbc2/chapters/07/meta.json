@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-metamorphoses-b0cbc2",
+  "work_title": "Metamorphoses",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b8f74d91-c8a6-5f2c-a1ac-47a350bf6082",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5559,
+      "paragraph_count": 345,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-lat2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ded9de1-3cab-5022-a07d-7d236cabbe16",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12421,
+      "paragraph_count": 1125,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-eng4:7"
+    }
+  ]
+}

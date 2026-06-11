@@ -1,0 +1,852 @@
+[
+  {
+    "id": "p-2d9eb6",
+    "offset": 0,
+    "text": "PROLOGUS:\nPOSTQUAM Poëta sensit scripturam suam"
+  },
+  {
+    "id": "p-6542a5",
+    "offset": 49,
+    "text": "Ab iniquis observari, et adversarios"
+  },
+  {
+    "id": "p-84650c",
+    "offset": 87,
+    "text": "Rapere in peiorem partem quam acturi sumus,"
+  },
+  {
+    "id": "p-490a51",
+    "offset": 132,
+    "text": "Indicio de se ipse erit; vos eritis iudices"
+  },
+  {
+    "id": "p-4ee323",
+    "offset": 177,
+    "text": "Laudine an vitio duci id factum oporteat."
+  },
+  {
+    "id": "p-f08f72",
+    "offset": 220,
+    "text": "Synapothnescontes Diphili comoedia est."
+  },
+  {
+    "id": "p-f27321",
+    "offset": 261,
+    "text": "Eam Commorientes Plautus fecit fabulam."
+  },
+  {
+    "id": "p-fe60e4",
+    "offset": 302,
+    "text": "In Graeca adolescens est qui lenoni eripuit"
+  },
+  {
+    "id": "p-081533",
+    "offset": 347,
+    "text": "Meretricem in prima fabula. Eum Plautus locum"
+  },
+  {
+    "id": "p-cce63b",
+    "offset": 394,
+    "text": "Reliquit integrum: eum hic locum sumpsit sibi"
+  },
+  {
+    "id": "p-a415b6",
+    "offset": 441,
+    "text": "In Adelphos; verbum de verbo expressum extulit."
+  },
+  {
+    "id": "p-283bc5",
+    "offset": 490,
+    "text": "Eam nos acturi sumus novam: pernoscite"
+  },
+  {
+    "id": "p-0ce565",
+    "offset": 530,
+    "text": "Furtumne factum existimetis, an locum"
+  },
+  {
+    "id": "p-ba6db3",
+    "offset": 569,
+    "text": "Reprehensum qui praeteritus negligentia est."
+  },
+  {
+    "id": "p-da5824",
+    "offset": 615,
+    "text": "Nam quod isti dicunt malevoli, homines nobiles"
+  },
+  {
+    "id": "p-7a6ab4",
+    "offset": 663,
+    "text": "Eum adiutare, assidueque una scribere;"
+  },
+  {
+    "id": "p-caa1c5",
+    "offset": 703,
+    "text": "Quod illi maledictum vehemens esse existimant"
+  },
+  {
+    "id": "p-7a381b",
+    "offset": 750,
+    "text": "Eam laudem hic ducit maximam, quum illis placet"
+  },
+  {
+    "id": "p-e6248e",
+    "offset": 799,
+    "text": "Qui vobis universis et populo placent;"
+  },
+  {
+    "id": "p-264279",
+    "offset": 839,
+    "text": "Quorum opera in bello, in otio, in negotio,"
+  },
+  {
+    "id": "p-c99af7",
+    "offset": 884,
+    "text": "Suo quisque tempore usus est sine superbia."
+  },
+  {
+    "id": "p-ed076e",
+    "offset": 929,
+    "text": "Dehinc ne exspectetis argumentum fabulae:"
+  },
+  {
+    "id": "p-6514d9",
+    "offset": 972,
+    "text": "Senes qui primi venient ii partem aperient;"
+  },
+  {
+    "id": "p-58d73f",
+    "offset": 1017,
+    "text": "In agendo partem ostendent. Facite, aequanimitas"
+  },
+  {
+    "id": "p-14b7e5",
+    "offset": 1067,
+    "text": "Poëtae ad scribendum augeat industriam."
+  },
+  {
+    "id": "p-a2bd40",
+    "offset": 1108,
+    "text": "(MICIO.)\nMICIO.:\nStorax—Non rediit hac nocte a coena Aeschinus,"
+  },
+  {
+    "id": "p-11982f",
+    "offset": 1173,
+    "text": "Neque servulorum quisquam qui adversum ierant."
+  },
+  {
+    "id": "p-c70576",
+    "offset": 1221,
+    "text": "Profecto hoc vere dicunt: si absis uspiam,"
+  },
+  {
+    "id": "p-09b5a8",
+    "offset": 1265,
+    "text": "Aut ubi si cesses, evenire ea satius est"
+  },
+  {
+    "id": "p-ec4e03",
+    "offset": 1307,
+    "text": "Quae in te uxor dicit et quae in animo cogitat"
+  },
+  {
+    "id": "p-ecb38b",
+    "offset": 1355,
+    "text": "Irata quam illa quae parentes propitii."
+  },
+  {
+    "id": "p-e0a53f",
+    "offset": 1396,
+    "text": "Uxor si cesses aut te amare cogitat,"
+  },
+  {
+    "id": "p-b75c5c",
+    "offset": 1434,
+    "text": "Aut tete amari, aut potare, aut animo obsequi;"
+  },
+  {
+    "id": "p-561c3a",
+    "offset": 1482,
+    "text": "Et tibi bene esse soli quum sibi sit male."
+  },
+  {
+    "id": "p-99f305",
+    "offset": 1526,
+    "text": "Ego quia non rediit filius quae cogito, et"
+  },
+  {
+    "id": "p-2ded2e",
+    "offset": 1570,
+    "text": "Quibus nunc sollicitor rebus! ne aut ille alserit,"
+  },
+  {
+    "id": "p-f13dff",
+    "offset": 1622,
+    "text": "Aut uspiam ceciderit, aut perfregerit"
+  },
+  {
+    "id": "p-e3ca2c",
+    "offset": 1661,
+    "text": "Aliquid. Vah, quemquamne hominem in animum instituere aut"
+  },
+  {
+    "id": "p-554af8",
+    "offset": 1720,
+    "text": "Parare quod sit carius quam ipse est sibi?"
+  },
+  {
+    "id": "p-d0bc9c",
+    "offset": 1764,
+    "text": "Atqui ex me hic non natus est, sed ex fratre. Is adeo"
+  },
+  {
+    "id": "p-7602c0",
+    "offset": 1819,
+    "text": "Dissimili studio est iam inde ab adolescentia."
+  },
+  {
+    "id": "p-9e02b3",
+    "offset": 1867,
+    "text": "Ego hanc clementem vitam urbanam atque otium"
+  },
+  {
+    "id": "p-198d4a",
+    "offset": 1913,
+    "text": "Secutus sum; et, quod fortunatum isti putant,"
+  },
+  {
+    "id": "p-edc15b",
+    "offset": 1960,
+    "text": "Uxorem numquam habui. Ille contra haec omnia:"
+  },
+  {
+    "id": "p-421504",
+    "offset": 2007,
+    "text": "Ruri agere vitam; semper parce ac duriter"
+  },
+  {
+    "id": "p-d9e19e",
+    "offset": 2050,
+    "text": "Se habere: uxorem duxit; nati filii"
+  },
+  {
+    "id": "p-8e0db0",
+    "offset": 2087,
+    "text": "Duo: inde ego hunc maiorem adoptavi mihi;"
+  },
+  {
+    "id": "p-0fd574",
+    "offset": 2130,
+    "text": "Eduxi a parvulo; habui, amavi pro meo;"
+  },
+  {
+    "id": "p-05f788",
+    "offset": 2170,
+    "text": "In eo me oblecto; solum id est carum mihi."
+  },
+  {
+    "id": "p-2af27b",
+    "offset": 2214,
+    "text": "Ille ut item contra me habeat facio sedulo:"
+  },
+  {
+    "id": "p-8a73dc",
+    "offset": 2259,
+    "text": "Do, praetermitto: non necesse habeo omnia"
+  },
+  {
+    "id": "p-8356fe",
+    "offset": 2302,
+    "text": "Pro meo iure agere. Postremo alii clanculum"
+  },
+  {
+    "id": "p-88dd14",
+    "offset": 2347,
+    "text": "Patres quae faciunt, quae fert adolescentia,"
+  },
+  {
+    "id": "p-1ec5e1",
+    "offset": 2393,
+    "text": "Ea ne me celet consuefeci filium;"
+  },
+  {
+    "id": "p-2460fa",
+    "offset": 2428,
+    "text": "Nam qui mentiri aut fallere insuerit patrem, aut"
+  },
+  {
+    "id": "p-94ce41",
+    "offset": 2478,
+    "text": "Audebit, tanto magis audebit caeteros."
+  },
+  {
+    "id": "p-89fd27",
+    "offset": 2518,
+    "text": "Pudore et liberalitate liberos"
+  },
+  {
+    "id": "p-a3c5b9",
+    "offset": 2550,
+    "text": "Retinere satius esse credo quam metu."
+  },
+  {
+    "id": "p-71937e",
+    "offset": 2589,
+    "text": "Haec fratri mecum non convenient neque placent."
+  },
+  {
+    "id": "p-95fd62",
+    "offset": 2638,
+    "text": "Venit ad me saepe clamitans, Quid agis, Micio?"
+  },
+  {
+    "id": "p-0f3233",
+    "offset": 2686,
+    "text": "Cur perdis adolescentem nobis? cur amat?"
+  },
+  {
+    "id": "p-6e93c9",
+    "offset": 2728,
+    "text": "Cur potat? cur tu his rebus sumtum suggeris?"
+  },
+  {
+    "id": "p-c39153",
+    "offset": 2774,
+    "text": "Vestitu nimio indulges; nimium ineptus es."
+  },
+  {
+    "id": "p-f5d71b",
+    "offset": 2818,
+    "text": "Nimium ipse est durus praeter aequumque et bonum:"
+  },
+  {
+    "id": "p-81cec0",
+    "offset": 2869,
+    "text": "Et errat longe mea quidem sententia"
+  },
+  {
+    "id": "p-781934",
+    "offset": 2906,
+    "text": "Qui imperium credat gravius esse aut stabilius"
+  },
+  {
+    "id": "p-6c5aee",
+    "offset": 2954,
+    "text": "Vi quod fit quam illud quod amicitia adiungitur."
+  },
+  {
+    "id": "p-f5f1ee",
+    "offset": 3004,
+    "text": "Mea sic est ratio, et sic animum induco meum:"
+  },
+  {
+    "id": "p-a40076",
+    "offset": 3051,
+    "text": "Malo coactus qui suum officium facit"
+  },
+  {
+    "id": "p-0e141c",
+    "offset": 3089,
+    "text": "Dum id rescitum iri credit tantisper cavet:"
+  },
+  {
+    "id": "p-469ce3",
+    "offset": 3134,
+    "text": "Si sperat fore clam rursum ad ingenium redit."
+  },
+  {
+    "id": "p-63ce7d",
+    "offset": 3181,
+    "text": "Ille quem beneficio adiungas ex animo facit;"
+  },
+  {
+    "id": "p-62225d",
+    "offset": 3227,
+    "text": "Studet par referre: praesens absensque idem erit."
+  },
+  {
+    "id": "p-963e47",
+    "offset": 3278,
+    "text": "Hoc patrium est, potius consuefacere filium"
+  },
+  {
+    "id": "p-386b26",
+    "offset": 3323,
+    "text": "Sua sponte recte facere quam alieno metu."
+  },
+  {
+    "id": "p-5574f3",
+    "offset": 3366,
+    "text": "Hoc pater ac dominus interest: hoc qui nequit,"
+  },
+  {
+    "id": "p-d60770",
+    "offset": 3414,
+    "text": "Fateatur nescire imperare liberis."
+  },
+  {
+    "id": "p-df6529",
+    "offset": 3450,
+    "text": "Sed estne hic ipsus de quo agebam? et certe is est."
+  },
+  {
+    "id": "p-4c83c4",
+    "offset": 3503,
+    "text": "Nescio quid tristem video: credo iam ut solet"
+  },
+  {
+    "id": "p-168aad",
+    "offset": 3550,
+    "text": "Iurgabit. Salvum te advenire, Demea,"
+  },
+  {
+    "id": "p-e0fc9a",
+    "offset": 3588,
+    "text": "Gaudemus."
+  },
+  {
+    "id": "p-27842e",
+    "offset": 3599,
+    "text": "(DEMEA. MICIO.)"
+  },
+  {
+    "id": "p-399a0f",
+    "offset": 3616,
+    "text": "DEMEA:\nEhem, opportune: te ipsum quaerito."
+  },
+  {
+    "id": "p-c53737",
+    "offset": 3660,
+    "text": "MICIO:\nQuid tristis es?"
+  },
+  {
+    "id": "p-aa23cb",
+    "offset": 3685,
+    "text": "DEMEA:\nRogas me, ubi nobis Aeschinus"
+  },
+  {
+    "id": "p-acbcc4",
+    "offset": 3723,
+    "text": "Siet, quid tristis ego sim?"
+  },
+  {
+    "id": "p-501c59",
+    "offset": 3752,
+    "text": "MICIO:\nDixine hoc fore?"
+  },
+  {
+    "id": "p-50db85",
+    "offset": 3777,
+    "text": "Quid fecit?"
+  },
+  {
+    "id": "p-b02476",
+    "offset": 3790,
+    "text": "DEMEA:\nQuid ille fecerit? quem neque pudet"
+  },
+  {
+    "id": "p-a66b23",
+    "offset": 3834,
+    "text": "Quicquam; nec metuit quemquam; neque legem putat"
+  },
+  {
+    "id": "p-41c52f",
+    "offset": 3884,
+    "text": "Tenere se ullam: nam illa quae antehac facta sunt"
+  },
+  {
+    "id": "p-41b701",
+    "offset": 3935,
+    "text": "Omitto: modo quid designavit!"
+  },
+  {
+    "id": "p-0e05d5",
+    "offset": 3966,
+    "text": "MICIO:\nQuidnam id est?"
+  },
+  {
+    "id": "p-45462c",
+    "offset": 3990,
+    "text": "DEMEA:\nFores effregit atque in aedes irruit"
+  },
+  {
+    "id": "p-da5c09",
+    "offset": 4035,
+    "text": "Alienas: ipsum dominum atque omnem familiam"
+  },
+  {
+    "id": "p-d05297",
+    "offset": 4080,
+    "text": "Mulcavit usque ad mortem: eripuit mulierem"
+  },
+  {
+    "id": "p-43631b",
+    "offset": 4124,
+    "text": "Quam amabat. Clamant omnes indignissime"
+  },
+  {
+    "id": "p-ddd7fe",
+    "offset": 4165,
+    "text": "Factum esse. Hoc advenienti quot mihi, Micio,"
+  },
+  {
+    "id": "p-ce8740",
+    "offset": 4212,
+    "text": "Dixere! in ore est omni populo. Denique,"
+  },
+  {
+    "id": "p-6a4024",
+    "offset": 4254,
+    "text": "Si conferendum exemplum est, non fratrem videt"
+  },
+  {
+    "id": "p-f5dabc",
+    "offset": 4302,
+    "text": "Rei dare operam, ruri esse parcum ac sobrium?"
+  },
+  {
+    "id": "p-a15512",
+    "offset": 4349,
+    "text": "Nullum huius simile factum. Haec quum illi, Micio,"
+  },
+  {
+    "id": "p-8e87fa",
+    "offset": 4401,
+    "text": "Dico tibi dico: tu illum corrumpi sinis."
+  },
+  {
+    "id": "p-c0ee4b",
+    "offset": 4443,
+    "text": "MICIO:\nHomine imperito nunquam quicquam iniustius,"
+  },
+  {
+    "id": "p-a226f7",
+    "offset": 4495,
+    "text": "Qui nisi quod ipse fecit nihil rectum putat."
+  },
+  {
+    "id": "p-8dd600",
+    "offset": 4541,
+    "text": "DEMEA:\nQuorsum istuc?"
+  },
+  {
+    "id": "p-750c12",
+    "offset": 4564,
+    "text": "MICIO:\nQuia tu Demea haec male iudicas."
+  },
+  {
+    "id": "p-351e50",
+    "offset": 4605,
+    "text": "Non est flagitium, mihi crede, adolescentulum"
+  },
+  {
+    "id": "p-4e422d",
+    "offset": 4652,
+    "text": "Scortari neque potare; non est; neque fores"
+  },
+  {
+    "id": "p-565241",
+    "offset": 4697,
+    "text": "Effringere. Haec si neque ego neque tu fecimus,"
+  },
+  {
+    "id": "p-1675f5",
+    "offset": 4746,
+    "text": "Non siit egestas facere nos. Tu nunc tibi"
+  },
+  {
+    "id": "p-272ff7",
+    "offset": 4789,
+    "text": "Id laudi ducis quod tum fecisti inopia?"
+  },
+  {
+    "id": "p-0a4a0c",
+    "offset": 4830,
+    "text": "Iniurium est; nam si esset unde id fieret,"
+  },
+  {
+    "id": "p-009069",
+    "offset": 4874,
+    "text": "Faceremus: et tu illum tuum, si esses homo,"
+  },
+  {
+    "id": "p-c58879",
+    "offset": 4919,
+    "text": "Sineres nunc facere, dum per aetatem licet,"
+  },
+  {
+    "id": "p-40f226",
+    "offset": 4964,
+    "text": "Potius quam, ubi te exspectatum eiecisset foras,"
+  },
+  {
+    "id": "p-52b79a",
+    "offset": 5014,
+    "text": "Alieniore aetate post faceret tamen."
+  },
+  {
+    "id": "p-c3d71c",
+    "offset": 5052,
+    "text": "DEMEA:\nPro Iupiter! tu homo adigis me ad insaniam."
+  },
+  {
+    "id": "p-02b4c2",
+    "offset": 5104,
+    "text": "Non est flagitium, facere haec adolescentulum?"
+  },
+  {
+    "id": "p-f461fd",
+    "offset": 5152,
+    "text": "MICIO:\nAh,"
+  },
+  {
+    "id": "p-a39b61",
+    "offset": 5164,
+    "text": "Ausculta: ne me obtundas de hac re saepius."
+  },
+  {
+    "id": "p-95c842",
+    "offset": 5209,
+    "text": "Tuum filium dedisti adoptandum mihi:"
+  },
+  {
+    "id": "p-0c5260",
+    "offset": 5247,
+    "text": "Is meus est factus: si quid peccat Demea,"
+  },
+  {
+    "id": "p-0d7910",
+    "offset": 5290,
+    "text": "Mihi peccat: ego illi maximam partem feram."
+  },
+  {
+    "id": "p-31b2e1",
+    "offset": 5335,
+    "text": "Obsonat, potat, olet unguenta; de meo."
+  },
+  {
+    "id": "p-42055c",
+    "offset": 5375,
+    "text": "Amat; a me argentum dabitur dum erit commodum:"
+  },
+  {
+    "id": "p-1bca38",
+    "offset": 5423,
+    "text": "Ubi non erit fortasse excludetur foras."
+  },
+  {
+    "id": "p-87f4ca",
+    "offset": 5464,
+    "text": "Fores effregit; restituentur: discidit"
+  },
+  {
+    "id": "p-3b2400",
+    "offset": 5504,
+    "text": "Vestem; resarcietur. Est, Dis gratia,"
+  },
+  {
+    "id": "p-751058",
+    "offset": 5543,
+    "text": "Et unde haec flant, et adhuc non molesta sunt."
+  },
+  {
+    "id": "p-3bb1d9",
+    "offset": 5591,
+    "text": "Postremo aut desine, aut cedo quemvis arbitrum:"
+  },
+  {
+    "id": "p-b5f583",
+    "offset": 5640,
+    "text": "Te plura in hac re peccare ostendam."
+  },
+  {
+    "id": "p-bbc96a",
+    "offset": 5678,
+    "text": "DEMEA:\nHei mihi!"
+  },
+  {
+    "id": "p-a51a7c",
+    "offset": 5696,
+    "text": "Pater esse disce ab illis qui vere sciunt."
+  },
+  {
+    "id": "p-39225b",
+    "offset": 5740,
+    "text": "MICIO:\nNatura tu illi pater es, consiliis ego."
+  },
+  {
+    "id": "p-9ed77d",
+    "offset": 5788,
+    "text": "DEMEA:\nTun consulis quicquam?"
+  },
+  {
+    "id": "p-ec3ad8",
+    "offset": 5819,
+    "text": "MICIO:\nAh, si pergis abiero."
+  },
+  {
+    "id": "p-a66a71",
+    "offset": 5849,
+    "text": "DEMEA:\nSicine agis?"
+  },
+  {
+    "id": "p-5649dd",
+    "offset": 5870,
+    "text": "MICIO:\nAn ego toties de eadem re audiam?"
+  },
+  {
+    "id": "p-51222f",
+    "offset": 5912,
+    "text": "DEMEA:\nCurae est mihi."
+  },
+  {
+    "id": "p-0fbd89",
+    "offset": 5936,
+    "text": "MICIO:\nEt mihi curae est: verum Demea"
+  },
+  {
+    "id": "p-b7865d",
+    "offset": 5975,
+    "text": "Curemus aequam uterque partem: tu alterum,"
+  },
+  {
+    "id": "p-d8b787",
+    "offset": 6019,
+    "text": "Ego item alterum; nam ambos curare propemodum"
+  },
+  {
+    "id": "p-372fd4",
+    "offset": 6066,
+    "text": "Reposcere illum est quem dedisti."
+  },
+  {
+    "id": "p-9f59b8",
+    "offset": 6101,
+    "text": "DEMEA:\nAh, Micio."
+  },
+  {
+    "id": "p-cfbd17",
+    "offset": 6120,
+    "text": "MICIO:\nMihi sic videtur."
+  },
+  {
+    "id": "p-94bd58",
+    "offset": 6146,
+    "text": "DEMEA:\nQuid istic? tibi si istic placet,"
+  },
+  {
+    "id": "p-2ceb12",
+    "offset": 6188,
+    "text": "Profundat, perdat, pereat: nihil ad me attinet."
+  },
+  {
+    "id": "p-8a61b0",
+    "offset": 6237,
+    "text": "Iam si verbum unum posthac—"
+  },
+  {
+    "id": "p-618fda",
+    "offset": 6266,
+    "text": "MICIO:\nRursum, Demea,"
+  },
+  {
+    "id": "p-d34af9",
+    "offset": 6289,
+    "text": "Irascere?"
+  },
+  {
+    "id": "p-a7c146",
+    "offset": 6300,
+    "text": "DEMEA:\nAn non credis? repeto quem dedi?"
+  },
+  {
+    "id": "p-4bba93",
+    "offset": 6341,
+    "text": "Aegre est: alienus non sum: si obsto, hem, desino."
+  },
+  {
+    "id": "p-0ca242",
+    "offset": 6393,
+    "text": "Unum vis curem; curo; et est Dis gratia"
+  },
+  {
+    "id": "p-2807ce",
+    "offset": 6434,
+    "text": "Quum ita ut volo est. Iste tuus ipse sentiet"
+  },
+  {
+    "id": "p-020b60",
+    "offset": 6480,
+    "text": "Posterius—nolo in illum gravius dicere."
+  },
+  {
+    "id": "p-796fab",
+    "offset": 6521,
+    "text": "MICIO:\nNec nihil neque omnia haec sunt quae dicit; tamen"
+  },
+  {
+    "id": "p-471467",
+    "offset": 6579,
+    "text": "Nonnihil molesta sunt haec mihi: sed ostendere"
+  },
+  {
+    "id": "p-3b2f4a",
+    "offset": 6627,
+    "text": "Me aegre pati illi nolui: nam ita est homo;"
+  },
+  {
+    "id": "p-f7fed5",
+    "offset": 6672,
+    "text": "Quum placo adversor sedulo et deterreo."
+  },
+  {
+    "id": "p-2b79a5",
+    "offset": 6713,
+    "text": "Tamen vix humane patitur: verum si augeam,"
+  },
+  {
+    "id": "p-83884c",
+    "offset": 6757,
+    "text": "Aut etiam adiutor sim eius iracundiae,"
+  },
+  {
+    "id": "p-175389",
+    "offset": 6797,
+    "text": "Insaniam profecto cum illo; etsi Aeschinus"
+  },
+  {
+    "id": "p-e1bbad",
+    "offset": 6841,
+    "text": "Nonnullam in hac re nobis facit iniuriam."
+  },
+  {
+    "id": "p-16e081",
+    "offset": 6884,
+    "text": "Quam hic non amavit meretricem? aut cui non dedit"
+  },
+  {
+    "id": "p-80bf1f",
+    "offset": 6935,
+    "text": "Aliquid? postremo, nuper (credo iam omnium"
+  },
+  {
+    "id": "p-a6502d",
+    "offset": 6979,
+    "text": "Taedebat) dixit velle uxorem ducere."
+  },
+  {
+    "id": "p-4d5172",
+    "offset": 7017,
+    "text": "Sperabam iam defervisse adolescentiam:"
+  },
+  {
+    "id": "p-39a3b6",
+    "offset": 7057,
+    "text": "Gaudebam. Ecce autem de integro. Nisi quicquid est"
+  },
+  {
+    "id": "p-67f223",
+    "offset": 7109,
+    "text": "Volo scire, atque hominem convenire si apud forum est."
+  }
+]

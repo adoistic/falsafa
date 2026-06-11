@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschylus-libation-bearers-36dd64",
+  "work_title": "Libation Bearers",
+  "chapter_number": 1,
+  "chapter_title": "Libation Bearers",
+  "chapter_slug": "01-libation-bearers",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79bd99aa-c392-56d3-b22c-1df61c97583c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5671,
+      "paragraph_count": 1077,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "869c2fcb-4d4e-5e18-8104-9022a33f23ba",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9865,
+      "paragraph_count": 318,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+---
+work_id: "26782590-5a66-5ef5-8cc1-52bb102d9aba"
+work_slug: "unknown-fragments-267825"
+work_title: Fragments
+author_name: Unknown
+chapter_number: 1
+chapter_title: Fragments
+chapter_slug: "01-fragments"
+variant_id: "c45d2fb3-956c-52a6-8d82-0e05aec7126c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1361
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0972.phi001f.perseus-eng1"
+translator: Perseus Digital Library
+---
+
+Servius on Virgil, Aeneid III, 57: The sacred hunger for gold. Sacred means accursed. This expression is derived from a Gallic custom. For whenever the people of Massilia were burdened with pestilence, one of the poor would volunteer to be fed for an entire year out of public funds on food of special purity. After this period he would be decked with sacred herbs and sacred robes, and would be led through the whole state while people cursed him, in order that the sufferings of the whole state might fall upon him, and so he would be cast out. This account has been given in Petronius.
+
+Servius on Virgil, Aeneid XII, 159, on the feminine gender of nouns ending in -tor: But if they are not derived from a verb they are common in gender. For in these cases both the masculine and the feminine end alike in -tor, for example, senator, a male or female senator, balneator, a male or female bath attendant, though Petronius makes an exception in speaking of a bath-woman (balneatricem).
+
+Pseud-Acro on Horace, Epodes 5, 48: Canidia biting her thumb: He expressed the appearance and movements of Canidia in a rage. Petronius, wishing to portray a furious person, says biting his thumb to the quick.
+
+Sidonius Apollinaris Carmen XXIII, 145, 155: Why should I hymn you, tuneful Latin writers, thou of Arpinum, thou of Patavium, thou of Mantua? And thou, Arbiter, who in the gardens of the men of Massilia findest a home on the hallowed tree-trunk as the peer of Hellespontine Priapus?
+
+Priscian Institutiones VIII, 16 and XI, 29 (pp. 881, 567 ed. Hertz) among the examples by which he shows that the past participles of deponent verbs have a passive meaning: Petronius, the soul locked (amplexam) in our bosoms.
+
+Boethius on Victorinus's translation of Porphyry, Dialogue II (p. 45 ed. Basle): I shall be very glad to do it, he said. But since the morning sun, in Petronius's words, has now smiled upon the roofs, let us get up, and if there is any other point, it shall be treated later with more careful attention.
+
+Fulgentius Mythologiae I (p. 22 ed. Muncker): You do not know... how women dread satire. Lawyers may retreat and scholars may not utter a syllable before the flood of a woman's words, the rhetorician may be dumb and the herald may stop his cries; satire alone can put a limit to their madness, though it be Petronius's Albucia who is hot.
+
+Fulgentius Mythologiae III, 8 (p. 124), (where he remarked that essence of myrrh is very strong): hence too Petronius Arbiter says that he drank a cup of myrrh in order to excite his passion.
+
+Fulgentius in his Treatise on the Contents of Virgil's works (p. 156): For we have already explained above the application of the myth of Cerberus with Three Heads to quarrels and litigation in the courts. Hence too Petronius says of Euscios, The barrister was a Cerberus of the courts.
+
+Fulgentius in his Explanation of Old Words, 42 (p. 565 in Mercer's edition): Ferculum means a dish of flesh. Hence too Petronius Arbiter says, After the dish offlesh (ferculum) was brought in.
+
+Fulgentius ibid. 46 (p. 565): Valgia really means the twisting of the lips which occurs in vomiting. As Petronius also says, With lips twisted as in a vomit (valgiter).
+
+Fulgentius ibid. 52 (p. 566): Alucinare means to dream falsely, and is derived from alucitae, which we call conopes (mosquitoes). As Petronius Arbiter says, For the mosquitoes (alucitae) were troubling my companion.
+
+Fulgentius ibid. 60 (p. 567): Manubiae means the ornaments of kings. Hence Petronius Arbiter also says, So many kingly ornaments (manubiae) found in the possession of a runaway.
+
+Fulgentius ibid. 61 (p. 567): Aumatium means a private place in a public spot such as theatres or the circus. Hence Petronius Arbiter also says, I hurled myself into the privy-place (aumatium).
+
+Isidorus Origines V, 26, 7: Dolus is the mental cunning on the part of the deceiver: for he does one thing and pretends another. Petronius takes a different view when he says, What is a wrong (dolus), gentlemen? It occurs whenever anything offensive to the law is done. You understand what a wrong is: now take damage...
+
+Glossary of St. Dionysius: The spring-board is a kind of game. Petronius, Now lifted high at the will of the spring-board.
+
+From the Glossary of St. Dionysius: Petronius, 'It was quite certainly their usual plan to go through the Grotto of Naples only with backs bent double.
+
+Another Glossary:
+
+Suppes suppumpis, that is with feet bent backwards.
+
+Tullia, mediator (?) or princess.
+
+Nicolaus Perottus in the Cornucopia (p. 200, 26 in the Aldine Edition of 1513): Cosmus too was a superb perfumer, and ointments are called Cosmian after him. The same writer (Juvenal 8, 86) says, and let him be plunged deep in a bronze vase of Cosmus. Petronius, Bring us, he said, an alabaster box of Cosmus ointment.
+
+Terentianus Maurus on Metre:
+
+We see that Horace nowhere employed verse of this rhythm continuously, but the learned Arbiter uses it often in his works. You will remember these lines, which we are used to sing: The maidens of Memphis, made ready for the rites of the Gods. The boy coloured deep as the night with speaking gestures.
+
+Marius Victorinus III, 17 (Keil, Grammatici, II, 138):
+
+We know that the lyric poets inserted some lines of this rhythm and form in their works, as we find too in Arbiter, for example: The maidens of Memphis, made ready for the rites of the Gods, and again Coloured deep as the night, [dancing] Egyptian dances.
+
+Terentianus Maurus on Metre:
+
+Now the analysis, which we will explain, will give us the metre in which they say that Anacreon wrote his sweet old songs. We find that Petronius, as well as many others, used this metre, when he says that this same lyric poet sang in words harmonious to the Muses. But I will explain with what kind of caesura this verse is written. In the line Iuverunt segetes meum laborem ( The cornfields have lightened my labour), the word iuverunt is the beginning of a hexameter: the remaining words segetes meum laborem are in the same metre as
+
+"triplici vides ut ortu
+
+Triviae rotetur ignis volucrique Phoebus axe rapidum pererret orbem"
+
+( You see how the fire of Trivia spins round from her threefold rising, and Phoebus on his winged wheel traverses the hurrying globe.)
+
+Diomede on Grammar III (Keilp. 518): Hence arises the caesura which Arbiter employed thus:
+
+"Anus recocta vino trementibus labellis"
+
+( An old woman soaked in wine, with trembling lips)
+
+Servius on the Grammar of Donatus (Keil p. 432, 22): Again, he uses Quirites (Roman citizens) only in the plural number. But we read in Horace the accusative hunc Quiritem (this Roman citizen) making the nominative hic Quiris. Again, the same Horace says Quis te Quiritem? and there the nominative will be hic Quirites, as Petronius says.
+
+Pompeius in his Commentary on the Art of Donatus (Keil p. 167, 9): No one says this Roman citizen, but these Roman citizens, although we find the former in books. Read Petronius, and you will find this use of the nominative singular. And Petronius says Hic Quirites (this Roman citizen).
+
+A Grammarian on Nouns of uncertain gender (Keil p. 578, 23): Fretum (a strait) is of the neuter gender, and its plural is freta, as Petronius says Freta Nereidum ( The straits of the Nereids).
+
+Hieronymus in his Letter to Demetriades CXXX, 19 (Vallarsius p. 995): Boys with hair curled and crimped and skins smelling like foreign musk-rats, about whom Arbiter wrote the line, To smell good always is not to smell good, showing how the virgin may avoid certain plagues and poisons of modesty.
+
+Fulgentius Mythologiae II, 6 (p. 80, on Prometheus): Although Nicagoras... represents his yielding his liver to a vulture, as an allegorical picture of envy. Hence too Petronius Arbiter says: The vulture who explores our inmost liver, and drags out our heart and inmost nerves, is not the bird of whom our dainty poets talk, but those diseases of the soul, envy and wantonness.

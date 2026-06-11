@@ -1,0 +1,38 @@
+{
+  "work_slug": "hesiod-shield-of-heracles-722025",
+  "work_title": "Shield of Heracles",
+  "chapter_number": 1,
+  "chapter_title": "Shield of Heracles",
+  "chapter_slug": "01-shield-of-heracles",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7e1948ca-2613-505c-b1ca-e3139fff7384",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3268,
+      "paragraph_count": 477,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "42c48921-5e47-5fbe-acbf-0b5e9bb0b892",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4653,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg003.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-juppiter-confutatus-a2e129",
+  "work_title": "Juppiter Confutatus",
+  "chapter_number": 1,
+  "chapter_title": "Juppiter Confutatus",
+  "chapter_slug": "01-juppiter-confutatus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "554ec96e-f8f3-5d6c-a95d-01164187470b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2334,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg017.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f9578d6-b286-5901-b6df-1a7c57875369",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2752,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg017.perseus-eng4"
+    }
+  ]
+}

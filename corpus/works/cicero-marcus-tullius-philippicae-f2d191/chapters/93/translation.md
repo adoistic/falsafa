@@ -1,0 +1,25 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 93
+chapter_title: Chapter 11
+chapter_slug: 93
+variant_id: "9da39d93-7195-5421-a199-186da4b648b0"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 563
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:93"
+translator: Perseus Digital Library
+---
+
+On the nineteenth of December, you overwhelmed him with your decrees; you ordained that this motion should be submitted to you on the first of January, which you see is submitted now, respecting the honors and rewards to be conferred on those who have deserved or do deserve well of the republic. And the chief of those men you have adjudged to be the man who really has done so, Caius Caesar, who had diverted the nefarious attacks of Marcus. Antonius against this city, and compelled him to direct them against Gaul; and next to him you consider the veteran soldiers who first followed Caesar; then those excellent and heavenly-minded legions the Martial and the fourth, to whom you have promised honors and rewards, for having not only abandoned their consul, but for having even declared war against him. And on the same day, having a decree brought before you and published on purpose, you praised the conduct of Decimus Brutus, a most excellent citizen, and sanctioned with your public authority this war which he had undertaken of his own head.
+
+What else, then, did you do on that day except pronounce Antonius a public enemy? After these decrees of yours, will it be possible for him to look upon you with equanimity, or for you to behold him without the most excessive indignation! He has been excluded and cut off and wholly separated from the republic, not merely by his own wickedness, as it seems to me, but by some especial good fortune of the republic. And if he should comply with the demands of the ambassadors and return to Rome, do you suppose that abandoned citizens will ever be in need of a standard around which to rally? But this is not what I am so much afraid of. There are other things which I am more apprehensive of and more alarmed at. He never will comply with the demands of the ambassadors. I know the man's insanity and arrogance; I know the desperate counsels of his friends, to which he is wholly given up. Lucius his brother, as being a man who has fought abroad, leads on his household. Even suppose him to be in his senses himself, which he never will be; still he will not be allowed by these men to act as if he were so. In the mean time, time will be wasted. The preparations for war will cool. How is it that the war has been protracted as long as this, if it is not by procrastination and delay?
+
+From the very first moment after the departure, or rather after the hopeless flight of that bandit, that the senate could have met in freedom, I have always been demanding that we should be called together. The first day that we were called together, when the consuls elect were not present, I laid, in my opinion, amidst the greatest unanimity on your part, the foundations of the republic; later, indeed, than they should have been laid; for I could not do so before; but still if no time had been lost after that day, we should have no war at all now. Every evil is easily crushed at its birth; when it has become of long standing, it usually gets stronger. But then every body was waiting for the first of January; perhaps not very wisely.

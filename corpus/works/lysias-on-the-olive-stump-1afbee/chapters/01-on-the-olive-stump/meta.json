@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-on-the-olive-stump-1afbee",
+  "work_title": "On the Olive Stump",
+  "chapter_number": 1,
+  "chapter_title": "On the Olive Stump",
+  "chapter_slug": "01-on-the-olive-stump",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f5bb8031-9690-5872-964f-9a9254696814",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2028,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg007.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d1a53ba-fd31-58df-9bb6-649ded38e1b4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3052,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg007.perseus-eng2"
+    }
+  ]
+}

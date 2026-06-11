@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-parmenides-f827d2",
+  "work_title": "Parmenides",
+  "chapter_number": 1,
+  "chapter_title": "Parmenides",
+  "chapter_slug": "01-parmenides",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "961acac1-3a98-5be0-9673-ef28f7e7836b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 15239,
+      "paragraph_count": 1071,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg009.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f564479f-8a90-502a-9666-2589fd6069c6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 19599,
+      "paragraph_count": 1207,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg009.perseus-eng2"
+    }
+  ]
+}

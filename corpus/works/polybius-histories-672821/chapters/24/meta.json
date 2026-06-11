@@ -1,0 +1,38 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 24,
+  "chapter_title": "Book 24",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e57a3150-2b78-5155-aa43-ed1ccbb71a34",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 996,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:24"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "26e6ff63-4a24-5eee-af89-c4880080bc48",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4032,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:24"
+    }
+  ]
+}

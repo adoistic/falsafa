@@ -1,0 +1,38 @@
+{
+  "work_slug": "homeric-hymns-hymn-15-to-heracles-431d23",
+  "work_title": "Hymn 15 To Heracles",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 15 To Heracles",
+  "chapter_slug": "01-hymn-15-to-heracles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e4bf0e62-bcc7-5e3b-8924-d5673a36c99f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 61,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg015.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8304bca-d4f5-53c0-a17a-12b8383c3c47",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 94,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg015.perseus-eng2"
+    }
+  ]
+}

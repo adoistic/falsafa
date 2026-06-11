@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-heroditi-malignate-0e88ed",
+  "work_title": "De Heroditi malignate",
+  "chapter_number": 1,
+  "chapter_title": "De Heroditi malignate",
+  "chapter_slug": "01-de-heroditi-malignate",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ef1cf20f-581a-5c32-82e4-46481bdbd5b7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8967,
+      "paragraph_count": 212,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg123.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e63aa346-d166-5f50-b83e-c0b4904a739a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12987,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg123.perseus-eng2"
+    }
+  ]
+}

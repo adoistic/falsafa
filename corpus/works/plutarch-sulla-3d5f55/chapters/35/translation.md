@@ -1,0 +1,29 @@
+---
+work_id: "3d5f5527-8162-539f-82f0-7c5bcc0cbcdc"
+work_slug: "plutarch-sulla-3d5f55"
+work_title: Sulla
+author_name: Plutarch
+chapter_number: 35
+chapter_title: Chapter 35
+chapter_slug: 35
+variant_id: "65719524-ce7a-5218-ba92-9d78f5f8b1d9"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 402
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:35"
+translator: Bernadotte Perrin
+---
+
+On consecrating the tenth of all his substance to Hercules, Sulla feasted the people sumptuously, and his provision for them was so much beyond what was needed that great quantities of meats were daily cast into the river, and wine was drunk that was forty years old and upwards.
+
+In the midst of the feasting, which lasted many days, Metella lay sick and dying. And since the priests forbade Sulla to go near her, or to have his house polluted by her funeral, he sent her a bill of divorce, and ordered her to be carried to another house while she was still living. In doing this, he observed the strict letter of the law, out of superstition; but the law limiting the expense of the funeral, which law he had himself introduced, he transgressed, and spared no outlays.
+
+He transgressed also his own ordinances limiting the cost of banquets, when he tried to assuage his sorrow by drinking parties and convivial banquets, where extravagance and ribaldry prevailed. A few months afterwards there was a gladiatorial spectacle, and since the places for men and women in the theatre were not yet separated, but still promiscuous, it chanced that there was sitting near Sulla a woman of great beauty and splendid birth;
+
+she was a daughter of Messala, a sister of Hortensius the orator, and her name was Valeria, and it so happened that she had recently been divorced from her husband. As she passed along behind Sulla, she rested her hand upon him, plucked off a bit of nap from his mantle, and then proceeded to her own place. When Sulla looked at her in astonishment, she said: It’s nothing of importance, Dictator, but I too wish to partake a little in thy felicity.
+
+Sulla was not displeased at hearing this, nay, it was at once clear that his fancy was tickled, for he secretly sent and asked her name, and inquired about her family and history. Then followed mutual glances, continual turnings of the face to gaze, interchanges of smiles, and at last a formal compact of marriage. All this was perhaps blameless on her part, but Sulla, even though she was ever so chaste and reputable, did not marry her from any chaste and worthy motive; he was led away, like a young man, by looks and languishing airs, through which the most disgraceful and shameless passions are naturally excited.

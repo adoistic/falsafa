@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 105
+chapter_title: "Chapter text=A:book=5:letter=11"
+chapter_slug: 105
+variant_id: "a40ed2dc-53af-5a6d-b226-f852023505b5"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 757
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:105"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) ATHENS, 6 JULY
+
+HALLO write so often to Rome, and not send a single line to you? Well then, hereafter, rather than consent not to send you a letter, if that can be done safely, I will send one that may never reach you. Whatever step can be taken to provide against the prolongation of my government, in the name of fortune, take, so long as you are in town. I can't describe to you the warmth of my longing for the city, or the difficulty I feel in putting up with the boredom of this business. Marcellus's action in the case of the man of Comum was disgraceful. Even if he were not a magistrate, he was yet an inhabitant of Gallia Transpadana. So he seems to me to have given no less cause of anger to our friend Pompey than to Caesar. But this is his own look-out. I think, from what you tell me that Varro says, that Pompey certainly means to go to Spain. I entirely disapprove of it, and indeed I easily convinced Theophanes that the best course was for him not to quit Rome to go anywhere. So the Greek will put pressure on him; and his influence is very powerful with him. I send this letter on the 6th of July, when on the point of quitting Athens, where I have been exactly ten days. Pomptinus has arrived along with Cn. Volusius; my quaestor is here; the only one missing is your friend Tullius. I have some open vessels of Rhodes, some biremes of Mitylene, and a certain amount of despatch boats. I don't hear a word about the Parthians. For the rest, heaven preserve us! As yet our journey through Greece has roused great admiration, nor, by heaven, have I as yet a fault to find with any of my staff. They appear to me to understand my point of view and the conditions on which they accompany me. They entirely devote themselves to my reputation. For the future, if the proverb "like mistress like dog " holds good, they will certainly stick to this line of conduct. For they will not see me doing anything to give them an excuse for malpractices. But if that does not prove sufficient, I shall have to take some stronger measure. For at present I am all smiles and indulgence, and, as I hope, am making considerable progress. But I have only studied the part of "tolerator"—as our friends the Sicilians call it —for a single year. Therefore fight your best, lest if any addition is made to my time, I should turn out a scoundrel. Now to return to your commands: praefecti are excused jury service: offer the position to whom you choose. I will not be so high and mighty as I was in the case of Appuleius. I am as fond of Xeno as you are, of which I feel sure that he is fully aware. With Patron and the rest of the (Epicurean) dunces I have established your reputation well, and, by Hercules, it is no more than you deserve. For that person told me three times over that you had written to him to say that I had taken measures about his affair in accordance with a letter from Memmius, and this pleased him very much. But Patron having urged me to request your Areopagus to cancel their minute, made in the archonship of Polycharmus, it seemed best to Xeno, and afterwards to Patron himself, that I should write to Memmius, who had started for Mitylene the day before my arrival at Athens, to induce him to write to his agents that it might be done with his free consent. For Xeno felt sure that it would be impossible to get this concession from the Areopagites if Memmius were unwilling. Now Memmius had laid aside his design of building, but he was angry with Patron. So I wrote him a carefully expressed letter, of which I enclose you a copy. Please comfort Pilia with a message from me. For I will tell you, though don't tell her. I received a packet which contained Pilia's letter. I abstracted, opened, and read it. It was in very sympathetic terms. The letters you got from Brundisium without one from me you must regard as having been sent when I was unwell; for don't take seriously the excuse I mentioned of expense. Take care to let me know everything, but, above all, take care of your health.

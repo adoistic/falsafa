@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-daniel-204eef",
+  "work_title": "Daniel",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c0c5df9-5fb1-5b0c-ace2-4267ad9f5681",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1267,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg056.1st1K-grc1:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bbbd83e3-fd36-5a38-b75d-be73873417e6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1486,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg056.perseus-eng2:2"
+    }
+  ]
+}

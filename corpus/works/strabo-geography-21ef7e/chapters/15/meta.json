@@ -1,0 +1,38 @@
+{
+  "work_slug": "strabo-geography-21ef7e",
+  "work_title": "Geography",
+  "chapter_number": 15,
+  "chapter_title": "Book 14",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1ff7fa77-2e61-5cb1-9d4a-a58b6b7f12f4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 17240,
+      "paragraph_count": 111,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2:15"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a72c8196-d27d-50d6-a8e0-1f3cd27c58b3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 23682,
+      "paragraph_count": 307,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-eng4:15"
+    }
+  ]
+}

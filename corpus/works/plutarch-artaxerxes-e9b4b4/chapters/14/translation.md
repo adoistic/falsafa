@@ -1,0 +1,29 @@
+---
+work_id: "e9b4b43d-3e3d-50f1-b323-a0afc6ca8a5f"
+work_slug: "plutarch-artaxerxes-e9b4b4"
+work_title: Artaxerxes
+author_name: Plutarch
+chapter_number: 14
+chapter_title: Chapter 14
+chapter_slug: 14
+variant_id: "b0cb0907-9ebc-5e6f-8dd9-d938bbb94e32"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 500
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg064.perseus-eng2:14"
+translator: Bernadotte Perrin
+---
+
+After the battle, the king sent the largest and most beautiful gifts to the son of that Artagerses who fell at the hands of Cyrus; he also gave generous rewards to Ctesias and others, and when he had found out the Caunian who had given him the skin of water, he raised him from obscurity and poverty to honour and wealth. There was much watchful care also in his punishment of those who had gone wrong.
+
+For example, in the case of Arbaces, a Mede, who had run away to Cyrus during the battle, and, when Cyrus fell, had changed back again, the king pronounced him guilty, not of treachery, nor even of malice, but of cowardice and weakness, and ordered him to take a naked harlot astride his neck and carry her about in the market-place for a whole day. And in the case of another man, who, besides going over to the enemy, had lyingly boasted that he had slain two of them, the king ordered that his tongue should be pierced with three needles.
+
+Moreover, believing, and wishing all men to think, and say, that he had killed Cyrus with his own hand, he sent gifts to Mithridates, the one who first hit Cyrus, and ordered the bearers of the gifts to say: This is thy reward from the king because thou didst find and bring to him the trappings of the horse of Cyrus. Again, when the Carian, from whom Cyrus received the blow in the ham which brought him down, asked that he also should receive a gift, the king ordered its bearers to say: The king gives thee these things as a second prize for good tidings; for Artasyras came first, and after him thou didst come, with tidings of the death of Cyrus.
+
+Now, Mithridates went away without a word, although he was vexed; but the wretched Carian, in his folly, gave way to a common feeling. That is, he was corrupted, it would seem, by the good things which he had, and led by them to aspire at once to things beyond his reach, so that he would not deign to take the gifts as a reward for good tidings, but was indignant, calling men to witness and crying in loud tones that it was he himself, and no one else, who had killed Cyrus, and that he was unjustly robbed of his glory. When the king heard of this, he was vehemently angry and gave orders that the man should be beheaded.
+
+Whereupon the king’s mother, who was present, said to him: O King, do not let this accursed Carian off so easily, but leave him to me, and he shall receive the fitting reward for his daring words. So the king consigned the man to Parysatis, who ordered the executioners to take him and rack him on the wheel for ten days, then to gouge out his eyes, and finally to drop molten brass into his ears until he died.

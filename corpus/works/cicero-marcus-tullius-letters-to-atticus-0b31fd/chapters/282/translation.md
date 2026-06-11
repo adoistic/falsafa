@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 282
+chapter_title: "Chapter text=A:book=12:letter=31.3"
+chapter_slug: 282
+variant_id: "7f145b9f-43ce-540a-9219-074bffbe260d"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 454
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:282"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) ASTURA, 28 MARCH
+
+EGNATIUS has written to me. If he has said anything to you, as the matter can be settled most conveniently through him, please write and tell me. I think too that the negotiation should be pressed. For I don't see any possibility of coming to terms with Silius. Love to Pilia and Attica. What follows is by my own hand. Pray see what is to be done. Publilia has written to tell me that her mother, on the advice 'of Publilius, is coming to see me with him and that she will come with them if I will allow it: she begs me in many words of intreaty that she may be allowed to do so, and that I would answer her letter. You see what an unpleasant business it is. I wrote back to say that it would be even more painful than it was when I told her that I wished to be alone, and that therefore I did not wish her to come to see me at this time. I thought that, if I made no answer, she would come with her mother: now I don't think she will. For it is evident that her letter is not her own composition. Now this is the very thing I wish to avoid, which I see will occur-namely, that they will come to my house: and the one way of avoiding it is to fly away. I would rather not, but I must. I beg you to find out the last day I can remain here without being caught. Act, as you say, with moderation. I would have you propose to my son, that is, if you think it fair, to adapt the expenses of this sojourn abroad to what he would have been quite content with, if; as he thought of doing, he had remained at Rome and hired a house—I mean to the rents of my property in the Argiletum and Aventine And in making that proposal to him, pray arrange the rest of the business for our supplying him with what he needs from those rents. I will guarantee that neither Bibulus nor Acidinus nor Messalla, who I hear are to be at Athens, will spend more than the sum to be received from these rents. Therefore, please investigate who the tenants are and what their rent is, and take care that the tenant is a man to pay to the day. See also what journey money and outfit will suffice. There is Certainly no need of a carriage and horses at Athens. For such as he wants for the journey there is enough and to spare at home, as you observe yourself.

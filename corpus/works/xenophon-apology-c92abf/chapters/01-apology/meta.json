@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-apology-c92abf",
+  "work_title": "Apology",
+  "chapter_number": 1,
+  "chapter_title": "Apology",
+  "chapter_slug": "01-apology",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb5c758c-eafe-5296-8e84-1e51b1db9478",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2000,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b62e578-fc8d-5a22-af77-55166bc5eba1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2986,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg005.perseus-eng2"
+    }
+  ]
+}

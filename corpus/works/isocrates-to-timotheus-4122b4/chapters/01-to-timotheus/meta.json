@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-timotheus-4122b4",
+  "work_title": "To Timotheus",
+  "chapter_number": 1,
+  "chapter_title": "To Timotheus",
+  "chapter_slug": "01-to-timotheus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dcf612a2-96a0-5a77-a81f-cc98b1c4f367",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 780,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg026.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c8dec1c-3c6f-5e85-b9c1-4e27ceeb77ab",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1001,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg026.perseus-eng3"
+    }
+  ]
+}

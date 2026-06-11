@@ -16,7 +16,7 @@ description: "Socrates' last day, spent arguing for the immortality of the soul,
 difficulty: Intermediate
 published_year: -380
 total_logical_chapters: 1
-total_variant_entries: 1
+total_variant_entries: 2
 thothica_role: catalog
 ---
 
@@ -26,4 +26,4 @@ Socrates' last day, spent arguing for the immortality of the soul, ending with t
 
 ## Chapters
 
-01. [Phaedo](./chapters/01-phaedo/) — prose, 1 variant
+01. [Phaedo](./chapters/01-phaedo/) — prose, 2 variants

@@ -1,0 +1,29 @@
+---
+work_id: "e957824a-e031-5461-892b-7e0e232f8c7c"
+work_slug: "plutarch-phocion-e95782"
+work_title: Phocion
+author_name: Plutarch
+chapter_number: 3
+chapter_title: Chapter 3
+chapter_slug: 03
+variant_id: "cdf9c327-ce18-5723-a9bf-008da4e937eb"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 425
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg049.perseus-eng2:3"
+translator: Bernadotte Perrin
+---
+
+These principles found an illustration in Cato the Younger also. For his manners were not winning, nor pleasing to the populace, nor was he eminent in his public career for popularity. Indeed, Cicero says it was because he acted as if he lived in Plato’s commonwealth, and not among the dregs of Romulus, that he was defeated when he stood for the consulship but I think he fared just as fruits do which make their appearance out of season.
+
+For, as we look upon these with delight and admiration, but do not use them, so the old-fashioned character of Cato, which, after a long lapse of time, made its appearance among lives that were corrupted and customs that were debased, enjoyed great repute and fame, but was not suited to the needs of men because of the weight and grandeur of its virtue, which were out of all proportion to the immediate times.
+
+For his native city was not already prostrate, like that of Phocion, but struggling with great tempest and surge, and though he could only serve her by putting hand to sails and ropes and by supporting men of greater influence, but was repulsed from rudder-sweeps and pilotage, he nevertheless gave Fortune a hard contest. She did, indeed, seize and overthrow the commonwealth by means of other men, but with difficulty, slowly, after a long time, and when it had almost won the day through Cato and the virtue of Cato.
+
+And with this virtue we compare that of Phocion, though not for their general resemblances, but on the ground that both were good men and devoted to the state. For there is surely a difference between the bravery of one man and that of another, as, for instance, between that of Alcibiades and that of Epaminondas; between the wisdom of one man and that of another, as, between that of Themistocles and that of Aristides; between the justice of one man and that of another, as, between that of Numa and that of Agesilaüs.
+
+But the virtues of these men, even down to their ultimate and minute differences, show that their natures had one and the same stamp, shape, and general colour; they were an equal blend, so to speak, of severity and kindness, of caution and bravery, of solicitude for others and fearlessness for themselves, of the careful avoidance of baseness and, in like degree, the eager pursuit of justice. Therefore we shall need a very subtle instrument of reasoning, as it were, for the discovery and determination of their differences.

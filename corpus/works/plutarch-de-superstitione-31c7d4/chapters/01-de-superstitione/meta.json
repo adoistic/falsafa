@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-superstitione-31c7d4",
+  "work_title": "De Superstitione",
+  "chapter_number": 1,
+  "chapter_title": "De Superstitione",
+  "chapter_slug": "01-de-superstitione",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f462da3c-915b-5728-ad8d-e758b2360836",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3326,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg080.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5fe0a807-ccaa-53a7-a450-55a11036fadd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5165,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg080.perseus-eng4"
+    }
+  ]
+}

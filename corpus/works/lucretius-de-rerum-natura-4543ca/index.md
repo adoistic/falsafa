@@ -16,7 +16,7 @@ description: "On the Nature of Things: Epicurean physics and peace of mind in La
 difficulty: Advanced
 published_year: -55
 total_logical_chapters: 6
-total_variant_entries: 6
+total_variant_entries: 12
 thothica_role: catalog
 ---
 
@@ -26,9 +26,9 @@ On the Nature of Things: Epicurean physics and peace of mind in Latin verse, in 
 
 ## Chapters
 
-01. [Book 1](./chapters/01/) — verse, 1 variant
-02. [Book 2](./chapters/02/) — verse, 1 variant
-03. [Book 3](./chapters/03/) — verse, 1 variant
-04. [Book 4](./chapters/04/) — verse, 1 variant
-05. [Book 5](./chapters/05/) — verse, 1 variant
-06. [Book 6](./chapters/06/) — verse, 1 variant
+01. [Book 1](./chapters/01/) — verse, 2 variants
+02. [Book 2](./chapters/02/) — verse, 2 variants
+03. [Book 3](./chapters/03/) — verse, 2 variants
+04. [Book 4](./chapters/04/) — verse, 2 variants
+05. [Book 5](./chapters/05/) — verse, 2 variants
+06. [Book 6](./chapters/06/) — verse, 2 variants

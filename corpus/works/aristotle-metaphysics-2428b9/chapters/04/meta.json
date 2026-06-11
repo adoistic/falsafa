@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-metaphysics-2428b9",
+  "work_title": "Metaphysics",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4acd8db0-6a9c-5b70-ab5c-16af042565af",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6521,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg025.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d95c4d3f-e930-56d6-9571-76269786b899",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9127,
+      "paragraph_count": 154,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg025.perseus-eng2:4"
+    }
+  ]
+}

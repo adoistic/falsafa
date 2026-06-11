@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-amatoriae-narrationes-1616db",
+  "work_title": "Amatoriae Narrationes",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9317abe6-6b44-5835-8b52-52417868b813",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 298,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg114.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d4345c43-6864-5f48-88b2-57cc2aa559e1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 505,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg114.perseus-eng4:4"
+    }
+  ]
+}

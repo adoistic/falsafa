@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-s-roscio-amerino-e252d2",
+  "work_title": "Pro S. Roscio Amerino",
+  "chapter_number": 1,
+  "chapter_title": "Pro S. Roscio Amerino",
+  "chapter_slug": "01-pro-s-roscio-amerino",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94ca39c2-8005-56c2-bbd2-bf6ebe25d2e8",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12917,
+      "paragraph_count": 221,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi002.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9da903a3-effa-58a8-82b6-4fb909fc5101",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 21586,
+      "paragraph_count": 168,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi002.perseus-eng2"
+    }
+  ]
+}

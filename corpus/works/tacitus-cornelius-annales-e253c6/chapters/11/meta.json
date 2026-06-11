@@ -1,0 +1,26 @@
+{
+  "work_slug": "tacitus-cornelius-annales-e253c6",
+  "work_title": "Annales",
+  "chapter_number": 11,
+  "chapter_title": "Book 15",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e74368a-0c76-5583-84a6-236ab070b9f1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16244,
+      "paragraph_count": 101,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi005.perseus-eng1:11"
+    }
+  ]
+}

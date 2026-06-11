@@ -1,0 +1,33 @@
+---
+work_id: "d9e659ba-5f90-55c9-b651-371b0e6d7bae"
+work_slug: "plutarch-crassus-d9e659"
+work_title: Crassus
+author_name: Plutarch
+chapter_number: 21
+chapter_title: Chapter 21
+chapter_slug: 21
+variant_id: "20043541-0baa-5066-8c7a-5bdc02f98d4a"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 618
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg039.perseus-eng2:21"
+translator: Bernadotte Perrin
+---
+
+While Crassus was still investigating and considering these matters, there came an Arab chieftan, Ariamnes by name, a crafty and treacherous man, and one who proved to be, of all the mischiefs which fortune combined for the destruction of the Romans, the greatest and most consummate.
+
+Some of the soldiers who had served under Pompey in these parts knew that the fellow had profited by the kindness of that commander and was thought to be a friend of Rome; but now, with the knowledge of the royal generals, he tried to work his way into the confidence of Crassus, to see if he could turn him aside as far as possible from the river and the foot-hills, and bring him down into a boundless plain where he could be surrounded. For nothing was farther from the thoughts of the Parthians than to attack the Romans in front.
+
+Accordingly, coming to Crassus, the Barbarian (and he was a plausible talker, too) lauded Pompey as his benefactor, and complimented Crassus on his forces. But then he criticized him for wasting time in delays and preparations, as if it was arms that he needed, and not hands amid the swiftest of feet to follow after men who had for some time been trying to snatch up their most valuable goods and slaves and fly with them into Scythia or Hyrcania.
+
+And yet, said he, if you intend to fight, you ought to hasten on before all the king’s forces are concentrated and he has regained his courage; since, for the time being, Surena and Sillaces have been thrown forward to sustain your pursuit, but the king is nowhere to be seen.
+
+Now this was all false. For Hyrodes had promptly divided his forces into two parts and was himself devastating Armenia to punish Artavasdes, while he despatched Surena to meet the Romans. And this was not because he despised them, as some say, for he could not consistently disdain Crassus as an antagonist, a man who was foremost of the Romans, and wage war on Artavasdes, attacking and taking the villages of Armenia; on the contrary, it seems that he was in great fear of the danger which threatened, and therefore held himself in reserve and watched closely the coming event, while he sent Surena forward to make trial of the enemy in battle and to distract them.
+
+Nor was Surena an ordinary man at all, but in wealth, birth, and consideration, he stood next the king, while in valour and ability he was the foremost Parthian of his time, besides having no equal in stature and personal beauty. He used to travel on private business with a baggage train of a thousand camels, and was followed by two hundred waggons for his concubines, while a thousand mail-clad horsemen and a still greater number of light-armed cavalry served as his escort; and he had altogether, as horsemen, vassals, and slaves, no fewer than ten thousand men.
+
+Moreover, he enjoyed the ancient and hereditary privilege of being first to set the crown upon the head of the Parthian king; and when this very Hyrodes was driven out of Parthia, he restored him to his throne, and captured for him Seleucia the Great, having been the first to mount its walls, amid having routed with his own hand his opponents. And though at this time he was not yet thirty years of age, he had the highest reputation for prudence and sagacity, and it was especially by means of these qualities that he also brought Crassus to ruin, who, at first by reason of his boldness and conceit, and then in consequence of his fears and calamities, was an easy victim of deceits.

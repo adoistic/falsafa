@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-themistocles-24aecf",
+  "work_title": "Themistocles",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 31",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "241f1f61-be9b-52e5-a79c-2f8f143c4dd6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 347,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-grc2:31"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f6d8172-6f7a-5fca-bf0b-8999c7d3dbef",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 499,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-eng2:31"
+    }
+  ]
+}

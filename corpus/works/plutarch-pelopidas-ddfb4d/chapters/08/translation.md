@@ -1,0 +1,27 @@
+---
+work_id: "ddfb4d8d-24d4-5898-82bb-2342c3075a59"
+work_slug: "plutarch-pelopidas-ddfb4d"
+work_title: Pelopidas
+author_name: Plutarch
+chapter_number: 8
+chapter_title: Chapter 8
+chapter_slug: 08
+variant_id: "92922b41-a369-5ad7-b52c-705cb00cee36"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 465
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg021.perseus-eng2:8"
+translator: Bernadotte Perrin
+---
+
+A day for the enterprise having been fixed, the exiles decided that Pherenicus, with the rest of the party under his command, should remain in the Thriasian plain, while a few of the youngest took the risk of going forward into the city; and if anything happened to these at the hands of their enemies, the rest should all see to it that neither their children nor their parents came to any want.
+
+Pelopidas was first to undertake the enterprise, then Melon, Damocleides, and Theopompus, men of foremost families, and of mutual fidelity and friendship, although in the race for heroic achievement and glory they were constant rivals. When their number had reached twelve, they bade farewell to those who stayed behind, sent a messenger before them to Charon, and set out in short cloaks, taking hunting dogs and nets with them, that anyone who met them on the road might not suspect their purpose, but take them for hunters beating about the country.
+
+When their messenger came to Charon and told him they were on the way, Charon himself did not change his mind at all even though the hour of peril drew nigh, but was a man of his word and prepared his house to receive them; a certain Hipposthenidas, however, not a bad man, nay, both patriotic and well disposed towards the exiles, but lacking in that degree of boldness which the sharp crisis and the projected enterprise demanded, was made dizzy, so to speak, by the magnitude of the struggle now so close at hand, and at last comprehended that, in undertaking to overthrow the armed force in the city, they were in a manner trying to shake the empire of the Lacedaemonians, and had placed their reliance on the hopes of men in exile and without resources. He therefore went quietly home, and sent one of his friends to Melon and Pelopidas, urging them to postpone the enterprise for the present, go back to Athens, and await a more favourable opportunity. Chlidon was the name of this messenger, and going to his own home in haste, he brought out his horse and asked for the bridle.
+
+His wife, however, was embarrassed because she could not give it to him, and said she had lent it to a neighbour. Words of abuse were followed by imprecations, and his wife prayed that the journey might prove fatal both to him and to those that sent him. Chlidon, therefore, after spending a great part of the day in this angry squabble, and after making up his mind, too, that what had happened was ominous, gave up his journey entirely and turned his thoughts to something else. So near can the greatest and fairest enterprises come, at the very outset, to missing their opportunity.

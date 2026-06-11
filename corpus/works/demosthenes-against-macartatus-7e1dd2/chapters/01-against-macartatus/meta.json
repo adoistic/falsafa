@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-macartatus-7e1dd2",
+  "work_title": "Against Macartatus",
+  "chapter_number": 1,
+  "chapter_title": "Against Macartatus",
+  "chapter_slug": "01-against-macartatus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c5e50a95-6596-5ce2-a30f-9c54d42537db",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6300,
+      "paragraph_count": 116,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg043.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb1ab9a8-6fd4-5d9b-b046-d04e8068db9a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9131,
+      "paragraph_count": 122,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg043.perseus-eng2"
+    }
+  ]
+}

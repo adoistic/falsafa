@@ -16,7 +16,7 @@ description: "Socrates' defense before the Athenian jury that condemned him, as 
 difficulty: Beginner
 published_year: -390
 total_logical_chapters: 1
-total_variant_entries: 1
+total_variant_entries: 2
 thothica_role: catalog
 ---
 
@@ -26,4 +26,4 @@ Socrates' defense before the Athenian jury that condemned him, as Plato wrote it
 
 ## Chapters
 
-01. [Apology](./chapters/01-apology/) — prose, 1 variant
+01. [Apology](./chapters/01-apology/) — prose, 2 variants

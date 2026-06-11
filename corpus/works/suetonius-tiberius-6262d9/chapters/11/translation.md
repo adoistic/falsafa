@@ -1,0 +1,21 @@
+---
+work_id: "6262d942-d888-55cb-84ac-42634338c3dc"
+work_slug: "suetonius-tiberius-6262d9"
+work_title: Tiberius
+author_name: Suetonius
+chapter_number: 11
+chapter_title: Chapter 11
+chapter_slug: 11
+variant_id: "33975aa8-3c65-54b5-8ef4-720ca8751bba"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 507
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo013.perseus-eng2:11"
+translator: Perseus Digital Library
+---
+
+From Ostia, journeying along the coast of Campania, he halted awhile on receiving intelligence of Augustus's being taken ill, but this giving rise to a rumour that he stayed with a view to something extraordinary, he sailed with the wind almost full against him, and arrived at Rhodes, having been struck with the pleasantness and healthiness of the island at the time of his landing there in his return from Armenia. Here contenting himself with a small house, and a villa not much larger, near the town, he led entirely a private life, taking his walks sometimes about the Gymnasia, without any lictor or other attendant, and returning the civilities of the Greeks with almost as much complaisance as if he had been upon a level with them. One morning, in settling the course of his daily excursion, he happened to say, that he should visit all the sick people in the town. This being not rightly understood by those about him, the sick were brought into a public portico, and ranged in order, according to their several distempers. Being extremely embarrassed by this unexpected occurrence, he was for some time irresolute how he should act; but at last he determined to go round them all, and make an apology for the mistake, even to the meanest amongst them, and such as were entirely unknown to him. One instance only is mentioned, in which he appeared to exercise his tribunitian authority. Being a constant attendant upon the schools and lecture-rooms of the professors of the liberal arts, on occasion of a quarrel amongst the wrangling sophists, in which he interposed to reconcile them, some person took the liberty to abuse him as an intruder, and partial in the affair. Upon this, withdrawing privately home, he suddenly returned attended by his officers, and summoning his accuser before his tribunal, by a public crier, ordered him to be taken to prison. Afterwards he received tidings that his wife Julia had been condemned for her lewdness and adultery, and that a bill of divorce had been sent to her in his name, by the authority of Augustus. Though he secretly rejoiced at this intelligence, he thought it incumbent upon him, in point of decency, to interpose in her behalf by frequent letters to Augustus, and to allow her to retain the presents which he had made her, notwithstanding the little regard she merited from him. When the period of his tribunitian authority expired, declaring at last that he had no other object in his retirement than to avoid all suspicion of rivalship with Caius and Lucius, he petitioned that, since he was now secure in that respect, as they were come to the age of manhood, and would easily maintain themselves in possession of the second place in the state, he might be permitted to visit his friends, whom he was very desirous of seeing. But his request was denied; and he was advised to lay aside all concern for his friends, whom he had been so eager to quit.

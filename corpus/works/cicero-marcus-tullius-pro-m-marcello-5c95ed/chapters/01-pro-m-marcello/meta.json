@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-m-marcello-5c95ed",
+  "work_title": "Pro M. Marcello",
+  "chapter_number": 1,
+  "chapter_title": "Pro M. Marcello",
+  "chapter_slug": "01-pro-m-marcello",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bf4d9408-3fb5-509c-9e32-a296d5e03f38",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2657,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi032.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1788c47-e0dc-55c3-9557-9490e671fa25",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4968,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi032.perseus-eng1"
+    }
+  ]
+}

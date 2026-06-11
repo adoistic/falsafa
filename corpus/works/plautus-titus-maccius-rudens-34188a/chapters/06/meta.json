@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-rudens-34188a",
+  "work_title": "Rudens",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c024384-4042-5d66-9443-7dac06ce46ab",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1350,
+      "paragraph_count": 185,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi017.perseus-lat2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5e108cf5-990d-539a-83b9-147faaccc872",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6207,
+      "paragraph_count": 345,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi017.perseus-eng2:6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 133,
+  "chapter_title": "Chapter 135",
+  "chapter_slug": "133",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c0029f2e-3975-5a1d-b699-ddaa1a481362",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 248,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:133"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0b8de0b6-2c50-5404-9e97-9bcaec710642",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 292,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:133"
+    }
+  ]
+}

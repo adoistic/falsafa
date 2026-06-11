@@ -1,0 +1,26 @@
+{
+  "work_slug": "p-vergilius-maro-virgil-eclogues-87e240",
+  "work_title": "Eclogues",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e54ef047-42e6-504e-b971-c0deab624473",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 804,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:1"
+    }
+  ]
+}

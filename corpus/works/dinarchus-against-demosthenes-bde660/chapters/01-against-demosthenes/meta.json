@@ -1,0 +1,38 @@
+{
+  "work_slug": "dinarchus-against-demosthenes-bde660",
+  "work_title": "Against Demosthenes",
+  "chapter_number": 1,
+  "chapter_title": "Against Demosthenes",
+  "chapter_slug": "01-against-demosthenes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d914f34-36d1-5a7a-9d5a-68b051fd59b7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7517,
+      "paragraph_count": 124,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0029.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "841c07ab-0ad1-532f-8c7d-69e63b75e04d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10067,
+      "paragraph_count": 117,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0029.tlg004.perseus-eng2"
+    }
+  ]
+}

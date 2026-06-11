@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-aristogeiton-i-c862f1",
+  "work_title": "Against Aristogeiton I",
+  "chapter_number": 1,
+  "chapter_title": "Against Aristogeiton I",
+  "chapter_slug": "01-against-aristogeiton-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6af95e88-294e-5f26-a9e9-a8317e3bcfa7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6702,
+      "paragraph_count": 105,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg025.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ccd8d7ab-2165-5548-814f-f68ce2a92b23",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9366,
+      "paragraph_count": 103,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg025.perseus-eng2"
+    }
+  ]
+}

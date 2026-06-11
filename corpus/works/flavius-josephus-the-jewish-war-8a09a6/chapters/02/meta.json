@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-josephus-the-jewish-war-8a09a6",
+  "work_title": "The Jewish War",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4c6c374b-f9f3-5170-acd7-3a6f14440e4b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 22462,
+      "paragraph_count": 654,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6350cc1a-be49-5687-8169-6d3fcbe61d1a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 37936,
+      "paragraph_count": 143,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg004.perseus-eng2:2"
+    }
+  ]
+}

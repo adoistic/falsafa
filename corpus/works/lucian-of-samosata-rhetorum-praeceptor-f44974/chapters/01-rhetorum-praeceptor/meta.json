@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-rhetorum-praeceptor-f44974",
+  "work_title": "Rhetorum praeceptor",
+  "chapter_number": 1,
+  "chapter_title": "Rhetorum praeceptor",
+  "chapter_slug": "01-rhetorum-praeceptor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bff1fa91-8254-57da-8f4d-f39d7fdc33d2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3546,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg037.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a8472eec-a0b5-5589-8e7b-fe267f09294b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4139,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg037.perseus-eng4"
+    }
+  ]
+}

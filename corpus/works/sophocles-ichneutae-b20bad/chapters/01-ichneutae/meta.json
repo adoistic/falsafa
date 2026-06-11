@@ -1,0 +1,38 @@
+{
+  "work_slug": "sophocles-ichneutae-b20bad",
+  "work_title": "Ichneutae",
+  "chapter_number": 1,
+  "chapter_title": "Ichneutae",
+  "chapter_slug": "01-ichneutae",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "85fb8b25-7bbb-5c16-b199-ab408b6a058d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2112,
+      "paragraph_count": 399,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg008.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "569b5ca1-a30b-539e-ab76-ddcc2a5f83eb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2964,
+      "paragraph_count": 140,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg008.perseus-eng2"
+    }
+  ]
+}

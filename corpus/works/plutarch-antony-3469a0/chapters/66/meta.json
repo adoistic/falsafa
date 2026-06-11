@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-antony-3469a0",
+  "work_title": "Antony",
+  "chapter_number": 66,
+  "chapter_title": "Chapter 66",
+  "chapter_slug": "66",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f3f1b0a4-ed4f-5d84-8dcf-f9d60fc75f85",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 250,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg058.perseus-grc2:66"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fefa72b2-bb83-59c7-b888-b2bb29fea2af",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 394,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg058.perseus-eng2:66"
+    }
+  ]
+}

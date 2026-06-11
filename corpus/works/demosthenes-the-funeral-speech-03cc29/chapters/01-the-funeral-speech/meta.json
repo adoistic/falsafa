@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-the-funeral-speech-03cc29",
+  "work_title": "The Funeral Speech",
+  "chapter_number": 1,
+  "chapter_title": "The Funeral Speech",
+  "chapter_slug": "01-the-funeral-speech",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a512c6a8-47ae-5d13-bf38-b8f9c8055659",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2517,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg060.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "12715598-a888-59ec-8c3d-2d308b39a975",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4035,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg060.perseus-eng2"
+    }
+  ]
+}

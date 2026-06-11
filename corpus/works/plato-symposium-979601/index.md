@@ -16,7 +16,7 @@ description: "A drinking party where each guest speaks in praise of love, crowne
 difficulty: Intermediate
 published_year: -380
 total_logical_chapters: 1
-total_variant_entries: 1
+total_variant_entries: 2
 thothica_role: catalog
 ---
 
@@ -26,4 +26,4 @@ A drinking party where each guest speaks in praise of love, crowned by Socrates'
 
 ## Chapters
 
-01. [Symposium](./chapters/01-symposium/) — prose, 1 variant
+01. [Symposium](./chapters/01-symposium/) — prose, 2 variants

@@ -1,0 +1,38 @@
+{
+  "work_slug": "celsus-aulus-cornelius-de-medicina-846bd1",
+  "work_title": "De Medicina",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10ed4398-1d74-5507-bb70-ecbaaa205769",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11651,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0836.phi002.perseus-lat6:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44c524d6-4629-54d7-8a6b-497d1c95e87d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 15927,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0836.phi002.perseus-eng2:4"
+    }
+  ]
+}

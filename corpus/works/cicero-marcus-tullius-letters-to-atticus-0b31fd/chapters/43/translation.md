@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 43
+chapter_title: "Chapter text=A:book=2:letter=23"
+chapter_slug: 43
+variant_id: "66d96b8c-0749-5052-a0fa-597d6c3c767e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 354
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:43"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (IN EPIRUS) ROME (JULY OR AUGUST)
+
+I don¹t think you have ever before read a letter of mine not written by my own hand. You will be able to gather from that how I am distracted with business. For as I had not a moment to spare and was obliged to take a walk in order to refresh my poor voice, I have dictated this while walking. The first thing, then, which I wish you to know is that our friend "Sampsiceramus² is exceedingly dissatisfied with his position, and desires to be restored to the place from which he has fallen; that he confides his annoyance to me, and is without disguise seeking for a remedy—which I don't think can be found. The second thing is that all on that side, whether promoters or mere hangers-on, are falling out of fashion, though no one opposes them: there never was a greater unanimity of feeling or talk everywhere. For myself (for I am sure you wish to know it) I take part in no political deliberations, and have devoted myself entirely to my forensic business and work. Thereby, as may easily be understood, I have frequent occasion to refer to my past achievements and to express my regret. But the brother of our "Iuno" is giving utterance to all kinds of alarming threats, and, while disclaiming them to "Sampsiceramus," makes an open avowal and parade of them to others. Wherefore, loving me as much as I know you do, if you are asleep, wake up; if you are standing, start walking; if you are walking, set off running; if you are running, take wings and fly. You can scarcely believe how much I confide in your advice and wisdom, and above all in your affection and fidelity. The importance of the interests involved perhaps demands a long disquisition, but the close union of our hearts is contented with brevity. It is of very great importance to me that, if you can't be at Rome at the elections, you should at least be here after his election is declared. Take care of your health.

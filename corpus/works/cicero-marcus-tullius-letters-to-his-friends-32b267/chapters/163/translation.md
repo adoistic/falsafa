@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 163
+chapter_title: "Chapter text=F:book=8:letter=14"
+chapter_slug: 163
+variant_id: "af1ad4f7-5d92-5a1d-a7e5-67cbcc4bacbe"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 704
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:163"
+translator: Perseus Digital Library
+---
+
+M. CAELIUS RUFUS TO CICERO (ON HIS JOURNEY HOME) ROME, SEPTEMBER
+
+TAKING Arsaces prisoner and storming Seleucia was not worth your missing the spectacle of events which have been going on here. Your eyes would never have ached again, if you had only seen Domitius's look when he lost the election. It was a very full comitia, and the voting was evidently on party lines: a very few voted from motives of personal connexion or obligation. Accordingly, Domitius is most bitterly angry with me. He never hated any one even of his own friends so much as he does me: and all the more so that he thinks the augurship has been snatched from him unfairly, and that I am at the bottom of it. Now he is furious that people are so much rejoiced at his vexation, and that there was only one man more zealous for Antony than I was. For the young Cn. Domitius himself has given notice of action against the young Cn. Saturninus—who is very unpopular owing to his past life. The trial is now imminent, with good hope, too, of an acquittal, after the acquittal of Sextus Peducaeus. As to high politics—I have often told you in my letters that I see no chance of peace lasting a year; and the nearer the struggle comes, which must come, the clearer does that danger appear. The point, on which the men in power are bound to fight, is this - Cn. Pompeius has made up his mind not to allow C. Caesar to become consul, except on condition of his first handing over his army and provinces: while Caesar is fully persuaded that he cannot be safe if he quits his army. He, however, proposes as a compromise that both should give up their armies. So that mighty love and unpopular union of theirs has not degenerated into mere secret bickering, but is breaking out into open war. Nor can I conceive what line to take in my own conduct—and I feel sure that this doubt will exercise you a good deal also—for between myself and these men there are ties of affection and close connexion, since it is the cause, not the men, that I dislike. I think you are alive to this rule, that men ought in a case of home differences, so long as the contest is carried on constitutionally without an appeal to arms, to follow the party most in the right: when it comes to war and the camp, the stronger party; and to make up one's mind that the safer course is the better. In this quarrel I perceive that Cn. Pompeius has on his side the senate and the iudices: that Caesar will be joined by all whose past life gives them reason to be afraid, or their future no reason to hope: that there is no comparison between their armies. On the whole, there is time enough to weigh the forces of both, and to choose sides. I almost forgot what above everything else I was bound to write to you. Do you know that the censor Appius is doing marvels? Busying himself about statues, pictures, land-owning, and debt with the greatest vigour? He is persuaded that his censorship is a kind of soap or soda. I think he is wrong: while he is meaning to wash off stains, he is really exposing all his veins and vitals. Hurry home, in the name of gods and men! Come as quickly as you can to enjoy a laugh, that a trial under the Scantinian law should be before Drusus, and that Appius should be making regulations about statues and pictures. Believe me, you ought to make haste. Our friend Curio is thought to have acted prudently in his concession as to Pompey's money for his troops. In a word, you want my opinion as to the future. Unless one or the other of these two goes to the Parthian war, I see that a violent quarrel is impending, which the sword and main force will decide. Both are prepared in resolution and forces. If it could only be transacted without extreme danger, fortune is preparing for you a great and enjoyable spectacle.

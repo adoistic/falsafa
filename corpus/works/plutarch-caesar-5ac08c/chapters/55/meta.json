@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-caesar-5ac08c",
+  "work_title": "Caesar",
+  "chapter_number": 55,
+  "chapter_title": "Chapter 55",
+  "chapter_slug": "55",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2603e78b-3a4e-5457-b1ab-808f65a0ecbe",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 162,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2:55"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41e234d7-a8b3-5af6-8404-418561ea4d4d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 242,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2:55"
+    }
+  ]
+}

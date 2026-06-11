@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 352,
+  "chapter_title": "Chapter text=A:book=13:letter=38",
+  "chapter_slug": "352",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c0b58277-9d9c-5d77-bf71-a5fd47c3812a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 422,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:352"
+    }
+  ]
+}

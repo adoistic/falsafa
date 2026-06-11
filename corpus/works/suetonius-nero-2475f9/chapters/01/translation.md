@@ -1,0 +1,21 @@
+---
+work_id: "2475f9a8-4d68-51ad-9a33-09da1364cda0"
+work_slug: "suetonius-nero-2475f9"
+work_title: Nero
+author_name: Suetonius
+chapter_number: 1
+chapter_title: Chapter 1
+chapter_slug: 01
+variant_id: "bdb8b82a-5fcf-5093-b950-57c02c38f45e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 264
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo016.perseus-eng2:1"
+translator: Perseus Digital Library
+---
+
+Two celebrated families, the Calvini and Aenobarbi, sprung from the race of the Domitii. The AEnobarbi derive both their extraction and their cognomen from one Lucius Domitius, of whom we have this tradition:-As he was returning out of the country to Rome, he was met by two young men of a most august appearance, who desired him to announce to the senate and people a victory, of which no certain intelligence had yet reached the city. To prove that they were more than mortals, they stroked his cheeks, and thus changed his hair, which was black, to a bright colour, resembling that of brass; which mark of distinction descended to his posterity, for they had generally red beards. This family had the honour of seven consulships, one triumph, and two censorships; and being admitted into the patrician order, they continued the use of the same cognomen, with no other praenomina, than those of Cneius and Lucius. These, however, they assumed with singular irregularity; three persons in succession sometimes adhering to one of them, and then they were changed alternately. For the first, second, and third of the AEnobarbi had the praenomen of Lucius, and again the three following, successively, that of Cneius, while those who came after were called, by turns, one, Lucius, and the other, Cneius. It appears to me proper to give a short account of several of the family, to show that Nero so far degenerated from the noble qualities of his ancestors, that he retained only their vices; as if those alone had been transmitted to him by his descent.

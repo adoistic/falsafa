@@ -16,7 +16,7 @@ description: "The most memorized text of ancient medicine, beginning with the mo
 difficulty: Beginner
 published_year: -400
 total_logical_chapters: 1
-total_variant_entries: 1
+total_variant_entries: 2
 thothica_role: catalog
 ---
 
@@ -26,4 +26,4 @@ The most memorized text of ancient medicine, beginning with the most famous sent
 
 ## Chapters
 
-01. [Aphorisms](./chapters/01-aphorisms/) — prose, 1 variant
+01. [Aphorisms](./chapters/01-aphorisms/) — prose, 2 variants

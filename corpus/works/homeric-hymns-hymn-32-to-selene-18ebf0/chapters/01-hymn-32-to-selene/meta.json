@@ -1,0 +1,39 @@
+{
+  "work_slug": "homeric-hymns-hymn-32-to-selene-18ebf0",
+  "work_title": "Hymn 32 To Selene",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 32 To Selene",
+  "chapter_slug": "01-hymn-32-to-selene",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ad8e6684-7685-5015-b630-e5bfdb81b615",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 123,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg032.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc5589e0-9592-50a2-ab7d-2ef9e243383c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 179,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg032.perseus-eng2"
+    }
+  ]
+}

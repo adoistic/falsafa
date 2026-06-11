@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 123
+chapter_title: "Chapter text=A:book=6:letter=8"
+chapter_slug: 123
+variant_id: "69669d67-0187-564d-a36b-63f0cbc57406"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 419
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:123"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) EPHESUS, I OCTOBER
+
+JUST as I had resolved to write to you and had actually taken up my pen, Batonius came to me straight from his ship to my house at Ephesus, and gave me your letter on the 29th of September. I am delighted with the pleasant nature of your voyage, with Pilia's opportune appearance, and also, by Hercules, with her remarks about Tullia's marriage. Batonius, however, brought news about Caesar that is really terrifying, and he enlarged still more on the subject in Conversation with Lepta. I hope what he said was false, but it is certainly alarming: that he would on no account dismiss his army; that Of the magistrates-elect the praetors, Cassius the tribune, Lentulus the consul, side with him; that Pompey is thinking of leaving the city. But look here! are you very sorry for the man that is wont to think himself more than a match for the uncle of your sister's son? But what men to be beaten by! However, to business. The Etesian winds have much retarded me. Exactly twenty days, too, were swallowed up by the Rhodian open ship. On the 1st of October, as I am embarking to leave Ephesus, I give this letter to L. Tarquitius, who is leaving the harbour at the same time, but is sailing faster than I am. I am forced to wait for fair weather owing to the open ships and other war vessels of the Rhodians; nevertheless, nothing can exceed the hurry I am in. As to the payment to the Puteolanian, many thanks. Now please look into affairs at Rome, and see what steps you think I ought to take as to the triumph, to which my friends invite me. If it had not been that Bibulus, who, as long as there was a single enemy in Syria, never set foot out of doors any more than he did out of his house at Rome, was exerting himself to get a triumph, I should have been quite indifferent on the matter. Now, however, "'twere base to say no word." But look into the whole matter, that we may be able to decide on our course the day we meet. This is long enough, considering my haste, and that I am giving the letter to a man who will arrive with me, or only a little before me. My son sends his kindest regards to you. Pray give the same from us both to Pilia and your daughter.

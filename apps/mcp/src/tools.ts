@@ -433,12 +433,95 @@ function scanCorpus(
   return results;
 }
 
+// FTS5 fast path: corpus/search.db is built by scripts/build-search-index.ts
+// (the archive-scale plumbing). Opened lazily via node:sqlite; any failure
+// (no file, old Node, bad index) silently falls back to the legacy scan.
+let ftsDb: any | null | undefined;
+function ftsSearch(
+  corpus: Corpus,
+  query: string,
+  scope: "english" | "all",
+  limit: number,
+  workSlugFilter?: string,
+): SearchHit[] | null {
+  if (ftsDb === null) return null;
+  try {
+    if (ftsDb === undefined) {
+      const dbPath = join(corpus.rootPath, "search.db");
+      if (!existsSync(dbPath)) {
+        ftsDb = null;
+        return null;
+      }
+      // node:sqlite on the production runtime (npx/node 22.5+);
+      // bun:sqlite when running from source under bun
+      try {
+        const { DatabaseSync } = require("node:sqlite");
+        ftsDb = new DatabaseSync(dbPath, { readOnly: true });
+      } catch {
+        const { Database } = require("bun:sqlite");
+        ftsDb = new Database(dbPath, { readonly: true });
+      }
+    }
+    // phrase match first (closest to the legacy substring semantics),
+    // then all-tokens AND when the phrase misses
+    const phrase = '"' + query.replace(/"/g, " ").trim() + '"';
+    const tokens = query
+      .replace(/"/g, " ")
+      .split(/\s+/)
+      .filter(Boolean)
+      .map((t) => '"' + t + '"')
+      .join(" AND ");
+    for (const match of [phrase, tokens]) {
+      if (!match || match === '""') continue;
+      const conds = ["hits MATCH ?"];
+      const args: unknown[] = [match];
+      if (scope === "english") conds.push("(variant = 'translation' OR language = 'english')");
+      if (workSlugFilter) {
+        conds.push("work_slug = ?");
+        args.push(workSlugFilter);
+      }
+      const rows = ftsDb
+        .prepare(
+          `SELECT work_slug, work_title, chapter_number, chapter_title, chapter_slug, variant, language, paragraph_id,
+                  snippet(hits, 0, '', '', '...', 28) AS snip
+           FROM hits WHERE ${conds.join(" AND ")} LIMIT ?`,
+        )
+        .all(...args, limit);
+      if (rows.length > 0) {
+        return rows.map((r: any) => ({
+          work_slug: r.work_slug,
+          work_title: r.work_title,
+          chapter_number: r.chapter_number,
+          chapter_title: r.chapter_title,
+          chapter_slug: r.chapter_slug,
+          variant: r.variant,
+          language: r.language,
+          snippet: r.snip,
+          paragraph_id: r.paragraph_id,
+        }));
+      }
+    }
+    return [];
+  } catch {
+    ftsDb = null; // disable for the rest of the process
+    return null;
+  }
+}
+
 export function search_corpus(corpus: Corpus, query: string, options: SearchOptions = {}) {
   if (!query || !query.trim()) {
     return { query, scope: options.scope ?? "english", count: 0, results: [] };
   }
   const scope = options.scope ?? "english";
   const limit = options.limit ?? 30;
+
+  // try the index; null means unavailable, [] means a real miss worth
+  // retrying with the legacy substring scan (hyphenation, punctuation)
+  const fts = options.case_sensitive ? null : ftsSearch(corpus, query, scope, limit, options.work_slug);
+  if (fts && fts.length > 0) {
+    return { query, scope, count: fts.length, results: fts, engine: "fts5" };
+  }
+
   const re = new RegExp(escapeRegex(query), options.case_sensitive ? "g" : "gi");
   const results = scanCorpus(corpus, re, scope, limit, options.work_slug);
 

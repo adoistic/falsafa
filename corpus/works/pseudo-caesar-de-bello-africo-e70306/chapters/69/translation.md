@@ -1,0 +1,21 @@
+---
+work_id: "e7030675-2a66-5a8e-83bd-fff726371b13"
+work_slug: "pseudo-caesar-de-bello-africo-e70306"
+work_title: De Bello Africo
+author_name: "Pseudo-Caesar"
+chapter_number: 69
+chapter_title: Chapter 69
+chapter_slug: 69
+variant_id: "700e3f55-d33d-5428-903b-fdeb51d9ed0e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 310
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0426.phi001.perseus-eng1:69"
+translator: Perseus Digital Library
+---
+
+When he was now not far away from Scipio’s camp, which of necessity he had to pass, Labienus and Afranius with all their cavalry and light-armed troops sprang up and revealed themselves from behind the nearby hills where they had been lurking in ambush, and flung themselves upon his rearguard. Seeing himself thus attacked. Caesar deployed his cavalry to bear the brunt of the enemy onslaught and ordered his legionaries to pile their packs and promptly deliver a counter-attack. As soon as this was under way the enemy cavalry and light-armed troops were without difficulty driven back and dislodged from the hill directly the legions charged. No sooner had Caesar come to the conclusion that the enemy, beaten back and demoralised as they were, would now stop their harrying, and no sooner had he begun to resume his march, than once again they promptly flung themselves from the cover of the nearby hills and attacked Caesar’s legionaries, employing the same tactics as I described above—Numidians and light-armed troops they were, possessed of a marvellous turn of speed, fighting in the ranks of the cavalry and used to keeping pace with the horsemen and doubling forward or retreating at their side. As they repeated this manoeuvre quite frequently, chasing the Julians as they marched and taking to flight when their opponents turned to attack them, and as they would not approach at all close, but employed peculiar tactics and were content with wounding the horses with their javelins, Caesar realised that what they were trying to do was no less than force him to pitch camp at a spot where there was not a drop of water, so that his famished army, which had tasted nothing at all from the fourth watch of the night right up till the tenth hour of the day, should die of thirst—both men and beasts.

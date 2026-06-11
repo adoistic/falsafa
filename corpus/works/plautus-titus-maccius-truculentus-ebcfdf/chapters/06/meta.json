@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-truculentus-ebcfdf",
+  "work_title": "Truculentus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "871e2b10-0348-5f22-a0ce-0d1d62a3eea1",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 774,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi020.perseus-lat2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "42b00d3b-3df6-52be-bf9a-8eb48c2bcadb",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3243,
+      "paragraph_count": 158,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi020.perseus-eng2:6"
+    }
+  ]
+}

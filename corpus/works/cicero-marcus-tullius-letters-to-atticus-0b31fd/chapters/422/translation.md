@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 422
+chapter_title: "Chapter text=A:book=16:letter=1"
+chapter_slug: 422
+variant_id: "510915b3-0a3b-528d-aff3-6bbb63596c30"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 581
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:422"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) PUTEOLI, 8 JULY
+
+I arrived at Puteoli on the 7th. I write this on the following day as I am crossing to Nesis. But on the day of my arrival, as I was at dinner Eros brought me your letter. Is it really so? "Nones ofJuly!" The gods confound them! But one might rage all day long. What could be a greater insult to Brutus than "July"? I come back to my old quousque tandem? I have never seen anything worse. But what is this, pray, about the land-grabbers being cut to pieces at Buthrotum? How also came Plancus to be on the run day and night—for that is whispered to me? I am very anxious to know what it means. I am glad that my going abroad is commended: I must try and get my staying at home praised also. That the Dymaeans should harry the sea after being expelled from their lands is no wonder. There seems to be some protection in making the voyage in company with Brutus. But I think his vessels are small. However, I shall know all about it directly, and will write to you tomorrow. As to Ventidius, I think it is a canard. As to Sextus, it is regarded as certain that he is giving in. If this is true, we must submit to being slaves even without a civil war. What are we to say then? Is our hope in Pansa and the 1st of January? That's all moonshine, considering the drunken and drowsy habits of these men. About the 230 sestertia-capital! Let my son's accounts be put straight. For Ovius has just arrived and his report is much to my satisfaction: among other things it is by no means bad that seventy-two sestertia is enough, and quite liberal, but that Xeno furnishes him very sparingly and stingily. You say that your bill of exchange amounted to more than the rent of the town lots. Well, let the year in which he had the additional expense of the journey be credited with the balance. From the 1st of April next let his allowance be kept to the eighty sestertia. For the town lots now produce that amount. We must see to some settlement for him when he is back in Rome. For I don't think that he could endure that woman as a mother-in-law. About my Cuman villa I aid "no" to Pindarus. Now let me inform you of my motive for sending you a letter-carrier. Young Quintus promises me that he will be a regular Cato. But both father and son urged me to guarantee this to you, though with the understanding that you shouldn't believe it till you had practical proof of it yourself. I will give him a letter such as he desires. Don't let it influence your opinion. I am writing this to prevent your supposing that I am convinced. Heaven send that he carries out his promises! It will be a satisfaction to everyone concerned. But I-well, I will say nothing more. He starts on the 10th. He says he is making a consignment of debts for the 15th, but that he is being very hard pressed. You will judge from my letter what answer to give him. I will write at greater length when I have seen Brutus and am sending Eros back. I quite accept my dear Attica's apology, and love her dearly Give my kind regards to her and Pilia.

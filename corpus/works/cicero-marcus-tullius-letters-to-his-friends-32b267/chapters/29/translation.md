@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 29
+chapter_title: "Chapter text=Q FR:book=2:letter=5"
+chapter_slug: 29
+variant_id: "9db955e7-f384-50f3-99f6-746d08642858"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 584
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:29"
+translator: Perseus Digital Library
+---
+
+TO HIS BROTHER QUINTUS (IN SARDINIA) ROME, 8 APRIL
+
+I have already sent you a letter containing the information of my daughter Tullia having been betrothed to Crassipes on the 4th of April, and other intelligence public and private. The following are the events since then. On the 5th of April, by a decree of the senate, a sum of money amounting to 40,000 sestertia (about £320,000) was voted to Pompey for the business of the corn-supply. But on the same day there was a vehement debate on the Campanian land, the senators making almost as much noise as a public meeting. The shortness of money and the high price of corn increased the exasperation. Nor will I omit the following: the members of the colleges of the Capitolini and the Mercuriales expelled from their society a Roman knight named M. Furius Flaccus, a man of bad character: the expulsion took place when he was at the meeting, and though he threw himself at the feet of each member. On the 6th of April, the eve of my departure from town, I gave a betrothal party to Crassipes. That excellent boy, your and my Quintus, was not at the banquet owing to a very slight indisposition. On the 7th of April I visited Quintus and found him quite restored. He talked a good deal and with great feeling about the quarrels between our wives. What need I say more? Nothing could have been pleasanter. Pomponia, however, had some Complaints to make of you also: but of this when we meet. After leaving your boy I went to the site of your house: the building was going on with a large number of workmen. I urged the contractor Longilius to push on. He assured me that he had every wish to satisfy us. The house will be splendid, for it Can be better seen now than we could judge from the plan: my own house is also being built with despatch. On this day I dined with Crassipes. After dinner I went in my sedan to visit Pompey at his suburban villa. I had not been able to call on him in the daytime as he was away from home. However, I wished to see him, because I am leaving Rome tomorrow, and he is on the point of starting for Sardinia. I found him at home and begged him to restore you to us as soon as possible. "Immediately," he said. He is going to start, according to what he said, on the uth of April, with the intention of embarking at Livorno or Pisa. Mind, my dear brother, that, as soon as he arrives, you seize the first opportunity of setting sail, provided only that the weather is favourable. I write this on the 8th of April before daybreak, and am on the point of starting on my journey, with the intention of stopping today with Titus Tititis at Anagnia. Tomorrow I think of being at Laterium, thence, after five days in Arpinum, going to my Pompeian house, just looking in upon my villa at Cumae on my return journey, with the view—since Milo's trial has been fixed for the 7th of May—of being at Rome on the 6th, and of seeing you on that day, I hope, dearest and pleasantest of brothers. I thought it best that the building at Arcanum should be suspended till your return. Take good care, my dear brother, of your health, and come as soon as possible.

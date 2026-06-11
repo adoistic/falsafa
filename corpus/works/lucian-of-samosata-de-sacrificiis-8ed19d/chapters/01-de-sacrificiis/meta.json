@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-de-sacrificiis-8ed19d",
+  "work_title": "De Sacrificiis",
+  "chapter_number": 1,
+  "chapter_title": "De Sacrificiis",
+  "chapter_slug": "01-de-sacrificiis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f8927c2a-5c86-5b79-83c4-f708df6a77bc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1795,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg027.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fac7f167-ee97-56e1-a61b-368420f4b491",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2174,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg027.perseus-eng4"
+    }
+  ]
+}

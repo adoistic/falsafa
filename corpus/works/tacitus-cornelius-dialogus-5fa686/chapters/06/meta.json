@@ -1,0 +1,38 @@
+{
+  "work_slug": "tacitus-cornelius-dialogus-5fa686",
+  "work_title": "Dialogus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e42f3950-b73f-5e7c-a726-b23ffa1069fb",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 227,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-lat1:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0668af9a-1bef-50ca-8499-7bddb4faa620",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 373,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:6"
+    }
+  ]
+}

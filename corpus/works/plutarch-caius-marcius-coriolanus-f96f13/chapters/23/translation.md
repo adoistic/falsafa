@@ -1,0 +1,29 @@
+---
+work_id: "f96f1302-183b-5a29-bdf9-fccc598789ab"
+work_slug: "plutarch-caius-marcius-coriolanus-f96f13"
+work_title: Caius Marcius Coriolanus
+author_name: Plutarch
+chapter_number: 23
+chapter_title: Chapter 23
+chapter_slug: 23
+variant_id: "41f410bb-51c6-5afe-af87-e2146c2ca04e"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 448
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg016.perseus-eng2:23"
+translator: Bernadotte Perrin
+---
+
+XXIII. It was evening, and many met him, but no man knew him. He proceeded, therefore, to the house of Tullus, and slipping in unawares, took his seat at the hearth in silence, covered his head, and remained there motionless. The people of the house were amazed, and did not venture to raise him up, for his mien and his silence gave him a certain dignity; but they told Tullus, who was at supper, what a strange thing had happened. Tullus rose from table and came to him, and asked him who he was, and why he was come.
+
+At this, then, Marcius uncovered his head, and after a slight pause, said: if thou dost not yet recognize me, Tullus, but disbelievest thine eyes, I must be my own accuser. I am Caius Marcius, he who has wrought thee and the Volscians most harm, and the surname of Coriolanus which I bear permits no denial of this.
+
+I have won no other prize for all the toils and perils which I have undergone than the name which is a badge of my enmity to your people. This, indeed, cannot be taken away from me; but of everything else I have been stripped, through the envy and insolence of the Roman people, and the cowardly treachery of the magistrates and those of my own order. I have been driven into exile, too, and am become a suppliant at thy hearth, not for the sake of security and safety,—for why should I come hither if I were afraid of death?—but with a desire to take vengeance on those who have driven me forth, which I take at once when I put myself in thy power.
+
+If; then, thou art eager to assail thine enemies, come, good Sir, take advantage of my calamities, and make my individual misfortune the good fortune of all the Volscians; I shall fight better for you than I have against you, in just so far as those who know the secrets of their enemies fight better than those who do not. But if thou hast given up hope, neither do I wish to live, nor is it for thine advantage to spare one who has long been an enemy and a foe, and now is unprofitable and useless.
+
+When Tullus heard this, he was wonderfully pleased, and giving him his right hand, said: Rise up, Marcius, and be of good courage. In giving thyself to us, thou bringest us a great good, and thou mayest expect a greater one still from the Volscians. Then he entertained Marcius at table with every mark of kindness, and during the ensuing days they took counsel together concerning the war.

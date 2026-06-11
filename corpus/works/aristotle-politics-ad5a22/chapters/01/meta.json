@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-politics-ad5a22",
+  "work_title": "Politics",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "150cb34c-3e58-5afd-9d3b-23c7911f77cf",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6306,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg035.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c117e50-e500-590c-a1cb-d6f2134e504e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9877,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg035.perseus-eng2:1"
+    }
+  ]
+}

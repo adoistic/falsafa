@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-cataplus-8b0942",
+  "work_title": "Cataplus",
+  "chapter_number": 1,
+  "chapter_title": "Cataplus",
+  "chapter_slug": "01-cataplus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8e5a28e0-4dd0-5098-ab0e-058d13ea75ee",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4042,
+      "paragraph_count": 176,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg016.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ea735d2-77b0-5032-b4a9-201ec040d05e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5211,
+      "paragraph_count": 172,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg016.perseus-eng5"
+    }
+  ]
+}

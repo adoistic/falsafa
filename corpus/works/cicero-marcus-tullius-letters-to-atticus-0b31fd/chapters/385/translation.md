@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 385
+chapter_title: "Chapter text=A:book=14:letter=18"
+chapter_slug: 385
+variant_id: "95497f93-286f-58d5-ad26-b6f96a46236b"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 474
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:385"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) POMPEII, 9 MAY
+
+You are always going on at me for what you consider my extravagance in praising Dolabella's achievement to the skies. Now, though I do highly approve of what he did, I was after all led to speak of it in such high terms by first one and then another letter from you. But Dolabella has entirely lost your favour for the same reason which has made me very bitter with him too. A brazen-faced fellow indeed! He should have paidon the 1st of January: he has not paid yet, and that though he has freed himself from a vast load of debt by the handwriting of Faberius, and has sought an "opening"in the temple of Ops. For a pun is permissible, lest you should think me very much upset. And, in fact, I wrote to him very early in the morning of the 8th. On the same day I received a letter from you at Pompeii—which had travelled very quickly, for it reached me on the third day. But, as I wrote you word on that very day, I sent Dolabella a fairly stinging letter. Even if that does no good, I think he will at any rate be unable to face me when we meet. I think you have settled the business of Albius. As to the debt from Patulcius, your having come to my aid is most kind, and exactly like everything you are always doing. But I seem to have deserted Eros, who is the very man to settle that business, for it was owing to his serious mistake that they went wrong in their accounts. But I will see to that when I meet him. As to Montanus, as I have often mentioned to you before, you will please see to the whole business. I am not at all surprised that Servius spoke to you in a tone of despair as he was leaving town, and I am not a whit behind him in his despairing view of the situation. What our friend Brutus, that unequalled hero, is going to do in the forum, if he does not intend to come to the senate on the 1st of June, I cannot imagine. But he will settle that himself better than I can. Judging from the measures I see in course of preparation, I conclude that little good was done by the Ides of March. Accordingly, I think of going to Greece more and more every day. For I don't see what good I can do my friend Brutus, who—as he writes me word—is contemplating exile for himself. The letter of Leonides did not give me much pleasure. About Herodes I agree with you. I could wish I had read that of Saufeius. I am thinking of leaving Pompeii on the 10th of May.

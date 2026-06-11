@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-otho-ba75d6",
+  "work_title": "Otho",
+  "chapter_number": 13,
+  "chapter_title": "Chapter note",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd7c9144-a3c0-58bb-b24e-70c21713fed1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 106,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo018.perseus-eng2:13"
+    }
+  ]
+}

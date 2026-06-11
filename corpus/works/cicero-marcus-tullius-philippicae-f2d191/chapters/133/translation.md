@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 133
+chapter_title: Chapter 5
+chapter_slug: 133
+variant_id: "69af0f2b-e4f5-584b-af07-88a4bf2c7283"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 451
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:133"
+translator: Perseus Digital Library
+---
+
+Restore then, O conscript fathers, life to him from whom you have taken it. For the life of the dead consists in the recollection cherished of them by the living. Take care that he, whom you without, intending it sent to his death, shall from you receive immortality. And if you by your decree erect a statue to him in the rostra, no forgetfulness of posterity will ever obscure the memory of his embassy. For the remainder of the life of Servius Sulpicius will be recommended to the eternal recollection of all men by many and splendid memorials. The praise of all mortals will forever celebrate his wisdom, his firmness, his loyalty, his admirable vigilance and prudence in upholding the interests of the public. Nor will that admirable, and incredible, and almost godlike skill of his in interpreting the laws and explaining the principles of equity be buried in silence. If all the men of all ages, who have ever had any acquaintance with the law in this city, were got together into one place, they would not deserve to be compared to Servius Sulpicius. Nor was he more skillful in explaining the law than in laying down the principles of justice. Those maxims which were derived from laws, and from the common law, he constantly referred to the original principles of kindness and equity. Nor was he more fond of arranging the conduct of lawsuits than of preventing disputes altogether. Therefore he is not in want of this memorial which a statue will provide; he has other and better ones. For this statue will be only a witness of his honorable death; those actions will be the memorial of his glorious life. So that this will be rather a monument of the gratitude of the senate, than of the glory of the man.
+
+The affection of the son, too, will appear to have great influence in moving us to honor the father; for although, being overwhelmed with grief, he is not present, still you ought to be animated with the same feelings as if he were present. But he is in such distress, that no father ever sorrowed more over the loss of an only son than he grieves for the death of his father. Indeed, I think that it concerns also the fame of Servius Sulpicius the son, that he should appear to have paid all due respect to his father. Although Servius Sulpicius could leave no nobler monument behind him than his son, the image of his own manners, and virtues, and wisdom, and piety, and genius; whose grief can either be alleviated by this honor paid to his father by you, or by no consolation at all.

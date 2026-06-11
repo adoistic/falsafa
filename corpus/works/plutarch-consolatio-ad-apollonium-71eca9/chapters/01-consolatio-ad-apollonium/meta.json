@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-consolatio-ad-apollonium-71eca9",
+  "work_title": "Consolatio ad Apollonium",
+  "chapter_number": 1,
+  "chapter_title": "Consolatio ad Apollonium",
+  "chapter_slug": "01-consolatio-ad-apollonium",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3939580d-0342-5a9a-a2fe-6d964c8ca585",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9235,
+      "paragraph_count": 123,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg076.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bbe92bb9-26db-5729-9a92-281d548ef844",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13572,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg076.perseus-eng4"
+    }
+  ]
+}

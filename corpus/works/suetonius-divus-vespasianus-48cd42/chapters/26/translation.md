@@ -1,0 +1,27 @@
+---
+work_id: "48cd426b-c481-51ce-b541-a84d2907fbc8"
+work_slug: "suetonius-divus-vespasianus-48cd42"
+work_title: Divus Vespasianus
+author_name: Suetonius
+chapter_number: 26
+chapter_title: Chapter note
+chapter_slug: 26
+variant_id: "8aa73126-9bc9-57e2-9e1c-99233d405ae0"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 732
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo020.perseus-eng2:26"
+translator: Perseus Digital Library
+---
+
+NEITHER consanguinity nor adoption, as formerly, but great influence in the army having now become the road to the imperial throne, no person could claim a better title to that elevation than Titus Flavius Vespasian. He had not only served with great reputation in the wars both in Britain and Judaea, but seemed as yet untainted with any vice which could pervert his conduct in the civil administration of the empire. It appears, however, that he was prompted more by the persuasion of friends, than by his own ambition, to prosecute the attainment of the imperial dignity. To render this enterprise more successful, recourse was had to a new and peculiar artifice, which, while well accommodated to the superstitious credulity of the Romans, impressed them with an idea, that Vespasian's destiny to the throne was confirmed by supernatural indications. But, after his elevation, we hear no more of his miraculous achievements.
+
+The prosecution of the war in Britain, which had been suspended for some years, was resumed by Vespasian; and he sent thither Petilius Cerealis, who by his bravery extended the limits of the Roman province. Under Julius Frontinus, successor to the general, the invaders continued to make farther progress in the reduction of the island: but the commander who finally established the dominion of the Romans in Britain, was Julius Agricola, not less distinguished for his military achievements, than for his prudent regard to the civil administration of the country. He began his operations with the conquest of North Wales, whence passing over into the island of Anglesey, which had revolted since the time of Suetonius Paulinus, he again reduced it to subjection. Then proceeding northwards with his victorious army, he defeated the Britons in every engagement, took possession of all the territories in the southern parts of the island, and driving before him all who refused to submit to the Roman arms, penetrated even into the forests and mountains of Caledonia. He defeated the natives under Galgacus, their leader, in a decisive battle; and fixing a line of garrisons between the friths of Clyde and Forth, he secured the Roman province from the incursions of the people who occupied the parts of the island beyond that boundary. Wherever he established the Roman power, he introduced laws and civilization amongst the inhabitants, and employed every means of conciliating their affection, as well as of securing their obedience.
+
+The war in Judaea, which had been commenced under the former reign, was now continued in that of Vespasian; but he left the siege of Jerusalem to be conducted by his son Titus, who displayed great valour and military talents in the prosecution of the enterprise. After an obstinate defence by the Jews, that city, so much celebrated in the sacred writings, was finally demolished, and the glorious temple itself, the admiration of the world, reduced to ashes; contrary, however, to the will of Titus, who exerted his utmost efforts to extinguish the flames.
+
+The manners of the Romans had now attained to an enormous pitch of depravity, through the unbounded licentiousness of the times; and, to the honour of Vespasian, he discovered great zeal in his endeavours to effect a national reformation. Vigilant, active, and persevering, he was indefatigable in the management of public affairs, and rose in the winter before day-break, to give audience to his officers of state. But if we give credit to the whimsical imposition of a tax upon urine, we cannot entertain any high opinion, either of his talents as a financier, or of the resources of the Roman empire. By his encouragement of science, he displayed a liberality, of which there occurs no example under all the preceding emperors, since the time of Augustus. Pliny the elder was now in the height of reputation, as well as in great favour with Vespasian; and it was probably owing not a little to the advice of that minister, that the emperor showed himself so much the patron of Literary men. A writer mentioned frequently by Pliny, and who lived in this reign, was Licinius Mucianus, a Roman knight: he treated of the history and geography of the eastern countries. Juvenal, who had begun his Satires several years before, continued to inveigh against the flagrant vices of the times; but the only author whose writings we have to notice in the present reign, is a poet of a different class.

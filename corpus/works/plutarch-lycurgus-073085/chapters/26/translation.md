@@ -1,0 +1,27 @@
+---
+work_id: "0730857c-32f6-53ee-af86-54b32fecab0a"
+work_slug: "plutarch-lycurgus-073085"
+work_title: Lycurgus
+author_name: Plutarch
+chapter_number: 26
+chapter_title: Chapter 26
+chapter_slug: 26
+variant_id: "0ed12ff6-32b6-569d-ab4c-e4ae620fe341"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 456
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg004.perseus-eng2:26"
+translator: Bernadotte Perrin
+---
+
+The senators were at first appointed by Lycurgus himself, as I have said, from those who shared his counsels; but afterwards he arranged that any vacancy caused by death should be filled by the man elected as most deserving out of those above sixty years of age. And of all the contests in the world this would seem to have been the greatest and the most hotly disputed. For it was not the swiftest of the swift, nor the strongest of the strong, but the best and wisest of the good and wise who was to be elected, and have for the rest of his life, as a victor’s prize for excellence, what I may call the supreme power in the state, lord as he was of life and death, honour and dishonour, and all the greatest issues of life.
+
+The election was made in the following manner. An assembly of the people having been convened, chosen men were shut up in a room near by so that they could neither see nor be seen, but only hear the shouts of the assembly. For as in other matters, so here, the cries of the assembly decided between the competitors. These did not appear in a body, but each one was introduced separately, as the lot fell, and passed silently through the assembly.
+
+Then the secluded judges, who had writing-tablets with them, recorded in each case the loudness of the shouting, not knowing for whom it was given, but only that he was introduced first, second, or third, and so on. Whoever was greeted with the most and loudest shouting, him they declared elected. The victor then set a wreath upon his head and visited in order the temples of the gods. He was followed by great numbers of young men, who praised and extolled him, as well as by many women, who celebrated his excellence in songs, and dwelt on the happiness of his life.
+
+Each of his relations and friends set a repast before him, saying: The city honours thee with this table. When he had finished his circuit, he went off to his mess-table. Here he fared in other ways as usual, but a second portion of food was set before him, which he took and put by. After the supper was over, the women who were related to him being now assembled at the door of the mess-hall, he called to him the one whom he most esteemed and gave her the portion he had saved, saying that he had received it as a meed of excellence, and as such gave it to her. Upon this, she too was lauded by the rest of the women and escorted by them to her home.

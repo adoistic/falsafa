@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-vitioso-pudore-d855ea",
+  "work_title": "De Vitioso Pudore",
+  "chapter_number": 1,
+  "chapter_title": "De Vitioso Pudore",
+  "chapter_slug": "01-de-vitioso-pudore",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1561f773-4e33-5bf6-83d4-aeab7907f539",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3658,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg104.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a61ccbea-2d84-5be1-853b-e989f4e82596",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5981,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg104.perseus-eng2"
+    }
+  ]
+}

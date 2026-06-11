@@ -1,0 +1,25 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 60
+chapter_title: Chapter 45
+chapter_slug: 60
+variant_id: "662dc4ee-2971-5274-9001-bfd0198827db"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 370
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:60"
+translator: Perseus Digital Library
+---
+
+Recollect then, O Marcus Antonius, that day on which you abolished the dictatorship. Set before you the joy of the senate and people of Rome; compare it with this infamous market held by you and by your friends; and then you will understand how great is the difference between praise and profit. But in truth, just as some people, through some disease which has blunted the senses, have no conception of the niceness of food, so men who are lustful, avaricious, and criminal, have no taste for true glory. But if praise can not allure you to act rightly, still can not even fear turn you away from the most shameful actions? You are not afraid of the courts of justice. If it is because you are innocent, I praise you; if because you trust in your power of overbearing them by violence, are you ignorant of what that man has to fear, who on such an account as that does not fear the courts of justice?
+
+But if you are not afraid of brave men and illustrious citizens, because they are prevented from attacking you by your armed retinue, still, believe me, your own fellows will not long endure you. And what a life is it, day and night to be fearing danger from one's own people! Unless, indeed, you have men who are bound to you by greater kindnesses than some of those men by whom he was slain were bound to Caesar; or unless there are points in which you can be compared with him.
+
+In that man were combined genius, method, memory, literature, prudence, deliberation, and industry. He had performed exploits in war which, though calamitous for the republic, were nevertheless mighty deeds. Having for many years aimed at being a king, he had with great labor, and much personal danger, accomplished what he intended. He had conciliated the ignorant multitude by presents, by monuments, by largesses of food, and by banquets; he had bound his own party to him by rewards, his adversaries by the appearances of clemency. Why need I say much on such a subject? He had already brought a free city, partly by fear, partly by patience, into a habit of slavery.

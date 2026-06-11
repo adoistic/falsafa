@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-septem-sapientium-convivium-33a65e",
+  "work_title": "Septem sapientium convivium",
+  "chapter_number": 1,
+  "chapter_title": "Septem sapientium convivium",
+  "chapter_slug": "01-septem-sapientium-convivium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8a9b2503-8e12-55b5-993e-7f9f7fdcff92",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8732,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg079.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "704b8973-582b-5f78-bda0-a73ea36c8c38",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13072,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg079.perseus-eng4"
+    }
+  ]
+}

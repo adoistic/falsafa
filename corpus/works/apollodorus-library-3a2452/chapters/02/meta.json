@@ -1,0 +1,38 @@
+{
+  "work_slug": "apollodorus-library-3a2452",
+  "work_title": "Library",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6556dad1-af5e-5aed-be04-a1f358ec292c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9800,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0548.tlg001.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "deac03a9-3de0-5b60-a23b-05a5f8f6264e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13171,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0548.tlg001.perseus-eng2:2"
+    }
+  ]
+}

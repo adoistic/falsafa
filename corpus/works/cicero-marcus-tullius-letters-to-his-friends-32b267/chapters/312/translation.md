@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 312
+chapter_title: "Chapter text=F:book=12:letter=19"
+chapter_slug: 312
+variant_id: "1a19f7ce-525c-529b-8209-3282aaa2d537"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 281
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:312"
+translator: Perseus Digital Library
+---
+
+TO Q. CORNIFICIUS (IN SYRIA) ROME (?DECEMBER)
+
+I read your letter with very great pleasure. The most gratifying thing in it was to learn that mine had reached your hands; for I felt no doubt that you would find pleasure in reading it. I was afraid it would not reach you. I learn from your letter that the war now raging in Syria and the province of Syria itself have been put in your hands by Caesar. I hope it may turn out to your honour and success. I feel confident that it will do so, for I have full reliance both on your activity and prudence. But what you say as to the suspicion of a Parthian invasion caused me great uneasiness. For I was able to conjecture the amount of your forces, and your letter confirms my calculation. Therefore I can only hope that that nation will not move until the legions reach you, which I hear are on their way But if you have not forces adequate for the struggle, do not forget to follow the policy of M. Bibulus, who kept himself shut up in a very strongly fortified and well-supplied town, as long as the Parthians were in the province. But you will settle these points better on the spot, and in view of the actual circumstances. For myself, I shall continue to feel anxious as to what you are doing, until I know what you have done. I have never had anyone to whom to give a letter without giving one. I beg you to do the same, and above all, when you write to your family, to assure them of my devotion to you.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-suppliants-7dcdf4",
+  "work_title": "Suppliants",
+  "chapter_number": 1,
+  "chapter_title": "Suppliants",
+  "chapter_slug": "01-suppliants",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f5b7cb67-4846-59e1-9b93-a2b601c4092e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7374,
+      "paragraph_count": 1245,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7ac31f7-f27f-5510-8386-4496c0b3df54",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11257,
+      "paragraph_count": 336,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2"
+    }
+  ]
+}

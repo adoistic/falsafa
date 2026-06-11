@@ -1,0 +1,39 @@
+{
+  "work_slug": "ausonius-decimus-magnus-epigrammaton-liber-edc4fe",
+  "work_title": "Epigrammaton Liber",
+  "chapter_number": 1,
+  "chapter_title": "Epigrammaton Liber",
+  "chapter_slug": "01-epigrammaton-liber",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "13dbdb05-57bd-5875-94f8-31508c61fbcd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 107,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10d15cba-11bc-5a60-98e1-e035812d1e20",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5591,
+      "paragraph_count": 115,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa010.perseus-eng1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-corinthians-845e7d",
+  "work_title": "1 Corinthians",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8d461009-6021-55ec-b381-94957dc4aba6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 198,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg007.perseus-grc2:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6556c07f-d563-574f-b71d-56f9c675390f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 277,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg007.perseus-eng2:13"
+    }
+  ]
+}

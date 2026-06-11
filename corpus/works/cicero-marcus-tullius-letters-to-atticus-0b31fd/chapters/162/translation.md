@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 162
+chapter_title: "Chapter text=A:book=8:letter=4"
+chapter_slug: 162
+variant_id: "72410977-a086-526a-863b-b9bc5100d17d"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 379
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:162"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) FORMIAE, 22 FEBRUARY (MORNING)
+
+DIONYSIUS, whom I look upon as your man rather than mine-for though I knew very well what his character was, I yet stood by your judgment rather than my own-without any respect even for your recommendation several times repeated in my hearing, has given himself airs in view of what he thinks will be the state of my fortune. The course of that fortune, however, as far as it can be affected by human wisdom, I shall pilot with a certain amount of skill. What honour, what consideration, what recommendation even to others (the contemptible fellow!) has he not had at my hands? Why, I even preferred to have my judgment attacked by my brother Quintus, and by the world in general, rather than not praise him to the skies: and that my young Ciceros should have some supplementary lessons from myself, rather than look out for another master for them. Good heavens! what a letter I wrote to him! what respect, what affection did it express! You would have said that it was an invitation addressed to a Dicaearchus or an Aristoxenus, not to the greatest windbag and worst teacher in the world. "But he has a good memory." He shall find I have a better! He answered my letter in a tone which I never used to anyone whose case I declined. I always used to say, "If I can," "If I am not prevented by a previous engagement": I never had a defendant so low, so mean, so clearly guilty, so utterly a stranger to myself, that I refused him with the abruptness which he has used without disguise or reserve to me. I never saw such gross ingratitude, a vice which embraces every other. But enough and to spare about him. I have a vessel ready: yet I wait for a letter from you, to know what answer it will contain to the case I put to you for advice. You are aware that at Sulmo Gaius Attius, the Paelignian, has opened the gates to Antony; though there were five cohorts there, and that Q. Lucretius has escaped from the town; that Gnaeus is on his way to Brundisium; that Domitius has been abandoned. It's all over.

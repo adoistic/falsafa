@@ -1,0 +1,39 @@
+{
+  "work_slug": "pindar-olympian-5c7ac9",
+  "work_title": "Olympian",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "17be5c5a-55e3-51fb-a7fd-1e81265e2b5a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 129,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg001.perseus-grc2:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2aa6a30-5b89-565b-b9bd-ac4b0c47b394",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 206,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2:14"
+    }
+  ]
+}

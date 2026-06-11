@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-on-the-trierarchic-crown-a31ae8",
+  "work_title": "On the Trierarchic Crown",
+  "chapter_number": 1,
+  "chapter_title": "On the Trierarchic Crown",
+  "chapter_slug": "01-on-the-trierarchic-crown",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3bfd6ec9-c337-5039-843f-8def1b80267b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1345,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg051.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6c893e5-cbdd-5c77-9ac7-1f18fb7c2412",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2211,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg051.perseus-eng2"
+    }
+  ]
+}

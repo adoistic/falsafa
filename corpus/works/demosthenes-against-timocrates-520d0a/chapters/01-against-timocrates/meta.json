@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-timocrates-520d0a",
+  "work_title": "Against Timocrates",
+  "chapter_number": 1,
+  "chapter_title": "Against Timocrates",
+  "chapter_slug": "01-against-timocrates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3eb7450a-6653-548f-9593-79f4c416920a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 14624,
+      "paragraph_count": 247,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg024.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44a7ac4b-ec90-567c-b1a4-2e15c1d1069a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 21192,
+      "paragraph_count": 244,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg024.perseus-eng2"
+    }
+  ]
+}

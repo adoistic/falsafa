@@ -1,0 +1,38 @@
+{
+  "work_slug": "pindar-nemean-2497ce",
+  "work_title": "Nemean",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c28d0dc2-fd5f-5afb-844e-b4856df950b1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 298,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg003.perseus-grc2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88a55f29-e682-52e3-a545-04ef6b6a6a2f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 491,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg003.perseus-eng2:11"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-first-olynthiac-a2c1dc",
+  "work_title": "First Olynthiac",
+  "chapter_number": 1,
+  "chapter_title": "First Olynthiac",
+  "chapter_slug": "01-first-olynthiac",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f8faa79a-0173-5fef-9cc3-af4af1fe6c24",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1827,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ec9f700-d685-5f74-9e57-1752e793933b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2425,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg001.perseus-eng2"
+    }
+  ]
+}

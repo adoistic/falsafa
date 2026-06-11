@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-quaestiones-convivales-2765f8",
+  "work_title": "Quaestiones Convivales",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "25de6f29-9165-5681-b741-64f04c439d3a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8935,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg112.perseus-grc2:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5dceec3f-4749-5efe-9a7b-1e5348ef6d69",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11545,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg112.perseus-eng2:8"
+    }
+  ]
+}

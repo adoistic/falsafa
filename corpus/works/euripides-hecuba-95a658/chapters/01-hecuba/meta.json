@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-hecuba-95a658",
+  "work_title": "Hecuba",
+  "chapter_number": 1,
+  "chapter_title": "Hecuba",
+  "chapter_slug": "01-hecuba",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "59654d3f-8208-5424-bb07-53fe1cf6d99c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7529,
+      "paragraph_count": 1268,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg007.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ce0e0270-aff1-5f86-9712-caf169484e83",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11528,
+      "paragraph_count": 361,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg007.perseus-eng2"
+    }
+  ]
+}

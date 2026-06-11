@@ -1,0 +1,39 @@
+{
+  "work_slug": "plautus-titus-maccius-persa-3c8744",
+  "work_title": "Persa",
+  "chapter_number": 1,
+  "chapter_title": "Chapter front",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "39180f16-220c-50c3-b215-05fce1977d47",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1406,
+      "paragraph_count": 176,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi014.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ada23a6-e5ec-562f-a5b9-10ad3c020a84",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 315,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi014.perseus-eng2:1"
+    }
+  ]
+}

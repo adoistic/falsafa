@@ -1,0 +1,27 @@
+---
+work_id: "e957824a-e031-5461-892b-7e0e232f8c7c"
+work_slug: "plutarch-phocion-e95782"
+work_title: Phocion
+author_name: Plutarch
+chapter_number: 28
+chapter_title: Chapter 28
+chapter_slug: 28
+variant_id: "bf721257-7096-5dc1-a42e-205f3dfa3337"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 435
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg049.perseus-eng2:28"
+translator: Bernadotte Perrin
+---
+
+Thus the Athenians were obliged to receive a Macedonian garrison, which was under the command of Menyllus, an equitable man and a friend of Phocion. But the measure was held to be an arrogant one, and rather a display of power which delighted in insolence than an occupation due to stress of circumstance. And it came at a time which added not a little to the distress of the people. For the garrison was introduced on the twentieth of the month Boëdromion, while the celebration of the mysteries was in progress, on the day when the god Iacchus is conducted from the city to Eleusis, so that the disturbance of the sacred rite led most men to reflect upon the attitude of the heavenly powers in earlier times and at the present day.
+
+For of old the mystic shapes and voices were vouchsafed to them in the midst of their most glorious successes, and brought consternation and affright upon their enemies; but now, while the same sacred ceremonies were in progress, the gods looked down with indifference upon the most grievous woes of Hellas, and the profanation of the season which had been most sweet and holy in their eyes made it for the future give its name to their greatest evils. Indeed, a few years before this the Athenians had received an oracle from Dodona bidding them guard the summits of Artemis, that strangers might not seize them;
+
+and now, during the days of the festival, when the fillets with which they entwine the mystic chests were dyed, instead of purple they showed a sallow and deathly colour, and, what was more significant still, all the articles for common use which were dyed along with the fillets took the natural hue. Moreover, as a mystic initiate was washing a pig in the harbour of Cantharus, a great fish seized the man and devoured the lower parts of his body as far as the belly, by which Heaven clearly indicated to them in advance that they would be deprived of the lower parts of the city which adjoined the sea, but would retain the upper city.
+
+Now, the garrison, owing to the influence of Menyllus, did no harm to the inhabitants; but the citizens who were deprived of their franchise because of their poverty numbered more than twelve thousand, and those of them who remained at home appeared to be suffering grievous and undeserved wrongs, while those who on this account forsook the city and migrated to Thrace, where Antipater furnished them with land and a city, were like men driven from a captured city.

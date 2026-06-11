@@ -1,0 +1,38 @@
+{
+  "work_slug": "terence-andria-ca4ba7",
+  "work_title": "Andria",
+  "chapter_number": 1,
+  "chapter_title": "Chapter front",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba1c0e30-0ef9-5320-bdc5-dfb55c2f1712",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 832,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi001.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fdaf56cf-029b-5809-b290-130153aef7ba",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 732,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi001.perseus-eng2:1"
+    }
+  ]
+}

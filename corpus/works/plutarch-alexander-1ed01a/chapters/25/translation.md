@@ -1,0 +1,29 @@
+---
+work_id: "1ed01a59-5b16-5718-8041-e1b93b100ba5"
+work_slug: "plutarch-alexander-1ed01a"
+work_title: Alexander
+author_name: Plutarch
+chapter_number: 25
+chapter_title: Chapter 25
+chapter_slug: 25
+variant_id: "e844d765-a6b5-53b1-8204-2bd18407d71d"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 391
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2:25"
+translator: Bernadotte Perrin
+---
+
+The siege of the city had the following issue. While Alexander was giving the greater part of his forces a rest from the many struggles which they had undergone, and was leading up only a few men to attack the walls, in order that the enemy might have no respite, Aristander the seer made a sacrifice, and after taking the omens, declared very confidently to the bystanders that the city would certainly be captured during that month.
+
+His words produced laughter and jesting, since it was then the last day of the month, and the king, seeing that he was perplexed, and being always eager to support his prophecies, gave orders to reckon that day, not as the thirtieth of the month, but as the twenty-eighth; and then, after the trumpet had sounded the signal, he attacked the walls with greater vigour than he had at first intended. The assault became fierce, and even those troops which had been left in camp could not restrain themselves, but ran in throngs to help the assailants, and the Tyrians gave up the fight. So Alexander took the city on that day.
+
+After this, as he was giving siege to Gaza, the principal city of Syria, a clod of earth, which had been dropped from on high by a bird, struck him on the shoulder. The bird alighted on one of the battering-engines, and was at once caught in the network of sinews which were used to give a twist to the ropes.
+
+And the omen was fulfilled as Aristander predicted; for though Alexander was wounded in the shoulder, he took the city. Moreover, as he was dispatching great quantities of the spoils home to Olympias and Cleopatra and his friends, he sent also to Leonidas his tutor five hundred talents’ weight of frankincense and a hundred of myrrh, in remembrance of the hope with which that teacher had inspired his boyhood.
+
+It would seem, namely, that Leonidas, as Alexander was one day sacrificing and taking incense with both hands to throw upon the altar-fire, said to him:— Alexander, when thou hast conquered the spice-bearing regions thou canst be thus lavish with thine incense; now, however, use sparingly what thou hast. Accordingly, Alexander now wrote him: I have sent thee myrrh and frankincense in abundance, that thou mayest stop dealing parsimoniously with the gods.

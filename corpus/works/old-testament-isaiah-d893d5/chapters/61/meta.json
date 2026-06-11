@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-isaiah-d893d5",
+  "work_title": "Isaiah",
+  "chapter_number": 61,
+  "chapter_title": "Chapter 61",
+  "chapter_slug": "61",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "337976ff-88ad-56a3-9502-ea07440dd12e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 220,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1:61"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0aa722d1-5406-5d87-b050-dd9fd4eca1c5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 369,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.perseus-eng2:61"
+    }
+  ]
+}

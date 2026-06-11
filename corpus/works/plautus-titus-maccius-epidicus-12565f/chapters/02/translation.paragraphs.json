@@ -1,0 +1,852 @@
+[
+  {
+    "id": "p-e2f695",
+    "offset": 0,
+    "text": "(Enter THESPRIO, followed by EPIDICUS."
+  },
+  {
+    "id": "p-5f4c2d",
+    "offset": 40,
+    "text": "EPIDICUS:\n(pulling THESPRIO by the cloak.)\nHarkye! young man."
+  },
+  {
+    "id": "p-2a6292",
+    "offset": 103,
+    "text": "THESPRIO:\nWho pulls me by the cloak, when thus in haste?"
+  },
+  {
+    "id": "p-63b503",
+    "offset": 161,
+    "text": "EPIDICUS:\nAn intimate."
+  },
+  {
+    "id": "p-1879d3",
+    "offset": 185,
+    "text": "THESPRIO:\nI confess it; for with your annoyance you are too intimate."
+  },
+  {
+    "id": "p-1d654c",
+    "offset": 256,
+    "text": "EPIDICUS:\nBut do look back, Thesprio!"
+  },
+  {
+    "id": "p-91b439",
+    "offset": 295,
+    "text": "THESPRIO:\n(looking round.)\nWhat? Is it Epidicus that I see?"
+  },
+  {
+    "id": "p-663ca9",
+    "offset": 356,
+    "text": "EPIDICUS:\nWhy surely you’ve the use of your eyes."
+  },
+  {
+    "id": "p-887d10",
+    "offset": 407,
+    "text": "THESPRIO:\nGreetings to you."
+  },
+  {
+    "id": "p-ab1748",
+    "offset": 436,
+    "text": "EPIDICUS:\nMay the Gods grant what you desire. I’m glad that you’ve got here safe."
+  },
+  {
+    "id": "p-488dd4",
+    "offset": 519,
+    "text": "THESPRIO:\nWhat besides?"
+  },
+  {
+    "id": "p-5c5236",
+    "offset": 544,
+    "text": "EPIDICUS:\nAccording to the usage, a dinner shall be given you."
+  },
+  {
+    "id": "p-78f84e",
+    "offset": 608,
+    "text": "THESPRIO:\nI agree."
+  },
+  {
+    "id": "p-620c4b",
+    "offset": 628,
+    "text": "EPIDICUS:\nWhat to do?"
+  },
+  {
+    "id": "p-b8e0b4",
+    "offset": 651,
+    "text": "THESPRIO:\nThat I’ll accept it, if you offer it."
+  },
+  {
+    "id": "p-38ea7c",
+    "offset": 700,
+    "text": "EPIDICUS:\nHow are you? Fare you as you could wish?"
+  },
+  {
+    "id": "p-93b7cb",
+    "offset": 752,
+    "text": "THESPRIO:\nThe proof’s before you."
+  },
+  {
+    "id": "p-7d0a9e",
+    "offset": 787,
+    "text": "EPIDICUS:\nMarvellous! You seem quite plump and hearty."
+  },
+  {
+    "id": "p-afd359",
+    "offset": 843,
+    "text": "THESPRIO:\n(pointing to his left hand.)\nThanks to this."
+  },
+  {
+    "id": "p-886129",
+    "offset": 899,
+    "text": "EPIDICUS:\nWhich, indeed, you ought to have parted with long ago."
+  },
+  {
+    "id": "p-8f482b",
+    "offset": 965,
+    "text": "THESPRIO:\nI’m less of a pilferer now than formerly."
+  },
+  {
+    "id": "p-c1d317",
+    "offset": 1018,
+    "text": "EPIDICUS:\nHow so?"
+  },
+  {
+    "id": "p-b1f195",
+    "offset": 1037,
+    "text": "THESPRIO:\nI rob above-board."
+  },
+  {
+    "id": "p-0288c8",
+    "offset": 1067,
+    "text": "EPIDICUS:\nMay the immortal Gods confound you, with what huge strides you do walk! for when I caught sight of you at the harbour, I began to run at a rapid pace;"
+  },
+  {
+    "id": "p-872994",
+    "offset": 1229,
+    "text": "I was hardly able to overtake you just now."
+  },
+  {
+    "id": "p-647077",
+    "offset": 1274,
+    "text": "THESPRIO:\nYou are a town wit."
+  },
+  {
+    "id": "p-035aef",
+    "offset": 1305,
+    "text": "EPIDICUS:\nI know that you, on the other hand, are a military gentleman."
+  },
+  {
+    "id": "p-450437",
+    "offset": 1378,
+    "text": "THESPRIO:\nSpeak out as boldly as you please."
+  },
+  {
+    "id": "p-6bc59e",
+    "offset": 1424,
+    "text": "EPIDICUS:\nHow say you? Have you been well all along?"
+  },
+  {
+    "id": "p-a234d9",
+    "offset": 1478,
+    "text": "THESPRIO:\nIn a varied way."
+  },
+  {
+    "id": "p-57c251",
+    "offset": 1506,
+    "text": "EPIDICUS:\nThose who are well in a varied way, a race of men of the goat kind or of the panther kind, don’t please me."
+  },
+  {
+    "id": "p-ad6c62",
+    "offset": 1625,
+    "text": "THESPRIO:\nWhat do you wish me to tell you but that which is fact?"
+  },
+  {
+    "id": "p-b73344",
+    "offset": 1692,
+    "text": "EPIDICUS:\nTo answer to these things fairly;"
+  },
+  {
+    "id": "p-48c4c8",
+    "offset": 1737,
+    "text": "how’s our master’s son? Is he well?"
+  },
+  {
+    "id": "p-f919ad",
+    "offset": 1774,
+    "text": "THESPRIO:\nStout as a boxer and an athlete."
+  },
+  {
+    "id": "p-262b00",
+    "offset": 1818,
+    "text": "EPIDICUS:\nYou’ve brought me joyous tidings on your arrival. But where is he?"
+  },
+  {
+    "id": "p-17cb2f",
+    "offset": 1896,
+    "text": "THESPRIO:\nI came here together with him."
+  },
+  {
+    "id": "p-7e0077",
+    "offset": 1938,
+    "text": "EPIDICUS:\nWhere is he then? Unless, perchance, you’ve brought him in your wallet, or, perhaps, in your knapsack."
+  },
+  {
+    "id": "p-7f700f",
+    "offset": 2052,
+    "text": "THESPRIO:\nMay the Gods confound you!"
+  },
+  {
+    "id": "p-31f496",
+    "offset": 2090,
+    "text": "EPIDICUS:\nI want to make enquiries of you. Lend me your attention; attention shall be lent you in return."
+  },
+  {
+    "id": "p-b14166",
+    "offset": 2197,
+    "text": "THESPRIO:\nYou say what’s law."
+  },
+  {
+    "id": "p-7e9628",
+    "offset": 2228,
+    "text": "EPIDICUS:\nIt becomes me to do so."
+  },
+  {
+    "id": "p-4f6723",
+    "offset": 2263,
+    "text": "THESPRIO:\nBut why now are you acting the Praetor over us?"
+  },
+  {
+    "id": "p-66943f",
+    "offset": 2322,
+    "text": "EPIDICUS:\nWhat other person in Athens will you say is more deserving of it than I?"
+  },
+  {
+    "id": "p-efb7ad",
+    "offset": 2406,
+    "text": "THESPRIO:\nBut still, Epidicus, one thing is wanting for your Praetorship."
+  },
+  {
+    "id": "p-d9462f",
+    "offset": 2481,
+    "text": "EPIDICUS:\nWhat, pray?"
+  },
+  {
+    "id": "p-0dac3a",
+    "offset": 2504,
+    "text": "THESPRIO:\nYou shall know; two lictors two osier bundles of twigs—"
+  },
+  {
+    "id": "p-60c7b5",
+    "offset": 2571,
+    "text": "EPIDICUS:\n(shaking his fist at him.)\nWoe unto you! But how say you—?"
+  },
+  {
+    "id": "p-fb645d",
+    "offset": 2641,
+    "text": "THESPRIO:\nWhat is it you ask?"
+  },
+  {
+    "id": "p-34f722",
+    "offset": 2672,
+    "text": "EPIDICUS:\nWhere are the arms of Stratippocles?"
+  },
+  {
+    "id": "p-40b9da",
+    "offset": 2720,
+    "text": "THESPRIO:\nI’ faith, they’ve gone over to the enemy."
+  },
+  {
+    "id": "p-7b9b2d",
+    "offset": 2773,
+    "text": "EPIDICUS:\nWhat, his arms?"
+  },
+  {
+    "id": "p-9b47df",
+    "offset": 2800,
+    "text": "THESPRIO:\nAye, and quickly too."
+  },
+  {
+    "id": "p-17c2c7",
+    "offset": 2833,
+    "text": "EPIDICUS:\nDo you say that seriously?"
+  },
+  {
+    "id": "p-a1961a",
+    "offset": 2871,
+    "text": "THESPRIO:\nSeriously I say it; the enemy have got them."
+  },
+  {
+    "id": "p-ab72f8",
+    "offset": 2927,
+    "text": "EPIDICUS:\nBy my troth, a disgraceful affair."
+  },
+  {
+    "id": "p-fd2573",
+    "offset": 2973,
+    "text": "THESPRIO:\nStill, before now, other persons have done the same. This affair will turn out to his honor."
+  },
+  {
+    "id": "p-c1d317",
+    "offset": 3077,
+    "text": "EPIDICUS:\nHow so?"
+  },
+  {
+    "id": "p-9a347d",
+    "offset": 3096,
+    "text": "THESPRIO:\nBecause it has been so to others before."
+  },
+  {
+    "id": "p-fdd175",
+    "offset": 3148,
+    "text": "EPIDICUS:\nMulciber, I suppose, made the arms which Stratippocles had;"
+  },
+  {
+    "id": "p-4899c0",
+    "offset": 3219,
+    "text": "they flew over to the enemy."
+  },
+  {
+    "id": "p-0c4886",
+    "offset": 3249,
+    "text": "THESPRIO:\nWhy, then, e’en let this son of Thetis lose them; the daughters of Nereus will bring him others."
+  },
+  {
+    "id": "p-4f6102",
+    "offset": 3357,
+    "text": "EPIDICUS:\nOnly this must be looked to, that material may be found for the armourers, if in each campaign he yields a spoil to the enemy."
+  },
+  {
+    "id": "p-aae522",
+    "offset": 3495,
+    "text": "THESPRIO:\nHave done now with these matters."
+  },
+  {
+    "id": "p-057752",
+    "offset": 3540,
+    "text": "EPIDICUS:\nYou yourself make an end of them when you please."
+  },
+  {
+    "id": "p-c27747",
+    "offset": 3601,
+    "text": "THESPRIO:\nCease your enquiries then."
+  },
+  {
+    "id": "p-6e708c",
+    "offset": 3639,
+    "text": "EPIDICUS:\nSay, where is Stratippocles himself?"
+  },
+  {
+    "id": "p-38ffb2",
+    "offset": 3687,
+    "text": "THESPRIO:\nThere is a reason, for which reason he has been afraid to come together with me."
+  },
+  {
+    "id": "p-747a8b",
+    "offset": 3779,
+    "text": "EPIDICUS:\nPray, what is it?"
+  },
+  {
+    "id": "p-b739df",
+    "offset": 3808,
+    "text": "THESPRIO:\nHe doesn’t wish to see his father as yet."
+  },
+  {
+    "id": "p-ea028d",
+    "offset": 3861,
+    "text": "EPIDICUS:\nFor what reason?"
+  },
+  {
+    "id": "p-931823",
+    "offset": 3889,
+    "text": "THESPRIO:\nYou shall hear; because he has purchased out of the spoil a young female captive of charming and genteel figure."
+  },
+  {
+    "id": "p-259740",
+    "offset": 4013,
+    "text": "EPIDICUS:\nWhat is it I hear from you?"
+  },
+  {
+    "id": "p-cdb4bb",
+    "offset": 4052,
+    "text": "THESPRIO:\nThat which I’m telling you."
+  },
+  {
+    "id": "p-19ed2c",
+    "offset": 4091,
+    "text": "EPIDICUS:\nWhy has he purchased her?"
+  },
+  {
+    "id": "p-b09d1a",
+    "offset": 4128,
+    "text": "THESPRIO:\nTo please his fancy."
+  },
+  {
+    "id": "p-04008a",
+    "offset": 4160,
+    "text": "EPIDICUS:\nHow many fancies has this man? For assuredly, before he went away from home to the army, he himself commissioned me, that a music-girl whom he was in love with should be purchased of a Procurer for him. That I have managed to accomplish for him."
+  },
+  {
+    "id": "p-3cb925",
+    "offset": 4417,
+    "text": "THESPRIO:\nWhichever way the wind is at sea, Epidicus, in that direction the sail is shifted."
+  },
+  {
+    "id": "p-2caa94",
+    "offset": 4511,
+    "text": "EPIDICUS:\nWoe unto wretched me! He has utterly undone me!"
+  },
+  {
+    "id": "p-85f2d9",
+    "offset": 4570,
+    "text": "THESPRIO:\nWhat’s the meaning of this? What’s the matter, pray?"
+  },
+  {
+    "id": "p-601605",
+    "offset": 4634,
+    "text": "EPIDICUS:\nWell now—she whom he has bought, at what sum has he purchased her?"
+  },
+  {
+    "id": "p-10c375",
+    "offset": 4712,
+    "text": "THESPRIO:\nA very little."
+  },
+  {
+    "id": "p-fd7212",
+    "offset": 4738,
+    "text": "EPIDICUS:\nThat I don’t ask you."
+  },
+  {
+    "id": "p-2e7926",
+    "offset": 4771,
+    "text": "THESPRIO:\nWhat then?"
+  },
+  {
+    "id": "p-588314",
+    "offset": 4793,
+    "text": "EPIDICUS:\nFor how many minae?"
+  },
+  {
+    "id": "p-749fa2",
+    "offset": 4824,
+    "text": "THESPRIO:\n(holding up all his fingers four times.)\nFor so many."
+  },
+  {
+    "id": "p-b2c2a3",
+    "offset": 4889,
+    "text": "EPIDICUS:\nForty minae?"
+  },
+  {
+    "id": "p-815b6c",
+    "offset": 4913,
+    "text": "THESPRIO:\nFor that purpose, he borrowed the money on interest of a Banker at Thebes, at a didrachm for each silver mina per day."
+  },
+  {
+    "id": "p-eea4f7",
+    "offset": 5043,
+    "text": "EPIDICUS:\nSurprising!"
+  },
+  {
+    "id": "p-1f5450",
+    "offset": 5066,
+    "text": "THESPRIO:\nThis Banker, too, has come together with him, and is dunning for his money."
+  },
+  {
+    "id": "p-a76f7a",
+    "offset": 5153,
+    "text": "EPIDICUS:\nImmortal Gods! now I’m fairly done for!"
+  },
+  {
+    "id": "p-36ba50",
+    "offset": 5204,
+    "text": "THESPRIO:\nWhy so, or.what’s the matter, Epidicus?"
+  },
+  {
+    "id": "p-1e36ed",
+    "offset": 5255,
+    "text": "EPIDICUS:\nHe has proved my ruin!"
+  },
+  {
+    "id": "p-3fb2d3",
+    "offset": 5289,
+    "text": "THESPRIO:\nWho?"
+  },
+  {
+    "id": "p-cf6f47",
+    "offset": 5305,
+    "text": "EPIDICUS:\nWho? He who lost his arms."
+  },
+  {
+    "id": "p-28e013",
+    "offset": 5343,
+    "text": "THESPRIO:\nBut why so?"
+  },
+  {
+    "id": "p-f19cf7",
+    "offset": 5366,
+    "text": "EPIDICUS:\nBecause he himself was every day sending me letters from the army—but I shall hold my tongue; it’s best to do so."
+  },
+  {
+    "id": "p-55dc17",
+    "offset": 5491,
+    "text": "It’s best for a man in servitude to know more than he says; that’s true wisdom."
+  },
+  {
+    "id": "p-6654d6",
+    "offset": 5572,
+    "text": "THESPRIO:\nOn my faith, I don’t understand why you are alarmed. You are frightened, Epidicus; I see it by your countenance. You seem here, in my absence, to have got into some scrape or other."
+  },
+  {
+    "id": "p-5c18c7",
+    "offset": 5765,
+    "text": "EPIDICUS:\nCan’t you cease annoying me?"
+  },
+  {
+    "id": "p-ab641f",
+    "offset": 5805,
+    "text": "THESPRIO:\nI’ll be off.\n(Moves as if going.)"
+  },
+  {
+    "id": "p-0200a8",
+    "offset": 5850,
+    "text": "EPIDICUS:\nStand still; I’ll not let you go from here.\n(Holds him.)"
+  },
+  {
+    "id": "p-776c98",
+    "offset": 5918,
+    "text": "THESPRIO:\nWhy do you hold me back?"
+  },
+  {
+    "id": "p-cecb30",
+    "offset": 5954,
+    "text": "EPIDICUS:\nIs he in love with her whom he has purchased out of the spoil?"
+  },
+  {
+    "id": "p-25afe7",
+    "offset": 6028,
+    "text": "THESPRIO:\nDo you ask me?"
+  },
+  {
+    "id": "p-dd6374",
+    "offset": 6054,
+    "text": "He dotes to death upon her."
+  },
+  {
+    "id": "p-16ab0c",
+    "offset": 6083,
+    "text": "EPIDICUS:\nThe hide will be stripped from off my back."
+  },
+  {
+    "id": "p-c29f15",
+    "offset": 6138,
+    "text": "THESPRIO:\nHe loves her, too, more than ever he loved you."
+  },
+  {
+    "id": "p-3f8fcc",
+    "offset": 6197,
+    "text": "EPIDICUS:\nMay Jupiter confound you!"
+  },
+  {
+    "id": "p-e63d0d",
+    "offset": 6234,
+    "text": "THESPRIO:\nLet me go now; for he has forbidden me to go to our house; he ordered me to come here (pointing to the house) to our neighbour’s, Chaeribulus; there he bade me wait; he’s about to come there himself."
+  },
+  {
+    "id": "p-997ee5",
+    "offset": 6445,
+    "text": "EPIDICUS:\nWhy so?"
+  },
+  {
+    "id": "p-be0536",
+    "offset": 6464,
+    "text": "THESPRIO:\nI’ll tell you;"
+  },
+  {
+    "id": "p-cee32c",
+    "offset": 6490,
+    "text": "because he doesn’t wish to meet with or see his father, before he has paid down this money which is owing for her."
+  },
+  {
+    "id": "p-6bd59b",
+    "offset": 6606,
+    "text": "EPIDICUS:\nO dear! an involved business, i’ faith."
+  },
+  {
+    "id": "p-238efe",
+    "offset": 6657,
+    "text": "THESPRIO:\nDo let go of me, that I may now be off forthwith."
+  },
+  {
+    "id": "p-b1e484",
+    "offset": 6718,
+    "text": "EPIDICUS:\nWhen the old gentleman knows this, our ship will fairly founder."
+  },
+  {
+    "id": "p-5d1f4c",
+    "offset": 6794,
+    "text": "THESPRIO:\nWhat matters it to me in what way you come to your end?"
+  },
+  {
+    "id": "p-d49ea5",
+    "offset": 6861,
+    "text": "EPIDICUS:\nBecause I don’t wish to perish alone; I’d like you to perish with me, well-wisher with well-wisher."
+  },
+  {
+    "id": "p-32e7ef",
+    "offset": 6972,
+    "text": "THESPRIO:\n(tearing himself away from EPIDICUS.)\nAway with you from me to utter and extreme perdition with those terms of yours!"
+  },
+  {
+    "id": "p-de034d",
+    "offset": 7101,
+    "text": "EPIDICUS:\nBe off, then, if you are in great haste about anything."
+  },
+  {
+    "id": "p-b811a2",
+    "offset": 7168,
+    "text": "THESPRIO:\n(aside.)\nI never met with any person from whom I parted with greater pleasure.\n(Goes into the house of CHAERIBULUS.)"
+  },
+  {
+    "id": "p-4d80ab",
+    "offset": 7296,
+    "text": "EPIDICUS:\n(to himself.)\nHe’s gone away from here; you are now alone. In what plight this matter is, you now see, Epidicus. Unless you have some resources in your own self, you are done for. Ruination so great is impending over you—unless you support yourself stoutly, you cannot hold up; to such a degree are mountains of misfortune threatening to tumble on you."
+  },
+  {
+    "id": "p-6bdef7",
+    "offset": 7660,
+    "text": "Neither does any plan just now please me by means of which to find myself disengaged from my entanglement. To my misfortune, by my trickeries I have forced the old man to imagine that he was making purchase of his own daughter; whereas he has bought for his own son a music-girl whom he was fond of, and whom on his departure he commissioned me about. He now, to please his fancy, has brought another one from the army. I’ve lost my hide, for when the old man finds out that he has been played tricks with, he’ll be flaying my back with twigs. But still, do you take all precautions.\n(He stands still and thinKs.)\nThat’s of no use! clearly this head of mine is addled! You are a worthless fellow, Epidicus. (In another tone.) What pleasure have you in being abusive? Because you are forsaking yourself. What am I to do? Do you ask me the question? Why you yourself, in former days, were wont to lend advice to others."
+  },
+  {
+    "id": "p-5c9c67",
+    "offset": 8579,
+    "text": "Well, well; something must be found out. But why delay to go meet the young man, that I may know how the matter stands? And here he is himself. He is in a grave mood. He’s coming with Chaeribulus, his year’s-mate. I’ll step aside here, whence at my leisure I’ll follow their discourse.\n(He steps aside.)"
+  },
+  {
+    "id": "p-06a44c",
+    "offset": 8884,
+    "text": "(Enter STRATIPPOCLES and CHAERIBULUS.)"
+  },
+  {
+    "id": "p-498415",
+    "offset": 8924,
+    "text": "STRATIPPOCLES:\nI’ve told you all the matter, Chaeribulus, and"
+  },
+  {
+    "id": "p-c32f50",
+    "offset": 8987,
+    "text": "I have fully disclosed to you the sum of my griefs and loves."
+  },
+  {
+    "id": "p-44ae12",
+    "offset": 9050,
+    "text": "CHAERIBULUS:\nYou are foolish, Stratippocles, beyond your age and lineage. Does it shame you, because you have bought a captive girl, born of good family, from among the spoil? Who will there be to impute it as a fault to you?"
+  },
+  {
+    "id": "p-c756c7",
+    "offset": 9277,
+    "text": "STRATIPPOCLES:\nThrough doing this, I’ve found that those who are envious are all enemies to me;"
+  },
+  {
+    "id": "p-727b39",
+    "offset": 9374,
+    "text": "but I’ve never offered or criminal assault against her chastity."
+  },
+  {
+    "id": "p-c4b9d9",
+    "offset": 9440,
+    "text": "CHAERIBULUS:\nThen, so far, in my opinion at least, you are a still more deserving man, inasmuch as you are temperate in your passion."
+  },
+  {
+    "id": "p-f40b7b",
+    "offset": 9575,
+    "text": "STRATIPPOCLES:\nHe effects nothing who consoles a desponding man with his words: he is a friend, who, in dubious circumstances, aids in deed when deeds are necessary."
+  },
+  {
+    "id": "p-1a6012",
+    "offset": 9742,
+    "text": "CHAERIBULUS:\nWhat do you wish me to do?"
+  },
+  {
+    "id": "p-8f17c8",
+    "offset": 9783,
+    "text": "STRATIPPOCLES:\nTo lend me forty minae of silver, to be paid to the Banker from whom I borrowed it on interest."
+  },
+  {
+    "id": "p-73454d",
+    "offset": 9895,
+    "text": "CHAERIBULUS:\nOn my word, if I had it, I would not deny you."
+  },
+  {
+    "id": "p-18c919",
+    "offset": 9956,
+    "text": "STRATIPPOCLES:\nWhat then does it signify your being bounteous in talk, if all aid in the matter is dead outright."
+  },
+  {
+    "id": "p-0fea95",
+    "offset": 10071,
+    "text": "CHAERIBULUS:\nWhy faith, I myself am quite wearied and distracted with being dunned."
+  },
+  {
+    "id": "p-db8ff5",
+    "offset": 10156,
+    "text": "STRATIPPOCLES:\nI had rather my friends of that sort were thrust into a furnace than into litigation."
+  },
+  {
+    "id": "p-8d369c",
+    "offset": 10258,
+    "text": "But now I could wish to buy me the assistance of Epidicus at a weighty price, a fellow whom I’ll hand over well-liquored with stripes to the baker, unless he this day finds me forty minae before I’ve mentioned to him the last syllable of the sum."
+  },
+  {
+    "id": "p-73335b",
+    "offset": 10506,
+    "text": "EPIDICUS:\n(apart.)\nThe matter’s all right; he promises well; he’ll keep faith, I trust.\n(Ironically.)\nWithout any expenditure of my own, an entertainment is already provided for my shoulder-blades. I’ll accost the man. (He goes up to STRATIPPOCLES.) The servant Epidicus wishes health to his master Stratippocles, on his arrival from abroad."
+  },
+  {
+    "id": "p-4066c7",
+    "offset": 10849,
+    "text": "STRATIPPOCLES:\n(turning round.)\nWhere is he?"
+  },
+  {
+    "id": "p-29067b",
+    "offset": 10895,
+    "text": "EPIDICUS:\nHere he is; I’m delighted that you have returned safe."
+  },
+  {
+    "id": "p-fdcce4",
+    "offset": 10961,
+    "text": "STRATIPPOCLES:\nI believe you as much in that as I do myself."
+  },
+  {
+    "id": "p-3f19e8",
+    "offset": 11023,
+    "text": "EPIDICUS:\nHave you been well all along?"
+  },
+  {
+    "id": "p-0046f0",
+    "offset": 11064,
+    "text": "STRATIPPOCLES:\nI’ve been free from disease; in mind I’ve been ailing."
+  },
+  {
+    "id": "p-e03755",
+    "offset": 11135,
+    "text": "EPIDICUS:\nAs regarded myself, I’ve taken care of what you entrusted to me; it has been obtained; the female captive has been bought, about which matter you were sending me letters so often."
+  },
+  {
+    "id": "p-2e2830",
+    "offset": 11326,
+    "text": "STRATIPPOCLES:\nYou’ve lost all your labour."
+  },
+  {
+    "id": "p-0ccada",
+    "offset": 11371,
+    "text": "EPIDICUS:\nBut why have I lost it?"
+  },
+  {
+    "id": "p-9cb675",
+    "offset": 11406,
+    "text": "STRATIPPOCLES:\nBecause she is not dear to my heart, nor does she please me."
+  },
+  {
+    "id": "p-cec4fb",
+    "offset": 11483,
+    "text": "EPIDICUS:\nWhat means it, then, that you gave me such strict injunctions, and sent letters to me?"
+  },
+  {
+    "id": "p-863d36",
+    "offset": 11581,
+    "text": "STRATIPPOCLES:\nFormerly I did love her; but now another passion influences my heart."
+  },
+  {
+    "id": "p-6af5a6",
+    "offset": 11667,
+    "text": "EPIDICUS:\nI’ faith, it is a shocking thing for that to be unpleasant for a man which you have managed well for him; where I’ve done well, I’ve in reality done ill, since love has shifted sides."
+  },
+  {
+    "id": "p-a2798d",
+    "offset": 11862,
+    "text": "STRATIPPOCLES:\nI wasn’t right in my mind when I sent those letters to you."
+  },
+  {
+    "id": "p-b7233a",
+    "offset": 11938,
+    "text": "EPIDICUS:\nIs it proper that I should be the atonement for your folly, so as for you to substitute my back as the scape-goat for your folly?"
+  },
+  {
+    "id": "p-11e9e4",
+    "offset": 12079,
+    "text": "STRATIPPOCLES:\nWhy are we making words about that? This man (pointing to himself) has need of forty minae, ready money, and in all haste, for him to pay a Banker, and speedily too."
+  },
+  {
+    "id": "p-575b15",
+    "offset": 12261,
+    "text": "EPIDICUS:\nOnly tell me from what quarter you wish me to get them. From what banker am I to seek them?"
+  },
+  {
+    "id": "p-684eef",
+    "offset": 12364,
+    "text": "STRATIPPOCLES:\nFrom where you like. But if I don’t finger them before sunset, don’t you enter my house; off with yourself to the mill."
+  },
+  {
+    "id": "p-528db9",
+    "offset": 12500,
+    "text": "EPIDICUS:\nYou easily say that without risk and concern, and with a gay heart. I know our floggers; I feel the pain when I’m beaten."
+  },
+  {
+    "id": "p-c799c2",
+    "offset": 12633,
+    "text": "STRATIPPOCLES:\nHow say you now? Will you suffer me to destroy myself?"
+  },
+  {
+    "id": "p-553c93",
+    "offset": 12704,
+    "text": "EPIDICUS:\nDon’t do that. I’ll cope with this peril and bold attempt in preference."
+  },
+  {
+    "id": "p-28e4cc",
+    "offset": 12788,
+    "text": "STRATIPPOCLES:\nNow you please me; now do I commend you."
+  },
+  {
+    "id": "p-0c280d",
+    "offset": 12845,
+    "text": "EPIDICUS:\nI’ll submit to this in any way that’s pleasing to you."
+  },
+  {
+    "id": "p-2b175f",
+    "offset": 12911,
+    "text": "STRATIPPOCLES:\nWhat then is to be done about this music-girl?"
+  },
+  {
+    "id": "p-1c179c",
+    "offset": 12974,
+    "text": "EPIDICUS:\nSome method shall be found out; by some means I’ll disengage myself; some way I shall get extricated."
+  },
+  {
+    "id": "p-62408e",
+    "offset": 13087,
+    "text": "STRATIPPOCLES:\nYou are full of scheming; I know you of old."
+  },
+  {
+    "id": "p-1c4030",
+    "offset": 13148,
+    "text": "EPIDICUS:\nThere is a rich Captain of Eubœa, abounding in plenty of gold, who, when he knows that that one was bought for you, and that this other one has been brought here, will forthwith be entreating you, of his own accord, to transfer that other one to him. But where is she whom you have brought with you?"
+  },
+  {
+    "id": "p-f60eb2",
+    "offset": 13459,
+    "text": "STRATIPPOCLES:\nI shall have her here just now."
+  },
+  {
+    "id": "p-5f15f8",
+    "offset": 13507,
+    "text": "CHAERIBULUS:\nWhat are we now doing here?"
+  },
+  {
+    "id": "p-073081",
+    "offset": 13549,
+    "text": "STRATIPPOCLES:\nLet’s go in-doors here at your house, that, for the present, we may pass this day merrily.\n(They go into the house of CHAERIBULUS.)"
+  },
+  {
+    "id": "p-7a266c",
+    "offset": 13697,
+    "text": "EPIDICUS:\n(to himself.)\nGo in-doors; I’ll now call a council in my heart to adopt measures about this money business, against whom, in especial, war is to be declared, and out of whom I’m to get the money. Epidicus, consider what you are to do; thus suddenly has this business been thrown upon you. But now you must not be slumbering, nor have you any leisure for delay. Now must you be daring!’Tis my fixed determination to lay siege to the old man. I’ll go indoors; I’ll tell the young man, my master’s son, not to walk abroad here, or come anywhere in the way of the old gentleman.\n(Goes into the house of CHAERIBULUS.)"
+  }
+]

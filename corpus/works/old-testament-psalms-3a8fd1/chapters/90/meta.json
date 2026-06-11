@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 90,
+  "chapter_title": "Chapter 90",
+  "chapter_slug": "90",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cfc4bed0-b831-57aa-a9f8-5c12a81f515d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 209,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:90"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a346ae75-aaf1-52ca-936e-3ffcf65d2a82",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 295,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:90"
+    }
+  ]
+}

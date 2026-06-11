@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-stoicorum-repugnantiis-145216",
+  "work_title": "De Stoicorum repugnantiis",
+  "chapter_number": 1,
+  "chapter_title": "De Stoicorum repugnantiis",
+  "chapter_slug": "01-de-stoicorum-repugnantiis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2a2683f7-c0af-5ffd-80b0-dfa4dc60831e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12073,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg136.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c4a69ee-ff9d-5ee5-8a60-0049b0928268",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16541,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg136.perseus-eng2"
+    }
+  ]
+}

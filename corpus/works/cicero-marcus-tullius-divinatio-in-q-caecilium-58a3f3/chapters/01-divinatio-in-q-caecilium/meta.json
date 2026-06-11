@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-divinatio-in-q-caecilium-58a3f3",
+  "work_title": "Divinatio in Q. Caecilium",
+  "chapter_number": 1,
+  "chapter_title": "Divinatio in Q. Caecilium",
+  "chapter_slug": "01-divinatio-in-q-caecilium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e89f3cc5-5859-569f-aae6-4aaf22c615c9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5632,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi004.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7275d5f8-fcc0-597a-a008-e7ea77a20c72",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10351,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi004.perseus-eng2"
+    }
+  ]
+}

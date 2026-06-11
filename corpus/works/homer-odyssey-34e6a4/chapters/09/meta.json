@@ -6,10 +6,23 @@
   "chapter_slug": "09",
   "layout": "prose",
   "layouts_in_variants": [
+    "verse",
     "prose"
   ],
   "default_variant": "translation.md",
   "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c886bd59-f065-56f7-af1f-fa021af9f72f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4041,
+      "paragraph_count": 566,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:9"
+    },
     {
       "file": "translation.md",
       "content_type": "translation",

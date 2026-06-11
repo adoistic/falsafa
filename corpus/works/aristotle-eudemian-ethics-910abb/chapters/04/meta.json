@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-eudemian-ethics-910abb",
+  "work_title": "Eudemian Ethics",
+  "chapter_number": 4,
+  "chapter_title": "Book 7",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c173b97f-869c-5ccf-831d-b7db7db2fba4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8591,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg009.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b741f29-ab06-5662-a269-2d1881ee3158",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12996,
+      "paragraph_count": 199,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg009.perseus-eng2:4"
+    }
+  ]
+}

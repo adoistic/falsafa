@@ -1,0 +1,45 @@
+---
+work_id: "5c7ac936-bfc5-5422-99dc-b48968e04ea6"
+work_slug: "pindar-olympian-5c7ac9"
+work_title: Olympian
+author_name: Pindar
+chapter_number: 7
+chapter_title: Chapter 7
+chapter_slug: 07
+variant_id: "ac8c7c5f-618d-5c32-9afb-1656d25f1cd5"
+content_type: translation
+layout: verse
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 1105
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2:7"
+translator: Diane Svarlien
+---
+
+As when someone takes a goblet, all golden, the most prized of his possessions, foaming with the dew of the vine from a generous hand, and makes a gift of it to his young son-in-law, welcoming him with a toast from one home to another, honoring the grace of the symposium and the new marriage-bond, and thereby, in the presence of his friends, makes him enviable for his harmonious marriage-bed;
+
+I too, sending to victorious men poured nectar, the gift of the Muses, the sweet fruit of my mind, I try to win the gods’ favor for those men who were victors at Olympia and at Pytho, That man is prosperous, who is encompassed by good reports. Grace, which causes life to flourish, looks with favor now on one man, now on another, with both the sweet-singing lyre and the full-voiced notes of flutes.
+
+And now, with the music of flute and lyre alike I have come to land with Diagoras, singing the sea-child of Aphrodite and bride of Helios, Rhodes, so that I may praise this straight-fighting, tremendous man who had himself crowned beside the Alpheus and near Castalia, as a recompense for his boxing, and also his father Damagetus, a man pleasing to Justice, living on the island of three cities near the foreland of spacious Asia, among Argive spearmen.
+
+I shall want to proclaim my message for them, the widely powerful race of Heracles, and tell correctly from the beginning, from Tlepolemus, the story that concerns all. For, on the father’s side, they boast descent from Zeus, while, on the mother’s, they are descendants of Amyntor, through Astydameia. But around the minds of men countless errors loom; and this is impossible to discover:
+
+what is best to happen to a man, now and in the end. For indeed, striking Licymnius, the bastard brother of Alcmena, with a staff of hard olive-wood as he came out of the chamber of Midea, the founder of this land once killed that man, in anger. Disturbances of the mind lead astray even a wise man. Tlepolemus went and sought the god’s oracle.
+
+To him the golden-haired god spoke, from his fragrant sanctuary, of a voyage by ship from the shore of Lerna straight to the pasture land with sea all around it, where once the great king of the gods showered the city with golden snow, when, by the skills of Hephaestus with the bronze-forged hatchet, Athena leapt from the top of her father’s head and cried aloud with a mighty shout. The Sky and mother Earth shuddered before her.
+
+Then even the god that brings light to mortals, son of Hyperion, enjoined his dear children to observe the obligation that was soon to be due: that they should be the first to build for the goddess an altar visible to all men, and by founding a sacred burnt-offering warm the spirit of the father and of the daughter who thunders with her spear. She who casts excellence and joys into men is the daughter of Forethought, Reverence.
+
+Truly, a cloud of forgetfulness sometimes descends unexpectedly, and draws the straight path of action away from the mind. For they climbed the hill without bringing the seed of burning flame; and they established the sacred precinct on the acropolis with fireless sacrifices. Zeus brought to them a yellow cloud and rained on them abundant gold. And the gray-eyed goddess herself bestowed on them every art, so that they surpassed all mortal men as the best workers with their hands; and the roads bore works of art like living, moving creatures, and their fame was profound. For a wise craftsman, even superior skill is free from guile. The ancient stories of men tell that when Zeus and the immortals were dividing the earth among them, Rhodes was not yet visible in the expanse of the sea, but the island was hidden in the salty depths.
+
+Helios was absent, and no one marked out a share for him; in fact they left him without any allotment of land, although he was a holy god. And when Helios mentioned it, Zeus was about to order a new casting of lots, but Helios did not allow him. For he said that he himself saw in the gray sea, growing from the bottom, a rich, productive land for men, and a kindly one for flocks.
+
+And he bid Lachesis of the golden headband raise her hands right away, and speak, correctly and earnestly, the great oath of the gods, and consent with the son of Cronus that that island, when it had risen into the shining air, should thereafter be his own prize of honor. And the essence of his words was fulfilled and turned out to be true. There grew from the waters of the sea an island, which is held by the birthgiving father of piercing rays, the ruler of fire-breathing horses. And there he once lay with Rhodes, and begat seven sons who inherited from him the wisest minds in the time of earlier men; and of these one begat Cameirus, and Ialysus the eldest, and Lindus, Each had his own separate share of cities in their threefold division of their father’s land, and their dwelling-places were named after them.
+
+There it is that a sweet recompense for his pitiful misfortune is established for Tlepolemus, the first leader of the Tirynthians, as for a god:
+
+a procession of flocks for burnt sacrifice and the trial of contests. With the flowers from these Diagoras has had himself crowned twice, and at the renowned Isthmus four times, in his good fortune, and again and again at Nemea and in rocky Athens;
+
+and the prizes of the bronze shield in Argos and the works of art in Arcadia and Thebes are familiar with him, and the duly ordered contests of the Boeotians, and Pellana and Aegina, where he was six times victor. And in Megara the list carved in stone gives no other account. But, Father Zeus, you who rule over the ridges of Atabyrium, grant honor to the hymn ordained in praise of an Olympian victor, and to the man who has found excellence as a boxer, and grant to him honored grace in the eyes of both citizens and strangers. For he walks a straight course on a road that hates arrogance, knowing clearly the sound prophetic wisdom of his good ancestors. Do not bury in obscurity the shared seed of Callianax. When the Eratidae are graced with victories, the city too holds festivities; but in a single space of apportioned time the winds shift quickly from moment to moment.

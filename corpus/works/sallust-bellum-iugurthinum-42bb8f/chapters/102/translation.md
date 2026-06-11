@@ -1,0 +1,25 @@
+---
+work_id: "42bb8ffd-42cc-5876-ac1a-70a998d0ec3b"
+work_slug: "sallust-bellum-iugurthinum-42bb8f"
+work_title: Bellum Iugurthinum
+author_name: Sallust
+chapter_number: 102
+chapter_title: Chapter 102
+chapter_slug: 102
+variant_id: "b42bf1fb-5131-5dce-b367-6fbe1afb367d"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 590
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-eng2:102"
+translator: Perseus Digital Library
+---
+
+At length the consul, now indisputably victor, arrived at the town of Cirta, whither he had at first intended to go. To this place, on the fifth day after the second defeat of the barbarians, came messengers from Bocchus, who, in the king's name, requested of Marius to send him two persons in whom he had full confidence, as he wished to confer with them on matters concerning both the interest of the Roman people and his own. Marius immediately dispatched Sylla and Aulus Manlius; who, though they went at the king's invitation, thought proper, notwithstanding, to address him first, in the hope of altering his sentiments, if he were unfavorable to peace, or of strengthening his inclination, if he were disposed to it. Sylla, therefore, to whose superiority, not in years but in eloquence, Manlius yielded precedence, spoke to Bocchus briefly as follows:
+
+"It gives us great pleasure, King Bocchus, that the gods have at length induced a man, so eminent as yourself, to prefer peace to war, and no longer to stain your own excellent character by an alliance with Jugurtha, the most infamous of mankind; and to relieve us, at the same time, from the disagreeable necessity of visiting with the same punishment your errors and his crimes. Besides, the Roman people, even from the very infancy of their state, have thought it better to seek friends than slaves, thinking it safer to rule over willing than forced subjects. But to you no friendship can be more suitable than ours; for, in the first place, we are at a distance from you, on which account there will be the less chance of misunderstanding between us, while our good feeling for you will be as strong as if we were near; and, secondly, because, though we have subjects in abundance, yet neither we, nor any other nation, can ever have a sufficiency of friends. Would that such had been your inclination from the first; for then you would assuredly, before this time, have received from the Roman people more benefits than you have now suffered evils. But since Fortune has the chief control in human affairs, and it has pleased her that you should experience our force as well as our favor, now, when she gives you this fair opportunity, embrace it without delay, and complete the course which you have begun. You have many and excellent means of atoning, with great ease, for past errors by future services. Impress this, however, deeply on your mind, that the Roman people are never outdone in acts of kindness; of their power in war you have already sufficient knowledge."
+
+To this address Bocchus made a temperate and courteous reply, offering a few observations, at the same time, in extenuation of his error; and saying " that he had taken arms, not with any hostile feeling, but to defend his own dominions, as part of Numidia, out of which he had forcibly driven Jugurtha, was his by right of conquest, and he could not allow it to be laid waste by Marius; that when he formerly sent embassadors to the Romans, he was refused their friendship; but that he would say nothing more of the past, and would, if Marius gave him permission, send another embassy to the senate." But no sooner was this permission granted, than the purpose of the barbarian was altered by some of his friends, whom Jugurtha, hearing of the mission of Sylla and Manlius, and fearful of what was intended by it, had corrupted with bribes.

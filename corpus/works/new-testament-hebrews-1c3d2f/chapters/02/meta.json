@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-hebrews-1c3d2f",
+  "work_title": "Hebrews",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "86909877-83ed-5a4f-8bbb-ecd4d8cf69f3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 324,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg019.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "256c68cd-6e08-5b5f-ac9f-f10c85bc961c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 454,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg019.perseus-eng2:2"
+    }
+  ]
+}

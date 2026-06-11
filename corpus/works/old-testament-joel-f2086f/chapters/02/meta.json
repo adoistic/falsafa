@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-joel-f2086f",
+  "work_title": "Joel",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5565430c-868b-5122-9576-48d158af71ba",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1100,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg039.1st1K-grc1:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b53fc5ae-1811-5cc1-a3cf-73e7b01867f9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 903,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg039.perseus-eng2:2"
+    }
+  ]
+}

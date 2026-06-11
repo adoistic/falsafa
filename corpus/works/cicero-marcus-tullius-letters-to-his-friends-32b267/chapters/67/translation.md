@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 67
+chapter_title: "Chapter text=F:book=7:letter=10"
+chapter_slug: 67
+variant_id: "2423e946-4147-5aac-b3a7-914720b80ec1"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 476
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:67"
+translator: Perseus Digital Library
+---
+
+TO C. TREBATIUS TESTA (IN GAUL) ROME (NOVEMBER)
+
+I have read your letter which informs me that our Caesar considers you a great lawyer. You must be glad to have found a country where you have the credit of knowing something. But if you had gone to Britain also, I feel sure that there would not have been in all that great island anyone more learned in the law than you. However—you won't mind my laughing, for you invited me to do so—I am becoming positively a little jealous of you! That you should have been actually sent for by a man whom other people—not because of his pride, but of his many engagements—cannot venture to approach! But in that letter you told me nothing about your success, which, by heaven, is of no less concern to me than my own. I am very much afraid you may be frozen in your winter quarters: and therefore I think you ought to use a good stove. Mucius and Manilius "concur" in this opinion, especially on the ground of your being short of military cloaks. However, I am told that you are having a sufficiently warm time of it where you are—news which made me much alarmed for you. However, in military matters you are much more cautious than at the bar, seeing that you wouldn't take a swim in the ocean, fond of swimming as you are, and wouldn't take a look at the British charioteers, though in old time I could never cheat you even out of a blind-folded gladiator. But enough of joking. You know how earnestly I have written to Caesar about you; I know bow often. Yet, in truth, I have lately ceased doing so, lest I should appear to distrust the kindness of a man who has been most liberal and affectionate to me. However, in the very last letter I wrote I thought he ought to be reminded. I did so. Please tell me what effect it had, and at the same time tell me about your position in general and all your plans. For I am anxious to know what you are doing, what you are expecting, how long your separation from us you think is to last. I would wish you to believe that the one consolation, enabling me to bear your absence, is the knowledge that it is for your advantage. But if that is not so, nothing can be more foolish than both the one and the other of us: me for not inducing you to come back to Rome—you for not flying thither. By heavens, our conversation, whether serious or jesting, will be worth more not only than the enemy, but even than our "brothers" the Haedui. Wherefore let me know about everything as soon as possible: I'll be some use by comfort, rede, or peif.

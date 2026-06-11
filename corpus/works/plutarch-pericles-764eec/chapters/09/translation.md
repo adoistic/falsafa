@@ -1,0 +1,27 @@
+---
+work_id: "764eec7b-e2b1-5542-bb57-9ac51470d177"
+work_slug: "plutarch-pericles-764eec"
+work_title: Pericles
+author_name: Plutarch
+chapter_number: 9
+chapter_title: Chapter 9
+chapter_slug: 09
+variant_id: "9bfea851-c135-511e-8fa6-8fdf5cb1b3b6"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 372
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:9"
+translator: Bernadotte Perrin
+---
+
+Thucydides describes the administration of Pericles as rather aristocratic,— in name a democracy, but in fact a government by the greatest citizen. But many others say that the people was first led on by him into allotments of public lands, festival-grants, and distributions of fees for public services, thereby falling into bad habits, and becoming luxurious and wanton under the influence of his public measures, instead of frugal and self-sufficing. Let us therefore examine in detail the reason for this change in him.
+
+In the beginning, as has been said, pitted as he was against the reputation of Cimon, he tried to ingratiate himself with the people. And since he was the inferior in wealth and property, by means of which Cimon would win over the poor,—furnishing a dinner every day to any Athenian who wanted it, bestowing raiment on the elderly men, and removing the fences from his estates that whosoever wished might pluck the fruit,—Pericles, outdone in popular arts of this sort, had recourse to the distribution of the people’s own wealth. This was on the advice of Damonides, of the deme Oa, as Aristotle has stated.
+
+And soon, what with festival-grants and jurors’ wages and other fees and largesses, he bribed the multitude by the wholesale, and used them in opposition to the Council of the Areiopagus. Of this body he himself was not a member, since the lot had not made him either First Archon, or Archon Thesmothete, or King Archon, or Archon Polemarch. These offices were in ancient times filled by lot, and through them those who properly acquitted themselves were promoted into the Areiopagus.
+
+For this reason all the more did Pericles, strong in the affections of the people, lead a successful party against the Council of the Areiopagus. Not only was the Council robbed of most of its jurisdiction by Ephialtes, but Cimon also, on the charge of being a lover of Sparta and a hater of the people, was ostracized, —a man who yielded to none in wealth and lineage, who had won most glorious victories over the Barbarians, and had filled the city full of money and spoils, as is written in his Life. Such was the power of Pericles among the people.

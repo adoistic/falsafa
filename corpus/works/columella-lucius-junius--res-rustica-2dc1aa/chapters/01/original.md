@@ -1,0 +1,93 @@
+---
+work_id: "2dc1aabe-e7d4-5dda-91d7-f43b0c19d2bf"
+work_slug: "columella-lucius-junius--res-rustica-2dc1aa"
+work_title: Res Rustica
+author_name: Columella, Lucius Junius Moderatus
+chapter_number: 1
+chapter_title: Book 1
+chapter_slug: 01
+variant_id: "4b1e0784-da36-580f-b1c1-f1cd602fc186"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1797
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0845.phi002.perseus-lat3:1"
+curator: thothica
+---
+
+Saepenumero civitatis nostrae principes audio culpantes modo agrorum infecunditatem, modo caeli per multa iam tempora noxiam frugibus intemperiem; quosdam etiam praedictas querimonias velut ratione certa mitigantes, quod existiment ubertate nimia prioris aevi defatigatum et effetum munis omnium parens dicta sit, quia et cuncta peperit semper et deinceps paritura sit, velut hominem consenuisse.
+
+Nec post haec reor violentia vel, quod magis mirandum est, contemptissimorum vitiorum officinas, gulosius condiendi cibos et luxuriosius fercula semperque ritu volucrum longinqui litoris peregrinus ignotum pererret orbem? An faeneratio probabilior sit, etiam his invisa quibus succurrere videtur? Sed ne caninum cum ignorantiae detrimentis multa pensaret, nec quorum commodum ageretur, tota vita vellent imprudentes negotii sui conspici eoque discendi cupidiores agricolationem pernoscerent.
+
+Nunc et ipsi praedia nostra colere dedignamur et nullius momenti ducimus peritissimum quemque vilicum facere vel, si nescium, certe vigoris experrecti, quo celerius, quod ignoret, tionis, ex qua Quinctius Cincinnatus, obsessi consulis et exercitus liberator, ab aratro vocatus ad dictaturam venerit ac rursus fascibus depositis, quos festinantius victor reddiderat quam sumpserat imperator, ad eosdemiuvencosetquattuoriugerum avitum herediolum redierit, itemque C.
+
+Fabricius et Curius Dentatus, alter Pyrrho finibus Italiae pulso, domitis alter Sabinis, accepta, quae viritim dividebantur, captivi agri septem iugera non minus industrie coluerit, quam fortiter armis quaesierat; et ne singulos intempestive nunc persequar, cum tot alios Romani generis intuear memorabiles duces hoc semper duplici studio floruisse vel defendendi vel colendi patrios quaesitosve fines, intellego luxuriae et deliciis nostris pristinum morem virilemque vitam displicuisse.
+
+Omnes enim, sicut M. Varro iam temporibus avorum conquestus est, patres familiae falce et aratro relictis intra murum correpsimus et in circis potius ac theatris quam in segetibus ac vinetis denegatum muliebri motu mentiantur decipiantque oculos spectantium.
+
+'Mox deinde, ut apti veniamus ad ganeas, cotidianam cruditatem Laconicis festum est propterea usurpatos, ut nonis tantummodo diebus urbanae res agerentur, reliquis administrarentur rusticae. Illis enim temporibus, ut ante iam diximus, proceres civitatis in agris morabantur et, cum consilium publicum desiderabatur, a villis arcessebantur quandam vastitatem corporis aut partium eius velut singulorum membrorum subtilitatem dispicio, melius respondet, quibusdam sicut in Africa Numidiaque generibus ficorum sicut rosariis impenderet curam, cum a plerisque etiam maiora neglegantur, proximis et procul a secundis sacras concessere sedes? Nec Brutum aut Caelium Pollionemve cum Messala et Calvo
+
+Melampodis, et in agrorum solique molitione Triptolemi aut Aristaei prudentiam, multum tamen profecerit si usu Tremelios Sasernasque et Stolones nostros aequaverit.
+
+Potest enim nec subtilissima nec rursus, quod aiunt, pingui Minerva res agrestis administrari. Nam illud procul vero est, quod plerique crediderunt, facillimam esse nec ullius acuminis rusticationem. De cuius universitate nihil attinet plura nunc disserere, quoniam1 quidem cunctae partes eius destinatis aliquot voluminibus explicandae sunt, quas ordine suo tunc demum persequar, cum praefatus fuero quae reor ad universam disciplinam maxime pertinere.
+
+Qui studium agricolationi dederit, antiquissima sciat haec sibi advocanda: prudentiam rei, facultatem impendendi, voluntatem agendi. Nam is demum cultissimum rus habebit, ut ait Tremelius, qui et colere sciet et poterit et volet. Neque enim scire aut velle cuiquam satis fuerit sine sumptibus, quos exigunt opera;
+
+nec rursus faciendi aut impendendi voluntas profuerit sine arte, quia caput est in omni negotio nosse quid agendum sit, maximeque in agri cultura, in qua voluntas facultasque citra scientiam saepe magnam dominis adferunt iacturam, cum imprudenter facta opera frustrantur impensas.
+
+Itaque diligens pater familliae, cui cordi est ex agri cultu certam sequi rationem rei familiaris augendae, maxime curabit ut et
+
+Liberique vindemiis exuberent. Sed haec sive falsa seu
+
+Chaereas, Aristandros, Amphilochus, Euphronius, Chrestus1—Euphronius gentis fuit) iam nunc M. Catonem Censorium illum memoremus, qui eam latine loqui primus instituit, post hunc duos Sasernas, patrem et filium, contrahas, advocato in consilium, nec tamen sic mente dispositus velut summam totius rei sententiis eorum consecuturus, quippe urbanum domicilium, rustico praedio non erit opus."
+
+Quod ego praeceptum, si posset his temporibus observari, non immutarem. Nunc quoniam faciendum sit non docet, sed audit vilicum. Quapropter vel a maioribus traditum possidenti vel empturo fundum praecipua cura sit scire, quod maxime regionis genus probetur, ut vel careat inutili vel mercetur laudabilem.
+
+Quod si voto fortuna subscribit,
+
+Sed haec positio, quam desideramus, difficilis et rara paucis contingit; proxima est huic, quae plurima ex his habet; tolerabilis, quae non paucissima.
+
+Porcius quidem Cato censebat inspiciendo agro 1 praecipue duo esse consideranda, salubritatem caeli et ubertatem loci; quorum si alterum deesset ac nihilo minus quis vellet incolere mente esse captum atque eum ad agnatos et gentiles deducendum.
+
+Neminem enim sanum debere facere sumptus in cultura sterilis soli, nec rursus pestilenti quamvis feracissimo pinguique agro dominum ad fructus pervenire. Nam ubi sit cum Orco ratio ponenda, ibi non modo perceptionem fructuum, sed et vitam colonorum esse dubiam vel potius mortem quaestu certiorem.
+
+Post haec duo principalia subiungebat illa non minus intuenda: viam, aquam, vicinum.
+
+et minuit impensas rerum invectarum, quia minoris adportentur eo, quo facili nisu perveniatur;
+
+nec non aliter existimamus diversum orbem gentes universas petisse relicto patrio solo, Achaeos dico et Hiberos, Albanos quoque nec minus Siculos et, ut primordia nostra contingam, Pelasgos, Aborigines, Arcadas, quam quia malos vicinos ferre non potuerant. Ac ne tantum de publicis calamitatibus loquar, privatos quoque memoria tradidit et in regionibus Graeciae et in hac ipsa Hesperia detestabiles fuisse vicinos, nisi Autolycus ille cuiquam potuit tolerabilis esse conterminus, aut Aventini montis incola Palatinis ullum gaudium finitimis quam ratio calculorum patitur, emere velint.
+
+agrorum vastitatem victoriae nostrae et interneciones hostium fecissent, criminosum tamen senatori fuit supra quinquaginta iugera possedisse, suaque lege C. Licinius damnatus est, quod agri modum, quem in magistratu rogatione tribunicia promulgaverat, immodica possidendi libidine transcendisset, nec magis quia superbum videbatur tantum loci detinere quam quia flagitiosius,
+
+Sequitur deinceps Caesonianum praeceptum, quo fertur usus etiam Cato Marcus, agrum esse revisendum saepius eum, quem velis mercari. Nam prima inspectione neque vitia neque virtutes abditas ostendit, quae mox retractantibus facilius apparent. Inspectionis quoque velut formula nobis a maioribus tradita est agri pinguis ac laeti, de cuius qualitate dicemus suo loco, cum de generibus terrae disseremus.
+
+In universum tamen quasi testificandum atque saepius praedicandum habeo, quod primo iam Punico bello dux inclitissimus M.
+
+maciem soli vincere potest. Haec autem consequemur, memoria prodidit, sicut praestantissimos viros L. Lucullum et Q. Scaevolarn, quorum alter maioris, alter minus amplas, quam postulavit modus agri, villas exstruxit, cum utrumque sit contra rem familiarem.
+
+Diffusiora enim consaepta non solum pluris aedificamus, sed etiam impensis maioribus tuemur; at minora cum sunt, quam postulat fundus, dilabitur fructus. Nam et umidae res et siccae, quas terra progenerat, facile vitiantur, si aut non sunt aut propter angustias incommoda sunt tecta, quibus inferantur. Pro portione etiam facultatum quae solstitiis minus concalescunt, sed frigoribus hiemis intolerabiliter horrent, sicut Thebas ferunt Boeotias; sunt quae tepent hieme, sed aestate saevissime candent, ut adfirmant Euboicam Chalcidem.
+
+Petatur igitur aer calore et frigore temperatus, qui fere medios obtinet collina vel quae non infima valle reperitur; deterrima palustris, quae pigro lapsu repit; et quam ex ripa, sed haud paulum summota a litore.
+
+Nam praestat a mari longo potius intervallo quam brevi refugisse, quia media sunt spatia gravioris halitus. Nec paludem quidem vicinam esse oportet aedificiis nec iunctam militarem viam, quod illa caloribus noxium virus eructat et infestis aculeis armata gignit animalia, quae in nos densissimis examinibus involant, tum etiam nantium serpentiumque pestes hiberna destitutas quod est remotum ac sinistrum soli et apricis flatibus; quibus si caret, nulla alia vis potest nocturnas pruinas et quodcumque rubiginis aut spurcitiae resedit siccare atque detergere. Haec autem cum hominibus adferunt perniciem, tum in hibernacula ferarum conquiescant. Sed ampla gerantur tabulatis, ut frumenta, faenum, frondes, paleae ceteraque pabula. Sed si ea non sunt, oleae folia. Deinde cum exiget usus, esse debebit, quo amoveantur, ne rursus nimia suffuniatione optima est silice constrata, quod et celeriter frumenta deteruntur, non cedente solo pulsibus ungularum tribularumque, et eadem eventilata mundiora sunt lapillisque carent et glaebulis, quas per trituram fere terrena remittit area.
+
+Huic autem nubilar pecuniarum vel etiam vilici, nisi si maxima vel neglegentia servi vel rapacitas intervenit. Quae utraque peccata plerumque vitio domini vel committi vel foveri nihil dubium est, cum liceat aut cavere ne talis praeficiatur negotio, aut iam praepositus ut summoveatur curare. In longinquis tamen fundis, in quos non est facilis excursus patris familiae, cum omne genus agri tolerabilius sit sub liberis colonis quam sub vilicis servis habere, tum praecipue frumentarium, quem et minime, sicut vineas aut arbustum, colonus evertere potest et maxime vexant servi, qui boves elocant eosdemque et cetera pecora male pascunt nec industrie terram vertunt longeque plus imputant seminis iacti, quam quod severint, sed nec quod terrae mandaverunt sic adiuvant, ut recte instituamus, ne ex eo quidem ordine, qui urbanas ac delicatas artes exercuerit.
+
+Socors et somniculosum genus id mancipiorum, rationes contingere vel per alium propter conscientiam fraudis timeat.
+
+utiliter quam delicate habeat munitamque diligenter a vento, frigore pluviaque, quae cuncta prohibentur pellibus manicatis, centonibus confectis vel sagis cucullis.Id si fiat, nullus dies tam intolerabilis est, quo non sub divo moliri aliquid possit. Nec tantum operis agrestis sit artifex, sed et animi, quantum servile patitur ingenium, virtutibus instructus, ut neque remisse neque crudeliter imperet semperque aliquos ex melioribus foveat, parcat tamen etiam minus bonis, ita ut potius timeant eius severitatem, quam crudelitatem detestentur. Id contingere poterit, si maluerit custodire subiectos, ne peccent, quam neglegentia sua committere, ut puniat delinquentes.
+
+Nulla est autem maior vel nequissimi hominis custodia quam operis exactio, ut iusta reddantur, ut vilicus semper se repraesentet. Sic enim et magistri singulorum officiorum sedulo munia sua exsequuntur, qui ceteris praebetur. Sic enim curabit ut et panis diligenter eonfiat legerem, nonnumquam etiam iocarer et plus ipsis iocari permitterem. Iam illud saepe facio, ut quasi cum peritioribus de aliquibus operibus novis deliberem et per hoc cognoscam cuiusque ingenium, quale quamque sit prudens. Tum etiam libentius eos id opus adgredi video, de quo secum deliberatum et consilio ipsorum susceptum putant.
+
+Nam illa sollemnia sunt omnibus circumspectis, sua constitutione iusta percipiant, atque ipse panis potionisque probitatem
+
+Dicendum etiam est, quibus operibus quemque habitum corporis aut animi contribuendum putemus. Magistros pecoribus 1 oportet praeponere sedulos ac frugalissimos. Ea res utraque plus quam corporis statura roburque confert huic negotio, quoniam id ministerium custodiae diligentis et artis officium est.
+
+Bubulco quamvis necessaria non tamen satis est indoles mentis, nisi eum vastitas vocis et habitus metuendum pecudibus efficit.
+
+latio frugalitatem requirit, quia et in turba et sub monitore vinitor opus facere debet ac plerumque velocior animus est improborum hominum, que ita opus, ut neque singuli binive sint, quoniam dispersi non facile custodiuntur; nec tamen supra decem, ne rursus, ubi nimia turba sit, id opus ad se pertinere singuli non existiment. Haec ordinatio non solum concitat aemulationem, sed et deprehendit ignavos; nam cum certamine opus excitetur, tum in cessantes animadversio iusta et sine querela videtur adhiberi.
+
+Sed nimirum, dum quae maxime providenda sunt agricolae futuro praecipimus, de salubritate, de via, de vicino, de aqua, situ villae, fundi modo, colonorum et servorum generibus, officiorum operumque distributione tempestive per haec ad ipsum iam terrae cultum pervenimus, de quo pluribus libro insequente mox disseremus.

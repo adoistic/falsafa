@@ -1,0 +1,39 @@
+{
+  "work_slug": "plautus-titus-maccius-aulularia-389df7",
+  "work_title": "Aulularia",
+  "chapter_number": 1,
+  "chapter_title": "Chapter front",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "26c81586-a472-52d5-ade2-3bf144e8e7db",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi003.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "328bf3c7-cb48-5c40-a447-da6630b963b0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 430,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi003.perseus-eng2:1"
+    }
+  ]
+}

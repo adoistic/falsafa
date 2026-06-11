@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 222
+chapter_title: "Chapter text=A:book=10:letter=16"
+chapter_slug: 222
+variant_id: "06617ee7-1855-5050-a982-d7539ae14d34"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 678
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:222"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) CUMAE, 14 MAY
+
+I HAD just despatched a letter to you on a variety of subjects, when Dionysius arrived at my house very early in the morning. I would not only have shewn myself placable to him, but would have pardoned him altogether, had he arrived in the frame of mind described by you. For in your letter received at Arpinum you said that he was coming and was prepared to do whatever I wished. For my part, I wished, or rather desired, that he should stay with me: and it was because, on his coming to my Formian villa, he had refused point blank to do so, that I used to write to you somewhat sharply about him. Well, he said very little, but the upshot of his remarks was that I must excuse him, that his private affairs prevented his going with me. I answered shortly: I felt much pained: I quite understood that my position roused his contempt. You will perhaps be surprised, but I assure you that I feel this to be among the heaviest blows which this crisis has inflicted upon me. I hope he may be loyal to you: that is equivalent to wishing you to remain prosperous: he will be so, just as long as you are. I hope my design will be free of all risk: for, on the one hand, I have kept it dark; and, on the other, I shall not, I think, be very closely watched. May I only have a voyage such as I wish! For all the rest— as far, that is, as they can be provided for by prudence-measures shall be taken. Pray, as long as I am in the country, write and tell me not only anything you know or have heard, but also what you foresee will happen. Cato, who might have held Sicily without any trouble-and, if he had held it, all loyalists would have joined him— sailed from Syracuse on the 23rd of April, as Curio has written to tell me. I only hope, as the phrase is, that Cotta may hold Sardinia; for there is rumour going about. Oh, if that were to be so, what a stigma on Cato! In order to allay suspicion of my leaving the country, or of what I am thinking of doing, I started for my Pompeian villa on the 12th of May, with a view of staying there, while the necessary preparations for my voyage were being made. On my arrival at my villa people came to see me: "The centurions of the three cohorts stationed at Pompeii"—this is what our friend Ninnius reported to me—"wished to visit me the next day: they were desirous of putting themselves and the town in my hands." I, however, I can tell you, was off from my villa next morning bef6re daybreak, to prevent them having any opportunity of seeing me at all. For what was the good of three cohorts? Or even if there were more, what equipment had they? I thought, indeed, of those exploits of Caelius, which I found mentioned in your letter received as soon as I arrived at my Cuman villa, which I did on the same day: yet at the same time it might have been a trap to catch me. I therefore removed all suspicion. But while I was on my return journey, Hortensius had arrived and had turned out of his road to call on Terentia, and used very courteous expressions about me. However, I believe I shall see him; for he has sent a servant to tell me that he is coming to my house. This is better behaviour than that of my fellow augur Antony, among whose lictors an actress is riding in a sedan. As you are free of your quartan ague, and have not only got rid of your new disease, but also of your cold, be sure you present yourself before me in Greece full of vigour, and meanwhile let me have something by way of a letter.

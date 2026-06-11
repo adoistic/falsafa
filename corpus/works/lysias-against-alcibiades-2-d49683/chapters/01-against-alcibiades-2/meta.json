@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-alcibiades-2-d49683",
+  "work_title": "Against Alcibiades 2",
+  "chapter_number": 1,
+  "chapter_title": "Against Alcibiades 2",
+  "chapter_slug": "01-against-alcibiades-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bf942b8f-b755-5479-9eaa-f707e29a1fc8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 601,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg015.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50f77c1f-6b70-5b6d-a82e-5cc4685d4fc2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 912,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg015.perseus-eng2"
+    }
+  ]
+}

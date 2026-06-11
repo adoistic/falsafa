@@ -1,0 +1,38 @@
+{
+  "work_slug": "apuleius-metamorphoses-4e92f8",
+  "work_title": "Metamorphoses",
+  "chapter_number": 1,
+  "chapter_title": "Book praef",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f0c3a1c6-149a-58a6-bb83-fd340d8df732",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3173,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1212.phi002.perseus-lat1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11c4eb56-1ee4-561f-9d69-95bf8e0573c7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 280,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1212.phi002.perseus-eng1:1"
+    }
+  ]
+}

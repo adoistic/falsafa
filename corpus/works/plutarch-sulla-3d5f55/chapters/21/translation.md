@@ -1,0 +1,25 @@
+---
+work_id: "3d5f5527-8162-539f-82f0-7c5bcc0cbcdc"
+work_slug: "plutarch-sulla-3d5f55"
+work_title: Sulla
+author_name: Plutarch
+chapter_number: 21
+chapter_title: Chapter 21
+chapter_slug: 21
+variant_id: "ac7007bf-abbe-5363-b11f-e4aedeb43f42"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 391
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:21"
+translator: Bernadotte Perrin
+---
+
+When the two armies had encamped near each other, Archelaüs lay still, but Sulla proceeded to dig trenches on either side, in order that, if possible, he might cut the enemy off from the solid ground which was favourable for cavalry, and force them into the marshes. The enemy, however, would not suffer this, but when their generals sent them forth, charged impetuously and at full speed, so that not only Sulla’s labourers were dispersed, but also the greater part of the corps drawn up to protect them was thrown into confusion and fled.
+
+Then Sulla threw himself from his horse, seized an ensign, and pushed his way through the fugitives against the enemy, crying: For me, O Romans, an honourable death here; but you, when men ask you where you betrayed your commander, remember to tell them, at Orchomenus. The fugitives rallied at these words, and two of the cohorts on his right wing came to his aid; these he led against the enemy and routed them.
+
+Then he fell back a little distance, and after giving his men breakfast, again proceeded to fence the enemy’s entrenchments off with his ditches. But they attacked him again in better order than before, Diogenes, the step-son of Archelaüs, fought gallantly on their right wing, and fell gloriously, and their archers, being hard pressed by the Romans, so that they had no room to draw their bows, took their arrows by handfuls, struck with them as with swords, at close quarters, and tried to beat back their foes, but were finally shut up in their entrenchments, and had a miserable night of it with their slain and wounded. Next day Sulla again led his soldiers up to the enemy’s fortifications and continued trenching them off, and when the greater part of them came out to give him battle, he engaged with them and routed them, and such was their panic that no resistance was made, and he took their camp by storm. The marshes were filled with their blood, and the lake with their dead bodies, so that even to this day many bows, helmets, fragments of steel breastplates, and swords of barbarian make are found embedded in the mud, although almost two hundred years have passed since this battle. Such, then, are the accounts given of the actions at Chaeroneia and Orchomenus.

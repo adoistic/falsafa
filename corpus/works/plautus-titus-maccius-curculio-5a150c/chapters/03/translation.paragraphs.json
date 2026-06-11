@@ -1,0 +1,512 @@
+[
+  {
+    "id": "p-0f662c",
+    "offset": 0,
+    "text": "(Enter CAPPADOX, from the Temple of AESCULAPIUS.)"
+  },
+  {
+    "id": "p-b3427c",
+    "offset": 51,
+    "text": "CAPPADOX:\n(to himself.)\nI am resolved to depart from this Temple out of doors forthwith, since thus I find the determination of Aesculapius, who sets me at nought, and chooses not that I should be healed. My health is declining, my weakness increases."
+  },
+  {
+    "id": "p-9a2862",
+    "offset": 304,
+    "text": "For now I walk, girded with my spleen as though with a belt; in my stomach do I seem to be holding a twin offspring. I’m afraid of nothing, but that, in my misery, I should burst asunder in the middle.\n(PHAEDROMUS.)"
+  },
+  {
+    "id": "p-c95d59",
+    "offset": 521,
+    "text": "PALINURUS:\n(speaking to PHAEDROMUS within as he enters.)\nIf you do right, Phaedromus, you’ll listen to me, and banish this sorrow from your feelings."
+  },
+  {
+    "id": "p-c1af3d",
+    "offset": 672,
+    "text": "You are anxious because your Parasite hasn’t returned from Caria. I think he’ll bring the money; but if he doesn’t bring it, by a chain of iron he couldn’t be withheld from betaking himself to eat at his manger."
+  },
+  {
+    "id": "p-408077",
+    "offset": 885,
+    "text": "CAPPADOX:\n(turning round.)\nWhat person is it that speaks?"
+  },
+  {
+    "id": "p-85c138",
+    "offset": 944,
+    "text": "PALINURUS:\n(to himself.)\nWhose voice is it that I hear?"
+  },
+  {
+    "id": "p-53fca4",
+    "offset": 1001,
+    "text": "CAPPADOX:\nIsn’t this Palinurus, the servant of Phaedromus?"
+  },
+  {
+    "id": "p-c3e37b",
+    "offset": 1061,
+    "text": "PALINURUS:\n(aside.)\nWho is this fellow with extended paunch, and eyes as green as grass? From his figure I know him; from his complexion I cannot recognize him. O, now I do know him: it’s the Procurer Cappadox. I’ll accost him."
+  },
+  {
+    "id": "p-07aea1",
+    "offset": 1290,
+    "text": "CAPPADOX:\nSave you, Palinurus."
+  },
+  {
+    "id": "p-b12d72",
+    "offset": 1322,
+    "text": "PALINURUS:\nO source of villanies, save you; how are you?"
+  },
+  {
+    "id": "p-829a6c",
+    "offset": 1380,
+    "text": "CAPPADOX:\nI’m just alive."
+  },
+  {
+    "id": "p-6cade0",
+    "offset": 1407,
+    "text": "PALINURUS:\nJust as you deserve, I suppose? But what’s the matter with you?"
+  },
+  {
+    "id": "p-19919f",
+    "offset": 1483,
+    "text": "CAPPADOX:\nMy spleen is killing me, my reins are in torment, my lungs are being torn asunder, my liver is being tortured, my heart-strings are giving way, all my intestines are in pain."
+  },
+  {
+    "id": "p-1e173d",
+    "offset": 1669,
+    "text": "PALINURUS:\nThe liver complaint is afflicting you, then."
+  },
+  {
+    "id": "p-547795",
+    "offset": 1726,
+    "text": "CAPPADOX:\nMy spleen is expanded."
+  },
+  {
+    "id": "p-9eccd5",
+    "offset": 1760,
+    "text": "PALINURUS:\nTake walking exercise; that’s the best thing for the spleen."
+  },
+  {
+    "id": "p-47734b",
+    "offset": 1833,
+    "text": "CAPPADOX:\n’Tis an easy matter to laugh at the afflicted."
+  },
+  {
+    "id": "p-05e96c",
+    "offset": 1891,
+    "text": "PALINURUS:\nWell, then, do you hold out for some days until your intestines become putrid. Now, while the humours are pretty sound, if you do that, you yourself might sell for a worse price than those intestines of yours."
+  },
+  {
+    "id": "p-1c529a",
+    "offset": 2113,
+    "text": "CAPPADOX:\nPrithee, have done with this, and answer me this which I ask; can you possibly form a conjecture on it, if I relate to you what I dreamt last night in my sleep?"
+  },
+  {
+    "id": "p-df5f50",
+    "offset": 2285,
+    "text": "PALINURUS:\nPsha, this— (pointing to himself) —this is the sole person that is really skilled in divination; why, the interpreters of dreams ask advice of myself;"
+  },
+  {
+    "id": "p-16d754",
+    "offset": 2448,
+    "text": "the answer that I have given them, by that opinion they all stand."
+  },
+  {
+    "id": "p-d08f23",
+    "offset": 2516,
+    "text": "(Enter a COOK, from the house of PHAEDROUMS.)"
+  },
+  {
+    "id": "p-fd51d5",
+    "offset": 2563,
+    "text": "COOK:\nPalinurus, why do you delay? Why are not the things served out for me which are needed for the breakfast to be prepared for the Parasite when he comes."
+  },
+  {
+    "id": "p-95202d",
+    "offset": 2722,
+    "text": "PALINURUS:\nWait, please, until I interpret his dream. (Pointing to CAPPADOX.)"
+  },
+  {
+    "id": "p-9e04fa",
+    "offset": 2801,
+    "text": "COOK:\nWhy, you your own self, if you’ve had any dream, always apply to me."
+  },
+  {
+    "id": "p-63a05c",
+    "offset": 2877,
+    "text": "PALINURUS:\nI confess it."
+  },
+  {
+    "id": "p-f68874",
+    "offset": 2903,
+    "text": "COOK:\nBe off, then, and serve out the things."
+  },
+  {
+    "id": "p-e126d1",
+    "offset": 2950,
+    "text": "PALINURUS:\n(to CAPPADOX.)\nCome now, do you in the meantime relate your dream to him. I give you a substitute better than I am myself; for what I do know, all of it I know from him.\n(Pointing to the COOK.)"
+  },
+  {
+    "id": "p-258341",
+    "offset": 3156,
+    "text": "CAPPADOX:\nLet him give his attention then."
+  },
+  {
+    "id": "p-0c976d",
+    "offset": 3200,
+    "text": "PALINURUS:\nHe’ll give it."
+  },
+  {
+    "id": "p-49208d",
+    "offset": 3227,
+    "text": "CAPPADOX:\nHe does what few do, in being attentive to their masters even. (To the COOK.) Do you give me your attention then.\n(PALINURUS goes into the house of PHAEDROMUS.)"
+  },
+  {
+    "id": "p-498a67",
+    "offset": 3399,
+    "text": "COOK:\nAlthough I don’t know you, I’ll give it you."
+  },
+  {
+    "id": "p-e424cd",
+    "offset": 3451,
+    "text": "CAPPADOX:\nLast night I seemed in my sleep to behold Aesculapius, seated at a distance far away from me; and it seemed that he didn’t come near me, or set any value upon me."
+  },
+  {
+    "id": "p-9add6c",
+    "offset": 3625,
+    "text": "COOK:\nThe other Gods will do the same, you must know; in fact, among themselves they agree with perfect unanimity."
+  },
+  {
+    "id": "p-6f883c",
+    "offset": 3741,
+    "text": "It isn’t to be wondered at, if it fares no better with you. But it had been better for you to pass the night in Jove’s Temple, who has given you his assistance in your oaths."
+  },
+  {
+    "id": "p-8e317c",
+    "offset": 3917,
+    "text": "CAPPADOX:\nIf, indeed, those should wish to sleep there who have been guilty of perjury, it were not possible for room to be found them in the Capitol."
+  },
+  {
+    "id": "p-5e2069",
+    "offset": 4069,
+    "text": "COOK:\nGive your attention to this; ask peace of Aesculapius, lest perchance some great mishap befall you, which has been portended to you in your rest."
+  },
+  {
+    "id": "p-628011",
+    "offset": 4222,
+    "text": "CAPPADOX:\nYou do well in advising me; I’ll go and pray to him. (Goes into the Temple.)"
+  },
+  {
+    "id": "p-211424",
+    "offset": 4310,
+    "text": "COOK:\nAnd ill speed you with it\n(Goes into the house of PHAEDROMUS.)"
+  },
+  {
+    "id": "p-8d21e1",
+    "offset": 4380,
+    "text": "PALINURUS:\n(Enter PALINURUS, from the house.)\n(looking in the distance, as he enters.)\nO immortal Gods, whom do I behold? Who’s that yonder?\n(Pointing.)\nIsn’t that the Parasite, who was sent to Caria? (Goes to the door.) Hallo, come out, Phaedromus, come out, come out, come out this instant, I say.\n(from the house.)"
+  },
+  {
+    "id": "p-7a781f",
+    "offset": 4699,
+    "text": "PHAEDROMUS:\nWhy are you making this noise here?"
+  },
+  {
+    "id": "p-4d5bff",
+    "offset": 4748,
+    "text": "PALINURUS:\nI see your Parasite running; see, there he is (pointing), down at the end of the street. Let’s listen from here what he’s about."
+  },
+  {
+    "id": "p-156f08",
+    "offset": 4889,
+    "text": "PHAEDROMUS:\nI think it’s as well.\n(They stand aside.)"
+  },
+  {
+    "id": "p-28a72e",
+    "offset": 4944,
+    "text": "(Enter CURCULIO, at a distance, walking fast.)"
+  },
+  {
+    "id": "p-a9ac41",
+    "offset": 4992,
+    "text": "CURCULIO:\n(to himself.)\nKnown or unknown, make way for me, while here I execute my commission; fly all of you, be off, and get out of the way, lest I should hurt any person in my speed with my head, or elbow, or breast, or with my knee. So suddenly now am I charged with a business of quickness and despatch. And be there no person ever so opulent to stop me in my way, neither general, nor any tyrant, nor market-officer, nor demarch nor comarch, with their honors so great, but that down he goes, and tumbles head first from the footpath into the carriage-road. And then those Grecians with their cloaks, who walk about with covered heads, who go loaded beneath their cloaks with books, and with baskets, they loiter together, and engage in gossipping among themselves, the gad-abouts; you may always see them enjoying themselves in the hot liquor-shops; when they have scraped up some trifle, with their covered pates they are drinking mulled wine, sad and maudlin they depart: if I stumble upon them here, from every single one of them I’ll squeeze out a belch from their pearled-barley diet. And then those servants of your dainty townsmen, who are playing at catch-ball in the road, both throwers and catchers, all of them I’ll pitch under foot. Would they avoid a mishap, why then, let them keep at home."
+  },
+  {
+    "id": "p-2990f2",
+    "offset": 6305,
+    "text": "PHAEDROMUS:\n(apart.)\nHe points out aright, he only requires that he should speak with authority; for such manners are in vogue in the present day, such at present are the slaves; really, control cannot be held over them."
+  },
+  {
+    "id": "p-f104dd",
+    "offset": 6527,
+    "text": "CURCULIO:\n(to himself.)\nIs there any one, I wonder, who can point out to me Phaedromus, my good Genius? The matter is of such pressing nature, I really must meet with the man this instant."
+  },
+  {
+    "id": "p-d3136a",
+    "offset": 6717,
+    "text": "PALINURUS:\n(apart.)\nHe’s looking for you."
+  },
+  {
+    "id": "p-edf8e2",
+    "offset": 6760,
+    "text": "PHAEDROMUS:\n(apart.)\nWhat if we accost him? (Aloud.) Hallo! Curculio, I want you."
+  },
+  {
+    "id": "p-530b97",
+    "offset": 6843,
+    "text": "CURCULIO:\n(looking round.)\nWho’s calling me? Who’s mentioning my name?"
+  },
+  {
+    "id": "p-0d5963",
+    "offset": 6915,
+    "text": "PHAEDROMUS:\nOne who wishes to meet with you."
+  },
+  {
+    "id": "p-2972d4",
+    "offset": 6961,
+    "text": "CURCULIO:\n(seeing him.)\nYou don’t wish more for me than I wish for you."
+  },
+  {
+    "id": "p-e7cb93",
+    "offset": 7034,
+    "text": "PHAEDROMUS:\nO my own ready occasion, Curculio, much longed-for, greetings to you."
+  },
+  {
+    "id": "p-535744",
+    "offset": 7117,
+    "text": "CURCULIO:\nGreetings to you."
+  },
+  {
+    "id": "p-92b4e4",
+    "offset": 7146,
+    "text": "PHAEDROMUS:\nI’m glad that you have arrived safe; give me your right hand. How stand my hopes? Troth now, prithee, do speak out."
+  },
+  {
+    "id": "p-b19116",
+    "offset": 7275,
+    "text": "CURCULIO:\nTo you, troth now, prithee, do speak out, how stand my own. (Makes curious gestures.)"
+  },
+  {
+    "id": "p-bf8917",
+    "offset": 7372,
+    "text": "PHAEDROMUS:\nWhat’s the matter with you?"
+  },
+  {
+    "id": "p-c836aa",
+    "offset": 7413,
+    "text": "CURCULIO:\nA dimness is beginning to come, my knees are failing through fasting."
+  },
+  {
+    "id": "p-d8d2e1",
+    "offset": 7494,
+    "text": "PHAEDROMUS:\nI’ faith, through lassitude, I think."
+  },
+  {
+    "id": "p-bf1380",
+    "offset": 7545,
+    "text": "CURCULIO:\n(staggering.)\nSupport me, prithee, do support me."
+  },
+  {
+    "id": "p-7bfaf8",
+    "offset": 7606,
+    "text": "PHAEDROMUS:\nSee how pale he has turned; will you give him a seat, for him to be seated at once, and an ewer with some water? Will you make haste, this very instant?"
+  },
+  {
+    "id": "p-f12291",
+    "offset": 7772,
+    "text": "CURCULIO:\nI’m faint."
+  },
+  {
+    "id": "p-3c8ad5",
+    "offset": 7794,
+    "text": "PHAEDROMUS:\nWould you like some water?"
+  },
+  {
+    "id": "p-0b449c",
+    "offset": 7834,
+    "text": "CURCULIO:\nIf it’s full of bits of meat, prithee, give it me to swallow down, i’ faith."
+  },
+  {
+    "id": "p-138991",
+    "offset": 7922,
+    "text": "PHAEDROMUS:\nWoe be to that head of yours."
+  },
+  {
+    "id": "p-cd00ca",
+    "offset": 7965,
+    "text": "CURCULIO:\nTroth now, prithee do give me cause to rejoice at my arrival."
+  },
+  {
+    "id": "p-aeb0a3",
+    "offset": 8038,
+    "text": "PHAEDROMUS:\n(begins to fan him.)\nBy all means."
+  },
+  {
+    "id": "p-84671e",
+    "offset": 8086,
+    "text": "CURCULIO:\nPrithee, what’s this you’re about."
+  },
+  {
+    "id": "p-f65057",
+    "offset": 8132,
+    "text": "PHAEDROMUS:\nSome air."
+  },
+  {
+    "id": "p-d9fc99",
+    "offset": 8155,
+    "text": "CURCULIO:\nReally, for my part, I don’t want a breath to be raised."
+  },
+  {
+    "id": "p-3c4b2b",
+    "offset": 8223,
+    "text": "PHAEDROMUS:\nWhat then?"
+  },
+  {
+    "id": "p-76fd98",
+    "offset": 8247,
+    "text": "CURCULIO:\nTo eat, that I may rejoice on my arrival."
+  },
+  {
+    "id": "p-808435",
+    "offset": 8300,
+    "text": "PHAEDROMUS:\nMay Jupiter and the Deities confound you."
+  },
+  {
+    "id": "p-0526c7",
+    "offset": 8355,
+    "text": "CURCULIO:\nI’m quite undone; I can hardly see;"
+  },
+  {
+    "id": "p-e29ab9",
+    "offset": 8402,
+    "text": "my mouth is bitter; my teeth, I find, are blunted; my jaws are clammy through fasting; with my entrails thus lank with abstinence from food am I come."
+  },
+  {
+    "id": "p-0b5ba8",
+    "offset": 8554,
+    "text": "PHAEDROMUS:\nYou shall eat something just now."
+  },
+  {
+    "id": "p-c33279",
+    "offset": 8601,
+    "text": "CURCULIO:\nI’ faith, I don’t want something; I’d rather have what’s fixed for certain, than your something."
+  },
+  {
+    "id": "p-9909a6",
+    "offset": 8709,
+    "text": "PHAEDROMUS:\nAye, but if you only knew what has been put by for you."
+  },
+  {
+    "id": "p-15f3b4",
+    "offset": 8778,
+    "text": "CURCULIO:\nI’d very much like to know where it is; for really it’s necessary for it and my teeth to make acquaintance."
+  },
+  {
+    "id": "p-4a8877",
+    "offset": 8897,
+    "text": "PHAEDROMUS:\nA gammon of bacon, a sow’s stomach, some udder and kernels of the throat."
+  },
+  {
+    "id": "p-2446d7",
+    "offset": 8984,
+    "text": "CURCULIO:\nWhat, all this do you say? Perhaps you mean that they are in the flesh-market?"
+  },
+  {
+    "id": "p-a539bb",
+    "offset": 9074,
+    "text": "PHAEDROMUS:\nIn the dishes, I mean; they’ve been got ready for you, since we knew that you were about to arrive."
+  },
+  {
+    "id": "p-77c06e",
+    "offset": 9187,
+    "text": "CURCULIO:\nTake care you don’t be fooling me."
+  },
+  {
+    "id": "p-becbae",
+    "offset": 9233,
+    "text": "PHAEDROMUS:\nSo may the fair one love me whom I love, I don’t say what’s false. But as to what I sent you upon I’m none the wiser yet."
+  },
+  {
+    "id": "p-25db56",
+    "offset": 9368,
+    "text": "CURCULIO:\nI’ve brought back nothing."
+  },
+  {
+    "id": "p-6c9ede",
+    "offset": 9406,
+    "text": "PHAEDROMUS:\nYou’ve undone me."
+  },
+  {
+    "id": "p-9378e3",
+    "offset": 9437,
+    "text": "CURCULIO:\nI can find something, if you’ll give me your attention. After, at your request, I had set out, I arrived in Caria;"
+  },
+  {
+    "id": "p-13e63f",
+    "offset": 9563,
+    "text": "I saw your friend; I asked him to make me a loan of some money. In answer, you were to know that he was willing to oblige you; he didn’t wish to disappoint you, as it is only proper that a person who is a friend should be ready, and should assist his friend. In a few words he answered me, and quite in confidence, that he also was in the same extreme want of money as yourself."
+  },
+  {
+    "id": "p-ffa207",
+    "offset": 9943,
+    "text": "PHAEDROMUS:\nBy your words you ensure my undoing."
+  },
+  {
+    "id": "p-fb25cd",
+    "offset": 9993,
+    "text": "CURCULIO:\nWhy no; I’m saving you, and wish you to be saved. After this answer was given me, I went away from him to the Forum, in sorrow that I had applied to him in vain. By accident I espied a military officer; this person I accosted, and as I approached I saluted him. Save you, said he to me, took my right hand, drew me aside, and asked me why I had come to Caria."
+  },
+  {
+    "id": "p-9bd8e1",
+    "offset": 10364,
+    "text": "I said that I had come there for the sake of amusement. Upon this he asked me whether I knew a certain Lyco, a banker of Epidaurus. I said I knew him. Well, and the Procurer Cappadox? I answered yes, that I had seen him. But what do you want of him? said I. Because, said he, I bought of him a girl for thirty minae, her clothes and golden jewels too; and for these last ten minae more are added."
+  },
+  {
+    "id": "p-356601",
+    "offset": 10762,
+    "text": "Have you paid the money? said I. No, said he; it is lodged with this Lyco the banker, whom I was mentioning, and I’ve instructed him that the person who should bring a letter sealed with my own ring, to him he was to give his services, that he might receive the damsel, with her jewels of gold and her clothes, from the Procurer. After he told me this, I was going away from him. At once he called me back, invited me to dinner; it was a point of conscience, I was unwilling to refuse him. What if we go off home, and take our places at table? said he. The suggestion pleased me; it is neither proper to lengthen out the day, nor to curtail the night. Everything was prepared, and we, for whom it was prepared, were at our places. After we had dined and well drunk, he asked for the dice to be fetched him."
+  },
+  {
+    "id": "p-3e9af0",
+    "offset": 11570,
+    "text": "He challenged me to play with him a game of hazard. I staked my cloak, he staked his ring against it; he called on the name of Planesium."
+  },
+  {
+    "id": "p-17e123",
+    "offset": 11709,
+    "text": "PHAEDROMUS:\nWhat, my mistress?"
+  },
+  {
+    "id": "p-703d1c",
+    "offset": 11741,
+    "text": "CURCULIO:\nBe silent a while. He threw a most losing cast. I took up the dice, and invoked Hercules as my genial patron; I threw a first-rate cast, and pledged him in a bumping cup; in return he drank it off, reclined his head, and fell fast asleep. I slily took away from him the ring, and took my legs quietly from off the couch, so that the Captain mightn’t perceive it. The servants enquired whither I was going; I said that I was going whither persons when full are wont to go. When I beheld the door, at once on the instant I betook myself away from the place."
+  },
+  {
+    "id": "p-643cf5",
+    "offset": 12308,
+    "text": "PHAEDROMUS:\nI commend you."
+  },
+  {
+    "id": "p-0a1828",
+    "offset": 12336,
+    "text": "CURCULIO:\nCommend me when I’ve brought this thing about which you desire. Now let’s go indoors, that we may seal the letter."
+  },
+  {
+    "id": "p-899eb3",
+    "offset": 12462,
+    "text": "PHAEDROMUS:\nDo I delay you?"
+  },
+  {
+    "id": "p-3c9b9e",
+    "offset": 12491,
+    "text": "CURCULIO:\nBut let’s cram down something first, the gammon, the udder, and the kernels; these are the foundations for the stomach, with bread and roast beef, a good-sized cup and a capacious pot, that counsel enough may be forthcoming. Do you, yourself, seal the letter; he’ll do the honors (pointing to PALINURUS) while I am eating."
+  },
+  {
+    "id": "p-183be7",
+    "offset": 12825,
+    "text": "I’ll dictate after what fashion you’re to write. Follow me this way, in-doors."
+  },
+  {
+    "id": "p-f47022",
+    "offset": 12905,
+    "text": "PHAEDROMUS:\nI follow.\n(They go into the house of PHAEDROMUS.)"
+  }
+]

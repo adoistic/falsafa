@@ -1,0 +1,26 @@
+{
+  "work_slug": "unknown-the-fables-of-phaedrus-6b12c9",
+  "work_title": "The Fables of Phaedrus",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f9403285-b37f-5776-a2dd-256ca4ccdc68",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1688,
+      "paragraph_count": 266,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-eng1:2"
+    }
+  ]
+}

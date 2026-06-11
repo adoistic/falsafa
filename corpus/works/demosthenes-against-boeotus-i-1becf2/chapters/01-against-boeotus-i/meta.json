@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-boeotus-i-1becf2",
+  "work_title": "Against Boeotus I",
+  "chapter_number": 1,
+  "chapter_title": "Against Boeotus I",
+  "chapter_slug": "01-against-boeotus-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0144199c-d0b8-5d35-933b-f94928ada9d7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2743,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg039.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "100cf4be-fb64-53f2-810f-d611ba3e7b58",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4483,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg039.perseus-eng2"
+    }
+  ]
+}

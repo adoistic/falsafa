@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 112,
+  "chapter_title": "Chapter 112",
+  "chapter_slug": "112",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e8644cf0-2b1b-5645-abe5-99b9331e3da4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 177,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:112"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "968949a4-e887-553c-833b-1a050e63270c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 160,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:112"
+    }
+  ]
+}

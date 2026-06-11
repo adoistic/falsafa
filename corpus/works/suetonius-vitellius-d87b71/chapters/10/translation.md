@@ -1,0 +1,21 @@
+---
+work_id: "d87b7180-6d23-562f-83a9-1d51f16efa7c"
+work_slug: "suetonius-vitellius-d87b71"
+work_title: Vitellius
+author_name: Suetonius
+chapter_number: 10
+chapter_title: Chapter 10
+chapter_slug: 10
+variant_id: "acb5f841-96e3-59fe-a83a-b67d07513f81"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 390
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo019.perseus-eng2:10"
+translator: Perseus Digital Library
+---
+
+He heard of the victory at Bedriacum, and the death of Otho, whilst he was yet in Gaul, and without the least hesitation, by a single proclamation, disbanded all the pretorian cohorts, as having, by their repeated treasons, set a dangerous example to the rest of the army; commanding them to deliver up their arms to his tribunes. A hundred and twenty of them, under whose hands he had found petitions presented to Otho, for rewards of their service in the murder of Galba, he besides ordered to be sought out and punished. So far his conduct deserved approbation, and was such as to afford hope of his becoming an excellent prince, had he not managed his other affairs in a way more corresponding with his own disposition, and his former manner of life, than to the imperial dignity. For, having begun his march, he rode through every city in his route in a triumphal procession; and sailed down the rivers in ships, fitted out with the greatest elegance, and decorated with various kinds of crowns, amidst the most extravagant entertainments. Such was the want of discipline, and the licentiousness both in his family and army, that, not satisfied with the provision every where made for them at the public expense, they committed every kind of robbery and insult upon the inhabitants, setting slaves at liberty as they pleased; and if any dared to make resistance, they dealt blows and abuse, frequently wounds, and sometimes slaughter amongst them. When he reached the plains on which the battles were fought, some of those around him being offended at the smell of the carcases which lay rotting upon the ground, he had the audacity to encourage them by a most detestable remark, "That a dead enemy smelt not amiss, especially if he were a fellow-citizen." To qualify, however, the offensiveness of the stench, he quaffed in public a goblet of wine, and with equal vanity and insolence distributed a large quantity of it among his troops. On his observing a stone with an inscription upon it to the memory of Otho, he said, "It was a mausoleum good enough for such a prince." He also sent the poniard, with which Otho killed himself, to the colony of Agrippina, to be dedicated to Mars. Upon the Appenine hills he celebrated a Bacchanalian feast.

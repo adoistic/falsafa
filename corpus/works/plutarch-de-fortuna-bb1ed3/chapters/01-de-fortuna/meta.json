@@ -1,0 +1,39 @@
+{
+  "work_slug": "plutarch-de-fortuna-bb1ed3",
+  "work_title": "De fortuna",
+  "chapter_number": 1,
+  "chapter_title": "De fortuna",
+  "chapter_slug": "01-de-fortuna",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b6cea11-c1ea-5861-be96-af4336d6ebb3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1255,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg074.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab1df2fc-ac04-59dc-a185-0c226278f08a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1885,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg074.perseus-eng4"
+    }
+  ]
+}

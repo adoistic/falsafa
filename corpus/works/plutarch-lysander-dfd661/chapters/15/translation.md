@@ -1,0 +1,29 @@
+---
+work_id: "dfd661a7-7a0f-5411-9892-ecdc6f527cb6"
+work_slug: "plutarch-lysander-dfd661"
+work_title: Lysander
+author_name: Plutarch
+chapter_number: 15
+chapter_title: Chapter 15
+chapter_slug: 15
+variant_id: "92526083-0cef-5ddf-a475-02254a5ad4cb"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 409
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg032.perseus-eng2:15"
+translator: Bernadotte Perrin
+---
+
+Lysander, accordingly, when he had taken possession of all the ships of the Athenians except twelve, and of their walls, on the sixteenth day of the month Munychion, the same on which they conquered the Barbarian in the sea-fight at Salamis, took measures at once to change their form of government.
+
+And when the Athenians opposed him bitterly in this, he sent word to the people that he had caught the city violating the terms of its surrender; for its walls were still standing, although the days were past within which they should have been pulled down; he should therefore present their case anew for the decision of the authorities, since they had broken their agreements. And some say that in very truth a proposition to sell the Athenians into slavery was actually made in the assembly of the allies, and that at this time Erianthus the Theban also made a motion that the city be razed to the ground, and the country about it left for sheep to graze.
+
+Afterwards, however, when the leaders were gathered at a banquet, and a certain Phocian sang the first chorus in the Electra of Euripides, which begins with: 0 thou daughter of Agamemnon, I am come, Electra, to thy rustic court, all were moved to compassion, and felt it to be a cruel deed to abolish and destroy a city which was so famous, and produced such poets.
+
+So then, after the Athenians had yielded in all points, Lysander sent for many flute-girls from the city, and assembled all those who were already in the camp, and then tore down the walls, and burned up the triremes, to the sound of the flute, while the allies crowned themselves with garlands and made merry together, counting that day as the beginning of their freedom.
+
+Then, without delay, he also made changes in the form of government, establishing thirty rulers in the city and ten in Piraeus. Further, he put a garrison into the acropolis, and made Callibius, a Spartan, its harmost. He it was who once lifted his staff to smite Autolycus, the athlete, whom Xenophon makes the chief character in his Symposium; and when Autolycus seized him by the legs and threw him down, Lysander did not side with Callibius in his vexation, but actually joined in censuring him, saying that he did not understand how to govern freemen. But the Thirty, to gratify Callibius, soon afterwards put Autolycus to death.

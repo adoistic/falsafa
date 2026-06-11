@@ -1,0 +1,21 @@
+---
+work_id: "234e46b3-b72c-533b-a755-365940a803c3"
+work_slug: "ausonius-decimus-magnus-gratiarum-actio-234e46"
+work_title: Gratiarum Actio
+author_name: Ausonius, Decimus Magnus
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "ec44280f-db5e-596d-87ca-6ea616854660"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 489
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa014.perseus-eng1:2"
+translator: Perseus Digital Library
+---
+
+Therefore I express my thanks, most gracious Emperor. And if anyone attributes so frequent a repetition in the same words of this phrase of mine to the speaker's poverty of speech, let him try to work out this same theme, and he will not be able to produce anything more eloquent. For I am now expressing thanks, not with intent to flatter any royal vanity and not without proofs of my assertions, to a most valiant emperor—as witness the pacification in a single year of the Danubian and Rhenish frontiers: 2 to one most generous; the wealth of the Army shows as much: to one most merciful; the safety which man's waywardness enjoys declares this: to one most statesmanlike; the organization of the east by so great a prince is proof enough: to one most dutiful; there is the amplest evidence to confirm this tribute—the canonization of his father with divine honours, the association of his brother,3 just as though he were a son, with himself in the imperial authority, the avenging of the outrage suffered by his uncle in war,4 the pairing of a son and father together in joint control of a prefecture, 5 and the election of his tutor to the consulate. I could enumerate all those titles which your valour has won for you in the past, those which Fortune has granted you so recently, and those which Heaven's favour is still designing for you: I might call you Germanicus in virtue of the surrender of that race to you; Alamannicus, because of the prisoners whom you transplanted: Sarmaticus,1 because you conquered and forgave that people: I might string together all the distinctions won by your valour, and all the titles earned by your good fortune; but that is another theme and one which will be treated in its own separate place, when 1 decide that the time has come to sketch distinctly and briefly all my facts without following them out in detail—like those who confine a map of the world to the compass of a single sheet, thereby causing it to lose something in impressiveness, but without any sacrifice of truth. But now for the special business of this day, which is to express thanks for my consulate. And yet there are other distinctions besides, which push to the front and burst out into cries of acknowledgment, claiming that they have the right to do this first. All those honours heaped upon me at once under the title of companion in acknowledgment of your upbringing; the quaestorship for which I have to thank you, though it was held under the joint sovereignty of your father and yourself, and the praefecture which I owe to your kindness alone. This latter in its very self is not content with a single acknowledgment for the larger bounty which divided rather than kept it one: since two of us now possess it complete, neither desires it apart.

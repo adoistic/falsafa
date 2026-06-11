@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-heracleidae-9c65ba",
+  "work_title": "Heracleidae",
+  "chapter_number": 1,
+  "chapter_title": "Heracleidae",
+  "chapter_slug": "01-heracleidae",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "093c15c8-7e99-5d56-9550-5e9581254b49",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6461,
+      "paragraph_count": 1052,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "63ccd59f-64d5-55ff-bc64-c242306fc080",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9810,
+      "paragraph_count": 292,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg004.perseus-eng2"
+    }
+  ]
+}

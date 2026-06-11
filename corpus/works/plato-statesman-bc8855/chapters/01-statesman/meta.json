@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-statesman-bc8855",
+  "work_title": "Statesman",
+  "chapter_number": 1,
+  "chapter_title": "Statesman",
+  "chapter_slug": "01-statesman",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7dfc4f26-5f8d-5e34-8610-9052f7b4cdb1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 18288,
+      "paragraph_count": 898,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg008.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5dd759d5-37e5-5e7c-8987-5591b8da25a8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 25351,
+      "paragraph_count": 898,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg008.perseus-eng2"
+    }
+  ]
+}

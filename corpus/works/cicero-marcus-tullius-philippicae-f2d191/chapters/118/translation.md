@@ -1,0 +1,25 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 118
+chapter_title: Chapter 1
+chapter_slug: 118
+variant_id: "cba7e5c0-c5ba-5604-bdb3-248b303894d6"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 520
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:118"
+translator: Perseus Digital Library
+---
+
+Matters were carried on yesterday, O Caius Pansa, in a more irregular manner than the beginning of your consulship required. You did not appear to me to make sufficient resistance to those men, to whom you are not in the habit of yielding. For while the virtue of the senate was such as it usually is, and while all men saw that there was war in reality, and some thought that the name ought to be kept back; on the division, your inclination inclined to lenity. The course which we proposed therefore was defeated, at your instigation, on account of the harshness of the word war. That urged by Lucius Caesar, a most honorable man, prevailed, which, taking away that one harsh expression, was gentler in its language than in its real intention. Although he, indeed, before he delivered his opinion at all, pleaded his relationship to Antonius in excuse for it. He had done the same in my consulship, in respect of his sister's husband, as he did now in respect of his sister's son; so that he was moved by the grief of his sister, and at the same time he wished to provide for the safety of the republic.
+
+And yet Caesar himself in some degree recommended you, o conscript fathers, not to agree with him, when he said that he should have expressed quite different sentiments, worthy both of himself and of the republic, if he had not been hampered by his relationship to Antonius. He, then, is his uncle; are you his uncles too, you who voted with him?
+
+But on what did the dispute turn? Some men, in delivering their opinion, did not choose to insert the word “war.” They preferred calling it “tumult,” being ignorant not only of the state of affairs, but also of the meaning of words. For there can be a “war” without a “tumult,” but there can not be a “tumult” without a “war.” For what is a “tumult,” but such a violent disturbance that an unusual alarm is engendered by it? from which indeed the name “tumult” is derived. Therefore, our ancestors spoke of the Italian “tumult,” which was a domestic one; of the Gallic “tumult,” which was on the frontier of Italy; but they never spoke of any other. And that a “tumult” is a more serious thing than a war may be seen from this, that during a war exemptions from military service are valid; but in a tumult they are not. So that it is the fact, as I have said, that war can exist without a tumult, but a tumult can not exist without a war. In truth, as there is no medium between war and peace, it is quite plain that a tumult, if it be not a sort of war, must be a sort of peace; and what more absurd can be said or imagined? However, we have said too much about a word, let us rather look to the facts, O conscript fathers, the appreciation of which, I know, is at times injured by too much attention being paid to words.

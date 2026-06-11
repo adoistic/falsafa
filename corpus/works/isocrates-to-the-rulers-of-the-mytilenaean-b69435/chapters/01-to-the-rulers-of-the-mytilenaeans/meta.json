@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-the-rulers-of-the-mytilenaean-b69435",
+  "work_title": "To the Rulers of the Mytilenaeans",
+  "chapter_number": 1,
+  "chapter_title": "To the Rulers of the Mytilenaeans",
+  "chapter_slug": "01-to-the-rulers-of-the-mytilenaeans",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "59ebb5c8-93e5-5c0b-847a-0fc2c93342f9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 665,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg025.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59c239ee-afa9-5cc5-9c81-5554ed9eb4c6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 925,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg025.perseus-eng2"
+    }
+  ]
+}

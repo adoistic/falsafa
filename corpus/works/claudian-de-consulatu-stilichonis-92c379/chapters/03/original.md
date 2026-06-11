@@ -1,0 +1,269 @@
+---
+work_id: "92c37915-4e89-5788-abc4-5cbc541d9ec3"
+work_slug: "claudian-de-consulatu-stilichonis-92c379"
+work_title: de consulatu Stilichonis
+author_name: Claudian
+chapter_number: 3
+chapter_title: Book 3
+chapter_slug: 03
+variant_id: "cedb69e2-7d1f-5e9d-98c6-d935c21653b5"
+content_type: original
+layout: verse
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 2390
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa004.perseus-lat2:3"
+curator: thothica
+---
+
+Maior Scipiades, Italis qui solus ab oris in proprium vertit Punica bella caput, non sine Pieriis exercuit artibus arma:
+
+semper erat vatum maxima cura duci.
+
+gaudet enim virtus testes sibi iungere Musas;
+
+carmen amat quisquis carmine digna gerit.
+
+ergo seu patriis primaevus manibus ultor subderet Hispanum legibus Oceanum, seu Tyrias certa fracturus cuspide vires inferret Libyco signa tremenda mari, haerebat doctus lateri castrisque solebat omnibus in medias Ennius ire tubas, illi post lituos pedites favere canenti laudavitque nova caede cruentus eques.
+
+cumque triumpharet gemina Carthagine victa
+
+(hanc vindex patri vicerat, hanc patriae), cum longi Libyam tandem post funera belli ante suas maestam cogeret ire rotas:
+
+advexit reduces secum Victoria Musas et sertum vati Martia laurus erat.
+
+Noster Scipiades Stilicho, quo concidit alter
+
+Hannibal antiquo saevior Hannibale, te mihi post quintos annorum Roma recursus reddidit et votis iussit adesse suis.
+
+Quem populi plausu, procerum quem voce petebas, adspice, Roma, virum. iam tempora desine longae dinumerare viae visoque adsurgcre semper pulvere: non dubiis ultra torquebcre votis.
+
+totus adest oculis, aderat qui mentibus olim, spe maior, fama melior. venerare curulem, quae tibi restituit fasces; complectere dextram, sub iuga quae Poenos iterum Romana redegit.
+
+excipe magnanimum pectus, quo frena reguntur imperii, cuius libratur sensibus orbis.
+
+OS sacrum, quod in acre colis, miraris in auro, cerne libens: hic est felix bellator ubique, defensor Libyae, Rheni pacator et Histri.
+
+Ostentare suos prisco si more labor es et gentes cuperet vulgo monstrare subactas, 15 certassent utroque pares a cardine laurus:
+
+haec Alamannorum spoliis, Australibus ilia ditior exuviis; illinc flavente Sygambri caesarie, nigris hinc Mauri crinibus irent.
+
+ipse albis veheretur equis currumque secutus laurigerum festo fremuisset carmine miles.
+
+hi famulos traherent reges; hi facta metallo oppida vel montes captivaque flumina ferrent.
+
+hinc Libyci fractis lugerent cornibus amnes;
+
+inde catenate gemeret Germania Rheno. 25 sed non inmodicus proprii iactator honoris consul, Roma, tuus. non illum praemia tantum quam labor ipse iuvat; strepitus fastidit inanes inque animis hominum pompa meliore triumphat.
+
+Non alium certe Romanae clarius arces suscepere ducem, nec cum cedente rediret
+
+Fabricius Pyrrho nec cum Capitolia curru
+
+Pellaeae domitor Paullus conscenderet aulae.
+
+nec similis Latias patefecit gloria portas post Numidas Mario, post classica Martis Eoi
+
+Pompeio. nulli pars aemula defuit umquam, quae gravis obstreperet laudi, stimulisque malignis facta sequebatur quamvis ingentia livor:
+
+solus hie invidiae fines virtute reliquit humanumque modum. quis enim livescere possit, 40 quod numquam pereant stellae? quod luppiter olim possideat caelum? quod noverit omnia Phoebus?
+
+est aliquod meriti spatium, quod nulla furentis invidiae mensura capit. ductoribus illis praeterea diversus erat favor: aequior ille patribus invisus plebi; popularibus illi munito studiis languebat gratia patrum.
+
+omnis in hoc uno variis discordia cessit ordinibus; laetatur eques plauditque senator votaque patricio certant plebeia favori.
+
+O felix servata vocat quem Roma parentem!
+
+o mundi communis amor, cui militat omnis
+
+Gallia, quem regum thalamis Hispania nectit, cuius et adventum crebris petiere Quirites vocibus et genero meruit praestante senatus!
+
+non sic virginibus flores, non frugibus imbres, prospera non fessis optantur flamina nautis, ut tuus adspectus populo. quae numine tanto litora fatidicas attollunt Delia laurus, venturi quotiens adfulsit Apollinis arcus?
+
+quae sic aurifero Pactoli fonte tumescit
+
+Lydia, cum domitis adparuit Euhius Indis?
+
+nonne vides et plebe vias et tecta latere matribus? his, Stilicho, cunctis inopina reluxit te victore salus! septem circumspice montes, qui solis radios auri fulgore lacessunt, indutosque arcus spoliis aequataque templa nubibus et quidquid tanti struxere triumphi.
+
+quantum profueris, quantam servaveris urbem, attonitis metire oculis. haec fabula certe cuncta forent, si Poenus adhuc incumberet Austro.
+
+Mos erat in veterum castris, ut tempora quercu velaret, validis fuso qui viribus hoste casurum potuit morti subduccre civem.
+
+at tibi quae poterit pro tantis civica reddi moenibus? aut quantae pensabunt facta coronae?
+
+nec solam populi vitam debere fatetur armis Roma tuis; sed, quo iucundior esset lucis honoratae fructus, venerabile famae pondus et amissas vires et regna recepit.
+
+iam non praetumidi supplex Orientis ademptam legatis poscit Libyam famulosve precatur
+
+(dictu turpe) suos: sed robore freta Gabino te duce Romana tandem se vindicat ira.
+
+ipsa iubet signis bellaturoque togatus imperat et spectant aquilae decreta senatus.
+
+ipsa tibi trabeas ultro dedit, ipsa curulem obtulit ultori fastosque ornare coegit.
+
+Nil perdit decoris prisci nec libera quaerit saecula, cum donet fasces, cum proelia mandet;
+
+seque etiam crevisse videt. quis Gallica rura, quis meminit Latio Senonum servisse ligones?
+
+aut quibus exemplis fecunda Thybris ab Arcto vexit Lingonico sudatas vomere messes?
+
+ilia seges non auxilium modo praebuit urbi, sed fuit indicio, quantum tibi, Roma, liceret:
+
+admonuit dominae gentes instarque tropaei rettulit ignotum gelidis vectigal ab oris.
+
+Hoc quoque maiestas augescit plena Quirini, rectores Libyae populo quod iiidice pallent et post emeritas moderator quisque secures discrimen letale subit, quid Poenus arator intulerit, madidus quantum transmiserit Auster.
+
+ardua qui late terris responsa dedere, hic trepidant humiles; tremuit quos Africa nuper, cernunt rostra reos. cani virtutibus aevi materiam pandit Stilicho populumque vetusti culminis inmemorem dominandi rursus in usum excitat, ut magnos calcet metuendus honores, pendat iustitia crimen, pietate remittat errorem purosque probet damnetque nocentes et patrias iterum clemens exerceat artes.
+
+Fallitur egregio quisquis sub principe credit servitium. numquam libertas gratior extat quam sub rege pio. quos praeficit ipse regendis rebus, ad arbitrium plebis patrumque reducit conceditque libens, meritis seu praemia poscant seu punire velint. posito iam purpura fastu de se iudicium non indignatur haberi.
+
+sic docuit regnare socer, sic cauta iuventae 120 frena dedit, teneros sic moribus induit annos verior Augusti genitor, fiducia belli, pacis consilium: per quem squalore remote pristina Romuleis infloruit artibus aetas, per quem fracta diu translataque paene potestas non oblita sui servilibus exulat arvis, in proprium sed ducta larem victricia reddit fata solo fruiturque iterum, quibus haeserat olim, auspiciis capitique errantia membra reponit.
+
+Proxime dis consul, tantae qui prospicis urbi, qua nihil in terris complectitur altius aether, cuius nec spatium visus nec corda decorem nec laudem vox ulla capit; quae luce metalli aemula vicinis fastigia conserit astris;
+
+quae septem scopulis zonas imitatur Olympi;
+
+armorum legumque parens quae fundit in omnes imperium primique dedit cunabula iuris.
+
+haec est exiguis quae finibus orta tetendit in geminos axes parvaque a sede profecta dispersit cum sole manus. haec obvia fatis innumeras uno gereret cum tempore pugnas,
+
+Hispanas caperet, Siculas obsideret urbes et Gallum terris prosterneret, aequore Poenum, numquam succubuit damnis et territa nullo vulnere post Cannas maior Trebiamque fremebat et, cum iam premerent flammae murumque feriret hostis, in extremos aciem mittebat Hiberos nec stetit Oceano remisque ingressa profundum vincendos alio quaesivit in orbe Britannos.
+
+haec est in gremium victos quae sola recepit humanumque genus communi nomine fovit matris, non dominae ritu, civesque vocavit quos domuit nexuque pio longinqua revinxit.
+
+huius pacificis debemus moribus omnes, quod veluti patriis regionibus utitur hospes;
+
+quod sedem mutare licet; quod cernere Thylen lusus et horrendos quondam penetrare recessus;
+
+quod bibimus passim Rhodanum, potamus Orontem;
+
+quod cuncti gens una sumus. nec terminus umquam
+
+Romanae dicionis erit, nam cetera regna luxuries vitiis odiisque superbia vertit:
+
+sic male sublimes fregit Spartanus Athenas atque idem Thebis cecidit; sic Medus ademit
+
+Assyrio Medoque tulit moderamina Perses;
+
+subiecit Persen Macedo, cessurus et ipse
+
+Romanis. haec auguriis firmata Sibyllae, haec sacris animata Numae. huic 1 fulmina vibrat
+
+Iuppiter; hanc tota Tritonia Gorgone velat.
+
+arcanas huc Vesta faces, huc orgia Bacchus transtulit et Phrygios genetrix turrita leones;
+
+hue defensurus morbos Epidaurius hospes reptavit placido tractu, vectumque per undas insula Paeonium texit Tiberina draconem.
+
+Hanc tu cum superis, Stilicho praeclare, tueris, protegis hanc clipeo patriam regumque ducumque praecipueque tuam. dedit haec exordia lucis
+
+Eucherio puerumque ferens hic regia mater
+
+Augusto monstravit avo; laetatus at ille sustulit in Tyria reptantem veste nepotem,
+
+Romaque venturi gaudebat praescia fati, quod te iam tanto meruisset pignore civem.
+
+Nee tamen ingratum nec, qui benefacta referre nesciat, hunc credas populum. si volvere priscos annales libeat: quotiens hic proelia sumpsit pro sociis! quotiens dono concessit amicis regibus Ausonio quaesitas sanguine terras!
+
+publica sed numquam tanto se gratia fudit adsensu: quis enim princeps non omnibus egit obsequiis dominum sese patremque vocari, quod tibi continuis resonant convexa diebus?
+
+macte novis consul titulis! Mavortia plebes te dominum Bruto non indignante fatetur et, quod adhuc nullo potuit terrore coacta libertas Romana pati, Stilichonis amori detulit. exultant avidi, quocumque decorus conspiciare loco, nomenque ad sidera tollunt nec vaga dilecto satiantur lumina vultu:
+
+seu circum trabeis fulgentibus aureus intres, seu celebres ludos, solio seu fultus eburno cingas iure forum, denso seu turbine vulgi circumfusa tuae conscendant rostra secures.
+
+Quae vero procerum voces, quam certa fuere gaudia, cum totis exurgens ardua pennis ipsa duci sacras Victoria panderet aedes!
+
+o palma viridi gaudens et amica tropaeis custos imperii virgo, quae sola mederis vulneribus nullumque doces sentire laborem, seu tibi Dictaeae placuerunt astra Coronae seu magis aestivo sedes vicina Leoni, seu sceptrum sublime Iovis seu Palladis ambis aegida, seu fessi mulces suspiria Martis, adsis perpetuum Latio votisque senatus adnue, diva, tui. Stilicho tua saepius ornet limina teque simul rediens in castra reducat.
+
+hunc bellis comitare favens, hunc redde togatum consiliis. semper placidis te moribus egit servavitque piam victis nec polluit umquam laurum saevitia. cives nec fronte superba despicit aut trepidam vexat legionibus urbem;
+
+sed verus patriae consul cessantibus armis contentus lictore venit nec inutile quaerit ferri praesidium solo munitus amore.
+
+Magnarum nec parens opum geminare profundas distulit impensas, sed post miracula castris edita vel genero Romae maiora reservat.
+
+auratos Rhodiis imbres nascente Minerva indulsisse Iovem perhibent, Bacchoque paternum iam pulsante femur mutatus palluit Hermus in pretium, votique famem passurus avari ditabat rutilo quidquid Mida tangeret auro;
+
+fabula seu verum canitur: tua copia vicit fontem Hermi tactumque Midae pluviamque Tonantis.
+
+obscurat veteres obscurabitque futuros par donis armisque manus; si solveret ignis quot dedit inmanes vili pro pondere massas argenti, potuere lacus et flumina fundi.
+
+Nee tibi, quae pariter silvis dominaris et astris, exiguam Stilicho movit, Latonia, curam:
+
+tu quoque nobilibus spectacula nostra laboras inlustrare feris summoque in vertice rupis
+
+Alpinae socias arcu cessante pudicas et pharetratarum comitum inviolabile cogis concilium, veniunt umcros et brachia nudae armataeque manus iaculis et terga sagittis, incomptae pulchraeque tamen; sudoribus ora pulverulenta rubent, sexum nec cruda fatetur virginitas; sine lege comae; duo cingula vestem crure tenus pendere vetant. praecedit amicas flava Leontodame, sequitur nutrita Lycaeo
+
+Nebrophone telisque domat quae Maenala Thero.
+
+ignea Cretaea properat Britomartis ab Ida et cursu Zephyris numquam cessura Lycaste.
+
+iungunt se geminae metuenda feris Hecaerge et soror, optatum numen venantibus, Opis progenitae Scythia: divas nemorumque potentes fecit Hyperboreis Delos praelata pruinis.
+
+hae septem venere duces; exercitus alter
+
+Nympharum incedunt, acies formosa Dianae, centum Taygeti, centum de vertice Cynthi et totidem casto genuit quas flumine Ladon.
+
+has ubi collectas vidit, sic Delia coepit:
+
+“O sociae, mecum thalami quae iura perosae virgineo gelidos percurritis agmine montes, cernitis ut Latio superi communibus ornent hunc annum studiis? quantos Neptunus equorum donet ab orbe greges? laudi quod nulla canendae fratris plectra vacent? nostram quoque sentiat idem quam meritis debemus opem. non spicula poscit iste labor; maneant clausis nunc sicca pharetris, omnis et a solitis noster venatibus arcus temperet; in solam cruor hic servetur harenam.
+
+retibus et clatris dilata morte tenendae ducendaeque ferae, cupidas arcete sagittas;
+
+consulis in plausum casuris parcite monstris.
+
+acceleret divisa manus: mihi cursus anhelas tenditur ad Syrtes, mecum Dictynna Lycaste et comes Opis eat; steriles iuvat ire per aestus:
+
+namque feras aliis tellus Maurusia donum praebuit, huic soli debet sed victa tributum.
+
+dum nos horribiles Libyae scrutamur alumnos,
+
+Europae vos interea perquirite saltus et scopulos. posita ludat formidine pastor securisque canat Stilichonem fistula silvis.
+
+pacet muneribus montes qui legibus urbes.”
+
+Dixit et extemplo frondosa fertur ab Alpe trans pelagus; cervi currum subiere iugales, quos decus esse deae primi sub limine caeli roscida fecundis concepit Luna cavernis:
+
+par nitor intactis nivibus; frons discolor auro germinat et spatio summas aequantia fagos cornua ramoso surgunt procera metallo.
+
+Opis frena tenet, fert retia rara Lycaste auratasque plagas, inmortalesque Molossi latrantes mediis circum iuga nubibus ibant.
+
+quinque aliae paribus (Phoebe sic iusserat) armis diversa regione ruunt ducitque cohortem quaeque suam. variae formis et gente sequuntur ingenioque canes, illae gravioribus aptae morsibus, hae pedibus celeres, hae nare sagaces, hirsutaeque fremunt Cressae tenuesque Lacaenac magnaque taurorum fracturae colla Britannae.
+
+Dalmatiae lucos abruptaque brachia Pindi sparsa comam Britomartis agit. tu Gallica cingis lustra, Leontodame, Germanorumque paludes eruis et si quis defensus harundine Rheni vastus aper nimio dentes curvaverat aevo.
+
+nubiferas Alpes Appenninique recessus
+
+Garganique nives Hecaerge prompta fatigat, speluncas canibus Thero rimatur Hiberas informesque cavis ursos detrudit ab antris, quorum saepe Tagus manantes sanguine rictus non satiavit aquis et quos iam frigore segnes
+
+Pyrenaea tegit latebrosis frondibus ilex.
+
+Cyrnaeis Siculisque iugis venata virago
+
+Nebrophone cervos aliasque in vincula cogit non saevas pecudes, sed luxuriantis harenae delicias, pompam nemorum. Quodcumque tremcndum dentibus aut insigne iubis aut nobile cornu aut rigidum saetis, capitur decus omne timorque silvarum. non cauta latent, non mole resistunt fortia, non volucri fugiunt pernicia cursu.
+
+haec laqueis innexa gemunt; haec clausa feruntur ilignis domibus. fabri nec tigna polire sufficiunt; rudibus fagis texuntur et ornis frondentes caveae. ratibus pars ibat onustis per freta vel fluvios: exanguis dextera torpet remigis et propriam metuebat navita mercem.
+
+per terram pars ducta rotis, longoque morantur ordine plaustra vias montanis plena triumphis et fera sollicitis vehitur captiva iuvencis, explebat quibus ante famem, quotiensque reflexi conspexere boves, pavidi temone recedunt.
+
+Iamque pererratis Libyae flagrantibus oris legerat eximios Phoebi germana leones,
+
+Hesperidas qui saepe fugant ventoque citatis terrificant Atlanta iubis armentaque longe vastant Aethiopum quorumque impune fragosa murmura pastorum numquam venere per aures.
+
+non illos tacdae ardentes, non strata superne lapsuro virgulta solo, non vocibus haedi pendentis stimulata fames, non fossa fefellit;
+
+ultro se voluere capi gaudentque videri tantae praeda deae. respirant pascua tandem;
+
+agricolae reserant iam tuta mapalia Mauri.
+
+tum virides pardos et cetera colligit Austri prodigia inmanesque simul Latonia dentes, qui secti ferro in tabulas auroque micantes inscripti rutilum caelato consule nomen per proceres et vulgus eant. stupor omnibus Indis plurimus ereptis elephas inglorius errat dentibus: insedit nigra cervice gementum et fixum dea quassat ebur penitusque cruentis stirpibus avulsis patulos exarmat hiatus, ipsos quin etiam nobis miracula vellet ducere: sed pigra cunctari mole veretur.
+
+Tyrrhenas fetus Libycos amplexa per undas classis torva 1 sonat, caudamque in puppe retorquens ad proram iacet usque leo: vix sublevat unum tarda ratis! fremitus stagnis auditur in imis cunctaque prosiliunt cete terrenaque Nereus confert monstra suis et non aequare fatetur.
+
+aequora sic victor quotiens per rubra Lyaeus navigat, intorquet clavum Silenus et acres adsudant tonsis Satyri taurinaque pulsu
+
+Baccharum Bromios invitant tympana remos:
+
+transtra ligant hederae, malum circumflua vestit pampinus, antennis inlabitur ebria serpens, perque mero madidos currunt saliuntque rudentes lynces et insolitae mirantur carbasa tigres.

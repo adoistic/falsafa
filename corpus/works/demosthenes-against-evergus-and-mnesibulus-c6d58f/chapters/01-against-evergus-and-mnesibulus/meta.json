@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-evergus-and-mnesibulus-c6d58f",
+  "work_title": "Against Evergus and Mnesibulus",
+  "chapter_number": 1,
+  "chapter_title": "Against Evergus and Mnesibulus",
+  "chapter_slug": "01-against-evergus-and-mnesibulus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f789c3cb-f35e-5e91-b26c-9f53c1e45e20",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5389,
+      "paragraph_count": 103,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg047.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77c4e1ad-5e69-5bea-8fa6-c60ce41a7c74",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8568,
+      "paragraph_count": 108,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg047.perseus-eng2"
+    }
+  ]
+}

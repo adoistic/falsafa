@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-a-caecina-bc88d4",
+  "work_title": "Pro A. Caecina",
+  "chapter_number": 1,
+  "chapter_title": "Pro A. Caecina",
+  "chapter_slug": "01-pro-a-caecina",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "04b3e2cf-521a-5123-af64-fd021f2fee73",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10057,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi008.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1394eeb-b5de-5b58-b955-eb9e17622fdb",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 18310,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi008.perseus-eng2"
+    }
+  ]
+}

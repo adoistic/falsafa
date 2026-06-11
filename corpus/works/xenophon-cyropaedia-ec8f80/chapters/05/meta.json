@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-cyropaedia-ec8f80",
+  "work_title": "Cyropaedia",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7cfed2dc-fcbc-5498-933b-cd2c81ba465c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11390,
+      "paragraph_count": 225,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg007.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1ea40a0-7f75-5ba0-8551-0e2395b5cd81",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16713,
+      "paragraph_count": 285,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg007.perseus-eng2:5"
+    }
+  ]
+}

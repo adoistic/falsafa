@@ -16,7 +16,7 @@ description: The war that broke the Greek world, told by a participant who set o
 difficulty: Advanced
 published_year: -400
 total_logical_chapters: 8
-total_variant_entries: 8
+total_variant_entries: 16
 thothica_role: catalog
 ---
 
@@ -26,11 +26,11 @@ The war that broke the Greek world, told by a participant who set out to write a
 
 ## Chapters
 
-01. [Book 1](./chapters/01/) — prose, 1 variant
-02. [Book 2](./chapters/02/) — prose, 1 variant
-03. [Book 3](./chapters/03/) — prose, 1 variant
-04. [Book 4](./chapters/04/) — prose, 1 variant
-05. [Book 5](./chapters/05/) — prose, 1 variant
-06. [Book 6](./chapters/06/) — prose, 1 variant
-07. [Book 7](./chapters/07/) — prose, 1 variant
-08. [Book 8](./chapters/08/) — prose, 1 variant
+01. [Book 1](./chapters/01/) — prose, 2 variants
+02. [Book 2](./chapters/02/) — prose, 2 variants
+03. [Book 3](./chapters/03/) — prose, 2 variants
+04. [Book 4](./chapters/04/) — prose, 2 variants
+05. [Book 5](./chapters/05/) — prose, 2 variants
+06. [Book 6](./chapters/06/) — prose, 2 variants
+07. [Book 7](./chapters/07/) — prose, 2 variants
+08. [Book 8](./chapters/08/) — prose, 2 variants

@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-aphobus-ii-365946",
+  "work_title": "Against Aphobus II",
+  "chapter_number": 1,
+  "chapter_title": "Against Aphobus II",
+  "chapter_slug": "01-against-aphobus-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e9acf081-5285-53d8-a9d2-5e896057b408",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1516,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg028.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6297087-f9e2-59b8-89db-f7d4177eacaa",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2444,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg028.perseus-eng2"
+    }
+  ]
+}

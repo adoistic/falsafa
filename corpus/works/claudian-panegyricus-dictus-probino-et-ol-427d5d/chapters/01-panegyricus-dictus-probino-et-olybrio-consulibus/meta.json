@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-panegyricus-dictus-probino-et-ol-427d5d",
+  "work_title": "Panegyricus dictus Probino et Olybrio consulibus",
+  "chapter_number": 1,
+  "chapter_title": "Panegyricus dictus Probino et Olybrio consulibus",
+  "chapter_slug": "01-panegyricus-dictus-probino-et-olybrio-consulibus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c19d7f92-0950-5bc8-a24d-9c1d179a5fca",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1704,
+      "paragraph_count": 103,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa014.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7bcd19e-4d8d-597e-934a-3088e811055e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2779,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa014.perseus-eng1"
+    }
+  ]
+}

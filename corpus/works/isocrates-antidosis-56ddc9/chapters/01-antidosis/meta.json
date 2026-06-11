@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-antidosis-56ddc9",
+  "work_title": "Antidosis",
+  "chapter_number": 1,
+  "chapter_title": "Antidosis",
+  "chapter_slug": "01-antidosis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "49807f8f-3882-579d-aba3-59385793e682",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 17618,
+      "paragraph_count": 322,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg019.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8a001b6-0e4b-5740-97d2-b3167eea8630",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 26045,
+      "paragraph_count": 302,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg019.perseus-eng2"
+    }
+  ]
+}

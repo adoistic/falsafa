@@ -1,0 +1,25 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 182
+chapter_title: "Chapter text=A:book=9:letter=2a"
+chapter_slug: 182
+variant_id: "32c70aaa-041e-5cdf-ae1e-412eb41fa46c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 645
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:182"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) FORMIAE, 8 MARCH
+
+WHAT a difficult, what a hopeless thing! You pass over no point in giving your advice, and yet how completely you fail to reveal what your real opinion is! You are glad that I am not with Pompey, and yet you suggest how dibcreditable it would be for me to be in the House when any attack is made on him; yet shocking to approve his conduct. Certainly. To speak against him, then? "God forbid!" say you. What, then, is to be done, if the one course is criminal, the other exposed to punishment? "You will obtain permission," say you, "from Caesar to absent yourself and live in retirement." Am I to implore this permission, then? How humiliating! What if I fail to get it? Again, you say, "The question of your triumph will be unprejudiced." What if this very thing is used to put pressure upon me? Should I accept it? What a disgrace! Should I decline it? Caesar will think that I am repudiating his whole policy, as formerly in the case of the land commission. Why, in excusing himself, he always throws the whole blame for what then happened on me, saying that I was so bitterly opposed to him, that I would not accept even an honour at his hands. With how much greater irritation will he take a similar proceeding from me now? It will, of course, be greater in proportion as this honour is greater than the former, and he is himself in a stronger position. But you say that you have no doubt I am in very bad odour with Pompey by this time: I don't see why that should be the case, particularly at this time. Shall a man who never told me anything about his plan, till after he had lost Corfinium, complain of my not having come to Brundisium, when Caesar lay between me and Brundisium? In the next place, complaint on his side he must know to be barred. He considers that I was clearer sighted than he about the weakness of the municipal towns, the levies, the maintenance of peace, the city, money, and the need of occupying Picenum. If, on the other hand, I don't go when it is in my power, he will have some right to be angry with me: and I shrink from that, not for fear of his hurting me—-for what could he do? And Who is a slave who does not fear to die?
+
+But because I have a horror of ingratitude. I feel confident, therefore, that my arrival in his camp, whenever it takes place, will, as you say, be welcome enough. For as to what you say, "If Caesar acts with more moderation you will reconsider your advice to me "- how can he help behaving ruthlessly? Character, previous career, the very nature of his present undertaking, his associates, the strength of the loyalists, or even their firmness, all forbid it. I had scarcely read your letter, when Curtius Postumus called on me as he was hurrying to join Caesar, talking of nothing but fleets and armies—"Caesar was going to seize the Spains, occupy Asia, Sicily, Africa, Sardinia, and was promptly pursuing Pompey into Greece." I must start, therefore, with the view of sharing not so much in a war as in a stampede. For I shall never be able to stand the gossip of your folk at Rome, whatever they are, for loyalists they are not, in spite of their name. Nevertheless, it is precisely that which I want to know— what they say; and I earnestly entreat you to make inquiries and inform me. As yet I am entirely ignorant of what has happened at Brundisium: when I know, I shall shape my plans in the light of facts and circumstances, but I shall consult you.

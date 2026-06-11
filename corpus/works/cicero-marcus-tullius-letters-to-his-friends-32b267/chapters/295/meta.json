@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-his-friends-32b267",
+  "work_title": "Letters to his Friends",
+  "chapter_number": 295,
+  "chapter_title": "Chapter text=F:book=6:letter=2",
+  "chapter_slug": "295",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "92d43d20-4a5f-5588-a946-343d51ea30d0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 391,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:295"
+    }
+  ]
+}

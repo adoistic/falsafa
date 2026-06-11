@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 72
+chapter_title: Chapter 11
+chapter_slug: 72
+variant_id: "49b16f5c-aee2-5cc2-bb0d-660b7ec48438"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 445
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:72"
+translator: Perseus Digital Library
+---
+
+O Caius Caesar (I am speaking of the young man), what safety have you brought to the republic! How unforeseen has it been! how sudden! for if he did these things when flying, what would he have done when he was pursuing? In truth, he had said in a harangue that he would be the guardian of the city; and that he would keep his army at the gates of the city till the first of May. What a fine guardian (as the proverb goes) is the wolf of the sheep! Would Antonius have been a guardian of the city, or its plunderer and destroyer? And he said too that he would come into the city and go out as he pleased. What more need I say? Did he not say, in the hearing of all the people, while sitting in front of the temple of Castor, that no one should remain alive but the conqueror?
+
+On this day, O conscript fathers, for the first time after a long interval do we plant our foot and take possession of liberty. Liberty, of which, as long as I could be, I was not only the defender, but even the savior. But when I could not be so, I rested; and I bore the misfortunes and misery of that period without abjectness, and not without some dignity. But as for this most foul monster, who could endure him, or how could any one endure him? What is there in Antonius except lust, and cruelty, and wantonness, and audacity? Of these materials he is wholly made up. There is in him nothing virtuous, nothing moderate, nothing modest, nothing virtuous. Wherefore, since the matter has come to such a crisis that the question is whether he is to make atonement to the republic for his crimes, or we are to become slaves, let us at last, I beseech you, by the immortal gods. O conscript fathers, adopt our fathers' courage, and our fathers' virtue so as either to recover the liberty belonging to the Roman name and race, or else to prefer death to slavery. We have borne and endured many things which ought not to be endured in a free city: some of us out of a hope of recovering our freedom, some from too great a fondness for life. But if we have submitted to these things, which necessity and a sort of forcer which may seem almost to have been put on us by destiny, have compelled us to endure; though, in point of fact, we have not endured them; are we also to bear with the most shameful and inhuman tyranny of this profligate robber?

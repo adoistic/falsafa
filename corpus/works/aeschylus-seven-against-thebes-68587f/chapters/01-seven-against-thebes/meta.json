@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschylus-seven-against-thebes-68587f",
+  "work_title": "Seven Against Thebes",
+  "chapter_number": 1,
+  "chapter_title": "Seven Against Thebes",
+  "chapter_slug": "01-seven-against-thebes",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8312007e-c13d-5acd-8061-dde22f39fdfe",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5302,
+      "paragraph_count": 1065,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57b5a669-2dba-5a8e-83b3-a9adee102126",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9142,
+      "paragraph_count": 303,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2"
+    }
+  ]
+}

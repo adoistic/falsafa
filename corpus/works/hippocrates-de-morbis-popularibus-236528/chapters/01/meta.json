@@ -1,0 +1,38 @@
+{
+  "work_slug": "hippocrates-de-morbis-popularibus-236528",
+  "work_title": "De morbis popularibus",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "566d4514-9d31-5a0f-aa8d-d188795f1f45",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7728,
+      "paragraph_count": 138,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg006.perseus-eng4:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b561f4d-46bf-5b50-bee2-78aba97c1b5b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8236,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg006.perseus-eng3:1"
+    }
+  ]
+}

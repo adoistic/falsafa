@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-amores-1d386d",
+  "work_title": "Amores",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eed5eca9-d9e1-59bb-96e2-6279fcf84bce",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5276,
+      "paragraph_count": 812,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi001.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9e2acfa-04c5-5d20-92d5-cbf905eec4de",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7380,
+      "paragraph_count": 920,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi001.perseus-eng2:2"
+    }
+  ]
+}

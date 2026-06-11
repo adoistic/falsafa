@@ -1,0 +1,38 @@
+{
+  "work_slug": "hyperides-in-defence-of-euxenippus-a81c81",
+  "work_title": "In Defence of Euxenippus",
+  "chapter_number": 1,
+  "chapter_title": "In Defence of Euxenippus",
+  "chapter_slug": "01-in-defence-of-euxenippus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "948ca412-b06f-5889-9ead-ff1e0bd783de",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2728,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0030.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "13d5d9a9-25fd-571f-b2de-dc5cc1f507e1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3563,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0030.tlg004.perseus-eng2"
+    }
+  ]
+}

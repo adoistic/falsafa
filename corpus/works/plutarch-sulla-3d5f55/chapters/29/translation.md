@@ -1,0 +1,33 @@
+---
+work_id: "3d5f5527-8162-539f-82f0-7c5bcc0cbcdc"
+work_slug: "plutarch-sulla-3d5f55"
+work_title: Sulla
+author_name: Plutarch
+chapter_number: 29
+chapter_title: Chapter 29
+chapter_slug: 29
+variant_id: "ab1b1347-bcb8-57f4-886e-ecf0e143fec5"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 673
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:29"
+translator: Bernadotte Perrin
+---
+
+In Sulla’s last struggle, however, Telesinus the Samnite, like a third wrestler who sits by to contend with a weary victor, came near tripping and throwing him at the gates of Rome. For he had collected a large force, and was hastening, together with Lamponius the Lucanian, to Praeneste, in order to relieve Marius from the siege.
+
+But when he learned that Sulla to his front, and Pompey to his rear, were hurrying up against him, since he was being hemmed in before and behind, valiant and highly experienced soldier that he was, he broke camp by night, and marched with all his army against Rome itself. And he came within a little of breaking into the city in its unguarded state; indeed, he was only nine furlongs from the Colline gate when he bivouacked against it, highly encouraged and elated with hopes at the thought of having outgeneralled so many great commanders.
+
+And when, at day-break, the noblest youth of the city rode out against him, he overwhelmed many of them, including Appius Claudius, a man of high birth and character. There was a tumult in the city, naturally, and shrieking of women, and running hither and thither, as though the city were taken by storm, when Balbus, sent forward by Sulla, was first seen riding up at full speed with seven hundred horsemen. He paused just long enough to let the sweat of the horses dry off, and then quickly bridled them again and attacked the enemy.
+
+At this juncture, Sulla also made his appearance, and ordering his vanguard to take food at once, proceeded to form them in order of battle. Dolabella and Torquatus earnestly besought him to wait a while, and not to hazard the supreme issue with his men fatigued and spent; for they were to contend not with Carbo and Marius, but with Samnites and Lucanians, the most inveterate enemies of Rome, and the most warlike of peoples. But he put them by, and commanded the trumpets to sound the charge, though it was now getting on towards four o’clock in the afternoon.
+
+In the struggle which followed, and no other was so fierce, the right wing, where Crassus was posted, was brilliantly successful; but the left was hard pressed and in a sorry plight, when Sulla came to its assistance, mounted on a white horse that was mettlesome and very swift. By this horse two of enemy recognised him, and poised their spears for the cast. Sulla himself, now, did not notice this, but his groom did, and with a cut of the lash succeeded in sending Sulla’s horse along so that the spear-heads just grazed its tail and fixed themselves in the ground.
+
+There is also a story that Sulla had a little golden image of Apollo from Delphi which he always carried in his bosom when he was in battle, but that on this occasion he took it out and kissed it affectionately, saying: O Pythian Apollo, now that thou hast in so many struggles raised the fortunate Cornelius Sulla to glory and greatness, can it be that thou hast brought him to the gates of his native city only to cast him down there, to perish most shamefully with his fellow-countrymen?
+
+Thus invoking the god, they say, he entreated some of his men, threatened others, and laid hands on others still; but at last his left wing was completely shattered, and with the fugitives he sought refuge in his camp, after losing many friends amid acquaintances. Not a few also of those who had come out of the city to see the battle were trodden under foot and killed, so that it was thought that all was over with the city, and that the siege of Marius in Praeneste was all but raised; indeed many of the fugitives made their way thither and urged Lucretius Ofella, who had been appointed to conduct the siege, to break camp with all speed, since Sulla had fallen, and Rome was in the hands of the enemy.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-de-domo-9932cf",
+  "work_title": "De Domo",
+  "chapter_number": 1,
+  "chapter_title": "De Domo",
+  "chapter_slug": "01-de-domo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f4dbfcb-e54c-5a4a-a2c1-759c88339f39",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3136,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg009.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7168201-9166-5be8-8a09-eb8a76107645",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3868,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg009.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+---
+work_id: "dfd661a7-7a0f-5411-9892-ecdc6f527cb6"
+work_slug: "plutarch-lysander-dfd661"
+work_title: Lysander
+author_name: Plutarch
+chapter_number: 30
+chapter_title: Chapter 30
+chapter_slug: 30
+variant_id: "66d3151c-3fcf-56ec-905f-69feaf1bf823"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 431
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg032.perseus-eng2:30"
+translator: Bernadotte Perrin
+---
+
+Now that Lysander had met with such an end, at the outset the Spartans were so indignant about it that they summoned the king to trial for his life; but he evaded it, and fled to Tegea, where he spent the rest of his days as a suppliant in the sanctuary of Athena.
+
+For the poverty of Lysander, which was discovered at his death, made his excellence more apparent to all, since from the vast wealth and power in his hands, and from the great homage paid him by cities and the Great King, he had not, even in the slightest degree, sought to amass money for the aggrandizement of his family. This is the testimony of Theopompus, who is more to be trusted when he praises than when he blames; for he takes more pleasure in blaming than in praising.
+
+But after some time had passed, according to Ephorus, some dispute arose at Sparta with her allies, and it became necessary to inspect the writings which Lysander had kept by him; for which purpose Agesilaus went to his house. And when he found the book containing the speech on the constitution, which argued that the kingship ought to be taken from the Eurypontidae and Agiadae and made accessible to all Spartans alike, and that the choice should be made from the best of these, he was eager to produce the speech before his countrymen, and show them what the real character of Lysander’s citizenship had been. But Lacratidas, a prudent man, and at that time the principal ephor, held Agesilaus back, saying that they ought not to dig Lysander up again, but rather to bury the speech along with him, since it was composed with such a subtle persuasiveness.
+
+However, they paid him many honors at his death. In particular, they imposed a fine upon the men who had engaged to marry his daughters, and then, after Lysander’s death, when he was discovered to be poor, had renounced the engagement. The reason given for the fine was that the men had paid court to Lysander while they thought him rich, but when his poverty showed them that he was a just and good man, they forsook him. For there was, as it appears, a penalty at Sparta not only for not marrying at all, and for a late marriage, but also for a bad marriage and to this last they subjected those especially who sought alliance with the rich, instead of with the good and with their own associates. Such, then, are the accounts we have found given of Lysander.

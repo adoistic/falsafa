@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-the-trojan-women-d7be5e",
+  "work_title": "The Trojan Women",
+  "chapter_number": 1,
+  "chapter_title": "The Trojan Women",
+  "chapter_slug": "01-the-trojan-women",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f3b42ff1-24cc-545c-ad06-2b2bc487c2df",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7432,
+      "paragraph_count": 1344,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg011.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "094f0544-1a4c-52be-9c73-384ef51ababa",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11672,
+      "paragraph_count": 327,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg011.perseus-eng2"
+    }
+  ]
+}

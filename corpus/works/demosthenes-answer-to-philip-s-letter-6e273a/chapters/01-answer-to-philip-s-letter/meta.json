@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-answer-to-philip-s-letter-6e273a",
+  "work_title": "Answer to Philip’s Letter",
+  "chapter_number": 1,
+  "chapter_title": "Answer to Philip’s Letter",
+  "chapter_slug": "01-answer-to-philip-s-letter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ca076159-421c-5e74-bb65-78e373d1feab",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1288,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg011.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6124eb10-7304-5bb3-ba8c-a538de30415a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1674,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg011.perseus-eng2"
+    }
+  ]
+}

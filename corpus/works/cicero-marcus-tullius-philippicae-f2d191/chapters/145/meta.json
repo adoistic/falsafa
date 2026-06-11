@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 145,
+  "chapter_title": "Chapter 10",
+  "chapter_slug": "145",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c4bd7de-bbf1-553d-8867-67df0a2e547c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 524,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:145"
+    }
+  ]
+}

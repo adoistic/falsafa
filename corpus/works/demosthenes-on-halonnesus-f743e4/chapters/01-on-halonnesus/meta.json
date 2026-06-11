@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-on-halonnesus-f743e4",
+  "work_title": "On Halonnesus",
+  "chapter_number": 1,
+  "chapter_title": "On Halonnesus",
+  "chapter_slug": "01-on-halonnesus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "436a0fcf-cf8f-5ead-9ebc-4a6b19c92810",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2442,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg007.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f041d2e2-2c42-5a61-91bd-145ad76ec3d2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3304,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg007.perseus-eng2"
+    }
+  ]
+}

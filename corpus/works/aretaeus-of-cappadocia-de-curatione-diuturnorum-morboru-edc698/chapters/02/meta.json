@@ -1,0 +1,38 @@
+{
+  "work_slug": "aretaeus-of-cappadocia-de-curatione-diuturnorum-morboru-edc698",
+  "work_title": "De curatione diuturnorum morborum libri duo",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e6eed60d-bdd4-5819-87f1-010a986e8449",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2602,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg004.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23fe9955-2eb6-5d43-b46d-597778babe65",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3692,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg004.perseus-eng2:2"
+    }
+  ]
+}

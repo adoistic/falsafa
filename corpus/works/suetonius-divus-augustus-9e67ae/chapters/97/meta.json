@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-divus-augustus-9e67ae",
+  "work_title": "Divus Augustus",
+  "chapter_number": 97,
+  "chapter_title": "Chapter 98",
+  "chapter_slug": "97",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e745dfd-b217-5af3-b4f4-b31bea4f5371",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 409,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-eng2:97"
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+[
+  {
+    "id": "p-3e943e",
+    "offset": 0,
+    "text": "(Enter DEMIPHO and CHREMES.)"
+  },
+  {
+    "id": "p-d218cf",
+    "offset": 30,
+    "text": "DEMIPHO:\nWell, have you brought your daughter with you, Chremes, for whom you went to Lemnos?"
+  },
+  {
+    "id": "p-902c52",
+    "offset": 125,
+    "text": "CHREMES:\nNo."
+  },
+  {
+    "id": "p-f2e2fc",
+    "offset": 139,
+    "text": "DEMIPHO:\nWhy not?"
+  },
+  {
+    "id": "p-051388",
+    "offset": 158,
+    "text": "CHREMES:\nWhen her mother found that I staid here longer than usual, and at the same time the age of the girl did not suit with my delays, they told me that she, with all her family, set out in search of me."
+  },
+  {
+    "id": "p-704d43",
+    "offset": 366,
+    "text": "DEMIPHO:\nPray, then, why did you stay there so long, when you had heard of this?"
+  },
+  {
+    "id": "p-e063ce",
+    "offset": 448,
+    "text": "CHREMES:\nWhy, faith, a malady detained me."
+  },
+  {
+    "id": "p-364985",
+    "offset": 492,
+    "text": "DEMIPHO:\nFrom what cause? Or what was it?"
+  },
+  {
+    "id": "p-832d4b",
+    "offset": 535,
+    "text": "CHREMES:\nDo you ask me?"
+  },
+  {
+    "id": "p-f4fb14",
+    "offset": 560,
+    "text": "Old age itself is a malady. However, I heard that they had arrived safe, from the caps tain who brought them."
+  },
+  {
+    "id": "p-f4a12a",
+    "offset": 671,
+    "text": "DEMIPHO:\nHave you heard, Chremes, what has happened to my son in my absence?"
+  },
+  {
+    "id": "p-8c8a88",
+    "offset": 749,
+    "text": "CHREMES:\n’Tis that, in fact, that has embarrassed me in my plans. For if I offer my daughter in marriage to any person that’s a stranger, it must all be told how and by whom I had her. You I knew to be fully as faithful to me as I am to myself; if a stranger shall think fit to be connected with me by marriage, he will hold his tongue, just as long as good terms exist between us: but if he takes a dislike to me, he’ll be knowing more than it’s proper he should know."
+  },
+  {
+    "id": "p-f4d30a",
+    "offset": 1220,
+    "text": "I am afraid, too, lest my wife should, by some means, come to know of it; if that is the case, it only remains for me to shake myself and leave the house; for I’m the only one I can rely on at home."
+  },
+  {
+    "id": "p-4f2390",
+    "offset": 1420,
+    "text": "DEMIPHO:\nI know it is so, and that circumstance is a cause of anxiety to me; and I shall never cease trying, until I’ve made good what I promised you."
+  },
+  {
+    "id": "p-7e3a2d",
+    "offset": 1572,
+    "text": "(Enter GETA, on the other side of the stage, not seeing DEMIPHO or CHREMES.)"
+  },
+  {
+    "id": "p-0210c4",
+    "offset": 1650,
+    "text": "GETA:\n(to himself.)\nI never saw a more cunning fellow than this Phormio. I came to the fellow to tell him that money was needed, and by what means it might be procured. Hardly had I said one half, when he understood me;"
+  },
+  {
+    "id": "p-d7bce0",
+    "offset": 1871,
+    "text": "he was quite delighted; complimented me; asked where the old man was; gave thanks to the Gods that an opportunity was afforded him for showing himself no less a friend to Phaedria than to Antipho: I bade the fellow wait for me at the Forum; whither I would bring the old gentleman."
+  },
+  {
+    "id": "p-cbb756",
+    "offset": 2154,
+    "text": "But see, here’s the very man (catching sight of the Old Man). Who is the further one? Heyday, Phaedria’s father has got back! still, brute beast that I am, what was I afraid of? Is it because two are presented instead of one for me to dupe? I deem it preferable to enjoy a two-fold hope. I’ll try for it from him from whom I first intended: if he gives it me, well and good; if I can make nothing of him, then I’ll attack this new-comer."
+  },
+  {
+    "id": "p-7aaefd",
+    "offset": 2593,
+    "text": "(Enter ANTIPHO from the house, behind at a distance.)"
+  },
+  {
+    "id": "p-1ed2fe",
+    "offset": 2648,
+    "text": "ANTIPHO:\n(to himself.)\nI’m expecting every moment that Geta will be here. But I see my uncle standing close by, with my father. Ah me! how much I fear what influence his return may have upon my father!"
+  },
+  {
+    "id": "p-cda52a",
+    "offset": 2851,
+    "text": "GETA:\n(to himself)\nI’ll accost them. (Goes up to them.) O welcome to you, our neighbor Chremes."
+  },
+  {
+    "id": "p-a14e24",
+    "offset": 2948,
+    "text": "CHREMES:\nSave you, Geta."
+  },
+  {
+    "id": "p-dd65b8",
+    "offset": 2974,
+    "text": "GETA:\nI’m delighted to see you safe returned."
+  },
+  {
+    "id": "p-5be031",
+    "offset": 3021,
+    "text": "CHREMES:\nI believe you."
+  },
+  {
+    "id": "p-5e5ecb",
+    "offset": 3046,
+    "text": "GETA:\nHow go matters?"
+  },
+  {
+    "id": "p-5654c0",
+    "offset": 3069,
+    "text": "CHREMES:\nMany changes here upon my arrival, as usually the case."
+  },
+  {
+    "id": "p-1252bd",
+    "offset": 3135,
+    "text": "GETA:\nTrue; have you heard what has happened to Antipho?"
+  },
+  {
+    "id": "p-a9dcca",
+    "offset": 3193,
+    "text": "CHREMES:\nAll."
+  },
+  {
+    "id": "p-2eb6ad",
+    "offset": 3208,
+    "text": "GETA:\n(to DEMIPHO.)\nWhat, have you told him? Disgraceful conduct, Chremes, thus to be imposed on."
+  },
+  {
+    "id": "p-81dbf8",
+    "offset": 3307,
+    "text": "DEMIPHO:\nIt was about that I was talking to him just now."
+  },
+  {
+    "id": "p-63d0e6",
+    "offset": 3366,
+    "text": "GETA:\nBut really, on carefully reflecting upon this matter I think I have found a remedy."
+  },
+  {
+    "id": "p-21c4d5",
+    "offset": 3457,
+    "text": "DEMIPHO:\nWhat is the remedy?"
+  },
+  {
+    "id": "p-a44892",
+    "offset": 3487,
+    "text": "GETA:\nWhen I left you, by accident Phormio met me."
+  },
+  {
+    "id": "p-5fdb11",
+    "offset": 3539,
+    "text": "CHREMES:\nWho is Phormio?"
+  },
+  {
+    "id": "p-2dc5c7",
+    "offset": 3565,
+    "text": "GETA:\nHe who patronized her."
+  },
+  {
+    "id": "p-5eb9c7",
+    "offset": 3595,
+    "text": "CHREMES:\nI understand."
+  },
+  {
+    "id": "p-ad4119",
+    "offset": 3619,
+    "text": "GETA:\nIt seemed to me that I might first sound him;"
+  },
+  {
+    "id": "p-42cfe2",
+    "offset": 3672,
+    "text": "I took the fellow aside: Phormio, said I, why don’t we try to settle these matters between us rather with a good grace than with a bad one? My master’s a generous man, and one who hates litigation; but really, upon my faith, all his friends were just now advising him with one voice to turn her instantly out of doors."
+  },
+  {
+    "id": "p-af1885",
+    "offset": 3992,
+    "text": "ANTIPHO:\n(apart.)\nWhat is he about? Or where is this to end at last?"
+  },
+  {
+    "id": "p-fc389e",
+    "offset": 4062,
+    "text": "GETA:\n(continuing the supposed conversation.)\nHe’ll have to give satisfaction at law, you say, if he turns her out? That has been already inquired into: aye, aye, you’ll have enough to do, if you engage with him; he is so eloquent."
+  },
+  {
+    "id": "p-77b4f8",
+    "offset": 4295,
+    "text": "But suppose he’s beaten; still, however, it’s not his life, but his money that’s at stake. After I found that the fellow was influenced by these words, I said: We are now by ourselves here; come now, what should you like to be given you, money down, to drop this suit with my master, so that she may betake herself off, and you annoy us no more?"
+  },
+  {
+    "id": "p-f54160",
+    "offset": 4642,
+    "text": "ANTIPHO:\n(apart.)\nAre the Gods quite on good terms with him?"
+  },
+  {
+    "id": "p-9eff81",
+    "offset": 4704,
+    "text": "GETA:\n(continuing the conversation.)\nFor I’m quite sure, if you were to mention any thing that’s fair and reasonable, as he is a reasonable man, you’ll not have to bandy three words with him."
+  },
+  {
+    "id": "p-99ac97",
+    "offset": 4897,
+    "text": "DEMIPHO:\nWho ordered you to say so?"
+  },
+  {
+    "id": "p-007b45",
+    "offset": 4934,
+    "text": "CHREMES:\nNay, he could not have more happily contrived to bring about what we want."
+  },
+  {
+    "id": "p-9a0507",
+    "offset": 5019,
+    "text": "ANTIPHO:\n(apart.)\nUndone!"
+  },
+  {
+    "id": "p-9e1528",
+    "offset": 5046,
+    "text": "CHREMES:\nGo on with your story."
+  },
+  {
+    "id": "p-cb6020",
+    "offset": 5079,
+    "text": "GETA:\nAt first the fellow raved."
+  },
+  {
+    "id": "p-5f6547",
+    "offset": 5113,
+    "text": "DEMIPHO:\nSay, what did he ask?"
+  },
+  {
+    "id": "p-71bf8a",
+    "offset": 5145,
+    "text": "GETA:\nWhat? A great deal too much."
+  },
+  {
+    "id": "p-4cd628",
+    "offset": 5181,
+    "text": "CHREMES:\nHow much? Tell me."
+  },
+  {
+    "id": "p-47bf17",
+    "offset": 5210,
+    "text": "GETA:\nSuppose he were to give a great talent."
+  },
+  {
+    "id": "p-bcd3f3",
+    "offset": 5257,
+    "text": "DEMIPHO:\nAye, faith, perdition to him rather; has he no shame?"
+  },
+  {
+    "id": "p-cbf5de",
+    "offset": 5321,
+    "text": "GETA:\nJust what I said to him: Pray, said I, suppose he was portioning an only daughter of his own. It has been of little benefit that he hasn’t one of his own, when another has been found to be demanding a fortune. To be brief, and to pass over his impertinences, this at last was his final answer:"
+  },
+  {
+    "id": "p-08947d",
+    "offset": 5622,
+    "text": "I, said he, from the very first, have been desirous to marry the daughter of my friend, as was fit I should; for I was aware of the ill results of this, a poor wife being married into a rich family, and becoming a slave. But, as I am now conversing with you unreservedly,"
+  },
+  {
+    "id": "p-199b1f",
+    "offset": 5895,
+    "text": "I was in want of a wife to bring me a little money with which to pay off my debts; and even yet, if Demipho is willing to give as much as I am to receive with her to whom I am engaged, there is no one whom I should better like for a wife."
+  },
+  {
+    "id": "p-43d472",
+    "offset": 6135,
+    "text": "ANTIPHO:\n(apart.)\nWhether to say he’s doing this through folly or mischief, through stupidity or design, I’m in doubt."
+  },
+  {
+    "id": "p-c37afa",
+    "offset": 6255,
+    "text": "DEMIPHO:\nWhat if he’s in debt to the amount of his life?"
+  },
+  {
+    "id": "p-95c6b0",
+    "offset": 6313,
+    "text": "GETA:\nHis land is mortgaged,—for ten minae he said."
+  },
+  {
+    "id": "p-8be851",
+    "offset": 6366,
+    "text": "DEMIPHO:\nWell, well, let him take her then; I’ll give it."
+  },
+  {
+    "id": "p-42f581",
+    "offset": 6425,
+    "text": "GETA:\nHe has a house besides, mortgaged for another ten."
+  },
+  {
+    "id": "p-7cf3ea",
+    "offset": 6483,
+    "text": "DEMIPHO:\nHuy, huy! that’s too much."
+  },
+  {
+    "id": "p-27db84",
+    "offset": 6520,
+    "text": "CHREMES:\nDon’t be crying out; you may have those ten of me."
+  },
+  {
+    "id": "p-cca0bd",
+    "offset": 6581,
+    "text": "GETA:\nA lady’s maid must be brought for his wife; and then too, a little more is wanted for some furniture, and some is wanted for the wedding expenses. Well then, said he, for these items, put down ten more."
+  },
+  {
+    "id": "p-153b06",
+    "offset": 6791,
+    "text": "DEMIPHO:\nThen let him at once bring six hundred actions against me; I shall give nothing at all; is this dirty fellow to be laughing at me as well?"
+  },
+  {
+    "id": "p-208886",
+    "offset": 6940,
+    "text": "CHREMES:\nPray do be quiet; I’ll give it: do you only bring your son to marry the woman we want him to have."
+  },
+  {
+    "id": "p-56fd08",
+    "offset": 7049,
+    "text": "ANTIPHO:\n(apart.)\nAh me! Geta, you have ruined me by your treachery."
+  },
+  {
+    "id": "p-f95107",
+    "offset": 7119,
+    "text": "CHREMES:\n’Tis on my account she’s turned off; it’s right that I should bear the loss."
+  },
+  {
+    "id": "p-ad989f",
+    "offset": 7206,
+    "text": "GETA:\nTake care and let me know, said he, as soon as possible, if they are going to let me have her, that I may get rid of the other, so that I mayn’t be in doubt; for the others have agreed to.pay me down the portion directly."
+  },
+  {
+    "id": "p-675a6a",
+    "offset": 7435,
+    "text": "CHREMES:\nLet him have her at once; let him give notice to them that he breaks off the match with the other, and let him marry this woman."
+  },
+  {
+    "id": "p-7aeb7a",
+    "offset": 7574,
+    "text": "DEMIPHO:\nYes, and little joy to him of the bargain!"
+  },
+  {
+    "id": "p-d4fbd9",
+    "offset": 7627,
+    "text": "CHREMES:\nLuckily, too, I’ve now brought home some money with me, the rents which my wife’s farms at Lemnos produce. I’ll take it out of that, and tell my wife that you had occasion for it.\n(They go into the house of CHREMES.)"
+  },
+  {
+    "id": "p-2d1401",
+    "offset": 7854,
+    "text": "(ANTIPHO and GETA.)"
+  },
+  {
+    "id": "p-93f03a",
+    "offset": 7875,
+    "text": "ANTIPHO:\n(coming forward.)\nGeta."
+  },
+  {
+    "id": "p-f3e174",
+    "offset": 7909,
+    "text": "GETA:\nWell."
+  },
+  {
+    "id": "p-53cbd5",
+    "offset": 7922,
+    "text": "ANTIPHO:\nWhat have you been doing?"
+  },
+  {
+    "id": "p-5be56c",
+    "offset": 7958,
+    "text": "GETA:\nDiddling the old fellows out of their money."
+  },
+  {
+    "id": "p-d80c9d",
+    "offset": 8010,
+    "text": "ANTIPHO:\nIs that quite the thing?"
+  },
+  {
+    "id": "p-d3467e",
+    "offset": 8045,
+    "text": "GETA:\nI’ faith, I don’t know: it’s just what I was told to do."
+  },
+  {
+    "id": "p-08acee",
+    "offset": 8109,
+    "text": "ANTIPHO:\nHow now, whip-scoundrel, do you give me an answer to what I don’t ask you?\n(Kicks him.)"
+  },
+  {
+    "id": "p-9acd97",
+    "offset": 8207,
+    "text": "GETA:\nWhat was it then that you did ask?"
+  },
+  {
+    "id": "p-61d177",
+    "offset": 8249,
+    "text": "ANTIPHO:\nWhat was it I did ask? Through your agency, matters have most undoubtedly come to the pass that I may go hang myself. May then all the Gods, Goddesses, Deities above and below, with every evil confound you! Look now, if you wish any thing to succeed, intrust it to him who may bring you from smooth water on to a rock."
+  },
+  {
+    "id": "p-764626",
+    "offset": 8578,
+    "text": "What was there less advantageous than to touch upon this sore, or to name my wife? Hopes have been excited in my father that she may possibly be got rid of. Pray now, tell me, suppose Phormio receives the portion, she must be taken home by him as his wife: what’s to become of me?"
+  },
+  {
+    "id": "p-263d80",
+    "offset": 8860,
+    "text": "GETA:\nBut he’s not going to marry her."
+  },
+  {
+    "id": "p-104f35",
+    "offset": 8900,
+    "text": "ANTIPHO:\nI know that. But (ironically)"
+  },
+  {
+    "id": "p-b5a77d",
+    "offset": 8940,
+    "text": "when they demand the money back, of course, for our sake, he’ll prefer going to prison."
+  },
+  {
+    "id": "p-7f5147",
+    "offset": 9029,
+    "text": "GETA:\nThere is nothing, Antipho, but what it may be made worse by being badly told: you leave out what is good, and you mention the bad. Now then, hear the other side: if he receives the money, she must be taken as his wife, you say; I grant you; still, some time at least will be allowed for preparing for the nuptials, for inviting, and for sacrificing. In the mean time, Phoedria’s friends will advance what they have promised; out of that he will repay it."
+  },
+  {
+    "id": "p-1ec3c2",
+    "offset": 9491,
+    "text": "ANTIPHO:\nOn what grounds? Or what will he say?"
+  },
+  {
+    "id": "p-5f6fed",
+    "offset": 9539,
+    "text": "GETA:\nDo you ask the question?"
+  },
+  {
+    "id": "p-5a72de",
+    "offset": 9571,
+    "text": "How many circumstances, since then, have befallen me as prodigies? A strange black dog entered the house; a snake came down from the tiles through the sky-light; a hen crowed; the soothsayer forbade it; the diviner warned me not: besides, before winter there is no sufficient reason for me to commence upon any new undertaking. This will be the case."
+  },
+  {
+    "id": "p-c851b5",
+    "offset": 9923,
+    "text": "ANTIPHO:\nI only wish it may be the case."
+  },
+  {
+    "id": "p-db9806",
+    "offset": 9965,
+    "text": "GETA:\nIt shall be the case; trust me for that. Your father’s coming out; go tell Phaedria that the money is found."
+  },
+  {
+    "id": "p-7c949b",
+    "offset": 10081,
+    "text": "(Enter DEMIPHO and CHREMES, from the house of the latter, the former with a purse of money.)"
+  },
+  {
+    "id": "p-c90c90",
+    "offset": 10175,
+    "text": "DEMIPHO:\nDo be quiet, I tell you; I’ll take care he shall not be playing any tricks upon us. I’ll not rashly part with this without having my witnesses;"
+  },
+  {
+    "id": "p-b5072e",
+    "offset": 10329,
+    "text": "I’ll have it stated to whom I pay it, and for what purpose I pay it."
+  },
+  {
+    "id": "p-b12fda",
+    "offset": 10399,
+    "text": "GETA:\n(apart.)\nHow cautious he is, when there’s no need for it!"
+  },
+  {
+    "id": "p-248255",
+    "offset": 10464,
+    "text": "CHREMES:\nWhy yes, you had need do so, and with all haste, while the fit is upon him; for if this other woman shall prove more pressing, perhaps he may throw us over."
+  },
+  {
+    "id": "p-2b5988",
+    "offset": 10631,
+    "text": "GETA:\nYou’ve hit upon the very thing."
+  },
+  {
+    "id": "p-0c60e7",
+    "offset": 10670,
+    "text": "DEMIPHO:\nLead me to him then."
+  },
+  {
+    "id": "p-84d626",
+    "offset": 10701,
+    "text": "GETA:\nI won’t delay."
+  },
+  {
+    "id": "p-effa38",
+    "offset": 10723,
+    "text": "CHREMES:\n(to DEMIPHO.)\nWhen you’ve done so, go over to my wife, that she may call upon her before she goes away."
+  },
+  {
+    "id": "p-0ee390",
+    "offset": 10837,
+    "text": "She must tell her that we are going to give her in marriage to Phormio, that she may not be angry with us; and that he is a fitter match for her, as knowing more of her; that we have in no way departed from our duty; that as much has been given for a portion as he asked for."
+  },
+  {
+    "id": "p-865c2e",
+    "offset": 11114,
+    "text": "DEMIPHO:\nWhat the plague does that matter to you?"
+  },
+  {
+    "id": "p-cdeb5e",
+    "offset": 11165,
+    "text": "CHREMES:\nA great deal, Demipho."
+  },
+  {
+    "id": "p-7c0023",
+    "offset": 11198,
+    "text": "It is not enough for you to do your duty, if common report does not approve of it;"
+  },
+  {
+    "id": "p-5c982b",
+    "offset": 11282,
+    "text": "I wish all this to be done with her own sanction as well, that she mayn’t be saying that she has been turned out of doors."
+  },
+  {
+    "id": "p-6000d8",
+    "offset": 11406,
+    "text": "DEMIPHO:\nI can do all that myself."
+  },
+  {
+    "id": "p-64b652",
+    "offset": 11442,
+    "text": "CHREMES:\nIt will come better from one woman to another."
+  },
+  {
+    "id": "p-cc1355",
+    "offset": 11499,
+    "text": "DEMIPHO:\nI’ll ask her.\n(Goes into the house of CHREMES; and exit GETA.)"
+  },
+  {
+    "id": "p-8912bd",
+    "offset": 11572,
+    "text": "CHREMES:\n(to himself.)\nI’m thinking where I can find them now."
+  }
+]

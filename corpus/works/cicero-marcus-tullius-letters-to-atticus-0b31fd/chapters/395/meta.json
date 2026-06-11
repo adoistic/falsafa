@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 395,
+  "chapter_title": "Chapter text=A:book=15:letter=5",
+  "chapter_slug": "395",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ff19de7-9538-58c7-a74a-2b707f369529",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 391,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:395"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+---
+work_id: "5c7ac936-bfc5-5422-99dc-b48968e04ea6"
+work_slug: "pindar-olympian-5c7ac9"
+work_title: Olympian
+author_name: Pindar
+chapter_number: 3
+chapter_title: Chapter 3
+chapter_slug: 03
+variant_id: "40424176-6cd9-526e-ae49-d8f3065464bb"
+content_type: translation
+layout: verse
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 594
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2:3"
+translator: Diane Svarlien
+---
+
+I pray that I may be pleasing to the hospitable sons of Tyndareus and to Helen of the beautiful hair while I honor renowned Acragas by raising my song in praise of Theron’s victory at Olympia, won by the choicest of horses with untiring feet. With this in view the Muse stood beside me when I found a shining new manner of fitting the splendid voice of the victory procession to the Dorian sandal.
+
+For the garlands twined around his hair exact from me this sacred debt, to blend harmoniously for the son of Aenesidamus the embroidered song of the lyre and the cry of the flutes with the arrangement of words, and Pisa bids me to raise my voice— Pisa, from which god-fated songs come often to men, for anyone over whose brow the strict Aetolian judge of the Greeks tosses up around his hair the gray-green adornment of olive leaves, fulfilling the ancient behests of Heracles; the olive which once the son of Amphitryon brought from the shady springs of the Danube, to be the most beautiful memorial of the Olympian contests, when he had persuaded the Hyperborean people, the servants of Apollo, with speech. With trustworthy intentions he was entreating them for a shady plant, to be shared by all men and to be a garland of excellence in the grove of Zeus which is hospitable to all. For already the altars had been consecrated to his father, and in mid-month the full evening’s eye shone brightly, the Moon on her golden chariot, and he had established the consecrated trial of the great games along with the four years’ festival beside the sacred banks of the Alpheus. But Pelops’ sacred ground was not flourishing with beautiful trees in the valleys below the hill of Cronus. He saw that this garden, bare of trees, was exposed to the piercing rays of the sun.
+
+And so his spirit prompted him to travel to the land of the Danube, where the horse-driving daughter of Leto had received him when he came from the mountain-glens and deep, winding valleys of Arcadia; through the commands of Eurystheus, compulsion from his father urged him on the quest of the doe with the golden horns, which once Taÿgete had inscribed as a sacred dedication to Artemis who sets things right.
+
+Pursuing that doe he had also seen that land beyond the cold blasts of Boreas; there he had stood and marvelled at the trees, and sweet desire for them possessed him, to plant them around the boundary-line of the horse-racing ground with its twelve courses. And now in his kindness he comes regularly to this festival of ours, together with the godlike twin sons of deep-waisted Leda.
+
+For Heracles, when he ascended to Olympus, assigned to them the ordering of the marvellous contest of men, the contest in excellence and in the driving of swift chariots. And so my spirit somehow urges me to say that glory has come to the Emmenidae and to Theron through the dispensation of the sons of Tyndareus with their fine horses, because that family comes to them with the most hospitable feasting-tables of any mortal men, observing the rites of the blessed gods with pious thoughts. If water is best and gold is the most honored of all possessions, so now Theron reaches the farthest point by his own native excellence; he touches the pillars of Heracles. Beyond that the wise cannot set foot; nor can the unskilled set foot beyond that. I will not pursue it; I would be a fool.

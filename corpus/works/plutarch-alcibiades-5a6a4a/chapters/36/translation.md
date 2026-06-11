@@ -1,0 +1,27 @@
+---
+work_id: "5a6a4a15-b640-51c1-b3a6-c59b57f1bd75"
+work_slug: "plutarch-alcibiades-5a6a4a"
+work_title: Alcibiades
+author_name: Plutarch
+chapter_number: 36
+chapter_title: Chapter 36
+chapter_slug: 36
+variant_id: "8bcf5503-ac99-5d0f-aa40-61f873b73e10"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 397
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2:36"
+translator: Bernadotte Perrin
+---
+
+There were those who hated Alcibiades in the camp, and of these Thrasybulus, the son of Thraso, his particular enemy, set sail for Athens to denounce him. He stirred up the city against him by declaring to the people that it was Alcibiades who had ruined their cause and lost their ships by his wanton conduct in office. He had handed over—so Thrasybulus said—the duties of commander to men who won his confidence merely by drinking deep and reeling off sailors’ yarns, in order that he himself might be free to cruise about collecting moneys and committing excesses of drunkenness and revelry with courtesans of Abydos and Ionia, and this while the enemy’s fleet lay close to him. His enemies also found ground for accusation against him in the fortress which he had constructed in Thrace, near Bisanthe. It was to serve, they said, as a refuge for him in case he either could not or would not live at home.
+
+The Athenians were persuaded, and chose other generals in his place, thus displaying their anger and ill-will towards him. On learning this, Alcibiades was afraid, and departed from the camp altogether, and assembling mercenary troops made war on his own account against the Thracians who acknowledge no king. He got together much money from his captives, and at the same time afforded security from barbarian inroads to the Hellenes on the neighboring frontier.
+
+Tydeus, Menander, and Adeimantus, the generals, who had all the ships which the Athenians could finally muster in station at Aegospotami, were wont to sail out at daybreak against Lysander, who lay with his fleet at Lampsacus, and challenge him to battle. Then they would sail back again, to spend the rest of the day in disorder and unconcern, since, forsooth, they despised their enemy.
+
+Alcibiades, who was near at hand, could not see such conduct with calmness or indifference, but rode up on horseback and read the generals a lesson. He said their anchorage was a bad one; the place had no harbor and no city, but they had to get their supplies from Sestos, a long way off; and they permitted their crews, whenever they were on land, to wander and scatter about at their own sweet wills, while there lay at anchor over against them an armament which was trained to do everything silently at a word of absolute command.

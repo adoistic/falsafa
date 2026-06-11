@@ -1,0 +1,29 @@
+---
+work_id: "48a3e288-4a45-56ea-9246-52ec009dfddf"
+work_slug: "plutarch-solon-48a3e2"
+work_title: Solon
+author_name: Plutarch
+chapter_number: 3
+chapter_title: Chapter 3
+chapter_slug: 03
+variant_id: "3498d7eb-2fd5-5f57-b3bb-97fe81532611"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 323
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg007.perseus-eng2:3"
+translator: Bernadotte Perrin
+---
+
+Accordingly it Solon’s way of living was expensive and profuse and if in his poems, he speaks of pleasure with more freedom than becomes a philosopher, this is thought to be due to his mercantile life; he encountered manly and great dangers, and sought his reward therefor in sundry luxuries and enjoyments.
+
+But that he classed himself among the poor rather than the rich, is clear from these verses:— For often evil men are rich, and good men poor; But we will not exchange with them Our virtue for their wealth since one abides always, While riches change their owners every day.
+
+And he seems to have composed his poetry at first with no serious end in view, but as amusement and diversion in his hours of leisure. Then later, he put philosophic maxims into verse, and interwove many political teachings in his poems, not simply to record and transmit them, but because they contained justifications of his acts, and sometimes exhortations, admonitions, and rebukes for the Athenians.
+
+Some say, too, that he attempted to reduce his laws to heroic verse before he published them, and they give us this introduction to them:— First let us offer prayers to Zeus, the royal son of Cronus, That he may give these laws of ours success and fame. In philosophy, he cultivated chiefly the domain of political ethics, like most of the wise men of the time; and in physics, he is very simple and antiquated, as is clear from the following verses:—
+
+From clouds come sweeping snow and hail, And thunder follows on the lightning’s flash. By winds the sea is lashed to storm, but if it be Unvexed, it is of all things most amenable. And in general, it would seem that Thales was the only wise man of the time who carried his speculations beyond the realm of the practical; the rest got the name of wisdom from their excellence as statesmen.

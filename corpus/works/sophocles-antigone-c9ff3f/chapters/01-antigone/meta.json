@@ -1,0 +1,38 @@
+{
+  "work_slug": "sophocles-antigone-c9ff3f",
+  "work_title": "Antigone",
+  "chapter_number": 1,
+  "chapter_title": "Antigone",
+  "chapter_slug": "01-antigone",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f9532b7-5750-57a7-9fb9-53b2be51bc23",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7659,
+      "paragraph_count": 1258,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47d6c61f-1cf0-5ddf-84c9-fde82232ed65",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12133,
+      "paragraph_count": 398,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg002.perseus-eng2"
+    }
+  ]
+}

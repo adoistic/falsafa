@@ -6,10 +6,23 @@
   "chapter_slug": "17",
   "layout": "prose",
   "layouts_in_variants": [
+    "verse",
     "prose"
   ],
   "default_variant": "translation.md",
   "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "135231e0-762a-5b94-b38f-134748ceb8cc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5425,
+      "paragraph_count": 761,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:17"
+    },
     {
       "file": "translation.md",
       "content_type": "translation",

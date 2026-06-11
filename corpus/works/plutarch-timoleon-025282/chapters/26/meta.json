@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-timoleon-025282",
+  "work_title": "Timoleon",
+  "chapter_number": 26,
+  "chapter_title": "Chapter 25",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f1745d5-4d60-5157-9b0e-618e81c13b68",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 188,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg018.perseus-grc2:26"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4c82709-a22f-5c39-a14d-c8bcdbc5d12b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 307,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg018.perseus-eng2:26"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "barnabae-epistula-the-epistle-of-barnabas-d32949",
+  "work_title": "The Epistle of Barnabas",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb91c27a-5d63-5a59-b8c8-f9bdc633c944",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 594,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1216.tlg001.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "507516d5-5a98-531a-9171-6a63b77c04d7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 821,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1216.tlg001.perseus-eng1:6"
+    }
+  ]
+}

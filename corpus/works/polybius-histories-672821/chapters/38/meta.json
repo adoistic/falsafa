@@ -1,0 +1,26 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 38,
+  "chapter_title": "Book 38",
+  "chapter_slug": "38",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4204051a-3fba-5437-8858-07c41e7ed7f6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4147,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:38"
+    }
+  ]
+}

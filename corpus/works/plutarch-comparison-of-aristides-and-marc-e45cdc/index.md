@@ -1,0 +1,30 @@
+---
+id: "e45cdc67-72ca-50a3-8571-fe7676765aa0"
+slug: "plutarch-comparison-of-aristides-and-marc-e45cdc"
+title: Comparison of Aristides and Marcus Cato
+author:
+  name: Plutarch
+  biography: Author record from the Perseus Digital Library canonical catalogs.
+era: Ancient
+genre: Classics
+language: Greek
+language_direction: ltr
+description: Comparison of Aristides and Marcus Cato, in English translation from the Perseus Digital Library (tr. Bernadotte Perrin), with the Greek original.
+difficulty: Intermediate
+total_logical_chapters: 6
+total_variant_entries: 12
+thothica_role: catalog
+---
+
+# Comparison of Aristides and Marcus Cato
+
+Comparison of Aristides and Marcus Cato, in English translation from the Perseus Digital Library (tr. Bernadotte Perrin), with the Greek original.
+
+## Chapters
+
+01. [Chapter 1](./chapters/01/) — prose, 2 variants
+02. [Chapter 2](./chapters/02/) — prose, 2 variants
+03. [Chapter 3](./chapters/03/) — prose, 2 variants
+04. [Chapter 4](./chapters/04/) — prose, 2 variants
+05. [Chapter 5](./chapters/05/) — prose, 2 variants
+06. [Chapter 6](./chapters/06/) — prose, 2 variants

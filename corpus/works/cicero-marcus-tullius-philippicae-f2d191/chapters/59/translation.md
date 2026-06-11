@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 59
+chapter_title: Chapter 44
+chapter_slug: 59
+variant_id: "18a58685-2a29-5c92-9652-3c15efd5f729"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 523
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:59"
+translator: Perseus Digital Library
+---
+
+But this single day, this very day that now is, this very moment while I am speaking, defend your conduct during this very moment, if you can. Why has the senate been surrounded with a belt of armed men? Why are your satellites listening to me sword in hand? Why are not the folding-doors of the temple of Concord open? Why do you bring men of all nations the most barbarous, Ityrcans, armed with arrows, into the forum? He says that he does so as a guard. Is it not then better to perish a thousand times than to be unable to live in one's own city without a guard of armed men? But believe me, there is no protection in that;—a man must be defended by the affection and good will of his fellow-citizens, not by arms. The Roman people will take them from you, will wrest them from) our hands. I wish that they may do so while we are still safe. But however you treat us, as long as you adopt those counsels it is impossible for you, believe me, to last long. In truth, that wife of yours, who is so far removed from covetousness, and whom I mention without intending any slight to her, has been too long owing her third payment to the state. The Roman people has men to whom it can entrust the helm of the state; and wherever they are, there is all the defense of the republic, or rather, there is the republic itself; which as yet has only avenged, but has not reestablished itself. Truly and surely has the republic most high-born youths ready to defend it,—though they may for a time keep in the background from a desire for tranquillity, still they can be recalled by the republic at any time.
+
+The name of peace is sweet, the thing itself is most salutary. But between peace and slavery there is a wide difference. Peace is liberty in tranquillity; slavery is the worst of all evils,—to be repelled, if need be, not only by war, but even by death. But if those deliverers of ours have taken themselves away out of our sight, still they have left behind the example of their conduct. They have done what no one else had done. Brutus pursued Tarquinius with war; who was a king when it was lawful for a king to exist in Rome. Spurius Cassius, Spurius. Maelius, and Marcus. Manlius were all slain because they were suspected of aiming at regal power. These are the first men who have ever ventured to attack, sword in hand, a man who was not aiming at regal power, but actually reigning. And their action is not only of itself a glorious and godlike exploit, but it is also one put forth for our imitation; especially since by it they have acquired such glory as appears hardly to be bounded by heaven itself. For although in the very consciousness of a glorious action there is a certain reward, still I do not consider immortality of glory a thing to be despised by one who is himself mortal.

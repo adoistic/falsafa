@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-de-lege-agraria-bc3b1c",
+  "work_title": "De Lege Agraria",
+  "chapter_number": 1,
+  "chapter_title": "De Lege Agraria",
+  "chapter_slug": "01-de-lege-agraria",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1e7f9bcd-6e4e-5b31-af29-f4de4eaf5e0b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13363,
+      "paragraph_count": 151,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi011.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3777f74d-1cda-55e2-bc62-80ddb761ed6f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 25517,
+      "paragraph_count": 153,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi011.perseus-eng2"
+    }
+  ]
+}

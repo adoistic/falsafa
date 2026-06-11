@@ -1,0 +1,772 @@
+[
+  {
+    "id": "p-1c62ba",
+    "offset": 0,
+    "text": "(Enter, from the house, PHILOCRATES, TYNDARUS, and SLAVES and CAPTIVES of HEGIO.)"
+  },
+  {
+    "id": "p-6615a0",
+    "offset": 83,
+    "text": "A SLAVE:\nIf the immortal Gods have so willed it that you should undergo this affliction, it becomes you to endure it with equanimity; if you do so, your trouble will be lighter. At home you were free men, I suppose; now if slavery has befallen you, ‘tis a becoming way for you to put up with it, and by your dispositions to render it light, under a master’s rule."
+  },
+  {
+    "id": "p-c5c2cc",
+    "offset": 448,
+    "text": "Unworthy actions which a master does must be deemed worthy ones."
+  },
+  {
+    "id": "p-2f656c",
+    "offset": 514,
+    "text": "PHILOCRATES and TYNDARUS:\nAlas! alas! alas!"
+  },
+  {
+    "id": "p-321f11",
+    "offset": 559,
+    "text": "A SLAVE:\nThere’s no need for wailing; you cause much injury to your eyes. In adversity, if you use fortitude of mind, it is of service."
+  },
+  {
+    "id": "p-fe7a82",
+    "offset": 696,
+    "text": "PHILOCRATES and TYNDARUS:\nBut we are ashamed, because we are in bonds."
+  },
+  {
+    "id": "p-aaa68c",
+    "offset": 768,
+    "text": "A SLAVE:\nBut in the result it might cause vexation to our master, if he were to release you from chains, or allow you to be loose, whom he has purchased with his money."
+  },
+  {
+    "id": "p-6909b4",
+    "offset": 938,
+    "text": "PHILOCRATES and TYNDARUS:\nWhat does he fear from us? We know our duty, what it is, if he allows us to be loose."
+  },
+  {
+    "id": "p-0d76b3",
+    "offset": 1051,
+    "text": "A SLAVE:\nWhy, you are meditating escape. I know what it is you are devising."
+  },
+  {
+    "id": "p-6b98c6",
+    "offset": 1129,
+    "text": "PHILOCRATES and TYNDARUS:\nWe, make our escape? Whither should we escape?"
+  },
+  {
+    "id": "p-19b478",
+    "offset": 1203,
+    "text": "A SLAVE:\nTo your own country."
+  },
+  {
+    "id": "p-31cf52",
+    "offset": 1234,
+    "text": "PHILOCRATES and TYNDARUS:\nOut upon you; it would ill befit us to be following the example of runaways."
+  },
+  {
+    "id": "p-2d32cb",
+    "offset": 1338,
+    "text": "A SLAVE:\nWhy, faith, should there be an opportunity, I don’t advise you not."
+  },
+  {
+    "id": "p-17726e",
+    "offset": 1416,
+    "text": "PHILOCRATES and TYNDARUS:\nDo you allow us to make one request."
+  },
+  {
+    "id": "p-dc9405",
+    "offset": 1480,
+    "text": "A SLAVE:\nWhat is it, pray?"
+  },
+  {
+    "id": "p-6feb03",
+    "offset": 1508,
+    "text": "PHILOCRATES and TYNDARUS:\nThat you will give us an opportunity of conversing, without these and yourselves for overlookers."
+  },
+  {
+    "id": "p-c0733a",
+    "offset": 1633,
+    "text": "A SLAVE:\nBe it so; go you away from here, you people. Let’s step here, on one side."
+  },
+  {
+    "id": "p-bf0bfe",
+    "offset": 1718,
+    "text": "(To the other CAPTIVES and SLAVES.)\nBut commence upon a short conversation only."
+  },
+  {
+    "id": "p-38cae4",
+    "offset": 1800,
+    "text": "PHILOCRATES:\nO yes, it was my intention so to do. Step aside this way."
+  },
+  {
+    "id": "p-4ac1d3",
+    "offset": 1872,
+    "text": "(to TYNDARUS.)"
+  },
+  {
+    "id": "p-5a0873",
+    "offset": 1888,
+    "text": "A SLAVE:\n(to the other CAPTIVES.)\nStand apart from them."
+  },
+  {
+    "id": "p-1d034f",
+    "offset": 1946,
+    "text": "TYNDARUS:\n(to the SLAVE.)\nWe are both greatly obliged to you, by reason of your doing so, since you allow us to obtain what we are desirous of."
+  },
+  {
+    "id": "p-94fa53",
+    "offset": 2091,
+    "text": "PHILOCRATES:\nStep here then, at a distance now, if you think fit, that no listeners may be enabled to overhear our discourse, and that this plan of ours mayn’t be divulged before them for a stratagem is no stratagem, if you don’t plan it with art but it is a very great misfortune if it becomes disclosed. For if you are my master, and I represent myself as your servant, still there’s need of foresight, and need of caution, that this may be carried out discreetly and without overlookers, with carefulness and with cautious prudence and diligence. So great is the mutter that has been commenced upon; this must not be carried out in any drowsy fashion."
+  },
+  {
+    "id": "p-ce2ee5",
+    "offset": 2747,
+    "text": "TYNDARUS:\nJust as you shall desire me to be, I will be."
+  },
+  {
+    "id": "p-06b1fc",
+    "offset": 2804,
+    "text": "PHILOCRATES:\nI trust so."
+  },
+  {
+    "id": "p-96988d",
+    "offset": 2830,
+    "text": "TYNDARUS:\nFor now you see that for your precious life I’m setting at stake my own, as dear to me."
+  },
+  {
+    "id": "p-28e2b7",
+    "offset": 2929,
+    "text": "PHILOCRATES:\nI know it."
+  },
+  {
+    "id": "p-f30c55",
+    "offset": 2954,
+    "text": "TYNDARUS:\nBut remember to know it when you shall be enjoying that which you wish for; for mostly, the greatest part of mankind follow this fashion; what they wish for, until they obtain it, they are rightminded; but when they have now got it in their power, from being rightminded they become most deceitful, and most dishonest; now I do consider that you are towards me as I wish. What I advise you, I would advise my own father."
+  },
+  {
+    "id": "p-cb897d",
+    "offset": 3386,
+    "text": "PHILOCRATES:\nI’ faith, if I could venture, I would call you father; for next to my own father, you are my nearest father."
+  },
+  {
+    "id": "p-f21a93",
+    "offset": 3509,
+    "text": "TYNDARUS:\nI understand."
+  },
+  {
+    "id": "p-ee28b4",
+    "offset": 3534,
+    "text": "PHILOCRATES:\nAnd therefore I remind you the more frequently, that you may remember it. I am not your master, but your servant; now this one thing I do beseech you. Inasmuch as the immortal Gods have disclosed to us their wishes, that they desire me to have once been your master, and now to be your fellow-captive; what formerly of my right I used to command you, now with entreaties do I beg of you, by our uncertain fortunes, and by the kindness of my father towards you, and by our common captivity, which has befallen us by the hand of the enemy, don’t you pay me any greater respect than I did you when you were my slave; and don’t you forget to remember who you were, and who you now are."
+  },
+  {
+    "id": "p-d3ce56",
+    "offset": 4230,
+    "text": "TYNDARUS:\nI know, indeed, that I now am you, and that you are I."
+  },
+  {
+    "id": "p-76a3af",
+    "offset": 4296,
+    "text": "PHILOCRATES:\nWell, if you are able carefully to remember that, 1 have some hope in this scheme of ours."
+  },
+  {
+    "id": "p-087978",
+    "offset": 4401,
+    "text": "(Enter HEGIO, from his house, speaking to those within.)"
+  },
+  {
+    "id": "p-4d8b81",
+    "offset": 4459,
+    "text": "HEGIO:\nI shall return in-doors just now, when I shall have discovered from these people what I want to know. (To the SLAVES.) Where are those persons whom I ordered to be brought out of doors here, before the house?"
+  },
+  {
+    "id": "p-fb036e",
+    "offset": 4676,
+    "text": "PHILOCRATES:\nBy my faith, I find that you have taken due precaution that we shouldn’t be missed by you, so walled in are we with chains and keepers."
+  },
+  {
+    "id": "p-883009",
+    "offset": 4826,
+    "text": "HEGIO:\nHe that takes precaution that he mayn’t be deceived, is hardly on his guard, even while he’s taking precaution; even when he has supposed that he has taken every precaution, full often is this wary man outwitted. Was there not good reason, indeed, for me to watch you carefully, whom I purchased with so large a sum of ready money?"
+  },
+  {
+    "id": "p-4589b1",
+    "offset": 5166,
+    "text": "PHILOCRATES:\nTroth, it isn’t fair for us to hold you to blame, because you watch us closely;"
+  },
+  {
+    "id": "p-ad075a",
+    "offset": 5260,
+    "text": "nor yet for you us, if we go away hence, should there be an opportunity."
+  },
+  {
+    "id": "p-0847a0",
+    "offset": 5334,
+    "text": "HEGIO:\nAs you are here, so is my son a captive there among your people."
+  },
+  {
+    "id": "p-4f91eb",
+    "offset": 5407,
+    "text": "PHILOCRATES:\nHe, a captive?"
+  },
+  {
+    "id": "p-96a9f0",
+    "offset": 5436,
+    "text": "HEGIO:\nEven so."
+  },
+  {
+    "id": "p-ea8aa7",
+    "offset": 5453,
+    "text": "PHILOCRATES:\nWe, then, have not proved the only cowards."
+  },
+  {
+    "id": "p-a6ec18",
+    "offset": 5511,
+    "text": "HEGIO:\n(to PHILOCRATES, supposing him to be the SERVANT of the other.)\nStep you aside this way, for there are some things that I wish to enquire of you in private, on which subjects I would have you not to be untruthful to me.\n(They step aside.)"
+  },
+  {
+    "id": "p-626ca1",
+    "offset": 5758,
+    "text": "PHILOCRATES:\nI will not be, as to that which I shall know; if I shall not know anything, that which I don’t know I’ll tell you of."
+  },
+  {
+    "id": "p-b4c8cc",
+    "offset": 5890,
+    "text": "TYNDARUS:\n(aside.)\nNow is the old fellow in the barber’s shop; now, at this very instant, is Philocrates wielding the razor. He hasn’t cared, indeed, to put on the barber’s cloth, so as not to soil his dress. But whether to say that he’s going to shave him close, or trim him through the comb, I don’t know; but if he’s wise, he’ll scrape him right well to the very quick."
+  },
+  {
+    "id": "p-300b67",
+    "offset": 6264,
+    "text": "HEGIO:\n(to PHILOCRATES.)\nWhich would you? Would you prefer to be a slave, or a free man?—Tell me."
+  },
+  {
+    "id": "p-8bafaa",
+    "offset": 6363,
+    "text": "PHILOCRATES:\nThat which is the nearest to good, and the furthest off from evil, do I prefer; although my servitude hasn’t proved very grievous to me, nor has it been otherwise to me than if I had been a son in the family."
+  },
+  {
+    "id": "p-e5e5f4",
+    "offset": 6586,
+    "text": "TYNDARUS:\n(aside.)\nCapital! I wouldn’t purchase, at a talent’s price even, Thales the Milesian;"
+  },
+  {
+    "id": "p-903868",
+    "offset": 6683,
+    "text": "for compared with this man’s wisdom, he was a very twaddler. How cleverly has he suited his language to the slave’s condition."
+  },
+  {
+    "id": "p-deedbb",
+    "offset": 6811,
+    "text": "HEGIO:\nOf what family is this Philocrates born?"
+  },
+  {
+    "id": "p-1ac3d2",
+    "offset": 6860,
+    "text": "PHILOCRATES:\nThe Polyplusian; which one family is flourishing there, and held in highest esteem."
+  },
+  {
+    "id": "p-c50d22",
+    "offset": 6958,
+    "text": "HEGIO:\nWhat is he himself? In what esteem is he held there?"
+  },
+  {
+    "id": "p-45de37",
+    "offset": 7019,
+    "text": "PHILOCRATES:\nIn the highest, and that by the very highest men."
+  },
+  {
+    "id": "p-e23b8a",
+    "offset": 7083,
+    "text": "HEGIO:\nSince, then, he is held in such great respect among the Eleans, as you tell of, what substance has he?—Of large amount?"
+  },
+  {
+    "id": "p-98f5da",
+    "offset": 7211,
+    "text": "PHILOCRATES:\nEnough for him, even, when an old man, to be melting out the tallow."
+  },
+  {
+    "id": "p-7f96e4",
+    "offset": 7294,
+    "text": "HEGIO:\nWhat is his father? Is he living?"
+  },
+  {
+    "id": "p-8ed2ca",
+    "offset": 7336,
+    "text": "PHILOCRATES:\nWhen we departed thence, we left him alive; whether he’s living now or not, Orcus, forsooth, must know that."
+  },
+  {
+    "id": "p-50f5c5",
+    "offset": 7459,
+    "text": "TYNDARUS:\n(aside.)\nThe matter’s all right; he’s not only lying, but he’s even philosophizing now."
+  },
+  {
+    "id": "p-5dfe50",
+    "offset": 7558,
+    "text": "HEGIO:\nWhat’s his name?"
+  },
+  {
+    "id": "p-bf5db2",
+    "offset": 7583,
+    "text": "PHILOCRATES:\nThesaurochrysonicocrœsides."
+  },
+  {
+    "id": "p-27e0bb",
+    "offset": 7625,
+    "text": "HEGIO:\nThat name has been given, I suppose, by reason of his wealth, as it were."
+  },
+  {
+    "id": "p-2d3cb0",
+    "offset": 7707,
+    "text": "PHILOCRATES:\nTroth, not so, but rather by reason of his avarice and grasping disposition; for, indeed, he was Theodoromedes originally by name."
+  },
+  {
+    "id": "p-99b3fc",
+    "offset": 7852,
+    "text": "HEGIO:\nHow say you? Is his father covetous?"
+  },
+  {
+    "id": "p-854694",
+    "offset": 7897,
+    "text": "PHILOCRATES:\nAye, by my faith, he is covetous."
+  },
+  {
+    "id": "p-27c5ed",
+    "offset": 7945,
+    "text": "Why, that you may even understand it the better,—when he’s sacrificing at any time to his own Genius, the vessels that are needed for the sacrifice he uses of Samian ware, lest the Genius himself should steal them; from this, consider how much he would trust other people."
+  },
+  {
+    "id": "p-bdf09b",
+    "offset": 8219,
+    "text": "HEGIO:\n(addressing TYNDARUS as though PHILOCRATES.)\nDo you then follow me this way. (Aside.) The things that I desire to know, I’ll enquire of him. (Addressing TYNDARUS.) Philocrates, this person has done as it becomes an honest man to do."
+  },
+  {
+    "id": "p-a9c786",
+    "offset": 8460,
+    "text": "For from him I’ve learnt of what family you are sprung; he has confessed it to me. If you are willing to own these same things (which, however, understand that I already know from him), you will be doing it for your own advantage."
+  },
+  {
+    "id": "p-a1da5d",
+    "offset": 8692,
+    "text": "TYNDARUS:\nHe did his duty when he confessed the truth to you, although, Hegio, I wished carefully to conceal both my rank and my wealth;"
+  },
+  {
+    "id": "p-117151",
+    "offset": 8830,
+    "text": "now, inasmuch as I’ve lost my country and my liberty, I don’t think it right for him to be dreading me rather than you. The might of warfare has made my fortunes on a level with himself. I remember the time when he didn’t dare to do it in word; now, in deed, he is at liberty to offend me. But don’t you see? Human fortune moulds and fashions just as she wills."
+  },
+  {
+    "id": "p-eb615a",
+    "offset": 9193,
+    "text": "Myself, who was a free man she has made a slave, from the very highest the very lowest. I, who was accustomed to command, now obey the mandates of another. And indeed, if I meet with a master just such as I proved the ruler in my own household, I shall not fear that he will rule me harshly or severely. With this, Hegio, I wished you to be acquainted, unless perchance you your self wish it not."
+  },
+  {
+    "id": "p-f0d267",
+    "offset": 9591,
+    "text": "HEGIO:\nSpeak boldly out."
+  },
+  {
+    "id": "p-bae3a2",
+    "offset": 9617,
+    "text": "TYNDARUS:\nAs free a man was I till lately as your son. As much did a hostile hand deprive me of my liberty as him of his. As much is he a slave among my people, as I am now a slave here with yourself. There is undoubtedly a God, who both hears and sees the things which we do. Just as you shall treat me here, in the same degree will he have a care for him."
+  },
+  {
+    "id": "p-15e0eb",
+    "offset": 9976,
+    "text": "To the well-deserving will he show favour, to the ill-deserving will he give a like return. As much as you lament your son, so much does my father lament me."
+  },
+  {
+    "id": "p-690780",
+    "offset": 10135,
+    "text": "HEGIO:\nThat I am aware of. But do you admit the same that lie has disclosed to me?"
+  },
+  {
+    "id": "p-9e7ffe",
+    "offset": 10219,
+    "text": "TYNDARUS:\nI confess that my father has very great wealth at home, and that I am born of a very noble family; but I entreat you, Hegio, let not my riches make your mind too prone to avarice, lest it should seem to my father, although I am his only son, more suitable that I should be a slave in your house, bountifully supplied at your expense and with your clothing, rather than be living the life of a beggar where ‘twould be far from honorable."
+  },
+  {
+    "id": "p-fb7103",
+    "offset": 10667,
+    "text": "HEGIO:\nBy the favour of the Gods and of my forefathers, I am rich enough."
+  },
+  {
+    "id": "p-6705ad",
+    "offset": 10742,
+    "text": "I don’t quite believe that every kind of gain is serviceable to mankind. I know that gain has already made many a man famous; and yet there are occasions when it is undoubtedly better to incur loss than to make gain. Gold I detest: many a one has it persuaded to many an evil course. Now give your attention to this, that you may know as well what my wishes are."
+  },
+  {
+    "id": "p-2d2b6d",
+    "offset": 11106,
+    "text": "My son, taken prisoner. is in servitude at Elis there among your people; if you restore him to me, don’t you give me a single coin besides; both you and him, your servant, I’ll send back from here; on no other terms can you depart hence."
+  },
+  {
+    "id": "p-6bd7c3",
+    "offset": 11345,
+    "text": "TYNDARUS:\nYou ask what’s very right and very just, and you are the very kindest person of all mankind. But whether is he in servitude to a private person or to the public?"
+  },
+  {
+    "id": "p-1e1f98",
+    "offset": 11518,
+    "text": "HEGIO:\nIn private servitude to Menarchus, a physician."
+  },
+  {
+    "id": "p-4b68d7",
+    "offset": 11574,
+    "text": "PHILOCRATES:\nBy my faith, that person’s surely his father’s dependant. Why really, that’s down as pat for you, as the shower is when it rains."
+  },
+  {
+    "id": "p-b7adf8",
+    "offset": 11718,
+    "text": "HEGIO:\nDo you then cause this person, my son, to be redeemed."
+  },
+  {
+    "id": "p-6c89f3",
+    "offset": 11781,
+    "text": "TYNDARUS:\nI’ll do so: but this I beg of you, Hegio—"
+  },
+  {
+    "id": "p-e75d72",
+    "offset": 11834,
+    "text": "HEGIO:\nWhatever you wish, so that you request nothing against my interest, I’ll do."
+  },
+  {
+    "id": "p-586c80",
+    "offset": 11919,
+    "text": "TYNDARUS:\nListen then, and you’ll know. I don’t ask for myself to be released, until he has returned."
+  },
+  {
+    "id": "p-778c08",
+    "offset": 12022,
+    "text": "But I beg of you to give me him (pointing to PHILOCRATES) with a price set upon him, that I may send him to my father, that this person, your son, may be redeemed there."
+  },
+  {
+    "id": "p-8d0a8c",
+    "offset": 12193,
+    "text": "HEGIO:\nWhy no; I’d rather send another person hence, when there shall be a truce, to confer with your father there, and to carry your injunctions which you shall entrust him with, just as you wish."
+  },
+  {
+    "id": "p-ecd91e",
+    "offset": 12392,
+    "text": "TYNDARUS:\nBut it’s of no use to send to him one that he doesn’t know; you’d be losing your labour."
+  },
+  {
+    "id": "p-b139b6",
+    "offset": 12492,
+    "text": "Send this person; he’ll have it all completed, if he gets there. And you cannot send any person to him more faithful, nor one in whom he places more confidence, nor who is more a servant after his own mind; nor, in fact, one to whom he would more readily entrust your son. Have no fears; at my own peril I’ll make proof of his fidelity, relying upon his disposition; because he is sensible that I’m kindly disposed towards him."
+  },
+  {
+    "id": "p-c5576a",
+    "offset": 12921,
+    "text": "HEGIO:\nWell then, I’ll send him with a price set upon him, on the surety of your promise, if you wish it."
+  },
+  {
+    "id": "p-f9f61b",
+    "offset": 13028,
+    "text": "TYNDARUS:\nI do wish it; so soon as ever it can, I want this matter to be brought to completion."
+  },
+  {
+    "id": "p-aef8c1",
+    "offset": 13125,
+    "text": "HEGIO:\nWhat reason is there, then, that if he doesn’t return, you should not pay me twenty minae for him?"
+  },
+  {
+    "id": "p-cedcf1",
+    "offset": 13232,
+    "text": "TYNDARUS:\nYes—very good."
+  },
+  {
+    "id": "p-3fcff4",
+    "offset": 13258,
+    "text": "HEGIO:\n(to the SLAVES, who obey.)\nRelease him now forthwith;"
+  },
+  {
+    "id": "p-7775cb",
+    "offset": 13320,
+    "text": "and, indeed, both of them."
+  },
+  {
+    "id": "p-5852ab",
+    "offset": 13348,
+    "text": "(On being released, PHILOCRATES goes into the house.)"
+  },
+  {
+    "id": "p-b1ef7a",
+    "offset": 13403,
+    "text": "TYNDARUS:\nMay all the Gods grant you all your desires, since you have deigned me honor so great, and since you release me from my chains. Really, this is not so irksome now, since my neck is free from the collar-chain."
+  },
+  {
+    "id": "p-f6d121",
+    "offset": 13623,
+    "text": "HEGIO:\nThe kindnesses that are done to the good, thanks for the same are pregnant with blessings. Now, if you are about to send him thither, direct, instruct him, give him the orders which you wish to be carried to your father. Should you like me to call him to you?"
+  },
+  {
+    "id": "p-b2f12d",
+    "offset": 13891,
+    "text": "TYNDARUS:\nDo call him."
+  },
+  {
+    "id": "p-b371cc",
+    "offset": 13915,
+    "text": "(HEGIO goes to the door, and calls PHILOCRATES.)"
+  },
+  {
+    "id": "p-da1f99",
+    "offset": 13965,
+    "text": "(Enter PHILOCRATES, from the house)"
+  },
+  {
+    "id": "p-46b166",
+    "offset": 14002,
+    "text": "HEGIO:\nMay this affair turn out happily for myself and for my son, and for yourselves. (To PHILOCRATES.) Your new master wishes you to pay faithful obedience to your former owner in what he wishes. For I have presented you to him, with the price of twenty minae set upon you:"
+  },
+  {
+    "id": "p-43a4c0",
+    "offset": 14279,
+    "text": "and he says that he is desirous to send you away hence to his father, that he may there redeem my son, and that an exchange may be made between me and him for our respective sons."
+  },
+  {
+    "id": "p-b9141d",
+    "offset": 14460,
+    "text": "PHILOCRATES:\nMy disposition takes its course straight in either direction, both to yourself and to him; as a wheel you may make use of me;"
+  },
+  {
+    "id": "p-265e71",
+    "offset": 14600,
+    "text": "either this way or that can I be turned, whichever way you shall command me."
+  },
+  {
+    "id": "p-c8bdeb",
+    "offset": 14678,
+    "text": "HEGIO:\nYou yourself profit the most from your own disposition, when you endure slavery just as it ought to be endured. Follow me. (To TYNDARUS.) See here’s your man."
+  },
+  {
+    "id": "p-9703ec",
+    "offset": 14845,
+    "text": "TYNDARUS:\nI return you thanks, since you give me this opportunity and permission to send this messenger to my parents, who may relate all the matter in its order to my father, what I’m doing here, and what I wish to be done. (To PHILOCRATES.) Now, Tyndarus, thus is it arranged between myself and him, that I’m to send you, valued at a fixed price, to my father in Elis;"
+  },
+  {
+    "id": "p-2055da",
+    "offset": 15217,
+    "text": "so that, if you don’t return hither, I’m to give twenty minae for you."
+  },
+  {
+    "id": "p-f933dd",
+    "offset": 15289,
+    "text": "PHILOCRATES:\nI think that you’ve come to a right understanding. For your father expects either myself or some messenger to come from here to him."
+  },
+  {
+    "id": "p-209278",
+    "offset": 15436,
+    "text": "TYNDARUS:\nI wish you, then, to mind what message it is I want you to carry hence to my country to my father."
+  },
+  {
+    "id": "p-2a4004",
+    "offset": 15546,
+    "text": "PHILOCRATES:\nPhilocrates, as up to this moment I have done, I will take all due care to endeavour that which may especially conduce to your interest, and to pursue the same with heart and soul, and with my ears."
+  },
+  {
+    "id": "p-761b12",
+    "offset": 15759,
+    "text": "TYNDARUS:\nYou act just as you ought to act; now I wish you to give attention. In the first place of all, carry my respects to my mother and my father, and to my relations, and if any one else you see well-disposed towards me: say that I am in health here, and that I am a slave, in servitude to this most worthy man, who has ever honored me more and more with his respect, and does so still."
+  },
+  {
+    "id": "p-f0a446",
+    "offset": 16152,
+    "text": "PHILOCRATES:\nDon’t you be instructing me as to that; I can, still, easily bear that in mind."
+  },
+  {
+    "id": "p-65db50",
+    "offset": 16246,
+    "text": "TYNDARUS:\nFor, indeed, except that I have a keeper, I deem myself to be a free man."
+  },
+  {
+    "id": "p-c28ffb",
+    "offset": 16331,
+    "text": "Tell my father on what terms I have agreed with this party about his son."
+  },
+  {
+    "id": "p-006be2",
+    "offset": 16406,
+    "text": "PHILOCRATES:\nWhat I remember, it is sheer delay to be putting me in mind of."
+  },
+  {
+    "id": "p-96a63b",
+    "offset": 16484,
+    "text": "TYNDARUS:\nTo redeem him, and to send him back here in exchange for both of us."
+  },
+  {
+    "id": "p-19a32c",
+    "offset": 16564,
+    "text": "PHILOCRATES:\nI’ll remember it."
+  },
+  {
+    "id": "p-cab7bd",
+    "offset": 16596,
+    "text": "HEGIO:\nBut as soon as he can that is especially to the interest of us both."
+  },
+  {
+    "id": "p-2f869b",
+    "offset": 16673,
+    "text": "PHILOCRATES:\nYou are not more anxious to see your son, than he is to see his."
+  },
+  {
+    "id": "p-67aec1",
+    "offset": 16752,
+    "text": "HEGIO:\nMy son is dear to myself, and his own to every man."
+  },
+  {
+    "id": "p-5541dc",
+    "offset": 16812,
+    "text": "PHILOCRATES:\n(to TYNDARUS.)\nDo you wish any other message to be carried to your father?"
+  },
+  {
+    "id": "p-5aba8e",
+    "offset": 16901,
+    "text": "TYNDARUS:\nSay that I am well here; and do you boldly tell him, Tyndarus, that we have been of dispositions for uninterrupted harmony between ourselves, and that you have neither been deserving of censure, nor that I have proved your enemy; and that still, amid miseries so great, you have shown implicit obedience to your master, and that you have never abandoned me, either in deed or in fidelity, amid my wavering, unprosperous fortunes. When my father shall know this, Tyndarus, how well-disposed you have proved towards his son and himself, he will never be so avaricious but that he’ll give you your liberty for nothing. And by my own endeavours, if I return hence, I’ll make him do so the more readily."
+  },
+  {
+    "id": "p-105b72",
+    "offset": 17611,
+    "text": "For by your aid and kindness, and good disposition and prudence, you have caused me to be allowed to return to my parents once again, inasmuch as to Hegio you have confessed both my rank and my wealth; by means of which, through your wisdom, you have liberated your master from his chains."
+  },
+  {
+    "id": "p-2dc9b4",
+    "offset": 17902,
+    "text": "PHILOCRATES:\nThe things which you mention I have done, and I am pleased that you remember this."
+  },
+  {
+    "id": "p-f7b451",
+    "offset": 17999,
+    "text": "Deservedly have they been done for you by me; for now, Philocrates, if I, too, were to mention the things that you have kindly done for me, the night would cut short the day. For, had you been my slave even, no otherwise were you always obliging to me."
+  },
+  {
+    "id": "p-3d354f",
+    "offset": 18253,
+    "text": "HEGIO:\nYe Gods, by our trust in you! behold the kindly disposition of these persons! How they draw the very tears from me!"
+  },
+  {
+    "id": "p-45f8e9",
+    "offset": 18377,
+    "text": "See how cordially they love each other, and with what praises the servant has commended his master."
+  },
+  {
+    "id": "p-8f94d1",
+    "offset": 18478,
+    "text": "PHILOCRATES:\nI’ troth, he hasn’t commended me the one hundredth part of what he himself deserves to be commended in my praises."
+  },
+  {
+    "id": "p-3af0e1",
+    "offset": 18607,
+    "text": "HEGIO:\n(to PHILOCRATES.)\nSince, then, you have acted most becomingly, now there’s an opportunity to add to your good deeds in managing this matter with fidelity towards him."
+  },
+  {
+    "id": "p-9f0d76",
+    "offset": 18782,
+    "text": "PHILOCRATES:\nI am not able more to wish it done, than by my endeavours to try to bring it about. That you may know this, Hegio, with praises do I call supreme Jove to witness that I will not prove unfaithful to Philocrates —"
+  },
+  {
+    "id": "p-619895",
+    "offset": 19008,
+    "text": "HEGIO:\nYou are a worthy fellow."
+  },
+  {
+    "id": "p-99d7b3",
+    "offset": 19041,
+    "text": "PHILOCRATES:\nAnd that I will never in anything act otherwise towards him than towards my own self."
+  },
+  {
+    "id": "p-450a5b",
+    "offset": 19141,
+    "text": "TYNDARUS:\nI wish you to put these speeches to the test, both by your deeds and your actions;"
+  },
+  {
+    "id": "p-1456ea",
+    "offset": 19235,
+    "text": "and inasmuch as I have said the less about you than I had wished, I wish you the more to give me your attention, and take you care not to be angry with me by reason of these words. But, I beseech you, reflect that you are sent hence home with a price set upon you at my risk, and that my life is here left as a pledge for you. Do not you forget me the very moment that you have left my presence, since you will have left me here behind a captive in captivity for yourself, and don’t consider yourself as free, and forsake your pledge, and not use your endeavours for you to bring his son home again, in return for me. Understand that you are sent hence valued at twenty minae. Take care to prove scrupulously faithful; take care that you show not a wavering fidelity."
+  },
+  {
+    "id": "p-b2bcff",
+    "offset": 20004,
+    "text": "For my father, I am sure, will do everything that he ought to do. Preserve me as a constant friend to you, and find out this person so lately discovered. These things, by your right hand, holding you with my own right hand, do I beg of you; do not prove less true to me than I have proved to you. This matter do you attend to; you are now my master, you my patron, you my father;"
+  },
+  {
+    "id": "p-491141",
+    "offset": 20385,
+    "text": "to you do I commend my hopes and my fortunes."
+  },
+  {
+    "id": "p-386000",
+    "offset": 20432,
+    "text": "PHILOCRATES:\nYou have given injunctions enough. Are you satisfied if I bring back accomplished what you have enjoined?"
+  },
+  {
+    "id": "p-684a9a",
+    "offset": 20552,
+    "text": "TYNDARUS:\nSatisfied."
+  },
+  {
+    "id": "p-53d5a0",
+    "offset": 20574,
+    "text": "PHILOCRATES:\n(to HEGIO.)\nAccording to your wishes, and\n(to TYNDARUS) according to yours, will I return hither provided. Is there anything else?"
+  },
+  {
+    "id": "p-cc46a1",
+    "offset": 20719,
+    "text": "TYNDARUS:\nFor you to return back as soon as ever you can."
+  },
+  {
+    "id": "p-8dc47e",
+    "offset": 20778,
+    "text": "PHILOCRATES:\nThe business itself reminds me of that."
+  },
+  {
+    "id": "p-fc9b9b",
+    "offset": 20832,
+    "text": "HEGIO:\n(to PHILOCRATES.)\nFollow me, that I may give you your expenses for the journey at my banker’s;"
+  },
+  {
+    "id": "p-70185d",
+    "offset": 20935,
+    "text": "on the same occasion I’ll get a passport from the Praetor."
+  },
+  {
+    "id": "p-7c9b15",
+    "offset": 20995,
+    "text": "TYNDARUS:\nWhat passport?"
+  },
+  {
+    "id": "p-e5c844",
+    "offset": 21021,
+    "text": "HEGIO:\nFor him to take with him hence to the army, that he may be allowed to go home from here.\n(To TYNDARUS.) You go in-doors."
+  },
+  {
+    "id": "p-ddbe40",
+    "offset": 21150,
+    "text": "TYNDARUS:\nSpeed you well."
+  },
+  {
+    "id": "p-c0ac55",
+    "offset": 21177,
+    "text": "PHILOCRATES:\nRight heartily, farewell."
+  },
+  {
+    "id": "p-6a9591",
+    "offset": 21217,
+    "text": "(TYNDARUS goes into the house.)"
+  },
+  {
+    "id": "p-53fbae",
+    "offset": 21250,
+    "text": "HEGIO:\n(aside.)\nI’ faith, I compassed my design, when I purchased these men of the Quaestors out of the spoil. I have released my son from slavery, if so it pleases the Gods;"
+  },
+  {
+    "id": "p-364010",
+    "offset": 21426,
+    "text": "and yet I hesitated a long time whether I should purchase or should not purchase these persons. Watch that man indoors, if you please, you servants, that he may nowhere move a foot without a guard. I shall soon make my appearance at home; now I’m going to my brother’s, to see my other captives; at the same time I’ll enquire whether any one knows this young man."
+  },
+  {
+    "id": "p-eabc89",
+    "offset": 21791,
+    "text": "(To PHILOCRATES.) Do you follow, that I may despatch you. I wish attention first to be paid to that matter."
+  },
+  {
+    "id": "p-118d23",
+    "offset": 21900,
+    "text": "(Exeunt.)"
+  }
+]

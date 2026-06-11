@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-demonicus-504adb",
+  "work_title": "To Demonicus",
+  "chapter_number": 1,
+  "chapter_title": "To Demonicus",
+  "chapter_slug": "01-to-demonicus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5843221d-4f91-5e45-ad3b-d146983397af",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2893,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg007.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "232e9d54-79f5-5b03-b0e1-b981dd20a35d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4283,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg007.perseus-eng2"
+    }
+  ]
+}

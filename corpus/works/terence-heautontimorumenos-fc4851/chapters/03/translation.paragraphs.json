@@ -1,0 +1,412 @@
+[
+  {
+    "id": "p-8d5c3b",
+    "offset": 0,
+    "text": "(Enter CHREMES, and MENEDEMUS with a spade in his hand, who falls to digging.)"
+  },
+  {
+    "id": "p-954c88",
+    "offset": 80,
+    "text": "CHREMES:\nAlthough this acquaintanceship between us is of very recent date, from the time in fact of your purchasing an estate here in the neighborhood, yet either your good qualities, or our being neighbors (which I take to be a sort of friendship), induces me to inform you, frankly and familiarly, that you appear to me to labor beyond your years, and beyond what your affairs require. For, in the name of Gods and men, what would you have? What can be your aim? You are, as I conjecture, sixty years of age, or more. No man in these parts has a better or a more valuable estate, no one more servants; and yet you discharge their duties just as diligently as if there were none at all. However early in the morning I go out, and however late in the evening I return home, I see you either digging, or plowing, or doing something, in fact, in the fields."
+  },
+  {
+    "id": "p-a6cf26",
+    "offset": 937,
+    "text": "You take respite not an instant, and are quite regardless of yourself. I am very sure that this is not done for your amusement. But really I am vexed how little work is done here. If you were to employ the time you spend in laboring yourself, in keeping your servants at work, you would profit much more."
+  },
+  {
+    "id": "p-e85946",
+    "offset": 1243,
+    "text": "MENEDEMUS:\nHave you so much leisure, Chremes, from your own affairs, that you can attend to those of others—those which don’t concern you?"
+  },
+  {
+    "id": "p-2e0ce0",
+    "offset": 1383,
+    "text": "CHREMES:\nI am a man, and nothing that concerns a man do I deem a matter of indifference to me. Suppose that I wish either to advise you in this matter, or to be informed myself: if what you do is right, that I may do the same; if it is not, then that I may dissuade you."
+  },
+  {
+    "id": "p-149a61",
+    "offset": 1655,
+    "text": "MENEDEMUS:\nIt’s requisite for me to do so; do you as it is necessary for you to do."
+  },
+  {
+    "id": "p-82ad7a",
+    "offset": 1740,
+    "text": "CHREMES:\nIs it requisite for any person to torment himself?"
+  },
+  {
+    "id": "p-fc76f2",
+    "offset": 1801,
+    "text": "MENEDEMUS:\nIt is for me."
+  },
+  {
+    "id": "p-9d7bbc",
+    "offset": 1827,
+    "text": "CHREMES:\nIf you have any affliction, I could wish it otherwise. But prithee, what sorrow is this of yours? How have you deserved so ill of yourself?"
+  },
+  {
+    "id": "p-19cfb3",
+    "offset": 1977,
+    "text": "MENEDEMUS:\nAlas! alas!\n(He begins to weep.)"
+  },
+  {
+    "id": "p-ecc752",
+    "offset": 2022,
+    "text": "CHREMES:\nDo not weep, but make me acquainted with it, whatever it is."
+  },
+  {
+    "id": "p-646940",
+    "offset": 2093,
+    "text": "Do not be reserved; fear nothing; trust me, I tell you. Either by consolation, or by counsel, or by any means, I will aid you."
+  },
+  {
+    "id": "p-0da091",
+    "offset": 2221,
+    "text": "MENEDEMUS:\nDo you wish to know this matter?"
+  },
+  {
+    "id": "p-ddf7ed",
+    "offset": 2266,
+    "text": "CHREMES:\nYes, and for the reason I mentioned to you."
+  },
+  {
+    "id": "p-d810a5",
+    "offset": 2320,
+    "text": "MENEDEMUS:\nI will tell you."
+  },
+  {
+    "id": "p-a774d9",
+    "offset": 2349,
+    "text": "CHREMES:\nBut still, in the mean time, lay down that rake; don’t fatigue yourself."
+  },
+  {
+    "id": "p-93325a",
+    "offset": 2432,
+    "text": "MENEDEMUS:\nBy no means."
+  },
+  {
+    "id": "p-7f42b5",
+    "offset": 2457,
+    "text": "CHREMES:\nWhat can be your object?\n(Tries to take the rake from him.)"
+  },
+  {
+    "id": "p-eaa477",
+    "offset": 2527,
+    "text": "MENEDEMUS:\nDo leave me alone, that I may give myself no respite from my labor."
+  },
+  {
+    "id": "p-31ac7f",
+    "offset": 2607,
+    "text": "CHREMES:\nI will not allow it, I tell you.\n(Taking the rake from him.)"
+  },
+  {
+    "id": "p-fc8a6e",
+    "offset": 2678,
+    "text": "MENEDEMUS:\nAh! that’s not fair."
+  },
+  {
+    "id": "p-4eede9",
+    "offset": 2711,
+    "text": "CHREMES:\n(poising the rake.)\nWhew! such a heavy one as this, pray!"
+  },
+  {
+    "id": "p-c63242",
+    "offset": 2779,
+    "text": "MENEDEMUS:\nSuch are my deserts."
+  },
+  {
+    "id": "p-4fc713",
+    "offset": 2812,
+    "text": "CHREMES:\nNow speak.\n(Laying down the rake.)"
+  },
+  {
+    "id": "p-ef976b",
+    "offset": 2857,
+    "text": "MENEDEMUS:\nI have an only son,—a young man,—alas! why did I say— I have? —rather I should say, I had one, Chremes:— whether I have him now, or not, is uncertain."
+  },
+  {
+    "id": "p-f5686a",
+    "offset": 3020,
+    "text": "CHREMES:\nWhy so?"
+  },
+  {
+    "id": "p-7ccdb7",
+    "offset": 3038,
+    "text": "MENEDEMUS:\nYou shall know:—There is a poor old woman here, a stranger from Corinth:—her daughter, a young woman, he fell in love with, insomuch that he almost regarded her as his wife; all this took place unknown to me. When I discovered the matter, I began to reprove him, not with gentleness, nor in the way suited to the love-sick mind of a youth, but with violence, and after the usual method of fathers. I was daily reproaching him,— Look you, do you expect to be allowed any longer to act thus, myself, your father, being alive; to be keeping a mistress pretty much as though your wife?"
+  },
+  {
+    "id": "p-f83f17",
+    "offset": 3632,
+    "text": "You are mistaken, Clinia, and you don’t know me, if you fancy that. I am willing that you should be called my son, just as long as you do what becomes you; but if you do not do so, I shall find out how it becomes me to act toward you. This arises from nothing, in fact, but too much idleness."
+  },
+  {
+    "id": "p-1c8178",
+    "offset": 3926,
+    "text": "At your time of life, I did not devote my time to dalliance, but, in consequence of my poverty, departed hence for Asia, and there acquired in arms both riches and military glory. At length the matter came to this,—the youth, from hearing the same things so often, and with such severity, was overcome."
+  },
+  {
+    "id": "p-9ec1f9",
+    "offset": 4230,
+    "text": "He supposed that I, through age and affection, had more judgment and foresight for him than him-self. He went off to Asia, Chremes, to serve under the king."
+  },
+  {
+    "id": "p-183a03",
+    "offset": 4388,
+    "text": "CHREMES:\nWhat is it you say?"
+  },
+  {
+    "id": "p-3dbfa6",
+    "offset": 4418,
+    "text": "MENEDEMUS:\nHe departed without my knowledge—and has been gone these three months."
+  },
+  {
+    "id": "p-5c0c94",
+    "offset": 4501,
+    "text": "CHREMES:\nBoth are to be blamed—although I still think this step shows an ingenuous and enterprising disposition."
+  },
+  {
+    "id": "p-70ff0c",
+    "offset": 4615,
+    "text": "MENEDEMUS:\nWhen I learned this from those who were in the secret, I returned home sad, and with feelings almost over-whelmed and distracted through grief. I sit down; my servants run to me; they take off my shoes: then some make all haste to spread the couches, and to prepare a repast; each according to his ability did zealously what he could, in order to alleviate my sorrow. When I observed this, I began to reflect thus:— What! are so many persons anxious for my sake alone, to pleasure myself only?"
+  },
+  {
+    "id": "p-df6192",
+    "offset": 5121,
+    "text": "Are so many female servants to provide me with dress? Shall I alone keep up such an expensive establishment, while my only son, who ought equally, or even more so, to enjoy these things—inasmuch as his age is better suited for the enjoyment of them—him, poor youth, have I driven away from home by my severity!"
+  },
+  {
+    "id": "p-1d82ea",
+    "offset": 5433,
+    "text": "Were I to do this, really I should deem myself deserving of any calamity. But so long as he leads this life of penury, banished from his country through my severity, I will revenge his wrongs upon myself, toiling, making money, saving, and laying up for him."
+  },
+  {
+    "id": "p-f977e9",
+    "offset": 5693,
+    "text": "At once I set about it; I left nothing in the house, neither movables nor clothing; every thing I scraped together. Slaves, male and female, except those who could easily pay for their keep by working in the country, all of them I set up to auction and sold. I at once put up a bill to sell my house. I collected somewhere about fifteen talents, and purchased this farm; here I fatigue myself: I have come to this conclusion, Chremes, that I do my son a less injury, while I am unhappy; and that it is not right for me to enjoy any pleasure here, until such time as he returns home safe to share it with me."
+  },
+  {
+    "id": "p-b331e5",
+    "offset": 6302,
+    "text": "CHREMES:\nI believe you to be of an affectionate disposition toward your children, and him to be an obedient son, if one were to manage him rightly or prudently. But neither did you understand him sufficiently well, nor he you—a thing that happens where persons don’t live on terms of frankness together."
+  },
+  {
+    "id": "p-c9da92",
+    "offset": 6607,
+    "text": "You never showed him how highly you valued him, nor did he ever dare put that confidence in you which is due to a father. Had this been done, these troubles would never have befallen you."
+  },
+  {
+    "id": "p-637715",
+    "offset": 6796,
+    "text": "MENEDEMUS:\nSuch is the fact, I confess; the greatest fault is on my side."
+  },
+  {
+    "id": "p-b19f87",
+    "offset": 6871,
+    "text": "CHREMES:\nBut still, Menedemus, I hope for the best, and"
+  },
+  {
+    "id": "p-8118b0",
+    "offset": 6928,
+    "text": "I trust that he’ll be here safe before long."
+  },
+  {
+    "id": "p-79d4bf",
+    "offset": 6974,
+    "text": "MENEDEMUS:\nOh that the Gods would grant it!"
+  },
+  {
+    "id": "p-5e16a8",
+    "offset": 7019,
+    "text": "CHREMES:\nThey will do so. Now, if it is convenient to you—the festival of Bacchus is being kept here to-day—I wish you to give me your company."
+  },
+  {
+    "id": "p-3bc9c9",
+    "offset": 7164,
+    "text": "MENEDEMUS:\nI can not."
+  },
+  {
+    "id": "p-0001ed",
+    "offset": 7187,
+    "text": "CHREMES:\nWhy not? Do, pray, spare yourself a little while. Your absent son would wish you do so."
+  },
+  {
+    "id": "p-bb087c",
+    "offset": 7285,
+    "text": "MENEDEMUS:\nIt is not right that I, who have driven him hence to endure hardships, should now shun them myself."
+  },
+  {
+    "id": "p-26b045",
+    "offset": 7397,
+    "text": "CHREMES:\nIs such your determination?"
+  },
+  {
+    "id": "p-23c2c5",
+    "offset": 7435,
+    "text": "MENEDEMUS:\nIt is."
+  },
+  {
+    "id": "p-90d577",
+    "offset": 7454,
+    "text": "CHREMES:\nThen kindly fare you wall."
+  },
+  {
+    "id": "p-c238c5",
+    "offset": 7491,
+    "text": "MENEDEMUS:\nAnd you the same.\n(Goes into his house.)"
+  },
+  {
+    "id": "p-028cf2",
+    "offset": 7544,
+    "text": "CHREMES:\n(to himself.)\nHe has forced tears from me, and I do pity him. But as the day is far gone, I must remind Phania, this neighbor of mine, to come to dinner. I’ll go see whether he is at home. (Goes to PHANIA’s door, makes the inquiry, and returns.) There was no occasion for me to remind him: they tell me he has been some time already at my house; it’s I myself am making my guests wait. I’ll go in-doors immediately. But what means the noise at the door of my house? I wonder who’s coming out! I’ll step aside here.\n(He stands aside.)"
+  },
+  {
+    "id": "p-705a25",
+    "offset": 8088,
+    "text": "(Enter CLITIPHO, from the house of CHREMES.)"
+  },
+  {
+    "id": "p-15f4d5",
+    "offset": 8134,
+    "text": "CLITIPHO:\n(at the door, to CLINIA within.)\nThere is nothing, Clinia, for you to fear as yet: they have not been long by any means: and I am sure that she will be with you presently along with the messenger. Do at once dismiss these causeless apprehensions which are tormenting you."
+  },
+  {
+    "id": "p-abfc62",
+    "offset": 8417,
+    "text": "CHREMES:\n(apart.)\nWho is my son talking to?\n(Makes his appearance.)"
+  },
+  {
+    "id": "p-d3717e",
+    "offset": 8486,
+    "text": "CLITIPHO:\n(to himself.)\nHere comes my father, whom I wished to see: I’ll accost him. Father, you have met me opportunely."
+  },
+  {
+    "id": "p-25e380",
+    "offset": 8609,
+    "text": "CHREMES:\nWhat is the matter?"
+  },
+  {
+    "id": "p-f8efad",
+    "offset": 8639,
+    "text": "CLITIPHO:\nDo you know this neighbor of ours, Menedemus?"
+  },
+  {
+    "id": "p-db1be8",
+    "offset": 8696,
+    "text": "CHREMES:\nVery well."
+  },
+  {
+    "id": "p-24b4cb",
+    "offset": 8717,
+    "text": "CLITIPHO:\nDo you know that he has a son?"
+  },
+  {
+    "id": "p-0aae10",
+    "offset": 8759,
+    "text": "CHREMES:\nI have heard that he has; in Asia."
+  },
+  {
+    "id": "p-1ee875",
+    "offset": 8804,
+    "text": "CLITIPHO:\nHe is not in Asia, father; he is at:our house."
+  },
+  {
+    "id": "p-183a03",
+    "offset": 8862,
+    "text": "CHREMES:\nWhat is it you say?"
+  },
+  {
+    "id": "p-7e943f",
+    "offset": 8892,
+    "text": "CLITIPHO:\nUpon his arrival, after he had just landed from the ship, I immediately brought him to dine with us; for from our very childhood upward I have always been on intimate terms with him."
+  },
+  {
+    "id": "p-f34002",
+    "offset": 9086,
+    "text": "CHREMES:\nYou announce to me a great pleasure."
+  },
+  {
+    "id": "p-bf7149",
+    "offset": 9133,
+    "text": "How much I wish that Menedemus had accepted my invitation to make one of us: that at my house I might have been the first to surprise him, when not expecting it, with this delight!—and even yet there’s time enough—"
+  },
+  {
+    "id": "p-24256f",
+    "offset": 9349,
+    "text": "CLITIPHO:\nTake care what you do; there is no necessity, father, for doing so."
+  },
+  {
+    "id": "p-71c100",
+    "offset": 9428,
+    "text": "CHREMES:\nFor what reason?"
+  },
+  {
+    "id": "p-98599f",
+    "offset": 9455,
+    "text": "CLITIPHO:\nWhy, because he is as yet undetermined what to do with himself. He is but just arrived. He fears every thing; his father’s displeasure, and how his mistress may be disposed toward him."
+  },
+  {
+    "id": "p-e7dd62",
+    "offset": 9651,
+    "text": "He loves her to distraction: on her account, this trouble and going abroad took place."
+  },
+  {
+    "id": "p-6fef28",
+    "offset": 9739,
+    "text": "CHREMES:\nI know it."
+  },
+  {
+    "id": "p-f2ae65",
+    "offset": 9760,
+    "text": "CLITIPHO:\nHe has just sent a servant into the city to her, and I ordered our Syrus to go with him."
+  },
+  {
+    "id": "p-3002e9",
+    "offset": 9860,
+    "text": "CHREMES:\nWhat does Clinia say?"
+  },
+  {
+    "id": "p-13fc56",
+    "offset": 9892,
+    "text": "CLITIPHO:\nWhat does he say? That he is wretched."
+  },
+  {
+    "id": "p-add72c",
+    "offset": 9942,
+    "text": "CHREMES:\nWretched? Whom could we less suppose so? What is there wanting for him to enjoy every thing that among men, in fact, are esteemed as blessings? Parents, a country in prosperity, friends, family, relations, riches?"
+  },
+  {
+    "id": "p-e1c55f",
+    "offset": 10166,
+    "text": "And yet, all these are just according to the disposition of him who possesses them. To him who knows how to use them, they are blessings; to him who does not use them rightly, they are evils."
+  },
+  {
+    "id": "p-635cc7",
+    "offset": 10359,
+    "text": "CLITIPHO:\nAye, but lie always was a morose old man; and now I dread nothing more, father, than that in his displeasure he’ll be doing something to him more than is justifiable."
+  },
+  {
+    "id": "p-45eee1",
+    "offset": 10537,
+    "text": "CHREMES:\nWhat, he? (Aside.) But I’ll restrain myself; for that the other one should be in fear of his father is of service to him."
+  },
+  {
+    "id": "p-3dc5e7",
+    "offset": 10669,
+    "text": "CLITIPHO:\nWhat is it you are saying to yourself?"
+  },
+  {
+    "id": "p-acb272",
+    "offset": 10719,
+    "text": "CHREMES:\nI’ll tell you. However the case stood, Clinia ought still to have remained at home. Perhaps his father was a little stricter than he liked: he should have put up with it. For whom ought he to bear with, if he would not bear with his own father? Was it reasonable that he should live after his son’s humor, or his son after his? And as to charging him with harshness, it is not the fact. For the severities of fathers are generally of one character, those I mean who are in some degree reasonable men. They do not wish their sons to be always wenching; they do not wish them to be always carousing; they give a limited allowance; and yet all this tends to virtuous conduct. But when the mind, Clitipho, has once enslaved itself by vicious appetites, it must of necessity follow similar pursuits. This is a wise maxim, to take warning from others of what may be to your own advantage."
+  },
+  {
+    "id": "p-df38c3",
+    "offset": 11612,
+    "text": "CLITIPHO:\nI believe so."
+  },
+  {
+    "id": "p-84e578",
+    "offset": 11637,
+    "text": "CHREMES:\nI’ll now go hence in-doors, to see what we have for dinner. Do you, seeing what is the time of day, mind and take care not to be any where out of the way.\n(Goes into his house, and exit CLITIPHO.)"
+  }
+]

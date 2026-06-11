@@ -1,0 +1,25 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 233
+chapter_title: "Chapter text=A:book=11:letter=9"
+chapter_slug: 233
+variant_id: "6171324d-db58-558e-be18-a1d76b20dac9"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 821
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:233"
+translator: Perseus Digital Library
+---
+
+Cicero remained till towards the end of September, B.C. 47, at Brundisium, while Caesar was engaged in the Alexandrine and Pontic wars. The chief causes of anxiety and distress weighing upon him were the alienation of his brother, the uncertainty as to his own position, on the one hand with Caesar, and on the other with the Pompeians, now gathered in great force in Africa, and lastly the unhappiness of Tullia, whose relations with her husband Dolabella were very unsatisfactory to him. The clouds lifted greatly in September, when Caesar, returning to Italy, met Cicero between Tarentum and Brundisium, embraced him, and gave him free leave to live anywhere in Italy he chose. There was still the fear lest, if the Pompeians in Africa finally triumphed, he would be treated by them as a traitor. But he seems to have made up his mind that Caesar's favour offered the greater security.
+
+TO ATTICUS (AT ROME) BRUNDISIUM, 3 JANUARY
+
+Yes, it is quite as you say: I have acted both incautiously and in too great a hurry; nor have I any hope, seeing that I am only allowed to remain by special clauses of exemption in the edicts. If these had not been secured by your industry and kindness, I might have betaken myself to some lonely places. As it is, I can't even do that. For how does my having come before the new tribuneship help me, if' my having come at all is of no service to me? Or what am I to expect from a man who was never friendly to me, when my ruin and humiliation are now secured by an actual law? Already Balbus's letters to me become daily less cordial, and a great number from many hands reach Caesar, perhaps against me. I am perishing by my own fault. It is not chance that has caused me any misfortune, everything has been incurred by my own mistakes. The fact is that when I saw what sort of war it was going to be, and that universal unreadiness and feebleness were pitted against men in the highest state of preparation, I had made up my mind to a policy, not so much courageous, as one that I of all men was justified in adopting. I gave in to my relations, or rather, I obeyed them. What the real sentiments of one of them was-his whom you recommend to my forbearance —you will learn from his own letters, which he has sent to you and others. I should never have opened them, had it not been for the following circumstance. The bundle was brought to me. I untied it to see whether there was any letter for me. There was none. There was one for Vatinius, and another for Ligurius. I ordered them to be delivered to these persons. They immediately came to me boiling with indignation, loudly exclaiming against "the villain." They read me the letters full of every kind of abuse of me. Ligurius raved: said, that he knew that Quintus was detested by Caesar, and yet that the latter had not only favoured him, but had also given him all that money out of compliment to me. Thus outraged I determined to ascertain what he had said in his letters to the rest. For I thought it would be fatal to Quintus himself if such a villainy on his part became generally known. I found that they were of the same kind. I am sending them to you, and if you think that it is for his interest that they should be delivered, please to deliver them. It won't do me any harm. For as to their having had their seals broken, Pomponia possesses his signet, I think. When he displayed that exasperation at the beginning of our voyage, he grieved me so deeply that I was quite prostrate after it, and even now he is said to be working not so much for himself as against me. So I am hard pressed by every kind of misery, and can hardly bear up against it, or rather cannot do so at all. Of these miseries there is one which outweighs all the others—that I shall leave that poor girl deprived of patrimony and every kind of property. Wherefore pray see to that, according to your promise: for I have no one else to whom to commend her, since I have discovered that the same treatment is prepared for her mother as for me. But, in case you don't find me here when you come, still consider that she has been commended to you with due solemnity, and soften her uncle in regard to her as much as you can. I am writing this to you on my birthday: on which day would that I had never been born, or that nothing had afterwards been born of the same mother I Tears prevent my writing more.

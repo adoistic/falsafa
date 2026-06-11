@@ -1,0 +1,26 @@
+{
+  "work_slug": "plutarch-quaestiones-naturales-f046cb",
+  "work_title": "Quaestiones Naturales",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "181ae46b-d658-5b4d-94af-d7a4ddd1d351",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 321,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg125.perseus-eng2:5"
+    }
+  ]
+}

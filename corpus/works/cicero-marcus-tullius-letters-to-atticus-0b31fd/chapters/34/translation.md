@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 34
+chapter_title: "Chapter text=A:book=2:letter=14"
+chapter_slug: 34
+variant_id: "9e41675f-25b3-5041-b195-0f2e5b3616a8"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 331
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:34"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) FORMIAE, APRIL
+
+How you rouse my curiosity as to what Bibulus says, as to your conversation with "Iuno," and even as to your "fast" dinner party! Therefore make haste to come, for my ears are thirsty for news. However, there is nothing which I think is now more to be dreaded by me than that our dear Sampsiceramus, finding himself belaboured by the tongues of all, and seeing these proceedings easy to upset, should begin striking out. For myself, I have so completely lost all nerve, that I prefer a despotism, with the existing peace, to a state of war with the best hopes in the world. As to literary composition, to which you frequently urge me, it is impossible! My house is a basilica rather than a villa, owing to the crowds of visitors from Formiae. But (you'll say) do I really compare the Aemilian tribe to the crowd in a basilica? Well, I say nothing about the common ruck— the rest of them don't bother me after ten o'clock: but C. Arrius is my next door neighbour, or rather, he almost lives in my house, and even declares that the reason for his not going to Rome is that he may spend whole days with me here philosophizing! And then, lo and behold, on my other side is Sebosus, that friend of Catulus! Which way am I to turn? By heaven, I would start at once for Arpinum, only that I see that the most convenient place to await your visit is Formiae: but only up to the 6th of May! For you see with what bores my ears are pestered. What a splendid opportunity, with such fellows in the house, if anyone wanted to buy my Formian property! And in spite of all this am I to make good my words, "Let us attempt something great, and requiring much thought and leisure"? However, I will do something for you, and not spare my labour.

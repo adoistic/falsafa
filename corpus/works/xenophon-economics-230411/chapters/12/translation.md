@@ -1,0 +1,87 @@
+---
+work_id: "230411ed-5d3a-593b-b0af-c4315852c2e9"
+work_slug: "xenophon-economics-230411"
+work_title: Economics
+author_name: Xenophon
+chapter_number: 12
+chapter_title: Chapter 12
+chapter_slug: 12
+variant_id: "96ba9ba0-9de4-53d2-9b37-541473ebb2d2"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 985
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-eng2:12"
+translator: Perseus Digital Library
+---
+
+But perhaps I am keeping you, Ischomachus,
+
+I continued, and you want to get away now?
+
+Oh no, Socrates, he answered; I should not think of going before the market empties.
+
+To be sure,
+
+I continued; you take the utmost care not to forfeit your right to be called a gentleman! For I daresay there are many things claiming your attention now; but, as you have made an appointment with those strangers, you are determined not to break it.
+
+But I assure you, Socrates, I am not neglecting the matters you refer to, either; for I keep bailiff’s on my farms.
+
+And when you want a bailiff, Ischomachus, do you look out for a man qualified for such a post, and then try to buy him—when you want a builder, I feel sure you inquire for a qualified man and try to get him—or do you train your bailiff’s yourself?
+
+Of course I try to train them myself, Socrates. For the man has to be capable of taking charge in my absence; so why need he know anything but what I know myself? For if I am fit to manage the farm, I presume I can teach another man what I know myself.
+
+Then the first requirement will be that he should be loyal to you and yours, if he is to represent you in your absence. For if a steward is not loyal, what is the good of any knowledge he may possess?
+
+None, of course; but I may tell you, loyalty to me and to mine is the first lesson I try to teach.
+
+And how, in heaven’s name, do you teach your man to be loyal to you and yours?
+
+By rewarding him, of course, whenever the gods bestow some good thing on us in abundance.
+
+You mean, then, that those who enjoy a share of your good things are loyal to you and want you to prosper?
+
+Yes, Socrates, I find that is the best instrument for producing loyalty.
+
+But, now, if he is loyal to you, Ischomachus, will that be enough to make him a competent bailiff? Don’t you see that though all men, practically, wish themselves well, yet there are many who won’t take the trouble to get for themselves the good things they want to have?
+
+Well, when I want to make bailiffs of such men, of course I teach them also to be careful.
+
+Pray how do you do that?
+
+I was under the impression that carefulness is a virtue that can’t possibly be taught.
+
+True, Socrates, it isn’t possible to teach everyone you come across to be careful.
+
+Very well; what sort of men can be taught? Point these out to me, at all events.
+
+In the first place, Socrates, you can’t make careful men of hard drinkers; for drink makes them forget everything they ought to do.
+
+Then are drunkards the only men who will never become careful, or are there others?
+
+Of course there are—sluggards must be included; for you can’t do your own business when you are asleep, nor make others do theirs.
+
+Well, then, will these make up the total of persons incapable of learning this lesson, or are there yet others besides?
+
+I should add that in my opinion a man who falls desperately in love is incapable of giving more attention to anything than he gives to the object of his passion.
+
+For it isn’t easy to find hope or occupation more delightful than devotion to the darling! aye, and when the thing to be done presses, no harder punishment can easily be thought of than the prevention of intercourse with the beloved! Therefore I shrink from attempting to make a manager of that sort of man too.
+
+And what about the men who have a passion for lucre? Are they also incapable of being trained to take charge of the work of a farm?
+
+Not at all; of course not. In fact, they very easily qualify for the work. It is merely necessary to point out to them that diligence is profitable.
+
+And assuming that the others are free from the faults that you condemn and are covetous of gain in a moderate degree, how do you teach them to be careful in the affairs you want them to superintend?
+
+By a very simple plan, Socrates. Whenever I notice that they are careful, I commend them and try to show them honour; but when they appear careless, I try to say and do the sort of things that will sting them.
+
+Turn now, Ischomachus, from the subject of the men in training for the occupation, and tell me about the system: is it possible for anyone to make others careful if he is careless himself?
+
+Of course not: an unmusical person could as soon teach music. For it is hard to learn to do a thing well when the teacher prompts you badly; and when a master prompts a servant to be careless, it is difficult for the man to become a good servant.
+
+To put it shortly, I don’t think I have discovered a bad master with good servants: I have, however, come across a good master with bad servants—but they suffered for it! If you want to make men fit to take charge, you must supervise their work and examine it, and be ready to reward work well carried through, and not shrink from punishing carelessness as it deserves.
+
+I like the answer that is attributed to the Persian. The king, you know, had happened on a good horse, and wanted to fatten him as speedily as possible. So he asked one who was reputed clever with horses what is the quickest way of fattening a horse. The master’s eye, replied the man. I think we may apply the answer generally, Socrates, and say that the master’s eye in the main does the good and worthy work.

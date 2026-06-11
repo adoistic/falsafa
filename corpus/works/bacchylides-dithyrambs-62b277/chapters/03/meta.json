@@ -1,0 +1,38 @@
+{
+  "work_slug": "bacchylides-dithyrambs-62b277",
+  "work_title": "Dithyrambs",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 17",
+  "chapter_slug": "03",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "146f38ba-c7b3-5d3d-a0fe-ff02a180034d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 537,
+      "paragraph_count": 132,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0199.tlg002.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06136e92-2341-5b63-9703-6d9748b9eddf",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 780,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0199.tlg002.perseus-eng2:3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "horace-carmina-13e18b",
+  "work_title": "Carmina",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd6a6765-2e0e-5ce7-a849-2fb1b804d735",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3966,
+      "paragraph_count": 248,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi001.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97dac6b3-6dc3-5c4a-bf62-544a9eda60f4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5716,
+      "paragraph_count": 857,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi001.perseus-eng2:1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-ephesians-a7cc21",
+  "work_title": "Ephesians",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4fc1dbca-75b0-53cf-8dcc-eef7b5407c25",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 482,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg010.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4400a81d-e4a8-5652-8d86-7d4846de51ea",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 625,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg010.perseus-eng2:4"
+    }
+  ]
+}

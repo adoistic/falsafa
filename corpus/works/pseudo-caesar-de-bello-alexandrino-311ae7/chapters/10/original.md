@@ -1,0 +1,21 @@
+---
+work_id: "311ae72f-0571-54bf-84ba-1c4cffbaf679"
+work_slug: "pseudo-caesar-de-bello-alexandrino-311ae7"
+work_title: De Bello Alexandrino
+author_name: "Pseudo-Caesar"
+chapter_number: 10
+chapter_title: Chapter 10
+chapter_slug: 10
+variant_id: "8084825a-5ad1-5d78-9528-4968dc0759e4"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 169
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-lat1:10"
+curator: thothica
+---
+
+Caesar, ut per se consilium caperet quid faciendum videretur, navem conscendit atque omnem classem se sequi iussit nullis nostris militibus impositis, quod, cum longius paulo discederet, munitiones nudare nolebat. Cumque ad eum locum accessissent, qui appellatur Chersonensus, aquandique causa remiges in terram exposuissent, non nulli ex eo numero, cum longius a navibus praedatum processissent, ab equitibus hostium sunt excepti. Ex his cognoverunt Caesarem ipsum in classe venisse nec ullos milites in navibus habere. Qua re comperta magnam sibi facultatem fortunam obtulisse bene gerendae rei crediderunt. Itaque navis omnis quas paratas habuerant ad navigandum propugnatoribus instruxerunt Caesarique redeunti eum classe occurrerunt. Qui duabus de causis eo die dimicare nolebat, quod et nullos milites in navibus habebat et post horam X. diei res agebatur, nox autem allatura videbatur maiorem fiduciam illis, qui locorum notitia confidebant; sibi etiam hortandi suos auxilium defuturum, quod nulla satis idonea esset hortatio quae neque virtutem posset notare neque inertiam. Quibus de causis navis quas potuit Caesar ad terram detrahit, quem in locum illos successuros non existimabam

@@ -1,0 +1,39 @@
+{
+  "work_slug": "bacchylides-epinicians-8ecde7",
+  "work_title": "Epinicians",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cfb030ff-c1c1-5e0c-8ca3-331f728fd5d2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 95,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0199.tlg001.perseus-grc2:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "53478dce-c98e-5679-870d-272c69e21470",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 99,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0199.tlg001.perseus-eng2:12"
+    }
+  ]
+}

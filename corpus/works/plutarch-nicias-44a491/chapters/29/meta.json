@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-nicias-44a491",
+  "work_title": "Nicias",
+  "chapter_number": 29,
+  "chapter_title": "Chapter 29",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d3051922-bae1-576e-9aa1-625138b04e55",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 181,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg038.perseus-grc2:29"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a26383e-e201-5b3f-87a7-edd15445ab32",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 301,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg038.perseus-eng2:29"
+    }
+  ]
+}

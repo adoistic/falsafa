@@ -1,0 +1,49 @@
+---
+work_id: "5c7ac936-bfc5-5422-99dc-b48968e04ea6"
+work_slug: "pindar-olympian-5c7ac9"
+work_title: Olympian
+author_name: Pindar
+chapter_number: 13
+chapter_title: Chapter 13
+chapter_slug: 13
+variant_id: "eed62ad3-8f69-50c0-b143-02ec962f0744"
+content_type: translation
+layout: verse
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 1165
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2:13"
+translator: Diane Svarlien
+---
+
+While I praise a house that has been three times victorious at Olympia, gentle to her own citizens, and hospitable to strangers, I shall recognize prosperous Corinth, the portal of Isthmian Poseidon, glorious in her young men. There dwell Eunomia and her sisters, the secure foundation of cities: Dike, and Eirene, who was raised together with her, the guardians of wealth for men, the golden daughters of wise Themis.
+
+They are resolute in repelling
+
+Hybris, the bold-tongued mother of Koros, I have fine things to tell, and straightforward boldness urges my tongue to speak. It is impossible to conceal one’s inborn nature. As for you, sons of Aletes, often the Seasons have sent you victorious splendor for your consummate excellence when you won in sacred contests, and often into the hearts of men the Seasons rich in flowers have cast ancient inventiveness. But the fame for every work is due to its inventor. Whence did the graces of Dionysus first come to light, with the ox-driving dithyramb?
+
+Who invented the bridle for the harness of horses, or placed the double king of birds on top of the temples of gods? And in Corinth the sweet-breathing Muse blossoms, and also Ares, with the deadly spears of young men.
+
+Highest lord of Olympia, ruling far and wide; for all time, father Zeus, may you be ungrudging of our words, and ruling this people in safety, grant a straight course to the fair wind of Xenophon’s good fortune. Receive the ordained song of praise in honor of his garlands, the procession which he leads from the plains of Pisa, since he has been victorious in both the pentathlon and the foot race; he has attained what no mortal man has ever attained before.
+
+Two wreaths of wild celery crowned him, when he appeared at the Isthmian festival; and Nemea does not speak differently.
+
+The brilliance of his father Thessalus’ feet is stored up by the streams of the Alpheus, and at Pytho he has honor for the single and the double foot race within the circuit of a single day’s sun; and in the same month, in rocky Athens, one swift-footed day placed three very beautiful prizes on his head, and the games of Athena Hellotis give him seven victories. In the games of Poseidon between the two seas, the songs would be too long that could tell of all the victories won by Terpsias and Eritimus, with their father Ptoeodorus. And as for all the times you were best at Delphi, and in the lion’s pastures, I am ready to contend with many over the number of your honors; for, truly, I would not know how to give a clear account of the number of pebbles in the sea.
+
+Each thing has its limit; knowing it is the best and most timely way. And I, sailing on my own course for the common good, and singing of the wisdom and the battles of ancient men in their heroic excellence, shall not falsify the story of Corinth; I shall tell of Sisyphus, who, like a god, was very shrewd in his devising, and of Medea, who resolved on her own marriage against her father’s will, and thus saved the ship Argo and its seamen.
+
+And again, in the fight long ago before the walls of Dardanus, Corinthians seemed to decide the issue of battles on either side: some of them attempting, with the dear race of Atreus, to recover Helen, and others doing everything they could to oppose the attempt. And the Danaans trembled before Glaucus, when he came from Lycia; he boasted to them that in the city of Peirene lay the rule and rich estate and hall of his ancestor, Bellerophon, who once suffered greatly when beside the spring he wanted to harness Pegasus, the son of the snake-entwined Gorgon;
+
+until the maiden Pallas brought to him a bridle with golden cheek-pieces. The dream suddenly became waking reality, and she spoke: “Are you sleeping, king, son of Aeolus? Come, take this charm for the horse; and, sacrificing a white bull, show it to your ancestor, Poseidon the Horse-Tamer.”
+
+The goddess of the dark aegis seemed to say such words to him as he slumbered in the darkness, and he leapt straight up to his feet. He seized the marvellous thing that lay beside him, and gladly went to the seer of the land, and he told the son of Coeranus the whole story: how, at the seer’s bidding, he had gone to sleep for the night on the altar of the goddess, and how the daughter herself of Zeus whose spear is the thunderbolt had given him the spirit-subduing gold. The seer told him to obey the dream with all speed;
+
+and, when he sacrificed a strong-footed bull to the widely powerful holder of the earth, straightaway to dedicate an altar to Athena, goddess of horses. The power of the gods accomplishes as a light achievement what is contrary to oaths and expectations. And so mighty Bellerophon eagerly stretched the gentle charmed bridle around its jaws and caught the winged horse. Mounted on its back and armored in bronze, at once he began to play with weapons. And with Pegasus, from the chilly bosom of the lonely air, he once attacked the Amazons, the female army of archers, and he killed the fire-breathing Chimaera, and the Solymi. I shall pass over his death in silence; but Pegasus has found his shelter in the ancient stables of Zeus in Olympus,
+
+But I, while casting the whirling javelins with straight aim, must not miss the mark as I speed many shafts with the strength of my hands. I have come as a willing champion of the Muses on their splendid thrones and of the race of Oligaethus. I shall make their many victories at the Isthmus and at Nemea manifest in a few words; and, as a truthful witness under oath, the sweet-tongued cry of the noble herald, who announced their victories sixty times at both places, will confirm my words.
+
+Their victories at Olympia seem to have already been mentioned; and of those in the future I could tell clearly when the time comes. For now I am hopeful, although a god controls the outcome. If the good fortune of their family continues, we shall leave this to Zeus and Enyalius to accomplish. They won six times beneath the brow of Parnassus; and all their victories in Argos and in Thebes, and all that shall be witnessed by the royal Lycaean altar that rules over the Arcadians, and by Pellana, and Sicyon, and Megara, the beautifully enclosed precinct of the Aeacidae, and Eleusis and splendid Marathon, and the wealthy and beautiful cities beneath the high crest of Aetna, and Euboea—you may search through all Greece, and you will find that their victories are more than the eye can see. Come, swim away with agile feet!
+
+Zeus the Accomplisher, grant reverence, and a sweet good fortune of delights.

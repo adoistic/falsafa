@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-parallela-minora-5c42b0",
+  "work_title": "Parallela minora",
+  "chapter_number": 1,
+  "chapter_title": "Parallela minora",
+  "chapter_slug": "01-parallela-minora",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "99133f5e-4652-5346-ab39-ba224740768a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4728,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg085.perseus-grc4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4aac59cc-8e54-5786-89ed-3597539a1cbd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8264,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg085.perseus-eng4"
+    }
+  ]
+}

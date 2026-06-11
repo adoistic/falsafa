@@ -1,0 +1,99 @@
+---
+work_id: "8e04c60d-51d0-5ec5-a37a-8210392b219c"
+work_slug: "apollodorus-epitome-8e04c6"
+work_title: Epitome
+author_name: Apollodorus
+chapter_number: 7
+chapter_title: Chapter 7
+chapter_slug: 07
+variant_id: "3a06e9b4-0415-5c74-be87-2a33b95b2c9f"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 2352
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0548.tlg002.perseus-eng2:7"
+translator: Perseus Digital Library
+---
+
+Ulysses, as some say, wandered about Libya, or, as some say, about Sicily, or, as others say, about the ocean or about the Tyrrhenian Sea.
+
+And putting to sea from Ilium, he touched at Ismarus, a city of the Cicones, and captured it in war, and pillaged it, sparing Maro alone, who was priest of Apollo. And when the Cicones who inhabited the mainland heard of it, they came in arms to withstand him, and having lost six men from each ship he put to sea and fled.
+
+And he landed in the country of the Lotus-eaters, and sent some to learn who inhabited it, but they tasted of the lotus and remained there; for there grew in the country a sweet fruit called lotus, which caused him who tasted it to forget everything. When Ulysses was informed of this, he restrained the rest of his men, and dragged those who had tasted the lotus by force to the ships. And having sailed to the land of the Cyclopes, he stood in for the shore.
+
+And having left the rest of the ships in the neighboring island, he stood in for the land of the Cyclopes with a single ship, and landed with twelve companions. And near the sea was a cave which he entered, taking with him the skin of wine that had been given him by Maro. Now the cave belonged to Polyphemus, who was a son of Poseidon and the nymph Thoosa, a huge, wild, cannibal man, with one eye on his forehead.
+
+And having lit a fire and sacrificed some of the kids, they feasted. But the Cyclops came, and when he had driven in his flocks, he put a huge stone to the door, and perceiving the men he ate some of them.
+
+But Ulysses gave him of Maro's wine to drink, and when he had drunk, he asked for another draught, and when he had drunk the second, he inquired his name; and when Ulysses said that he was called Nobody, he threatened to devour Nobody last and the others first, and that was the token of friendship which he promised to give him in return. And being overcome by wine, he fell asleep.
+
+But Ulysses found a club lying there, and with the help of four comrades he sharpened it, and, having heated it in the fire, he blinded him. And when Polyphemus cried to the Cyclopes round about for help, they came and asked who was hurting him, and when he said, “Nobody,” they thought he meant that he was being hurt by nobody, and so they retired.
+
+And when the flocks sought their usual pasture, he opened the cave, and standing at the doorway spread out his hands and felt the sheep. But Ulysses tied three rams together, and himself getting under the bigger, and hiding under its belly, he passed out with the sheep. And having released his comrades from the sheep, he drove the animals to the ships, and sailing away shouted to the Cyclops that he was Ulysses and that he had escaped out of his hands.
+
+Now the Cyclops had been forewarned by a soothsayer that he should be blinded by Ulysses; and when he learned the name, he tore away rocks and hurled them into the sea, and hardly did the ship evade the rocks. From that time Poseidon was wroth with Ulysses.
+
+Having put to sea with all his ships, he came to the island of Aeolia, of which the king was Aeolus. He was appointed by Zeus keeper of the winds, both to calm them and to send them forth. Having entertained Ulysses, he gave him an oxhide bag in which he had bound fast the winds, after showing what winds to use on the voyage and binding fast the bag in the vessel. And by using suitable winds Ulysses had a prosperous voyage; and when he was near Ithaca and already saw the smoke rising from the town, he fell asleep.
+
+But his comrades, thinking he carried gold in the bag, loosed it and let the winds go free, and being swept away by the blasts they were driven back again. And having come to Aeolus, Ulysses begged that he might be granted a fair wind; but Aeolus drove him from the island, saying that he could not save him when the gods opposed.
+
+So sailing on he came to the land of the Laestrygones, and his own ship he moored last. Now the Laestrygones were cannibals, and their king was Antiphates. Wishing, therefore, to learn about the inhabitants, Ulysses sent some men to inquire. But the king's daughter met them and led them to her father.
+
+And he snatched up one of them and devoured him; but the rest fled, and he pursued them, shouting and calling together the rest of the Laestrygones. They came to the sea, and by throwing stones they broke the vessels and ate the men. Ulysses cut the cable of his ship and put to sea; but the rest of the ships perished with their crews.
+
+With one ship he put in to the Aeaean isle. It was inhabited by Circe, a daughter of the Sun and of Perse, and a sister of Aeetes; skilled in all enchantments was she. Having divided his comrades, Ulysses himself abode by the ship, in accordance with the lot, but Eurylochus with two and twenty comrades repaired to Circe.
+
+At her call they all entered except Eurylochus; and to each she gave a tankard she had filled with cheese and honey and barley meal and wine, and mixed with an enchantment. And when they had drunk, she touched them with a wand and changed their shapes, and some she made wolves, and some swine, and some asses, and some lions.
+
+But Eurylochus saw these things and reported them to Ulysses. And Ulysses went to Circe with moly, which he had received from Hermes, and throwing the moly among her enchantments, he drank and alone was not enchanted. Then drawing his sword, he would have killed her, but she appeased his wrath and restored his comrades. And when he had taken an oath of her that he should suffer no harm, Ulysses shared her bed, and a son, Telegonus, was born to him.
+
+Having tarried a year there, he sailed the ocean, and offered sacrifices to the souls, and by Circe's advice consulted the soothsayer Tiresias, and beheld the souls both of heroes and of heroines. He also looked on his mother Anticlia and Elpenor, who had died of a fall in the house of Circe.
+
+And having come to Circe he was sent on his way by her, and put to sea, and sailed past the isle of the Sirens. Now the Sirens were Pisinoe, Aglaope, and Thelxiepia, daughters of Achelous and Melpomene, one of the Muses. One of them played the lyre, another sang, and another played the flute, and by these means they were fain to persuade passing mariners to linger;
+
+and from the thighs they had the forms of birds. Sailing by them, Ulysses wished to hear their song, so by Circe's advice he stopped the ears of his comrades with wax, and ordered that he should himself be bound to the mast. And being persuaded by the Sirens to linger, he begged to be released, but they bound him the more, and so he sailed past. Now it was predicted of the Sirens that they should themselves die when a ship should pass them; so die they did.
+
+And after that he came to two ways. On the one side were the Wandering Rocks, and on the other side two huge cliffs, and in one of them was Scylla, a daughter of Crataeis and Trienus or Phorcus, with the face and breast of a woman, but from the flanks she had six heads and twelve feet of dogs.
+
+And in the other cliff was Charybdis, who thrice a day drew up the water and spouted it again. By the advice of Circe he shunned the passage by the Wandering Rocks, and in sailing past the cliff of Scylla he stood fully armed on the poop. But Scylla appeared, snatched six of his comrades, and gobbled them up.
+
+And thence he came to Thrinacia, an island of the Sun, where kine were grazing, and being windbound, he tarried there. But when his comrades slaughtered some of the kine and banqueted on them, for lack of food, the Sun reported it to Zeus, and when Ulysses put out to sea, Zeus struck him with a thunderbolt.
+
+And when the ship broke up, Ulysses clung to the mast and drifted to Charybdis. And when Charybdis sucked down the mast, he clutched an overhanging wild fig-tree and waited, and when he saw the mast shot up again, he cast himself on it, and was carried across to the island of Ogygia.
+
+There Calypso, daughter of Atlas, received him, and bedding with him bore a son Latinus. He stayed with her five years, and then made a raft and sailed away. But on the high sea the raft was broken in pieces by the wrath of Poseidon, and Ulysses was washed up naked on the shore of the Phaeacians.
+
+Now Nausicaa, the daughter of king Alcinous, was washing the clothes, and when Ulysses implored her protection, she brought him to Alcinous, who entertained him, and after bestowing gifts on him sent him away with a convoy to his native land. But Poseidon was wroth with the Phaeacians, and he turned the ship to stone and enveloped the city with a mountain.
+
+And on arriving in his native land Ulysses found his substance wasted; for, believing that he was dead, suitors were wooing Penelope. From Dulichium came fifty-seven:
+
+Amphinomus, Thoas, Demoptolemus, Amphimachus, Euryalus, Paralus, Evenorides, Clytius, Agenor, Eurypylus, Pylaemenes, Acamas, Thersilochus, Hagius, Clymenus, Philodemus, Meneptolemus, Damastor, Bias, Telmius, Polyidus, Astylochus, Schedius, Antigonus, Marpsius, Iphidamas, Argius, Glaucus, Calydoneus, Echion, Lamas, Andraemon, Agerochus, Medon, Agrius, Promus, Ctesius, Acarnan, Cycnus, Pseras, Hellanicus, Periphron, Megasthenes, Thrasymedes, Ormenius, Diopithes, Mecisteus, Antimachus, Ptolemaeus, Lestorides, Nicomachus, Polypoetes, and Ceraus.
+
+And from Samethere came twenty—three:— Agelaus, Pisander, Elatus, Ctesippus, Hippodochus, Eurystratus, Archemolus, Ithacus, Pisenor, Hyperenor, Pheroetes, Antisthenes, Cerberus, Perimedes, Cynnus, Thriasus, Eteoneus, Clytius, Prothous, Lycaethus, Eumelus, Itanus, Lyammus.
+
+And from Zacynthos came forty—four: Eurylochus, Laomedes, Molebus, Phrenius, Indius, Minis, Liocritus, Pronomus, Nisas, Daemon, Archestratus, Hippomachus, Euryalus, Periallus, Evenorides, Clytius, Agenor, Polybus, Polydorus, Thadytius, Stratius, Phrenius, Indius, Daesenor, Laomedon, Laodicus, Halius, Magnes, Oloetrochus, Barthas, Theophron, Nissaeus, Alcarops, Periclymenus, Antenor, Pellas, Celtus, Periphus, Ormenus, Polybus and Andromedes.
+
+And from Ithaca itself the suitors were twelve, to wit:— Antinous, Pronous, Liodes, Eurynomus, Amphimachus, Amphialus, Promachus, Amphimedon, Aristratus, Helenus, Dulicheus, and Ctesippus.
+
+These, journeying to the palace, consumed the herds of Ulysses at their feasts. And Penelope was compelled to promise that she would wed when the shroud of Laertes was finished, and she wove it for three years, weaving it by day and undoing it by night. In this way the suitors were deceived by Penelope, till she was detected.
+
+And Ulysses, being apprized of the state of things at home, came to his servant Eumaeus in the guise of a beggar, and made himself known to Telemachus, and arrived in the city. And Melanthius, the goatherd, a servant man, met them, and scorned them. On coming to the palace Ulysses begged food of the suitors, and finding a beggar called Irus he wrestled with him. But he revealed himself to Eumaeus and Philoetius, and along with them and Telemachus he laid a plot for the suitors.
+
+Now Penelope delivered to the suitors the bow of Ulysses, which he had once received from Iphitus; and she said that she would marry him who bent the bow. When none of them could bend it, Ulysses took it and shot down the suitors, with the help of Eumaeus, Philoetius, and Telemachus. He killed also Melanthius, and the handmaids that bedded with the suitors, and he made himself known to his wife and his father.
+
+And after sacrificing to Hades, and Persephone, and Tiresias, he journeyed on foot through Epirus, and came to the Thesprotians, and having offered sacrifice according to the directions of the soothsayer Tiresias, he propitiated Poseidon. But Callidice, who was then queen of the Thesprotians, urged him to stay and offered him the kingdom;
+
+and she had by him a son Polypoetes. And having married Callidice, he reigned over the Thesprotians, and defeated in battle the neighboring peoples who attacked him. But when Callidice died he handed over the kingdom to his son and repaired to Ithaca, and there he found Poliporthes, whom Penelope had borne to him.
+
+When Telegonus learned from Circe that he was a son of Ulysses, he sailed in search of him. And having come to the island of Ithaca, he drove away some of the cattle, and when Ulysses defended them, Telegonus wounded him with the spear he had in his hands, which was barbed with the spine of a sting-ray, and Ulysses died of the wound.
+
+But when Telegonus recognized him, he bitterly lamented, and conveyed the corpse and Penelope to Circe, and there he married Penelope. And Circe sent them both away to the Islands of the Blest.
+
+But some say that Penelope was seduced by Antinous and sent away by Ulysses to her father Icarius, and that when she came to Mantinea in Arcadia she bore Pan to Hermes.
+
+However others say that she met her end at the hands of Ulysses himself on account of Amphinomus, for they allege that she was seduced by him.
+
+And there are some who say that Ulysses, being accused by the kinsfolk of the slain, submitted the case to the judgment of Neoptolemus, king of the islands off Epirus; that Neoptolemus, thinking to get possession of Cephallenia if once Ulysses were put out of the way, condemned him to exile; and that Ulysses went to Aetolia, to Thoas, son of Andraemon, married the daughter of Thoas, and leaving a son Leontophonus, whom he had by her, died in old age.

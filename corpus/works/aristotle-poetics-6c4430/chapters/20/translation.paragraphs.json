@@ -1,0 +1,67 @@
+[
+  {
+    "id": "p-88f84d",
+    "offset": 0,
+    "text": "Diction as a whole is made up of these parts: letter, syllable, conjunction, joint, noun, verb, case, phrase."
+  },
+  {
+    "id": "p-a1d2e0",
+    "offset": 111,
+    "text": "A letter is an indivisible sound, not every such sound but one of which an intelligible sound can be formed. Animals utter indivisible sounds but none that I should call a letter."
+  },
+  {
+    "id": "p-d94ddf",
+    "offset": 292,
+    "text": "Such sounds may be subdivided into vowel, semi-vowel, and mute. A vowel is that which without any addition has an audible sound; a semivowel needs the addition of another letter to give it audible sound, for instance S and R; a mute is that which with addition has no sound of its own but becomes audible when combined with some of the letters which have a sound. Examples of mutes are G and D."
+  },
+  {
+    "id": "p-3616cc",
+    "offset": 688,
+    "text": "Letters differ according to the shape of the mouth and the place at which they are sounded; in being with or without aspiration; in being long and short; and lastly in having an acute, grave, or intermediate accent. But the detailed study of these matters properly concerns students of metre."
+  },
+  {
+    "id": "p-9716c5",
+    "offset": 982,
+    "text": "A syllable is a sound without meaning, composed of a mute and a letter that has a sound. GR, for example, without A is a syllable just as much as GRA with an A. But these distinctions also belong to the theory of metre."
+  },
+  {
+    "id": "p-547a16",
+    "offset": 1203,
+    "text": "A conjunction is a sound without meaning, which neither hinders nor causes the formation of a single significant sound or phrase out of several sounds, and which, if the phrase stands by itself, cannot properly stand at the beginning of it, e.g. μέν, δή, τοί, δέ; or else it is a sound without meaning capable of forming one significant sound or phrase out of several sounds having each a meaning of their own, e.g. ἀμφί, περί."
+  },
+  {
+    "id": "p-b565c2",
+    "offset": 1632,
+    "text": "A joint is a sound without meaning which marks the beginning or end of a phrase or a division in it, and naturally stands at either end or in the middle."
+  },
+  {
+    "id": "p-fa63cb",
+    "offset": 1787,
+    "text": "A noun is a composite sound with a meaning, not indicative of time, no part of which has a meaning by itself; for in compounds we do not use each part as having a meaning of its own, for instance, in Theodorus, there is no meaning of δῶρον (gift)."
+  },
+  {
+    "id": "p-740b47",
+    "offset": 2036,
+    "text": "A verb is a composite sound with a meaning, indicative of time, no part of which has a meaning by itself—just as in nouns. Man or white does not signify time, but walks and has walked connote present and past time respectively."
+  },
+  {
+    "id": "p-a57aef",
+    "offset": 2265,
+    "text": "A case (or inflection) of a noun or verb is that which signifies either of or to a thing and the like; or gives the sense of one or many e.g. men and man; or else it may depend on the delivery, for example question and command. Walked? and Walk! are verbal cases of this kind."
+  },
+  {
+    "id": "p-638892",
+    "offset": 2543,
+    "text": "A phrase is a composite sound with a meaning, some parts of which mean something by themselves."
+  },
+  {
+    "id": "p-8eb115",
+    "offset": 2640,
+    "text": "It is not true to say that every phrase is made up of nouns and verbs, e.g. the definition of man; but although it is possible to have a phrase without verbs, yet some part of it will always have a meaning of its own, for example, Cleon in Cleon walks."
+  },
+  {
+    "id": "p-4d99fe",
+    "offset": 2894,
+    "text": "A phrase may be a unit in two ways; either it signifies one thing or it is a combination of several phrases. The unity of the Iliad, for instance, is due to such combination, but the definition of man is one phrase because it signifies one thing."
+  }
+]

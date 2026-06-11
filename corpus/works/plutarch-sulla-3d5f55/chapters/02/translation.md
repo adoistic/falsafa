@@ -1,0 +1,25 @@
+---
+work_id: "3d5f5527-8162-539f-82f0-7c5bcc0cbcdc"
+work_slug: "plutarch-sulla-3d5f55"
+work_title: Sulla
+author_name: Plutarch
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "3f10a88d-cbec-5cac-8755-76472e4410b8"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 354
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:2"
+translator: Bernadotte Perrin
+---
+
+His personal appearance, in general, is given by his statues; but the gleam of his gray eyes, which was terribly sharp and powerful, was rendered even more fearful by the complexion of his face. This was covered with coarse blotches of red, interspersed with white. For this reason, they say, his surname was given him because of his complexion, and it was in allusion to this that a scurrilous jester at Athens made the verse:— Sulla is a mulberry sprinkled o’er with meal.
+
+Nor is it out of place to mention such testimonies in the case of a man said to have been by nature so fond of raillery, that when he was still young and obscure he spent much time with actors and buffoons and shared their dissolute life; and when he had made himself supreme master, he would daily assemble the most reckless stage and theatre folk to drink and bandy jests with them, although men thought that he disgraced his years, and although he not only dishonoured his high office, but neglected much that required attention.
+
+For when Sulla was once at table, he refused to be serious at all, but, although at other times he was a man of business and wore an austere look, he underwent a complete change as soon as he betook himself to good-fellowship and drinking, so that comic singers and dancers found him anything but ferocious, and ready to listen and yield to every request. It was this laxity, as it seems, which produced in him a diseased propensity to amorous indulgence and an unrestrained voluptuousness, from which he did not refrain even in his old age, but continued his youthful love for Metrobius, an actor. He also had the following experience. He began by loving a common but wealthy woman, Nicopolis by name, and such was the charm of his intimacy and youthful grace that in the end he was beloved by her, and was left her heir when she died. He also inherited the property of his step-mother, who loved him as her own son. By these means he became moderately well off.

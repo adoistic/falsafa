@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-cyropaedia-ec8f80",
+  "work_title": "Cyropaedia",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f87b96a-db34-5df4-98ff-455eb6283d28",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 13798,
+      "paragraph_count": 267,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg007.perseus-grc2:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "690feee9-54cc-5faf-9ad6-25337781c0bb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 21092,
+      "paragraph_count": 341,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg007.perseus-eng2:8"
+    }
+  ]
+}

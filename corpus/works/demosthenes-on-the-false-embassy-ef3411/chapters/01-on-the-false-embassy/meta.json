@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-on-the-false-embassy-ef3411",
+  "work_title": "On the False Embassy",
+  "chapter_number": 1,
+  "chapter_title": "On the False Embassy",
+  "chapter_slug": "01-on-the-false-embassy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f464af8-5144-5d94-9e70-d8af318b1ec4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 23063,
+      "paragraph_count": 385,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e70eaa8-cf05-5125-8b38-83dc455afc26",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 32257,
+      "paragraph_count": 367,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2"
+    }
+  ]
+}

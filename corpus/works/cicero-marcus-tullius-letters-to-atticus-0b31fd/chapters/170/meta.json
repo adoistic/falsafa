@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 170,
+  "chapter_title": "Chapter text=A:book=8:letter=11d",
+  "chapter_slug": "170",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc9c6e77-58a5-5b58-bce1-249557d0b319",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1281,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:170"
+    }
+  ]
+}

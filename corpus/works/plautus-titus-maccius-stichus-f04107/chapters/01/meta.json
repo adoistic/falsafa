@@ -1,0 +1,39 @@
+{
+  "work_slug": "plautus-titus-maccius-stichus-f04107",
+  "work_title": "Stichus",
+  "chapter_number": 1,
+  "chapter_title": "Chapter front",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f08ad21-5896-5394-83ec-bc5194ff0175",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1977,
+      "paragraph_count": 212,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi018.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cde06c1f-91ad-5c19-a98e-aa4d02b1486c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 438,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi018.perseus-eng2:1"
+    }
+  ]
+}

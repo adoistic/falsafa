@@ -1,0 +1,31 @@
+---
+work_id: "e19b265b-8b99-5a57-9332-bef51825252b"
+work_slug: "plutarch-lucullus-e19b26"
+work_title: Lucullus
+author_name: Plutarch
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "876e0339-b428-54ea-becc-016516823604"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 514
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg036.perseus-eng2:2"
+translator: Bernadotte Perrin
+---
+
+Though he was but a young man in the Marsic war, he gave many proofs of courage and understanding. It was, however, more owing to his constancy and mildness that Sulla attached him to himself and employed him from first to last on business of the highest importance. Such, for instance, was the management of the mint.
+
+Most of the money used in Peloponnesus during the Mithridatic war was coined by him, and was called Lucullean after him. It remained current for a long time, since the wants of the soldiery during the war gave it rapid circulation. Afterwards, at Athens, Sulla found himself master on land, but cut off from supplies by sea, owing to the superior naval force of the enemy. He therefore despatched Lucullus to Egypt and Libya, with orders to fetch ships from there.
+
+Winter was then at its worst, but he sailed forth with three Greek brigantines and as many small Rhodian galleys, exposing himself not only to the high sea, but to numerous hostile ships which were cruising about everywhere in full mastery of it. However, he put in at Crete and won it over to his side. He also made Cyrené, and finding it in confusion in consequence of successive tyrannies and wars, he restored it to order, and fixed its constitution, reminding the city of a certain oracular utterance which the great Plato had once vouchsafed to them.
+
+They asked him, it would seem, to write laws for them, and to mould their people into some form of sound government, whereupon he said that it was hard to be a lawgiver for the Cyrenaeans when they were having such good fortune. In fact, nothing is more ungovernable than a man reputed to be prosperous; and, on the other hand, nothing is more receptive of authority than a man who is humbled by misfortune. This was what made the Cyrenaeans at that time so submissive to Lucullus as their lawgiver.
+
+From thence he set sail for Egypt, but was attacked by pirates, and lost most of his vessels. He himself, however, escaped in safety, and entered the port of Alexandria in splendid style. The entire Egyptian fleet came to meet him, as it was wont to do when a king put into port, in resplendent array, and the youthful Ptolemy, besides showing him other astonishing marks of kindness, gave him lodging and sustenance in the royal palace, whither no foreign commander had ever been brought before.
+
+The allowance which the king made for his expenses was not the same as others had received, but four times as much, and yet he accepted nothing beyond what was actually necessary, and took no gift, although he was offered the worth of eighty talents. It is also said that he neither went up to Memphis, nor sought out any other of the famous wonders of Egypt; this he held to be the privilege of a leisurely and luxurious sight-seer, not of one who, like himself, had left his commander-in-chief encamped under the open sky alongside the battlements of the enemy.

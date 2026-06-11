@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-eumenes-235c22",
+  "work_title": "Eumenes",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9d23a854-76a2-54af-a8a5-b74a2a140d55",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 266,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg041.perseus-grc2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "462a9f24-a937-5c8b-bfa7-3facc08d6005",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 394,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg041.perseus-eng2:18"
+    }
+  ]
+}

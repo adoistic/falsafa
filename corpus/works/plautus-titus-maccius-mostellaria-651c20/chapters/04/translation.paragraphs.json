@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "p-7adcb9",
+    "offset": 0,
+    "text": "(Enter a BANKER, at the end of the stage.)"
+  },
+  {
+    "id": "p-19940d",
+    "offset": 44,
+    "text": "A BANKER:\n(to himself.)\nI never knew any year worse for money upon interest, than this year has turned out to me. From morning even until night, I spend my time in the Forum;"
+  },
+  {
+    "id": "p-aea88f",
+    "offset": 220,
+    "text": "I cannot lend out a coin of silver to any one. (Enter TRANIO.)"
+  },
+  {
+    "id": "p-e2d1af",
+    "offset": 284,
+    "text": "TRANIO:\n(apart.)\nNow, faith, I am clearly undone in an everlasting way! The Banker’s here who found the money with which his mistress was bought. The matter’s all out, unless I meet him a bit beforehand, so that the old man may not at present come to know of this. I’ll go meet him. But (seeing THEUROPIDES) I wonder why he has so soon betaken himself homeward again. I’m afraid that he has heard something about this affair. I’ll meet him, and accost him. But how dreadfully frightened I am! Nothing is more wretched than the mind of a man with a guilty conscience, such as possesses myself. But however this matter turns out, I’ll proceed to perplex it still further: so does this affair require.\n(Enter THEUROPIDES.)"
+  },
+  {
+    "id": "p-3158e7",
+    "offset": 1005,
+    "text": "TRANIO:\n(accosting him.)\nWhence come you?"
+  },
+  {
+    "id": "p-f63300",
+    "offset": 1048,
+    "text": "THEUROPIDES:\nI met that person from whom I bought this house."
+  },
+  {
+    "id": "p-4ad42a",
+    "offset": 1111,
+    "text": "TRANIO:\nDid you tell him anything about that which I was telling you?"
+  },
+  {
+    "id": "p-45bce5",
+    "offset": 1182,
+    "text": "THEUROPIDES:\nI’ faith, I certainly told him everything."
+  },
+  {
+    "id": "p-a76f56",
+    "offset": 1239,
+    "text": "TRANIO:\n(aside.)\nWoe to unfortunate me!"
+  },
+  {
+    "id": "p-2ce1af",
+    "offset": 1280,
+    "text": "I’m afraid that my schemes are everlastingly undone!"
+  },
+  {
+    "id": "p-499dff",
+    "offset": 1334,
+    "text": "THEUROPIDES:\nWhat is it you are saying to yourself?"
+  },
+  {
+    "id": "p-7b4497",
+    "offset": 1387,
+    "text": "TRANIO:\nWhy nothing. But tell me, prithee, did you really tell him?"
+  },
+  {
+    "id": "p-78bb4e",
+    "offset": 1456,
+    "text": "THEUROPIDES:\nI told him everything in its order, I tell you."
+  },
+  {
+    "id": "p-d124a3",
+    "offset": 1518,
+    "text": "TRANIO:\nDoes he, then, confess about the guest?"
+  },
+  {
+    "id": "p-8f9ec0",
+    "offset": 1567,
+    "text": "THEUROPIDES:\nWhy no; he utterly denies it."
+  },
+  {
+    "id": "p-253111",
+    "offset": 1611,
+    "text": "TRANIO:\nDoes he deny it?"
+  },
+  {
+    "id": "p-608f95",
+    "offset": 1637,
+    "text": "THEUROPIDES:\nDo you ask me again?"
+  },
+  {
+    "id": "p-fd5eb8",
+    "offset": 1672,
+    "text": "I should tell you if he had confessed it. What now are you of opinion ought to be done?"
+  },
+  {
+    "id": "p-3ce773",
+    "offset": 1761,
+    "text": "TRANIO:\nWhat is my opinion? By my troth, I beg of you, appoint an arbitrator together with him; but take you care that you appoint one who will believe me; you’ll overcome him as easily as a fox eats a pear."
+  },
+  {
+    "id": "p-4d1642",
+    "offset": 1970,
+    "text": "A BANKER:\n(to himself.)\nBut see, here’s Tranio, the servant of Philolaches, people who pay me neither interest nor principal on my money.\n(Goes towards TRANIO, who steps forward to meet him.)"
+  },
+  {
+    "id": "p-34d5c6",
+    "offset": 2163,
+    "text": "THEUROPIDES:\n(to TRANIO.)\nWhither are you betaking yourself?"
+  },
+  {
+    "id": "p-21a909",
+    "offset": 2225,
+    "text": "TRANIO:\nI’m going no whither. (Aside.) For sure, I am a wretch, a rascal, one born with all the Gods my foes! He’ll now be accosting me in the old man’s presence. Assuredly, I am a wretched man;"
+  },
+  {
+    "id": "p-1e18fb",
+    "offset": 2421,
+    "text": "in such a fashion both this way and that do they find business for me. But I’ll make haste and accost him. (Moves towards the BANKER.)"
+  },
+  {
+    "id": "p-815c6c",
+    "offset": 2557,
+    "text": "A BANKER:\n(apart.)\nHe’s coming towards me. I’m all right I’ve some hopes of my money;"
+  },
+  {
+    "id": "p-c5bd4e",
+    "offset": 2644,
+    "text": "he’s smiling."
+  },
+  {
+    "id": "p-398943",
+    "offset": 2659,
+    "text": "TRANIO:\n(to himself.)\nThe fellow’s deceived. (To the BANKER.) I heartily bid you hail, my friend Saturides."
+  },
+  {
+    "id": "p-75cab0",
+    "offset": 2768,
+    "text": "A BANKER:\nAnd hail to you. What about the money?"
+  },
+  {
+    "id": "p-114825",
+    "offset": 2818,
+    "text": "TRANIO:\nBe off with you, will you, you brute."
+  },
+  {
+    "id": "p-18081f",
+    "offset": 2865,
+    "text": "Directly you come, you commence the attack against me."
+  },
+  {
+    "id": "p-3d780c",
+    "offset": 2921,
+    "text": "A BANKER:\n(apart.)\nThis fellow’s empty-handed."
+  },
+  {
+    "id": "p-8e178d",
+    "offset": 2969,
+    "text": "TRANIO:\n(overhearing him.)\nThis fellow’s surely a conjurer."
+  },
+  {
+    "id": "p-880ba3",
+    "offset": 3030,
+    "text": "A BANKER:\nBut why don’t you put an end to this trifling?"
+  },
+  {
+    "id": "p-aee73e",
+    "offset": 3088,
+    "text": "TRANIO:\nTell me, then, what it is you want."
+  },
+  {
+    "id": "p-cd0312",
+    "offset": 3133,
+    "text": "A BANKER:\nWhere is Philolaches?"
+  },
+  {
+    "id": "p-6c4037",
+    "offset": 3166,
+    "text": "TRANIO:\nYou never could have met me more opportunely than you have met me."
+  },
+  {
+    "id": "p-aebb7b",
+    "offset": 3242,
+    "text": "A BANKER:\nHow’s that?"
+  },
+  {
+    "id": "p-997f89",
+    "offset": 3265,
+    "text": "TRANIO:\n(taking him aside.)\nStep this way."
+  },
+  {
+    "id": "p-dbc8b4",
+    "offset": 3309,
+    "text": "A BANKER:\n(aloud.)\nWhy isn’t the money repaid me?"
+  },
+  {
+    "id": "p-1e6698",
+    "offset": 3360,
+    "text": "TRANIO:\nI know that you have a good voice; don’t bawl out so loud."
+  },
+  {
+    "id": "p-ad6915",
+    "offset": 3428,
+    "text": "A BANKER:\n(aloud.)\nI’ faith, I certainly shall bawl out."
+  },
+  {
+    "id": "p-726173",
+    "offset": 3486,
+    "text": "TRANIO:\nO do humour me now."
+  },
+  {
+    "id": "p-864e04",
+    "offset": 3515,
+    "text": "A BANKER:\nWhat do you want me to humour you in?"
+  },
+  {
+    "id": "p-686427",
+    "offset": 3564,
+    "text": "TRANIO:\nPrithee, be off hence home."
+  },
+  {
+    "id": "p-0e9fdc",
+    "offset": 3601,
+    "text": "A BANKER:\nBe off?"
+  },
+  {
+    "id": "p-0ecb67",
+    "offset": 3620,
+    "text": "TRANIO:\nReturn here about mid-day."
+  },
+  {
+    "id": "p-8a113f",
+    "offset": 3656,
+    "text": "A BANKER:\nWill the interest be paid then?"
+  },
+  {
+    "id": "p-a6dae7",
+    "offset": 3699,
+    "text": "TRANIO:\nIt will be paid. Be off."
+  },
+  {
+    "id": "p-b4504f",
+    "offset": 3733,
+    "text": "A BANKER:\nWhy should I run to and fro here, or use or waste my pains? What if I remain here until mid-day in preference?"
+  },
+  {
+    "id": "p-bfa5a1",
+    "offset": 3855,
+    "text": "TRANIO:\nWhy no; be off home. On my word, I’m telling the truth. Only do be off."
+  },
+  {
+    "id": "p-f23b7c",
+    "offset": 3936,
+    "text": "A BANKER:\n(aloud.)\nThen do you pay me my interest. Why do you trifle with me this way?"
+  },
+  {
+    "id": "p-38825d",
+    "offset": 4024,
+    "text": "TRANIO:\nBravo! faith. Really now, do be off; do attend to me."
+  },
+  {
+    "id": "p-b3f4e5",
+    "offset": 4087,
+    "text": "A BANKER:\n(aloud.)\nI’ faith, I’ll call him now by name."
+  },
+  {
+    "id": "p-20e8a5",
+    "offset": 4144,
+    "text": "TRANIO:\nBravo! stoutly done! Really you are quite rich now when you bawl out."
+  },
+  {
+    "id": "p-b85265",
+    "offset": 4223,
+    "text": "A BANKER:\n(aloud.)\nI’m asking for my own. In this way you’ve been disappointing me for these many days past."
+  },
+  {
+    "id": "p-2d53d0",
+    "offset": 4333,
+    "text": "If I’m troublesome, give me back the money; I’ll go away then. That expression puts an end to all replies."
+  },
+  {
+    "id": "p-60f4fb",
+    "offset": 4441,
+    "text": "TRANIO:\n(pretending to offer it him.)\nThen, take the principal."
+  },
+  {
+    "id": "p-1cc954",
+    "offset": 4506,
+    "text": "A BANKER:\n(aloud.)\nWhy no, the interest; I want that first."
+  },
+  {
+    "id": "p-c5ee83",
+    "offset": 4567,
+    "text": "TRANIO:\nWhat? Have you, you fellow most foul of all fellows, come here to burst yourself? Do what lies in your power."
+  },
+  {
+    "id": "p-e76915",
+    "offset": 4686,
+    "text": "He’s not going to pay you; he doesn’t owe it."
+  },
+  {
+    "id": "p-5ea11a",
+    "offset": 4733,
+    "text": "A BANKER:\nNot owe it?"
+  },
+  {
+    "id": "p-3eb072",
+    "offset": 4756,
+    "text": "TRANIO:\nNot a tittle, indeed, can you get from here. Would you prefer for him to go abroad, and leave the city in exile, driven hence for your sake? Why then, in preference let him pay the principal."
+  },
+  {
+    "id": "p-b9410a",
+    "offset": 4957,
+    "text": "A BANKER:\nBut I don’t ask for it."
+  },
+  {
+    "id": "p-f4460b",
+    "offset": 4992,
+    "text": "THEUROPIDES:\n(calling out to TRANIO, from a distance.)\nHark you! you whip-knave, come back to me."
+  },
+  {
+    "id": "p-f9f2ee",
+    "offset": 5091,
+    "text": "TRANIO:\n(to THEUROPIDES.)\nI’ll be there just now. (To the BANKER.) Don’t you be troublesome: no one’s going to pay you; do what you please. You are the only person, I suppose, that lends money upon interest.\n(Moves towards THEUROPIDES.)"
+  },
+  {
+    "id": "p-0a978b",
+    "offset": 5329,
+    "text": "A BANKER:\n(bawling aloud.)\nGive me my interest! pay me my interest! you pay my interest! Are you going to give me my interest this instant?"
+  },
+  {
+    "id": "p-131d2c",
+    "offset": 5470,
+    "text": "Give me my interest!"
+  },
+  {
+    "id": "p-845678",
+    "offset": 5492,
+    "text": "TRANIO:\nInterest here, interest there! The old rogue knows how to talk about nothing but interest. I do not think that ever I saw any beast more vile than you."
+  },
+  {
+    "id": "p-0d9908",
+    "offset": 5653,
+    "text": "A BANKER:\nUpon my faith, you don’t alarm me now with those expressions."
+  },
+  {
+    "id": "p-2c2043",
+    "offset": 5726,
+    "text": "This is of a hot nature; although it is at a distance off, it scorches badly."
+  },
+  {
+    "id": "p-eca262",
+    "offset": 5805,
+    "text": "TRANIO:\nDon’t you be troublesome; no one’s going to pay you; do what you please. You are the only person, I suppose, that lends money upon interest."
+  },
+  {
+    "id": "p-357869",
+    "offset": 5955,
+    "text": "THEUROPIDES:\n(to TRANIO.)\nPray, what interest is this that he is asking for?"
+  },
+  {
+    "id": "p-4bbe9f",
+    "offset": 6033,
+    "text": "TRANIO:\n(in a low voice, to the BANKER.)\nLook now; his father has arrived from abroad, not long since; he’ll pay you both interest and principal; don’t you then attempt any further to make us your enemies. See whether he puts you off."
+  },
+  {
+    "id": "p-c1c9f8",
+    "offset": 6269,
+    "text": "A BANKER:\nNay but, I’ll take it, if anything’s offered."
+  },
+  {
+    "id": "p-ed98cf",
+    "offset": 6326,
+    "text": "THEUROPIDES:\n(to TRANIO, coming towards him.)\nWhat do you say, then—?"
+  },
+  {
+    "id": "p-727269",
+    "offset": 6397,
+    "text": "TRANIO:\nWhat is it you mean?"
+  },
+  {
+    "id": "p-3992f5",
+    "offset": 6427,
+    "text": "THEUROPIDES:\nWho is this? What is he asking for? Why is he thus rudely speaking of my son Philolaches in this way, and giving you abuse to your face? What’s owing him?"
+  },
+  {
+    "id": "p-2bd35e",
+    "offset": 6596,
+    "text": "TRANIO:\n(to THEUROPIDES.)\nI beg of you, do order the money to be thrown in the face of this dirty brute."
+  },
+  {
+    "id": "p-d51366",
+    "offset": 6702,
+    "text": "THEUROPIDES:\nI, order it?"
+  },
+  {
+    "id": "p-c22891",
+    "offset": 6729,
+    "text": "TRANIO:\nOrder the fellow’s face to be pelted with money."
+  },
+  {
+    "id": "p-6724fb",
+    "offset": 6787,
+    "text": "A BANKER:\n(coming nearer.)\nI could very well put up with a pelting with money."
+  },
+  {
+    "id": "p-44ed31",
+    "offset": 6867,
+    "text": "THEUROPIDES:\n(to TRANIO.)\nWhat money’s this?"
+  },
+  {
+    "id": "p-8b45b5",
+    "offset": 6913,
+    "text": "TRANIO:\nPhilolaches owes this person a little."
+  },
+  {
+    "id": "p-532c0f",
+    "offset": 6961,
+    "text": "THEUROPIDES:\nHow much?"
+  },
+  {
+    "id": "p-094948",
+    "offset": 6985,
+    "text": "TRANIO:\nAbout forty minae."
+  },
+  {
+    "id": "p-bcf427",
+    "offset": 7013,
+    "text": "A BANKER:\n(to THEUROPIDES.)\nReally, don’t think much of that;"
+  },
+  {
+    "id": "p-1f5bde",
+    "offset": 7076,
+    "text": "it’s a trifle, in fact."
+  },
+  {
+    "id": "p-b32318",
+    "offset": 7101,
+    "text": "TRANIO:\nDon’t you hear him? Troth now, prithee, doesn’t he seem just suited to be a Banker—a generation that’s most roguish?"
+  },
+  {
+    "id": "p-996b07",
+    "offset": 7227,
+    "text": "THEUROPIDES:\nI don’t care, just now, for that, who he is or whence he is;"
+  },
+  {
+    "id": "p-ae8268",
+    "offset": 7302,
+    "text": "this I want to be told me, this I very much wish to know—"
+  },
+  {
+    "id": "p-91818b",
+    "offset": 7361,
+    "text": "I heard from him that there was interest owing on the money as well."
+  },
+  {
+    "id": "p-273b76",
+    "offset": 7431,
+    "text": "TRANIO:\nForty-four minae are due to him."
+  },
+  {
+    "id": "p-5a671a",
+    "offset": 7473,
+    "text": "Say that you’ll pay it, that he may be off."
+  },
+  {
+    "id": "p-6b4a38",
+    "offset": 7518,
+    "text": "THEUROPIDES:\nI, say that I’ll pay it?"
+  },
+  {
+    "id": "p-40b1f3",
+    "offset": 7557,
+    "text": "TRANIO:\nDo say so."
+  },
+  {
+    "id": "p-240e56",
+    "offset": 7577,
+    "text": "THEUROPIDES:\nWhat, I?"
+  },
+  {
+    "id": "p-f03e0e",
+    "offset": 7600,
+    "text": "TRANIO:\nYou yourself. Do only say so. Do be guided by me. Do promise. Come now, I say; I beg of you."
+  },
+  {
+    "id": "p-0dc6dd",
+    "offset": 7702,
+    "text": "THEUROPIDES:\nAnswer me; what has been done with this money?"
+  },
+  {
+    "id": "p-30fa8b",
+    "offset": 7763,
+    "text": "TRANIO:\nIt’s safe."
+  },
+  {
+    "id": "p-145d5e",
+    "offset": 7783,
+    "text": "THEUROPIDES:\nPay it yourselves then, if it’s safe,"
+  },
+  {
+    "id": "p-cb851b",
+    "offset": 7835,
+    "text": "TRANIO:\nYour son has bought a house."
+  },
+  {
+    "id": "p-716111",
+    "offset": 7873,
+    "text": "THEUROPIDES:\nA house?"
+  },
+  {
+    "id": "p-d1c29b",
+    "offset": 7896,
+    "text": "TRANIO:\nA house."
+  },
+  {
+    "id": "p-323f56",
+    "offset": 7914,
+    "text": "THEUROPIDES:\nBravo! Philolaches is taking after his father! The fellow now turns to merchandize."
+  },
+  {
+    "id": "p-201efe",
+    "offset": 8012,
+    "text": "A house, say you?"
+  },
+  {
+    "id": "p-001ed6",
+    "offset": 8031,
+    "text": "TRANIO:\nA house, I tell you. But do you know of what sort?"
+  },
+  {
+    "id": "p-5b27b6",
+    "offset": 8091,
+    "text": "THEUROPIDES:\nHow can I know?"
+  },
+  {
+    "id": "p-1e7ecb",
+    "offset": 8121,
+    "text": "TRANIO:\nOut with you!"
+  },
+  {
+    "id": "p-b8ae55",
+    "offset": 8144,
+    "text": "THEUROPIDES:\nWhat’s the matter?"
+  },
+  {
+    "id": "p-934710",
+    "offset": 8177,
+    "text": "TRANIO:\nDon’t ask me that."
+  },
+  {
+    "id": "p-efa453",
+    "offset": 8205,
+    "text": "THEUROPIDES:\nBut why so?"
+  },
+  {
+    "id": "p-892e76",
+    "offset": 8231,
+    "text": "TRANIO:\nBright as a mirror, pure brilliancy itself."
+  },
+  {
+    "id": "p-b90fab",
+    "offset": 8284,
+    "text": "THEUROPIDES:\nExcellently done, upon my faith! Well, how much did he agree to give for it?"
+  },
+  {
+    "id": "p-c63bf8",
+    "offset": 8375,
+    "text": "TRANIO:\nAs many great talents as you and I put together make;"
+  },
+  {
+    "id": "p-9fb74a",
+    "offset": 8438,
+    "text": "but these forty minae he paid by way of earnest. (Pointing to the BANKER.) From him he received what we paid the other man. Do you quite understand? For after this house was in such a state as I mentioned to you, he at once purchased another house for himself."
+  },
+  {
+    "id": "p-2b37f5",
+    "offset": 8700,
+    "text": "THEUROPIDES:\nExcellently done, upon my faith!"
+  },
+  {
+    "id": "p-3afcff",
+    "offset": 8747,
+    "text": "A BANKER:\n(touching TRANIO.)\nHark you. Mid-day is now close at hand."
+  },
+  {
+    "id": "p-3702b0",
+    "offset": 8817,
+    "text": "TRANIO:\nPrithee, do dismiss this puking fellow, that he mayn’t worry us to death."
+  },
+  {
+    "id": "p-f98fd9",
+    "offset": 8900,
+    "text": "Forty-four minae are due to him, both principal and interest."
+  },
+  {
+    "id": "p-1c7e43",
+    "offset": 8963,
+    "text": "A BANKER:\n’Tis just that much; I ask for nothing more."
+  },
+  {
+    "id": "p-61f29f",
+    "offset": 9019,
+    "text": "TRANIO:\nUpon my faith, I really could have wished that you had asked more, if only by a single coin."
+  },
+  {
+    "id": "p-4df32c",
+    "offset": 9121,
+    "text": "THEUROPIDES:\n(to the BANKER.)\nYoung man, transact the business with me."
+  },
+  {
+    "id": "p-62c493",
+    "offset": 9194,
+    "text": "A BANKER:\nI’m to ask it of you, you mean?"
+  },
+  {
+    "id": "p-bc411b",
+    "offset": 9237,
+    "text": "THEUROPIDES:\nCome for it to-morrow."
+  },
+  {
+    "id": "p-bf7ab2",
+    "offset": 9274,
+    "text": "A BANKER:\nI’ll be off, then; I’m quite satisfied if I get it tomorrow.\n(Exit.)"
+  },
+  {
+    "id": "p-76bae2",
+    "offset": 9354,
+    "text": "TRANIO:\n(aside.)\nA plague may all the Gods and Goddesses send upon him! so utterly has he disarranged my plans. On my word, no class of men is there more disgusting, or less acquainted with fair dealing than the banking race."
+  },
+  {
+    "id": "p-cdee0d",
+    "offset": 9581,
+    "text": "THEUROPIDES:\nIn what neighbourhood did my son buy this house?"
+  },
+  {
+    "id": "p-5f49f7",
+    "offset": 9644,
+    "text": "TRANIO:\n(aside.)\nJust see that, now! I’m undone!"
+  },
+  {
+    "id": "p-33da5e",
+    "offset": 9694,
+    "text": "THEUROPIDES:\nAre you going to tell me that which I ask you?"
+  },
+  {
+    "id": "p-b75c0d",
+    "offset": 9755,
+    "text": "TRANIO:\nI’ll tell you; but I’m thinking what was the name of the owner.\n(Pretends to think.)"
+  },
+  {
+    "id": "p-71051a",
+    "offset": 9849,
+    "text": "THEUROPIDES:\nWell, call it to mind, then."
+  },
+  {
+    "id": "p-6ddab3",
+    "offset": 9892,
+    "text": "TRANIO:\n(aside.)\nWhat am I to do now, except put the lie upon this neighbour of ours next door? I’ll say that his son has bought that house."
+  },
+  {
+    "id": "p-c3f060",
+    "offset": 10034,
+    "text": "I’ faith, I’ve heard say that a lie piping-hot is the best lie; this is piping-hot; although it is at a distance off, it scorches badly. Whatever the Gods dictate, that am I determined to say."
+  },
+  {
+    "id": "p-51e040",
+    "offset": 10228,
+    "text": "THEUROPIDES:\nWell now? Have you recollected it by this?"
+  },
+  {
+    "id": "p-01961e",
+    "offset": 10285,
+    "text": "TRANIO:\n(aside.)\nMay the Gods confound that fellow!—no this other fellow, rather."
+  },
+  {
+    "id": "p-d2b275",
+    "offset": 10368,
+    "text": "(To THEUROPIDES.) Your son has bought the house of this next-door neighbour of yours."
+  },
+  {
+    "id": "p-29c005",
+    "offset": 10455,
+    "text": "THEUROPIDES:\nIn real truth?"
+  },
+  {
+    "id": "p-80e1c0",
+    "offset": 10484,
+    "text": "TRANIO:\nIf, indeed, you are going to pay down the money, then in real truth; if you are not going to pay it, in real truth he has not bought it."
+  },
+  {
+    "id": "p-286089",
+    "offset": 10630,
+    "text": "THEUROPIDES:\nHe hasn’t bought it in a very good situation."
+  },
+  {
+    "id": "p-9f1457",
+    "offset": 10690,
+    "text": "TRANIO:\nWhy yes, in a very good one."
+  },
+  {
+    "id": "p-0a9e54",
+    "offset": 10728,
+    "text": "THEUROPIDES:\nI’ faith, I should like to look over this house; just knock at the door, and call some one to you from within, Tranio."
+  },
+  {
+    "id": "p-4f8a46",
+    "offset": 10861,
+    "text": "TRANIO:\n(aside.)\nWhy just look now, again I don’t know what I’m to say. Once more, now, are the surges bearing me upon the self-same rock. What now? I’ faith, I can’t discover what I am now to do; I’m caught in the fact."
+  },
+  {
+    "id": "p-689e0c",
+    "offset": 11083,
+    "text": "THEUROPIDES:\nJust call some one out of doors;"
+  },
+  {
+    "id": "p-0c1820",
+    "offset": 11130,
+    "text": "ask him to show us round."
+  },
+  {
+    "id": "p-c39fed",
+    "offset": 11157,
+    "text": "TRANIO:\n(going to the door of SIMO’s house.)\nHallo there, you! (Turning round) But there are ladies here; we must first see whether they are willing or unwilling."
+  },
+  {
+    "id": "p-0736b6",
+    "offset": 11321,
+    "text": "THEUROPIDES:\nYou say what’s good and proper; just make enquiry, and ask. I’ll wait here outside until you come out."
+  },
+  {
+    "id": "p-5b11ac",
+    "offset": 11438,
+    "text": "TRANIO:\n(aside.)\nMay all the Gods and Goddesses utterly confound you, old gentleman!"
+  },
+  {
+    "id": "p-ef3ecf",
+    "offset": 11524,
+    "text": "in such a fashion are you thwarting my artful plans in every way. Bravo! very good! Look, Simo himself, the owner of the house, is coming out of doors. I’ll step aside here, until I have convened the senate of council in my mind. Then, when I’ve discovered what I am to do, I’ll join him. (THEUROPIDES and TRANIO stand at a distance from SIMO’s house, in opposite directions, THEUROPIDES being out of sight.)"
+  },
+  {
+    "id": "p-729300",
+    "offset": 11934,
+    "text": "(Enter SIMO, from his house.)"
+  },
+  {
+    "id": "p-df09c9",
+    "offset": 11965,
+    "text": "SIMO:\n(to himself.)\nI’ve not enjoyed myself better at home this year than I have to-day, nor has at any time any meal pleased me better. My wife provided a very nice breakfast for me; now she bids me go take a nap. By no means! It instantly struck me that it didn’t so happen by chance."
+  },
+  {
+    "id": "p-43103c",
+    "offset": 12253,
+    "text": "She provided a better breakfast than is her wont; and then, the old lady wanted to draw me away to my chamber. Sleep is not good after breakfast—out upon it! I secretly stole away from the house, out of doors. My wife, I’m sure, is now quite bursting with rage at home."
+  },
+  {
+    "id": "p-c6f257",
+    "offset": 12524,
+    "text": "TRANIO:\n(apart.)\nA sore mischance is provided for this old fellow by the evening; for he must both dine and go to bed in-doors in sorry fashion."
+  },
+  {
+    "id": "p-dbc778",
+    "offset": 12670,
+    "text": "SIMO:\n(continuing.)\nThe more I reflect upon it in my mind: if any person has a dowried wife, sleep has no charms for him."
+  },
+  {
+    "id": "p-f1fd05",
+    "offset": 12793,
+    "text": "I detest going to take a nap. It’s a settled matter with me to be off to the Forum from here, rather than nap it at home. And, i’ faith (to the AUDIENCE), I don’t know how your wives are in their behaviour; this wife of mine, I know right well how badly she treats me, and that she will prove more annoying to me hereafter than she has been."
+  },
+  {
+    "id": "p-645075",
+    "offset": 13136,
+    "text": "TRANIO:\n(apart.)\nIf your escape, old gentleman, turns out amiss, there’ll be no reason for you to be accusing any one of the Gods; by very good right, you may justly lay the blame upon yourself. It’s time now for me to accost this old fellow."
+  },
+  {
+    "id": "p-0e38e2",
+    "offset": 13380,
+    "text": "’Tis down upon him. I’ve hit upon a plan whereby to cajole the old fellow, by means of which to drive grief away from me. I’ll accost him. (Accosting him.) May the Gods, Simo, send on you many blessings!\n(Takes him by the hand.)"
+  },
+  {
+    "id": "p-fa6dc8",
+    "offset": 13610,
+    "text": "SIMO:\nSave you, Tranio!"
+  },
+  {
+    "id": "p-a2f6cb",
+    "offset": 13635,
+    "text": "TRANIO:\nHow fare you?"
+  },
+  {
+    "id": "p-47b164",
+    "offset": 13658,
+    "text": "SIMO:\nNot amiss. What are you about?"
+  },
+  {
+    "id": "p-9d8be0",
+    "offset": 13696,
+    "text": "TRANIO:\nHolding by the hand a very worthy man."
+  },
+  {
+    "id": "p-d2c26f",
+    "offset": 13744,
+    "text": "SIMO:\nYou act in a friendly way, in speaking well of me."
+  },
+  {
+    "id": "p-805d18",
+    "offset": 13802,
+    "text": "TRANIO:\nIt certainly is your due."
+  },
+  {
+    "id": "p-750f92",
+    "offset": 13837,
+    "text": "SIMO:\nBut, i’ faith, in you I don’t hold a good servant by the hand."
+  },
+  {
+    "id": "p-75c308",
+    "offset": 13907,
+    "text": "THEUROPIDES:\n(calling from a distance, where he is not perceived by SIMO.)\nHark you! you whip-knave, come back to me."
+  },
+  {
+    "id": "p-7a51b5",
+    "offset": 14026,
+    "text": "TRANIO:\n(turning round.)\nI’ll be there just now."
+  },
+  {
+    "id": "p-4d5e03",
+    "offset": 14076,
+    "text": "SIMO:\nWell now, how soon—?"
+  },
+  {
+    "id": "p-0eb4e3",
+    "offset": 14104,
+    "text": "TRANIO:\nWhat is it?"
+  },
+  {
+    "id": "p-47c193",
+    "offset": 14125,
+    "text": "SIMO:\nThe usual goings-on."
+  },
+  {
+    "id": "p-ecef51",
+    "offset": 14153,
+    "text": "TRANIO:\nTell me then, these usual goings-on, what are they?"
+  },
+  {
+    "id": "p-4a4019",
+    "offset": 14214,
+    "text": "SIMO:\nThe way that you yourselves proceed. But, Tranio, to say the truth, according as men are, it so befits you to humour them;"
+  },
+  {
+    "id": "p-6e86cb",
+    "offset": 14344,
+    "text": "reflecting, at the same time, how short life is."
+  },
+  {
+    "id": "p-9981a2",
+    "offset": 14394,
+    "text": "TRANIO:\nWhat of all this? Dear me, at last, after some difficulty, I perceive that you are talking about these goings-on of ours."
+  },
+  {
+    "id": "p-e67766",
+    "offset": 14525,
+    "text": "SIMO:\nI’ faith, you people are living a merry life, just as befits you:"
+  },
+  {
+    "id": "p-251d12",
+    "offset": 14598,
+    "text": "on wine, good cheer, nice dainty fish, you enjoy life."
+  },
+  {
+    "id": "p-d8cbc4",
+    "offset": 14654,
+    "text": "TRANIO:\nWhy yes, so it was in time past, indeed; but now these things have come to an end all at once."
+  },
+  {
+    "id": "p-d69cee",
+    "offset": 14758,
+    "text": "SIMO:\nHow so?"
+  },
+  {
+    "id": "p-02b74b",
+    "offset": 14773,
+    "text": "TRANIO:\nSo utterly, Simo, are we all undone!"
+  },
+  {
+    "id": "p-1f0260",
+    "offset": 14819,
+    "text": "SIMO:\nWon’t you hold your tongue? Everything has gone on prosperously with you hitherto."
+  },
+  {
+    "id": "p-d7ef35",
+    "offset": 14909,
+    "text": "TRANIO:\nI don’t deny that it has been as you say; undoubtedly, we have lived heartily, just as we pleased; but, Simo, in such a way has the breeze now forsaken our ship—"
+  },
+  {
+    "id": "p-f20c95",
+    "offset": 15080,
+    "text": "SIMO:\nWhat’s the matter? In what way?"
+  },
+  {
+    "id": "p-d7f7bf",
+    "offset": 15119,
+    "text": "TRANIO:\nIn a most shocking way."
+  },
+  {
+    "id": "p-cb948f",
+    "offset": 15152,
+    "text": "SIMO:\nWhat, wasn’t it hauled ashore in safety?"
+  },
+  {
+    "id": "p-4f0ab8",
+    "offset": 15200,
+    "text": "TRANIO:\nAh me!"
+  },
+  {
+    "id": "p-b82979",
+    "offset": 15216,
+    "text": "SIMO:\nWhat’s the matter?"
+  },
+  {
+    "id": "p-f76234",
+    "offset": 15242,
+    "text": "TRANIO:\nAh wretched me! I’m utterly undone!"
+  },
+  {
+    "id": "p-d69cee",
+    "offset": 15287,
+    "text": "SIMO:\nHow so?"
+  },
+  {
+    "id": "p-033b55",
+    "offset": 15302,
+    "text": "TRANIO:\nBecause a ship has come, to smash the hull of our ship."
+  },
+  {
+    "id": "p-6fff5b",
+    "offset": 15367,
+    "text": "SIMO:\nI would wish as you would wish, Tranio, for your own sake. But what is the matter? Do inform me."
+  },
+  {
+    "id": "p-e44414",
+    "offset": 15471,
+    "text": "TRANIO:\nI will inform you. My master has arrived from abroad."
+  },
+  {
+    "id": "p-c91e40",
+    "offset": 15534,
+    "text": "SIMO:\nIn that case, the cord will be stretched for you; thence to the place where iron fetters clink; after that, straight to the cross."
+  },
+  {
+    "id": "p-60e5c1",
+    "offset": 15672,
+    "text": "TRANIO:\nNow, by your knees, I do implore you, don’t give information to my master."
+  },
+  {
+    "id": "p-4471dc",
+    "offset": 15756,
+    "text": "SIMO:\nDon’t you fear; he shall know nothing from me."
+  },
+  {
+    "id": "p-0cfc86",
+    "offset": 15810,
+    "text": "TRANIO:\nBlessings on you, my patron."
+  },
+  {
+    "id": "p-9acc8c",
+    "offset": 15848,
+    "text": "SIMO:\nI don’t care for clients of this description for myself."
+  },
+  {
+    "id": "p-82592f",
+    "offset": 15912,
+    "text": "TRANIO:\nNow as to this about which our old gentleman has sent me."
+  },
+  {
+    "id": "p-c1393d",
+    "offset": 15979,
+    "text": "SIMO:\nFirst answer me this that I ask you. As yet, has your old gentleman discovered anything of these matters?"
+  },
+  {
+    "id": "p-7ca7e1",
+    "offset": 16092,
+    "text": "TRANIO:\nNothing whatever."
+  },
+  {
+    "id": "p-98b840",
+    "offset": 16119,
+    "text": "SIMO:\nHas he censured his son at all?"
+  },
+  {
+    "id": "p-58c6c9",
+    "offset": 16158,
+    "text": "TRANIO:\nHe is as calm as the calm weather is wont to be. Now he has requested me most earnestly to beg this of you, that leave may be given him to see over this house of yours."
+  },
+  {
+    "id": "p-94a9f9",
+    "offset": 16336,
+    "text": "SIMO:\nIt’s not for sale."
+  },
+  {
+    "id": "p-a02f1c",
+    "offset": 16362,
+    "text": "TRANIO:\nI know that indeed; but the old gentleman wishes to build a woman’s apartment here in his own house, baths, too, and a piazza, and a porch."
+  },
+  {
+    "id": "p-4caff3",
+    "offset": 16511,
+    "text": "SIMO:\nWhat has he been dreaming of?"
+  },
+  {
+    "id": "p-1195ce",
+    "offset": 16548,
+    "text": "TRANIO:\nI’ll tell you. He wishes to give his son a wife as soon as he can; for that purpose he wants a new apartment for the women."
+  },
+  {
+    "id": "p-36a7de",
+    "offset": 16681,
+    "text": "But he says that some builder, I don’t know who, has been praising up to him this house of yours, as being remarkably well built; now he’s desirous to take a model from it, if you don’t make any objection—"
+  },
+  {
+    "id": "p-70b085",
+    "offset": 16888,
+    "text": "SIMO:\nIndeed, he is really choosing a plan for himself from a piece of poor workmanship."
+  },
+  {
+    "id": "p-23b581",
+    "offset": 16978,
+    "text": "TRANIO:\nIt was because he heard that here the summer heat was much modified; that this house was wont to be inhabited each day all day long."
+  },
+  {
+    "id": "p-e060a3",
+    "offset": 17120,
+    "text": "SIMO:\nWhy really, upon my faith, on the contrary, while there’s shade in every direction, in spite of it, the sun is always here from morning till night: he stands, like a dun, continually at the door; and I have no shade anywhere, unless, perhaps, there may be some in the well."
+  },
+  {
+    "id": "p-85c99b",
+    "offset": 17401,
+    "text": "TRANIO:\nWell now, have you one from Sarsina, if you have no woman of Umbria?"
+  },
+  {
+    "id": "p-3e760b",
+    "offset": 17479,
+    "text": "SIMO:\nDon’t be impertinent. It is just as I tell you."
+  },
+  {
+    "id": "p-265a4d",
+    "offset": 17534,
+    "text": "TRANIO:\nStill, he wishes to look over it."
+  },
+  {
+    "id": "p-c7c550",
+    "offset": 17577,
+    "text": "SIMO:\nHe may look over it, if he likes. If there is anything that takes his fancy, let him build after my plan."
+  },
+  {
+    "id": "p-38d42e",
+    "offset": 17690,
+    "text": "TRANIO:\nAm I to go and call this person hither?"
+  },
+  {
+    "id": "p-cca64c",
+    "offset": 17739,
+    "text": "SIMO:\nGo and call him."
+  },
+  {
+    "id": "p-b44205",
+    "offset": 17763,
+    "text": "TRANIO:\n(to himself, as he goes to the other side of the stage to call THEUROPIDES.)\nThey say that Alexander the Great and Agathocles achieved two very great exploits; what shall be the lot of myself, a third, who, unaided, am achieving deeds imperishable? This old fellow is carrying his pack-saddle, the other one, as well. I’ve hit upon a novel trade for myself, not a bad one;"
+  },
+  {
+    "id": "p-ba73b3",
+    "offset": 18145,
+    "text": "whereas muleteers have mules to carry pack-saddles; I’ve got men to carry the pack-saddles. They are able to carry heavy burdens; whatever you put upon them, they carry. Now, I don’t know whether I am to address him. I’ll accost him, however. (Calling aloud.) Hark you, Theuropides!"
+  },
+  {
+    "id": "p-5de1a8",
+    "offset": 18429,
+    "text": "THEUROPIDES:\n(coming forward.)\nWell; who’s calling me?"
+  },
+  {
+    "id": "p-04561f",
+    "offset": 18485,
+    "text": "TRANIO:\nA servant most attached to his master."
+  },
+  {
+    "id": "p-ea7737",
+    "offset": 18533,
+    "text": "Where you sent me, I got it all agreed to."
+  },
+  {
+    "id": "p-813ba0",
+    "offset": 18577,
+    "text": "THEUROPIDES:\nPrithee, why did you stay there so long?"
+  },
+  {
+    "id": "p-9ddd7d",
+    "offset": 18632,
+    "text": "TRANIO:\nThe old gentleman hadn’t leisure; I was waiting until then."
+  },
+  {
+    "id": "p-32bb3f",
+    "offset": 18701,
+    "text": "THEUROPIDES:\nYou keep up that old way of yours, of being tardy."
+  },
+  {
+    "id": "p-f10a76",
+    "offset": 18766,
+    "text": "TRANIO:\nHark you! if you please reflect upon this proverb: to blow and swallow at the same moment isn’t easy to be done; I couldn’t be here and there at the same time."
+  },
+  {
+    "id": "p-32824e",
+    "offset": 18935,
+    "text": "THEUROPIDES:\nWhat now?"
+  },
+  {
+    "id": "p-e6baf7",
+    "offset": 18959,
+    "text": "TRANIO:\nCome and look, and inspect it at your own pleasure."
+  },
+  {
+    "id": "p-af22b9",
+    "offset": 19020,
+    "text": "THEUROPIDES:\nVery well, you go before me."
+  },
+  {
+    "id": "p-438882",
+    "offset": 19063,
+    "text": "TRANIO:\nAm I delaying to do so?"
+  },
+  {
+    "id": "p-b7922f",
+    "offset": 19096,
+    "text": "THEUROPIDES:\nI’ll follow after you."
+  },
+  {
+    "id": "p-4e438d",
+    "offset": 19133,
+    "text": "TRANIO:\n(as they advance.)\nLook, the old gentleman himself is awaiting you before the door, but he is concerned that he has sold this house."
+  },
+  {
+    "id": "p-7562ac",
+    "offset": 19275,
+    "text": "THEUROPIDES:\nWhy so?"
+  },
+  {
+    "id": "p-90a372",
+    "offset": 19297,
+    "text": "TRANIO:\nHe begs me to persuade Philolaches to let him off."
+  },
+  {
+    "id": "p-3b58e0",
+    "offset": 19357,
+    "text": "THEUROPIDES:\nI don’t think he will. Each man reaps on his own farm. If it had been bought dear, we shouldn’t have had permission to return it on his hands. Whatever profit there is, it’s proper to bring it home. It don’t, now-a-days, befit men to be showing compassion."
+  },
+  {
+    "id": "p-62f15b",
+    "offset": 19628,
+    "text": "TRANIO:\nI’ faith, you are losing time while you are talking. Follow me."
+  },
+  {
+    "id": "p-b9b532",
+    "offset": 19701,
+    "text": "THEUROPIDES:\nBe it so."
+  },
+  {
+    "id": "p-5ed1ac",
+    "offset": 19725,
+    "text": "TRANIO:\n(to THEUROPIDES.)\nI’ll give you my services."
+  },
+  {
+    "id": "p-4106b8",
+    "offset": 19779,
+    "text": "(Pointing.) There’s the old gentleman. (To SIMO.) Well now, I’ve brought you this person."
+  },
+  {
+    "id": "p-8ae2bd",
+    "offset": 19870,
+    "text": "SIMO:\nI’m glad that you’ve arrived safely from abroad, Theuropides."
+  },
+  {
+    "id": "p-c25285",
+    "offset": 19939,
+    "text": "THEUROPIDES:\nMay the Gods bless you."
+  },
+  {
+    "id": "p-860a79",
+    "offset": 19977,
+    "text": "SIMO:\nYour servant was telling me that you were desirous to look over this house."
+  },
+  {
+    "id": "p-72eda3",
+    "offset": 20060,
+    "text": "THEUROPIDES:\nUnless it’s inconvenient to you."
+  },
+  {
+    "id": "p-680678",
+    "offset": 20107,
+    "text": "SIMO:\nOh no; quite convenient. Do step in-doors and look over it."
+  },
+  {
+    "id": "p-28b048",
+    "offset": 20174,
+    "text": "THEUROPIDES:\n(pausing.)\nBut yet—the ladies—"
+  },
+  {
+    "id": "p-2c57df",
+    "offset": 20219,
+    "text": "SIMO:\nTake you care not to trouble yourself a straw about any lady. Walk in every direction, wherever you like, all over the house just as though it were your own."
+  },
+  {
+    "id": "p-7a352d",
+    "offset": 20384,
+    "text": "THEUROPIDES:\n(apart to TRANIO.)\nJust as though—?"
+  },
+  {
+    "id": "p-2889e7",
+    "offset": 20434,
+    "text": "TRANIO:\n(whispering.)\nOh, take care that you don’t throw it in his teeth now in his concern, that you have bought it. Don’t you see him, how sad a countenance the old gentleman has?"
+  },
+  {
+    "id": "p-0e260f",
+    "offset": 20617,
+    "text": "THEUROPIDES:\n(apart.)\nI see."
+  },
+  {
+    "id": "p-1a2d9a",
+    "offset": 20647,
+    "text": "TRANIO:\n(apart.)\nThen don’t seem to exult, and to be overmuch delighted; in fact, don’t make mention that you’ve bought it."
+  },
+  {
+    "id": "p-d66414",
+    "offset": 20772,
+    "text": "THEUROPIDES:\n(apart.)\nI understand; and I think you’ve given good advice, and that it shows a humane disposition."
+  },
+  {
+    "id": "p-f0146e",
+    "offset": 20887,
+    "text": "(Turning to SIMO.) What now?"
+  },
+  {
+    "id": "p-b54176",
+    "offset": 20917,
+    "text": "SIMO:\nWon’t you go in? Look over it at your leisure, just as you like."
+  },
+  {
+    "id": "p-efbd68",
+    "offset": 20989,
+    "text": "THEUROPIDES:\nI consider that you are acting civilly and kindly."
+  },
+  {
+    "id": "p-d94e39",
+    "offset": 21054,
+    "text": "SIMO:\nTroth, I wish to do so. Should you like some one to show you over."
+  },
+  {
+    "id": "p-06cdb9",
+    "offset": 21128,
+    "text": "THEUROPIDES:\nAway with any one to show me over. I don’t want him."
+  },
+  {
+    "id": "p-a9b8f3",
+    "offset": 21195,
+    "text": "SIMO:\nWhy? What’s the matter?"
+  },
+  {
+    "id": "p-67a844",
+    "offset": 21226,
+    "text": "THEUROPIDES:\nI’ll go wrong, rather than any one should show me over."
+  },
+  {
+    "id": "p-87d621",
+    "offset": 21296,
+    "text": "TRANIO:\n(pointing.)\nDon’t you see, this vestibule before the house, and the piazza, of what a compass it is?"
+  },
+  {
+    "id": "p-5bdd2e",
+    "offset": 21406,
+    "text": "THEUROPIDES:\nTroth, really handsome!"
+  },
+  {
+    "id": "p-9f54ac",
+    "offset": 21444,
+    "text": "TRANIO:\nWell, look now, what pillars there are, with what strength they are built, and of what a thickness."
+  },
+  {
+    "id": "p-0a4eb8",
+    "offset": 21553,
+    "text": "THEUROPIDES:\nI don’t think that I ever saw handsomer pillars."
+  },
+  {
+    "id": "p-a2b0f0",
+    "offset": 21616,
+    "text": "SIMO:\nI’ faith, they were some time since bought by me at such a price!"
+  },
+  {
+    "id": "p-dd6898",
+    "offset": 21689,
+    "text": "TRANIO:\n(aside, whispering.)\nDon’t you hear— They were once? He seems hardly able to refrain from tears."
+  },
+  {
+    "id": "p-71580e",
+    "offset": 21795,
+    "text": "THEUROPIDES:\nAt what price did you purchase them?"
+  },
+  {
+    "id": "p-fdd56a",
+    "offset": 21846,
+    "text": "SIMO:\nI gave three minae for the two, besides the carriage.\n(He retires to some distance.)"
+  },
+  {
+    "id": "p-1183e7",
+    "offset": 21938,
+    "text": "THEUROPIDES:\n(after looking close at them, to TRANIO.)\nWhy, upon my word, they are much more unsound than I thought them at first."
+  },
+  {
+    "id": "p-11eb85",
+    "offset": 22070,
+    "text": "TRANIO:\nWhy so?"
+  },
+  {
+    "id": "p-5149ec",
+    "offset": 22087,
+    "text": "THEUROPIDES:\nBecause, i’ faith, the woodworm has split them both from the bottom."
+  },
+  {
+    "id": "p-1d3db4",
+    "offset": 22170,
+    "text": "TRANIO:\nI think they were cut at an improper season; that fault damages them; but even as it is, they are quite good enough, if they are covered with pitch. But it was no foreign pulse-eating artisan did this work. Don’t you see the joints in the door? (Pointing.)"
+  },
+  {
+    "id": "p-f298ed",
+    "offset": 22436,
+    "text": "THEUROPIDES:\nI see them."
+  },
+  {
+    "id": "p-2b5511",
+    "offset": 22462,
+    "text": "TRANIO:\nLook, how close together they are sleeping."
+  },
+  {
+    "id": "p-5eba28",
+    "offset": 22515,
+    "text": "THEUROPIDES:\nSleeping?"
+  },
+  {
+    "id": "p-343dd1",
+    "offset": 22539,
+    "text": "TRANIO:\nThat is, how they wink, I intended to say. Are you satisfied?"
+  },
+  {
+    "id": "p-707870",
+    "offset": 22610,
+    "text": "THEUROPIDES:\nThe more I look at each particular, the more it pleases me."
+  },
+  {
+    "id": "p-bb940a",
+    "offset": 22684,
+    "text": "TRANIO:\n(pointing.)\nDon’t you see the painting, where one crow is baffling two vultures?"
+  },
+  {
+    "id": "p-d333d9",
+    "offset": 22774,
+    "text": "The crow stands there; it’s pecking at them both in turn."
+  },
+  {
+    "id": "p-c7a447",
+    "offset": 22833,
+    "text": "This way, look, prithee, towards me, that yon may be able to see the crow."
+  },
+  {
+    "id": "p-5203d9",
+    "offset": 22909,
+    "text": "(THEUROPIDES turns towards him.) Now do you see it?"
+  },
+  {
+    "id": "p-6f0e1a",
+    "offset": 22962,
+    "text": "THEUROPIDES:\n(looking about.)\nFor my part, I really see no crow there."
+  },
+  {
+    "id": "p-05e4f7",
+    "offset": 23034,
+    "text": "TRANIO:\nBut do you look in that direction, towards yourselves, since you cannot discover the crow, if perchance you may be able to espy the vultures. (THEUROPIDES turns towards SIMO.) Now do you see them?"
+  },
+  {
+    "id": "p-f1b187",
+    "offset": 23240,
+    "text": "THEUROPIDES:\nUpon my faith, I don’t see them."
+  },
+  {
+    "id": "p-af6948",
+    "offset": 23287,
+    "text": "TRANIO:\nBut I can see two vultures."
+  },
+  {
+    "id": "p-7acc0e",
+    "offset": 23324,
+    "text": "THEUROPIDES:\nTo make an end of it with you, I don’t see any bird at all painted here."
+  },
+  {
+    "id": "p-917f76",
+    "offset": 23411,
+    "text": "TRANIO:\nWell then, I give it up. I excuse you; it is through age you cannot see."
+  },
+  {
+    "id": "p-e99479",
+    "offset": 23493,
+    "text": "THEUROPIDES:\nThese things which I can see, really they do all please me mightily."
+  },
+  {
+    "id": "p-ee96cb",
+    "offset": 23576,
+    "text": "SIMO:\n(coming forward.)\nNow, at length, it’s worth your while to move further on."
+  },
+  {
+    "id": "p-239bd8",
+    "offset": 23659,
+    "text": "THEUROPIDES:\nTroth, you give good advice."
+  },
+  {
+    "id": "p-3bc453",
+    "offset": 23702,
+    "text": "SIMO:\n(calling at the door.)\nHo there, boy! take this person round this house and the apartments. But I myself would have shown you round, if I hadn’t had business at the Forum."
+  },
+  {
+    "id": "p-76b16c",
+    "offset": 23881,
+    "text": "THEUROPIDES:\nAway with any one to show me over. I don’t want to be shown over. Whatever it is, I’d rather go wrong than any one should show me over."
+  },
+  {
+    "id": "p-3abcc5",
+    "offset": 24031,
+    "text": "SIMO:\nThe house I’m speaking of."
+  },
+  {
+    "id": "p-bc75a9",
+    "offset": 24065,
+    "text": "THEUROPIDES:\nThen I’ll go in without any one to show me over."
+  },
+  {
+    "id": "p-c1c00d",
+    "offset": 24128,
+    "text": "SIMO:\nGo, by all means."
+  },
+  {
+    "id": "p-a98fe6",
+    "offset": 24153,
+    "text": "THEUROPIDES:\nI’ll go in-doors, then."
+  },
+  {
+    "id": "p-11f660",
+    "offset": 24191,
+    "text": "TRANIO:\n(holding him back.)\nStop, please; let me see whether the dog—"
+  },
+  {
+    "id": "p-abc8bd",
+    "offset": 24262,
+    "text": "THEUROPIDES:\nVery well then, look.\n(TRANIO looks into the passage.)"
+  },
+  {
+    "id": "p-b7a79f",
+    "offset": 24331,
+    "text": "TRANIO:\nThere is one."
+  },
+  {
+    "id": "p-a4548e",
+    "offset": 24354,
+    "text": "THEUROPIDES:\n(looking in.)\nWhere is it?"
+  },
+  {
+    "id": "p-26f107",
+    "offset": 24395,
+    "text": "TRANIO:\n(to the dog.)\nBe off and be hanged!’st, won’t you be off to utter perdition with you? What, do you still linger?’st, away with you from here!"
+  },
+  {
+    "id": "p-9201ff",
+    "offset": 24546,
+    "text": "SIMO:\n(coming nearer to the door.)\nThere’s no danger. You only move on. It’s as gentle as a woman in childbed. You may boldly step in-doors wherever you like. I’m going hence to the Forum."
+  },
+  {
+    "id": "p-ead692",
+    "offset": 24736,
+    "text": "THEUROPIDES:\nYou’ve acted obligingly. Good speed to you. (Exit SIMO.) Tranio, come, make that dog move away from the door inside, although it isn’t to be feared."
+  },
+  {
+    "id": "p-6b7f4a",
+    "offset": 24899,
+    "text": "TRANIO:\nNay but (pointing), you look at it, how gently it lies. Unless you’d like yourself to appear troublesome and cowardly—"
+  },
+  {
+    "id": "p-df1c01",
+    "offset": 25027,
+    "text": "THEUROPIDES:\nVery well, just as you like."
+  },
+  {
+    "id": "p-8d183b",
+    "offset": 25070,
+    "text": "TRANIO:\nFollow me this way then."
+  },
+  {
+    "id": "p-9db0fc",
+    "offset": 25104,
+    "text": "THEUROPIDES:\nFor my part, I shall not move in any direction from your feet.\n(They go into the house.)"
+  }
+]

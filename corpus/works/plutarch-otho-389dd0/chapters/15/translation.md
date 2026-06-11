@@ -1,0 +1,29 @@
+---
+work_id: "389dd010-2baf-5ba3-ae13-1debacbe8a89"
+work_slug: "plutarch-otho-389dd0"
+work_title: Otho
+author_name: Plutarch
+chapter_number: 15
+chapter_title: Chapter 15
+chapter_slug: 15
+variant_id: "06b3dce8-aafd-5182-8a9e-b08f9ecb76ae"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 456
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg066.perseus-eng2:15"
+translator: Bernadotte Perrin
+---
+
+To Otho there came at first, as is usual in such catastrophes, an indistinct rumour of the result; but presently some of his soldiers who had been wounded came with direct tidings of the battle. Here one cannot so much wonder that his friends would not let him give up all for lost, and exhorted him to be of good cheer; but the feelings of his soldiers towards him passed all belief. Not a man of them left him, or went over to the victorious side, or was seen to despair of the emperor’s cause and seek his own safety, but all alike came to his door, called upon him as emperor, became his humble suppliants when he appeared before them, seized his hands with cries and prayers, fell down before him, wept, begged him not to abandon them, and not to betray them to their enemies, but to use their lives and persons in his service as long as they had breath.
+
+Such were their united supplications. And one obscure soldier held up his sword, and with the words Know, O Caesar, that all of us stand in this fashion at thy side, slew himself. None of these things, however, broke Otho down, but looking all around with a countenance composed and cheerful, he said: This day, my fellow-soldiers, I deem more blessed than that on which ye first made me emperor, since I see you so devoted to me and am judged worthy of so high honour at your hands.
+
+But do not rob me of a greater blessedness-that of dying nobly in behalf of fellow-citizens so many and so good. If I was worthy to be Roman emperor, I ought to give my life freely for my country. I know that the victory of our adversaries is neither decisive nor assured. I have word that our forces from Mysia are already approaching the Adriatic, and are only a few days distant from us.
+
+Asia, Syria, Egypt, and the armies fighting against the Jews, are on our side; the senate, too, is with us, as well as the wives and children of our adversaries. Still, it is not to defend Italy against Hannibal, or Pyrrhus, or the Cimbri, that our war is waged, but both parties are waging war against Romans, and we sin against our country whether we conquer or are conquered. For the victor’s gain is our country’s loss.
+
+Believe me when I insist that I can die more honourably than I can reign. For I do not see how my victory can be of so great advantage to the Romans as my offering up my life to secure peace and concord, and to prevent Italy from beholding such a day again.

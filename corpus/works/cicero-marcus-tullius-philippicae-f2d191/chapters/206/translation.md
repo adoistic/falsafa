@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 206
+chapter_title: Chapter 12
+chapter_slug: 206
+variant_id: "95279bd6-f740-5807-a92f-42d0c9ddd05c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 508
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:206"
+translator: Perseus Digital Library
+---
+
+I therefore give my vote, O conscript fathers, that the most honorable monument possible be erected to the soldiers of the Martial legion, and to those soldiers also who died fighting by their side. Great and incredible are the services done by this legion to the republic. This was the first legion to tear itself from the piratical band of Antonius; this was the legion which encamped at Alba; this was the legion that went over to Caesar; and it was in imitation of the conduct of this legion that the fourth legion has earned almost equal glory for its virtue. The fourth is victorious without having lost a man; some of the Martial legion fell in the very moment of victory. Oh happy death, which, due to nature, has been paid in the cause of one's country! But I consider you men born for your country; you whose very name is derived from Mars, so that the same god who begot this city for the advantage of the nations, appears to have begotten you for the advantage of this city. Death in flight is infamous; in victory glorious. In truth, Mars himself seems to select all the bravest men from the battle array. Those impious men whom you slew, shall even in the shades below pay the penalty of their parricidal treason. But you, who have poured forth your latest breath in victory, have earned an abode and place among the pious. A brief life has been allotted to us by nature; but the memory of a well-spent life is imperishable. And if that memory were no longer than this life, who would be so senseless as to strive to attain even the highest praise and glory by the most enormous labors and dangers?
+
+You then have fared most admirably, being the bravest of soldiers while you lived, and now the most holy of warriors, because it will be impossible for your virtue to be buried, either through the forgetfulness of the men of the present age, or the silence of posterity, since the senate and Roman people will have raised to you an imperishable monument, I may almost say with their own hands. Many armies at various times have been great and illustrious in the Punic, and Gallic, and Italian wars; but to none of them have honors been paid of the description which are now conferred on you. And I wish that we could pay you even greater honors, since we have received from you the greatest possible services. You it was who turned aside the furious. Antonius from this city; you it was who repelled him when endeavoring to return. There shall therefore be a vast monument erected with the most sumptuous work and an inscription engraved upon it as the everlasting witness of your godlike virtue And never shall the most grateful language of all who either see or hear of your monument cease to be heard And in this manner you, in exchange for your mortal condition of life, have attained immortality.

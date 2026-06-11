@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 98
+chapter_title: "Chapter text=A:book=5:letter=4"
+chapter_slug: 98
+variant_id: "b9bb6a15-2f9d-5823-bc0a-a2fe7a25b143"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 643
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:98"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) BENEVENTUM, 12 MAY
+
+I ARRIVED at Beneventum on the 11th of May. There I received the letter which in your previous letter (answered by me the same day from Pontius's Trebulanum) you had mentioned having sent. And, indeed, I have received two letters from you at Beneventum, one delivered to me by Funisulanus early in the morning, and a second handed to me by my secretary Tullius. I am much obliged by the pains you have taken about my first and most important commission: but your leaving town rather damps my hopes. As to the man you mention, I am coming round in that direction, not that -, but we are forced to be content with him for want of a better. About the other one, of whom you say that he appeared to you to be not unsuitable—I am afraid my daughter could not be persuaded, and you admit that there is not a pin to choose between them. For my part, I am not unreasonable; but you will be away, and will not, therefore, have a hand in the business in my absence. For if either of. us were on the spot, some fairly satisfactory arrangement might be made with Servius, with Servilia to back him. As at present situated, even though it should be a thing I like, I don't see how I can do anything. Now I come to the letter delivered to me by Tullius. You have been very energetic about Marcellus. Accordingly, if the decree has passed the senate, please write me word: but if not, do your best to get the business through; for a grant must be made to me, as also to Bibulus. I have no doubt of the decree of the senate being passed without difficulty, especially considering that it is a gain to the people. As to Torquatus, excellent! As to Mason and Ligur, that will do when they have come. As to the request of Chaerippus: since in this case also you have given me no "tip,"... "Bother your province! Must I look after him too?" Yes; but only so far as to prevent there being any obstructive "debate!" or "count!" in the senate. For as to the rest—, however, thank you for speaking to Scrofa. As to what you say about Pomptinus, I quite agree. For the upshot is that, if he is going to be at Brundisium before the 1st of June, M. Annius and L. Tullius need not have been so much hurried. As to what you have heard from Sicinius, I quite assent, provided only that this restriction does not apply to anyone who has done me a service. But I will turn the matter over, for I quite approve of it in principle. I will let you know what I have settled as to the plan of my journey, and also what Pompey means to do about the five prefects, when I have learnt it from himself. As to Oppius, you have acted quite rightly in having assured him of the 800 sestertia; and since you have Philotimus with you, pray see the business through; examine the account, and, as you love me, settle it before leaving town. You will have relieved me of a great anxiety. Now I have answered all your letter: but stay! I almost omitted your being short of paper. The loss is mine, if for lack of it your letter to me is curtailed. Why, you cost me a couple of hundred sesterces: though how stingy I am in this particular the cramped nature of this page shews you: while in return I expect from you a gazette of events, rumours, or even anything you know for certain about Caesar. Be sure you give a letter to Pomptinus, as well as to others, on every imaginable topic.

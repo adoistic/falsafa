@@ -1,0 +1,38 @@
+{
+  "work_slug": "didache-didache-911275",
+  "work_title": "Didache",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "59960250-912b-55b8-bb4b-90fbddd427b0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 97,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1311.tlg001.1st1K-grc1:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14b08a7a-0337-5cdd-915a-48e7e97ed9c9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 131,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1311.tlg001.perseus-eng1:13"
+    }
+  ]
+}

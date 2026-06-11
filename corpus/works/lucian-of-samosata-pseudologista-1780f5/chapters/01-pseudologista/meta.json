@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-pseudologista-1780f5",
+  "work_title": "Pseudologista",
+  "chapter_number": 1,
+  "chapter_title": "Pseudologista",
+  "chapter_slug": "01-pseudologista",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "89d8495c-8261-5037-8f09-fd59649133c6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3924,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg049.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56ff91a9-f434-5789-a7b8-5525f5089c6e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5462,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg049.perseus-eng2"
+    }
+  ]
+}

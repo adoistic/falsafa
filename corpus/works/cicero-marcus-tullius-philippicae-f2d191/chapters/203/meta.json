@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 203,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "203",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4e8eabf-d88c-5be7-af3a-02cd926c2ac4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 303,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:203"
+    }
+  ]
+}

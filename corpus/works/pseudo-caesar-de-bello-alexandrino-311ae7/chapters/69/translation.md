@@ -1,0 +1,21 @@
+---
+work_id: "311ae72f-0571-54bf-84ba-1c4cffbaf679"
+work_slug: "pseudo-caesar-de-bello-alexandrino-311ae7"
+work_title: De Bello Alexandrino
+author_name: "Pseudo-Caesar"
+chapter_number: 69
+chapter_title: Chapter 69
+chapter_slug: 69
+variant_id: "369f2a11-a9e0-5c2f-af79-e1ece3ee3b5d"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 194
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-eng1:69"
+translator: Perseus Digital Library
+---
+
+On his arrival in Pontus Caesar mustered his whole force at a single rendezvous. It was but a modest force both numerically and in practical experience in the field; for apart from the Sixth legion, which he had brought with him from Alexandria—and this, being a veteran one with a long record of hazardous and strenuous achievements, had lost so many men, due partly to the difficulties of transit both by land and sea, partly to the frequency of its campaigns, and was now so much below strength as to comprise less than one thousand troops—apart from the Sixth, the remainder of the force consisted of three legions—one belonging to Deiotarus, and the two which had taken part in that engagement which Cn. Domitius fought with Pharnaces, as I have related. Whereupon envoys sent by Pharnaces approached Caesar and first and foremost entreated him not to approach their country in any hostile spirit, since Pharnaces would carry out all his instructions. In particular they reminded Caesar that Pharnaces had refused to provide Pompeius with any auxiliary troops for use against Caesar; whereas Deiotarus, who had provided them, had none the less given him satisfaction.
