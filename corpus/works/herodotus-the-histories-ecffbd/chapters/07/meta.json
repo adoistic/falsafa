@@ -1,0 +1,26 @@
+{
+  "work_slug": "herodotus-the-histories-ecffbd",
+  "work_title": "The Histories",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b965b151-600a-568d-86f9-bc4daaa8b32f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 33963,
+      "paragraph_count": 611,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:7"
+    }
+  ]
+}

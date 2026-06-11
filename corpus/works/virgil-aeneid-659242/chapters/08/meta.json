@@ -1,0 +1,26 @@
+{
+  "work_slug": "virgil-aeneid-659242",
+  "work_title": "Aeneid",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7214621e-85e8-5680-b136-eb3ac7e4fcd9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7356,
+      "paragraph_count": 221,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-eng2:8"
+    }
+  ]
+}

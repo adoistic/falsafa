@@ -1,0 +1,26 @@
+{
+  "work_slug": "plato-republic-2bf014",
+  "work_title": "Republic",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e2b1814-65ee-5e43-b804-35380b5a2ad3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11218,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2:8"
+    }
+  ]
+}

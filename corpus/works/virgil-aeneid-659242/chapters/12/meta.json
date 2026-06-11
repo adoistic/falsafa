@@ -1,0 +1,26 @@
+{
+  "work_slug": "virgil-aeneid-659242",
+  "work_title": "Aeneid",
+  "chapter_number": 12,
+  "chapter_title": "Book 12",
+  "chapter_slug": "12",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bdbc580b-fed8-5887-80df-e1e71f036e81",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9759,
+      "paragraph_count": 323,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-eng2:12"
+    }
+  ]
+}

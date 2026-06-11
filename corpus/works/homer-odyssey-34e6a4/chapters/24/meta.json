@@ -1,0 +1,26 @@
+{
+  "work_slug": "homer-odyssey-34e6a4",
+  "work_title": "Odyssey",
+  "chapter_number": 24,
+  "chapter_title": "Book 24",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1237842c-9234-5390-9342-ee13b225b54e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5278,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:24"
+    }
+  ]
+}

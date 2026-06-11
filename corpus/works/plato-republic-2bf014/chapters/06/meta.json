@@ -1,0 +1,26 @@
+{
+  "work_slug": "plato-republic-2bf014",
+  "work_title": "Republic",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f46667bd-aad7-5e4b-b4e0-34b13baa9e45",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12499,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2:6"
+    }
+  ]
+}

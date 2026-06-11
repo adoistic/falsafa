@@ -1,0 +1,26 @@
+{
+  "work_slug": "plato-republic-2bf014",
+  "work_title": "Republic",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61d03701-90ae-5f93-9842-fc300d6ee5e3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13425,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2:1"
+    }
+  ]
+}

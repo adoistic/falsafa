@@ -1,0 +1,26 @@
+{
+  "work_slug": "plato-crito-33befc",
+  "work_title": "Crito",
+  "chapter_number": 1,
+  "chapter_title": "Crito",
+  "chapter_slug": "01-crito",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "452b1e78-71ae-5178-8519-554444728c4a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5709,
+      "paragraph_count": 102,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg003.perseus-eng2"
+    }
+  ]
+}

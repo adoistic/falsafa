@@ -1,0 +1,26 @@
+{
+  "work_slug": "thucydides-history-of-the-peloponnesian-war-af5aa9",
+  "work_title": "History of the Peloponnesian War",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6753d9be-c402-5fbc-83e0-69a801c687bf",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 24362,
+      "paragraph_count": 365,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng2:7"
+    }
+  ]
+}

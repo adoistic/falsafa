@@ -1,0 +1,26 @@
+{
+  "work_slug": "homer-iliad-056ee9",
+  "work_title": "Iliad",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d5402ff-72bb-5122-bda6-8f04acfce759",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5927,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:1"
+    }
+  ]
+}

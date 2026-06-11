@@ -1,0 +1,26 @@
+{
+  "work_slug": "plato-republic-2bf014",
+  "work_title": "Republic",
+  "chapter_number": 9,
+  "chapter_title": "Book 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eeac5973-61f0-5989-9b2f-3bd7459d808d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9826,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2:9"
+    }
+  ]
+}

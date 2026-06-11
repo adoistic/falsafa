@@ -1,0 +1,26 @@
+{
+  "work_slug": "homer-odyssey-34e6a4",
+  "work_title": "Odyssey",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ded2cb5-4fb1-5b76-8c53-366a3028bfec",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5706,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:8"
+    }
+  ]
+}

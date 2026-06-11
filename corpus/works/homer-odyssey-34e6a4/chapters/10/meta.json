@@ -1,0 +1,26 @@
+{
+  "work_slug": "homer-odyssey-34e6a4",
+  "work_title": "Odyssey",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "26f18b49-40c2-5a50-8862-333b3454f9a8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5748,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:10"
+    }
+  ]
+}

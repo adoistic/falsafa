@@ -1,0 +1,26 @@
+{
+  "work_slug": "herodotus-the-histories-ecffbd",
+  "work_title": "The Histories",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2761d34-8e10-54cf-a705-863e4a8364ff",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 29885,
+      "paragraph_count": 654,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:2"
+    }
+  ]
+}

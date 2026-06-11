@@ -1,0 +1,26 @@
+{
+  "work_slug": "plato-symposium-979601",
+  "work_title": "Symposium",
+  "chapter_number": 1,
+  "chapter_title": "Symposium",
+  "chapter_slug": "01-symposium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "034f567d-4cc2-5664-9d22-d44e6b4ceacd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 23681,
+      "paragraph_count": 91,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg011.perseus-eng2"
+    }
+  ]
+}

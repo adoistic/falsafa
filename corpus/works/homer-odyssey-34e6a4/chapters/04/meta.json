@@ -1,0 +1,26 @@
+{
+  "work_slug": "homer-odyssey-34e6a4",
+  "work_title": "Odyssey",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "02abe49f-131e-54f5-9427-d89929c45078",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8168,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:4"
+    }
+  ]
+}
