@@ -47,12 +47,13 @@ jobs:
           echo "file count: $(find dist -type f | wc -l)"
 
       - name: Deploy prebuilt dist to Netlify
+        working-directory: apps/site
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         run: |
           npx -y netlify-cli@17 deploy \
-            --dir=apps/site/dist \
+            --dir="$GITHUB_WORKSPACE/apps/site/dist" \
             --prod \
             --message "GHA build ${GITHUB_SHA::7}" \
             --site "$NETLIFY_SITE_ID" \
