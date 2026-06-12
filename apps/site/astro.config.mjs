@@ -1,14 +1,15 @@
 import { defineConfig } from "astro/config";
 import preact from "@astrojs/preact";
+import sitemap from "@astrojs/sitemap";
 
-// Falsafa site — fully static, deploys to Vercel free tier.
+// Falsafa site — fully static; built in CI and served by Netlify.
 // View transitions for the "feels like a single document" reading experience.
 // Preact powers the interactive launch islands (BYOK demo, eval explorer).
 export default defineConfig({
   site: "https://falsafa.ai",
   output: "static",
   trailingSlash: "always",
-  integrations: [preact()],
+  integrations: [preact(), sitemap()],
   build: {
     format: "directory",
   },
