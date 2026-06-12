@@ -58,14 +58,16 @@ problem.
   Netlify only serve.
 - Secrets set on the repo: `NETLIFY_AUTH_TOKEN`, `NETLIFY_SITE_ID`.
 
+### Done (2026-06-12)
+1. **DNS cut over.** falsafa.ai now serves the 1,148-work Netlify site over
+   HTTPS. GoDaddy DNS: apex A `@` → `75.2.60.5`, CNAME `www` →
+   `falsafaai.netlify.app`; Let's Encrypt cert; www 301→apex. Vercel is out of
+   the path. (A separate `evchangelog.falsafa.ai` Replit subdomain shares the
+   zone — leave its A/TXT alone.)
+2. **Sitemap fixed.** `@astrojs/sitemap` added; `/sitemap-index.xml` →
+   `/sitemap-0.xml` with 29,015 URLs canonical to falsafa.ai.
+
 ### Open items
-1. **DNS cutover pending.** falsafa.ai still points at **Vercel** and serves the
-   **old 949-work** site. DNS is at GoDaddy (ns39/ns40.domaincontrol.com),
-   no MX/TXT/CAA. To cut over: add falsafa.ai (+ www) in Netlify, then at
-   GoDaddy set A `@` → `75.2.60.5` and CNAME `www` → `falsafaai.netlify.app`.
-2. **No sitemap.** `/sitemap.xml` 404s (also 404 on current prod, so not a
-   regression). No `@astrojs/sitemap` configured, `site` not set in
-   astro.config.
 3. **No llms.txt** (optional; on-brand for the agent-callable story).
 4. **Frontend not designed for scale.** Homepage stats and browse views were
    built for tens of works, not 1,148. Numbers and layout read oddly.
