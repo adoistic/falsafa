@@ -630,3 +630,105 @@ a:focus-visible {
   padding: 0 2px;
   border-radius: 2px;
 }
+
+/* ── Privacy / cookie consent banner ─────────────────────────────────── */
+.consent {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 200;
+  background: var(--paper);
+  border-top: 1px solid var(--rule);
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.1);
+  transform: translateY(115%);
+  transition: transform 0.4s cubic-bezier(0.2, 0.7, 0.2, 1);
+  font-family: var(--font-sans);
+}
+.consent.show {
+  transform: translateY(0);
+}
+.consent-inner {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 18px 28px;
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  justify-content: space-between;
+}
+.consent-text {
+  max-width: 66ch;
+}
+.consent-title {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--ink);
+  margin-bottom: 3px;
+}
+.consent-text p {
+  font-size: 13px;
+  color: var(--ink-muted);
+  line-height: 1.5;
+}
+.consent-actions {
+  display: flex;
+  gap: 10px;
+  flex: 0 0 auto;
+}
+.consent-btn {
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 10px 20px;
+  border: 1px solid var(--accent);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+.consent-primary {
+  background: var(--accent);
+  color: var(--paper);
+}
+.consent-primary:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent-soft);
+}
+.consent-secondary {
+  background: transparent;
+  color: var(--accent);
+}
+.consent-secondary:hover {
+  background: var(--highlight);
+}
+.consent-manage {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  padding: 0;
+  margin-left: 8px;
+}
+.consent-manage:hover {
+  color: var(--accent-soft);
+}
+@media (max-width: 760px) {
+  .consent-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 16px 18px;
+  }
+  .consent-actions {
+    width: 100%;
+  }
+  .consent-btn {
+    flex: 1;
+  }
+}

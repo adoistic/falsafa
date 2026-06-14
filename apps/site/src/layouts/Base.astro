@@ -80,6 +80,45 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
         CSP, page-specific link rels, etc. Used by /try to inject a
         page-scoped Content-Security-Policy. */}
     <slot name="head" />
+
+    {/* Google Analytics 4 + Consent Mode v2 (region-aware) */}
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      window.FALSAFA_GA_ID = "G-PND1XP7420";
+
+      // No advertising — deny all ad storage everywhere. analytics_storage defaults
+      // to GRANTED (opt-out for US / India / rest)...
+      gtag("consent", "default", {
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        analytics_storage: "granted",
+        functionality_storage: "granted",
+        security_storage: "granted",
+        wait_for_update: 500,
+      });
+      // ...but DENIED in the EEA, UK and Switzerland, where consent must be opt-in
+      // (GDPR). Google enforces this by the visitor's IP, server-side.
+      gtag("consent", "default", {
+        analytics_storage: "denied",
+        region: ["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","IS","LI","NO","GB","CH"],
+      });
+      gtag("set", "ads_data_redaction", true);
+      gtag("set", "url_passthrough", true);
+
+      (function () {
+        var id = window.FALSAFA_GA_ID;
+        if (!id || id.indexOf("G-XXXX") === 0) return;
+        var s = document.createElement("script");
+        s.async = true;
+        s.src = "https://www.googletagmanager.com/gtag/js?id=" + id;
+        document.head.appendChild(s);
+        gtag("js", new Date());
+        gtag("config", id);
+      })();
+    </script>
+    <script is:inline src="/consent.js" defer></script>
   </head>
 
   <body>
@@ -202,6 +241,7 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
         Free, public, open-source. Built by
         <a href="https://meetadnan.com">Adnan</a>. Source on
         <a href="https://github.com/adoistic/falsafa">GitHub</a>.
+        <button id="cookie-prefs" class="consent-manage" type="button" style="display:none">Privacy choices</button>
       </div>
     </footer>
 
